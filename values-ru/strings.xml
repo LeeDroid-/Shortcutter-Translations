@@ -343,7 +343,8 @@
     <string name="select_day">Select Data Reset Day</string>
     <string name="data_cycle_reset">Data Usage Cycle</string>
     <string name="data_cycle_summary">Select the day of the month to measure data from (Usually your billing date)</string>
-    <string name="data_tile_summary">Shows Mobile Data Usage\n(Change cycle in Tile Settings)</string>
+    <string name="data_tile_summary">Shows Mobile Data Usage
+        \n(Change cycle in Tile Settings)</string>
     <string name="data_tile_title">Data Usage Tile</string>
     <string name="perms_required">Permissions need to be granted, Launching Shortcutter</string>
     <string name="failed_data_usage">Failed to launch data usage information</string>
@@ -351,32 +352,53 @@
     <string name="addtiles_title">How To Add QS Tiles</string>
     <string name="adding_qs_tiles">Adding QS Tiles</string>
     <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Pulldown Tile Settings\" tab & make your QS Tile selections.]]></string>
-    <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below, this is usually a pen icon.\n\n Samsung users hit the 3 dot menu and select rearrange tiles, your Shortcutter tiles will show in the bottom view.]]></string>
-    <string name="edit_view1">3. In the Edit View you will find 2/3 containers, you will see your new Shortcutter tiles in the bottom container.\n\nTo add them, simply long press and drag your chosen tiles up to the top (Active) container and exit the Edit View.</string>
-    <string name="edit_view_note">IMPORTANT NOTE:\n\n Due to a bug in Android N, you may struggle to add tiles, this can be worked around by doing the following.\n\nDrag and add all tiles from the 2nd container to your active container, then drag your new Shortcutter Tiles from the TOP of the list to the Active container.\n\nUnfortunately this is not something I can fix as it has nothing to do with the app.</string>
-    <string name="small">Font\nSmall</string>
-    <string name="large">Font\nLarge</string>
-    <string name="fontscale">Font\nSize</string>
-    <string name="defaultsize">Font\nDefault</string>
-    <string name="largest">Font\nLargest</string>
+    <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below, this is usually a pen icon.
+    \n\n Samsung users hit the 3 dot menu and select rearrange tiles, your Shortcutter tiles will show in the bottom view.]]></string>
+    <string name="edit_view1">3. In the Edit View you will find 2/3 containers, you will see your new Shortcutter tiles in the bottom container.
+        \n\nTo add them, simply long press and drag your chosen tiles up to the top (Active) container and exit the Edit View.</string>
+    <string name="edit_view_note">IMPORTANT NOTE:
+        \n\n Due to a bug in Android N, you may struggle to add tiles, this can be worked around by doing the following.
+        \n\nDrag and add all tiles from the 2nd container to your active container, then drag your new Shortcutter Tiles from the TOP of the list to the Active container.
+        \n\nUnfortunately this is not something I can fix as it has nothing to do with the app.</string>
+    <string name="small">Font
+        \nSmall</string>
+    <string name="large">Font
+        \nLarge</string>
+    <string name="fontscale">Font
+        \nSize</string>
+    <string name="defaultsize">Font
+        \nDefault</string>
+    <string name="largest">Font
+        \nLargest</string>
     <string name="fontscale_sum">Toggle system font size</string>
     <string name="font_scale_title">Font Scale</string>
-    <string name="powersave_disabled">Power Save\nDisabled</string>
-    <string name="powersave_enabled">Power Save\nEnabled</string>
+    <string name="powersave_disabled">Power Save
+        \nDisabled</string>
+    <string name="powersave_enabled">Power Save
+        \nEnabled</string>
     <string name="power_saver">Power Saver</string>
     <string name="power_save_summary">Toggle Power Saving mode</string>
     <string name="premium_only">Premium Only</string>
     <string name="prem_only_option">Premium Only Feature</string>
-    <string name="prem_only_message">This feature is only available in the Premium version of Shortcutter.\n\nPlease click GO PREMIUM now to enable the following features:\n\n \u2022 Additional Custom App Tiles\n \u2022 Additional Custom URL Tiles\n \u2022 Screen Recording &amp; Capture\n \u2022 Additional in-app configuration options\n \u2022 &amp; Remove the 20 tile click notification</string>
+    <string name="prem_only_message">This feature is only available in the Premium version of Shortcutter.
+        \n\nPlease click GO PREMIUM now to enable the following features:
+        \n\n \u2022 Additional Custom App Tiles
+        \n \u2022 Additional Custom URL Tiles
+        \n \u2022 Screen Recording &amp; Capture
+        \n \u2022 Additional in-app configuration options
+        \n \u2022 &amp; Remove the 20 tile click notification</string>
     <string name="no_thanks">No Thanks</string>
-    <string name="add_event">Add\nEvent</string>
+    <string name="add_event">Add
+        \nEvent</string>
     <string name="add_event_summary">Add A Calendar Event</string>
     <string name="add_event_title">Add Calendar Event</string>
     <string name="location_not_found">Location settings activity not found</string>
     <string name="power_not_found">Power settings activity not found</string>
     <string name="nfc_not_found">NFC settings activity not found</string>
     <string name="consider_prem">Shortcutter FREE</string>
-    <string name="consider_prem1">Thats 20 Shortcutter clicks! \n\nHave you considered showing your support and going Premium?\n\nThis notification will show every 20 tile clicks in the Free version.</string>
+    <string name="consider_prem1">Thats 20 Shortcutter clicks!
+        \n\nHave you considered showing your support and going Premium?
+        \n\nThis notification will show every 20 tile clicks in the Free version.</string>
     <string name="screenre_cat"><![CDATA[Screen Record & Capture]]></string>
     <string name="choose_entries">Choose Location Entries (2 Minimum)</string>
     <string name="conf_sel">Confirm Selection</string>
@@ -384,18 +406,30 @@
     <string name="settings_system_required">Write System Settings permission required - Toggle to enable</string>
     <string name="usage_access_required">Usage Access permissions required - Toggle to enable</string>
     <string name="dnd_required">Do Not Distrurb access required - Toggle to enable</string>
-    <string name="accessibility_description">Allows shortcutter to perform the following accessibility actions\n\n\u2022 Toggle Split Screen\n\u2022 Toggle Recent Apps\n\u2022 Show Power Menu\n\u2022 Detect Activities - Required for Screen Filter and Screen Corners, these services will be stopped when apps are being installed and permissions are being granted.</string>
+    <string name="accessibility_description">Allows shortcutter to perform the following accessibility actions
+        \n\n\u2022 Toggle Split Screen
+        \n\u2022 Toggle Recent Apps
+        \n\u2022 Show Power Menu
+        \n\u2022 Detect Activities - Required for Screen Filter and Screen Corners, these services will be stopped when apps are being installed and permissions are being granted.</string>
     <string name="power_dialog">Power Dialog</string>
     <string name="split_screen">Multi Window</string>
-    <string name="lock_screen">Lock\nScreen</string>
+    <string name="lock_screen">Lock
+        \nScreen</string>
     <string name="screen_lock_admin">Required to use the \"Lock Screen\" Quick Settings Tile</string>
     <string name="acc_needed">Accessibility access required</string>
     <string name="recents_sum">Opens the recent apps screen</string>
-    <string name="acc_needed_long">Shortcutter requires Accessibility access to toggle\n\n\u2022 Recent Apps\n\u2022 Power Menu\n\u2022 Split Screen\n\u2022 Detect Activities\n - Required for Screen Filter and Screen Corners, these services will be stopped when apps are being installed and permissions are being granted.\n\nClick proceed, go to Shortcutter and enable the service.\n\n</string>
+    <string name="acc_needed_long">Shortcutter requires Accessibility access to toggle
+        \n\n\u2022 Recent Apps
+        \n\u2022 Power Menu
+        \n\u2022 Split Screen
+        \n\u2022 Detect Activities
+        \n - Required for Screen Filter and Screen Corners, these services will be stopped when apps are being installed and permissions are being granted.
+        \n\nClick proceed, go to Shortcutter and enable the service.\n\n</string>
     <string name="split_sum">Toggle Split Screen / Multi Window Mode</string>
     <string name="power_sum">Open the power menu</string>
     <string name="admin_needed">Admin rights required</string>
-    <string name="admin_needed_long">Shortcutter requires Admin privileges to lock your device screen.\n\nPlease press proceed and enable Admin rights to use this QS Tile.\n\n</string>
+    <string name="admin_needed_long">Shortcutter requires Admin privileges to lock your device screen.
+        \n\nPlease press proceed and enable Admin rights to use this QS Tile.\n\n</string>
     <string name="lock_sum">Locks your screen</string>
     <string name="immersivemode">Select Immersive Mode</string>
     <string name="immersive_active">Immersive Mode Active</string>
@@ -404,8 +438,10 @@
     <string name="search_summary">Opens Google Search</string>
     <string name="voice_search_tile">Voice Command</string>
     <string name="voicesearch_sum">Launch Google Assistant</string>
-    <string name="inear_on">In Ear\nEnabled</string>
-    <string name="inear_off">In Ear\nDisabled</string>
+    <string name="inear_on">In Ear
+        \nEnabled</string>
+    <string name="inear_off">In Ear
+        \nDisabled</string>
     <string name="inear_audio">In Ear Audio</string>
     <string name="disable">Disable</string>
     <string name="inear_audio_active">In Ear Audio Active</string>
@@ -414,18 +450,25 @@
     <string name="volUp">Volume +</string>
     <string name="volDown">Volume -</string>
     <string name="cur_vol">Current Volume = </string>
-    <string name="click_disable">%\n Click the tile to disable</string>
-    <string name="pause">Pause\nMusic</string>
-    <string name="play">Play\nMusic</string>
+    <string name="click_disable">%
+        \n Click the tile to disable</string>
+    <string name="pause">Pause
+        \nMusic</string>
+    <string name="play">Play
+        \nMusic</string>
     <string name="play_pause">Play/Pause Music</string>
     <string name="play_pause_sum">Play and Pause music</string>
-    <string name="overlay_needed"><![CDATA[The Shortcutter Floating Toolbox requires the Draw System Overlay permission to run.\n\nPlease click proceed & grant the required permission.\n]]></string>
+    <string name="overlay_needed"><![CDATA[The Shortcutter Floating Toolbox requires the Draw System Overlay permission to run.
+    \n\nPlease click proceed & grant the required permission.\n]]></string>
     <string name="overlay_required">System overlay permissions required</string>
-    <string name="mob_data">Mobile\nData</string>
+    <string name="mob_data">Mobile
+        \nData</string>
     <string name="mob_dat_sum">Toggle mobile data on/off</string>
     <string name="toolbox">Toolbox</string>
-    <string name="immersive_on">Immersive\nOn</string>
-    <string name="immersive_off">Immersive\nOff</string>
+    <string name="immersive_on">Immersive
+        \nOn</string>
+    <string name="immersive_off">Immersive
+        \nOff</string>
     <string name="wake_active">Screen Wake Active</string>
     <string name="floating_toolbox">Enable SideBar/Toolbox</string>
     <string name="float_summary">A swipe out SideBar or floating quick access panel</string>
@@ -450,7 +493,8 @@
     <string name="swipe_up">Swipe up from the bottom to dismiss</string>
     <string name="choose_application">Choose An Application</string>
     <string name="lock_screen_title">Lock Screen</string>
-    <string name="auto_rotate">Auto\nRotate</string>
+    <string name="auto_rotate">Auto
+        \nRotate</string>
     <string name="portrait">Portrait</string>
     <string name="landscape">Landscape</string>
     <string name="orientation_mode">Screen Rotation</string>
@@ -462,7 +506,8 @@
     <string name="dataroam_summary">Toggle Data Roaming</string>
     <string name="quick_tiles_title">Number Of Tiles In Collapsed View</string>
     <string name="other_settings">Misc Settings</string>
-    <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed pulldown.\nThis MOD is manufacturer dependent.</string>
+    <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed pulldown.
+        \nThis MOD is manufacturer dependent.</string>
     <string name="sidebar">SideBar/Floating Toolbox</string>
     <string name="sidebar_summary">Toggle between the Swipe Out SideBar or Floating Toolbox.</string>
     <string name="sidebar_pos">Horizontal Trigger Position</string>
@@ -492,9 +537,12 @@
     <string name="design_settings">Theme/Layout</string>
     <string name="leedroid">www.LeeDrOiD.co.uk</string>
     <string name="swipe_trigger">SWIPE TRIGGER INWARDS TO OPEN</string>
-    <string name="round_off">Rounded\nCorners Off</string>
-    <string name="round_on">Rounded\nCorners On</string>
-    <string name="round_title">Rounded\nCorners On</string>
+    <string name="round_off">Rounded
+        \nCorners Off</string>
+    <string name="round_on">Rounded
+        \nCorners On</string>
+    <string name="round_title">Rounded
+        \nCorners</string>
     <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
     <string name="corners_title">Rounded Corners Tile</string>
     <string name="corners__scale_title">Screen Corner Scale</string>
@@ -517,7 +565,12 @@
     <string name="corners_active">Round Corners Active</string>
     <string name="misc_cat">Expose Other Toggles</string>
     <string name="misc_tiles_cat">Miscellaneous Tile Settings</string>
-    <string name="shortcutter_permissions">Shortcutter requires several core permissions in order to function correctly.\n\nWe will now request the required permissions before proceeding to the next page\n\n\u2022 Camera: Control Flashlight\n\u2022 Phone: Check network state\n\u2022 Storage: Screen Shots &amp; Recordings\n\u2022 Location: Weather &amp; Location.</string>
+    <string name="shortcutter_permissions">Shortcutter requires several core permissions in order to function correctly.
+        \n\nWe will now request the required permissions before proceeding to the next page
+        \n\n\u2022 Camera: Control Flashlight
+        \n\u2022 Phone: Check network state
+        \n\u2022 Storage: Screen Shots &amp; Recordings
+        \n\u2022 Location: Weather &amp; Location.</string>
     <string name="fancy_anim">Reflow Pulldown Animation</string>
     <string name="fancy_summary">Enable/Disable the fancy reflow pulldown animation</string>
     <string name="configurable">Shortcutter tiles with a blue bar have additional options, these options can be found in the "Configure Services/Tiles" tab.</string>
@@ -553,5 +606,12 @@
     <string name="swipe_out">Swipe out to dismiss</string>
     <string name="choose_ring_entries">Choose Ring Mode Entries (2 Minimum)</string>
     <string name="qs_head_title">QS Header Tiles</string>
-    <string name="acc_needed_corners">This overlay requires Accessibility access to:\n\n \u2022 Detect secure activities.\n\nIf a secure activity is detected, this overlay will automatically stop.\n\nClick proceed, go to Shortcutter and enable the service.\n\n</string>
+    <string name="acc_needed_corners">This overlay requires Accessibility access to:
+        \n\n \u2022 Detect secure activities.
+        \n\nIf a secure activity is detected, this overlay will automatically stop.
+        \n\nClick proceed, go to Shortcutter and enable the service.\n\n</string>
+    <string name="filter_off_secure">Screen Filter Off
+        \nSecure activity detected</string>
+    <string name="corners_off_secure">Screen Corners Off
+        \nSecure activity detected</string>
 </resources>
