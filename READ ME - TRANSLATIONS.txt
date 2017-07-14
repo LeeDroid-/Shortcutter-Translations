@@ -1,0 +1,26 @@
+﻿Be sure not to touch any special characters.
+
+Do not change the order of any rows.
+
+only translate strings between meta tags. <string name="resource_name_tage"> TRANSLATE HERE </Strings>
+
+Example special characters:
+
+\n 			- denotes a new line. 
+;&amp 			- escapes the & character.
+\u2022 			- a bullet point.
+<![CDATA[ & ^ £ ]]	- escapes all special characters inside the square brackets.
+%1$d			- dynamic code placeholder
+
+
+Translation Example 1:
+
+English <string name="prem_only_message">This feature is only available in the Premium version of Shortcutter.\n\nPlease click GO PREMIUM now &amp; enable the below features.\n\n \u2022 4x Custom App Tiles\n \u2022 4x Custom URL Tiles\n \u2022 Screen Recording Tile\n \u2022 Screen Capture Tile\n\nGoing premium will also:\n\n \u2022 Remove ALL Advertising\n \u2022 Remove the 20 tile click notification</string>
+
+Polish  <string name="prem_only_message">Ta funkcja działa tylko w wersji Premium Shortcutter.\n\nProszę kliknąć KUP PREMIUM &amp; włączysz nowe funkcje.\n\n \u2022 4x Własne Płytki Aplikacji\n \u2022 4x Własne Płytki URL\n \u2022 Płytka Nagrywania Ekranu\n \u2022 Płytka Zrzutu Ekranu\n\nBędzie również premia\n\n \u2022 Usuniesz Wszystkie Reklamy\n \u2022 Usuniesz limit 20 kliknięć płytek powiadomień</string>
+
+Translation Example 2:
+
+English <string name="manual_secure_summary">Grant Shortcutter access to Settings Secure to enable additional QS Tiles (A PC &amp; ADB knowledge is required)</string>
+
+Polish <string name="manual_secure_summary">Przyznaj Shortcutter dostęp do Ustawień Zabezpieczeń i włącz dostęp do nowych Płytek QS (PC &amp; ADB włączone wymagane)</string>
