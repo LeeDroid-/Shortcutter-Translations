@@ -24,3 +24,15 @@ Translation Example 2:
 English <string name="manual_secure_summary">Grant Shortcutter access to Settings Secure to enable additional QS Tiles (A PC &amp; ADB knowledge is required)</string>
 
 Polish <string name="manual_secure_summary">Przyznaj Shortcutter dostęp do Ustawień Zabezpieczeń i włącz dostęp do nowych Płytek QS (PC &amp; ADB włączone wymagane)</string>
+
+LANGUAGES:
+
+values 		- 	English - DO NOT TOUCH
+values-de	-	German
+values-fr	-	French
+values-it	-	Italian
+values-nl	-	Dutch
+values-pl	-	Polish
+values-ru	-	Russian
+values-tr	-	Turkish
+values-zh	-	Chinese
