@@ -321,7 +321,6 @@
     <string name="home">Home</string>
     <string name="dice_desc_range">Select a custom number range for the Dice Tile</string>
     <string name="dice_tile_range">Dice Tile Range</string>
-    <string name="select_range">Select a range</string>
     <string name="nfc_enabled">NFC
         \nEnabled</string>
     <string name="nfc_disabled">NFC
@@ -614,4 +613,7 @@
         \nSecure activity detected</string>
     <string name="corners_off_secure">Screen Corners Off
         \nSecure activity detected</string>
+    <string name="alphaUp">Opacity +</string>
+    <string name="alphaDown">Opacity -</string>
+    <string name="transparency">Opacity =&#160;</string>
 </resources>
