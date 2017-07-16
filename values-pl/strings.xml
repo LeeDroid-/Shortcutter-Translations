@@ -15,7 +15,7 @@
     <string name="battery_saving">Oszczędzanie Baterii</string>
     <string name="high_accuracy">Wysoka Dokładność</string>
     <string name="heads_up_enabled">Włącz Heads Up</string>
-    <string name="special_perms_command">Once complete, click confirm and we will test access, if it didsnt work, try again.</string>
+    <string name="special_perms_command">Po zakończeniu, kliknij przycisk Potwierdź i przetestujemy dostęp, jeśli się nie uda, spróbuj ponownie.</string>
     <string name="special_perms_required">"Wymagane specjalne uprawnienia
 	    \n\nSpróbuj uruchomić: "</string>
     <string name="wifi_call_disabled">Wyłącz Wi-Fi Calling</string>
@@ -97,7 +97,7 @@
     <string name="proceed">Kontynuuj</string>
     <string name="system_perms_message">Niektóre płytki wymagają zapisu ustawień systemowych, jeśli nie możemy dostać tych uprawnień w normalnym stylu, trzeba je włączyć. 
 	    \n\nKliknij kontynuuj i zostaniesz przeniesiony do odpowiedniego ekranu.\n</string>
-    <string name="press_back">Press back to return once enabled.</string>
+    <string name="press_back">Naciśnij przycisk Wstecz, aby powrócić po włączeniu.</string>
     <string name="enable">WŁĄCZ</string>
     <string name="credits">Podziękowania</string>
     <string name="full_title">Shortcutter Quick Settings</string>
@@ -300,7 +300,7 @@
         \n\n\u2022 Lee Bailey (AKA @LeeDrOiD)\n\n Translations By:
         \n\n\u2022 SoLdieR9312 - German\n\u2022 @Linar10 - Polish
         \n\u2022 范家安(金发大表哥) - Chinese
-        \n\nIf you are interested in helping me translate the app, drop me an email using the Email Feedback option in the menu</string>
+        \n\n</string>
     <string name="file_tile">Przeglądarka
 	    \nPlików</string>
     <string name="file_summary">Uruchamia domyślną przeglądarkę plików</string>
@@ -351,7 +351,7 @@
     <string name="how_to">Prosty przewodnik jak dodawać płytki Shortcutter do szybkich ustawień.</string>
     <string name="addtiles_title">Jak Dodawać Płytki QS</string>
     <string name="adding_qs_tiles">Dodawanie Płytek QS</string>
-    <string name="select_tiles"><![CDATA[1. Idź do zakładki w Shortcutter \"Pulldown Tile Settings\" & wybierz swoje Płytki QS.]]></string>
+    <string name="select_tiles"><![CDATA[1. Idź do zakładki w Shortcutter \"Ustawienia Opuszczanych Płytek\" & wybierz swoje Płytki QS.]]></string>
     <string name="edit_view"><![CDATA[2. Pociągnij w dół pasek stanu, a następnie naciśnij przycisk Edytuj, aby dodać płytki do ustawień (Zazwyczaj ikona pióra).]]></string>
     
 	<string name="edit_view1">3. W widoku edycji znajdziecie 3 pojemniki, nowe Płytki Shortcutter są w 3 pojemniku.
@@ -457,8 +457,8 @@
 	    \nMuzyka</string>
     <string name="play_pause">Play/Pauza Muzyka</string>
     <string name="play_pause_sum">Play i Pauza Muzyki</string>
-    <string name="overlay_needed"><![CDATA[The Shortcutter Floating Toolbox requires the Draw System Overlay permission to run.
-	    \n\nPlease click proceed & grant the required permission.\n]]></string>
+    <string name="overlay_needed"><![CDATA[Pływający Shortcutter Toolbox Wymaga uruchomienia Nakładki Systemowej.
+	    \n\nProszę kliknij kontynuuj & udziel wymaganych uprawnień.\n]]></string>
     <string name="overlay_required">Wymagane uprawnienia nakładki systemowej</string>
     <string name="mob_data">Dane
 	    \nMobilne</string>
@@ -535,19 +535,19 @@
     <string name="sb_columns_title">Kolumny Paska Bocznego</string>
     <string name="design_settings">Motyw/Wygląd</string>
     <string name="leedroid">www.LeeDrOiD.co.uk</string>
-    <string name="swipe_trigger">SWIPE TRIGGER INWARDS TO OPEN</string>
-    <string name="round_off">Rounded
-	    \nCorners Off</string>
-    <string name="round_on">Rounded
-	    \nCorners On</string>
-    <string name="round_title">Rounded
-	    \nCorners On</string>
+    <string name="swipe_trigger">PRZESUŃ DO WEWNĄTRZ WYZWALACZA ABY OTWORZYĆ</string>
+    <string name="round_off">Zaokrąglone
+	    \nNarożniki Wył</string>
+    <string name="round_on">Zaokrąglone
+	    \nNarożniki Wł</string>
+    <string name="round_title">Zaokrąglone
+	    \nNarożniki Wł</string>
     <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
-    <string name="corners_title">Rounded Corners Tile</string>
-    <string name="corners__scale_title">Corner Scale</string>
+    <string name="corners_title">Płytka Zaokrąglonych Narożników</string>
+    <string name="corners__scale_title">Skalowanie Rogów</string>
     <string name="corners_scale_summary">Adjust the screen corner radius</string>
-    <string name="corner_colour">Select Corner Colour</string>
-    <string name="how_it_works">How It works</string>
+    <string name="corner_colour">Wybierz Kolor Rogów</string>
+    <string name="how_it_works">Jak to działa</string>
     <string name="how_it_works1">Shortcutter offers 4 different options to access up to 61 unique shortcuts, settings &amp; services in an instant.</string>
     <string name="how_it_works2">1. Via your Quick Settings Pull-down</string>
     <string name="how_it_works3">2 &amp; 3. Via the unique Shortcutter Swipe out SideBar or Floating Toolbox</string>
@@ -555,8 +555,8 @@
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
     <string name="config_serv">Konfiguruj Usługi/Płytki</string>
     <string name="enable_to_config">Włacz/Dodaj Płytki i konfiguruj</string>
-    <string name="expose_activity">Expose Launcher Icon</string>
-    <string name="expose_activity_summary">Access this toggle from your home screen or other apps.</string>
+    <string name="expose_activity">Wyeksponuj ikonę Launchera</string>
+    <string name="expose_activity_summary">Dostęp do tego przełącznika z ekranu głównego lub innych aplikacji.</string>
     <string name="wake_tile">Wybudzanie Ekranu</string>
     <string name="screenshot_root">Use Root Screenshot Method</string>
     <string name="screenshot_root_summary">Tworzy zrzut ekranu przy użyciu systemu</string>
