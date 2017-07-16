@@ -593,7 +593,7 @@
     <string name="celsius">Celcjusza</string>
     <string name="fahrenheit">Fahrenheit</string>
 	<string name="app_sig">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
-    <string name="humidity">Humidity:&#160;</string>
+    <string name="humidity">Wilgotność:&#160;</string>
     <string name="mylocation">Moja Lokalizacja</string>
     <string name="maps_link">Zobacz na Mapie</string>
     <string name="refresh">Odśwież</string>
@@ -604,7 +604,7 @@
     <string name="loading_map">Ładowanie Map....</string>
     <string name="swipe_out">Przesuń, aby odrzucić</string>
     <string name="choose_ring_entries">Wybierz pozycje trybu dzwonka (minimum 2)</string>
-    <string name="qs_head_title">Płytka Nagłówka QS Header</string>
+    <string name="qs_head_title">Płytka Nagłówka QS</string>
     <string name="acc_needed_corners">This overlay requires Accessibility access to:
         \n\n \u2022 Detect secure activities.
         \n\nIf a secure activity is detected, this overlay will automatically stop.
