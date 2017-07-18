@@ -557,12 +557,12 @@
     <string name="corners_active">Okrągłe rogi aktywne</string>
     <string name="misc_cat">Otwórz Inne Przełączniki</string>
     <string name="misc_tiles_cat">Różne Ustawienia Płytek</string>
-    <string name="shortcutter_permissions">Shortcutter requires several core permissions in order to function correctly.
-	   \n\nWe will now request the required permissions before proceeding to the next page
-	   \n\n\u2022 Camera: Control Flashlight
-	   \n\u2022 Phone: Check network state
-	   \n\u2022 Storage: Screen Shots &amp; Recordings
-	   \n\u2022 Location: Weather &amp; Location.</string>
+    <string name="shortcutter_permissions">Shortcutter wymaga kilku podstawowych uprawnień, aby prawidłowo działać.
+	   \n\nTeraz będziemy żądać wymaganych uprawnień przed przejściem na następną stronę
+	   \n\n\u2022 Aparat: Kontrola Latarki
+	   \n\u2022 Telefon: Sprawdź stan sieci
+	   \n\u2022 Pamięć: Zrzut Ekranu &amp; Nagrywanie
+	   \n\u2022 Lokalizacja: Pogoda &amp; Lokalizacja.</string>
     <string name="fancy_anim">Animacja Opuszczania</string>
     <string name="fancy_summary">Włącz / wyłącz płynną animację</string>
     <string name="configurable">Płytki z niebieskim paskiem mają dodatkowe opcje, te opcje można znaleźć na karcie "Konfigurowanie usług / płytek".</string>
@@ -586,7 +586,7 @@
     <string name="celsius">Celcjusza</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="app_sig">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
-    <string name="humidity">Humidity:&#160;</string>
+    <string name="humidity">Wilgotność:&#160;</string>
     <string name="mylocation">Moja Lokalizacja</string>
     <string name="maps_link">Zobacz na Mapie</string>
     <string name="refresh">Odśwież</string>
@@ -598,10 +598,10 @@
     <string name="swipe_out">Przesuń, aby odrzucić</string>
     <string name="choose_ring_entries">Wybierz pozycje trybu dzwonka (minimum 2)</string>
     <string name="qs_head_title">Płytka Nagłówka QS Header</string>
-    <string name="acc_needed_corners">This overlay requires Accessibility access to:
-        \n\n \u2022 Detect secure activities.
-        \n\nIf a secure activity is detected, this overlay will automatically stop.
-        \n\nClick proceed, go to Shortcutter and enable the service.\n\n</string>
+    <string name="acc_needed_corners">Ta nakładka wymaga dostępu do Ułatwień Dostępu:
+        \n\n \u2022 Wykrywanie aktualnych aktywności.
+        \n\nJeśli zostanie wykryta bezpieczna aktywność, ta nakładka zostanie automatycznie zatrzymana.
+        \n\nKliknij dalej, przejdź do skrótu i włącz usługę.\n\n</string>
     <string name="filter_off_secure">Filtr Ekranu Wył
         \nWykryto aktywność zabezpieczoną</string>
     <string name="corners_off_secure">Rogi Ekranu Wył
@@ -609,6 +609,6 @@
     <string name="alphaUp">Przeźroczystość +</string>
     <string name="alphaDown">Przeźroczystość -</string>
     <string name="transparency">Przeźroczystość =&#160;</string>
-    <string name="launch_loc">Launches Settings - Location</string>
-    <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
+    <string name="launch_loc">Uruchamia Ustawienia - Lokalizacja</string>
+    <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Szybkie Ustawienia v%1$s </string>
 </resources>
