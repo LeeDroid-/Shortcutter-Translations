@@ -98,17 +98,17 @@
         \n\nClick proceed and you will be taken to the relevant screen.\n</string>
     <string name="press_back">Press back to return once enabled.</string>
     <string name="enable">ENABLE</string>
-    <string name="credits">Credits</string>
+    <string name="credits">Katkıda Bulunanlar</string>
     <string name="full_title">Shortcutter Quick Settings</string>
-    <string name="thanks_for_support">"   Thanks for your support!  :)"</string>
+    <string name="thanks_for_support">"   Desteğiniz için teşekkürler!  :)"</string>
     <string name="premuim">Shortcutter Premium</string>
     <string name="confirm_disable_root">You are about to disable all ROOT features, this will remove any QS tiles that require ROOT access.
         \n\nDo you want to proceed?</string>
-    <string name="please_confirm">Please Confirm</string>
-    <string name="nothing_selected">Nothing Selected</string>
-    <string name="selected">"Selected: "</string>
-    <string name="camera">Camera</string>
-    <string name="flashlight">Flashlight</string>
+    <string name="please_confirm">Lütfen Onaylayın</string>
+    <string name="nothing_selected">Seçili öğe yok</string>
+    <string name="selected">"Seçildi: "</string>
+    <string name="camera">Kamera</string>
+    <string name="flashlight">Fener</string>
     <string name="ambient_disabled">Doze
         \nDisabled</string>
     <string name="ambient_enabled">Doze
@@ -117,42 +117,42 @@
     <string name="reboot_now">Reboot Now?</string>
     <string name="systemuiTuner">SystemUI
         \n Tuner</string>
-    <string name="root_available">Your device appears to be rooted.
+    <string name="root_available">Cihazınız Rootlu.
         \n Toggle me for more QS Tiles!</string>
     <string name="available_in_prem1">\u2022 Limited features &amp; A notification every 20 clicks,
         \n</string>
     <string name="available_in_prem2">\u2022 Limited Custom Tiles &amp; No Screen Record or Capture
         \n</string>
     <string name="available_in_prem3">Go Premium now &amp; show @LeeDrOiD your support!</string>
-    <string name="ad_supported">Shortcutter FREE</string>
-    <string name="disabled">Disabled</string>
-    <string name="enabled">Enabled</string>
-    <string name="app_info">App Information</string>
-    <string name="app_options">App Options</string>
-    <string name="splash_4">This screen only shows when Shortcutter requires additional permissions.</string>
+    <string name="ad_supported">Shortcutter ÜCRETSİZ</string>
+    <string name="disabled">Kapalı</string>
+    <string name="enabled">Açık</string>
+    <string name="app_info">Uygulama Bilgisi</string>
+    <string name="app_options">Uygulama Seçenekleri</string>
+    <string name="splash_4">Bu ekran sadece Shortcutter ilave izinlere ihtiyaç duyduğunda gözükür.</string>
     <string name="splash_3">Custom Quick Settings for Android</string>
-    <string name="by_leedroid">Created By LeeDrOiD</string>
-    <string name="welcome_to_shortcutter">Welcome To</string>
-    <string name="Immersive">Immersive Mode</string>
+    <string name="by_leedroid">LeeDrOiD tarafından yapıldı</string>
+    <string name="welcome_to_shortcutter">Hoşgeldiniz</string>
+    <string name="Immersive">Tam Ekran</string>
     <string name="manual_secure_summary">Grant Shortcutter access to Settings Secure to enable additional Tiles.
         \n(A PC &amp; is required)</string>
-    <string name="secure_access_enabled">Secure Access Enabled</string>
+    <string name="secure_access_enabled">Güvenli Erişim İzni Verildi</string>
     <string name="secure_access">Settings Secure Access</string>
     <string name="action_required">Action Required</string>
     <string name="settings_secure_instruct">You can manually grant Shortcutter access to Settings Secure, allowing more control over the system.
         \n\nFrom your PC go to www.leedroid.co.uk/SettingsSecureGuide and follow the instructions.
         \n\n</string>
-    <string name="confirm">CONFIRM</string>
+    <string name="confirm">ONAYLA</string>
     <string name="screenshot">Screenshot</string>
     <string name="screenrecord">Screen
         \nRecord</string>
-    <string name="stop_recording"> Stop Recording </string>
-    <string name="start_recording"> Start Recording </string>
-    <string name="screen_recorder">Screen Recorder</string>
+    <string name="stop_recording"> Kaydı Durdur </string>
+    <string name="start_recording"> Kaydı Başlat</string>
+    <string name="screen_recorder">Ekran Kaydedici</string>
     <string name="show_toggle">Show Toggle</string>
-    <string name="close">Close</string>
-    <string name="record_audio">Record Audio</string>
-    <string name="show_touches">Show Touches</string>
+    <string name="close">Kapat</string>
+    <string name="record_audio">Sesi Kaydet</string>
+    <string name="show_touches">Dokunuşları Göster</string>
     <string name="subscription_error">Your device does not support subscriptions.</string>
     <string name="iab_async_error">Error launching purchase flow. Another async operation in progress.</string>
     <string name="onetimefee2">£2.19</string>
@@ -161,28 +161,28 @@
     <string name="donation2">£2.39 License</string>
     <string name="donation5">£4.79 License</string>
     <string name="donation10">£9.60 License</string>
-    <string name="detected">Detected</string>
-    <string name="yes">Yes</string>
+    <string name="detected">Algılandı</string>
+    <string name="yes">Evet</string>
     <string name="subscription">Or a Subscription</string>
-    <string name="thankyoumultiple">Multiple licenses detected!
+    <string name="thankyoumultiple">Çoklu Lisans Algılandı.
         \nThank\'s for your support!</string>
     <string name="thankyou">Thank\'s for your support!</string>
     <string name="iab_error">In App Billing is not supported on your device yet.
         \n\nWould you like to purchase a Premium key via the play store?</string>
-    <string name="no">No</string>
-    <string name="settings_license">LICENSE</string>
-    <string name="no_licence">No Licence Detected</string>
+    <string name="no">Hayır</string>
+    <string name="settings_license">LİSANS</string>
+    <string name="no_licence">Lisans Bulunamadı</string>
     <string name="shortcutter_premium">Shortcutter Premium</string>
     <string name="logo">Logo</string>
     <string name="old_licene">Premium key detected</string>
     <string name="tweaks_key">LeeDrOiD Tweaks key detected
-        \n Premium features activated</string>
+        \n Premium özellikleri etkinleştirildi.</string>
     <string name="qs_tiles">Pulldown Tile Settings</string>
-    <string name="all_prices_subject_to_tax_vat">All prices include Tax/VAT*
+    <string name="all_prices_subject_to_tax_vat">Fiyatlara KDV Dahildir*
         \n\nPurchasing Shortcutter Premium will remove the 20 click notification and enable additional Quick Settings tiles and app features.</string>
     <string name="amin">amin</string>
     <string name="allofthe">Either of the below options will grant you premium access, the choice is yours :)</string>
-    <string name="volumeui">Volume
+    <string name="volumeui">Ses
         \nPanel</string>
     <string name="manualbright">Manual
         \nBrightness</string>
@@ -194,7 +194,7 @@
         \n%1$d%%</string>
     <string name="noalarm">No
         \nAlarms</string>
-    <string name="swipe_left">SWIPE LEFT TO CONTINUE</string>
+    <string name="swipe_left">DEVAM ETMEK İÇİN SOLA KAYDIRIN</string>
     <string name="availableram">Available
         \nRAM</string>
     <string name="network_mode">Network Mode Tile</string>
@@ -224,7 +224,7 @@
     <string name="ram_tile_title">RAM Tile</string>
     <string name="ram_summary">Displays available and total RAM, with a shortcut to go to RAM information</string>
     <string name="recovery_tile_title">Reboot Recovery Tile</string>
-    <string name="recovery_summary">Reboots your device to Recovery Mode</string>
+    <string name="recovery_summary">Cihazı Kurtarma Modunda Açar</string>
     <string name="reboot_summary">Reboots your device</string>
     <string name="reboot_tile_title">Reboot Tile</string>
     <string name="ringmode_tile_title">Ring Mode Tile</string>
