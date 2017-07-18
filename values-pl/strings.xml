@@ -30,7 +30,6 @@
     <string name="haptic">Potwierdzenie Wibracją</string>
     <string name="root_required1">Dostęp do Roota przyznany</string>
     <string name="select_net_mode">Wybierz Tryb Sieci</string>
-    <string name="applogo">Logo Aplikacji</string>
     <string name="exit">Wyjdź</string>
     <string name="root_access">Funkcje Roota</string>
     <string name="enable_root_features">Włącz Funkcje Roota</string>
@@ -149,7 +148,6 @@
 	    \nEkranu</string>
     <string name="stop_recording">Zatrzymaj Nagrywanie</string>
     <string name="start_recording">Uruchom Nagrywanie</string>
-    <string name="shortcutter">Shortcutter\n    Nagrywanie Ekranu</string>
     <string name="show_toggle">Pokaż Przełącznik</string>
     <string name="close">Zamknij</string>
     <string name="record_audio">Nagrywanie Dźwięku</string>
@@ -248,8 +246,6 @@
     <string name="prem_only">Tylko
 	    \n Premium</string>
     <string name="settings_secure_needed">Wymagany dostęp do Ustawień Zabezpieczeń</string>
-    <string name="nightmode">Tryb
-	    \nNocny</string>
     <string name="flash_on">Latarka
 	    \nWł</string>
     <string name="flash_off">Latarka
@@ -308,7 +304,6 @@
 	    \nTweet</string>
     <string name="not_installed">Aplikacja nie jest zainstalowana</string>
     <string name="new_tweet_summary">Wyślij nowego Tweeta</string>
-    <string name="nightmode_summary">Skrót do ustawienia trybu Nocnego</string>
     <string name="shot_delay">Ustaw własne opóźnienie Zrzutu Ekranu</string>
     <string name="shot_delay_title">Opóźnienie Zrzutu Ekranu (Sekund)</string>
     <string name="newemail">Nowy
@@ -321,7 +316,6 @@
     <string name="home">Strona Domowa</string>
     <string name="dice_desc_range">Wybierz własny zakres numerów dla płytki kości</string>
     <string name="dice_tile_range">Płytka Zakresu Kości</string>
-    <string name="select_range">Wybierz zakres</string>
     <string name="nfc_enabled">NFC
 	    \nWłączony</string>
     <string name="nfc_disabled">NFC
@@ -353,8 +347,8 @@
     <string name="adding_qs_tiles">Dodawanie Płytek QS</string>
     <string name="select_tiles"><![CDATA[1. Idź do zakładki w Shortcutter \"Pulldown Tile Settings\" & wybierz swoje Płytki QS.]]></string>
     <string name="edit_view"><![CDATA[2. Pociągnij w dół pasek stanu, a następnie naciśnij przycisk Edytuj, aby dodać płytki do ustawień (Zazwyczaj ikona pióra).]]></string>
-    
-	<string name="edit_view1">3. W widoku edycji znajdziecie 3 pojemniki, nowe Płytki Shortcutter są w 3 pojemniku.
+
+    <string name="edit_view1">3. W widoku edycji znajdziecie 3 pojemniki, nowe Płytki Shortcutter są w 3 pojemniku.
 	    \n\nAby je dodać, po prostu długo naciśnij i przeciągnij wybrane płytki do górnego (aktywnego) pojemnika i zamknij widok edycji.</string>
     <string name="edit_view_note">WAŻNA UWAGA:
 	    \n\n Z powodu błędu w Android Nougat, użytkownicy mogą mieć problemy z dodaniem płytek QS:
@@ -579,7 +573,6 @@
     <string name="misc_tiles">Inne Płytki</string>
     <string name="custom_url_tiles">Własna Płytka URL</string>
     <string name="google_awareness_key">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
-    <string name="google_maps_key">AIzaSyDBYAvb26S7PdahZXROf6UtPt0CUt5CJ2s</string>
     <string name="weather">Info Pogodowe</string>
     <string name="tap_close">Dotknij aby zamknąć</string>
     <string name="weather_desc">Uruchamia pop-up z aktualnymi informacjami o pogodzie</string>
@@ -592,7 +585,7 @@
     <string name="weather_celsius"> Jednostka Temperatury</string>
     <string name="celsius">Celcjusza</string>
     <string name="fahrenheit">Fahrenheit</string>
-	<string name="app_sig">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
+    <string name="app_sig">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
     <string name="humidity">Humidity:&#160;</string>
     <string name="mylocation">Moja Lokalizacja</string>
     <string name="maps_link">Zobacz na Mapie</string>
@@ -616,4 +609,6 @@
     <string name="alphaUp">Przeźroczystość +</string>
     <string name="alphaDown">Przeźroczystość -</string>
     <string name="transparency">Przeźroczystość =&#160;</string>
+    <string name="launch_loc">Launches Settings - Location</string>
+    <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
 </resources>

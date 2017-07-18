@@ -30,7 +30,6 @@
     <string name="haptic">Haptic Feedback</string>
     <string name="root_required1">Root access required to complete</string>
     <string name="select_net_mode">Select Network Mode</string>
-    <string name="applogo">AppLogo</string>
     <string name="exit">Exit</string>
     <string name="root_access">Root Features</string>
     <string name="enable_root_features">Enable Root Features</string>
@@ -135,10 +134,10 @@
     <string name="by_leedroid">Created By LeeDrOiD</string>
     <string name="welcome_to_shortcutter">Welcome To</string>
     <string name="Immersive">Immersive Mode</string>
-    <string name="manual_secure_summary">Grant Shortcutter access to Settings Secure to enable additional Settings
-        \n(A PC &amp; ADB knowledge is required)</string>
+    <string name="manual_secure_summary">Grant Shortcutter access to Settings Secure to enable additional Tiles.
+        \n(A PC &amp; is required)</string>
     <string name="secure_access_enabled">Secure Access Enabled</string>
-    <string name="secure_access">Settings Secure</string>
+    <string name="secure_access">Settings Secure Access</string>
     <string name="action_required">Action Required</string>
     <string name="settings_secure_instruct">You can manually grant Shortcutter access to Settings Secure, allowing more control over the system.
         \n\nFrom your PC go to www.leedroid.co.uk/SettingsSecureGuide and follow the instructions.
@@ -248,8 +247,6 @@
     <string name="prem_only">Premium
         \n Only</string>
     <string name="settings_secure_needed">Settings Secure access required</string>
-    <string name="nightmode">Night
-        \nMode</string>
     <string name="flash_on">Flashlight
         \nOn</string>
     <string name="flash_off">Flashlight
@@ -300,7 +297,7 @@
         \n\n\u2022 Lee Bailey (AKA @LeeDrOiD)\n\n Translations By:
         \n\n\u2022 SoLdieR9312 - German\n\u2022 @Linar10 - Polish
         \n\u2022 范家安(金发大表哥) - Chinese
-        \n\nIf you are interested in helping me translate the app, drop me an email using the Email Feedback option in the menu</string>
+        \n\nIf you are interested in helping me translate the app, drop me an email using the Email Feedback option in the menu.\n\nAdditional Graphics By @Bogdan</string>
     <string name="file_tile">File
         \nBrowser</string>
     <string name="file_summary">Launches default file browser</string>
@@ -308,7 +305,6 @@
         \nTweet</string>
     <string name="not_installed">Application not installed</string>
     <string name="new_tweet_summary">Send a new Tweet</string>
-    <string name="nightmode_summary">A shortcut to the Night Mode setting</string>
     <string name="shot_delay">Set custom Screenshot delay</string>
     <string name="shot_delay_title">Screenshot Delay (Seconds)</string>
     <string name="newemail">New
@@ -348,7 +344,7 @@
     <string name="perms_required">Permissions need to be granted, Launching Shortcutter</string>
     <string name="failed_data_usage">Failed to launch data usage information</string>
     <string name="how_to">Click Here for A simple guide to adding Shortcutter Quick Setting Tiles.</string>
-    <string name="addtiles_title">How To Add QS Tiles</string>
+    <string name="addtiles_title">How To Add QS Tiles - Guide</string>
     <string name="adding_qs_tiles">Adding QS Tiles</string>
     <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Pulldown Tile Settings\" tab & make your QS Tile selections.]]></string>
     <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below, this is usually a pen icon.
@@ -357,7 +353,7 @@
         \n\nTo add them, simply long press and drag your chosen tiles up to the top (Active) container and exit the Edit View.</string>
     <string name="edit_view_note">IMPORTANT NOTE:
         \n\n Due to a bug in Android N, you may struggle to add tiles, this can be worked around by doing the following.
-        \n\nDrag and add all tiles from the 2nd container to your active container, then drag your new Shortcutter Tiles from the TOP of the list to the Active container.
+        \n\nRemove any tiles you do not want in the \"Pulldown Tile Settings\" tab &amp; take your new tiles from the TOP of the available tiles container.
         \n\nUnfortunately this is not something I can fix as it has nothing to do with the app.</string>
     <string name="small">Font
         \nSmall</string>
@@ -616,4 +612,6 @@
     <string name="alphaUp">Opacity +</string>
     <string name="alphaDown">Opacity -</string>
     <string name="transparency">Opacity =&#160;</string>
+    <string name="launch_loc">Launches Settings - Location</string>
+    <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
 </resources>
