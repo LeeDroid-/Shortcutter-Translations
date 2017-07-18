@@ -345,7 +345,7 @@
     <string name="how_to">Prosty przewodnik jak dodawać płytki Shortcutter do szybkich ustawień.</string>
     <string name="addtiles_title">Jak Dodawać Płytki QS</string>
     <string name="adding_qs_tiles">Dodawanie Płytek QS</string>
-    <string name="select_tiles"><![CDATA[1. Idź do zakładki w Shortcutter \"Pulldown Tile Settings\" & wybierz swoje Płytki QS.]]></string>
+    <string name="select_tiles"><![CDATA[1. Idź do zakładki w Shortcutter \"Ustawienia Płytek QS\" & wybierz swoje Płytki QS.]]></string>
     <string name="edit_view"><![CDATA[2. Pociągnij w dół pasek stanu, a następnie naciśnij przycisk Edytuj, aby dodać płytki do ustawień (Zazwyczaj ikona pióra).]]></string>
 
     <string name="edit_view1">3. W widoku edycji znajdziecie 3 pojemniki, nowe Płytki Shortcutter są w 3 pojemniku.
