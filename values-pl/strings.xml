@@ -597,7 +597,7 @@
     <string name="loading_map">Ładowanie Map....</string>
     <string name="swipe_out">Przesuń, aby odrzucić</string>
     <string name="choose_ring_entries">Wybierz pozycje trybu dzwonka (minimum 2)</string>
-    <string name="qs_head_title">Płytka Nagłówka QS Header</string>
+    <string name="qs_head_title">Płytka Nagłówka QS</string>
     <string name="acc_needed_corners">Ta nakładka wymaga dostępu do Ułatwień Dostępu:
         \n\n \u2022 Wykrywanie aktualnych aktywności.
         \n\nJeśli zostanie wykryta bezpieczna aktywność, ta nakładka zostanie automatycznie zatrzymana.
