@@ -17,7 +17,7 @@
     <string name="heads_up_enabled">Üst Bildirimler Açık</string>
     <string name="special_perms_command">Tamamlandığında onaylamayı tıklayın, erişim test edilecek, başarısız olursa tekrar deneyin.</string>
     <string name="special_perms_required">"Özel erişim izin gerekli
-        \n\nTry running: "</string>
+        \n\nÇalıştırmayı Dene: "</string>
     <string name="wifi_call_disabled">Wi-Fi Telefon Görüşmesi Kapalı</string>
     <string name="wifi_call_enabled">Wi-Fi Telefon Görüşmesi Açık</string>
     <string name="WiFiCall">Wi-Fi Telefon Görüşmesi</string>
@@ -48,16 +48,16 @@
     <string name="CustomUrl2">Özel Link 2</string>
     <string name="CustomUrl3">Özel Link 3</string>
     <string name="CustomUrl4">Özel Link 4</string>
-    <string name="RebootRecovery">Reboot Recovery</string>
+    <string name="RebootRecovery">Kurtarma Modu Başlatma</string>
     <string name="Reboot">Yeniden Başlatma</string>
-    <string name="enter_the_url">Enter the URL you wish to assign to this QS Tile.</string>
+    <string name="enter_the_url">Bu Hızlı Ayar sekmesine istediğiniz linki yazınız.</string>
     <string name="save">Sakla</string>
-    <string name="Caffeinie">Screen Wake</string>
+    <string name="Caffeinie">Uyanık Kal</string>
     <string name="RingMode">Zil Sesi Modu</string>
-    <string name="Screen_timeout">Screen Timeout</string>
+    <string name="Screen_timeout">Uyku</string>
     <string name="alarm_tile">Sonraki Alarm</string>
-    <string name="wake_stopped">Screen Wake Off</string>
-    <string name="wake_started">Screen Wake On</string>
+    <string name="wake_stopped">Uyanık Kal Kapalı</string>
+    <string name="wake_started">Uyanık Kal Açık</string>
     <string name="need_dnd">Uygulama İzni Yok, Lütfen shortcutter için DND izni verin</string>
     <string name="next_alarm">Sonraki Alarm
         \n</string>
@@ -88,51 +88,51 @@
     <string name="vibrate">Titreşim</string>
     <string name="ring">Sesli</string>
     <string name="silent">Sessiz</string>
-    <string name="screen_timeout">Timeout
+    <string name="screen_timeout">Zamanlayıcı
         \n</string>
     <string name="additonal_perms_req">İlave İzinler Gerekli</string>
-    <string name="notification_policy_message">Some tiles require the ability to modify notification settings, as we cannot request these permissions in the normal fasion, you will need to enable them.
-        \n\nClick proceed and you will be taken to the relevant screen.\n</string>
-    <string name="proceed">Proceed</string>
-    <string name="system_perms_message">Some tiles require the ability to write system settings, as we cannot request these permissions in the normal fasion, you will need to enable them.
-        \n\nClick proceed and you will be taken to the relevant screen.\n</string>
+    <string name="notification_policy_message">Bazı sekmeler bildirim ayarlarını değiştirmeyi gerektirir. Program için bu izni ancak siz verebilirsiniz.
+        \n\nGerekli izinlerin verilebileceği ayarlara ulaşmak için tıklayın.\n</string>
+    <string name="proceed">Devam et</string>
+    <string name="system_perms_message">Bazı sekmeler sistem ayarlarını değiştirmeyi gerektirir. Program için bu izni ancak siz verebilirsiniz.
+        \n\nGerekli izinlerin verilebileceği ayarlara ulaşmak için tıklayın.\n</string>
     <string name="press_back">Press back to return once enabled.</string>
     <string name="enable">ENABLE</string>
     <string name="credits">Katkıda Bulunanlar</string>
     <string name="full_title">Shortcutter Quick Settings</string>
     <string name="thanks_for_support">"   Desteğiniz için teşekkürler!  :)"</string>
     <string name="premuim">Shortcutter Premium</string>
-    <string name="confirm_disable_root">You are about to disable all ROOT features, this will remove any QS tiles that require ROOT access.
-        \n\nDo you want to proceed?</string>
+    <string name="confirm_disable_root">Tüm root özelliklerini kapatmak üzeresiniz. Root gerektiren tüm sekmeler kaldırılacaktır.
+        \n\nDevam etmek istiyor musunuz??</string>
     <string name="please_confirm">Lütfen Onaylayın</string>
     <string name="nothing_selected">Seçili öğe yok</string>
     <string name="selected">"Seçildi: "</string>
     <string name="camera">Kamera</string>
     <string name="flashlight">Fener</string>
     <string name="ambient_disabled">Doze
-        \nDisabled</string>
+        \nKapalı</string>
     <string name="ambient_enabled">Doze
-        \nEnabled</string>
-    <string name="ambient_display">Doze Display</string>
-    <string name="reboot_now">Reboot Now?</string>
-    <string name="systemuiTuner">SystemUI
-        \n Tuner</string>
+        \nAçık</string>
+    <string name="ambient_display">Uyarlanan Parlaklık</string>
+    <string name="reboot_now">Şimdi Yeniden Başlat?</string>
+    <string name="systemuiTuner">Sistem Arayüzü
+        \n Ayarlayıcısı</string>
     <string name="root_available">Cihazınız Rootlu.
         \n Toggle me for more QS Tiles!</string>
-    <string name="available_in_prem1">\u2022 Limited features &amp; A notification every 20 clicks,
+    <string name="available_in_prem1">\u2022 Limitli Kullanım &amp; 20 Tıklma Bildirimi,
         \n</string>
-    <string name="available_in_prem2">\u2022 Limited Custom Tiles &amp; No Screen Record or Capture
+    <string name="available_in_prem2">\u2022 Limitli Özel Sekmeler &amp; Ekran Görünütüsü ve Kaydı Yok
         \n</string>
-    <string name="available_in_prem3">Go Premium now &amp; show @LeeDrOiD your support!</string>
+    <string name="available_in_prem3">Şimdi Premium al &amp; @LeeDrOiD 'e destek olun!</string>
     <string name="ad_supported">Shortcutter ÜCRETSİZ</string>
     <string name="disabled">Kapalı</string>
     <string name="enabled">Açık</string>
     <string name="app_info">Uygulama Bilgisi</string>
     <string name="app_options">Uygulama Seçenekleri</string>
     <string name="splash_4">Bu ekran sadece Shortcutter ilave izinlere ihtiyaç duyduğunda gözükür.</string>
-    <string name="splash_3">Custom Quick Settings for Android</string>
+    <string name="splash_3">Android için durum çubuğu hızlı ayar sekmeleri</string>
     <string name="by_leedroid">LeeDrOiD tarafından yapıldı</string>
-    <string name="welcome_to_shortcutter">Hoşgeldiniz</string>
+    <string name="welcome_to_shortcutter">Hoşgeldiniz!</string>
     <string name="Immersive">Tam Ekran</string>
     <string name="manual_secure_summary">Grant Shortcutter access to Settings Secure to enable additional Tiles.
         \n(A PC &amp; is required)</string>
