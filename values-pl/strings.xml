@@ -438,7 +438,7 @@
     <string name="inear_audio">Słuchawki Audio</string>
     <string name="disable">Wyłącz</string>
     <string name="inear_audio_active">Zestaw Słuchawkowy Aktywny</string>
-    <string name="show_notif">Show Active Notification</string>
+    <string name="show_notif">Pokaż Aktywne Powiadomienie</string>
     <string name="inear_summary">Przekierowuje wszystkie audio poprzez słuchawki</string>
     <string name="volUp">Głośność +</string>
     <string name="volDown">Głośność -</string>
