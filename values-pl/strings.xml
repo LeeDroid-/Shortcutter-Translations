@@ -579,8 +579,8 @@
     <string name="location">Aktualizacja Lokalizacji</string>
     <string name="condition">Warunki:&#160;</string>
     <string name="temp">Aktualna Temperatura:&#160;</string>
-    <string name="feels">Feels Like:&#160;</string>
-    <string name="dewp">Dew point:&#160;</string>
+    <string name="feels">Samopoczucie #160;</string>
+    <string name="dewp">Punkt rosy:&#160;</string>
     <string name="weather_cat">Informacje Pogodowe</string>
     <string name="weather_celsius"> Jednostka Temperatury</string>
     <string name="celsius">Celcjusza</string>
