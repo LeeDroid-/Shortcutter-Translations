@@ -549,10 +549,10 @@
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
     <string name="config_serv">Konfiguruj Usługi/Płytki</string>
     <string name="enable_to_config">Włacz/Dodaj Płytki i konfiguruj</string>
-    <string name="expose_activity">Wyeksponuj ikonę Launchera</string>
+    <string name="expose_activity">Pokaż ikonę w Launcherze</string>
     <string name="expose_activity_summary">Dostęp do tego przełącznika z ekranu głównego lub innych aplikacji.</string>
     <string name="wake_tile">Wybudzanie Ekranu</string>
-    <string name="screenshot_root">Use Root Screenshot Method</string>
+    <string name="screenshot_root">Użyj Metody z Rootem do Zrzutów Ekranu</string>
     <string name="screenshot_root_summary">Tworzy zrzut ekranu przy użyciu systemu</string>
     <string name="corners_active">Okrągłe rogi aktywne</string>
     <string name="misc_cat">Otwórz Inne Przełączniki</string>
@@ -573,7 +573,7 @@
     <string name="misc_tiles">Inne Płytki</string>
     <string name="custom_url_tiles">Własna Płytka URL</string>
     <string name="google_awareness_key">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
-    <string name="weather">Info Pogodowe</string>
+    <string name="weather">Pogoda</string>
     <string name="tap_close">Dotknij aby zamknąć</string>
     <string name="weather_desc">Uruchamia pop-up z aktualnymi informacjami o pogodzie</string>
     <string name="location">Aktualizacja Lokalizacji</string>
