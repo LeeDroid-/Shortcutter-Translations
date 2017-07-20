@@ -128,7 +128,6 @@
     <string name="disabled">Disabled</string>
     <string name="enabled">Enabled</string>
     <string name="app_info">App Information</string>
-    <string name="app_options">App Options</string>
     <string name="splash_4">This screen only shows when Shortcutter requires additional permissions.</string>
     <string name="splash_3">Custom Quick Settings for Android</string>
     <string name="by_leedroid">Created By LeeDrOiD</string>
@@ -146,8 +145,8 @@
     <string name="screenshot">Screenshot</string>
     <string name="screenrecord">Screen
         \nRecord</string>
-    <string name="stop_recording"> Stop Recording </string>
-    <string name="start_recording"> Start Recording </string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="start_recording">Start Recording</string>
     <string name="screen_recorder">Screen Recorder</string>
     <string name="show_toggle">Show Toggle</string>
     <string name="close">Close</string>
@@ -453,7 +452,10 @@
         \nMusic</string>
     <string name="play_pause">Play/Pause Music</string>
     <string name="play_pause_sum">Play and Pause music</string>
-    <string name="overlay_needed"><![CDATA[The Shortcutter Floating Toolbox requires the Draw System Overlay permission to run.
+    <string name="overlay_needed"><![CDATA[Several Shortcutter services require the Draw System Overlay permission to run, these include:\n
+    \n\u2022 SideBar/Floating Toolbox
+    \n\u2022 Screen Filter/Night Mode
+    \n\u2022 Rounded Corners
     \n\nPlease click proceed & grant the required permission.\n]]></string>
     <string name="overlay_required">System overlay permissions required</string>
     <string name="mob_data">Mobile
@@ -614,4 +616,27 @@
     <string name="transparency">Opacity =&#160;</string>
     <string name="launch_loc">Launches Settings - Location</string>
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
+    <string name="nigh_light">Night Light</string>
+    <string name="brightness">Screen Brightness</string>
+    <string name="scnigh_light">Shortcutter\nNight Light</string>
+    <string name="nightlight_summary">Provides an always on Nightlight and clock display, plus a button to swiftly swith to Desk Clock Mode</string>
+    <string name="deskmode">Desk Clock\nMode</string>
+    <string name="lightmode">Night Light\nMode</string>
+    <string name="scdesk">Shortcutter\nDesk Clock</string>
+    <string name="expand_collapse">Toolbox\nExpander</string>
+    <string name="expose_toggler"><![CDATA[Expose an icon/activity to open and close the tooblox, can be mapped to Edge Sense, Bixby & More!]]></string>
+    <string name="expose_toggler_title">Expose Open/Close Toggle</string>
+    <string name="permissions">App Permissions</string>
+    <string name="settings_access">Write System Settings</string>
+    <string name="overlay_access">Overlay Permissions</string>
+    <string name="admin_access">Administrator Access</string>
+    <string name="acc_access">Accessibility Access</string>
+    <string name="dnd_access">Do Not Disturb Access</string>
+    <string name="usage_access">Data Usage</string>
+    <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
+    <string name="overlay_summary">Usage: Floating Toolbox/SideBar, Screen Filter &amp; Rounded Corners</string>
+    <string name="admin_summary">Usage: Screen Lock</string>
+    <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Screen Filter &amp; Rounded Corners</string>
+    <string name="dnd_summary">Usage: Ring Mode</string>
+    <string name="usage_summary">Usage: Data Usage Tile</string>
 </resources>
