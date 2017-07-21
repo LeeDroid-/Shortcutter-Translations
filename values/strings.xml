@@ -176,7 +176,7 @@
     <string name="old_licene">Premium key detected</string>
     <string name="tweaks_key">LeeDrOiD Tweaks key detected
         \n Premium features activated</string>
-    <string name="qs_tiles">Pulldown Tile Settings</string>
+    <string name="qs_tiles">Quick Settings</string>
     <string name="all_prices_subject_to_tax_vat">All prices include Tax/VAT*
         \n\nPurchasing Shortcutter Premium will remove the 20 click notification and enable additional Quick Settings tiles and app features.</string>
     <string name="amin">amin</string>
@@ -469,7 +469,7 @@
     <string name="wake_active">Screen Wake Active</string>
     <string name="floating_toolbox">Enable SideBar/Toolbox</string>
     <string name="float_summary">A swipe out SideBar or floating quick access panel</string>
-    <string name="tb_tiles">SideBar/Toolbox Settings</string>
+    <string name="tb_tiles">Toolbox / SideBar</string>
     <string name="email_feedback">Email Feedback</string>
     <string name="submit_review">Leave A Review</string>
     <string name="rate_app">Rate The App</string>
@@ -501,7 +501,7 @@
     <string name="data_roam_disabled">Data Roaming Disabled</string>
     <string name="data_roaming">Data Roaming</string>
     <string name="dataroam_summary">Toggle Data Roaming</string>
-    <string name="quick_tiles_title">Number Of Tiles In Collapsed View</string>
+    <string name="quick_tiles_title">Change Number Of Tiles In Collapsed View</string>
     <string name="other_settings">Misc Settings</string>
     <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed pulldown.
         \nThis MOD is manufacturer dependent.</string>
@@ -552,7 +552,7 @@
     <string name="how_it_works3">2 &amp; 3. Via the unique Shortcutter Swipe out SideBar or Floating Toolbox</string>
     <string name="how_it_works4">4. Through Exposing the toggles to your app drawer, which enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
-    <string name="config_serv">Configure Services/Tiles</string>
+    <string name="config_serv">Service Settings</string>
     <string name="enable_to_config">Enable/Add Tile to configure</string>
     <string name="expose_activity">Expose Launcher Icon</string>
     <string name="expose_activity_summary">Access this toggle from your home screen or other apps.</string>
@@ -624,8 +624,8 @@
     <string name="lightmode">Night Light\nMode</string>
     <string name="scdesk">Shortcutter\nDesk Clock</string>
     <string name="expand_collapse">Toolbox\nExpander</string>
-    <string name="expose_toggler"><![CDATA[Expose an icon/activity to open and close the tooblox, can be mapped to Edge Sense, Bixby & More!]]></string>
-    <string name="expose_toggler_title">Expose Open/Close Toggle</string>
+    <string name="expose_toggler">Expose the \"Toolbox Expander\" icon to open and close the Toolbox or SideBar, mappable to Edge Sense, Bixby &amp; More!</string>
+    <string name="expose_toggler_title">Toolbox Expander</string>
     <string name="permissions">App Permissions</string>
     <string name="settings_access">Write System Settings</string>
     <string name="overlay_access">Overlay Permissions</string>
@@ -639,4 +639,5 @@
     <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Screen Filter &amp; Rounded Corners</string>
     <string name="dnd_summary">Usage: Ring Mode</string>
     <string name="usage_summary">Usage: Data Usage Tile</string>
+    <string name="actual_tiles">Actual Tiles =&#160; %1$d </string>
 </resources>

@@ -453,7 +453,10 @@
         \nMusic</string>
     <string name="play_pause">Play/Pause Music</string>
     <string name="play_pause_sum">Play and Pause music</string>
-    <string name="overlay_needed"><![CDATA[The Shortcutter Floating Toolbox requires the Draw System Overlay permission to run.
+    <string name="overlay_needed"><![CDATA[Several Shortcutter services require the Draw System Overlay permission to run, these include:\n
+    \n\u2022 SideBar/Floating Toolbox
+    \n\u2022 Screen Filter/Night Mode
+    \n\u2022 Rounded Corners
     \n\nPlease click proceed & grant the required permission.\n]]></string>
     <string name="overlay_required">System overlay permissions required</string>
     <string name="mob_data">Mobile
@@ -467,7 +470,7 @@
     <string name="wake_active">Screen Wake Active</string>
     <string name="floating_toolbox">Enable SideBar/Toolbox</string>
     <string name="float_summary">A swipe out SideBar or floating quick access panel</string>
-    <string name="tb_tiles">SideBar/Toolbox Settings</string>
+    <string name="tb_tiles">Toolbox / SideBar</string>
     <string name="email_feedback">Email Feedback</string>
     <string name="submit_review">Leave A Review</string>
     <string name="rate_app">Rate The App</string>
@@ -499,7 +502,7 @@
     <string name="data_roam_disabled">Data Roaming Disabled</string>
     <string name="data_roaming">Data Roaming</string>
     <string name="dataroam_summary">Toggle Data Roaming</string>
-    <string name="quick_tiles_title">Number Of Tiles In Collapsed View</string>
+    <string name="quick_tiles_title">Change Number Of Tiles In Collapsed View</string>
     <string name="other_settings">Misc Settings</string>
     <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed pulldown.
         \nThis MOD is manufacturer dependent.</string>
@@ -550,7 +553,7 @@
     <string name="how_it_works3">2 &amp; 3. Via the unique Shortcutter Swipe out SideBar or Floating Toolbox</string>
     <string name="how_it_works4">4. Through Exposing the toggles to your app drawer, which enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
-    <string name="config_serv">Configure Services/Tiles</string>
+    <string name="config_serv">Service Settings</string>
     <string name="enable_to_config">Enable/Add Tile to configure</string>
     <string name="expose_activity">Expose Launcher Icon</string>
     <string name="expose_activity_summary">Access this toggle from your home screen or other apps.</string>
@@ -614,4 +617,28 @@
     <string name="transparency">Opacity =&#160;</string>
     <string name="launch_loc">Launches Settings - Location</string>
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
+    <string name="nigh_light">Night Light</string>
+    <string name="brightness">Screen Brightness</string>
+    <string name="scnigh_light">Shortcutter\nNight Light</string>
+    <string name="nightlight_summary">Provides an always on Nightlight and clock display, plus a button to swiftly swith to Desk Clock Mode</string>
+    <string name="deskmode">Desk Clock\nMode</string>
+    <string name="lightmode">Night Light\nMode</string>
+    <string name="scdesk">Shortcutter\nDesk Clock</string>
+    <string name="expand_collapse">Toolbox\nExpander</string>
+    <string name="expose_toggler">Expose the \"Toolbox Expander\" icon to open and close the Toolbox or SideBar, mappable to Edge Sense, Bixby &amp; More!</string>
+    <string name="expose_toggler_title">Toolbox Expander</string>
+    <string name="permissions">App Permissions</string>
+    <string name="settings_access">Write System Settings</string>
+    <string name="overlay_access">Overlay Permissions</string>
+    <string name="admin_access">Administrator Access</string>
+    <string name="acc_access">Accessibility Access</string>
+    <string name="dnd_access">Do Not Disturb Access</string>
+    <string name="usage_access">Data Usage</string>
+    <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
+    <string name="overlay_summary">Usage: Floating Toolbox/SideBar, Screen Filter &amp; Rounded Corners</string>
+    <string name="admin_summary">Usage: Screen Lock</string>
+    <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Screen Filter &amp; Rounded Corners</string>
+    <string name="dnd_summary">Usage: Ring Mode</string>
+    <string name="usage_summary">Usage: Data Usage Tile</string>
+    <string name="actual_tiles">Actual Tiles =&#160; %1$d </string>
 </resources>
