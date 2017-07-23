@@ -275,32 +275,32 @@
     <string name="count_down">Geri Sayım Başladı</string>
     <string name="remaining">Kalan:</string>
     <string name="time_up">Süre Doldu!</string>
-    <string name="countdown_timer">Countdown Timer</string>
-    <string name="set">Set</string>
-    <string name="countdown_desc">A countdown timer tile</string>
-    <string name="choose_steps">Select Brightness Preset Steps</string>
-    <string name="preset_steps">Brightness Preset Steps</string>
-    <string name="currently">Currently set to %1$d steps</string>
+    <string name="countdown_timer">Geri Sayım Süresi</string>
+    <string name="set">Ayarla</string>
+    <string name="countdown_desc">Geri Sayım Sekmesi</string>
+    <string name="choose_steps">Kademeli Parlaklık Ayarlarını Seçin</string>
+    <string name="preset_steps">Parlaklık Kademeleri</string>
+    <string name="currently"> %1$d steps</string>
     <string name="current_shot">Currently set to %1$d seconds</string>
     <string name="current_dice">Currently set to %1$d</string>
-    <string name="permissions_not_granted">You dont appear to have granted Shortcutter the correct permissions, have you launched the app?</string>
-    <string name="counter_tile">Clicker
+    <string name="permissions_not_granted">Shortcutter a doğru izinler verilmemiş, Uygulamayı çalıştırdınız mı??</string>
+    <string name="counter_tile">Sayıcı
         \nTile</string>
-    <string name="counter_summary">A tile that counts clicks</string>
-    <string name="reset_counter">Reset Clicker Tile</string>
-    <string name="cur_val">Current value = %1$d </string>
-    <string name="Dice">Dice Tile</string>
-    <string name="dice_desc">Generates a random number
-        \n(Change range in Tile Settings)</string>
-    <string name="auto_step">Auto Brightness Step</string>
+    <string name="counter_summary">Tıkladığınız kadar sayı sayar</string>
+    <string name="reset_counter">Sayıcıyı Sıfırla</string>
+    <string name="cur_val">Şuanki Sayı = %1$d </string>
+    <string name="Dice">Zar Sekmesi</string>
+    <string name="dice_desc">Zar atar
+        \n(Zar sayısını ayarlardan değiştirebilirsiniz)</string>
+    <string name="auto_step">Otomatik Parlaklık Kademesi</string>
     <string name="about">\nDesigned &amp; Developed By:
         \n\n\u2022 Lee Bailey (AKA @LeeDrOiD)\n\n Translations By:
         \n\n\u2022 SoLdieR9312 - German\n\u2022 @Linar10 - Polish
         \n\u2022 范家安(金发大表哥) - Chinese
         \n\nIf you are interested in helping me translate the app, drop me an email using the Email Feedback option in the menu.\n\nAdditional Graphics By @Bogdan</string>
     <string name="file_tile">File
-        \nBrowser</string>
-    <string name="file_summary">Launches default file browser</string>
+        \nİnternet Tarayıcısı</string>
+    <string name="file_summary">Cihazın kendi Dosya Yöneticisini açar</string>
     <string name="new_tweet">New
         \nTweet</string>
     <string name="not_installed">Application not installed</string>
