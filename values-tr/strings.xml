@@ -339,7 +339,7 @@
     <string name="data_cycle_reset">Mobil İnternet kullanımı aralığı</string>
     <string name="data_cycle_summary">Ayın hangi gününden itibaren ölçüm yapılacağını seçin.(Fatura kesim tarihi yada kontör yükleme tarihi)</string>
     <string name="data_tile_summary">Mobil İnternet kullanımını gösterir.
-        \n(Change cycle in \n(Kullanım aralığını sekme yarlarından değiştirebilirsiniz)</string>
+        \n(Change cycle in \n(Kullanım aralığını sekme ayarlarından değiştirebilirsiniz)</string>
     <string name="data_tile_title">Data Usage Tile</string>
     <string name="perms_required">Permissions need to be granted, Launching Shortcutter</string>
     <string name="failed_data_usage">Failed to launch data usage information</string>
