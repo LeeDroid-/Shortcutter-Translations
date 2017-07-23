@@ -197,13 +197,13 @@
     <string name="swipe_left">DEVAM ETMEK İÇİN SOLA KAYDIRIN</string>
     <string name="availableram">Kullanılabilir
         \nHafıza</string>
-    <string name="network_mode">Network Mode Tile</string>
-    <string name="network_mode_summary">Network Band selection</string>
-    <string name="adb_summary">Toggle the Android Debug Bridge</string>
-    <string name="adbtile">ADB Tile</string>
-    <string name="alarm_summary">Show next alarm, click opens alarms</string>
-    <string name="alarm_tile_title">Next Alarm Tile</string>
-    <string name="ambien_summary">Ambient / Doze display</string>
+    <string name="network_mode">Şebeke Modu Sekmesi</string>
+    <string name="network_mode_summary">Şebeke Modu Seçme</string>
+    <string name="adb_summary">Android Debug Bridge Modunu Etkinleştir</string>
+    <string name="adbtile">ADB Sekmesi</string>
+    <string name="alarm_summary">Bir sonraki alarmı göster, tıklandığında alarmlara gider.</string>
+    <string name="alarm_tile_title">Sonraki Alarm Sekmesi/string>
+    <string name="ambien_summary">Ambient / Bekleme Modu</string>
     <string name="ambient_tile_title">Ambient Display Tile</string>
     <string name="autobrightness_summary">Auto Brightness On/Off</string>
     <string name="autobrightness_tile_title">Auto Brightness Tile</string>
@@ -229,36 +229,36 @@
     <string name="reboot_tile_title">Yeniden Başlat Sekmesi</string>
     <string name="ringmode_tile_title">Zil Sesi Sekmesi</string>
     <string name="ringmode_summary">Zil Sesi Sesli/Titreşim/Sessiz</string>
-    <string name="screenrecord_summary">Cihazın ekranındaki herşeyi kaydeder.</string>
+    <string name="screenrecord_summary">Cihazın ekranındaki her şeyi kaydeder.</string>
     <string name="screenrecord_tile_title">Ekran Kaydetme Sekmesi</string>
     <string name="screenshot_summary">Ekran görüntüsü alır.</string>
     <string name="screenshot_tile_title">Ekran Görüntüsü Sekmesi</string>
     <string name="sync_tile_title">Otomatik Senkronizasyon Sekmesi</string>
     <string name="sync_summary">EAç / Kapat Oto Senk</string>
-    <string name="timeout_summary">Toggle screen timeout value</string>
-    <string name="timeout_tile_title">Screen Timeout Tile</string>
-    <string name="volumeui_tile_title">Volume Panel Tile</string>
-    <string name="volumeui_summary">A tile to display the volume panel</string>
-    <string name="wake_summary">Keeps your device screen awake</string>
-    <string name="wake_tile_title">Screen Wake Tile</string>
-    <string name="tuner_summary">Launch the hidden SystemUI Tuner
-        \nFunctionality is Manufacturer dependent</string>
-    <string name="tuner_tile_title">SystemUI Tuner Tile</string>
-    <string name="prem_only">Premium
-        \n Only</string>
-    <string name="settings_secure_needed">Settings Secure access required</string>
-    <string name="flash_on">Flashlight
-        \nOn</string>
+    <string name="timeout_summary">Uykuya geçis süresi</string>
+    <string name="timeout_tile_title">Uyku Sekmesi</string>
+    <string name="volumeui_tile_title">Ses Paneli Sekmesi</string>
+    <string name="volumeui_summary">Ses seviyeleri panelini açar</string>
+    <string name="wake_summary">Cihazın ekranını açık tutar</string>
+    <string name="wake_tile_title">Uyanık Kal Sekmesi</string>
+    <string name="tuner_summary">Gizli Sistem Arayüzü Ayarlarını Aç
+        \nÜreticiye bağlı olarak değişiklik gösterebilir</string>
+    <string name="tuner_tile_title">Sİstem Arayüzü Ayarları Sekmesi</string>
+    <string name="prem_only">Sadece Premiuma
+        \n Özel</string>
+    <string name="settings_secure_needed">Ayarlara erişim izni verilmesi gerekli</string>
+    <string name="flash_on">Fener
+        \nAçık</string>
     <string name="flash_off">Flashlight
-        \nOff</string>
-    <string name="flash_summary">Toggle the camera flashlight</string>
-    <string name="flash_tile_title">Flashlight Tile</string>
-    <string name="no_flash">No Flashlight Detected</string>
-    <string name="battery_summary">Monitor your battery level</string>
-    <string name="battery_tile_title">Battery Tile</string>
-    <string name="on_while_charge">On When
-        \nCharging</string>
-    <string name="onwhilecharge_summary">Keep screen on when plugged in</string>
+        \nKapalı</string>
+    <string name="flash_summary">Cihazın kamera flaşını açar</string>
+    <string name="flash_tile_title">Fener Sekmesi</string>
+    <string name="no_flash">Fener Bulunamadı</string>
+    <string name="battery_summary">Pil Seviyesi Takibi</string>
+    <string name="battery_tile_title">Pil Sekmesi</string>
+    <string name="on_while_charge">Şarj ederken
+        \nEkranı Açık Tut</string>
+    <string name="onwhilecharge_summary">Şarj ederken ekranı açık tutar.</string>
     <string name="oncharge_tile_title">Screen On While Charging</string>
     <string name="choose_button_label">Select</string>
     <string name="error_dir_access">Directory cannot be accessed</string>
