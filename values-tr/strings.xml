@@ -293,53 +293,53 @@
     <string name="dice_desc">Zar atar
         \n(Zar sayısını ayarlardan değiştirebilirsiniz)</string>
     <string name="auto_step">Otomatik Parlaklık Kademesi</string>
-    <string name="about">\nDesigned &amp; Developed By:
-        \n\n\u2022 Lee Bailey (AKA @LeeDrOiD)\n\n Translations By:
+    <string name="about">\nDesigned &amp; Uygulama Yapımcısı:
+        \n\n\u2022 Lee Bailey (AKA @LeeDrOiD)\n\n Tercümeler:
         \n\n\u2022 SoLdieR9312 - German\n\u2022 @Linar10 - Polish
         \n\u2022 范家安(金发大表哥) - Chinese
-        \n\nIf you are interested in helping me translate the app, drop me an email using the Email Feedback option in the menu.\n\nAdditional Graphics By @Bogdan</string>
-    <string name="file_tile">File
-        \nİnternet Tarayıcısı</string>
+        \n\nUygulamayı tecrüme etmekte bana yardımcı olmak isterseniz, geri bildirim bölümünden bana bir e-mail gönderin.\n\nAdditional Graphics By @Bogdan</string>
+    <string name="file_tile">Dosya
+        \nYöneticisi</string>
     <string name="file_summary">Cihazın kendi Dosya Yöneticisini açar</string>
-    <string name="new_tweet">New
+    <string name="new_tweet">Yeni
         \nTweet</string>
-    <string name="not_installed">Application not installed</string>
-    <string name="new_tweet_summary">Send a new Tweet</string>
-    <string name="shot_delay">Set custom Screenshot delay</string>
-    <string name="shot_delay_title">Screenshot Delay (Seconds)</string>
-    <string name="newemail">New
+    <string name="not_installed">Uygulama yüklü değil</string>
+    <string name="new_tweet_summary">Yeni Tweet At</string>
+    <string name="shot_delay"> Ekran Görüntüsü alma zamanlayıcısı</string>
+    <string name="shot_delay_title">Ekran Görüntüsü alma zamanı (Saniye)</string>
+    <string name="newemail">Yeni
         \nEmail</string>
-    <string name="newemailsum">Send a new email</string>
-    <string name="emailtitle">New Email Tile</string>
-    <string name="stay_in_the_loop">Social Media/Contact</string>
-    <string name="follow_me">Follow Me On Twitter</string>
-    <string name="like_facebook">Like My Facebook Page</string>
-    <string name="home">Home</string>
-    <string name="dice_desc_range">Select a custom number range for the Dice Tile</string>
-    <string name="dice_tile_range">Dice Tile Range</string>
+    <string name="newemailsum">Yeni email Gönder</string>
+    <string name="emailtitle">Yeni Email Sekmesi</string>
+    <string name="stay_in_the_loop">Sosyal Medya/Kişi</string>
+    <string name="follow_me">Twitter 'da Takip Et</string>
+    <string name="like_facebook">Facebook Sayfamı Beğenin</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="dice_desc_range">Zar için bir sayı aralığı seçin</string>
+    <string name="dice_tile_range">Zar atma Aralığı</string>
     <string name="nfc_enabled">NFC
-        \nEnabled</string>
+        \nAçık</string>
     <string name="nfc_disabled">NFC
-        \nDisabled</string>
+        \nKapalı</string>
     <string name="togglenfc">NFC
-        \nToggle</string>
-    <string name="nfctile">NFC Tile</string>
-    <string name="nfctilesum">Toggle NFC on/off</string>
-    <string name="app_open">This application must run once prior to using any tiles or services
-        \n\nPlease pay attention to the dialogs</string>
-    <string name="alert">Shortcutter Alert</string>
-    <string name="go_premium">Purchase Premium</string>
-    <string name="another_purchase">For users that want to show additional support, both purchase options can be used.</string>
-    <string name="datausage">Data
-        \nUsage</string>
-    <string name="data_usage_perms">Shortcutter needs permission to access Data Usage history.
-        \n\nPlease click proceed, select Shortcutter and enable usage access.\n\n</string>
-    <string name="reset_day">Reset on the %1$d day of each month</string>
-    <string name="select_day">Select Data Reset Day</string>
-    <string name="data_cycle_reset">Data Usage Cycle</string>
-    <string name="data_cycle_summary">Select the day of the month to measure data from (Usually your billing date)</string>
-    <string name="data_tile_summary">Shows Mobile Data Usage
-        \n(Change cycle in Tile Settings)</string>
+        \nAç</string>
+    <string name="nfctile">NFC Sekmesi</string>
+    <string name="nfctilesum"> NFC aç/kapat</string>
+    <string name="app_open">Bu uygulama hiç bir sekme veya servis kullanılmadan önce çalıştırılmalıdır.
+        \n\nLütfen açıklamalara dikkat edin.</string>
+    <string name="alert">Shortcutter Uyarı</string>
+    <string name="go_premium">Premium Satın Alın</string>
+    <string name="another_purchase">Daha çok destek vermek isteyen kullanıcılar, her iki satın alma seçeneğini de kullanabilirler.</string>
+    <string name="datausage">Mobil İnternet
+        \nKullanımı</string>\nKullanımı</string>
+    <string name="data_usage_perms">Shortcutter mobil internet kullanımı bilgilerine ulaşmak için izin istiyor.
+        \n\nDevam edip Shortcutter için gerekli izni verin.\n\n</string>
+    <string name="reset_day">Her ay için sıfırlanma günü %1$d </string>
+    <string name="select_day">Mobil İnternet sıfırlanma gününü seçin</string>
+    <string name="data_cycle_reset">Mobil İnternet kullanımı aralığı</string>
+    <string name="data_cycle_summary">Ayın hangi gününden itibaren ölçüm yapılacağını seçin.(Fatura kesim tarihi yada kontör yükleme tarihi)</string>
+    <string name="data_tile_summary">Mobil İnternet kullanımını gösterir.
+        \n(Change cycle in \n(Kullanım aralığını sekme yarlarından değiştirebilirsiniz)</string>
     <string name="data_tile_title">Data Usage Tile</string>
     <string name="perms_required">Permissions need to be granted, Launching Shortcutter</string>
     <string name="failed_data_usage">Failed to launch data usage information</string>
