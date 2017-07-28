@@ -197,149 +197,149 @@
     <string name="swipe_left">DEVAM ETMEK İÇİN SOLA KAYDIRIN</string>
     <string name="availableram">Kullanılabilir
         \nHafıza</string>
-    <string name="network_mode">Network Mode Tile</string>
-    <string name="network_mode_summary">Network Band selection</string>
-    <string name="adb_summary">Toggle the Android Debug Bridge</string>
-    <string name="adbtile">ADB Tile</string>
-    <string name="alarm_summary">Show next alarm, click opens alarms</string>
-    <string name="alarm_tile_title">Next Alarm Tile</string>
-    <string name="ambien_summary">Ambient / Doze display</string>
-    <string name="ambient_tile_title">Ambient Display Tile</string>
-    <string name="autobrightness_summary">Auto Brightness On/Off</string>
-    <string name="autobrightness_tile_title">Auto Brightness Tile</string>
-    <string name="brightnesspreset_summary">Toggle through brightness steps
-        \n(Define steps in Tile Settings)</string>
-    <string name="brightnesspreset_tile_title">Brightness Preset Tile</string>
-    <string name="camera_summary">Launches the default camera app</string>
-    <string name="camera_tile_title">Camera Tile</string>
-    <string name="haptic_tile_title">Haptic Feeback Tile</string>
-    <string name="haptic_summary">Toggle Haptic Feeback on/off</string>
-    <string name="headsup_summary">Toggle Heads Up notifications</string>
-    <string name="Headsup_tile_title">Heads Up Tile</string>
-    <string name="immersive_summary">Hide the status and navigation bars</string>
-    <string name="immersive_tile_title">Immersive
-        \nMode</string>
-    <string name="location_summary">Toggle location mode Off/GPS/Battery Saving/Hight Accuracy</string>
-    <string name="location_tile_title">Location Mode Tile</string>
-    <string name="ram_tile_title">RAM Tile</string>
-    <string name="ram_summary">Displays available and total RAM, with a shortcut to go to RAM information</string>
-    <string name="recovery_tile_title">Reboot Recovery Tile</string>
+    <string name="network_mode">Şebeke Modu Sekmesi</string>
+    <string name="network_mode_summary">Şebeke Modu Seçme</string>
+    <string name="adb_summary">Android Debug Bridge Modunu Etkinleştir</string>
+    <string name="adbtile">ADB Sekmesi</string>
+    <string name="alarm_summary">Bir sonraki alarmı göster, tıklandığında alarmlara gider.</string>
+    <string name="alarm_tile_title">Sonraki Alarm Sekmesi/string>
+    <string name="ambien_summary">Ortam Durumu/ Bekleme Modu</string>
+    <string name="ambient_tile_title">Ortama Göre Ekran Sekmesi</string>
+    <string name="autobrightness_summary">Otomatik Parlaklık Açık/Kapalı</string>
+    <string name="autobrightness_tile_title">Otomatik Parlaklık Sekmesi</string>
+    <string name="brightnesspreset_summary">Kademeli Parlaklık Modu
+        \n(Kademeleri sekme ayarları bölümünden ayarlayabilirsiniz)</string>
+    <string name="brightnesspreset_tile_title">Kademeli Parlaklık Sekmesi</string>
+    <string name="camera_summary">Cihazın kendi Kamera Uygulamsını açar</string>
+    <string name="camera_tile_title">Kamera Sekmesi</string>
+    <string name="haptic_tile_title">Dokunma Titreşimi Sekmesi</string>
+    <string name="haptic_summary">Dokunma Titreşimi Aç/Kapat</string>
+    <string name="headsup_summary">Üst Bildirimler Şeridi</string>
+    <string name="Headsup_tile_title">Üst Bildirimler Sekmesi/string>
+    <string name="immersive_summary">Durum Çubuğunu ve Navigasyon Düğmelerini Gizle</string>
+    <string name="immersive_tile_title">Tam Ekran
+        \nModu</string>
+    <string name="location_summary">Konum modu Kapalı/Cihaz/Pil Tasarrufu/Yüksek Hassasiyet</string>
+    <string name="location_tile_title">Konum Sekmesi</string>
+    <string name="ram_tile_title">Hafıza Sekmesi</string>
+    <string name="ram_summary">Cihazınızın anlık ve kullanılabilir hafıza değerlerini gösterir, tıklandığında hafıza ayarlarına gider.</string>
+    <string name="recovery_tile_title">Kurtarma Moduna Başlat Sekmesi</string>
     <string name="recovery_summary">Cihazı Kurtarma Modunda Açar</string>
-    <string name="reboot_summary">Reboots your device</string>
-    <string name="reboot_tile_title">Reboot Tile</string>
-    <string name="ringmode_tile_title">Ring Mode Tile</string>
-    <string name="ringmode_summary">Toggle Ring Mode Ring/Vibrate/Silent</string>
-    <string name="screenrecord_summary">A tile to record everything on your devices screen</string>
-    <string name="screenrecord_tile_title">Screen Record Tile</string>
-    <string name="screenshot_summary">Takes a still image of your device screen</string>
-    <string name="screenshot_tile_title">Screenshot Tile</string>
-    <string name="sync_tile_title">Autosync Tile</string>
-    <string name="sync_summary">Enable / Disable Auto Sync</string>
-    <string name="timeout_summary">Toggle screen timeout value</string>
-    <string name="timeout_tile_title">Screen Timeout Tile</string>
-    <string name="volumeui_tile_title">Volume Panel Tile</string>
-    <string name="volumeui_summary">A tile to display the volume panel</string>
-    <string name="wake_summary">Keeps your device screen awake</string>
-    <string name="wake_tile_title">Screen Wake Tile</string>
-    <string name="tuner_summary">Launch the hidden SystemUI Tuner
-        \nFunctionality is Manufacturer dependent</string>
-    <string name="tuner_tile_title">SystemUI Tuner Tile</string>
-    <string name="prem_only">Premium
-        \n Only</string>
-    <string name="settings_secure_needed">Settings Secure access required</string>
-    <string name="flash_on">Flashlight
-        \nOn</string>
+    <string name="reboot_summary">Cihazı yeniden başlatır</string>
+    <string name="reboot_tile_title">Yeniden Başlat Sekmesi</string>
+    <string name="ringmode_tile_title">Zil Sesi Sekmesi</string>
+    <string name="ringmode_summary">Zil Sesi Sesli/Titreşim/Sessiz</string>
+    <string name="screenrecord_summary">Cihazın ekranındaki her şeyi kaydeder.</string>
+    <string name="screenrecord_tile_title">Ekran Kaydetme Sekmesi</string>
+    <string name="screenshot_summary">Ekran görüntüsü alır.</string>
+    <string name="screenshot_tile_title">Ekran Görüntüsü Sekmesi</string>
+    <string name="sync_tile_title">Otomatik Senkronizasyon Sekmesi</string>
+    <string name="sync_summary">EAç / Kapat Oto Senk</string>
+    <string name="timeout_summary">Uykuya geçis süresi</string>
+    <string name="timeout_tile_title">Uyku Sekmesi</string>
+    <string name="volumeui_tile_title">Ses Paneli Sekmesi</string>
+    <string name="volumeui_summary">Ses seviyeleri panelini açar</string>
+    <string name="wake_summary">Cihazın ekranını açık tutar</string>
+    <string name="wake_tile_title">Uyanık Kal Sekmesi</string>
+    <string name="tuner_summary">Gizli Sistem Arayüzü Ayarlarını Aç
+        \nÜreticiye bağlı olarak değişiklik gösterebilir</string>
+    <string name="tuner_tile_title">Sİstem Arayüzü Ayarları Sekmesi</string>
+    <string name="prem_only">Sadece Premiuma
+        \n Özel</string>
+    <string name="settings_secure_needed">Ayarlara erişim izni verilmesi gerekli</string>
+    <string name="flash_on">Fener
+        \nAçık</string>
     <string name="flash_off">Flashlight
-        \nOff</string>
-    <string name="flash_summary">Toggle the camera flashlight</string>
-    <string name="flash_tile_title">Flashlight Tile</string>
-    <string name="no_flash">No Flashlight Detected</string>
-    <string name="battery_summary">Monitor your battery level</string>
-    <string name="battery_tile_title">Battery Tile</string>
-    <string name="on_while_charge">On When
-        \nCharging</string>
-    <string name="onwhilecharge_summary">Keep screen on when plugged in</string>
-    <string name="oncharge_tile_title">Screen On While Charging</string>
-    <string name="choose_button_label">Select</string>
-    <string name="error_dir_access">Directory cannot be accessed</string>
+        \nKapalı</string>
+    <string name="flash_summary">Cihazın kamera flaşını açar</string>
+    <string name="flash_tile_title">Fener Sekmesi</string>
+    <string name="no_flash">Fener Bulunamadı</string>
+    <string name="battery_summary">Pil Seviyesi Takibi</string>
+    <string name="battery_tile_title">Pil Sekmesi</string>
+    <string name="on_while_charge">Şarj ederken
+        \nEkranı Açık Tut</string>
+    <string name="onwhilecharge_summary">Şarj ederken ekranı açık tutar.</string>
+    <string name="oncharge_tile_title">Şarj ederken ekran açık</string>
+    <string name="choose_button_label">Seç</string>
+    <string name="error_dir_access">Klasöre ulaşılamıyor</string>
     <string name="label_parent_dir">…</string>
-    <string name="label_parent_directory">Parent Directory</string>
-    <string name="last_edit">Last edited: </string>
-    <string name="select">Select</string>
-    <string name="countdown">Countdown Tile</string>
-    <string name="new_message">New
+    <string name="label_parent_directory">Ana Klasör</string>
+    <string name="last_edit">Son düzenlenen </string>
+    <string name="select">Seç</string>
+    <string name="countdown">Geri Sayım Sekmesi</string>
+    <string name="new_message">Yeni
         \nMessage</string>
-    <string name="cap_store_title">Screen Capture Storage</string>
-    <string name="choose_location">Choose Location</string>
-    <string name="new_message_summary">Send a new SMS with 1 click</string>
-    <string name="count_down">Counting Down</string>
-    <string name="remaining">Remaining:</string>
-    <string name="time_up">Time is up!</string>
-    <string name="countdown_timer">Countdown Timer</string>
-    <string name="set">Set</string>
-    <string name="countdown_desc">A countdown timer tile</string>
-    <string name="choose_steps">Select Brightness Preset Steps</string>
-    <string name="preset_steps">Brightness Preset Steps</string>
-    <string name="currently">Currently set to %1$d steps</string>
+    <string name="cap_store_title">Ekran Görüntüsü Klasörü</string>
+    <string name="choose_location">Klasör Seç</string>
+    <string name="new_message_summary">Yeni SMS Gönder</string>
+    <string name="count_down">Geri Sayım Başladı</string>
+    <string name="remaining">Kalan:</string>
+    <string name="time_up">Süre Doldu!</string>
+    <string name="countdown_timer">Geri Sayım Süresi</string>
+    <string name="set">Ayarla</string>
+    <string name="countdown_desc">Geri Sayım Sekmesi</string>
+    <string name="choose_steps">Kademeli Parlaklık Ayarlarını Seçin</string>
+    <string name="preset_steps">Parlaklık Kademeleri</string>
+    <string name="currently"> %1$d steps</string>
     <string name="current_shot">Currently set to %1$d seconds</string>
     <string name="current_dice">Currently set to %1$d</string>
-    <string name="permissions_not_granted">You dont appear to have granted Shortcutter the correct permissions, have you launched the app?</string>
-    <string name="counter_tile">Clicker
+    <string name="permissions_not_granted">Shortcutter a doğru izinler verilmemiş, Uygulamayı çalıştırdınız mı??</string>
+    <string name="counter_tile">Sayıcı
         \nTile</string>
-    <string name="counter_summary">A tile that counts clicks</string>
-    <string name="reset_counter">Reset Clicker Tile</string>
-    <string name="cur_val">Current value = %1$d </string>
-    <string name="Dice">Dice Tile</string>
-    <string name="dice_desc">Generates a random number
-        \n(Change range in Tile Settings)</string>
-    <string name="auto_step">Auto Brightness Step</string>
-    <string name="about">\nDesigned &amp; Developed By:
-        \n\n\u2022 Lee Bailey (AKA @LeeDrOiD)\n\n Translations By:
+    <string name="counter_summary">Tıkladığınız kadar sayı sayar</string>
+    <string name="reset_counter">Sayıcıyı Sıfırla</string>
+    <string name="cur_val">Şuanki Sayı = %1$d </string>
+    <string name="Dice">Zar Sekmesi</string>
+    <string name="dice_desc">Zar atar
+        \n(Zar sayısını ayarlardan değiştirebilirsiniz)</string>
+    <string name="auto_step">Otomatik Parlaklık Kademesi</string>
+    <string name="about">\nDesigned &amp; Uygulama Yapımcısı:
+        \n\n\u2022 Lee Bailey (AKA @LeeDrOiD)\n\n Tercümeler:
         \n\n\u2022 SoLdieR9312 - German\n\u2022 @Linar10 - Polish
         \n\u2022 范家安(金发大表哥) - Chinese
-        \n\nIf you are interested in helping me translate the app, drop me an email using the Email Feedback option in the menu.\n\nAdditional Graphics By @Bogdan</string>
-    <string name="file_tile">File
-        \nBrowser</string>
-    <string name="file_summary">Launches default file browser</string>
-    <string name="new_tweet">New
+        \n\nUygulamayı tecrüme etmekte bana yardımcı olmak isterseniz, geri bildirim bölümünden bana bir e-mail gönderin.\n\nAdditional Graphics By @Bogdan</string>
+    <string name="file_tile">Dosya
+        \nYöneticisi</string>
+    <string name="file_summary">Cihazın kendi Dosya Yöneticisini açar</string>
+    <string name="new_tweet">Yeni
         \nTweet</string>
-    <string name="not_installed">Application not installed</string>
-    <string name="new_tweet_summary">Send a new Tweet</string>
-    <string name="shot_delay">Set custom Screenshot delay</string>
-    <string name="shot_delay_title">Screenshot Delay (Seconds)</string>
-    <string name="newemail">New
+    <string name="not_installed">Uygulama yüklü değil</string>
+    <string name="new_tweet_summary">Yeni Tweet At</string>
+    <string name="shot_delay"> Ekran Görüntüsü alma zamanlayıcısı</string>
+    <string name="shot_delay_title">Ekran Görüntüsü alma zamanı (Saniye)</string>
+    <string name="newemail">Yeni
         \nEmail</string>
-    <string name="newemailsum">Send a new email</string>
-    <string name="emailtitle">New Email Tile</string>
-    <string name="stay_in_the_loop">Social Media/Contact</string>
-    <string name="follow_me">Follow Me On Twitter</string>
-    <string name="like_facebook">Like My Facebook Page</string>
-    <string name="home">Home</string>
-    <string name="dice_desc_range">Select a custom number range for the Dice Tile</string>
-    <string name="dice_tile_range">Dice Tile Range</string>
+    <string name="newemailsum">Yeni email Gönder</string>
+    <string name="emailtitle">Yeni Email Sekmesi</string>
+    <string name="stay_in_the_loop">Sosyal Medya/Kişi</string>
+    <string name="follow_me">Twitter 'da Takip Et</string>
+    <string name="like_facebook">Facebook Sayfamı Beğenin</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="dice_desc_range">Zar için bir sayı aralığı seçin</string>
+    <string name="dice_tile_range">Zar atma Aralığı</string>
     <string name="nfc_enabled">NFC
-        \nEnabled</string>
+        \nAçık</string>
     <string name="nfc_disabled">NFC
-        \nDisabled</string>
+        \nKapalı</string>
     <string name="togglenfc">NFC
-        \nToggle</string>
-    <string name="nfctile">NFC Tile</string>
-    <string name="nfctilesum">Toggle NFC on/off</string>
-    <string name="app_open">This application must run once prior to using any tiles or services
-        \n\nPlease pay attention to the dialogs</string>
-    <string name="alert">Shortcutter Alert</string>
-    <string name="go_premium">Purchase Premium</string>
-    <string name="another_purchase">For users that want to show additional support, both purchase options can be used.</string>
-    <string name="datausage">Data
-        \nUsage</string>
-    <string name="data_usage_perms">Shortcutter needs permission to access Data Usage history.
-        \n\nPlease click proceed, select Shortcutter and enable usage access.\n\n</string>
-    <string name="reset_day">Reset on the %1$d day of each month</string>
-    <string name="select_day">Select Data Reset Day</string>
-    <string name="data_cycle_reset">Data Usage Cycle</string>
-    <string name="data_cycle_summary">Select the day of the month to measure data from (Usually your billing date)</string>
-    <string name="data_tile_summary">Shows Mobile Data Usage
-        \n(Change cycle in Tile Settings)</string>
+        \nAç</string>
+    <string name="nfctile">NFC Sekmesi</string>
+    <string name="nfctilesum"> NFC aç/kapat</string>
+    <string name="app_open">Bu uygulama hiç bir sekme veya servis kullanılmadan önce çalıştırılmalıdır.
+        \n\nLütfen açıklamalara dikkat edin.</string>
+    <string name="alert">Shortcutter Uyarı</string>
+    <string name="go_premium">Premium Satın Alın</string>
+    <string name="another_purchase">Daha çok destek vermek isteyen kullanıcılar, her iki satın alma seçeneğini de kullanabilirler.</string>
+    <string name="datausage">Mobil İnternet
+        \nKullanımı</string>\nKullanımı</string>
+    <string name="data_usage_perms">Shortcutter mobil internet kullanımı bilgilerine ulaşmak için izin istiyor.
+        \n\nDevam edip Shortcutter için gerekli izni verin.\n\n</string>
+    <string name="reset_day">Her ay için sıfırlanma günü %1$d </string>
+    <string name="select_day">Mobil İnternet sıfırlanma gününü seçin</string>
+    <string name="data_cycle_reset">Mobil İnternet kullanımı aralığı</string>
+    <string name="data_cycle_summary">Ayın hangi gününden itibaren ölçüm yapılacağını seçin.(Fatura kesim tarihi yada kontör yükleme tarihi)</string>
+    <string name="data_tile_summary">Mobil İnternet kullanımını gösterir.
+        \n(Change cycle in \n(Kullanım aralığını sekme ayarlarından değiştirebilirsiniz)</string>
     <string name="data_tile_title">Data Usage Tile</string>
     <string name="perms_required">Permissions need to be granted, Launching Shortcutter</string>
     <string name="failed_data_usage">Failed to launch data usage information</string>

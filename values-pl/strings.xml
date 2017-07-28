@@ -603,5 +603,29 @@
     <string name="alphaDown">Przeźroczystość -</string>
     <string name="transparency">Przeźroczystość =&#160;</string>
     <string name="launch_loc">Uruchamia Ustawienia - Lokalizacja</string>
-    <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Szybkie Ustawienia v%1$s </string>
+     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
+    <string name="nigh_light">Night Light</string>
+    <string name="brightness">Jasność Ekranu</string>
+    <string name="scnigh_light">Shortcutter\nNight Light</string>
+    <string name="nightlight_summary">Provides an always on Nightlight and clock display, plus a button to swiftly swith to Desk Clock Mode</string>
+    <string name="deskmode">Desk Clock\nMode</string>
+    <string name="lightmode">Night Light\nMode</string>
+    <string name="scdesk">Shortcutter\nDesk Clock</string>
+    <string name="expand_collapse">Toolbox\nExpander</string>
+    <string name="expose_toggler">Expose the \"Toolbox Expander\" icon to open and close the Toolbox or SideBar, mappable to Edge Sense, Bixby &amp; More!</string>
+    <string name="expose_toggler_title">Toolbox Expander</string>
+    <string name="permissions">Uprawnienia Aplikacji</string>
+    <string name="settings_access">Write System Settings</string>
+    <string name="overlay_access">Overlay Permissions</string>
+    <string name="admin_access">Dostęp Administratora</string>
+    <string name="acc_access">Dostęp do Ułatwień Dostępu</string>
+    <string name="dnd_access">Dostęp Do Trybu Nieprzeszkadzać</string>
+    <string name="usage_access">Data Usage</string>
+    <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
+    <string name="overlay_summary">Usage: Floating Toolbox/SideBar, Screen Filter &amp; Rounded Corners</string>
+    <string name="admin_summary">Usage: Screen Lock</string>
+    <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Screen Filter &amp; Rounded Corners</string>
+    <string name="dnd_summary">Usage: Ring Mode</string>
+    <string name="usage_summary">Usage: Data Usage Tile</string>
+    <string name="actual_tiles">Actual Tiles =&#160; %1$d </string>
 </resources>
