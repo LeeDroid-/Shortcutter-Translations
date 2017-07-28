@@ -556,12 +556,6 @@
     <string name="corners_active">Okrągłe rogi aktywne</string>
     <string name="misc_cat">Otwórz Inne Przełączniki</string>
     <string name="misc_tiles_cat">Różne Ustawienia Płytek</string>
-    <string name="shortcutter_permissions">Shortcutter wymaga kilku podstawowych uprawnień, aby prawidłowo działać.
-	   \n\nTeraz będziemy żądać wymaganych uprawnień przed przejściem na następną stronę
-	   \n\n\u2022 Aparat: Kontrola Latarki
-	   \n\u2022 Telefon: Sprawdź stan sieci
-	   \n\u2022 Pamięć: Zrzut Ekranu &amp; Nagrywanie
-	   \n\u2022 Lokalizacja: Pogoda &amp; Lokalizacja.</string>
     <string name="fancy_anim">Animacja Opuszczania</string>
     <string name="fancy_summary">Włącz / wyłącz płynną animację</string>
     <string name="configurable">Płytki z niebieskim paskiem mają dodatkowe opcje, te opcje można znaleźć na karcie "Konfigurowanie usług / płytek".</string>

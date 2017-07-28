@@ -134,7 +134,7 @@
     <string name="welcome_to_shortcutter">Welcome To</string>
     <string name="Immersive">Immersive Mode</string>
     <string name="manual_secure_summary">Grant Shortcutter access to Settings Secure to enable additional Tiles.
-        \n(A PC &amp; is required)</string>
+        \n(A PC is required)</string>
     <string name="secure_access_enabled">Secure Access Enabled</string>
     <string name="secure_access">Settings Secure Access</string>
     <string name="action_required">Action Required</string>
@@ -176,7 +176,7 @@
     <string name="old_licene">Premium key detected</string>
     <string name="tweaks_key">LeeDrOiD Tweaks key detected
         \n Premium features activated</string>
-    <string name="qs_tiles">Quick Settings</string>
+    <string name="qs_tiles">Quick Settings\nTiles</string>
     <string name="all_prices_subject_to_tax_vat">All prices include Tax/VAT*
         \n\nPurchasing Shortcutter Premium will remove the 20 click notification and enable additional Quick Settings tiles and app features.</string>
     <string name="amin">amin</string>
@@ -345,14 +345,14 @@
     <string name="how_to">Click Here for A simple guide to adding Shortcutter Quick Setting Tiles.</string>
     <string name="addtiles_title">How To Add QS Tiles - Guide</string>
     <string name="adding_qs_tiles">Adding QS Tiles</string>
-    <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Pulldown Tile Settings\" tab & make your QS Tile selections.]]></string>
+    <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Quick Settings Tiles\" tab & make your QS Tile selections.]]></string>
     <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below, this is usually a pen icon.
     \n\n Samsung users hit the 3 dot menu and select rearrange tiles, your Shortcutter tiles will show in the bottom view.]]></string>
     <string name="edit_view1">3. In the Edit View you will find 2/3 containers, you will see your new Shortcutter tiles in the bottom container.
         \n\nTo add them, simply long press and drag your chosen tiles up to the top (Active) container and exit the Edit View.</string>
     <string name="edit_view_note">IMPORTANT NOTE:
         \n\n Due to a bug in Android N, you may struggle to add tiles, this can be worked around by doing the following.
-        \n\nRemove any tiles you do not want in the \"Pulldown Tile Settings\" tab &amp; take your new tiles from the TOP of the available tiles container.
+        \n\nRemove any tiles you do not want in the \"Quick Settings Tiles\" tab &amp; take your new tiles from the TOP of the available tiles container.
         \n\nUnfortunately this is not something I can fix as it has nothing to do with the app.</string>
     <string name="small">Font
         \nSmall</string>
@@ -469,7 +469,7 @@
     <string name="wake_active">Screen Wake Active</string>
     <string name="floating_toolbox">Enable SideBar/Toolbox</string>
     <string name="float_summary">A swipe out SideBar or floating quick access panel</string>
-    <string name="tb_tiles">Toolbox / SideBar</string>
+    <string name="tb_tiles">Toolbox/SideBar\nSettings</string>
     <string name="email_feedback">Email Feedback</string>
     <string name="submit_review">Leave A Review</string>
     <string name="rate_app">Rate The App</string>
@@ -552,7 +552,7 @@
     <string name="how_it_works3">2 &amp; 3. Via the unique Shortcutter Swipe out SideBar or Floating Toolbox</string>
     <string name="how_it_works4">4. Through Exposing the toggles to your app drawer, which enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
-    <string name="config_serv">Service Settings</string>
+    <string name="config_serv">Configure\nShortcuts</string>
     <string name="enable_to_config">Enable/Add Tile to configure</string>
     <string name="expose_activity">Expose Launcher Icon</string>
     <string name="expose_activity_summary">Access this toggle from your home screen or other apps.</string>
@@ -640,4 +640,19 @@
     <string name="dnd_summary">Usage: Ring Mode</string>
     <string name="usage_summary">Usage: Data Usage Tile</string>
     <string name="actual_tiles">Actual Tiles =&#160; %1$d </string>
+    <string name="shortcutter_permissions_phone">This toggle requires the ability to check network state.\n\n
+    In order to do this the app needs the Phone permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_storage">This service requires the ability to access external storage.\n\n
+    In order to do this the app needs the Read/Write Storage permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_camera">This toggle requires the ability to access the camera (Flash).\n\n
+    In order to do this the app needs the Camera permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_sync">This toggle requires the ability to access your Sync settings.\n\n
+    In order to do this the app needs the Read/Write Sync permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
+    In order to do this the app needs the Location permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
 </resources>
