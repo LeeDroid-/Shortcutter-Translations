@@ -51,7 +51,8 @@
     </string-array>
     <string-array name="sb_columns_values">
         <item>1</item>
-        <item>2</item>
+        <item>2 (Domyślnie)</item>
         <item>3</item>
+        <item>4</item>
     </string-array>
 </resources>
