@@ -633,8 +633,9 @@
 	<string name="shortcutter_permissions_phone">Ten przełącznik wymaga sprawdzenia stanu sieci.\n\n
     W tym celu aplikacja wymaga uprawnień do Telefonu.\n\n
     Proszę kliknij kontynuuj &amp; udziel wymaganych uprawnień.</string>
-    <string name="shortcutter_permissions_storage"><?xml version="1.0" encoding="UTF-8"?>
-<resources>
+    <string name="shortcutter_permissions_storage">Ten przełącznik wymaga dostępu do pamięci zewnętrznej.\n\n
+    W tym celu aplikacja wymaga uprawnień do Odczytu/Zapisu Pamięci.\n\n
+    Proszę kliknij kontynuuj &amp; udziel wymaganych uprawnień.</string>
     <string name="shortcutter_permissions_camera">Ten przełącznik wymaga dostępu do Aparatu (Latarka).\n\n
     W tym celu aplikacja wymaga uprawnień do Aparatu.\n\n
     Proszę kliknij kontynuuj &amp; udziel wymaganych uprawnień.</string>
@@ -643,8 +644,5 @@
     Proszę kliknij kontynuuj &amp; udziel wymaganych uprawnień.</string>
     <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
     W tym celu aplikacja wymaga uprawnień do Lokalizacji.\n\n
-    Proszę kliknij kontynuuj &amp; udziel wymaganych uprawnień.</string>
-</resources>.\n\n
-    W tym celu aplikacja wymaga uprawnień do Odczytu/Zapisu Pamięci.\n\n
     Proszę kliknij kontynuuj &amp; udziel wymaganych uprawnień.</string>
 </resources>
