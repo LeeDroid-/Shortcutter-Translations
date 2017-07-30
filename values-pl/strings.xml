@@ -632,13 +632,13 @@
     <string name="admin_access">Dostęp Administratora</string>
     <string name="acc_access">Dostęp do Ułatwień Dostępu</string>
     <string name="dnd_access">Dostęp Do Trybu Nieprzeszkadzać</string>
-    <string name="usage_access">Data Usage</string>
-    <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
-    <string name="overlay_summary">Użyj: Pływający Toolbox/Pasek Boczny, Filtry Ekranu &amp; Zaokrąglone Narożniki</string>
-    <string name="admin_summary">Użyj: Blokada Ekranu</string>
-    <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Screen Filter &amp; Rounded Corners</string>
-    <string name="dnd_summary">Użyj: Trybu Dzwonka</string>
-    <string name="usage_summary">UZyj: Płytka Użycia Danych</string>
+    <string name="usage_access">Użycie Danych</string>
+    <string name="settings_system_summary">Użyj: Jasność, Rozmiar Czcionki, Potwierdzenie wibracją &amp; Czas włączenia ekranu</string>
+    <string name="overlay_summary">Użycie: Pływający Toolbox/Pasek Boczny, Filtry Ekranu &amp; Zaokrąglone Narożniki</string>
+    <string name="admin_summary">Użycie: Blokada Ekranu</string>
+    <string name="acc_summary">Użycie: Recent Apps, Power Menu, Split Screen, Screen Filter &amp; Rounded Corners</string>
+    <string name="dnd_summary">Użycie: Trybu Dzwonka</string>
+    <string name="usage_summary">Użycie: Płytka Użycia Danych</string>
     <string name="actual_tiles">Aktualna Płytka =&#160; %1$d </string>
 	<string name="shortcutter_permissions_phone">This toggle requires the ability to check network state.\n\n
     In order to do this the app needs the Phone permission.\n\n
