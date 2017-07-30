@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="location_mode_entries">
+        <item>Desligado</item>
+        <item>Apenas no Dispositivo</item>
+        <item>Poupança de Bateria</item>
+        <item>Alta Precisão</item>
+    </string-array>
+    <string-array name="location_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="ring_mode_entries">
+        <item>Silêncio</item>
+        <item>Vibrar</item>
+        <item>Tocar</item>
+    </string-array>
+    <string-array name="ring_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="sidebar_tmb_entries">
+        <item>Cima</item>
+        <item>Centro</item>
+        <item>Baixo</item>
+    </string-array>
+    <string-array name="sidebar_tmb_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="tb_columns_entries">
+        <item>2</item>
+        <item>3</item>
+        <item>4 (Pré-Definido)</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="tb_columns_values">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="sb_columns_entries">
+        <item>1</item>
+        <item>2 (Pré-Definido)</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="sb_columns_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
