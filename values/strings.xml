@@ -97,7 +97,6 @@
     <string name="system_perms_message">Some tiles require the ability to write system settings, as we cannot request these permissions in the normal fasion, you will need to enable them.
         \n\nClick proceed and you will be taken to the relevant screen.\n</string>
     <string name="press_back">Press back to return once enabled.</string>
-    <string name="enable">ENABLE</string>
     <string name="credits">Credits</string>
     <string name="full_title">Shortcutter Quick Settings</string>
     <string name="thanks_for_support">"   Thanks for your support!  :)"</string>
@@ -128,7 +127,6 @@
     <string name="disabled">Disabled</string>
     <string name="enabled">Enabled</string>
     <string name="app_info">App Information</string>
-    <string name="splash_4">This screen only shows when Shortcutter requires additional permissions.</string>
     <string name="splash_3">Custom Quick Settings for Android</string>
     <string name="by_leedroid">Created By LeeDrOiD</string>
     <string name="welcome_to_shortcutter">Welcome To</string>
@@ -340,7 +338,6 @@
     <string name="data_tile_summary">Shows Mobile Data Usage
         \n(Change cycle in Tile Settings)</string>
     <string name="data_tile_title">Data Usage Tile</string>
-    <string name="perms_required">Permissions need to be granted, Launching Shortcutter</string>
     <string name="failed_data_usage">Failed to launch data usage information</string>
     <string name="how_to">Click Here for A simple guide to adding Shortcutter Quick Setting Tiles.</string>
     <string name="addtiles_title">How To Add QS Tiles - Guide</string>
@@ -488,7 +485,6 @@
     <string name="app_picker">Select An Application</string>
     <string name="custom_app_tiles">Custom App Tiles</string>
     <string name="swipe_up">Swipe up from the bottom to dismiss</string>
-    <string name="choose_application">Choose An Application</string>
     <string name="lock_screen_title">Lock Screen</string>
     <string name="auto_rotate">Auto
         \nRotate</string>
@@ -562,12 +558,6 @@
     <string name="corners_active">Round Corners Active</string>
     <string name="misc_cat">Expose Other Toggles</string>
     <string name="misc_tiles_cat">Miscellaneous Tile Settings</string>
-    <string name="shortcutter_permissions">Shortcutter requires several core permissions in order to function correctly.
-        \n\nWe will now request the required permissions before proceeding to the next page
-        \n\n\u2022 Camera: Control Flashlight
-        \n\u2022 Phone: Check network state
-        \n\u2022 Storage: Screen Shots &amp; Recordings
-        \n\u2022 Location: Weather &amp; Location.</string>
     <string name="fancy_anim">Reflow Pulldown Animation</string>
     <string name="fancy_summary">Enable/Disable the fancy reflow pulldown animation</string>
     <string name="configurable">Shortcutter tiles with a blue bar have additional options, these options can be found in the "Configure Services/Tiles" tab.</string>
