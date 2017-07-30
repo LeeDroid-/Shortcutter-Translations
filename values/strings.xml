@@ -194,53 +194,53 @@
     <string name="swipe_left">SWIPE LEFT TO CONTINUE</string>
     <string name="availableram">Available
         \nRAM</string>
-    <string name="network_mode">Network Mode Tile</string>
+    <string name="network_mode">Network Mode</string>
     <string name="network_mode_summary">Network Band selection</string>
     <string name="adb_summary">Toggle the Android Debug Bridge</string>
-    <string name="adbtile">ADB Tile</string>
+    <string name="adbtile">ADB</string>
     <string name="alarm_summary">Show next alarm, click opens alarms</string>
-    <string name="alarm_tile_title">Next Alarm Tile</string>
+    <string name="alarm_tile_title">Next Alarm</string>
     <string name="ambien_summary">Ambient / Doze display</string>
-    <string name="ambient_tile_title">Ambient Display Tile</string>
+    <string name="ambient_tile_title">Ambient Display</string>
     <string name="autobrightness_summary">Auto Brightness On/Off</string>
-    <string name="autobrightness_tile_title">Auto Brightness Tile</string>
+    <string name="autobrightness_tile_title">Auto Brightness</string>
     <string name="brightnesspreset_summary">Toggle through brightness steps
         \n(Define steps in Tile Settings)</string>
-    <string name="brightnesspreset_tile_title">Brightness Preset Tile</string>
+    <string name="brightnesspreset_tile_title">Brightness Preset</string>
     <string name="camera_summary">Launches the default camera app</string>
-    <string name="camera_tile_title">Camera Tile</string>
-    <string name="haptic_tile_title">Haptic Feeback Tile</string>
+    <string name="camera_tile_title">Camera</string>
+    <string name="haptic_tile_title">Haptic Feeback</string>
     <string name="haptic_summary">Toggle Haptic Feeback on/off</string>
     <string name="headsup_summary">Toggle Heads Up notifications</string>
-    <string name="Headsup_tile_title">Heads Up Tile</string>
+    <string name="Headsup_tile_title">Heads Up</string>
     <string name="immersive_summary">Hide the status and navigation bars</string>
     <string name="immersive_tile_title">Immersive
         \nMode</string>
     <string name="location_summary">Toggle location mode Off/GPS/Battery Saving/Hight Accuracy</string>
-    <string name="location_tile_title">Location Mode Tile</string>
-    <string name="ram_tile_title">RAM Tile</string>
+    <string name="location_tile_title">Location Mode</string>
+    <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">Displays available and total RAM, with a shortcut to go to RAM information</string>
-    <string name="recovery_tile_title">Reboot Recovery Tile</string>
+    <string name="recovery_tile_title">Reboot Recovery</string>
     <string name="recovery_summary">Reboots your device to Recovery Mode</string>
     <string name="reboot_summary">Reboots your device</string>
-    <string name="reboot_tile_title">Reboot Tile</string>
-    <string name="ringmode_tile_title">Ring Mode Tile</string>
+    <string name="reboot_tile_title">Reboot</string>
+    <string name="ringmode_tile_title">Ring Mode</string>
     <string name="ringmode_summary">Toggle Ring Mode Ring/Vibrate/Silent</string>
     <string name="screenrecord_summary">A tile to record everything on your devices screen</string>
-    <string name="screenrecord_tile_title">Screen Record Tile</string>
+    <string name="screenrecord_tile_title">Screen Record</string>
     <string name="screenshot_summary">Takes a still image of your device screen</string>
-    <string name="screenshot_tile_title">Screenshot Tile</string>
-    <string name="sync_tile_title">Autosync Tile</string>
+    <string name="screenshot_tile_title">Screenshot</string>
+    <string name="sync_tile_title">Autosync</string>
     <string name="sync_summary">Enable / Disable Auto Sync</string>
     <string name="timeout_summary">Toggle screen timeout value</string>
-    <string name="timeout_tile_title">Screen Timeout Tile</string>
-    <string name="volumeui_tile_title">Volume Panel Tile</string>
+    <string name="timeout_tile_title">Screen Timeout</string>
+    <string name="volumeui_tile_title">Volume Panel</string>
     <string name="volumeui_summary">A tile to display the volume panel</string>
     <string name="wake_summary">Keeps your device screen awake</string>
-    <string name="wake_tile_title">Screen Wake Tile</string>
+    <string name="wake_tile_title">Screen Wake</string>
     <string name="tuner_summary">Launch the hidden SystemUI Tuner
         \nFunctionality is Manufacturer dependent</string>
-    <string name="tuner_tile_title">SystemUI Tuner Tile</string>
+    <string name="tuner_tile_title">SystemUI Tuner</string>
     <string name="prem_only">Premium
         \n Only</string>
     <string name="settings_secure_needed">Settings Secure access required</string>
@@ -249,10 +249,10 @@
     <string name="flash_off">Flashlight
         \nOff</string>
     <string name="flash_summary">Toggle the camera flashlight</string>
-    <string name="flash_tile_title">Flashlight Tile</string>
+    <string name="flash_tile_title">Flashlight</string>
     <string name="no_flash">No Flashlight Detected</string>
     <string name="battery_summary">Monitor your battery level</string>
-    <string name="battery_tile_title">Battery Tile</string>
+    <string name="battery_tile_title">Battery</string>
     <string name="on_while_charge">On When
         \nCharging</string>
     <string name="onwhilecharge_summary">Keep screen on when plugged in</string>
@@ -263,7 +263,7 @@
     <string name="label_parent_directory">Parent Directory</string>
     <string name="last_edit">Last edited: </string>
     <string name="select">Select</string>
-    <string name="countdown">Countdown Tile</string>
+    <string name="countdown">Countdown</string>
     <string name="new_message">New
         \nMessage</string>
     <string name="cap_store_title">Screen Capture Storage</string>
@@ -286,7 +286,7 @@
     <string name="counter_summary">A tile that counts clicks</string>
     <string name="reset_counter">Reset Clicker Tile</string>
     <string name="cur_val">Current value = %1$d </string>
-    <string name="Dice">Dice Tile</string>
+    <string name="Dice">Dice</string>
     <string name="dice_desc">Generates a random number
         \n(Change range in Tile Settings)</string>
     <string name="auto_step">Auto Brightness Step</string>
@@ -307,7 +307,7 @@
     <string name="newemail">New
         \nEmail</string>
     <string name="newemailsum">Send a new email</string>
-    <string name="emailtitle">New Email Tile</string>
+    <string name="emailtitle">New Email</string>
     <string name="stay_in_the_loop">Social Media/Contact</string>
     <string name="follow_me">Follow Me On Twitter</string>
     <string name="like_facebook">Like My Facebook Page</string>
@@ -320,7 +320,7 @@
         \nDisabled</string>
     <string name="togglenfc">NFC
         \nToggle</string>
-    <string name="nfctile">NFC Tile</string>
+    <string name="nfctile">NFC</string>
     <string name="nfctilesum">Toggle NFC on/off</string>
     <string name="app_open">This application must run once prior to using any tiles or services
         \n\nPlease pay attention to the dialogs</string>
@@ -337,7 +337,7 @@
     <string name="data_cycle_summary">Select the day of the month to measure data from (Usually your billing date)</string>
     <string name="data_tile_summary">Shows Mobile Data Usage
         \n(Change cycle in Tile Settings)</string>
-    <string name="data_tile_title">Data Usage Tile</string>
+    <string name="data_tile_title">Data Usage</string>
     <string name="failed_data_usage">Failed to launch data usage information</string>
     <string name="how_to">Click Here for A simple guide to adding Shortcutter Quick Setting Tiles.</string>
     <string name="addtiles_title">How To Add QS Tiles - Guide</string>
@@ -464,8 +464,8 @@
     <string name="immersive_off">Immersive
         \nOff</string>
     <string name="wake_active">Screen Wake Active</string>
-    <string name="floating_toolbox">Enable SideBar/Toolbox</string>
-    <string name="float_summary">A swipe out SideBar or floating quick access panel</string>
+    <string name="floating_toolbox">Enable The SideBar/Toolbox</string>
+    <string name="float_summary">A SideBar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
     <string name="tb_tiles">Toolbox/SideBar\nSettings</string>
     <string name="email_feedback">Email Feedback</string>
     <string name="submit_review">Leave A Review</string>
@@ -475,7 +475,7 @@
     <string name="power_menu">Power Menu</string>
     <string name="new_message_title">New SMS</string>
     <string name="new_tweet_title">New Tweet</string>
-    <string name="counter_tile_title">Clicker Tile</string>
+    <string name="counter_tile_title">Clicker</string>
     <string name="mobile_data">Mobile Data</string>
     <string name="night_mode">Night Mode</string>
     <string name="show_immersive_activity">Show Mode Selector</string>
@@ -501,8 +501,8 @@
     <string name="other_settings">Misc Settings</string>
     <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed pulldown.
         \nThis MOD is manufacturer dependent.</string>
-    <string name="sidebar">SideBar/Floating Toolbox</string>
-    <string name="sidebar_summary">Toggle between the Swipe Out SideBar or Floating Toolbox.</string>
+    <string name="sidebar">SideBar or Floating Toolbox</string>
+    <string name="sidebar_summary">Choose between the Swipe Out SideBar or Floating Toolbox.</string>
     <string name="sidebar_pos">Horizontal Trigger Position</string>
     <string name="right">Current Position Right</string>
     <string name="left_position">Current Position Left</string>
@@ -519,7 +519,7 @@
     <string name="filter_colour">Select Filter Colour</string>
     <string name="filter_off">Screen Filter Off</string>
     <string name="filter_on">Screen Filter On</string>
-    <string name="filter_tile_title">Screen Filter Tile</string>
+    <string name="filter_tile_title">Screen Filter</string>
     <string name="screen_filter">Screen Filter</string>
     <string name="screen_filter_summary">A screen filter to reduce eye strain at night (Night Mode)</string>
     <string name="reset_filter">Reset Filter Colour</string>
@@ -537,7 +537,7 @@
     <string name="round_title">Rounded
         \nCorners</string>
     <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
-    <string name="corners_title">Rounded Corners Tile</string>
+    <string name="corners_title">Rounded Corners</string>
     <string name="corners__scale_title">Screen Corner Scale</string>
     <string name="corners__scale_set">Corner Scale&#160;=&#160;%1$d\%</string>
     <string name="corners_scale_summary">Adjust the screen corner radius</string>
@@ -614,7 +614,7 @@
     <string name="lightmode">Night Light\nMode</string>
     <string name="scdesk">Shortcutter\nDesk Clock</string>
     <string name="expand_collapse">Toolbox\nExpander</string>
-    <string name="expose_toggler">Expose the \"Toolbox Expander\" icon to open and close the Toolbox or SideBar, mappable to Edge Sense, Bixby &amp; More!</string>
+    <string name="expose_toggler">Expose the \"Toolbox Expander\" icon to open and close the Toolbox or SideBar from your home screen &amp; enable mapping to Edge Sense, Bixby &amp; similar apps.</string>
     <string name="expose_toggler_title">Toolbox Expander</string>
     <string name="permissions">App Permissions</string>
     <string name="settings_access">Write System Settings</string>
@@ -645,4 +645,5 @@
     <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
     In order to do this the app needs the Location permission.\n\n
     Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="unavailable">Unavailable</string>
 </resources>
