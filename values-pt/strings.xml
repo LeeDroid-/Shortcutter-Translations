@@ -29,20 +29,11 @@
     <string name="haptic">Resposta de Vibração</string>
     <string name="root_required1">Necessário acesso root para concluir</string>
     <string name="select_net_mode">Selecionar Modo de Rede</string>
-    <string name="applogo">AppLogo</string>
     <string name="exit">Sair</string>
     <string name="root_access">Funcionalidades Root</string>
     <string name="enable_root_features">Ativar Funcionalidades Root</string>
     <string name="root_features_enabled">Funcionalidades Root Ativadas</string>
     <string name="appicon">AppIcon</string>
-    <string name="CustomMosaico1">App Personalizada 1</string>
-    <string name="CustomMosaico2">App Personalizada 2</string>
-    <string name="CustomMosaico4">App Personalizada 4</string>
-    <string name="CustomMosaico3">App Personalizada 3</string>
-    <string name="CustomMosaico5">App Personalizada 5</string>
-    <string name="CustomMosaico6">App Personalizada 6</string>
-    <string name="CustomMosaico7">App Personalizada 7</string>
-    <string name="CustomMosaico8">App Personalizada 8</string>
     <string name="EnterUrl">Introduza URL Personalizada</string>
     <string name="CustomUrl1">URL Personalizada 1</string>
     <string name="CustomUrl2">URL Personalizada 2</string>
@@ -81,7 +72,6 @@
     <string name="proceed">Continuar</string>
     <string name="system_perms_message">Alguns mosaicos precisão de autorização para alterar definições de sistema, como não podemos pedir estas permissões do modo normal, terá que as ativar.\n\nClick continuar e será levado ao ecrã relevante.\n</string>
     <string name="press_back">Volte atrás depois de ativar.</string>
-    <string name="enable">ATIVAR</string>
     <string name="credits">Créditos</string>
     <string name="full_title">Shortcutter Quick Settings</string>
     <string name="thanks_for_support">"   Obrigado pelo apoio!  :)"</string>
@@ -105,8 +95,6 @@
     <string name="disabled">Desativado</string>
     <string name="enabled">Ativado</string>
     <string name="app_info">Informação da App</string>
-    <string name="app_options">Opções da App</string>
-    <string name="splash_4">Este ecrã só aparece quando Shortcutter precisa de permições adicionais.</string>
     <string name="splash_3">Configurações Rápidas Personalizadas para Android</string>
     <string name="by_leedroid">Creado By LeeDrOiD</string>
     <string name="welcome_to_shortcutter">Bem-vindo A</string>
@@ -118,11 +106,9 @@
     <string name="settings_secure_instruct">Pode manualmente dar acessa a Definições Protegidas a Shortcutter, permitindo maior controle sobre o sistema.\n\nA partir do PC vá a www.leedroid.co.uk/#SettingsSecureGuide e siga as instruções.\n\n</string>
     <string name="confirm">CONFIRMAR</string>
     <string name="screenshot">Screenshot</string>
-    <string name="start">Iniciar</string>
     <string name="screenrecord">Gravação\nde Ecrã</string>
     <string name="stop_recording"> Começar Gravação </string>
     <string name="start_recording"> Parar Gravação </string>
-    <string name="shortcutter">Shortcutter\n     Gravador de Ecrã</string>
     <string name="show_toggle">Mostrar Interruptor</string>
     <string name="close">Fechar</string>
     <string name="record_audio">Gravar Áudio</string>
@@ -205,7 +191,6 @@
     <string name="tuner_tile_title">Mosaico SystemUI Tuner</string>
     <string name="prem_only">Exclusivo\n Premium</string>
     <string name="settings_secure_needed">Acesso a Definições Protegidas necessário</string>
-    <string name="nightmode">Modo\nNoturno</string>
     <string name="flash_on">Lanterna\nLigada</string>
     <string name="flash_off">Lanterna\nDesligada</string>
     <string name="flash_summary">Liga/Desliga a lanterna</string>
@@ -252,7 +237,6 @@
     <string name="new_tweet">Novo\nTweet</string>
     <string name="not_installed">Aplicação não instalada</string>
     <string name="new_tweet_summary">Envia um novo Tweet</string>
-    <string name="nightmode_summary">Atalho para a definição Modo Noturno</string>
     <string name="shot_delay">Definir tempo de atraso de screenshot personalizado</string>
     <string name="shot_delay_title">Atraso de Screenshot (Segundos)</string>
     <string name="newemail">Novo\nEmail</string>
@@ -264,7 +248,6 @@
     <string name="home">Home</string>
     <string name="dice_desc_range">Selecionar uma gama personalizada para o Mosaico Dados</string>
     <string name="dice_tile_range">Gama Mosaico Dados</string>
-    <string name="select_range">Selecione uma gama</string>
     <string name="nfc_enabled">NFC\nLigado</string>
     <string name="nfc_disabled">NFC\nDeligado</string>
     <string name="togglenfc">Liga/Desliga\nNFC</string>
@@ -282,7 +265,6 @@
     <string name="data_cycle_summary">Selecionar o dia do mês a partir de quando de mede a utilização (Normalmente o dia de faturação)</string>
     <string name="data_tile_summary">Mostra Utilização de Dados\n(Muddar ciclo em Definições de Mosaicos)</string>
     <string name="data_tile_title">Mosaico Utilização de Dados</string>
-    <string name="perms_required">Têm que ser dadas permissões, A abrir Shortcutter</string>
     <string name="failed_data_usage">Falha ao abrir informação de utilização de dados</string>
     <string name="how_to">Clique aqui para um guia simple de como adicionar Mosaicos de Configuração Rápida.</string>
     <string name="addtiles_title">Como Adicionar Mosaicos CR</string>
@@ -385,7 +367,6 @@
     <string name="app_picker">Selecionar Uma Aplicação</string>
     <string name="custom_app_tiles">Mosaicos de App Personalizada</string>
     <string name="swipe_up">Deslize de baixo para cima para ignorar</string>
-    <string name="choose_application">Escolha uma Aplicação</string>
     <string name="lock_screen_title">Bloquear o Ecrã</string>
     <string name="auto_rotate">Rotação\nAutomática</string>
     <string name="portrait">Retrato</string>
@@ -453,7 +434,6 @@
     <string name="corners_active">Cantos Arredondados Activos</string>
     <string name="misc_cat">Expor Outros Comandos</string>
     <string name="misc_tiles_cat">Outras Definições de Mosaicos</string>
-    <string name="shortcutter_permissions">Shortcutter precisa de várias permições de sistema para funcionar corretamente\n\nAntes de passarmos à página seguinte, vamos pedir essa permições\n\n\u2022 Câmara: Controlar a lanterna\n\u2022 Telemóvel: Verificar estado de rede\n\u2022 Armazenamento: Screenshots &amp; Gravações.</string>
     <string name="fancy_anim">Animação de refluxo</string>
     <string name="fancy_summary">Ativar/Desativar a animação de refluxo elegante</string>
     <string name="configurable">Mosaicos Shortcutter com uma barra azul têm opções adicionais, estas opções podem ser encontradas no separador "Configurar Serviços/Mosaicos".</string>
@@ -464,7 +444,6 @@
     <string name="misc_tiles">Outros Mosaicos</string>
     <string name="custom_url_tiles">Mosaicos de URL Personalizados</string>
     <string name="google_awareness_key">NOPE, SORRY ;)</string>
-    <string name="google_maps_key">ME NEITHER, WOOPS ;)</string>
     <string name="weather">Informação Metereológica</string>
     <string name="tap_close">Toque para fechar</string>
     <string name="weather_desc">Abre uma janela com o estado do tempo atual</string>
@@ -477,4 +456,69 @@
     <string name="weather_celsius">Unidade de Temperatura</string>
     <string name="celsius">Celsius</string>
     <string name="fahrenheit">Fahrenheit</string>
+    <string name="app_sig">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
+    <string name="humidity">Humidity:&#160;</string>
+    <string name="mylocation">My Location</string>
+    <string name="maps_link">View On Maps</string>
+    <string name="refresh">Refresh</string>
+    <string name="current_location">Current Location</string>
+    <string name="maps_api">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
+    <string name="dev_loc_mode">Location Mode:&#160;%1$s</string>
+    <string name="mylocation_summary">Displays current location, with options to view in maps or share</string>
+    <string name="loading_map">Loading Map....</string>
+    <string name="swipe_out">Swipe out to dismiss</string>
+    <string name="choose_ring_entries">Choose Ring Mode Entries (2 Minimum)</string>
+    <string name="qs_head_title">QS Header Tiles</string>
+    <string name="acc_needed_corners">This overlay requires Accessibility access to:
+        \n\n \u2022 Detect secure activities.
+        \n\nIf a secure activity is detected, this overlay will automatically stop.
+        \n\nClick proceed, go to Shortcutter and enable the service.\n\n</string>
+    <string name="filter_off_secure">Screen Filter Off
+        \nSecure activity detected</string>
+    <string name="corners_off_secure">Screen Corners Off
+        \nSecure activity detected</string>
+    <string name="alphaUp">Opacity +</string>
+    <string name="alphaDown">Opacity -</string>
+    <string name="transparency">Opacity =&#160;</string>
+    <string name="launch_loc">Launches Settings - Location</string>
+    <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
+    <string name="nigh_light">Night Light</string>
+    <string name="brightness">Screen Brightness</string>
+    <string name="scnigh_light">Shortcutter\nNight Light</string>
+    <string name="nightlight_summary">Provides an always on Nightlight and clock display, plus a button to swiftly swith to Desk Clock Mode</string>
+    <string name="deskmode">Desk Clock\nMode</string>
+    <string name="lightmode">Night Light\nMode</string>
+    <string name="scdesk">Shortcutter\nDesk Clock</string>
+    <string name="expand_collapse">Toolbox\nExpander</string>
+    <string name="expose_toggler">Expose the \"Toolbox Expander\" icon to open and close the Toolbox or SideBar, mappable to Edge Sense, Bixby &amp; More!</string>
+    <string name="expose_toggler_title">Toolbox Expander</string>
+    <string name="permissions">App Permissions</string>
+    <string name="settings_access">Write System Settings</string>
+    <string name="overlay_access">Overlay Permissions</string>
+    <string name="admin_access">Administrator Access</string>
+    <string name="acc_access">Accessibility Access</string>
+    <string name="dnd_access">Do Not Disturb Access</string>
+    <string name="usage_access">Data Usage</string>
+    <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
+    <string name="overlay_summary">Usage: Floating Toolbox/SideBar, Screen Filter &amp; Rounded Corners</string>
+    <string name="admin_summary">Usage: Screen Lock</string>
+    <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Screen Filter &amp; Rounded Corners</string>
+    <string name="dnd_summary">Usage: Ring Mode</string>
+    <string name="usage_summary">Usage: Data Usage Tile</string>
+    <string name="actual_tiles">Actual Tiles =&#160; %1$d </string>
+    <string name="shortcutter_permissions_phone">This toggle requires the ability to check network state.\n\n
+    In order to do this the app needs the Phone permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_storage">This service requires the ability to access external storage.\n\n
+    In order to do this the app needs the Read/Write Storage permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_camera">This toggle requires the ability to access the camera (Flash).\n\n
+    In order to do this the app needs the Camera permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_sync">This toggle requires the ability to access your Sync settings.\n\n
+    In order to do this the app needs the Read/Write Sync permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
+    In order to do this the app needs the Location permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
 </resources>

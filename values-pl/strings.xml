@@ -97,7 +97,6 @@
     <string name="system_perms_message">Niektóre płytki wymagają zapisu ustawień systemowych, jeśli nie możemy dostać tych uprawnień w normalnym stylu, trzeba je włączyć. 
 	    \n\nKliknij kontynuuj i zostaniesz przeniesiony do odpowiedniego ekranu.\n</string>
     <string name="press_back">Naciśnij przycisk Wstecz, aby powrócić po włączeniu.</string>
-    <string name="enable">WŁĄCZ</string>
     <string name="credits">Podziękowania</string>
     <string name="full_title">Shortcutter Quick Settings</string>
     <string name="thanks_for_support">"   Dzięki za twoje wsparcie!  :)"</string>
@@ -128,7 +127,6 @@
     <string name="disabled">Wyłączone</string>
     <string name="enabled">Włączone</string>
     <string name="app_info">Informacje o Aplikacji</string>
-    <string name="splash_4">Po dokonaniu wyboru płytek na ekranie "Włącz / Wyłącz Płytki", pociągnij w dół pasek stanu, a następnie naciśnij przycisk Edytuj, aby dodać płytki do ustawień.</string>
     <string name="splash_3">Własne Szybkie Ustawienia dla Androida</string>
     <string name="by_leedroid">By @LeeDrOiD</string>
     <string name="welcome_to_shortcutter">Witam w</string>
@@ -340,7 +338,6 @@
     <string name="data_tile_summary">Pokazuje Użycie Danych Mobilnych
 	    \n(Zmień cykl w Ustawieniach Płytek)</string>
     <string name="data_tile_title">Płytka Użycia Danych</string>
-    <string name="perms_required">Uprawnienia muszą być przyznane, Uruchamianie Shortcutter</string>
     <string name="failed_data_usage">Nie udało się uruchomić informacje o wykorzystaniu danych</string>
     <string name="how_to">Prosty przewodnik jak dodawać płytki Shortcutter do szybkich ustawień.</string>
     <string name="addtiles_title">Jak Dodawać Płytki QS</string>
@@ -488,7 +485,6 @@
     <string name="app_picker">Wybierz Aplikacje</string>
     <string name="custom_app_tiles">Własna Płytka Aplikacji</string>
     <string name="swipe_up">Przesuń palcem od dołu, aby go zwolnić</string>
-    <string name="choose_application">Wybierz Aplikację</string>
     <string name="lock_screen_title">Blokada Ekranu</string>
     <string name="auto_rotate">Auto
 	    \nRotacja</string>
@@ -562,13 +558,7 @@
     <string name="corners_active">Okrągłe rogi aktywne</string>
     <string name="misc_cat">Otwórz Inne Przełączniki</string>
     <string name="misc_tiles_cat">Różne Ustawienia Płytek</string>
-    <string name="shortcutter_permissions">Shortcutter requires several core permissions in order to function correctly.
-        \n\nWe will now request the required permissions before proceeding to the next page
-        \n\n\u2022 Camera: Control Flashlight
-        \n\u2022 Phone: Check network state
-        \n\u2022 Storage: Screen Shots &amp; Recordings
-        \n\u2022 Location: Weather &amp; Location.</string>
-   <string name="fancy_anim">Animacja Opuszczania</string>
+    <string name="fancy_anim">Animacja Opuszczania</string>
     <string name="fancy_summary">Włącz / wyłącz płynną animację</string>
     <string name="configurable">Płytki z niebieskim paskiem mają dodatkowe opcje, te opcje można znaleźć na karcie "Konfigurowanie usług / płytek".</string>
     <string name="system_toggles">Ustawienia Płytek Systemowych</string>
@@ -742,7 +732,6 @@
     <string name="system_perms_message">Niektóre płytki wymagają zapisu ustawień systemowych, jeśli nie możemy dostać tych uprawnień w normalnym stylu, trzeba je włączyć. 
 	    \n\nKliknij kontynuuj i zostaniesz przeniesiony do odpowiedniego ekranu.\n</string>
     <string name="press_back">Naciśnij przycisk Wstecz, aby powrócić po włączeniu.</string>
-    <string name="enable">WŁĄCZ</string>
     <string name="credits">Podziękowania</string>
     <string name="full_title">Shortcutter Quick Settings</string>
     <string name="thanks_for_support">"   Dzięki za twoje wsparcie!  :)"</string>
@@ -773,7 +762,6 @@
     <string name="disabled">Wyłączone</string>
     <string name="enabled">Włączone</string>
     <string name="app_info">Informacje o Aplikacji</string>
-    <string name="splash_4">Po dokonaniu wyboru płytek na ekranie "Włącz / Wyłącz Płytki", pociągnij w dół pasek stanu, a następnie naciśnij przycisk Edytuj, aby dodać płytki do ustawień.</string>
     <string name="splash_3">Własne Szybkie Ustawienia dla Androida</string>
     <string name="by_leedroid">By @LeeDrOiD</string>
     <string name="welcome_to_shortcutter">Witam w</string>
@@ -985,7 +973,6 @@
     <string name="data_tile_summary">Pokazuje Użycie Danych Mobilnych
 	    \n(Zmień cykl w Ustawieniach Płytek)</string>
     <string name="data_tile_title">Płytka Użycia Danych</string>
-    <string name="perms_required">Uprawnienia muszą być przyznane, Uruchamianie Shortcutter</string>
     <string name="failed_data_usage">Nie udało się uruchomić informacje o wykorzystaniu danych</string>
     <string name="how_to">Prosty przewodnik jak dodawać płytki Shortcutter do szybkich ustawień.</string>
     <string name="addtiles_title">Jak Dodawać Płytki QS</string>
@@ -1133,7 +1120,6 @@
     <string name="app_picker">Wybierz Aplikacje</string>
     <string name="custom_app_tiles">Własna Płytka Aplikacji</string>
     <string name="swipe_up">Przesuń palcem od dołu, aby go zwolnić</string>
-    <string name="choose_application">Wybierz Aplikację</string>
     <string name="lock_screen_title">Blokada Ekranu</string>
     <string name="auto_rotate">Auto
 	    \nRotacja</string>
@@ -1207,13 +1193,7 @@
     <string name="corners_active">Okrągłe rogi aktywne</string>
     <string name="misc_cat">Otwórz Inne Przełączniki</string>
     <string name="misc_tiles_cat">Różne Ustawienia Płytek</string>
-    <string name="shortcutter_permissions">Shortcutter requires several core permissions in order to function correctly.
-        \n\nWe will now request the required permissions before proceeding to the next page
-        \n\n\u2022 Camera: Control Flashlight
-        \n\u2022 Phone: Check network state
-        \n\u2022 Storage: Screen Shots &amp; Recordings
-        \n\u2022 Location: Weather &amp; Location.</string>
-   <string name="fancy_anim">Animacja Opuszczania</string>
+    <string name="fancy_anim">Animacja Opuszczania</string>
     <string name="fancy_summary">Włącz / wyłącz płynną animację</string>
     <string name="configurable">Płytki z niebieskim paskiem mają dodatkowe opcje, te opcje można znaleźć na karcie "Konfigurowanie usług / płytek".</string>
     <string name="system_toggles">Ustawienia Płytek Systemowych</string>
