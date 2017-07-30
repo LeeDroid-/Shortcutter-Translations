@@ -147,6 +147,7 @@
 	    \nEkranu</string>
     <string name="stop_recording">Zatrzymaj Nagrywanie</string>
     <string name="start_recording">Uruchom Nagrywanie</string>
+	<string name="screen_recorder">Nagrywanie Ekranu</string>
     <string name="show_toggle">Pokaż Przełącznik</string>
     <string name="close">Zamknij</string>
     <string name="record_audio">Nagrywanie Dźwięku</string>
@@ -361,7 +362,8 @@
 	    \nCzcionki</string>
     <string name="defaultsize">Czcionka
 	    \nDomyślna</string>
-    <string name="largest">Czcionka\nOlbrzymia</string>
+    <string name="largest">Czcionka
+	    \nOlbrzymia</string>
     <string name="fontscale_sum">Przełącz rozmiar czcionki systemowej</string>
     <string name="font_scale_title">Skalowanie czcionki</string>
     <string name="powersave_disabled">Oszczędzanie Energii
@@ -451,7 +453,10 @@
     <string name="play_pause">Play/Pauza Muzyka</string>
     <string name="play_pause_sum">Play i Pauza Muzyki</string>
     <string name="overlay_needed"><![CDATA[Pływający Shortcutter Toolbox Wymaga uruchomienia Nakładki Systemowej.
-	    \n\nProszę kliknij kontynuuj & udziel wymaganych uprawnień.\n]]></string>
+	    \n\u2022 Pasek Boczny/Pływający Toolbox
+        \n\u2022 Filtry Ekranu/Tryb Nocny
+        \n\u2022 Zaokrąglone Narożniki
+		\n\nProszę kliknij kontynuuj & udziel wymaganych uprawnień.\n]]></string>
     <string name="overlay_required">Wymagane uprawnienia nakładki systemowej</string>
     <string name="mob_data">Dane
 	    \nMobilne</string>
@@ -538,7 +543,8 @@
     <string name="corners_summary">Używa nakładki, aby uzyskać złudzenie zaokrąglonych narożników ekranu</string>
     <string name="corners_title">Płytka Zaokrąglonych Narożników</string>
     <string name="corners__scale_title">Skalowanie Rogów</string>
-    <string name="corners_scale_summary">Ustaw promień naroża ekranu</string>
+    <string name="corners__scale_set">Skalowanie Narożników&#160;=&#160;%1$d\%</string>
+	<string name="corners_scale_summary">Ustaw promień naroża ekranu</string>
     <string name="corner_colour">Wybierz Kolor Rogów</string>
     <string name="how_it_works">Jak to działa</string>
     <string name="how_it_works1">Shortcutter offers 4 different options to access up to 61 unique shortcuts, settings &amp; services in an instant.</string>
@@ -556,7 +562,13 @@
     <string name="corners_active">Okrągłe rogi aktywne</string>
     <string name="misc_cat">Otwórz Inne Przełączniki</string>
     <string name="misc_tiles_cat">Różne Ustawienia Płytek</string>
-    <string name="fancy_anim">Animacja Opuszczania</string>
+    <string name="shortcutter_permissions">Shortcutter requires several core permissions in order to function correctly.
+        \n\nWe will now request the required permissions before proceeding to the next page
+        \n\n\u2022 Camera: Control Flashlight
+        \n\u2022 Phone: Check network state
+        \n\u2022 Storage: Screen Shots &amp; Recordings
+        \n\u2022 Location: Weather &amp; Location.</string>
+   <string name="fancy_anim">Animacja Opuszczania</string>
     <string name="fancy_summary">Włącz / wyłącz płynną animację</string>
     <string name="configurable">Płytki z niebieskim paskiem mają dodatkowe opcje, te opcje można znaleźć na karcie "Konfigurowanie usług / płytek".</string>
     <string name="system_toggles">Ustawienia Płytek Systemowych</string>
@@ -622,10 +634,25 @@
     <string name="dnd_access">Dostęp Do Trybu Nieprzeszkadzać</string>
     <string name="usage_access">Data Usage</string>
     <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
-    <string name="overlay_summary">Usage: Floating Toolbox/SideBar, Screen Filter &amp; Rounded Corners</string>
-    <string name="admin_summary">Usage: Screen Lock</string>
+    <string name="overlay_summary">Użyj: Pływający Toolbox/Pasek Boczny, Filtry Ekranu &amp; Zaokrąglone Narożniki</string>
+    <string name="admin_summary">Użyj: Blokada Ekranu</string>
     <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Screen Filter &amp; Rounded Corners</string>
-    <string name="dnd_summary">Usage: Ring Mode</string>
-    <string name="usage_summary">Usage: Data Usage Tile</string>
-    <string name="actual_tiles">Actual Tiles =&#160; %1$d </string>
+    <string name="dnd_summary">Użyj: Trybu Dzwonka</string>
+    <string name="usage_summary">UZyj: Płytka Użycia Danych</string>
+    <string name="actual_tiles">Aktualna Płytka =&#160; %1$d </string>
+	<string name="shortcutter_permissions_phone">This toggle requires the ability to check network state.\n\n
+    In order to do this the app needs the Phone permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_storage">This service requires the ability to access external storage.\n\n
+    In order to do this the app needs the Read/Write Storage permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_camera">This toggle requires the ability to access the camera (Flash).\n\n
+    In order to do this the app needs the Camera permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_sync">This toggle requires the ability to access your Sync settings.\n\n
+    In order to do this the app needs the Read/Write Sync permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
+    In order to do this the app needs the Location permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
 </resources>
