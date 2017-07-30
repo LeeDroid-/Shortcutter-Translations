@@ -640,19 +640,19 @@
     <string name="dnd_summary">Użycie: Trybu Dzwonka</string>
     <string name="usage_summary">Użycie: Płytka Użycia Danych</string>
     <string name="actual_tiles">Aktualna Płytka =&#160; %1$d </string>
-	<string name="shortcutter_permissions_phone">This toggle requires the ability to check network state.\n\n
-    In order to do this the app needs the Phone permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
+	<string name="shortcutter_permissions_phone">Ten przełącznik wymaga sprawdzenia stanu sieci.\n\n
+    W tym celu aplikacja wymaga uprawnień do Telefonu.\n\n
+    Proszę kliknij kontynuuj & udziel wymaganych uprawnień.</string>
     <string name="shortcutter_permissions_storage">This service requires the ability to access external storage.\n\n
-    In order to do this the app needs the Read/Write Storage permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
+    W tym celu aplikacja wymaga uprawnień do Odczytu/Zapisu Pamięci.\n\n
+    Proszę kliknij kontynuuj &amp; udziel wymaganych uprawnień.</string>
     <string name="shortcutter_permissions_camera">This toggle requires the ability to access the camera (Flash).\n\n
-    In order to do this the app needs the Camera permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
+    W tym celu aplikacja wymaga uprawnień do Aparatu.\n\n
+    Proszę kliknij kontynuuj &amp; udziel wymaganych uprawnień.</string>
     <string name="shortcutter_permissions_sync">This toggle requires the ability to access your Sync settings.\n\n
-    In order to do this the app needs the Read/Write Sync permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
+    W tym celu aplikacja wymaga uprawnień Odczytu/Zapisu Synch.\n\n
+    Proszę kliknij kontynuuj &amp; udziel wymaganych uprawnień.</string>
     <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
-    In order to do this the app needs the Location permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
+    W tym celu aplikacja wymaga uprawnień do Lokalizacji.\n\n
+    Proszę kliknij kontynuuj &amp; udziel wymaganych uprawnień.</string>
 </resources>
