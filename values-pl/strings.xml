@@ -645,4 +645,5 @@
     <string name="shortcutter_permissions_location">Ten przełącznik wymaga dostępu do Lokalizacji.\n\n
     W tym celu aplikacja wymaga uprawnień do Lokalizacji.\n\n
     Proszę kliknij kontynuuj &amp; udziel wymaganych uprawnień.</string>
+    <string name="unavailable">Niedostępny</string>
 </resources>
