@@ -606,19 +606,19 @@
     <string name="transparency">Przeźroczystość =&#160;</string>
     <string name="launch_loc">Uruchamia Ustawienia - Lokalizacja</string>
      <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
-    <string name="nigh_light">Night Light</string>
+    <string name="nigh_light">Nocna Lampka</string>
     <string name="brightness">Jasność Ekranu</string>
-    <string name="scnigh_light">Shortcutter\nNight Light</string>
-    <string name="nightlight_summary">Provides an always on Nightlight and clock display, plus a button to swiftly swith to Desk Clock Mode</string>
-    <string name="deskmode">Desk Clock\nMode</string>
-    <string name="lightmode">Night Light\nMode</string>
-    <string name="scdesk">Shortcutter\nDesk Clock</string>
+    <string name="scnigh_light">Shortcutter\nNocna Lampka</string>
+    <string name="nightlight_summary">Wyświetla zawsze na wyświetlaczu w nocny zegar, a także przycisk, aby szybko przełączać się na Tryb Zegara Biurkowego</string>
+    <string name="deskmode">Tryb\nZegara Nocnego</string>
+    <string name="lightmode">Tryb\nLampki Nocnej</string>
+    <string name="scdesk">Shortcutter\nZegar na biurku</string>
     <string name="expand_collapse">Toolbox\nExpander</string>
-    <string name="expose_toggler">Expose the \"Toolbox Expander\" icon to open and close the Toolbox or SideBar, mappable to Edge Sense, Bixby &amp; More!</string>
+    <string name="expose_toggler">Pokaż Ikonę \"Toolbox Expander\", aby otworzyć lub zamknąć Toolbox lub Pasek Boczny, mapuj do Edge Sense i dużo więcej!</string>
     <string name="expose_toggler_title">Toolbox Expander</string>
     <string name="permissions">Uprawnienia Aplikacji</string>
-    <string name="settings_access">Write System Settings</string>
-    <string name="overlay_access">Overlay Permissions</string>
+    <string name="settings_access">Zapisz Ustawienia Systemu</string>
+    <string name="overlay_access">Zastąp Uprawnienia</string>
     <string name="admin_access">Dostęp Administratora</string>
     <string name="acc_access">Dostęp do Ułatwień Dostępu</string>
     <string name="dnd_access">Dostęp Do Trybu Nieprzeszkadzać</string>
@@ -626,7 +626,7 @@
     <string name="settings_system_summary">Użyj: Jasność, Rozmiar Czcionki, Potwierdzenie wibracją &amp; Czas włączenia ekranu</string>
     <string name="overlay_summary">Użycie: Pływający Toolbox/Pasek Boczny, Filtry Ekranu &amp; Zaokrąglone Narożniki</string>
     <string name="admin_summary">Użycie: Blokada Ekranu</string>
-    <string name="acc_summary">Użycie: Recent Apps, Power Menu, Split Screen, Screen Filter &amp; Rounded Corners</string>
+    <string name="acc_summary">Użycie: Ostatnie Aplikacje, Menu Zasilania, Podzielony Ekran, Filtry Ekarnu &amp; Zaokrąglone Narożniki</string>
     <string name="dnd_summary">Użycie: Trybu Dzwonka</string>
     <string name="usage_summary">Użycie: Płytka Użycia Danych</string>
     <string name="actual_tiles">Aktualna Płytka =&#160; %1$d </string>
@@ -639,10 +639,10 @@
     <string name="shortcutter_permissions_camera">Ten przełącznik wymaga dostępu do Aparatu (Latarka).\n\n
     W tym celu aplikacja wymaga uprawnień do Aparatu.\n\n
     Proszę kliknij kontynuuj &amp; udziel wymaganych uprawnień.</string>
-    <string name="shortcutter_permissions_sync">This toggle requires the ability to access your Sync settings.\n\n
+    <string name="shortcutter_permissions_sync">Ten przełącznik wymaga dostępu do ustawień Synchro.\n\n
     W tym celu aplikacja wymaga uprawnień Odczytu/Zapisu Synch.\n\n
     Proszę kliknij kontynuuj &amp; udziel wymaganych uprawnień.</string>
-    <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
+    <string name="shortcutter_permissions_location">Ten przełącznik wymaga dostępu do Lokalizacji.\n\n
     W tym celu aplikacja wymaga uprawnień do Lokalizacji.\n\n
     Proszę kliknij kontynuuj &amp; udziel wymaganych uprawnień.</string>
 </resources>
