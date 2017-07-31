@@ -291,7 +291,7 @@
 	    \n(Zmień w Ustawieniach Płytek)</string>
     <string name="auto_step">Auto Kroki Jasności</string>
     <string name="about">\nDesigned &amp; Developed By:
-        \n\n\u2022 Lee Bailey (AKA @LeeDrOiD)\n\n Translations By:
+        \n\n\u2022 Lee Bailey (AKA @LeeDrOiD)\n\n TŁumaczenie:
         \n\n\u2022 SoLdieR9312 - German\n\u2022 @Linar10 - Polish
         \n\u2022 范家安(金发大表哥) - Chinese
         \n\nIf you are interested in helping me translate the app, drop me an email using the Email Feedback option in the menu</string>
@@ -543,11 +543,11 @@
 	<string name="corners_scale_summary">Ustaw promień naroża ekranu</string>
     <string name="corner_colour">Wybierz Kolor Rogów</string>
     <string name="how_it_works">Jak to działa</string>
-    <string name="how_it_works1">Shortcutter offers 4 different options to access up to 61 unique shortcuts, settings &amp; services in an instant.</string>
-    <string name="how_it_works2">1. Via your Quick Settings Pull-down</string>
-    <string name="how_it_works3">2 &amp; 3. Via the unique Shortcutter Swipe out SideBar or Floating Toolbox</string>
-    <string name="how_it_works4">4. Through Exposing the toggles to your app drawer, which enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
-    <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
+    <string name="how_it_works1">Shortcutter umożliwia cztery różne opcje, aby uzyskać dostęp do 61 unikalnych skrótów, ustawień & Usług w jednej chwili.</string>
+    <string name="how_it_works2">1. Poprzez rozwijane menu szybkich ustawień</string>
+    <string name="how_it_works3">2 &amp; 3. Poprzez przesunięcie Paska Bocznego Shortcutter lub Pływający Toolbox</string>
+    <string name="how_it_works4">4. Poprzez Ekspozyzcję przełącznika do szuflady aplikacji, który umożliwia mapowanie do Edge Sense i wiele więcej!</string>
+    <string name="attention">Proszę zwrócić uwagę jak dodać płytki w instrukcji w zakładce 2.</string>
     <string name="config_serv">Konfiguruj Usługi/Płytki</string>
     <string name="enable_to_config">Włacz/Dodaj Płytki i konfiguruj</string>
     <string name="expose_activity">Pokaż ikonę w Launcherze</string>
