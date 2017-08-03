@@ -395,7 +395,7 @@
         \n\nHave you considered showing your support and going Premium?
         \n\nThis notification will show every 20 tile clicks in the Free version.</string>
     <string name="screenre_cat"><![CDATA[Screen Record & Capture]]></string>
-    <string name="choose_entries">Choose Location Entries (2 Minimum)</string>
+    <string name="choose_entries">Location Mode Entries (2 Minimum)</string>
     <string name="conf_sel">Confirm Selection</string>
     <string name="recentapps">Recent Apps</string>
     <string name="settings_system_required">Write System Settings permission required - Toggle to enable</string>
@@ -468,9 +468,9 @@
     <string name="immersive_off">Immersive
         \nOff</string>
     <string name="wake_active">Screen Wake Active</string>
-    <string name="floating_toolbox">Enable SideBar/Toolbox</string>
-    <string name="float_summary">A swipe out SideBar or floating quick access panel</string>
-    <string name="tb_tiles">Toolbox / SideBar</string>
+    <string name="floating_toolbox">Enable The SideBar/Toolbox</string>
+    <string name="float_summary">A SideBar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
+    <string name="tb_tiles">Toolbox/SideBar\nSettings</string>
     <string name="email_feedback">Email Feedback</string>
     <string name="submit_review">Leave A Review</string>
     <string name="rate_app">Rate The App</string>
@@ -479,9 +479,8 @@
     <string name="power_menu">Power Menu</string>
     <string name="new_message_title">New SMS</string>
     <string name="new_tweet_title">New Tweet</string>
-    <string name="counter_tile_title">Clicker Tile</string>
+    <string name="counter_tile_title">Clicker</string>
     <string name="mobile_data">Mobile Data</string>
-    <string name="night_mode">Night Mode</string>
     <string name="show_immersive_activity">Show Mode Selector</string>
     <string name="mode_select_summary">Shows a popup dialog with additional Immersive Mode options.</string>
     <string name="toggle">Toggle</string>
@@ -489,7 +488,6 @@
     <string name="app_picker">Select An Application</string>
     <string name="custom_app_tiles">Custom App Tiles</string>
     <string name="swipe_up">Swipe up from the bottom to dismiss</string>
-    <string name="choose_application">Choose An Application</string>
     <string name="lock_screen_title">Lock Screen</string>
     <string name="auto_rotate">Auto
         \nRotate</string>
@@ -504,15 +502,13 @@
     <string name="dataroam_summary">Toggle Data Roaming</string>
     <string name="quick_tiles_title">Change Number Of Tiles In Collapsed View</string>
     <string name="other_settings">Misc Settings</string>
-    <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed pulldown.
+    <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed pull-down.
         \nThis MOD is manufacturer dependent.</string>
-    <string name="sidebar">SideBar/Floating Toolbox</string>
-    <string name="sidebar_summary">Toggle between the Swipe Out SideBar or Floating Toolbox.</string>
+    <string name="sidebar">SideBar or Floating Toolbox</string>
+    <string name="sidebar_summary">Choose between the Swipe Out SideBar or Floating Toolbox.</string>
     <string name="sidebar_pos">Horizontal Trigger Position</string>
     <string name="right">Current Position Right</string>
     <string name="left_position">Current Position Left</string>
-    <string name="expose_toolbox_summary">Show an icon to launch the Shortcutter Toolbox</string>
-    <string name="expose_toolbox">Show Launcher Icon</string>
     <string name="tb_background">Select Toolbox/SideBar Background Colour</string>
     <string name="create_calendar_event">New Event</string>
     <string name="tb_tile_tint">Select Toolbox/SideBar Tile Colour</string>
@@ -524,7 +520,7 @@
     <string name="filter_colour">Select Filter Colour</string>
     <string name="filter_off">Screen Filter Off</string>
     <string name="filter_on">Screen Filter On</string>
-    <string name="filter_tile_title">Screen Filter Tile</string>
+    <string name="filter_tile_title">Screen Filter</string>
     <string name="screen_filter">Screen Filter</string>
     <string name="screen_filter_summary">A screen filter to reduce eye strain at night (Night Mode)</string>
     <string name="reset_filter">Reset Filter Colour</string>
@@ -542,7 +538,7 @@
     <string name="round_title">Rounded
         \nCorners</string>
     <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
-    <string name="corners_title">Rounded Corners Tile</string>
+    <string name="corners_title">Rounded Corners</string>
     <string name="corners__scale_title">Screen Corner Scale</string>
     <string name="corners__scale_set">Corner Scale&#160;=&#160;%1$d\%</string>
     <string name="corners_scale_summary">Adjust the screen corner radius</string>
@@ -553,24 +549,16 @@
     <string name="how_it_works3">2 &amp; 3. Via the unique Shortcutter Swipe out SideBar or Floating Toolbox</string>
     <string name="how_it_works4">4. Through Exposing the toggles to your app drawer, which enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
-    <string name="config_serv">Service Settings</string>
+    <string name="config_serv">Configure\nShortcuts</string>
     <string name="enable_to_config">Enable/Add Tile to configure</string>
-    <string name="expose_activity">Expose Launcher Icon</string>
-    <string name="expose_activity_summary">Access this toggle from your home screen or other apps.</string>
     <string name="wake_tile">Screen Wake</string>
     <string name="screenshot_root">Use Root Screenshot Method</string>
     <string name="screenshot_root_summary">Produces a screenshot using the system screencap binary</string>
     <string name="corners_active">Round Corners Active</string>
-    <string name="misc_cat">Expose Other Toggles</string>
+    <string name="misc_cat">Expose Launcher Toggles</string>
     <string name="misc_tiles_cat">Miscellaneous Tile Settings</string>
-    <string name="shortcutter_permissions">Shortcutter requires several core permissions in order to function correctly.
-        \n\nWe will now request the required permissions before proceeding to the next page
-        \n\n\u2022 Camera: Control Flashlight
-        \n\u2022 Phone: Check network state
-        \n\u2022 Storage: Screen Shots &amp; Recordings
-        \n\u2022 Location: Weather &amp; Location.</string>
-    <string name="fancy_anim">Reflow Pulldown Animation</string>
-    <string name="fancy_summary">Enable/Disable the fancy reflow pulldown animation</string>
+    <string name="fancy_anim">Reflow Pull-down Animation</string>
+    <string name="fancy_summary">Enable/Disable the fancy reflow pull-down animation (Not compatible with all devices)</string>
     <string name="configurable">Shortcutter tiles with a blue bar have additional options, these options can be found in the "Configure Services/Tiles" tab.</string>
     <string name="system_toggles">System Setting Tiles</string>
     <string name="action_toggles">Action Tiles</string>
@@ -587,7 +575,6 @@
     <string name="temp">Current Temperature:&#160;</string>
     <string name="feels">Feels Like:&#160;</string>
     <string name="dewp">Dew point:&#160;</string>
-    <string name="weather_cat">Weather Information</string>
     <string name="weather_celsius">Temperature Unit</string>
     <string name="celsius">Celsius</string>
     <string name="fahrenheit">Fahrenheit</string>
@@ -602,7 +589,7 @@
     <string name="mylocation_summary">Displays current location, with options to view in maps or share</string>
     <string name="loading_map">Loading Map....</string>
     <string name="swipe_out">Swipe out to dismiss</string>
-    <string name="choose_ring_entries">Choose Ring Mode Entries (2 Minimum)</string>
+    <string name="choose_ring_entries">Ring Mode Entries (2 Minimum)</string>
     <string name="qs_head_title">QS Header Tiles</string>
     <string name="acc_needed_corners">This overlay requires Accessibility access to:
         \n\n \u2022 Detect secure activities.
@@ -620,12 +607,12 @@
     <string name="nigh_light">Night Light</string>
     <string name="brightness">Screen Brightness</string>
     <string name="scnigh_light">Shortcutter\nNight Light</string>
-    <string name="nightlight_summary">Provides an always on Nightlight and clock display, plus a button to swiftly swith to Desk Clock Mode</string>
+    <string name="nightlight_summary">Provides an always on Nightlight and clock display, plus a button to switch to Desk Clock Mode</string>
     <string name="deskmode">Desk Clock\nMode</string>
     <string name="lightmode">Night Light\nMode</string>
     <string name="scdesk">Shortcutter\nDesk Clock</string>
     <string name="expand_collapse">Toolbox\nExpander</string>
-    <string name="expose_toggler">Expose the \"Toolbox Expander\" icon to open and close the Toolbox or SideBar, mappable to Edge Sense, Bixby &amp; More!</string>
+    <string name="expose_toggler">Enable the \"Toolbox Expander\" icon to open and close the Toolbox or SideBar, this also enables mapping to other app\'s such as Edge Sense &amp; Bixby.</string>
     <string name="expose_toggler_title">Toolbox Expander</string>
     <string name="permissions">App Permissions</string>
     <string name="settings_access">Write System Settings</string>
@@ -641,4 +628,40 @@
     <string name="dnd_summary">Usage: Ring Mode</string>
     <string name="usage_summary">Usage: Data Usage Tile</string>
     <string name="actual_tiles">Actual Tiles =&#160; %1$d </string>
+    <string name="shortcutter_permissions_phone">This toggle requires the ability to check network state.\n\n
+    In order to do this the app needs the Phone permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_storage">This service requires the ability to access external storage.\n\n
+    In order to do this the app needs the Read/Write Storage permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_camera">This toggle requires the ability to access the camera (Flash).\n\n
+    In order to do this the app needs the Camera permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_sync">This toggle requires the ability to access your Sync settings.\n\n
+    In order to do this the app needs the Read/Write Sync permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
+    In order to do this the app needs the Location permission.\n\n
+    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="install_shortcut">Install\nShortcut</string>
+    <string name="select_shortcut">Select A Shortcut To Install</string>
+    <string name="header">Remove Header</string>
+    <string name="hide_header_sum">Removes the ToolBox/SideBar header</string>
+    <string name="review">\n Don\'t forget to leave a rocking review in the Play Store!</string>
+    <string name="enjoying">Enjoying Shortcutter?</string>
+    <string name="counter">Counter\n+1</string>
+    <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as Edge Sense &amp; Bixby.</string>
+    <string name="wifi_enabled">WiFi Enabled</string>
+    <string name="wifi_disabled">WiFi Disabled</string>
+    <string name="wifi">WiFi</string>
+    <string name="wifi_summary">Enable/Disable WiFi</string>
+    <string name="wifi_hotspot_summary">Enable/Disable WiFi HotSpot</string>
+    <string name="wifi_toggled">WiFi Toggled</string>
+    <string name="hotspot">WiFi\nHotspot</string>
+    <string name="hotspot_tile">WiFi Hotspot</string>
+    <string name="hotspot_enabled">HotSpot\nEnabled</string>
+    <string name="hotspot_disabled">HotSpot\nDisabled</string>
+    <string name="activate">Activate</string>
+    <string name="to_be_toggled">Choose entries to be toggled.</string>
 </resources>

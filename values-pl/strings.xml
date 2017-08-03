@@ -145,7 +145,7 @@
 	    \nEkranu</string>
     <string name="stop_recording">Zatrzymaj Nagrywanie</string>
     <string name="start_recording">Uruchom Nagrywanie</string>
-	<string name="screen_recorder">Nagrywanie Ekranu</string>
+    <string name="screen_recorder">Nagrywanie Ekranu</string>
     <string name="show_toggle">Pokaż Przełącznik</string>
     <string name="close">Zamknij</string>
     <string name="record_audio">Nagrywanie Dźwięku</string>
@@ -477,7 +477,6 @@
     <string name="new_tweet_title">Nowy Tweet</string>
     <string name="counter_tile_title">Płytka Klikania</string>
     <string name="mobile_data">Dane Mobilne</string>
-    <string name="night_mode">Tryb Nocny</string>
     <string name="show_immersive_activity">Pokaż Wybór Trybów</string>
     <string name="mode_select_summary">Pokazuje okno dialogowe z dodatkowymi opcjami Trybu Pełnego Ekranu.</string>
     <string name="toggle">Przełącz</string>
@@ -506,8 +505,6 @@
     <string name="sidebar_pos">Pozycja Paska Bocznego</string>
     <string name="right">Aktualna Pozycja po Prawej</string>
     <string name="left_position">Aktualna Pozycja po Lewej</string>
-    <string name="expose_toolbox_summary">Pokaż ikonę, aby uruchomić Shortcutter Toolbox</string>
-    <string name="expose_toolbox">Pokaż Ikonę w Launcherze</string>
     <string name="tb_background">Wybierz Kolor Tła Toolbox</string>
     <string name="create_calendar_event">Nowe Wydarzenie</string>
     <string name="tb_tile_tint">Wybierz Kolor Płytek Toolbox</string>
@@ -540,17 +537,16 @@
     <string name="corners_title">Płytka Zaokrąglonych Narożników</string>
     <string name="corners__scale_title">Skalowanie Rogów</string>
     <string name="corners__scale_set">Skalowanie Narożników&#160;=&#160;%1$d\%</string>
-	<string name="corners_scale_summary">Ustaw promień naroża ekranu</string>
+    <string name="corners_scale_summary">Ustaw promień naroża ekranu</string>
     <string name="corner_colour">Wybierz Kolor Rogów</string>
     <string name="how_it_works">Jak to działa</string>
-    <string name="how_it_works1">Shortcutter umożliwia cztery różne opcje, aby uzyskać dostęp do 61 unikalnych skrótów, ustawień & Usług w jednej chwili.</string>
+    <string name="how_it_works1">Shortcutter umożliwia cztery różne opcje, aby uzyskać dostęp do 61 unikalnych skrótów, ustawień &amp; Usług w jednej chwili.</string>
     <string name="how_it_works2">1. Poprzez rozwijane menu szybkich ustawień</string>
     <string name="how_it_works3">2 &amp; 3. Poprzez przesunięcie Paska Bocznego Shortcutter lub Pływający Toolbox</string>
     <string name="how_it_works4">4. Poprzez Ekspozyzcję przełącznika do szuflady aplikacji, który umożliwia mapowanie do Edge Sense i wiele więcej!</string>
     <string name="attention">Proszę zwrócić uwagę jak dodać płytki w instrukcji w zakładce 2.</string>
     <string name="config_serv">Konfiguruj Usługi/Płytki</string>
     <string name="enable_to_config">Włacz/Dodaj Płytki i konfiguruj</string>
-    <string name="expose_activity">Pokaż ikonę w Launcherze</string>
     <string name="expose_activity_summary">Dostęp do tego przełącznika z ekranu głównego lub innych aplikacji.</string>
     <string name="wake_tile">Wybudzanie Ekranu</string>
     <string name="screenshot_root">Użyj Metody z Rootem do Zrzutów Ekranu</string>
@@ -576,7 +572,6 @@
     <string name="temp">Aktualna Temperatura:&#160;</string>
     <string name="feels">Samopoczucie #160;</string>
     <string name="dewp">Punkt rosy:&#160;</string>
-    <string name="weather_cat">Informacje Pogodowe</string>
     <string name="weather_celsius"> Jednostka Temperatury</string>
     <string name="celsius">Celcjusza</string>
     <string name="fahrenheit">Fahrenheit</string>
@@ -605,7 +600,7 @@
     <string name="alphaDown">Przeźroczystość -</string>
     <string name="transparency">Przeźroczystość =&#160;</string>
     <string name="launch_loc">Uruchamia Ustawienia - Lokalizacja</string>
-     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
+    <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
     <string name="nigh_light">Nocna Lampka</string>
     <string name="brightness">Jasność Ekranu</string>
     <string name="scnigh_light">Shortcutter\nNocna Lampka</string>
@@ -630,7 +625,7 @@
     <string name="dnd_summary">Użycie: Trybu Dzwonka</string>
     <string name="usage_summary">Użycie: Płytka Użycia Danych</string>
     <string name="actual_tiles">Aktualna Płytka =&#160; %1$d </string>
-	<string name="shortcutter_permissions_phone">Ten przełącznik wymaga sprawdzenia stanu sieci.\n\n
+    <string name="shortcutter_permissions_phone">Ten przełącznik wymaga sprawdzenia stanu sieci.\n\n
     W tym celu aplikacja wymaga uprawnień do Telefonu.\n\n
     Proszę kliknij kontynuuj &amp; udziel wymaganych uprawnień.</string>
     <string name="shortcutter_permissions_storage">Ten przełącznik wymaga dostępu do pamięci zewnętrznej.\n\n

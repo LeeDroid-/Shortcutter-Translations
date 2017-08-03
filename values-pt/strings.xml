@@ -359,7 +359,6 @@
     <string name="new_tweet_title">Novo Tweet</string>
     <string name="counter_tile_title">Mosaico Contador</string>
     <string name="mobile_data">Dados Móveis</string>
-    <string name="night_mode">Modo Noturno</string>
     <string name="show_immersive_activity">Mostrar Seletor de Modo</string>
     <string name="mode_select_summary">Mostrar uma janela com opções de Modo Imersivo adicionais.</string>
     <string name="toggle">Ligar/Desligar</string>
@@ -386,8 +385,6 @@
     <string name="sidebar_pos">Posição de Deteção Horizontal</string>
     <string name="right">Posição Direita Atual</string>
     <string name="left_position">Posição Esquerda Atual</string>
-    <string name="expose_toolbox_summary">Mostrar um ícone para abrir a Caixa de Ferramentas Shortcutter</string>
-    <string name="expose_toolbox">Mostrar Ícone no Ecrã Inicial</string>
     <string name="tb_background">Selecionar Cor da BarraLateral/Caixa de Ferramentas</string>
     <string name="create_calendar_event">Novo Evento</string>
     <string name="tb_tile_tint">Selecionar Cor Do Mosaico BarraLateral/Caixa de Ferramentas</string>
@@ -426,7 +423,6 @@
     <string name="attention">Por favor estaja atento ao Guia Como Adicionar Mosaicos CR no 2º separador.</string>
     <string name="config_serv">Configurar Serviços/Mosaicos</string>
     <string name="enable_to_config">Enable/Add Mosaico to configure</string>
-    <string name="expose_activity">Expor Ícone no Ecrã Inicial</string>
     <string name="expose_activity_summary">Acceda a este comando a partir do ecrã inicial ou de outras aplicações.</string>
     <string name="wake_tile">Ecrã Ligado</string>
     <string name="screenshot_root">Usar Método de Screenshot Root</string>
@@ -452,7 +448,6 @@
     <string name="temp">Temperatura Atual:&#160;</string>
     <string name="feels">Sensação Térmica:&#160;</string>
     <string name="dewp">Ponto de orvalho:&#160;</string>
-    <string name="weather_cat">Informação Metereológica</string>
     <string name="weather_celsius">Unidade de Temperatura</string>
     <string name="celsius">Celsius</string>
     <string name="fahrenheit">Fahrenheit</string>
