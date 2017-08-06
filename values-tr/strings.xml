@@ -340,12 +340,12 @@
     <string name="data_cycle_summary">Ayın hangi gününden itibaren ölçüm yapılacağını seçin.(Fatura kesim tarihi yada kontör yükleme tarihi)</string>
     <string name="data_tile_summary">Mobil İnternet kullanımını gösterir.
         \n(Change cycle in \n(Kullanım aralığını sekme ayarlarından değiştirebilirsiniz)</string>
-    <string name="data_tile_title">Data Usage Tile</string>
-    <string name="perms_required">Permissions need to be granted, Launching Shortcutter</string>
-    <string name="failed_data_usage">Failed to launch data usage information</string>
-    <string name="how_to">Click Here for A simple guide to adding Shortcutter Quick Setting Tiles.</string>
-    <string name="addtiles_title">How To Add QS Tiles - Guide</string>
-    <string name="adding_qs_tiles">Adding QS Tiles</string>
+    <string name="data_tile_title">Mobil İnternet kullanımı Sekmesi</string>
+    <string name="perms_required">İzin vermeniz gerekli, Shortcutter başlatılıyor</string>
+    <string name="failed_data_usage">Mobil internet kullanımı başlatılamadı./string>
+    <string name="how_to">Sekmelerin nasıl eklendiğini öğrenmek için tıklayın.</string>
+    <string name="addtiles_title">Sekme nasıl eklenir - Klavuz</string>
+    <string name="adding_qs_tiles">Sekme eklemek.</string>
     <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Pulldown Tile Settings\" tab & make your QS Tile selections.]]></string>
     <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below, this is usually a pen icon.
     \n\n Samsung users hit the 3 dot menu and select rearrange tiles, your Shortcutter tiles will show in the bottom view.]]></string>
@@ -365,9 +365,9 @@
         \nDefault</string>
     <string name="largest">Font
         \nLargest</string>
-    <string name="fontscale_sum">Toggle system font size</string>
-    <string name="font_scale_title">Font Scale</string>
-    <string name="powersave_disabled">Power Save
+    <string name="fontscale_sum">Sistemin yazı karakteri boyutu</string>
+    <string name="font_scale_title">Yazı karakteri ölçüsü</string>
+    <string name="powersave_disabled">Güç Tasarrufu
         \nDisabled</string>
     <string name="powersave_enabled">Power Save
         \nEnabled</string>
