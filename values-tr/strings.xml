@@ -355,56 +355,56 @@
         \n\n Due to a bug in Android N, you may struggle to add tiles, this can be worked around by doing the following.
         \n\nRemove any tiles you do not want in the \"Pulldown Tile Settings\" tab &amp; take your new tiles from the TOP of the available tiles container.
         \n\nUnfortunately this is not something I can fix as it has nothing to do with the app.</string>
-    <string name="small">Font
-        \nSmall</string>
-    <string name="large">Font
-        \nLarge</string>
-    <string name="fontscale">Font
-        \nSize</string>
-    <string name="defaultsize">Font
-        \nDefault</string>
-    <string name="largest">Font
-        \nLargest</string>
+    <string name="small">Yazı Karakteri
+        \nKüçük</string>
+    <string name="large">Yazı Karakteri
+        \nBüyük</string>
+    <string name="fontscale">Yazı Karakteri
+        \nBoyu</string>
+    <string name="defaultsize">Yazı Karakteri
+        \nSistem Orjinali</string>
+    <string name="largest">Yazı Karakteri
+        \nEn Büyük</string>
     <string name="fontscale_sum">Sistemin yazı karakteri boyutu</string>
     <string name="font_scale_title">Yazı karakteri ölçüsü</string>
     <string name="powersave_disabled">Güç Tasarrufu
-        \nDisabled</string>
+        \nKapalı</string>
     <string name="powersave_enabled">Power Save
-        \nEnabled</string>
-    <string name="power_saver">Power Saver</string>
-    <string name="power_save_summary">Toggle Power Saving mode</string>
-    <string name="premium_only">Premium Only</string>
-    <string name="prem_only_option">Premium Only Feature</string>
-    <string name="prem_only_message">This feature is only available in the Premium version of Shortcutter.
-        \n\nPlease click GO PREMIUM now to enable the following features:
-        \n\n \u2022 Additional Custom App Tiles
-        \n \u2022 Additional Custom URL Tiles
-        \n \u2022 Screen Recording &amp; Capture
-        \n \u2022 Additional in-app configuration options
-        \n \u2022 &amp; Remove the 20 tile click notification</string>
-    <string name="no_thanks">No Thanks</string>
-    <string name="add_event">Add
-        \nEvent</string>
-    <string name="add_event_summary">Add A Calendar Event</string>
-    <string name="add_event_title">Add Calendar Event</string>
-    <string name="location_not_found">Location settings activity not found</string>
-    <string name="power_not_found">Power settings activity not found</string>
-    <string name="nfc_not_found">NFC settings activity not found</string>
-    <string name="consider_prem">Shortcutter FREE</string>
-    <string name="consider_prem1">Thats 20 Shortcutter clicks!
-        \n\nHave you considered showing your support and going Premium?
-        \n\nThis notification will show every 20 tile clicks in the Free version.</string>
-    <string name="screenre_cat"><![CDATA[Screen Record & Capture]]></string>
-    <string name="choose_entries">Location Mode Entries (2 Minimum)</string>
-    <string name="conf_sel">Confirm Selection</string>
-    <string name="recentapps">Recent Apps</string>
-    <string name="settings_system_required">Write System Settings permission required - Toggle to enable</string>
-    <string name="usage_access_required">Usage Access permissions required - Toggle to enable</string>
-    <string name="dnd_required">Do Not Distrurb access required - Toggle to enable</string>
-    <string name="accessibility_description">Allows shortcutter to perform the following accessibility actions
-        \n\n\u2022 Toggle Split Screen
-        \n\u2022 Toggle Recent Apps
-        \n\u2022 Show Power Menu
+        \nAçık</string>
+    <string name="power_saver">Güç Tasarrufu</string>
+    <string name="power_save_summary">Güç Tasarrufu </string>
+    <string name="premium_only">Sadece Premium Versiyonda</string>
+    <string name="prem_only_option">Premium Versiyon Özelliği</string>
+    <string name="prem_only_message">Bu özellik Shortcutter Premium Versiyonda bulunur.
+        \n\nBu özellikleri kullanmak için Lütfen Premium Al 'ı tıklayın.
+        \n\n \u2022 Daha fazla uygulama sekmesi
+        \n \u2022 Daha fazla iink sekmesi
+        \n \u2022 Ekran görünütüsü al &amp; Ekran videosu kaydet
+        \n \u2022 Daha fazla uygulama içi ayarlar
+        \n \u2022 &amp; 20 tıklama bildirimini kaldır</string>
+    <string name="no_thanks">Hayır Teşekkürler</string>
+    <string name="add_event">Etkinlik
+        \nEkle</string>
+    <string name="add_event_summary">Takvime etkinlik ekle</string>
+    <string name="add_event_title">Takvime Etkinlik Ekle</string>
+    <string name="location_not_found">Konum ayarları aktivite bulunamadı</string>
+    <string name="power_not_found">Güç Ayarları aktivite bulunamadı</string>
+    <string name="nfc_not_found">NFC ayarları aktivite bulunamadı</string>
+    <string name="consider_prem">Shortcutter ÜCRETSİZ </string>
+    <string name="consider_prem1">Bu 20. tıklaman oldu!
+        \n\n Premium alarak biraz destek olmayı düşünür müydün?
+        \n\nÜcretsiz versiyonda her 20 tıklamada bu ileti görüntülenir.</string>
+    <string name="screenre_cat"><![CDATA[Ekran Görüntüsü & Ekran Videosu]]></string>
+    <string name="choose_entries">Konum Modu Seçici (En az 2 tane)</string>
+    <string name="conf_sel">Seçimi onaylayın</string>
+    <string name="recentapps">Son kullanılan uygulamalar</string>
+    <string name="settings_system_required">Sistem ayarlarını değiştirme izni gerekli - Toggle to enable</string>
+    <string name="usage_access_required">Usage Access permissions required - İzin vermek için tıklayın</string>
+    <string name="dnd_required">Rahatsız Etme erişim izni gerekli - İzin vermek için tıklayın</string>
+    <string name="accessibility_description">Shortcutter şu ulaşılabilirlik ayarlarını kullanmasını sağlar
+        \n\n\u2022 Çoklu Ekraı etkinleştir
+        \n\u2022 Son Kullanılan Uygulamalar
+        \n\u2022 Güç Menüsünü Göster
         \n\u2022 Detect Activities - Required for Screen Filter and Screen Corners, these services will be stopped when apps are being installed and permissions are being granted.</string>
     <string name="power_dialog">Power Dialog</string>
     <string name="split_screen">Multi Window</string>
@@ -463,10 +463,10 @@
         \nData</string>
     <string name="mob_dat_sum">Toggle mobile data on/off</string>
     <string name="toolbox">Toolbox</string>
-    <string name="immersive_on">Immersive
-        \nOn</string>
-    <string name="immersive_off">Immersive
-        \nOff</string>
+    <string name="immersive_on">Tam Ekran
+        \nAçık</string>
+    <string name="immersive_off">Tam Ekran
+        \nKapalı</string>
     <string name="wake_active">Screen Wake Active</string>
     <string name="floating_toolbox">Enable The SideBar/Toolbox</string>
     <string name="float_summary">A SideBar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
