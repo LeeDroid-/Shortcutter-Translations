@@ -43,10 +43,10 @@
     <string name="CustomTile6">Własna Aplikacja 6</string>
     <string name="CustomTile7">Własna Aplikacja 7</string>
     <string name="CustomTile8">Własna Aplikacja 8</string>
-	<string name="CustomTile8">Własna Aplikacja 9</string>
-	<string name="CustomTile8">Własna Aplikacja 10</string>
-	<string name="CustomTile8">Własna Aplikacja 11</string>
-	<string name="CustomTile8">Własna Aplikacja 12</string>
+    <string name="CustomTile9">Własna Aplikacja 9</string>
+    <string name="CustomTile10">Własna Aplikacja 10</string>
+    <string name="CustomTile11">Własna Aplikacja 11</string>
+    <string name="CustomTile12">Własna Aplikacja 12</string>
     <string name="EnterUrl">Wpisz Własny URL</string>
     <string name="CustomUrl1">Własny URL 1</string>
     <string name="CustomUrl2">Własny URL 2</string>
@@ -81,13 +81,13 @@
 	    \n7</string>
     <string name="custom_8">Własna Płytka
 	    \n8</string>
-		 <string name="custom_9">Własna Płytka
+    <string name="custom_9">Własna Płytka
 	    \n9</string>
-		 <string name="custom_10">Własna Płytka
+    <string name="custom_10">Własna Płytka
 	    \n10</string>
-		 <string name="custom_11">Własna Płytka
+    <string name="custom_11">Własna Płytka
 	    \n11</string>
-		 <string name="custom_12">Własna Płytka
+    <string name="custom_12">Własna Płytka
 	    \n12</string>
     <string name="custom_url1">Własny URL
 	    \n1</string>
@@ -555,9 +555,9 @@
     <string name="corner_colour">Wybierz Kolor Rogów</string>
     <string name="how_it_works">Jak to działa</string>
     <string name="how_it_works1">Shortcutter umożliwia cztery różne opcje, aby uzyskać dostęp do 61 unikalnych skrótów, ustawień &amp; Usług w jednej chwili.</string>
-    <string name="how_it_works2">1. Poprzez rozwijane menu szybkich ustawień</string>
-    <string name="how_it_works3">2 &amp; 3. Poprzez przesunięcie Paska Bocznego Shortcutter lub Pływający Toolbox</string>
-    <string name="how_it_works4">4. Poprzez Ekspozyzcję przełącznika do szuflady aplikacji, który umożliwia mapowanie do Edge Sense i wiele więcej!</string>
+    <string name="how_it_works2">\u2022 Poprzez rozwijane menu szybkich ustawień</string>
+    <string name="how_it_works3">\u2022 Poprzez przesunięcie Paska Bocznego Shortcutter lub Pływający Toolbox</string>
+    <string name="how_it_works4">\u2022 Poprzez Ekspozyzcję przełącznika do szuflady aplikacji, który umożliwia mapowanie do Edge Sense i wiele więcej!</string>
     <string name="attention">Proszę zwrócić uwagę jak dodać płytki w instrukcji w zakładce 2.</string>
     <string name="config_serv">Konfiguruj Usługi/Płytki</string>
     <string name="enable_to_config">Włacz/Dodaj Płytki i konfiguruj</string>
@@ -674,4 +674,13 @@
     <string name="hotspot_disabled">HotSpot\nWyłączony</string>
     <string name="activate">Aktywowane</string>
     <string name="to_be_toggled">Wybierz pozycje do przełączenia.</string>
+    <string name="here_to_cancel">Click here to disable</string>
+    <string name="create_hotspot">Create WiFi HotSpot</string>
+    <string name="ap_name">Open AP Name</string>
+    <string name="swipe_out_close">Swipe out to close</string>
+    <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
+    <string name="led_enabled">Notif LED\nEnabled</string>
+    <string name="led_disabled">Notif LED\nDisabled</string>
+    <string name="notif_led">Notification LED</string>
+    <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
 </resources>

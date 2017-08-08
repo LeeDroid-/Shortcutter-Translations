@@ -34,6 +34,18 @@
     <string name="enable_root_features">Ativar Funcionalidades Root</string>
     <string name="root_features_enabled">Funcionalidades Root Ativadas</string>
     <string name="appicon">AppIcon</string>
+    <string name="CustomTile1">Custom App 1</string>
+    <string name="CustomTile2">Custom App 2</string>
+    <string name="CustomTile4">Custom App 4</string>
+    <string name="CustomTile3">Custom App 3</string>
+    <string name="CustomTile5">Custom App 5</string>
+    <string name="CustomTile6">Custom App 6</string>
+    <string name="CustomTile7">Custom App 7</string>
+    <string name="CustomTile8">Custom App 8</string>
+    <string name="CustomTile9">Custom App 9</string>
+    <string name="CustomTile10">Custom App 10</string>
+    <string name="CustomTile11">Custom App 11</string>
+    <string name="CustomTile12">Custom App 12</string>
     <string name="EnterUrl">Introduza URL Personalizada</string>
     <string name="CustomUrl1">URL Personalizada 1</string>
     <string name="CustomUrl2">URL Personalizada 2</string>
@@ -417,9 +429,9 @@
     <string name="corner_colour">Selecionar Cor dos Cantos</string>
     <string name="how_it_works">Como Funciona</string>
     <string name="how_it_works1">Shortcutter oferece 4 maneiras diferentes de aceder a até 61 atalhos, definições &amp; serviços individuais instantaneamente.</string>
-    <string name="how_it_works2">1. Atravês das Configurações Rápidas</string>
-    <string name="how_it_works3">2 &amp; 3. Atravês da BarraLateral Deslizante ou Caixa de Ferramentas Flutuante Shortcutter</string>
-    <string name="how_it_works4">4. Expondo os comando à lista de aplicações, o que permite ligar a Bixby, Edge Sense, Tasker &amp; muito mais!</string>
+    <string name="how_it_works2">\u2022 Atravês das Configurações Rápidas</string>
+    <string name="how_it_works3">\u2022 Atravês da BarraLateral Deslizante ou Caixa de Ferramentas Flutuante Shortcutter</string>
+    <string name="how_it_works4">\u2022 Expondo os comando à lista de aplicações, o que permite ligar a Bixby, Edge Sense, Tasker &amp; muito mais!</string>
     <string name="attention">Por favor estaja atento ao Guia Como Adicionar Mosaicos CR no 2º separador.</string>
     <string name="config_serv">Configurar Serviços/Mosaicos</string>
     <string name="enable_to_config">Enable/Add Mosaico to configure</string>
@@ -516,4 +528,34 @@
     <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
     In order to do this the app needs the Location permission.\n\n
     Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="install_shortcut">Install\nShortcut</string>
+    <string name="select_shortcut">Select A Shortcut To Install</string>
+    <string name="header">Remove Header</string>
+    <string name="hide_header_sum">Removes the ToolBox/SideBar header</string>
+    <string name="review">\n Don\'t forget to leave a rocking review in the Play Store!</string>
+    <string name="enjoying">Enjoying Shortcutter?</string>
+    <string name="counter">Counter\n+1</string>
+    <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as Edge Sense &amp; Bixby.</string>
+    <string name="wifi_enabled">WiFi Enabled</string>
+    <string name="wifi_disabled">WiFi Disabled</string>
+    <string name="wifi">WiFi</string>
+    <string name="wifi_summary">Enable/Disable WiFi</string>
+    <string name="wifi_hotspot_summary">Enable/Disable WiFi HotSpot</string>
+    <string name="wifi_toggled">WiFi Toggled</string>
+    <string name="hotspot">WiFi\nHotspot</string>
+    <string name="hotspot_tile">WiFi Hotspot</string>
+    <string name="hotspot_enabled">HotSpot\nEnabled</string>
+    <string name="hotspot_disabled">HotSpot\nDisabled</string>
+    <string name="activate">Activate</string>
+    <string name="to_be_toggled">Choose entries to be toggled.</string>
+    <string name="here_to_cancel">Click here to disable</string>
+    <string name="create_hotspot">Create WiFi HotSpot</string>
+    <string name="ap_name">Open AP Name</string>
+    <string name="swipe_out_close">Swipe out to close</string>
+    <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
+    <string name="led_enabled">Notif LED\nEnabled</string>
+    <string name="led_disabled">Notif LED\nDisabled</string>
+    <string name="notif_led">Notification LED</string>
+    <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
 </resources>

@@ -295,7 +295,9 @@
     <string name="auto_step">Otomatik Parlaklık Kademesi</string>
     <string name="about">\nDesigned &amp; Uygulama Yapımcısı:
         \n\n\u2022 Lee Bailey (AKA @LeeDrOiD)\n\n Tercümeler:
-        \n\n\u2022 SoLdieR9312 - German\n\u2022 @Linar10 - Polish
+        \n\n\u2022 SoLdieR9312 - German
+        \n\u2022 @Linar10 - Polish
+        \n\u2022 @Nuno Nebeker - Portuguese
         \n\u2022 范家安(金发大表哥) - Chinese
         \n\nUygulamayı tecrüme etmekte bana yardımcı olmak isterseniz, geri bildirim bölümünden bana bir e-mail gönderin.\n\nAdditional Graphics By @Bogdan</string>
     <string name="file_tile">Dosya
@@ -341,7 +343,6 @@
     <string name="data_tile_summary">Mobil İnternet kullanımını gösterir.
         \n(Change cycle in \n(Kullanım aralığını sekme ayarlarından değiştirebilirsiniz)</string>
     <string name="data_tile_title">Mobil İnternet kullanımı Sekmesi</string>
-    <string name="perms_required">İzin vermeniz gerekli, Shortcutter başlatılıyor</string>
     <string name="failed_data_usage">Mobil internet kullanımı başlatılamadı./string>
     <string name="how_to">Sekmelerin nasıl eklendiğini öğrenmek için tıklayın.</string>
     <string name="addtiles_title">Sekme nasıl eklenir - Klavuz</string>
@@ -544,10 +545,10 @@
     <string name="corners_scale_summary">Adjust the screen corner radius</string>
     <string name="corner_colour">Select Corner Colour</string>
     <string name="how_it_works">How It works</string>
-    <string name="how_it_works1">Shortcutter offers 4 different options to access up to 63 unique shortcuts, settings &amp; services in an instant.</string>
-    <string name="how_it_works2">1. Via your Quick Settings Pull-down</string>
-    <string name="how_it_works3">2 &amp; 3. Via the unique Shortcutter Swipe out SideBar or Floating Toolbox</string>
-    <string name="how_it_works4">4. Through Exposing the toggles to your app drawer, which enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
+    <string name="how_it_works1">Shortcutter offers several different options to access up to 68 unique shortcuts, settings &amp; services.</string>
+    <string name="how_it_works2">\u2022 Via your Quick Settings Pull-down</string>
+    <string name="how_it_works3">\u2022 Via the Shortcutter Swipe out SideBar or Floating Toolbox</string>
+    <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer, which enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
     <string name="config_serv">Configure\nShortcuts</string>
     <string name="enable_to_config">Enable/Add Tile to configure</string>
@@ -664,4 +665,13 @@
     <string name="hotspot_disabled">HotSpot\nDisabled</string>
     <string name="activate">Activate</string>
     <string name="to_be_toggled">Choose entries to be toggled.</string>
+    <string name="here_to_cancel">Click here to disable</string>
+    <string name="create_hotspot">Create WiFi HotSpot</string>
+    <string name="ap_name">Open AP Name</string>
+    <string name="swipe_out_close">Swipe out to close</string>
+    <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
+    <string name="led_enabled">Notif LED\nEnabled</string>
+    <string name="led_disabled">Notif LED\nDisabled</string>
+    <string name="notif_led">Notification LED</string>
+    <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
 </resources>

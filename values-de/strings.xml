@@ -554,10 +554,10 @@
     <string name="corners_scale_summary">Adjust the screen corner radius</string>
     <string name="corner_colour">Select Corner Colour</string>
     <string name="how_it_works">How It works</string>
-    <string name="how_it_works1">Shortcutter offers 4 different options to access up to 63 unique shortcuts, settings &amp; services in an instant.</string>
-    <string name="how_it_works2">1. Via your Quick Settings Pull-down</string>
-    <string name="how_it_works3">2 &amp; 3. Via the unique Shortcutter Swipe out SideBar or Floating Toolbox</string>
-    <string name="how_it_works4">4. Through Exposing the toggles to your app drawer, which enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
+    <string name="how_it_works1">Shortcutter offers several different options to access up to 68 unique shortcuts, settings &amp; services.</string>
+    <string name="how_it_works2">\u2022 Via your Quick Settings Pull-down</string>
+    <string name="how_it_works3">\u2022 Via the Shortcutter Swipe out SideBar or Floating Toolbox</string>
+    <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer, which enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
     <string name="config_serv">Configure\nShortcuts</string>
     <string name="enable_to_config">Enable/Add Tile to configure</string>
@@ -674,4 +674,13 @@
     <string name="hotspot_disabled">HotSpot\nDisabled</string>
     <string name="activate">Activate</string>
     <string name="to_be_toggled">Choose entries to be toggled.</string>
+    <string name="here_to_cancel">Click here to disable</string>
+    <string name="create_hotspot">Create WiFi HotSpot</string>
+    <string name="ap_name">Open AP Name</string>
+    <string name="swipe_out_close">Swipe out to close</string>
+    <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
+    <string name="led_enabled">Notif LED\nEnabled</string>
+    <string name="led_disabled">Notif LED\nDisabled</string>
+    <string name="notif_led">Notification LED</string>
+    <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
 </resources>
