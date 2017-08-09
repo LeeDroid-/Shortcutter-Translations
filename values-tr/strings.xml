@@ -396,65 +396,65 @@
     <string name="conf_sel">Seçimi onaylayın</string>
     <string name="recentapps">Son kullanılan uygulamalar</string>
     <string name="settings_system_required">Sistem ayarlarını değiştirme izni gerekli - Toggle to enable</string>
-    <string name="usage_access_required">Usage Access permissions required - İzin vermek için tıklayın</string>
+    <string name="usage_access_required">Kullanım erişimi izni gerekli - İzin vermek için tıklayın</string>
     <string name="dnd_required">Rahatsız Etme erişim izni gerekli - İzin vermek için tıklayın</string>
-    <string name="accessibility_description">Shortcutter şu ulaşılabilirlik ayarlarını kullanmasını sağlar
-        \n\n\u2022 Çoklu Ekraı etkinleştir
+    <string name="accessibility_description">Shortcutter şu ulaşılabilirlik ayarlarının kullanmasını sağlar:
+        \n\n\u2022 Çoklu Ekranı etkinleştir
         \n\u2022 Son Kullanılan Uygulamalar
         \n\u2022 Güç Menüsünü Göster
-        \n\u2022 Detect Activities - Required for Screen Filter and Screen Corners, these services will be stopped when apps are being installed and permissions are being granted.</string>
-    <string name="power_dialog">Power Dialog</string>
-    <string name="split_screen">Multi Window</string>
-    <string name="lock_screen">Lock
-        \nScreen</string>
-    <string name="screen_lock_admin">Required to use the \"Lock Screen\" Quick Settings Tile</string>
-    <string name="acc_needed">Accessibility access required</string>
-    <string name="recents_sum">Opens the recent apps screen</string>
-    <string name="acc_needed_long">Shortcutter requires Accessibility access to toggle
-        \n\n\u2022 Recent Apps
-        \n\u2022 Power Menu
-        \n\u2022 Split Screen
-        \n\u2022 Detect Activities
-        \n - Required for Screen Filter and Screen Corners, these services will be stopped when apps are being installed and permissions are being granted.
-        \n\nClick proceed, go to Shortcutter and enable the service.\n\n</string>
-    <string name="split_sum">Toggle Split Screen / Multi Window Mode</string>
-    <string name="power_sum">Open the power menu</string>
-    <string name="admin_needed">Admin rights required</string>
-    <string name="admin_needed_long">Shortcutter requires Admin privileges to lock your device screen.
-        \n\nPlease press proceed and enable Admin rights to use this QS Tile.\n\n</string>
-    <string name="lock_sum">Locks your screen</string>
-    <string name="immersivemode">Select Immersive Mode</string>
-    <string name="immersive_active">Immersive Mode Active</string>
-    <string name="select_time">Please select a time in mm:ss</string>
-    <string name="search_tile">Web Search</string>
-    <string name="search_summary">Opens Google Search</string>
-    <string name="voice_search_tile">Voice Command</string>
-    <string name="voicesearch_sum">Launch Google Assistant</string>
-    <string name="inear_on">In Ear
-        \nEnabled</string>
-    <string name="inear_off">In Ear
-        \nDisabled</string>
-    <string name="inear_audio">In Ear Audio</string>
-    <string name="disable">Disable</string>
-    <string name="inear_audio_active">In Ear Audio Active</string>
-    <string name="show_notif">Show Active Notification</string>
-    <string name="inear_summary">Routes all audio through your device earpiece</string>
-    <string name="volUp">Volume +</string>
-    <string name="volDown">Volume -</string>
-    <string name="cur_vol">Current Volume = </string>
+        \n\u2022 Etkinlikleri bul - Ekran Filtresi ve Köşe kenarlıkları için gerekli, Bu özellikler yeni uygulama yüklerken ve erişim izinleri verilirken kapatılır.</string>
+    <string name="power_dialog">Güç Bildirimi</string>
+    <string name="split_screen">Çoklu Pencere/string>
+    <string name="lock_screen">Ekran
+        \nKilidi</string>
+    <string name="screen_lock_admin">Hızlı Ayarlar Sekmesi \"Ekran Kilidi\" için gerekli</string>
+    <string name="acc_needed">Erişilebilirlik ayarları için gerekli</string>
+    <string name="recents_sum">Son kullanılan uygulamalar ekranını açar</string>
+    <string name="acc_needed_long">Shortcutter erişilebilirlik ayarlarına şunları kullanabilmek için gereksnim duyar
+        \n\n\u2022 Son Kullanılan Uygulamalar
+        \n\u2022 Güç Menüsü
+        \n\u2022 Çoklu Ekran
+        \n\u2022 Etkinlikleri Bul
+        \n - Ekran Filtresi ve Köşe kenarlıkları için gerekli, Bu özellikler yeni uygulama yüklerken ve erişim izinleri verilirken kapatılır.
+        \n\nDevam et tıklayın, Shortcutter açın ve servisi aktif hale getirin.\n\n</string>
+    <string name="split_sum">Çoklu penceyeri aç / Çoklu pencere modu/string>
+    <string name="power_sum">Güç menüsünü aç</string>
+    <string name="admin_needed">Yönetici izini gerekli</string>
+    <string name="admin_needed_long">Shortcutter cihazın ekran kilidini açmak için yönetici izinlerine ihtiyaç duyar.
+        \n\nHızlı ayarlar sekmesini kullanabilmek için, Lütfen devam et tıklayın ve yönetici izinlerini verin.\n\n</string>
+    <string name="lock_sum">Ekranı kilitler</string>
+    <string name="immersivemode">Tam ekran modu seç</string>
+    <string name="immersive_active">Tam ekran modu açık/string>
+    <string name="select_time">Lürfen bir süre seçin  dk:sn</string>
+    <string name="search_tile">İnternet Araması</string>
+    <string name="search_summary">Google Araması Açar</string>
+    <string name="voice_search_tile">Sesli Komut</string>
+    <string name="voicesearch_sum">Google Asistanı açar</string>
+    <string name="inear_on">Kulaklık ses çıkışı
+        \nAçık</string>
+    <string name="inear_off">Kulaklık ses çıkışı
+        \nKapalı</string>
+    <string name="inear_audio">Kulaklık ses çıkışı</string>
+    <string name="disable">Kapat/string>
+    <string name="inear_audio_active">Kulaklık ses çıkışı aktif/string>
+    <string name="show_notif">Etkin bildirimleri göster/string>
+    <string name="inear_summary">Cihazın tüm sesini sadece kulaklığa yönlendirir</string>
+    <string name="volUp">Ses +</string>
+    <string name="volDown">Ses -</string>
+    <string name="cur_vol">Şu anki ses = </string>
     <string name="click_disable">%
-        \n Click the tile to disable</string>
-    <string name="pause">Pause
-        \nMusic</string>
-    <string name="play">Play
-        \nMusic</string>
-    <string name="play_pause">Play/Pause Music</string>
-    <string name="play_pause_sum">Play and Pause music</string>
-    <string name="overlay_needed"><![CDATA[Several Shortcutter services require the Draw System Overlay permission to run, these include:\n
-    \n\u2022 SideBar/Floating Toolbox
-    \n\u2022 Screen Filter/Night Mode
-    \n\u2022 Rounded Corners
-    \n\nPlease click proceed & grant the required permission.\n]]></string>
+        \n Kapatmak için sekmeye tıklayın</string>
+    <string name="pause">Müziği
+        \nDuraklat</string>
+    <string name="play">Müzik
+        \nÇal</string>
+    <string name="play_pause">Müzik Çal/Duraklat </string>
+    <string name="play_pause_sum">Müzik çal ve duraklat</string>
+    <string name="overlay_needed"><![CDATA[Bazı Shortcutter özellikleri tüm uygulamaların üstünde gözükebilmek için, sistem uygulamalarının üstünde bulunabilme iznine gereksinim duyar.:\n
+    \n\u2022 SideBar/Hareketli Araç Kutusu
+    \n\u2022 Screen Filter/Gece Modu Ekran Filtresi
+    \n\u2022 Yuvarlatılmış Ekran Köşelikleri
+    \n\nLütfen devam et tıklayın ve gerekli izinleri verin.\n]]></string>
     <string name="overlay_required">System overlay permissions required</string>
     <string name="mob_data">Mobile
         \nData</string>
