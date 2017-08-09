@@ -97,7 +97,6 @@
     <string name="system_perms_message">Bazı sekmeler sistem ayarlarını değiştirmeyi gerektirir. Program için bu izni ancak siz verebilirsiniz.
         \n\nGerekli izinlerin verilebileceği ayarlara ulaşmak için tıklayın.\n</string>
     <string name="press_back">Press back to return once enabled.</string>
-    <string name="enable">ENABLE</string>
     <string name="credits">Katkıda Bulunanlar</string>
     <string name="full_title">Shortcutter Quick Settings</string>
     <string name="thanks_for_support">"   Desteğiniz için teşekkürler! :)"</string>
@@ -119,17 +118,13 @@
         \n Ayarlayıcısı</string>
     <string name="root_available">Cihazınız Rootlu.
         \n Daha fazla sekme eklemek için etkinleştirin!</string>
-    <string name="available_in_prem1">\u2022 Limitli Kullanım &amp; 20 Tıklma Bildirimi,
+    <string name="available_in_prem1">\u2022 Limitli Kullanım &amp; 50 Tıklma Bildirimi,
         \n</string>
-    <string name="available_in_prem2">\u2022 Limitli Özel Sekmeler &amp; Ekran Görünütüsü ve Kaydı Alma Özelliği Yok
-        \n</string>
-    <string name="available_in_prem3">Şimdi Premium satın al &amp; @LeeDrOiD 'e destek olun!</string>
+    <string name="available_in_prem3">Şimdi Premium satın al &amp; @LeeDrOiD \'e destek olun!</string>
     <string name="ad_supported">Shortcutter ÜCRETSİZ versiyon</string>
     <string name="disabled">Kapalı</string>
     <string name="enabled">Açık</string>
     <string name="app_info">Uygulama Bilgisi</string>
-    <string name="app_options">Uygulama Seçenekleri</string>
-    <string name="splash_4">Bu ekran sadece Shortcutter ilave izinlere ihtiyaç duyduğunda gözükür.</string>
     <string name="splash_3">Android durum çubuğu için hızlı ayar sekmeleri</string>
     <string name="by_leedroid">Bu uygulama LeeDrOiD tarafından yapıldı</string>
     <string name="welcome_to_shortcutter">Hoşgeldiniz!</string>
@@ -168,7 +163,7 @@
         \nThank\'s for your support!</string>
     <string name="thankyou">Thank\'s for your support!</string>
     <string name="iab_error">Uygulama içi satın alma cihazınız tarafından desteklenmiyor.
-        \n\nGoogle Play Store 'dan Premium Lisans satın almak ister misiniz?</string>
+        \n\nGoogle Play Store \'dan Premium Lisans satın almak ister misiniz?</string>
     <string name="no">Hayır</string>
     <string name="settings_license">LİSANS</string>
     <string name="no_licence">Lisans Bulunamadı</string>
@@ -179,7 +174,7 @@
         \n Premium özellikleri etkinleştirildi.</string>
     <string name="qs_tiles">Durum Çubuğu Ayarları</string>
     <string name="all_prices_subject_to_tax_vat">Fiyatlara KDV Dahildir*
-        \n\nShortcutter Premium Lisansı satın almak 20 tıklanma bildirimini kaldırıp, ilave sekmeler ve uygulamanın ekstra özelliklerini kullanabilmenizi sağlayacaktır..</string>
+        \n\nShortcutter Premium Lisansı satın almak 50 tıklanma bildirimini kaldırıp, ilave sekmeler ve uygulamanın ekstra özelliklerini kullanabilmenizi sağlayacaktır..</string>
     <string name="amin">amin</string>
     <string name="allofthe">Aşağıdaki seçeneklerden herhangi biri size Premium erişimi verecek, Seçim sizin :)</string>
     <string name="volumeui">Ses
@@ -202,7 +197,7 @@
     <string name="adb_summary">Android Debug Bridge Modunu Etkinleştir</string>
     <string name="adbtile">ADB Sekmesi</string>
     <string name="alarm_summary">Bir sonraki alarmı göster, tıklandığında alarmlara gider.</string>
-    <string name="alarm_tile_title">Sonraki Alarm Sekmesi/string>
+    <string name="alarm_tile_title">Sonraki Alarm Sekmesi</string>
     <string name="ambien_summary">Ortam Durumu/ Bekleme Modu</string>
     <string name="ambient_tile_title">Ortama Göre Ekran Sekmesi</string>
     <string name="autobrightness_summary">Otomatik Parlaklık Açık/Kapalı</string>
@@ -298,6 +293,7 @@
         \n\n\u2022 SoLdieR9312 - German
         \n\u2022 @Linar10 - Polish
         \n\u2022 @Nuno Nebeker - Portuguese
+	\n\u2022 @Evren GüntürKün - Portuguese
         \n\u2022 范家安(金发大表哥) - Chinese
         \n\nUygulamayı tecrüme etmekte bana yardımcı olmak isterseniz, geri bildirim bölümünden bana bir e-mail gönderin.\n\nAdditional Graphics By @Bogdan</string>
     <string name="file_tile">Dosya
@@ -314,7 +310,7 @@
     <string name="newemailsum">Yeni email Gönder</string>
     <string name="emailtitle">Yeni Email Sekmesi</string>
     <string name="stay_in_the_loop">Sosyal Medya/Kişi</string>
-    <string name="follow_me">Twitter 'da Takip Et</string>
+    <string name="follow_me">Twitter \'da Takip Et</string>
     <string name="like_facebook">Facebook Sayfamı Beğenin</string>
     <string name="home">Ana Sayfa</string>
     <string name="dice_desc_range">Zar için bir sayı aralığı seçin</string>
@@ -343,7 +339,7 @@
     <string name="data_tile_summary">Mobil İnternet kullanımını gösterir.
         \n(Change cycle in \n(Kullanım aralığını sekme ayarlarından değiştirebilirsiniz)</string>
     <string name="data_tile_title">Mobil İnternet kullanımı Sekmesi</string>
-    <string name="failed_data_usage">Mobil internet kullanımı başlatılamadı./string>
+    <string name="failed_data_usage">Mobil internet kullanımı başlatılamadı.</string>
     <string name="how_to">Sekmelerin nasıl eklendiğini öğrenmek için tıklayın.</string>
     <string name="addtiles_title">Sekme nasıl eklenir - Klavuz</string>
     <string name="adding_qs_tiles">Sekme eklemek.</string>
@@ -377,12 +373,12 @@
     <string name="premium_only">Sadece Premium Versiyonda</string>
     <string name="prem_only_option">Premium Versiyon Özelliği</string>
     <string name="prem_only_message">Bu özellik Shortcutter Premium Versiyonda bulunur.
-        \n\nBu özellikleri kullanmak için Lütfen Premium Al 'ı tıklayın.
+        \n\nBu özellikleri kullanmak için Lütfen Premium Al \'ı tıklayın.
         \n\n \u2022 Daha fazla uygulama sekmesi
         \n \u2022 Daha fazla iink sekmesi
         \n \u2022 Ekran görünütüsü al &amp; Ekran videosu kaydet
         \n \u2022 Daha fazla uygulama içi ayarlar
-        \n \u2022 &amp; 20 tıklama bildirimini kaldır</string>
+        \n \u2022 &amp; 50 tıklama bildirimini kaldır</string>
     <string name="no_thanks">Hayır Teşekkürler</string>
     <string name="add_event">Etkinlik
         \nEkle</string>
@@ -392,9 +388,9 @@
     <string name="power_not_found">Güç Ayarları aktivite bulunamadı</string>
     <string name="nfc_not_found">NFC ayarları aktivite bulunamadı</string>
     <string name="consider_prem">Shortcutter ÜCRETSİZ </string>
-    <string name="consider_prem1">Bu 20. tıklaman oldu!
+    <string name="consider_prem1">Bu 50. tıklaman oldu!
         \n\n Premium alarak biraz destek olmayı düşünür müydün?
-        \n\nÜcretsiz versiyonda her 20 tıklamada bu ileti görüntülenir.</string>
+        \n\nÜcretsiz versiyonda her 50 tıklamada bu ileti görüntülenir.</string>
     <string name="screenre_cat"><![CDATA[Ekran Görüntüsü & Ekran Videosu]]></string>
     <string name="choose_entries">Konum Modu Seçici (En az 2 tane)</string>
     <string name="conf_sel">Seçimi onaylayın</string>
