@@ -130,11 +130,8 @@
         \n Tuner</string>
     <string name="root_available">Your device appears to be rooted.
         \n Toggle me for more QS Tiles!</string>
-    <string name="available_in_prem1">\u2022 Limited features &amp; A notification every 20 clicks,
-        \n</string>
-    <string name="available_in_prem2">\u2022 Limited Custom Tiles &amp; No Screen Record or Capture
-        \n</string>
-    <string name="available_in_prem3">Go Premium now &amp; show @LeeDrOiD your support!</string>
+    <string name="available_in_prem1">Limited features &amp; a notification every 50 clicks.</string>
+    <string name="available_in_prem3">Go Premium now &amp; show your support!</string>
     <string name="ad_supported">Shortcutter FREE</string>
     <string name="disabled">Disabled</string>
     <string name="enabled">Enabled</string>
@@ -188,7 +185,7 @@
         \n Premium features activated</string>
     <string name="qs_tiles">Quick Settings\nTiles</string>
     <string name="all_prices_subject_to_tax_vat">All prices include Tax/VAT*
-        \n\nPurchasing Shortcutter Premium will remove the 20 click notification and enable additional Quick Settings tiles and app features.</string>
+        \n\nPurchasing Shortcutter Premium will remove the 50 click notification and enable additional Quick Settings tiles and app features.</string>
     <string name="amin">amin</string>
     <string name="allofthe">Either of the below options will grant you premium access, the choice is yours :)</string>
     <string name="volumeui">Volume
@@ -242,7 +239,7 @@
     <string name="screenrecord_tile_title">Screen Record</string>
     <string name="screenshot_summary">Takes a still image of your device screen</string>
     <string name="screenshot_tile_title">Screenshot</string>
-    <string name="sync_tile_title">Autosync</string>
+    <string name="sync_tile_title">Auto Sync</string>
     <string name="sync_summary">Enable / Disable Auto Sync</string>
     <string name="timeout_summary">Toggle screen timeout value</string>
     <string name="timeout_tile_title">Screen Timeout</string>
@@ -391,7 +388,7 @@
         \n \u2022 Additional Custom URL Tiles
         \n \u2022 Screen Recording &amp; Capture
         \n \u2022 Additional in-app configuration options
-        \n \u2022 &amp; Remove the 20 tile click notification</string>
+        \n \u2022 &amp; Remove the 50 tile click notification</string>
     <string name="no_thanks">No Thanks</string>
     <string name="add_event">Add
         \nEvent</string>
@@ -401,9 +398,9 @@
     <string name="power_not_found">Power settings activity not found</string>
     <string name="nfc_not_found">NFC settings activity not found</string>
     <string name="consider_prem">Shortcutter FREE</string>
-    <string name="consider_prem1">Thats 20 Shortcutter clicks!
+    <string name="consider_prem1">Thats 50 Shortcutter clicks!
         \n\nHave you considered showing your support and going Premium?
-        \n\nThis notification will show every 20 tile clicks in the Free version.</string>
+        \n\nThis notification will show every 50 tile clicks in the Free version.</string>
     <string name="screenre_cat"><![CDATA[Screen Record & Capture]]></string>
     <string name="choose_entries">Location Mode Entries (2 Minimum)</string>
     <string name="conf_sel">Confirm Selection</string>
@@ -511,7 +508,6 @@
     <string name="data_roaming">Data Roaming</string>
     <string name="dataroam_summary">Toggle Data Roaming</string>
     <string name="quick_tiles_title">Change Number Of Tiles In Collapsed View</string>
-    <string name="other_settings">Misc Settings</string>
     <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed pull-down.
         \nThis MOD is manufacturer dependent.</string>
     <string name="sidebar">SideBar or Floating Toolbox</string>
@@ -528,8 +524,8 @@
     <string name="trigger_colour_title">Select Trigger Colour</string>
     <string name="filter_active">Screen Filter Active</string>
     <string name="filter_colour">Select Filter Colour</string>
-    <string name="filter_off">Screen Filter Off</string>
-    <string name="filter_on">Screen Filter On</string>
+    <string name="filter_off">Screen Filter\nOff</string>
+    <string name="filter_on">Screen Filter\nOn</string>
     <string name="filter_tile_title">Screen Filter</string>
     <string name="screen_filter">Screen Filter</string>
     <string name="screen_filter_summary">A screen filter to reduce eye strain at night (Night Mode)</string>
@@ -540,7 +536,6 @@
     <string name="sb_columns_title">SideBar Columns</string>
     <string name="design_settings">Theme/Layout</string>
     <string name="leedroid">www.LeeDrOiD.co.uk</string>
-    <string name="swipe_trigger">SWIPE TRIGGER INWARDS TO OPEN</string>
     <string name="round_off">Rounded
         \nCorners Off</string>
     <string name="round_on">Rounded
@@ -554,10 +549,10 @@
     <string name="corners_scale_summary">Adjust the screen corner radius</string>
     <string name="corner_colour">Select Corner Colour</string>
     <string name="how_it_works">How It works</string>
-    <string name="how_it_works1">Shortcutter offers several different options to access up to 68 unique shortcuts, settings &amp; services.</string>
+    <string name="how_it_works1">Shortcutter offers several different options to access up to 68 shortcuts, settings &amp; services.</string>
     <string name="how_it_works2">\u2022 Via your Quick Settings Pull-down</string>
     <string name="how_it_works3">\u2022 Via the Shortcutter Swipe out SideBar or Floating Toolbox</string>
-    <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer, which enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
+    <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
     <string name="config_serv">Configure\nShortcuts</string>
     <string name="enable_to_config">Enable/Add Tile to configure</string>
@@ -683,4 +678,18 @@
     <string name="led_disabled">Notif LED\nDisabled</string>
     <string name="notif_led">Notification LED</string>
     <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
+    <string name="left_up">Swipe to close</string>
+    <string name="system_toggle_summary">Subject to OS/manufacturer compatibility</string>
+    <string name="sys_settings">System Settings</string>
+    <string name="sys_setting_tiles">Quick Settings tiles to toggle system settings</string>
+    <string name="system_actions">Tiles to toggle/launch system actions</string>
+    <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
+    <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
+    <string name="cust_app">Tiles that you can assign applications to</string>
+    <string name="cust_url">Tiles that you can assign web addresses to</string>
+    <string name="cust_sb">Customise the look and feel of the SideBar or ToolBox</string>
+    <string name="behaviour">Change the behaviour of Tiles</string>
+    <string name="perms_now">Permissions required for specific tiles &amp; features</string>
+    <string name="forceEnglish">Force English</string>
+    <string name="force_eng_summary">Run the app in the English Language</string>
 </resources>

@@ -130,10 +130,7 @@
 	    \n Tuner</string>
     <string name="root_available">Twój telefon wydaje się być zrootowany. 
 	    \n Przełącz mnie do więcej płytek QS!</string>
-    <string name="available_in_prem1">\u2022 Funkcja z limitem &amp; Powiadomienie co 20 kliknięć,
-	    \n</string>
-    <string name="available_in_prem2">\u2022 Limitowane Własne Płytki &amp; Brak Zrzutu i Nagrywania Ekranu
-	    \n</string>
+    <string name="available_in_prem1">\u2022 Funkcja z limitem &amp; Powiadomienie co 50 kliknięć.</string>
     <string name="available_in_prem3">Użyj Wersji Premium &amp; pokaż @LeeDrOiD swoje wsparcie!</string>
     <string name="ad_supported">Darmowa Wersja Shortcutter</string>
     <string name="disabled">Wyłączone</string>
@@ -188,7 +185,7 @@
 	    \n funkcje Premium aktywowane</string>
     <string name="qs_tiles"> Ustawienia Płytek QS</string>
     <string name="all_prices_subject_to_tax_vat">Wszystkie zakupy zawierają VAT
-	     \n\nKupienie Shortcutter Premium usuwa limit 20 kliknięć oraz daje dostęp do większej ilości płytek i funkcji aplikacji.</string>
+	     \n\nKupienie Shortcutter Premium usuwa limit 50 kliknięć oraz daje dostęp do większej ilości płytek i funkcji aplikacji.</string>
     <string name="amin">amin</string>
     <string name="allofthe">Wszystkie z poniższych opcji da Ci dostęp do premium,</string>
     <string name="volumeui">Panel
@@ -391,7 +388,7 @@
 		\n \u2022 Więcej Własnych Płytek Adresów URL
 		\n \u2022 Nagrywanie i Zrzuty Ekranu
 		\n \u2022 Więcej opcji konfiguracji samej aplikacji
-		\n \u2022 usunięcie powiadomienia co 20 kliknięć</string>
+		\n \u2022 usunięcie powiadomienia co 50 kliknięć</string>
     <string name="no_thanks">Nie Dziękuję</string>
     <string name="add_event">Dodaj
 	    \nWydarzenie</string>
@@ -401,9 +398,9 @@
     <string name="power_not_found">Ustawień zasilania nie znaleziono</string>
     <string name="nfc_not_found">Ustawienia aktywności NFC nie znaleziono</string>
     <string name="consider_prem">Shortcutter FREE</string>
-    <string name="consider_prem1">To jest 20 kliknięć Shortcutter!! 
+    <string name="consider_prem1">To jest 50 kliknięć Shortcutter!!
 	   \n\nCzy chcesz okazać wsparcie i kupić konto Premium?
-	   \n\nPowiadomienie to pokaże się co 20 kliknięć w wersji darmowej.</string>
+	   \n\nPowiadomienie to pokaże się co 50 kliknięć w wersji darmowej.</string>
     <string name="screenre_cat"><![CDATA[Nagrywanie Ekranu & Zrzut Ekranu]]></string>
     <string name="choose_entries">Wybierz Wpisy (2 Minimum)</string>
     <string name="conf_sel">Potwierdź Wybór</string>
@@ -511,7 +508,6 @@
     <string name="data_roaming">Dane w Roamingu</string>
     <string name="dataroam_summary">Przełącz Dane w Roamingu</string>
     <string name="quick_tiles_title">Liczba Płytek w Zwiniętym Widoku</string>
-    <string name="other_settings">Inne Ustaawienia</string>
     <string name="manufact_depend">Dostosuj liczbę płytek QS w rozwiniętym pasku.
 	    \nTen MOD jest zależny od producenta.</string>
     <string name="sidebar">Użyj Pasek Boczny Shortcutters</string>
@@ -540,7 +536,6 @@
     <string name="sb_columns_title">Kolumny Paska Bocznego</string>
     <string name="design_settings">Motyw/Wygląd</string>
     <string name="leedroid">www.LeeDrOiD.co.uk</string>
-    <string name="swipe_trigger">PRZESUŃ DO WEWNĄTRZ WYZWALACZA ABY OTWORZYĆ</string>
     <string name="round_off">Zaokrąglone
 	    \nNarożniki Wył</string>
     <string name="round_on">Zaokrąglone
@@ -683,4 +678,18 @@
     <string name="led_disabled">Notif LED\nDisabled</string>
     <string name="notif_led">Notification LED</string>
     <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
+    <string name="left_up">Swipe to close</string>
+    <string name="system_toggle_summary">Subject to OS/manufacturer compatibility</string>
+    <string name="sys_settings">System Settings</string>
+    <string name="sys_setting_tiles">Quick Settings tiles to toggle system settings</string>
+    <string name="system_actions">Tiles to toggle/launch system actions</string>
+    <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
+    <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
+    <string name="cust_app">Tiles that you can assign applications to</string>
+    <string name="cust_url">Tiles that you can assign web addresses to</string>
+    <string name="cust_sb">Customise the look and feel of the SideBar or ToolBox</string>
+    <string name="behaviour">Change the behaviour of Tiles</string>
+    <string name="perms_now">Permissions required for specific tiles &amp; features</string>
+    <string name="forceEnglish">Force English</string>
+    <string name="force_eng_summary">Run the app in the English Language</string>
 </resources>

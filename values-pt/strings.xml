@@ -100,8 +100,7 @@
     <string name="reboot_now">Reinicializar Agora?</string>
     <string name="systemuiTuner">SystemUI\n Tuner</string>
     <string name="root_available">Parece que o seu dispositivo tem acesso root.\n Ative para ter mais Mosaicos CR!</string>
-    <string name="available_in_prem1">\u2022 Funcionalidades limitadas &amp; Uma notificação a cada cliques,\n</string>
-    <string name="available_in_prem2">\u2022 Mosaicos Personalizados Limitados &amp; Sem Gravação ou Captura de Ecrã\n</string>
+    <string name="available_in_prem1">\u2022 Funcionalidades limitadas &amp; Uma notificação a cada 50 cliques.</string>
     <string name="available_in_prem3">Obtenha Premium agora &amp; mostre o seu apoio a @LeeDrOiD!</string>
     <string name="ad_supported">Shortcutter GRÁTIS</string>
     <string name="disabled">Desativado</string>
@@ -146,7 +145,7 @@
     <string name="old_licene">Chave Premium detetada</string>
     <string name="tweaks_key">Chave Ajustes LeeDrOiD detetada\n Funcionalidades Premium ativadas</string>
     <string name="qs_tiles">Pulldown Mosaico Settings</string>
-    <string name="all_prices_subject_to_tax_vat">Todos os preços incluem Impostos/IVA*\n\nComprar Shortcutter Premium retira a notificação a cada 20 cliques e ativa Mosaicos de Configurações Rápidas e funcionalidades da app adicionais.</string>
+    <string name="all_prices_subject_to_tax_vat">Todos os preços incluem Impostos/IVA*\n\nComprar Shortcutter Premium retira a notificação a cada 50 cliques e ativa Mosaicos de Configurações Rápidas e funcionalidades da app adicionais.</string>
     <string name="amin">amin</string>
     <string name="allofthe">Qualquer das opções abaixo dá acesso premium, a escolha é sua :)</string>
     <string name="volumeui">Painel de\nVolume</string>
@@ -298,7 +297,7 @@
     <string name="power_save_summary">Ativa/Desativa modo de Poupança de Energia</string>
     <string name="premium_only">Exclusivo Premium</string>
     <string name="prem_only_option">Funcionalidades exclusivas Premium</string>
-    <string name="prem_only_message">Esta funcionalidade só está disponível na versão Premium deShortcutter.\n\nPor favor clique Obter Premium para ativar as seguintes funcionalidaades:\n\n \u2022 Mosaicos App Personalizada adicionais\n \u2022 Mosaicos URL Personalizada adicionais\n \u2022 Gravação &amp; Captura de Ecrã\n \u2022 Opções de configuração da aplicação adicionais\n \u2022 &amp; Remover a notificação a cada 20 cliques</string>
+    <string name="prem_only_message">Esta funcionalidade só está disponível na versão Premium deShortcutter.\n\nPor favor clique Obter Premium para ativar as seguintes funcionalidaades:\n\n \u2022 Mosaicos App Personalizada adicionais\n \u2022 Mosaicos URL Personalizada adicionais\n \u2022 Gravação &amp; Captura de Ecrã\n \u2022 Opções de configuração da aplicação adicionais\n \u2022 &amp; Remover a notificação a cada 50 cliques</string>
     <string name="no_thanks">Não Obirgado</string>
     <string name="add_event">Adicionar\nEvento</string>
     <string name="add_event_summary">Adicionar um evento de calendário</string>
@@ -307,7 +306,7 @@
     <string name="power_not_found">Atividade de definições de bateria não encontrada</string>
     <string name="nfc_not_found">Atividade de definições de NFC não encontrada</string>
     <string name="consider_prem">Shortcutter GRÁTIS</string>
-    <string name="consider_prem1">Já foram 20 cliques de Shortcutter! \n\nJá considerou mostrar o seu apoio adquirindo Premium?\n\nEsta notificação aparece a cada 20 cliques em mosaicos na versão Grátis.</string>
+    <string name="consider_prem1">Já foram 50 cliques de Shortcutter! \n\nJá considerou mostrar o seu apoio adquirindo Premium?\n\nEsta notificação aparece a cada 50 cliques em mosaicos na versão Grátis.</string>
     <string name="screenre_cat"><![CDATA[Gravação & Captura de Ecrã]]></string>
     <string name="choose_entries">Escolha Entradas de Localização (Mínimo de 2)</string>
     <string name="conf_sel">Confirmar Seleção</string>
@@ -390,7 +389,6 @@
     <string name="data_roaming">Roaming de Dados</string>
     <string name="dataroam_summary">Ativa/Desativa Roaming de Dados</string>
     <string name="quick_tiles_title">Número de Mosaicos em Vista Compacta</string>
-    <string name="other_settings">Outras Definições</string>
     <string name="manufact_depend">Personaliza  onúmero de Mosaicos CR mostrados na vista compacta.\nEsta modificação depende do fabricante.</string>
     <string name="sidebar">BarraLateral/Caixa de Ferramentas Flutuante</string>
     <string name="sidebar_summary">Alterna Entre BarraLateral Deslizante e Caixa de Ferramentas Flutuante.</string>
@@ -418,7 +416,6 @@
     <string name="sb_columns_title">Colunas da BarraLateral</string>
     <string name="design_settings">Tema/Layout</string>
     <string name="leedroid">www.LeeDrOiD.co.uk</string>
-    <string name="swipe_trigger">DESLIZAR NA ZONA DE DETAÇÃO PARA DENTROPARA ABRIR</string>
     <string name="round_off">Cantos\nArredondados Desativados</string>
     <string name="round_on">Cantos\nArredondados Ativados</string>
     <string name="round_title">Cantos\nArredondados Ativados</string>
@@ -435,7 +432,6 @@
     <string name="attention">Por favor estaja atento ao Guia Como Adicionar Mosaicos CR no 2º separador.</string>
     <string name="config_serv">Configurar Serviços/Mosaicos</string>
     <string name="enable_to_config">Enable/Add Mosaico to configure</string>
-    <string name="expose_activity_summary">Acceda a este comando a partir do ecrã inicial ou de outras aplicações.</string>
     <string name="wake_tile">Ecrã Ligado</string>
     <string name="screenshot_root">Usar Método de Screenshot Root</string>
     <string name="screenshot_root_summary">Gera um screenshot usando o mecanismo de aptura do sistema</string>
@@ -474,7 +470,7 @@
     <string name="mylocation_summary">Displays current location, with options to view in maps or share</string>
     <string name="loading_map">Loading Map....</string>
     <string name="swipe_out">Swipe out to dismiss</string>
-    <string name="choose_ring_entries">Choose Ring Mode Entries (2 Minimum)</string>
+    <string name="choose_ring_entries">Ring Mode Entries (2 Minimum)</string>
     <string name="qs_head_title">QS Header Tiles</string>
     <string name="acc_needed_corners">This overlay requires Accessibility access to:
         \n\n \u2022 Detect secure activities.
@@ -492,12 +488,12 @@
     <string name="nigh_light">Night Light</string>
     <string name="brightness">Screen Brightness</string>
     <string name="scnigh_light">Shortcutter\nNight Light</string>
-    <string name="nightlight_summary">Provides an always on Nightlight and clock display, plus a button to swiftly swith to Desk Clock Mode</string>
+    <string name="nightlight_summary">Provides an always on Nightlight and clock display, plus a button to switch to Desk Clock Mode</string>
     <string name="deskmode">Desk Clock\nMode</string>
     <string name="lightmode">Night Light\nMode</string>
     <string name="scdesk">Shortcutter\nDesk Clock</string>
     <string name="expand_collapse">Toolbox\nExpander</string>
-    <string name="expose_toggler">Expose the \"Toolbox Expander\" icon to open and close the Toolbox or SideBar, mappable to Edge Sense, Bixby &amp; More!</string>
+    <string name="expose_toggler">Enable the \"Toolbox Expander\" icon to open and close the Toolbox or SideBar, this also enables mapping to other app\'s such as Edge Sense &amp; Bixby.</string>
     <string name="expose_toggler_title">Toolbox Expander</string>
     <string name="permissions">App Permissions</string>
     <string name="settings_access">Write System Settings</string>
@@ -558,4 +554,18 @@
     <string name="led_disabled">Notif LED\nDisabled</string>
     <string name="notif_led">Notification LED</string>
     <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
+    <string name="left_up">Swipe to close</string>
+    <string name="system_toggle_summary">Subject to OS/manufacturer compatibility</string>
+    <string name="sys_settings">System Settings</string>
+    <string name="sys_setting_tiles">Quick Settings tiles to toggle system settings</string>
+    <string name="system_actions">Tiles to toggle/launch system actions</string>
+    <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
+    <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
+    <string name="cust_app">Tiles that you can assign applications to</string>
+    <string name="cust_url">Tiles that you can assign web addresses to</string>
+    <string name="cust_sb">Customise the look and feel of the SideBar or ToolBox</string>
+    <string name="behaviour">Change the behaviour of Tiles</string>
+    <string name="perms_now">Permissions required for specific tiles &amp; features</string>
+    <string name="forceEnglish">Force English</string>
+    <string name="force_eng_summary">Run the app in the English Language</string>
 </resources>
