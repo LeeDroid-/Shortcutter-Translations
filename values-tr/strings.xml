@@ -150,11 +150,11 @@
     <string name="show_touches">Dokunuşları Göster</string>
     <string name="subscription_error">Cihazınız aboneliği desteklemiyor.</string>
     <string name="iab_async_error">Satın alma işlemi, başka bir işlem yapılmakta olduğundan, başlatılamadı.</string>
-    <string name="onetimefee2">£2.19</string>
-    <string name="onetimefee5">£4.29
+    <string name="onetimefee2">£1.99</string>
+    <string name="onetimefee5">£3.99
         \n(Gratuity)</string>
-    <string name="donation2">£2.39 Lisans</string>
-    <string name="donation5">£4.79 Lisans</string>
+    <string name="donation2">£1.99 Lisans</string>
+    <string name="donation5">£3.99 Lisans</string>
     <string name="donation10">£9.60 Lisans</string>
     <string name="detected">Algılandı</string>
     <string name="yes">Evet</string>
@@ -390,7 +390,7 @@
     <string name="consider_prem">Shortcutter ÜCRETSİZ </string>
     <string name="consider_prem1">Bu 50. tıklaman oldu!
         \n\n Premium alarak biraz destek olmayı düşünür müydün?
-        \n\nÜcretsiz versiyonda her 20 tıklamada bu ileti görüntülenir.</string>
+        \n\nÜcretsiz versiyonda her 50 tıklamada bu ileti görüntülenir.</string>
     <string name="screenre_cat"><![CDATA[Ekran Görüntüsü & Ekran Videosu]]></string>
     <string name="choose_entries">Konum Modu Seçici (En az 2 tane)</string>
     <string name="conf_sel">Seçimi onaylayın</string>
@@ -404,7 +404,7 @@
         \n\u2022 Güç Menüsünü Göster
         \n\u2022 Etkinlikleri bul - Ekran Filtresi ve Köşe kenarlıkları için gerekli, Bu özellikler yeni uygulama yüklerken ve erişim izinleri verilirken kapatılır.</string>
     <string name="power_dialog">Güç Bildirimi</string>
-    <string name="split_screen">Çoklu Pencere/string>
+    <string name="split_screen">Çoklu Pencere</string>
     <string name="lock_screen">Ekran
         \nKilidi</string>
     <string name="screen_lock_admin">Hızlı Ayarlar Sekmesi \"Ekran Kilidi\" için gerekli</string>
@@ -417,14 +417,14 @@
         \n\u2022 Etkinlikleri Bul
         \n - Ekran Filtresi ve Köşe kenarlıkları için gerekli, Bu özellikler yeni uygulama yüklerken ve erişim izinleri verilirken kapatılır.
         \n\nDevam et tıklayın, Shortcutter açın ve servisi aktif hale getirin.\n\n</string>
-    <string name="split_sum">Çoklu penceyeri aç / Çoklu pencere modu/string>
+    <string name="split_sum">Çoklu penceyeri aç / Çoklu pencere modu</string>
     <string name="power_sum">Güç menüsünü aç</string>
     <string name="admin_needed">Yönetici izini gerekli</string>
     <string name="admin_needed_long">Shortcutter cihazın ekran kilidini açmak için yönetici izinlerine ihtiyaç duyar.
         \n\nHızlı ayarlar sekmesini kullanabilmek için, Lütfen devam et tıklayın ve yönetici izinlerini verin.\n\n</string>
     <string name="lock_sum">Ekranı kilitler</string>
     <string name="immersivemode">Tam ekran modu seç</string>
-    <string name="immersive_active">Tam ekran modu açık/string>
+    <string name="immersive_active">Tam ekran modu açık</string>
     <string name="select_time">Lürfen bir süre seçin  dk:sn</string>
     <string name="search_tile">İnternet Araması</string>
     <string name="search_summary">Google Araması Açar</string>
@@ -435,9 +435,9 @@
     <string name="inear_off">Kulaklık ses çıkışı
         \nKapalı</string>
     <string name="inear_audio">Kulaklık ses çıkışı</string>
-    <string name="disable">Kapat/string>
-    <string name="inear_audio_active">Kulaklık ses çıkışı aktif/string>
-    <string name="show_notif">Etkin bildirimleri göster/string>
+    <string name="disable">Kapat</string>
+    <string name="inear_audio_active">Kulaklık ses çıkışı aktif</string>
+    <string name="show_notif">Etkin bildirimleri göster</string>
     <string name="inear_summary">Cihazın tüm sesini sadece kulaklığa yönlendirir</string>
     <string name="volUp">Ses +</string>
     <string name="volDown">Ses -</string>
@@ -464,7 +464,7 @@
         \nAçık</string>
     <string name="immersive_off">Tam Ekran
         \nKapalı</string>
-    <string name="wake_active">Uyanık Kal Açık/string>
+    <string name="wake_active">Uyanık Kal Açık</string>
     <string name="floating_toolbox">Yan Menü / Alet kutusunu etkinleştir</string>
     <string name="float_summary">Yan menü kaydırma ile yada hareketli ikona dukunularak açılabilir.</string>
     <string name="tb_tiles">Araç Kutusu/Yan Menü\nAyarlar</string>
@@ -493,7 +493,7 @@
     <string name="orientation_mode">Ekran Döndürme</string>
     <string name="orient_summary">Ekran Döndürmeyi Aç</string>
     <string name="counter_reset">Sayacı sıfırla?</string>
-    <string name="data_roam_on">Yurt dışı mobil internet kullanımı Açık/string>
+    <string name="data_roam_on">Yurt dışı mobil internet kullanımı Açık</string>
     <string name="data_roam_disabled">Yurt dışı mobil internet kullanımı Kapalı</string>
     <string name="data_roaming">Yurt dışı mobil internet kullanımı</string>
     <string name="dataroam_summary">TYurt dışı mobil internet kullanımı Aç</string>
@@ -509,18 +509,18 @@
     <string name="create_calendar_event">Yeni Etkinlik</string>
     <string name="tb_tile_tint">Araç Kutusu / Yan Menü sekme rengi seçin</string>
     <string name="tb_tile_text_tint">Araç Kutusu / Yan Menü Yazı rengi seçin</string>
-    <string name="tb_reset_tint"Renk ayarlarını orjinale döndür</string>
+    <string name="tb_reset_tint">Renk ayarlarını orjinale döndür</string>
     <string name="reset_conf">Tüm renk ayarlarını orjinale döndürmek istediğinize emin misiniz??</string>
     <string name="trigger_colour_title">Tetitk rengi seç</string>
-    <string name="filter_active">Ekran Filtresi Açık/string>
+    <string name="filter_active">Ekran Filtresi Açık</string>
     <string name="filter_colour">Filtre Rengi Seç</string>
     <string name="filter_off">Ekran Filtresi\nKapalı</string>
     <string name="filter_on">Ekran Filtresi\nAçık</string>
     <string name="filter_tile_title">Ekran Filtresi</string>
     <string name="screen_filter">Ekran Filtresi</string>
     <string name="screen_filter_summary">Gece kullanımında ekranın gözünüzü yormasını azaltan bir ekran filtresi</string>
-    <string name="reset_filter">Filtre Rengini Sıfırla/string>
-    <string name="sideber_tmb_title">Dikey tetikleme pozisyonu/string>
+    <string name="reset_filter">Filtre Rengini Sıfırla</string>
+    <string name="sideber_tmb_title">Dikey tetikleme pozisyonu</string>
     <string name="tb_columns_title">Araç Kutusu Kolonları</string>
     <string name="tb_columns_summary">Geçerli kolon sayısı = %s </string>
     <string name="sb_columns_title">Yan Menü Kolonları</string>
@@ -589,7 +589,7 @@
     <string name="acc_needed_corners">This overlay requires Accessibility access to:
         \n\n \u2022 Detect secure activities.
         \n\nIf a secure activity is detected, this overlay will automatically stop.
-        \n\nClick proceed, go to Shortcutter and enable the service.\n\n</string>
+        \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
     <string name="filter_off_secure">Screen Filter Off
         \nSecure activity detected</string>
     <string name="corners_off_secure">Screen Corners Off
@@ -602,13 +602,13 @@
     <string name="nigh_light">Night Light</string>
     <string name="brightness">Screen Brightness</string>
     <string name="scnigh_light">Shortcutter\nNight Light</string>
-    <string name="nightlight_summary">Provides an always on Nightlight and clock display, plus a button to switch to Desk Clock Mode</string>
+    <string name="nightlight_summary">Provides an always on Nightlight &amp; clock display, plus a button to switch to Desk Clock Mode</string>
     <string name="deskmode">Desk Clock\nMode</string>
     <string name="lightmode">Night Light\nMode</string>
     <string name="scdesk">Shortcutter\nDesk Clock</string>
     <string name="expand_collapse">Toolbox\nExpander</string>
-    <string name="expose_toggler">Enable the \"Toolbox Expander\" icon to open and close the Toolbox or SideBar, this also enables mapping to other app\'s such as Edge Sense &amp; Bixby.</string>
-    <string name="expose_toggler_title">Toolbox Expander</string>
+    <string name="expose_toggler">Enable the \"SideBar Expander\" icon to open/close the SideBar or ToolBox, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp; Tasker.</string>
+    <string name="expose_toggler_title">SideBar Expander</string>
     <string name="permissions">App Permissions</string>
     <string name="settings_access">Write System Settings</string>
     <string name="overlay_access">Overlay Permissions</string>
@@ -617,7 +617,7 @@
     <string name="dnd_access">Do Not Disturb Access</string>
     <string name="usage_access">Data Usage</string>
     <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
-    <string name="overlay_summary">Usage: Floating Toolbox/SideBar, Screen Filter &amp; Rounded Corners</string>
+    <string name="overlay_summary">Usage: Floating SideBar/ToolBox, Screen Filter &amp; Rounded Corners</string>
     <string name="admin_summary">Usage: Screen Lock</string>
     <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Screen Filter &amp; Rounded Corners</string>
     <string name="dnd_summary">Usage: Ring Mode</string>
@@ -642,11 +642,11 @@
     <string name="install_shortcut">Install\nShortcut</string>
     <string name="select_shortcut">Select A Shortcut To Install</string>
     <string name="header">Remove Header</string>
-    <string name="hide_header_sum">Removes the ToolBox/SideBar header</string>
+    <string name="hide_header_sum">Removes the SideBar/ToolBox header</string>
     <string name="review">\n Don\'t forget to leave a rocking review in the Play Store!</string>
     <string name="enjoying">Enjoying Shortcutter?</string>
     <string name="counter">Counter\n+1</string>
-    <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as Edge Sense &amp; Bixby.</string>
+    <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp;. Tasker.</string>
     <string name="wifi_enabled">WiFi Enabled</string>
     <string name="wifi_disabled">WiFi Disabled</string>
     <string name="wifi">WiFi</string>
@@ -677,9 +677,11 @@
     <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
     <string name="cust_app">Tiles that you can assign applications to</string>
     <string name="cust_url">Tiles that you can assign web addresses to</string>
-    <string name="cust_sb">Customise the look and feel of the SideBar or ToolBox</string>
+    <string name="cust_sb">Customise the look, feel &amp; behaviour of the SideBar or ToolBox</string>
     <string name="behaviour">Change the behaviour of Tiles</string>
     <string name="perms_now">Permissions required for specific tiles &amp; features</string>
     <string name="forceEnglish">Force English</string>
     <string name="force_eng_summary">Run the app in the English Language</string>
+    <string name="xiaomi">Your device requires applications to be granted auto start permissions, Shortcutter background services will be killed if this is not enabled.\\n\\nPlease click Proceed &amp; enable auto start for Shortcutter.</string>
+    <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Batter Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
 </resources>

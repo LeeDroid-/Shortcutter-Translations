@@ -126,10 +126,10 @@
     <string name="show_touches">Mostrar Toques</string>
     <string name="subscription_error">O seu diispositivo não suporta assinaturas.</string>
     <string name="iab_async_error">Erro a lança serviço de compra. Está a decorrer outra operação.</string>
-    <string name="onetimefee2">£2.19</string>
-    <string name="onetimefee5">£4.29\n(Gorjeta)</string>
-    <string name="donation2">£2.39 Licença</string>
-    <string name="donation5">£4.79 Licença</string>
+    <string name="onetimefee2">£1.99</string>
+    <string name="onetimefee5">£3.99\n(Gorjeta)</string>
+    <string name="donation2">£1.99 Licença</string>
+    <string name="donation5">£3.99 Licença</string>
     <string name="donation10">£9.60 Licença</string>
     <string name="detected">Detetada</string>
     <string name="yes">Sim</string>
@@ -475,7 +475,7 @@
     <string name="acc_needed_corners">This overlay requires Accessibility access to:
         \n\n \u2022 Detect secure activities.
         \n\nIf a secure activity is detected, this overlay will automatically stop.
-        \n\nClick proceed, go to Shortcutter and enable the service.\n\n</string>
+        \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
     <string name="filter_off_secure">Screen Filter Off
         \nSecure activity detected</string>
     <string name="corners_off_secure">Screen Corners Off
@@ -488,13 +488,13 @@
     <string name="nigh_light">Night Light</string>
     <string name="brightness">Screen Brightness</string>
     <string name="scnigh_light">Shortcutter\nNight Light</string>
-    <string name="nightlight_summary">Provides an always on Nightlight and clock display, plus a button to switch to Desk Clock Mode</string>
+    <string name="nightlight_summary">Provides an always on Nightlight &amp; clock display, plus a button to switch to Desk Clock Mode</string>
     <string name="deskmode">Desk Clock\nMode</string>
     <string name="lightmode">Night Light\nMode</string>
     <string name="scdesk">Shortcutter\nDesk Clock</string>
     <string name="expand_collapse">Toolbox\nExpander</string>
-    <string name="expose_toggler">Enable the \"Toolbox Expander\" icon to open and close the Toolbox or SideBar, this also enables mapping to other app\'s such as Edge Sense &amp; Bixby.</string>
-    <string name="expose_toggler_title">Toolbox Expander</string>
+    <string name="expose_toggler">Enable the \"SideBar Expander\" icon to open/close the SideBar or ToolBox, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp; Tasker.</string>
+    <string name="expose_toggler_title">SideBar Expander</string>
     <string name="permissions">App Permissions</string>
     <string name="settings_access">Write System Settings</string>
     <string name="overlay_access">Overlay Permissions</string>
@@ -503,7 +503,7 @@
     <string name="dnd_access">Do Not Disturb Access</string>
     <string name="usage_access">Data Usage</string>
     <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
-    <string name="overlay_summary">Usage: Floating Toolbox/SideBar, Screen Filter &amp; Rounded Corners</string>
+    <string name="overlay_summary">Usage: Floating SideBar/ToolBox, Screen Filter &amp; Rounded Corners</string>
     <string name="admin_summary">Usage: Screen Lock</string>
     <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Screen Filter &amp; Rounded Corners</string>
     <string name="dnd_summary">Usage: Ring Mode</string>
@@ -528,11 +528,11 @@
     <string name="install_shortcut">Install\nShortcut</string>
     <string name="select_shortcut">Select A Shortcut To Install</string>
     <string name="header">Remove Header</string>
-    <string name="hide_header_sum">Removes the ToolBox/SideBar header</string>
+    <string name="hide_header_sum">Removes the SideBar/ToolBox header</string>
     <string name="review">\n Don\'t forget to leave a rocking review in the Play Store!</string>
     <string name="enjoying">Enjoying Shortcutter?</string>
     <string name="counter">Counter\n+1</string>
-    <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as Edge Sense &amp; Bixby.</string>
+    <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp;. Tasker.</string>
     <string name="wifi_enabled">WiFi Enabled</string>
     <string name="wifi_disabled">WiFi Disabled</string>
     <string name="wifi">WiFi</string>
@@ -563,9 +563,11 @@
     <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
     <string name="cust_app">Tiles that you can assign applications to</string>
     <string name="cust_url">Tiles that you can assign web addresses to</string>
-    <string name="cust_sb">Customise the look and feel of the SideBar or ToolBox</string>
+    <string name="cust_sb">Customise the look, feel &amp; behaviour of the SideBar or ToolBox</string>
     <string name="behaviour">Change the behaviour of Tiles</string>
     <string name="perms_now">Permissions required for specific tiles &amp; features</string>
     <string name="forceEnglish">Force English</string>
     <string name="force_eng_summary">Run the app in the English Language</string>
+    <string name="xiaomi">Your device requires applications to be granted auto start permissions, Shortcutter background services will be killed if this is not enabled.\\n\\nPlease click Proceed &amp; enable auto start for Shortcutter.</string>
+    <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Batter Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
 </resources>

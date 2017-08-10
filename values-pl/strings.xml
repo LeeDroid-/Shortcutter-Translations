@@ -161,11 +161,11 @@
     <string name="show_touches">Pokaż Dotknięcia</string>
     <string name="subscription_error">Twoje urządzenie nie wspiera subskrypcji.</string>
     <string name="iab_async_error">Błąd uruchomienia zakupu. Kolejna próba synchronizacji zakupu w toku.</string>
-    <string name="onetimefee2">2.19 f</string>
-    <string name="onetimefee5">4.29 f
+    <string name="onetimefee2">1.99 f</string>
+    <string name="onetimefee5">3.99 f
 	    \n(Napiwek)</string>
-    <string name="donation2">Licencja 2.39 f</string>
-    <string name="donation5">Licencja 4.79 f</string>
+    <string name="donation2">Licencja 1.99 f</string>
+    <string name="donation5">Licencja 3.99 f</string>
     <string name="donation10">Licencja 9.60 f</string>
     <string name="detected">Wykryto</string>
     <string name="yes">Tak</string>
