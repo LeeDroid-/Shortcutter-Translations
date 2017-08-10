@@ -279,10 +279,10 @@
     <string name="current_shot">Currently set to %1$d seconds</string>
     <string name="current_dice">Currently set to %1$d</string>
     <string name="permissions_not_granted">Shortcutter a doğru izinler verilmemiş, Uygulamayı çalıştırdınız mı??</string>
-    <string name="counter_tile">Sayıcı
-        \nTile</string>
+    <string name="counter_tile">Sayaç
+        \nSekmesi</string>
     <string name="counter_summary">Tıkladığınız kadar sayı sayar</string>
-    <string name="reset_counter">Sayıcıyı Sıfırla</string>
+    <string name="reset_counter">Sayacı Sıfırla</string>
     <string name="cur_val">Şuanki Sayı = %1$d </string>
     <string name="Dice">Zar Sekmesi</string>
     <string name="dice_desc">Zar atar
@@ -476,62 +476,62 @@
     <string name="power_menu">Güç Menüsü</string>
     <string name="new_message_title">Yeni SMS</string>
     <string name="new_tweet_title">Yeni Tweet</string>
-    <string name="counter_tile_title">Clicker</string>
+    <string name="counter_tile_title">Sayaç</string>
     <string name="mobile_data">Mobile Data</string>
-    <string name="show_immersive_activity">Show Mode Selector</string>
-    <string name="mode_select_summary">Shows a popup dialog with additional Immersive Mode options.</string>
-    <string name="toggle">Toggle</string>
-    <string name="toolbox_label">Toolbox</string>
-    <string name="app_picker">Select An Application</string>
-    <string name="custom_app_tiles">Custom App Tiles</string>
-    <string name="swipe_up">Swipe up from the bottom to dismiss</string>
-    <string name="lock_screen_title">Lock Screen</string>
-    <string name="auto_rotate">Auto
-        \nRotate</string>
-    <string name="portrait">Portrait</string>
-    <string name="landscape">Landscape</string>
-    <string name="orientation_mode">Screen Rotation</string>
-    <string name="orient_summary">Toggle Screen Rotation</string>
-    <string name="counter_reset">Reset counter to 0?</string>
-    <string name="data_roam_on">Data Roaming Enabled</string>
-    <string name="data_roam_disabled">Data Roaming Disabled</string>
-    <string name="data_roaming">Data Roaming</string>
-    <string name="dataroam_summary">Toggle Data Roaming</string>
-    <string name="quick_tiles_title">Change Number Of Tiles In Collapsed View</string>
-    <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed pull-down.
-        \nThis MOD is manufacturer dependent.</string>
-    <string name="sidebar">SideBar or Floating Toolbox</string>
-    <string name="sidebar_summary">Choose between the Swipe Out SideBar or Floating Toolbox.</string>
-    <string name="sidebar_pos">Horizontal Trigger Position</string>
-    <string name="right">Current Position Right</string>
-    <string name="left_position">Current Position Left</string>
-    <string name="tb_background">Select Toolbox/SideBar Background Colour</string>
-    <string name="create_calendar_event">New Event</string>
-    <string name="tb_tile_tint">Select Toolbox/SideBar Tile Colour</string>
-    <string name="tb_tile_text_tint">Select Toolbox/SideBar Font Colour</string>
-    <string name="tb_reset_tint">Reset Colour Preferences</string>
-    <string name="reset_conf">Are you sure you want to reset all colour preferences?</string>
-    <string name="trigger_colour_title">Select Trigger Colour</string>
-    <string name="filter_active">Screen Filter Active</string>
-    <string name="filter_colour">Select Filter Colour</string>
-    <string name="filter_off">Screen Filter\nOff</string>
-    <string name="filter_on">Screen Filter\nOn</string>
-    <string name="filter_tile_title">Screen Filter</string>
-    <string name="screen_filter">Screen Filter</string>
-    <string name="screen_filter_summary">A screen filter to reduce eye strain at night (Night Mode)</string>
-    <string name="reset_filter">Reset Filter Colour</string>
-    <string name="sideber_tmb_title">Vertical Trigger Position</string>
-    <string name="tb_columns_title">Toolbox Columns</string>
-    <string name="tb_columns_summary">Current = %s columns</string>
-    <string name="sb_columns_title">SideBar Columns</string>
-    <string name="design_settings">Theme/Layout</string>
+    <string name="show_immersive_activity">Mode seçiciyi Göster</string>
+    <string name="mode_select_summary">Tam ekran modlarını gösteren bir kutu açar.</string>
+    <string name="toggle">Aç</string>
+    <string name="toolbox_label">Araç Kutusu</string>
+    <string name="app_picker">Bir uygulama seçin</string>
+    <string name="custom_app_tiles">Özel Uygulama</string>
+    <string name="swipe_up">Geçmek için aşağıdan yukarıya doğru kaydırın.</string>
+    <string name="lock_screen_title">Ekran Kilidi</string>
+    <string name="auto_rotate">Otomatik
+        \nDöndür</string>
+    <string name="portrait">Dikey</string>
+    <string name="landscape">Yatay</string>
+    <string name="orientation_mode">Ekran Döndürme</string>
+    <string name="orient_summary">Ekran Döndürmeyi Aç</string>
+    <string name="counter_reset">Sayacı sıfırla?</string>
+    <string name="data_roam_on">Yurt dışı mobil internet kullanımı Açık/string>
+    <string name="data_roam_disabled">Yurt dışı mobil internet kullanımı Kapalı</string>
+    <string name="data_roaming">Yurt dışı mobil internet kullanımı</string>
+    <string name="dataroam_summary">TYurt dışı mobil internet kullanımı Aç</string>
+    <string name="quick_tiles_title">Ufaltılmış durum çubuğu sekme sayısı</string>
+    <string name="manufact_depend">Ufaltılmış durum çubuğu sekme sayısını ayarlayın.
+        \nCihaz üreticisi tarafından konulan sayı ile sınırlıdır.</string>
+    <string name="sidebar">Yüzen Araç kutusu / Yan Menü</string>
+    <string name="sidebar_summary">Kaydırma Yan Menü yada Yüzen Araç Kutusu arasında seçim yapın.</string>
+    <string name="sidebar_pos">Yatay tetikleme pozisyonu</string>
+    <string name="right">Geçerli pozisyon sağda</string>
+    <string name="left_position">Geçerli pozisyon solda</string>
+    <string name="tb_background">Araç Kutusu / Yan Menü arka plan rengi seçin</string>
+    <string name="create_calendar_event">Yeni Etkinlik</string>
+    <string name="tb_tile_tint">Araç Kutusu / Yan Menü sekme rengi seçin</string>
+    <string name="tb_tile_text_tint">Araç Kutusu / Yan Menü Yazı rengi seçin</string>
+    <string name="tb_reset_tint"Renk ayarlarını orjinale döndür</string>
+    <string name="reset_conf">Tüm renk ayarlarını orjinale döndürmek istediğinize emin misiniz??</string>
+    <string name="trigger_colour_title">Tetitk rengi seç</string>
+    <string name="filter_active">Ekran Filtresi Açık/string>
+    <string name="filter_colour">Filtre Rengi Seç</string>
+    <string name="filter_off">Ekran Filtresi\nKapalı</string>
+    <string name="filter_on">Ekran Filtresi\nAçık</string>
+    <string name="filter_tile_title">Ekran Filtresi</string>
+    <string name="screen_filter">Ekran Filtresi</string>
+    <string name="screen_filter_summary">Gece kullanımında ekranın gözünüzü yormasını azaltan bir ekran filtresi</string>
+    <string name="reset_filter">Filtre Rengini Sıfırla/string>
+    <string name="sideber_tmb_title">Dikey tetikleme pozisyonu/string>
+    <string name="tb_columns_title">Araç Kutusu Kolonları</string>
+    <string name="tb_columns_summary">Geçerli kolon sayısı = %s </string>
+    <string name="sb_columns_title">Yan Menü Kolonları</string>
+    <string name="design_settings">Tema / Düzen</string>
     <string name="leedroid">www.LeeDrOiD.co.uk</string>
-    <string name="round_off">Rounded
-        \nCorners Off</string>
-    <string name="round_on">Rounded
-        \nCorners On</string>
-    <string name="round_title">Rounded
-        \nCorners</string>
+    <string name="round_off">Köşe
+        \nYuvarlama Kapalı</string>
+    <string name="round_on">Köşe
+        \nKöşe Yuvarlama Açık</string>
+    <string name="round_title">Köşe
+        \nYuvarlama</string>
     <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
     <string name="corners_title">Rounded Corners</string>
     <string name="corners__scale_title">Screen Corner Scale</string>
