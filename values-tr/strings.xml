@@ -390,7 +390,7 @@
     <string name="consider_prem">Shortcutter ÜCRETSİZ </string>
     <string name="consider_prem1">Bu 50. tıklaman oldu!
         \n\n Premium alarak biraz destek olmayı düşünür müydün?
-        \n\nÜcretsiz versiyonda her 50 tıklamada bu ileti görüntülenir.</string>
+        \n\nÜcretsiz versiyonda her 20 tıklamada bu ileti görüntülenir.</string>
     <string name="screenre_cat"><![CDATA[Ekran Görüntüsü & Ekran Videosu]]></string>
     <string name="choose_entries">Konum Modu Seçici (En az 2 tane)</string>
     <string name="conf_sel">Seçimi onaylayın</string>
@@ -465,17 +465,17 @@
     <string name="immersive_off">Tam Ekran
         \nKapalı</string>
     <string name="wake_active">Uyanık Kal Açık/string>
-    <string name="floating_toolbox">Yan çubuk / Alet kutusu etkinleştir</string>
-    <string name="float_summary">A SideBar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
-    <string name="tb_tiles">Toolbox/SideBar\nSettings</string>
-    <string name="email_feedback">Email Feedback</string>
-    <string name="submit_review">Leave A Review</string>
-    <string name="rate_app">Rate The App</string>
-    <string name="yes_pro">GO PREMIUM</string>
-    <string name="file_browser">File Browser</string>
-    <string name="power_menu">Power Menu</string>
-    <string name="new_message_title">New SMS</string>
-    <string name="new_tweet_title">New Tweet</string>
+    <string name="floating_toolbox">Yan Menü / Alet kutusunu etkinleştir</string>
+    <string name="float_summary">Yan menü kaydırma ile yada hareketli ikona dukunularak açılabilir.</string>
+    <string name="tb_tiles">Araç Kutusu/Yan Menü\nAyarlar</string>
+    <string name="email_feedback">Email Geri Bildirim</string>
+    <string name="submit_review">Yorum Yap</string>
+    <string name="rate_app">Uygulamayı Puanlayın</string>
+    <string name="yes_pro">PREMIUM AL</string>
+    <string name="file_browser">Dosya Yöneticisir</string>
+    <string name="power_menu">Güç Menüsü</string>
+    <string name="new_message_title">Yeni SMS</string>
+    <string name="new_tweet_title">Yeni Tweet</string>
     <string name="counter_tile_title">Clicker</string>
     <string name="mobile_data">Mobile Data</string>
     <string name="show_immersive_activity">Show Mode Selector</string>
