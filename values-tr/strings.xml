@@ -398,7 +398,7 @@
     <string name="settings_system_required">Sistem ayarlarını değiştirme izni gerekli - Toggle to enable</string>
     <string name="usage_access_required">Kullanım erişimi izni gerekli - İzin vermek için tıklayın</string>
     <string name="dnd_required">Rahatsız Etme erişim izni gerekli - İzin vermek için tıklayın</string>
-    <string name="accessibility_description">Shortcutter şu ulaşılabilirlik ayarlarının kullanmasını sağlar:
+    <string name="accessibility_description">Shortcutter şu ulaşılabilirlik özelliklerinin kullanmasını sağlar:
         \n\n\u2022 Çoklu Ekranı etkinleştir
         \n\u2022 Son Kullanılan Uygulamalar
         \n\u2022 Güç Menüsünü Göster
@@ -455,17 +455,17 @@
     \n\u2022 Screen Filter/Gece Modu Ekran Filtresi
     \n\u2022 Yuvarlatılmış Ekran Köşelikleri
     \n\nLütfen devam et tıklayın ve gerekli izinleri verin.\n]]></string>
-    <string name="overlay_required">System overlay permissions required</string>
+    <string name="overlay_required">sistem uygulamalarının üstünde göster izni gerekli</string>
     <string name="mob_data">Mobile
-        \nData</string>
-    <string name="mob_dat_sum">Toggle mobile data on/off</string>
-    <string name="toolbox">Toolbox</string>
+        \nİnternet</string>
+    <string name="mob_dat_sum">Mobil İnternet Aç/Kapat</string>
+    <string name="toolbox">Alet Kutusu</string>
     <string name="immersive_on">Tam Ekran
         \nAçık</string>
     <string name="immersive_off">Tam Ekran
         \nKapalı</string>
-    <string name="wake_active">Screen Wake Active</string>
-    <string name="floating_toolbox">Enable The SideBar/Toolbox</string>
+    <string name="wake_active">Uyanık Kal Açık/string>
+    <string name="floating_toolbox">Yan çubuk / Alet kutusu etkinleştir</string>
     <string name="float_summary">A SideBar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
     <string name="tb_tiles">Toolbox/SideBar\nSettings</string>
     <string name="email_feedback">Email Feedback</string>
