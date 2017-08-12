@@ -629,15 +629,15 @@
     <string name="shortcutter_permissions_storage">Bu özellik hafıza kartına erişim gerektirir.\n\n
     Bunu yapabilmek için,uygulama okuma / yazma izinlerine ihtiyaç duyar.\n\n
     Lütfen Devam et tıklayıp &amp; sorulduğunda izin verin.</string>
-    <string name="shortcutter_permissions_camera">This toggle requires the ability to access the camera (Flash).\n\n
-    In order to do this the app needs the Camera permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="shortcutter_permissions_sync">This toggle requires the ability to access your Sync settings.\n\n
-    In order to do this the app needs the Read/Write Sync permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
-    In order to do this the app needs the Location permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="shortcutter_permissions_camera">Bu özellik kamera flaşına erişim izni gerektirir.\n\n
+    Bunu yapabilmek için,uygulama Kamera izinlerine ihtiyaç duyar.\n\n
+    Lütfen Devam et tıklayıp &amp; sorulduğunda izin verin.</string>
+    <string name="shortcutter_permissions_sync">Bu özellik senkronizasyon (eşleme) ayarlarına erişim izni gerektirir.\n\n
+    Bunu yapabilmek için,uygulama senkronizasyon (eşleme) okuma / yazma izinlerine ihtiyaç duyar.\n\n
+     Lütfen Devam et tıklayıp &amp; sorulduğunda izin verin.</string>
+    <string name="shortcutter_permissions_location">Bu özellik konumunuza erişim izni gerektirir.\n\n
+    Bunu yapabilmek için,uygulama Konum izinlerine ihtiyaç duyar.\n\n
+    Lütfen Devam et tıklayıp &amp; sorulduğunda izin verin.</string>
     <string name="unavailable">Unavailable</string>
     <string name="install_shortcut">Install\nShortcut</string>
     <string name="select_shortcut">Select A Shortcut To Install</string>
