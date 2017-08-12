@@ -543,92 +543,92 @@
     <string name="how_it_works2">\u2022 Aşağı açılır durum çubuğu ile</string>
     <string name="how_it_works3">\u2022 Shortcutter Yan Menü veya Hareketli Araç Kutusu ile</string>
     <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
-    <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
-    <string name="config_serv">Configure\nShortcuts</string>
-    <string name="enable_to_config">Enable/Add Tile to configure</string>
-    <string name="wake_tile">Screen Wake</string>
-    <string name="screenshot_root">Use Root Screenshot Method</string>
-    <string name="screenshot_root_summary">Produces a screenshot using the system screencap binary</string>
-    <string name="corners_active">Round Corners Active</string>
+    <string name="attention">Lütfen 2. kısımdaki sekme ekleme klavuzuna dikkatlice gözatın.</string>
+    <string name="config_serv">Configure\nKısa yollar</string>
+    <string name="enable_to_config">Açık/Ayarlamak için sekme ekle</string>
+    <string name="wake_tile">Uyandır</string>
+    <string name="screenshot_root">Root ile ekran görüntüsü alma metodu</string>
+    <string name="screenshot_root_summary">Sistem uygulaması yoluyla ekran görüntüsü alır.</string>
+    <string name="corners_active">Yuvarlatılmış Köşeler açık</string>
     <string name="misc_cat">Expose Launcher Toggles</string>
-    <string name="misc_tiles_cat">Miscellaneous Tile Settings</string>
-    <string name="fancy_anim">Reflow Pull-down Animation</string>
-    <string name="fancy_summary">Enable/Disable the fancy reflow pull-down animation (Not compatible with all devices)</string>
-    <string name="configurable">Shortcutter tiles with a blue bar have additional options, these options can be found in the "Configure Services/Tiles" tab.</string>
-    <string name="system_toggles">System Setting Tiles</string>
-    <string name="action_toggles">Action Tiles</string>
-    <string name="info_toggles">Information Tiles</string>
-    <string name="sc_services">Shortcutter Service Tiles</string>
-    <string name="misc_tiles">Other Tiles</string>
-    <string name="custom_url_tiles">Custom URL Tiles</string>
+    <string name="misc_tiles_cat">Diğer Sekme Ayarları</string>
+    <string name="fancy_anim">Durum Çubuğu aşağı açılma efekti</string>
+    <string name="fancy_summary">Aç/Kapat Durum Çubuğu açılma efekti (Her cihazla uyumlu değildir)</string>
+    <string name="configurable">Üzerinde mavi çubuk olan Shortcutter sekmeleri fazladan şeçenek içerir, bu seçenekler "Servisleri Ayarla" sekmesinde bulunur.</string>
+    <string name="system_toggles">Sistem ayarları Sekmesi</string>
+    <string name="action_toggles">Eylemler Sekmesi</string>
+    <string name="info_toggles">Bilgi Sekmesi</string>
+    <string name="sc_services">Shortcutter Servis Sekmesi</string>
+    <string name="misc_tiles">Diğer Sekmeler</string>
+    <string name="custom_url_tiles">Özel URL Sekmeleri</string>
     <string name="google_awareness_key">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
-    <string name="weather">Weather Info</string>
-    <string name="tap_close">Touch to close</string>
-    <string name="weather_desc">Launches a popup with current weather information</string>
-    <string name="location">Location Updating</string>
-    <string name="condition">Condition:&#160;</string>
-    <string name="temp">Current Temperature:&#160;</string>
-    <string name="feels">Feels Like:&#160;</string>
-    <string name="dewp">Dew point:&#160;</string>
-    <string name="weather_celsius">Temperature Unit</string>
-    <string name="celsius">Celsius</string>
-    <string name="fahrenheit">Fahrenheit</string>
+    <string name="weather">Hava Durumu</string>
+    <string name="tap_close">Kapatmak için tıklayın</string>
+    <string name="weather_desc">Anlık hava durumunu bildiren bir pencere açar.</string>
+    <string name="location">Konum Güncelleniyor</string>
+    <string name="condition">Durum:&#160;</string>
+    <string name="temp">Anlık Sıcaklık:&#160;</string>
+    <string name="feels">Hissedilen:&#160;</string>
+    <string name="dewp">Çiğ düşme sıcaklığı:&#160;</string>
+    <string name="weather_celsius">Sıcaklık Birimi</string>
+    <string name="celsius">Selsius</string>
+    <string name="fahrenheit">Fahrenhayt</string>
     <string name="app_sig">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
-    <string name="humidity">Humidity:&#160;</string>
-    <string name="mylocation">My Location</string>
-    <string name="maps_link">View On Maps</string>
-    <string name="refresh">Refresh</string>
-    <string name="current_location">Current Location</string>
+    <string name="humidity">Nem:&#160;</string>
+    <string name="mylocation">Konumum</string>
+    <string name="maps_link">Harita üzerinde göster</string>
+    <string name="refresh">Yenile</string>
+    <string name="current_location">Konumum</string>
     <string name="maps_api">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
-    <string name="dev_loc_mode">Location Mode:&#160;%1$s</string>
-    <string name="mylocation_summary">Displays current location, with options to view in maps or share</string>
-    <string name="loading_map">Loading Map....</string>
-    <string name="swipe_out">Swipe out to dismiss</string>
-    <string name="choose_ring_entries">Ring Mode Entries (2 Minimum)</string>
-    <string name="qs_head_title">QS Header Tiles</string>
-    <string name="acc_needed_corners">This overlay requires Accessibility access to:
-        \n\n \u2022 Detect secure activities.
-        \n\nIf a secure activity is detected, this overlay will automatically stop.
-        \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
-    <string name="filter_off_secure">Screen Filter Off
-        \nSecure activity detected</string>
-    <string name="corners_off_secure">Screen Corners Off
-        \nSecure activity detected</string>
-    <string name="alphaUp">Opacity +</string>
-    <string name="alphaDown">Opacity -</string>
-    <string name="transparency">Opacity =&#160;</string>
-    <string name="launch_loc">Launches Settings - Location</string>
-    <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
-    <string name="nigh_light">Night Light</string>
-    <string name="brightness">Screen Brightness</string>
-    <string name="scnigh_light">Shortcutter\nNight Light</string>
-    <string name="nightlight_summary">Provides an always on Nightlight &amp; clock display, plus a button to switch to Desk Clock Mode</string>
-    <string name="deskmode">Desk Clock\nMode</string>
-    <string name="lightmode">Night Light\nMode</string>
-    <string name="scdesk">Shortcutter\nDesk Clock</string>
-    <string name="expand_collapse">Toolbox\nExpander</string>
-    <string name="expose_toggler">Enable the \"SideBar Expander\" icon to open/close the SideBar or ToolBox, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp; Tasker.</string>
-    <string name="expose_toggler_title">SideBar Expander</string>
-    <string name="permissions">App Permissions</string>
-    <string name="settings_access">Write System Settings</string>
-    <string name="overlay_access">Overlay Permissions</string>
-    <string name="admin_access">Administrator Access</string>
-    <string name="acc_access">Accessibility Access</string>
-    <string name="dnd_access">Do Not Disturb Access</string>
-    <string name="usage_access">Data Usage</string>
-    <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
-    <string name="overlay_summary">Usage: Floating SideBar/ToolBox, Screen Filter &amp; Rounded Corners</string>
-    <string name="admin_summary">Usage: Screen Lock</string>
-    <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Screen Filter &amp; Rounded Corners</string>
-    <string name="dnd_summary">Usage: Ring Mode</string>
-    <string name="usage_summary">Usage: Data Usage Tile</string>
-    <string name="actual_tiles">Actual Tiles =&#160; %1$d </string>
-    <string name="shortcutter_permissions_phone">This toggle requires the ability to check network state.\n\n
-    In order to do this the app needs the Phone permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="shortcutter_permissions_storage">This service requires the ability to access external storage.\n\n
-    In order to do this the app needs the Read/Write Storage permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
+    <string name="dev_loc_mode">Konum Modu:&#160;%1$s</string>
+    <string name="mylocation_summary">Bulunduğunuz konumu gösterir, haritada görebilir, paylaşabilirsiniz.</string>
+    <string name="loading_map">Harita yükleniyor....</string>
+    <string name="swipe_out">Çıkmak için kaydırın</string>
+    <string name="choose_ring_entries">Zil Sesi Modu (En az 2 seçenek)</string>
+    <string name="qs_head_title">Hızlı Ayarlar başlığı sekmesi</string>
+    <string name="acc_needed_corners">Bu ekran üzerinde bulunma özelliği şu erişim iznini gerektirir:
+        \n\n \u2022 GÜvenli aktiviteleri bul.
+        \n\nIf Güvenli aktivite bulundu, bu özellik otomatik olarak durdurulacak..
+        \n\nShortcutter a gitmek için tıklayın &amp; Servisi çalıştır.\n\n</string>
+    <string name="filter_off_secure">Ekran Filtresi Kapalı
+        \nGüvenli aktivite bulundu</string>
+    <string name="corners_off_secure">Ekran Kenarları Kapalı
+        \nGüvenli aktivite bulundu</string>
+    <string name="alphaUp">Şeffaflık +</string>
+    <string name="alphaDown">Şeffaflık -</string>
+    <string name="transparency">Şeffaflık =&#160;</string>
+    <string name="launch_loc">Konum ayarları açar</string>
+    <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Hızlı Ayarlar v%1$s </string>
+    <string name="nigh_light">Gece Lambası</string>
+    <string name="brightness">Ekran Parlaklığı</string>
+    <string name="scnigh_light">Shortcutter\nGece Lambası</string>
+    <string name="nightlight_summary">Hep açık bir gece lambası açar &amp; Saat ve masa saati modu</string>
+    <string name="deskmode">Masa Saati\nModu</string>
+    <string name="lightmode">Gece Lambasıt\nModu</string>
+    <string name="scdesk">Shortcutter\nMasa Saati</string>
+    <string name="expand_collapse">Araç Kutusu\nGenişletici</string>
+    <string name="expose_toggler">İkon \"Yan Menü Genişletici\" Yan Menü / Araç Çubuğunu açıp Kapatmak için, bu aynı zamanda  HTC Sense gibi cihazların 2. ekranına da uygulanabilir &amp; Görev Yöneticisi.</string>
+    <string name="expose_toggler_title">Yan Menü Genişletici</string>
+    <string name="permissions">Uygulama İzinleri</string>
+    <string name="settings_access">Sistem ayarlarının üzerine yaz</string>
+    <string name="overlay_access">Ekran üstüne yazma izinleri</string>
+    <string name="admin_access">Yönetici Erişimi</string>
+    <string name="acc_access">Erişilebilirlik ayarları erişimi</string>
+    <string name="dnd_access">Rahatsız etme modu erişimi</string>
+    <string name="usage_access">Mobil İnternet Kullanımı</string>
+    <string name="settings_system_summary">Kullanım: Parlaklık, Yazı Karakteri Boyutu, Dokunma Titreşimi &amp; Uyku</string>
+    <string name="overlay_summary">Kullanım: Hareketli Yan Menü/Araç Çubuğu, Ekran Filtresi &amp; Yuvarlatılmış Kenarlar</string>
+    <string name="admin_summary">Kullanım: Ekran Kilidi</string>
+    <string name="acc_summary">Kullanım: Son Kullanılan Uygulamalar, Güç Menüsü, Çoklu Ekran, Ekran Fİltresi &amp; Yuvarlatılmış Kenarlar</string>
+    <string name="dnd_summary">Kullanım: Zil Sesi Modu</string>
+    <string name="usage_summary">Kullanım: Mobil İnternet Kullanımı Sekmesi</string>
+    <string name="actual_tiles">Kullanımdaki Sekmeler =&#160; %1$d </string>
+    <string name="shortcutter_permissions_phone">Bu özellik şebeke durumunu kontrol etmeye gereksinim duyar.\n\n
+    Bunu yapabilmek için, uygulama cihazdan izin ister.\n\n
+    Lütfen Devam et tıklayıp &amp; sorulduğunda izin verin.</string>
+    <string name="shortcutter_permissions_storage">Bu özellik hafıza kartına erişim gerektirir.\n\n
+    Bunu yapabilmek için,uygulama okuma / yazma izinlerine ihtiyaç duyar.\n\n
+    Lütfen Devam et tıklayıp &amp; sorulduğunda izin verin.</string>
     <string name="shortcutter_permissions_camera">This toggle requires the ability to access the camera (Flash).\n\n
     In order to do this the app needs the Camera permission.\n\n
     Please click proceed &amp; grant the permission when prompted.</string>
