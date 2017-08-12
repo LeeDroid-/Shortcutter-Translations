@@ -293,7 +293,7 @@
         \n\n\u2022 SoLdieR9312 - German
         \n\u2022 @Linar10 - Polish
         \n\u2022 @Nuno Nebeker - Portuguese
-	\n\u2022 @Evren GüntürKün - Portuguese
+	\n\u2022 @Evren GüntürKün - Turkish
         \n\u2022 范家安(金发大表哥) - Chinese
         \n\nUygulamayı tecrüme etmekte bana yardımcı olmak isterseniz, geri bildirim bölümünden bana bir e-mail gönderin.\n\nAdditional Graphics By @Bogdan</string>
     <string name="file_tile">Dosya
@@ -539,9 +539,9 @@
     <string name="corners_scale_summary">Ekran köşesinin genişliğini ayarlayın</string>
     <string name="corner_colour">Köşenin rengini seçin</string>
     <string name="how_it_works">Nasıl Çalışıyor?</string>
-    <string name="how_it_works1">Shortcutter offers several different options to access up to 68 shortcuts, settings &amp; services.</string>
-    <string name="how_it_works2">\u2022 Via your Quick Settings Pull-down</string>
-    <string name="how_it_works3">\u2022 Via the Shortcutter Swipe out SideBar or Floating Toolbox</string>
+    <string name="how_it_works1">Shortcutter farklı seçeneklerle 68 sekmeye kadar kullanıma olanak verir, ayarlar &amp; servisler.</string>
+    <string name="how_it_works2">\u2022 Aşağı açılır durum çubuğu ile</string>
+    <string name="how_it_works3">\u2022 Shortcutter Yan Menü veya Hareketli Araç Kutusu ile</string>
     <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
     <string name="config_serv">Configure\nShortcuts</string>
