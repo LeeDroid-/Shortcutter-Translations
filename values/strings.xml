@@ -15,7 +15,7 @@
     <string name="battery_saving">Battery Saving</string>
     <string name="high_accuracy">High Accuracy</string>
     <string name="heads_up_enabled">Heads Up Enabled</string>
-    <string name="special_perms_command">Once complete, click confirm and we will test access, if the command failed, try again.</string>
+    <string name="special_perms_command">Once complete, click confirm &amp; we will test access, if the command failed, try again.</string>
     <string name="special_perms_required">"Special permission required
         \n\nTry running: "</string>
     <string name="wifi_call_disabled">Wi-Fi Calling Disabled</string>
@@ -104,10 +104,10 @@
         \n</string>
     <string name="additonal_perms_req">Additional Permissions Required</string>
     <string name="notification_policy_message">Some tiles require the ability to modify notification settings, as we cannot request these permissions in the normal fasion, you will need to enable them.
-        \n\nClick proceed and you will be taken to the relevant screen.\n</string>
+        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
     <string name="proceed">Proceed</string>
     <string name="system_perms_message">Some tiles require the ability to write system settings, as we cannot request these permissions in the normal fasion, you will need to enable them.
-        \n\nClick proceed and you will be taken to the relevant screen.\n</string>
+        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
     <string name="press_back">Press back to return once enabled.</string>
     <string name="credits">Credits</string>
     <string name="full_title">Shortcutter Quick Settings</string>
@@ -146,7 +146,7 @@
     <string name="secure_access">Settings Secure Access</string>
     <string name="action_required">Action Required</string>
     <string name="settings_secure_instruct">You can manually grant Shortcutter access to Settings Secure, allowing more control over the system.
-        \n\nFrom your PC go to www.leedroid.co.uk/SettingsSecureGuide and follow the instructions.
+        \n\nFrom your PC go to www.leedroid.co.uk/SettingsSecureGuide &amp; follow the instructions.
         \n\n</string>
     <string name="confirm">CONFIRM</string>
     <string name="screenshot">Screenshot</string>
@@ -161,11 +161,11 @@
     <string name="show_touches">Show Touches</string>
     <string name="subscription_error">Your device does not support subscriptions.</string>
     <string name="iab_async_error">Error launching purchase flow. Another async operation in progress.</string>
-    <string name="onetimefee2">£2.19</string>
-    <string name="onetimefee5">£4.29
+    <string name="onetimefee2">£1.99</string>
+    <string name="onetimefee5">£3.99
         \n(Gratuity)</string>
-    <string name="donation2">£2.39 License</string>
-    <string name="donation5">£4.79 License</string>
+    <string name="donation2">£1.99 License</string>
+    <string name="donation5">£3.99 License</string>
     <string name="donation10">£9.60 License</string>
     <string name="detected">Detected</string>
     <string name="yes">Yes</string>
@@ -185,7 +185,7 @@
         \n Premium features activated</string>
     <string name="qs_tiles">Quick Settings\nTiles</string>
     <string name="all_prices_subject_to_tax_vat">All prices include Tax/VAT*
-        \n\nPurchasing Shortcutter Premium will remove the 50 click notification and enable additional Quick Settings tiles and app features.</string>
+        \n\nPurchasing Shortcutter Premium will remove the 50 click notification &amp; enable additional Quick Settings tiles &amp; app features.</string>
     <string name="amin">amin</string>
     <string name="allofthe">Either of the below options will grant you premium access, the choice is yours :)</string>
     <string name="volumeui">Volume
@@ -222,13 +222,13 @@
     <string name="haptic_summary">Toggle Haptic Feeback on/off</string>
     <string name="headsup_summary">Toggle Heads Up notifications</string>
     <string name="Headsup_tile_title">Heads Up</string>
-    <string name="immersive_summary">Hide the status and navigation bars</string>
+    <string name="immersive_summary">Hide the status &amp; navigation bars</string>
     <string name="immersive_tile_title">Immersive
         \nMode</string>
     <string name="location_summary">Toggle location mode Off/GPS/Battery Saving/Hight Accuracy</string>
     <string name="location_tile_title">Location Mode</string>
     <string name="ram_tile_title">RAM</string>
-    <string name="ram_summary">Displays available and total RAM, with a shortcut to go to RAM information</string>
+    <string name="ram_summary">Displays available &amp; total RAM, with a shortcut to go to RAM information</string>
     <string name="recovery_tile_title">Reboot Recovery</string>
     <string name="recovery_summary">Reboots your device to Recovery Mode</string>
     <string name="reboot_summary">Reboots your device</string>
@@ -341,7 +341,7 @@
     <string name="datausage">Data
         \nUsage</string>
     <string name="data_usage_perms">Shortcutter needs permission to access Data Usage history.
-        \n\nPlease click proceed, select Shortcutter and enable usage access.\n\n</string>
+        \n\nPlease click proceed, select Shortcutter &amp; enable usage access.\n\n</string>
     <string name="reset_day">Reset on the %1$d day of each month</string>
     <string name="select_day">Select Data Reset Day</string>
     <string name="data_cycle_reset">Data Usage Cycle</string>
@@ -355,9 +355,9 @@
     <string name="adding_qs_tiles">Adding QS Tiles</string>
     <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Quick Settings Tiles\" tab & make your QS Tile selections.]]></string>
     <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below, this is usually a pen icon.
-    \n\n Samsung users hit the 3 dot menu and select rearrange tiles, your Shortcutter tiles will show in the bottom view.]]></string>
+    \n\n Samsung users hit the 3 dot menu &amp; select rearrange tiles, your Shortcutter tiles will show in the bottom view.]]></string>
     <string name="edit_view1">3. In the Edit View you will find 2/3 containers, you will see your new Shortcutter tiles in the bottom container.
-        \n\nTo add them, simply long press and drag your chosen tiles up to the top (Active) container and exit the Edit View.</string>
+        \n\nTo add them, simply long press &amp; drag your chosen tiles up to the top (Active) container &amp; exit the Edit View.</string>
     <string name="edit_view_note">IMPORTANT NOTE:
         \n\n Due to a bug in Android N, you may struggle to add tiles, this can be worked around by doing the following.
         \n\nRemove any tiles you do not want in the \"Quick Settings Tiles\" tab &amp; take your new tiles from the TOP of the available tiles container.
@@ -399,7 +399,7 @@
     <string name="nfc_not_found">NFC settings activity not found</string>
     <string name="consider_prem">Shortcutter FREE</string>
     <string name="consider_prem1">Thats 50 Shortcutter clicks!
-        \n\nHave you considered showing your support and going Premium?
+        \n\nHave you considered showing your support &amp; going Premium?
         \n\nThis notification will show every 50 tile clicks in the Free version.</string>
     <string name="screenre_cat"><![CDATA[Screen Record & Capture]]></string>
     <string name="choose_entries">Location Mode Entries (2 Minimum)</string>
@@ -412,7 +412,7 @@
         \n\n\u2022 Toggle Split Screen
         \n\u2022 Toggle Recent Apps
         \n\u2022 Show Power Menu
-        \n\u2022 Detect Activities - Required for Screen Filter and Screen Corners, these services will be stopped when apps are being installed and permissions are being granted.</string>
+        \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.</string>
     <string name="power_dialog">Power Dialog</string>
     <string name="split_screen">Multi Window</string>
     <string name="lock_screen">Lock
@@ -425,13 +425,13 @@
         \n\u2022 Power Menu
         \n\u2022 Split Screen
         \n\u2022 Detect Activities
-        \n - Required for Screen Filter and Screen Corners, these services will be stopped when apps are being installed and permissions are being granted.
-        \n\nClick proceed, go to Shortcutter and enable the service.\n\n</string>
+        \n - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
+        \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
     <string name="split_sum">Toggle Split Screen / Multi Window Mode</string>
     <string name="power_sum">Open the power menu</string>
     <string name="admin_needed">Admin rights required</string>
     <string name="admin_needed_long">Shortcutter requires Admin privileges to lock your device screen.
-        \n\nPlease press proceed and enable Admin rights to use this QS Tile.\n\n</string>
+        \n\nPlease press proceed &amp; enable Admin rights to use this QS Tile.\n\n</string>
     <string name="lock_sum">Locks your screen</string>
     <string name="immersivemode">Select Immersive Mode</string>
     <string name="immersive_active">Immersive Mode Active</string>
@@ -459,11 +459,12 @@
     <string name="play">Play
         \nMusic</string>
     <string name="play_pause">Play/Pause Music</string>
-    <string name="play_pause_sum">Play and Pause music</string>
+    <string name="play_pause_sum">Play &amp; Pause music</string>
     <string name="overlay_needed"><![CDATA[Several Shortcutter services require the Draw System Overlay permission to run, these include:\n
     \n\u2022 SideBar/Floating Toolbox
     \n\u2022 Screen Filter/Night Mode
     \n\u2022 Rounded Corners
+    \n\u2022 HotSpot &amp; Network Mode Dialogs
     \n\nPlease click proceed & grant the required permission.\n]]></string>
     <string name="overlay_required">System overlay permissions required</string>
     <string name="mob_data">Mobile
@@ -477,7 +478,7 @@
     <string name="wake_active">Screen Wake Active</string>
     <string name="floating_toolbox">Enable The SideBar/Toolbox</string>
     <string name="float_summary">A SideBar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
-    <string name="tb_tiles">Toolbox/SideBar\nSettings</string>
+    <string name="tb_tiles">SideBar/ToolBox\nSettings</string>
     <string name="email_feedback">Email Feedback</string>
     <string name="submit_review">Leave A Review</string>
     <string name="rate_app">Rate The App</string>
@@ -515,10 +516,10 @@
     <string name="sidebar_pos">Horizontal Trigger Position</string>
     <string name="right">Current Position Right</string>
     <string name="left_position">Current Position Left</string>
-    <string name="tb_background">Select Toolbox/SideBar Background Colour</string>
+    <string name="tb_background">Select SideBar/ToolBox Background Colour</string>
     <string name="create_calendar_event">New Event</string>
-    <string name="tb_tile_tint">Select Toolbox/SideBar Tile Colour</string>
-    <string name="tb_tile_text_tint">Select Toolbox/SideBar Font Colour</string>
+    <string name="tb_tile_tint">Select SideBar/ToolBox Tile Colour</string>
+    <string name="tb_tile_text_tint">Select SideBar/ToolBox Font Colour</string>
     <string name="tb_reset_tint">Reset Colour Preferences</string>
     <string name="reset_conf">Are you sure you want to reset all colour preferences?</string>
     <string name="trigger_colour_title">Select Trigger Colour</string>
@@ -534,7 +535,7 @@
     <string name="tb_columns_title">Toolbox Columns</string>
     <string name="tb_columns_summary">Current = %s columns</string>
     <string name="sb_columns_title">SideBar Columns</string>
-    <string name="design_settings">Theme/Layout</string>
+    <string name="design_settings">SideBar/ToolBox Theme &amp; Behaviour</string>
     <string name="leedroid">www.LeeDrOiD.co.uk</string>
     <string name="round_off">Rounded
         \nCorners Off</string>
@@ -552,7 +553,7 @@
     <string name="how_it_works1">Shortcutter offers several different options to access up to 68 shortcuts, settings &amp; services.</string>
     <string name="how_it_works2">\u2022 Via your Quick Settings Pull-down</string>
     <string name="how_it_works3">\u2022 Via the Shortcutter Swipe out SideBar or Floating Toolbox</string>
-    <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
+    <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!</string>
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
     <string name="config_serv">Configure\nShortcuts</string>
     <string name="enable_to_config">Enable/Add Tile to configure</string>
@@ -599,7 +600,7 @@
     <string name="acc_needed_corners">This overlay requires Accessibility access to:
         \n\n \u2022 Detect secure activities.
         \n\nIf a secure activity is detected, this overlay will automatically stop.
-        \n\nClick proceed, go to Shortcutter and enable the service.\n\n</string>
+        \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
     <string name="filter_off_secure">Screen Filter Off
         \nSecure activity detected</string>
     <string name="corners_off_secure">Screen Corners Off
@@ -612,23 +613,21 @@
     <string name="nigh_light">Night Light</string>
     <string name="brightness">Screen Brightness</string>
     <string name="scnigh_light">Shortcutter\nNight Light</string>
-    <string name="nightlight_summary">Provides an always on Nightlight and clock display, plus a button to switch to Desk Clock Mode</string>
+    <string name="nightlight_summary">Provides an always on Nightlight &amp; clock display, plus a button to switch to Desk Clock Mode</string>
     <string name="deskmode">Desk Clock\nMode</string>
     <string name="lightmode">Night Light\nMode</string>
     <string name="scdesk">Shortcutter\nDesk Clock</string>
     <string name="expand_collapse">Toolbox\nExpander</string>
-    <string name="expose_toggler">Enable the \"Toolbox Expander\" icon to open and close the Toolbox or SideBar, this also enables mapping to other app\'s such as Edge Sense &amp; Bixby.</string>
-    <string name="expose_toggler_title">Toolbox Expander</string>
+    <string name="expose_toggler">Enable the \"SideBar Expander\" icon to open/close the SideBar or ToolBox, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp; Tasker.</string>
+    <string name="expose_toggler_title">SideBar Expander</string>
     <string name="permissions">App Permissions</string>
     <string name="settings_access">Write System Settings</string>
     <string name="overlay_access">Overlay Permissions</string>
-    <string name="admin_access">Administrator Access</string>
     <string name="acc_access">Accessibility Access</string>
     <string name="dnd_access">Do Not Disturb Access</string>
     <string name="usage_access">Data Usage</string>
     <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
-    <string name="overlay_summary">Usage: Floating Toolbox/SideBar, Screen Filter &amp; Rounded Corners</string>
-    <string name="admin_summary">Usage: Screen Lock</string>
+    <string name="overlay_summary">Usage: Floating SideBar/ToolBox, Screen Filter &amp; Rounded Corners</string>
     <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Screen Filter &amp; Rounded Corners</string>
     <string name="dnd_summary">Usage: Ring Mode</string>
     <string name="usage_summary">Usage: Data Usage Tile</string>
@@ -652,11 +651,11 @@
     <string name="install_shortcut">Install\nShortcut</string>
     <string name="select_shortcut">Select A Shortcut To Install</string>
     <string name="header">Remove Header</string>
-    <string name="hide_header_sum">Removes the ToolBox/SideBar header</string>
+    <string name="hide_header_sum">Removes the SideBar/ToolBox header</string>
     <string name="review">\n Don\'t forget to leave a rocking review in the Play Store!</string>
     <string name="enjoying">Enjoying Shortcutter?</string>
     <string name="counter">Counter\n+1</string>
-    <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as Edge Sense &amp; Bixby.</string>
+    <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp;. Tasker.</string>
     <string name="wifi_enabled">WiFi Enabled</string>
     <string name="wifi_disabled">WiFi Disabled</string>
     <string name="wifi">WiFi</string>
@@ -687,9 +686,15 @@
     <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
     <string name="cust_app">Tiles that you can assign applications to</string>
     <string name="cust_url">Tiles that you can assign web addresses to</string>
-    <string name="cust_sb">Customise the look and feel of the SideBar or ToolBox</string>
+    <string name="cust_sb">Customise the look, feel &amp; behaviour of the SideBar or ToolBox</string>
     <string name="behaviour">Change the behaviour of Tiles</string>
     <string name="perms_now">Permissions required for specific tiles &amp; features</string>
     <string name="forceEnglish">Force English</string>
     <string name="force_eng_summary">Run the app in the English Language</string>
+    <string name="xiaomi">Your device requires applications to be granted auto start permissions, Shortcutter background services will be killed if this is not enabled.\n\nPlease click Proceed &amp; enable auto start for Shortcutter.</string>
+    <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Batter Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
+    <string name="gridItems">customapp1TB,customapp2TB,alarm,ram,corners,filter,wake,counter,dice,calendar,sync,camera,email,nightlight,voicesearch,search,inear,playpause</string>
+    <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
+    <string name="monochrome">B&amp;W</string>
+    <string name="monochrome_summary">Change the display to black and white (Monochrome)</string>
 </resources>

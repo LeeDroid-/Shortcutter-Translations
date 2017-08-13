@@ -612,13 +612,11 @@
     <string name="permissions">Uygulama İzinleri</string>
     <string name="settings_access">Sistem ayarlarının üzerine yaz</string>
     <string name="overlay_access">Ekran üstüne yazma izinleri</string>
-    <string name="admin_access">Yönetici Erişimi</string>
     <string name="acc_access">Erişilebilirlik ayarları erişimi</string>
     <string name="dnd_access">Rahatsız etme modu erişimi</string>
     <string name="usage_access">Mobil İnternet Kullanımı</string>
     <string name="settings_system_summary">Kullanım: Parlaklık, Yazı Karakteri Boyutu, Dokunma Titreşimi &amp; Uyku</string>
     <string name="overlay_summary">Kullanım: Hareketli Yan Menü/Araç Çubuğu, Ekran Filtresi &amp; Yuvarlatılmış Kenarlar</string>
-    <string name="admin_summary">Kullanım: Ekran Kilidi</string>
     <string name="acc_summary">Kullanım: Son Kullanılan Uygulamalar, Güç Menüsü, Çoklu Ekran, Ekran Fİltresi &amp; Yuvarlatılmış Kenarlar</string>
     <string name="dnd_summary">Kullanım: Zil Sesi Modu</string>
     <string name="usage_summary">Kullanım: Mobil İnternet Kullanımı Sekmesi</string>

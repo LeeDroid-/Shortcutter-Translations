@@ -622,13 +622,11 @@
     <string name="permissions">Uprawnienia Aplikacji</string>
     <string name="settings_access">Zapisz Ustawienia Systemu</string>
     <string name="overlay_access">Zastąp Uprawnienia</string>
-    <string name="admin_access">Dostęp Administratora</string>
     <string name="acc_access">Dostęp do Ułatwień Dostępu</string>
     <string name="dnd_access">Dostęp Do Trybu Nieprzeszkadzać</string>
     <string name="usage_access">Użycie Danych</string>
     <string name="settings_system_summary">Użyj: Jasność, Rozmiar Czcionki, Potwierdzenie wibracją &amp; Czas włączenia ekranu</string>
     <string name="overlay_summary">Użycie: Pływający Toolbox/Pasek Boczny, Filtry Ekranu &amp; Zaokrąglone Narożniki</string>
-    <string name="admin_summary">Użycie: Blokada Ekranu</string>
     <string name="acc_summary">Użycie: Ostatnie Aplikacje, Menu Zasilania, Podzielony Ekran, Filtry Ekarnu &amp; Zaokrąglone Narożniki</string>
     <string name="dnd_summary">Użycie: Trybu Dzwonka</string>
     <string name="usage_summary">Użycie: Płytka Użycia Danych</string>
