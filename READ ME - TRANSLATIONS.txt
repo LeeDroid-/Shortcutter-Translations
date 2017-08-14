@@ -2,11 +2,13 @@
 
 Do not change the order of any rows.
 
-only translate strings between meta tags. <string name="resource_name_tage"> TRANSLATE HERE </Strings>
+Only translate strings between meta tags. <string name="resource_name_tage"> TRANSLATE HERE </Strings>
+
+ALWAYS git pull to make sure you have the latest revision.
 
 Example special characters:
 
-\n 			- denotes a new line. 
+\n 				- denotes a new line. 
 ;&amp 			- escapes the & character.
 \u2022 			- a bullet point.
 <![CDATA[ & ^ £ ]]	- escapes all special characters inside the square brackets.

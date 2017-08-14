@@ -140,8 +140,7 @@
     <string name="by_leedroid">Created By LeeDrOiD</string>
     <string name="welcome_to_shortcutter">Welcome To</string>
     <string name="Immersive">Immersive Mode</string>
-    <string name="manual_secure_summary">Grant Shortcutter access to Settings Secure to enable additional Tiles.
-        \n(A PC is required)</string>
+    <string name="manual_secure_summary">Usage: Location Mode Toggle, Immersive Mode, ADB, Heads Up, Monochrome, Data Roaming, Ambient Display, On Wile Chargin &amp; Power Save - (A PC is required)</string>
     <string name="secure_access_enabled">Secure Access Enabled</string>
     <string name="secure_access">Settings Secure Access</string>
     <string name="action_required">Action Required</string>
@@ -430,7 +429,8 @@
     <string name="split_sum">Toggle Split Screen / Multi Window Mode</string>
     <string name="power_sum">Open the power menu</string>
     <string name="admin_needed">Admin rights required</string>
-    <string name="admin_needed_long">Shortcutter requires Admin privileges to lock your device screen.
+    <string name="admin_needed_long">Shortcutter requires Admin privileges to:\n\n
+        \u2022Lock your device screen
         \n\nPlease press proceed &amp; enable Admin rights to use this QS Tile.\n\n</string>
     <string name="lock_sum">Locks your screen</string>
     <string name="immersivemode">Select Immersive Mode</string>
@@ -608,7 +608,7 @@
     <string name="alphaUp">Opacity +</string>
     <string name="alphaDown">Opacity -</string>
     <string name="transparency">Opacity =&#160;</string>
-    <string name="launch_loc">Launches Settings - Location</string>
+    <string name="launch_loc">Launches Settings \> Location/n(if no settings secure access)</string>
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
     <string name="nigh_light">Night Light</string>
     <string name="brightness">Screen Brightness</string>
@@ -697,4 +697,11 @@
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
     <string name="monochrome">B&amp;W</string>
     <string name="monochrome_summary">Change the display to black and white (Monochrome)</string>
+    <string name="launch_power">Launches Settings \> Power\n(if no settings secure access)</string>
+    <string name="admin_access">Administrator Access</string>
+    <string name="admin_summary">Usage: Screen Lock</string>
+    <string name="tb_tile_alpha">Off Tile Transparency</string>
+    <string name="hide_tb_labels">Hide Text Labels</string>
+    <string name="hidden">Hidden</string>
+    <string name="visible">Visible</string>
 </resources>

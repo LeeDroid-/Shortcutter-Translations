@@ -686,4 +686,11 @@
     <string name="failed_window_add">Pencere ekleme başarısız, Lütfen uygulamayı açıp ekran üzerine yazma iznini verdiğinize emin olun</string>
     <string name="monochrome">B&amp;W</string>
     <string name="monochrome_summary">Görüntü ayarlarını siyah beyaz olarak değiştir(Monochrome)</string>
+    <string name="launch_power">Launches Settings \> Power\n(if no settings secure access)</string>
+    <string name="admin_access">Administrator Access</string>
+    <string name="admin_summary">Usage: Screen Lock</string>
+    <string name="tb_tile_alpha">Off Tile Transparency</string>
+    <string name="hide_tb_labels">Hide Text Labels</string>
+    <string name="hidden">Hidden</string>
+    <string name="visible">Visible</string>
 </resources>

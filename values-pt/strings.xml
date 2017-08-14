@@ -483,7 +483,7 @@
     <string name="alphaUp">Opacity +</string>
     <string name="alphaDown">Opacity -</string>
     <string name="transparency">Opacity =&#160;</string>
-    <string name="launch_loc">Launches Settings - Location</string>
+    <string name="launch_loc">Launches Settings \> Location/n(if no settings secure access)</string>
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
     <string name="nigh_light">Night Light</string>
     <string name="brightness">Screen Brightness</string>
@@ -572,4 +572,11 @@
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
     <string name="monochrome">B&amp;W</string>
     <string name="monochrome_summary">Change the display to black and white (Monochrome)</string>
+    <string name="launch_power">Launches Settings \> Power\n(if no settings secure access)</string>
+    <string name="admin_access">Administrator Access</string>
+    <string name="admin_summary">Usage: Screen Lock</string>
+    <string name="tb_tile_alpha">Off Tile Transparency</string>
+    <string name="hide_tb_labels">Hide Text Labels</string>
+    <string name="hidden">Hidden</string>
+    <string name="visible">Visible</string>
 </resources>
