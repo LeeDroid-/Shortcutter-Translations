@@ -540,7 +540,7 @@
     <string name="corner_colour">Köşenin rengini seçin</string>
     <string name="how_it_works">Nasıl Çalışıyor?</string>
     <string name="how_it_works1">Shortcutter farklı seçeneklerle, bir çok servis ve uygulama için Durum Çubuğunda kullanılmak üzere 68 sekmeye eklemeye olanak tanır.</string>
-    <string name="how_it_works2">\u2022 Aşağı açılır durum çubuğu ile</string>
+    <string name="how_it_works2">\u2022 Aşağı açılır durum çubuğunu daha kullanışlı hale getirin!/string>
     <string name="how_it_works3">\u2022 Shortcutter Yan Menü veya Hareketli Araç Kutusu ile</string>
     <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
     <string name="attention">Lütfen 2. kısımdaki sekme ekleme klavuzuna dikkatlice gözatın.</string>
