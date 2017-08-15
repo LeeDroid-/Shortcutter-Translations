@@ -681,7 +681,7 @@
     <string name="forceEnglish">Sadece İngilizce Kullanıım</string>
     <string name="force_eng_summary">Program İngilizce olarak çalışır</string>
     <string name="xiaomi">Cihazınızına, programlarınızı otomatik olarak çalıştırması için izin vermeniz gerekir, eğer bu izni vermezseniz Shortcutter arkaplan servisleri sistem tarafından kapatılır.\n\nDevam et tıklayın &amp; Shortcutter için otomatik çalıştır iznini verin.</string>
-    <string name="bat_opt"><![CDATA[Shortcutter arkaplanda çalışan servisler çalıştırır, bazı durumlarda (pil tasarrufu, RAM dolması vb.)sistem bazı arkaplan servislerini kapatır, bu nedenle shortcutter için pil ayarlarından, pil optimizasyonu kapatmanız tavsiye edilir.\n\nUmarım uygulamayı beğenirsiniz!!]]></string>
+    <string name="bat_opt"><![CDATA[Shortcutter arkaplanda çalışan servisler çalıştırır, bazı durumlarda (pil tasarrufu, RAM dolması vb.)sistem bazı arkaplan servislerini kapatır, bu nedenle shortcutter için pil ayarlarından, pil optimizasyonunu kapatmanız tavsiye edilir.\n\nUmarım uygulamayı beğenirsiniz!!]]></string>
     <string name="gridItems">cKişiseluygulama1TB,Kişiseluygulama2TB,alarm,ram,köşeler,filtre,uyandır,sayaç,zar,takvim,sşleme,kamera,email,gecelambası,sesliaramaarama,kulaklıksesi,çaldurdur</string>
     <string name="failed_window_add">Pencere ekleme başarısız, Lütfen uygulamayı açıp ekran üzerine yazma iznini verdiğinize emin olun</string>
     <string name="monochrome">S&amp;B</string>
