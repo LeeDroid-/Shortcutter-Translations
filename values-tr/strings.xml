@@ -199,7 +199,7 @@
     <string name="alarm_summary">Bir sonraki alarmı göster, tıklandığında alarmlara gider.</string>
     <string name="alarm_tile_title">Sonraki Alarm Sekmesi</string>
     <string name="ambien_summary">Ortam Durumu/ Bekleme Modu</string>
-    <string name="ambient_tile_title">Ortama Göre Ekran Sekmesi</string>
+    <string name="ambient_tile_title">Ortama Göre Ekran Tavrı Sekmesi</string>
     <string name="autobrightness_summary">Otomatik Parlaklık Açık/Kapalı</string>
     <string name="autobrightness_tile_title">Otomatik Parlaklık Sekmesi</string>
     <string name="brightnesspreset_summary">Kademeli Parlaklık Modu
@@ -210,7 +210,7 @@
     <string name="haptic_tile_title">Dokunma Titreşimi Sekmesi</string>
     <string name="haptic_summary">Dokunma Titreşimi Aç/Kapat</string>
     <string name="headsup_summary">Üst Bildirimler Şeridi</string>
-    <string name="Headsup_tile_title">Üst Bildirimler Sekmesi/string>
+    <string name="Headsup_tile_title">Üst Bildirimler Sekmesi</string>
     <string name="immersive_summary">Durum Çubuğunu ve Navigasyon Düğmelerini Gizle</string>
     <string name="immersive_tile_title">Tam Ekran
         \nModu</string>
@@ -426,7 +426,7 @@
     <string name="immersivemode">Tam ekran modu seç</string>
     <string name="immersive_active">Tam ekran modu açık</string>
     <string name="select_time">Lürfen bir süre seçin  dk:sn</string>
-    <string name="search_tile">İnternet Araması</string>
+    <string name="search_tile">Google Arama Motoru</string>
     <string name="search_summary">Google Araması Açar</string>
     <string name="voice_search_tile">Sesli Komut</string>
     <string name="voicesearch_sum">Google Asistanı açar</string>
@@ -472,13 +472,13 @@
     <string name="submit_review">Yorum Yap</string>
     <string name="rate_app">Uygulamayı Puanlayın</string>
     <string name="yes_pro">PREMIUM AL</string>
-    <string name="file_browser">Dosya Yöneticisir</string>
+    <string name="file_browser">Dosya Yöneticisi</string>
     <string name="power_menu">Güç Menüsü</string>
     <string name="new_message_title">Yeni SMS</string>
     <string name="new_tweet_title">Yeni Tweet</string>
     <string name="counter_tile_title">Sayaç</string>
     <string name="mobile_data">Mobile Data</string>
-    <string name="show_immersive_activity">Mode seçiciyi Göster</string>
+    <string name="show_immersive_activity">Mod seçiciyi Göster</string>
     <string name="mode_select_summary">Tam ekran modlarını gösteren bir kutu açar.</string>
     <string name="toggle">Aç</string>
     <string name="toolbox_label">Araç Kutusu</string>
@@ -500,8 +500,8 @@
     <string name="quick_tiles_title">Ufaltılmış durum çubuğu sekme sayısı</string>
     <string name="manufact_depend">Ufaltılmış durum çubuğu sekme sayısını ayarlayın.
         \nCihaz üreticisi tarafından konulan sayı ile sınırlıdır.</string>
-    <string name="sidebar">Yüzen Araç kutusu / Yan Menü</string>
-    <string name="sidebar_summary">Kaydırma Yan Menü yada Yüzen Araç Kutusu arasında seçim yapın.</string>
+    <string name="sidebar">Hareketli Araç kutusu / Yan Menü</string>
+    <string name="sidebar_summary">Kaydırma Yan Menü yada Hareketli Araç Kutusu arasında seçim yapın.</string>
     <string name="sidebar_pos">Yatay tetikleme pozisyonu</string>
     <string name="right">Geçerli pozisyon sağda</string>
     <string name="left_position">Geçerli pozisyon solda</string>
@@ -539,7 +539,7 @@
     <string name="corners_scale_summary">Ekran köşesinin genişliğini ayarlayın</string>
     <string name="corner_colour">Köşenin rengini seçin</string>
     <string name="how_it_works">Nasıl Çalışıyor?</string>
-    <string name="how_it_works1">Shortcutter farklı seçeneklerle 68 sekmeye kadar kullanıma olanak verir, ayarlar &amp; servisler.</string>
+    <string name="how_it_works1">Shortcutter farklı seçeneklerle, bir çok servis ve uygulama için Durum Çubuğunda kullanılmak üzere 68 sekmeye eklemeye olanak tanır.</string>
     <string name="how_it_works2">\u2022 Aşağı açılır durum çubuğu ile</string>
     <string name="how_it_works3">\u2022 Shortcutter Yan Menü veya Hareketli Araç Kutusu ile</string>
     <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
@@ -639,7 +639,7 @@
     <string name="unavailable">Kullanılamıyor</string>
     <string name="install_shortcut">Kısayol\nYükle</string>
     <string name="select_shortcut">Yüklemek için bir kısayol seçin</string>
-    <string name="header">Başlığı kaldırır</string>
+    <string name="header">Başlığı kaldır</string>
     <string name="hide_header_sum">Yan Menü / Araç Kutusu başlığını kaldırır. header</string>
     <string name="review">\n Play Store 'da\Yüksek bir puan verir ve güzel bir yorum yaparsınız artık :)</string>
     <string name="enjoying">Shortcutter Hoşunuza gitti mi?</string>
@@ -661,7 +661,7 @@
     <string name="create_hotspot">Mobil internet paylaşımı oluştur.</string>
     <string name="ap_name">Open AP Name</string>
     <string name="swipe_out_close">Kapatmak için kaydırın</string>
-    <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
+    <string name="obscure_back"><![CDATA[Ekranı karart &detect outside touches]]></string>
     <string name="led_enabled">LED Bildirimler\nAçık</string>
     <string name="led_disabled">LED Bildirimler\nKapalı</string>
     <string name="notif_led">LED Bildirimler</string>
@@ -684,7 +684,7 @@
     <string name="bat_opt"><![CDATA[Shortcutter arkaplanda çalışan servisler çalıştırır, bazı durumlarda (pil tasarrufu, RAM dolması vb.)sistem bazı arkaplan servislerini kapatır, bu nedenle shortcutter için pil ayarlarından, pil optimizasyonu kapatmanız tavsiye edilir.\n\nUmarım uygulamayı beğenirsiniz!!]]></string>
     <string name="gridItems">cKişiseluygulama1TB,Kişiseluygulama2TB,alarm,ram,köşeler,filtre,uyandır,sayaç,zar,takvim,sşleme,kamera,email,gecelambası,sesliaramaarama,kulaklıksesi,çaldurdur</string>
     <string name="failed_window_add">Pencere ekleme başarısız, Lütfen uygulamayı açıp ekran üzerine yazma iznini verdiğinize emin olun</string>
-    <string name="monochrome">B&amp;W</string>
+    <string name="monochrome">S&amp;B</string>
     <string name="monochrome_summary">Görüntü ayarlarını siyah beyaz olarak değiştir(Monochrome)</string>
     <string name="launch_power">Launches Settings \> Power\n(if no settings secure access)</string>
     <string name="admin_access">Administrator Access</string>
