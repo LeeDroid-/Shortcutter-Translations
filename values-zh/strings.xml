@@ -47,6 +47,14 @@
     <string name="CustomTile10">Custom App 10</string>
     <string name="CustomTile11">Custom App 11</string>
     <string name="CustomTile12">Custom App 12</string>
+    <string name="CustomTile13">Custom App 13</string>
+    <string name="CustomTile14">Custom App 14</string>
+    <string name="CustomTile15">Custom App 15</string>
+    <string name="CustomTile16">Custom App 16</string>
+    <string name="CustomTile17">Custom App 17</string>
+    <string name="CustomTile18">Custom App 18</string>
+    <string name="CustomTile19">Custom App 19</string>
+    <string name="CustomTile20">Custom App 20</string>
     <string name="EnterUrl">Enter Custom URL</string>
     <string name="CustomUrl1">Custom URL 1</string>
     <string name="CustomUrl2">Custom URL 2</string>
@@ -65,30 +73,6 @@
     <string name="need_dnd">No Permissions, please allow shortcutter to override DND</string>
     <string name="next_alarm">Next Alarm
         \n</string>
-    <string name="custom_1">Custom Tile
-        \n1</string>
-    <string name="custom_2">Custom Tile
-        \n2</string>
-    <string name="custom_3">Custom Tile
-        \n3</string>
-    <string name="custom_4">Custom Tile
-        \n4</string>
-    <string name="custom_5">Custom Tile
-        \n5</string>
-    <string name="custom_6">Custom Tile
-        \n6</string>
-    <string name="custom_7">Custom Tile
-        \n7</string>
-    <string name="custom_8">Custom Tile
-        \n8</string>
-    <string name="custom_9">Custom Tile
-        \n9</string>
-    <string name="custom_10">Custom Tile
-        \n10</string>
-    <string name="custom_11">Custom Tile
-        \n11</string>
-    <string name="custom_12">Custom Tile
-        \n12</string>
     <string name="custom_url1">Custom URL
         \n1</string>
     <string name="custom_url2">Custom URL
@@ -141,7 +125,6 @@
     <string name="welcome_to_shortcutter">Welcome To</string>
     <string name="Immersive">Immersive Mode</string>
     <string name="manual_secure_summary">Usage: Location Mode Toggle, Immersive Mode, ADB, Heads Up, Monochrome, Data Roaming, Ambient Display, On Wile Chargin &amp; Power Save - (A PC is required)</string>
-    <string name="secure_access_enabled">Secure Access Enabled</string>
     <string name="secure_access">Settings Secure Access</string>
     <string name="action_required">Action Required</string>
     <string name="settings_secure_instruct">You can manually grant Shortcutter access to Settings Secure, allowing more control over the system.
@@ -182,7 +165,6 @@
     <string name="old_licene">Premium key detected</string>
     <string name="tweaks_key">LeeDrOiD Tweaks key detected
         \n Premium features activated</string>
-    <string name="qs_tiles">Quick Settings\nTiles</string>
     <string name="all_prices_subject_to_tax_vat">All prices include Tax/VAT*
         \n\nPurchasing Shortcutter Premium will remove the 50 click notification &amp; enable additional Quick Settings tiles &amp; app features.</string>
     <string name="amin">amin</string>
@@ -248,7 +230,7 @@
     <string name="wake_tile_title">Screen Wake</string>
     <string name="tuner_summary">Launch the hidden SystemUI Tuner
         \nFunctionality is Manufacturer dependent</string>
-    <string name="tuner_tile_title">SystemUI Tuner</string>
+    <string name="tuner_tile_title">SystemUI Tuner Tile</string>
     <string name="prem_only">Premium
         \n Only</string>
     <string name="settings_secure_needed">Settings Secure access required</string>
@@ -478,7 +460,7 @@
     <string name="wake_active">Screen Wake Active</string>
     <string name="floating_toolbox">Enable The SideBar/Toolbox</string>
     <string name="float_summary">A SideBar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
-    <string name="tb_tiles">SideBar/ToolBox\nSettings</string>
+    <string name="tb_tiles">Shortcutter\nSideBar</string>
     <string name="email_feedback">Email Feedback</string>
     <string name="submit_review">Leave A Review</string>
     <string name="rate_app">Rate The App</string>
@@ -565,12 +547,10 @@
     <string name="misc_tiles_cat">Miscellaneous Tile Settings</string>
     <string name="fancy_anim">Reflow Pull-down Animation</string>
     <string name="fancy_summary">Enable/Disable the fancy reflow pull-down animation (Not compatible with all devices)</string>
-    <string name="configurable">Shortcutter tiles with a blue bar have additional options, these options can be found in the "Configure Services/Tiles" tab.</string>
     <string name="system_toggles">System Setting Tiles</string>
     <string name="action_toggles">Action Tiles</string>
     <string name="info_toggles">Information Tiles</string>
     <string name="sc_services">Shortcutter Service Tiles</string>
-    <string name="misc_tiles">Other Tiles</string>
     <string name="custom_url_tiles">Custom URL Tiles</string>
     <string name="google_awareness_key">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
     <string name="weather">Weather Info</string>
@@ -679,7 +659,7 @@
     <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
     <string name="left_up">Swipe to close</string>
     <string name="system_toggle_summary">Subject to OS/manufacturer compatibility</string>
-    <string name="sys_settings">System Settings</string>
+    <string name="experimental_settings">Experimental Features</string>
     <string name="sys_setting_tiles">Quick Settings tiles to toggle system settings</string>
     <string name="system_actions">Tiles to toggle/launch system actions</string>
     <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
@@ -692,7 +672,7 @@
     <string name="forceEnglish">Force English</string>
     <string name="force_eng_summary">Run the app in the English Language</string>
     <string name="xiaomi">Your device requires applications to be granted auto start permissions, Shortcutter background services will be killed if this is not enabled.\n\nPlease click Proceed &amp; enable auto start for Shortcutter.</string>
-    <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Batter Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
+    <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Battery Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
     <string name="gridItems">customapp1TB,customapp2TB,alarm,ram,corners,filter,wake,counter,dice,calendar,sync,camera,email,nightlight,voicesearch,search,inear,playpause</string>
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
     <string name="monochrome">B&amp;W</string>
@@ -707,4 +687,12 @@
     <string name="icon_picker">Icon Picker</string>
     <string name="custom_icon">Custom Icon Background</string>
     <string name="cust_icon_summary">Select a custom icon background</string>
+    <string name="manage_tiles">Manage tiles</string>
+    <string name="enable_tiles">Enable/Disable Quick Settings Pull-down Tiles</string>
+    <string name="qs_tiles">Quick Settings\nPull-down</string>
+    <string name="custom_tiles">Custom Tiles</string>
+    <string name="sb_tb_settings">SideBar/Toolbox Settings</string>
+    <string name="design_sb_settings">Configure your Shortcutter SideBar/ToolBox</string>
+    <string name="launch_icons">Launcher\nIcons</string>
+    <string name="enable_tiles_tb">Enable/Disable SideBar Tiles</string>
 </resources>

@@ -61,22 +61,6 @@
     <string name="need_dnd">Uygulama İzni Yok, Lütfen shortcutter için DND izni verin</string>
     <string name="next_alarm">Sonraki Alarm
         \n</string>
-    <string name="custom_1">Özel Sekme
-        \n1</string>
-    <string name="custom_2">Özel Sekme
-        \n2</string>
-    <string name="custom_3">Özel Sekme
-        \n3</string>
-    <string name="custom_4">Özel Sekme
-        \n4</string>
-    <string name="custom_5">Özel Sekme
-        \n5</string>
-    <string name="custom_6">Özel Sekme
-        \n6</string>
-    <string name="custom_7">Özel Sekme
-        \n7</string>
-    <string name="custom_8">Özel Sekme
-        \n8</string>
     <string name="custom_url1">Özel Link
         \n1</string>
     <string name="custom_url2">Özel Link
@@ -131,7 +115,6 @@
     <string name="Immersive">Tam Ekran</string>
     <string name="manual_secure_summary"> Daha Fazla sekme etkinleştirmek istiyorsanız, cihazınıza Shortcutter uygulamasının cihaz ayarlarını değiştirebilme izini vermeniz gerekmektedir.
         \n(Bu işlem BİLGİSAYAR &amp; ile yapılır)</string>
-    <string name="secure_access_enabled">Güvenli Erişim İzni Verildi</string>
     <string name="secure_access">Güvenli Erişim Ayarı</string>
     <string name="action_required">Bir işlem yapmanız gerekli</string>
     <string name="settings_secure_instruct">Shortcutter uygulamasına, sistem üzerinde daha çok kontrol sahibi olabilmesi için gerekli izinleri verebilirsiniz.
@@ -172,7 +155,6 @@
     <string name="old_licene">Premium Lisans Bulundu</string>
     <string name="tweaks_key">LeeDrOiD Tweaks key detected
         \n Premium özellikleri etkinleştirildi.</string>
-    <string name="qs_tiles">Durum Çubuğu Ayarları</string>
     <string name="all_prices_subject_to_tax_vat">Fiyatlara KDV Dahildir*
         \n\nShortcutter Premium Lisansı satın almak 50 tıklanma bildirimini kaldırıp, ilave sekmeler ve uygulamanın ekstra özelliklerini kullanabilmenizi sağlayacaktır..</string>
     <string name="amin">amin</string>
@@ -342,7 +324,6 @@
     <string name="failed_data_usage">Mobil internet kullanımı başlatılamadı.</string>
     <string name="how_to">Sekmelerin nasıl eklendiğini öğrenmek için tıklayın.</string>
     <string name="addtiles_title">Sekme nasıl eklenir - Klavuz</string>
-    <string name="adding_qs_tiles">Sekme eklemek.</string>
     <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Pulldown Tile Settings\" tab & make your QS Tile selections.]]></string>
     <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below, this is usually a pen icon.
     \n\n Samsung users hit the 3 dot menu and select rearrange tiles, your Shortcutter tiles will show in the bottom view.]]></string>
@@ -467,7 +448,7 @@
     <string name="wake_active">Uyanık Kal Açık</string>
     <string name="floating_toolbox">Yan Menü / Alet kutusunu etkinleştir</string>
     <string name="float_summary">Yan menü kaydırma ile yada hareketli ikona dukunularak açılabilir.</string>
-    <string name="tb_tiles">Araç Kutusu/Yan Menü\nAyarlar</string>
+    <string name="tb_tiles">Shortcutter\nSideBar</string>
     <string name="email_feedback">Email Geri Bildirim</string>
     <string name="submit_review">Yorum Yap</string>
     <string name="rate_app">Uygulamayı Puanlayın</string>
@@ -550,16 +531,13 @@
     <string name="screenshot_root">Root ile ekran görüntüsü alma metodu</string>
     <string name="screenshot_root_summary">Sistem uygulaması yoluyla ekran görüntüsü alır.</string>
     <string name="corners_active">Yuvarlatılmış Köşeler açık</string>
-    <string name="misc_cat">Expose Launcher Toggles</string>
     <string name="misc_tiles_cat">Diğer Sekme Ayarları</string>
     <string name="fancy_anim">Durum Çubuğu aşağı açılma efekti</string>
     <string name="fancy_summary">Aç/Kapat Durum Çubuğu açılma efekti (Her cihazla uyumlu değildir)</string>
-    <string name="configurable">Üzerinde mavi çubuk olan Shortcutter sekmeleri fazladan şeçenek içerir, bu seçenekler "Servisleri Ayarla" sekmesinde bulunur.</string>
     <string name="system_toggles">Sistem ayarları Sekmesi</string>
     <string name="action_toggles">Eylemler Sekmesi</string>
     <string name="info_toggles">Bilgi Sekmesi</string>
     <string name="sc_services">Shortcutter Servis Sekmesi</string>
-    <string name="misc_tiles">Diğer Sekmeler</string>
     <string name="custom_url_tiles">Özel URL Sekmeleri</string>
     <string name="google_awareness_key">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
     <string name="weather">Hava Durumu</string>
@@ -644,7 +622,6 @@
     <string name="review">\n Play Store \'da\Yüksek bir puan verir ve güzel bir yorum yaparsınız artık :)</string>
     <string name="enjoying">Shortcutter Hoşunuza gitti mi?</string>
     <string name="counter">Sayaç\n+1</string>
-    <string name="expose_activity_summary">Bu özelliklere ana sayfadan yada uygulamalardan ulaşılablir, bu aynı zamanda  HTC Sense gibi cihazların 2. ekranına da uygulanabilir &amp; Görev Yöneticisi.</string>
     <string name="wifi_enabled">WiFi Açık</string>
     <string name="wifi_disabled">WiFi Kapalı</string>
     <string name="wifi">WiFi</string>
@@ -668,7 +645,7 @@
     <string name="notif_led_summary">LED Bildirimleri Aç/Kapat\n(Cihaz üreticisine göre değişir)</string>
     <string name="left_up">Kapatmak için kaydırın</string>
     <string name="system_toggle_summary">Anroid versiyonu / üretici uyumluluğu</string>
-    <string name="sys_settings">Sistem Ayarları</string>
+    <string name="experimental_settings">Experimental Features</string>
     <string name="sys_setting_tiles">Sistem Ayarları için Hızlı Ayar Sekmeleri</string>
     <string name="system_actions">Sistem ayarlarını değiştirmek için sekmeler</string>
     <string name="info_tiles_sum">Faydalı sistem bilgilerine ulaşım için &amp; sekmeler</string>
@@ -696,4 +673,12 @@
     <string name="icon_picker">Icon Picker</string>
     <string name="custom_icon">Custom Icon Background</string>
     <string name="cust_icon_summary">Select a custom icon background</string>
+    <string name="manage_tiles">Manage tiles</string>
+    <string name="enable_tiles">Enable/Disable Quick Settings Pull-down Tiles</string>
+    <string name="qs_tiles">Quick Settings\nPull-down</string>
+    <string name="custom_tiles">Custom Tiles</string>
+    <string name="sb_tb_settings">SideBar/Toolbox Settings</string>
+    <string name="design_sb_settings">Configure your Shortcutter SideBar/ToolBox</string>
+    <string name="launch_icons">Launcher\nIcons</string>
+    <string name="enable_tiles_tb">Enable/Disable SideBar Tiles</string>
 </resources>

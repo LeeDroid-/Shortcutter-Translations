@@ -46,6 +46,14 @@
     <string name="CustomTile10">Custom App 10</string>
     <string name="CustomTile11">Custom App 11</string>
     <string name="CustomTile12">Custom App 12</string>
+    <string name="CustomTile13">Custom App 13</string>
+    <string name="CustomTile14">Custom App 14</string>
+    <string name="CustomTile15">Custom App 15</string>
+    <string name="CustomTile16">Custom App 16</string>
+    <string name="CustomTile17">Custom App 17</string>
+    <string name="CustomTile18">Custom App 18</string>
+    <string name="CustomTile19">Custom App 19</string>
+    <string name="CustomTile20">Custom App 20</string>
     <string name="EnterUrl">Introduza URL Personalizada</string>
     <string name="CustomUrl1">URL Personalizada 1</string>
     <string name="CustomUrl2">URL Personalizada 2</string>
@@ -63,14 +71,6 @@
     <string name="wake_started">Manter Ecrã Ligado Ativado</string>
     <string name="need_dnd">Sem Permissão, por favor autorize shortcutter a ignorar Não Incomodar</string>
     <string name="next_alarm">Próximo Alarme\n</string>
-    <string name="custom_1">Mosaico Personalizado\n1</string>
-    <string name="custom_2">Mosaico Personalizado\n2</string>
-    <string name="custom_3">Mosaico Personalizado\n3</string>
-    <string name="custom_4">Mosaico Personalizado\n4</string>
-    <string name="custom_5">Mosaico Personalizado\n5</string>
-    <string name="custom_6">Mosaico Personalizado\n6</string>
-    <string name="custom_7">Mosaico Personalizado\n7</string>
-    <string name="custom_8">Mosaico Personalizado\n8</string>
     <string name="custom_url1">URL Personalizada\n1</string>
     <string name="custom_url2">URL Personalizada\n2</string>
     <string name="custom_url3">URL Personalizada\n3</string>
@@ -111,7 +111,6 @@
     <string name="welcome_to_shortcutter">Bem-vindo A</string>
     <string name="Immersive">Modo Imersivo</string>
     <string name="manual_secure_summary">Dê autorização de acesso a Definições Protegidas a Shortcutter para ativar Mosaicos CR adicionais (Conhecimentos de PC &amp; ADB são necessários)</string>
-    <string name="secure_access_enabled">Acesso Protegido Ativado</string>
     <string name="secure_access">Definições Protegidas</string>
     <string name="action_required">Ação Necessária</string>
     <string name="settings_secure_instruct">Pode manualmente dar acessa a Definições Protegidas a Shortcutter, permitindo maior controle sobre o sistema.\n\nA partir do PC vá a www.leedroid.co.uk/#SettingsSecureGuide e siga as instruções.\n\n</string>
@@ -144,7 +143,6 @@
     <string name="logo">Logo</string>
     <string name="old_licene">Chave Premium detetada</string>
     <string name="tweaks_key">Chave Ajustes LeeDrOiD detetada\n Funcionalidades Premium ativadas</string>
-    <string name="qs_tiles">Pulldown Mosaico Settings</string>
     <string name="all_prices_subject_to_tax_vat">Todos os preços incluem Impostos/IVA*\n\nComprar Shortcutter Premium retira a notificação a cada 50 cliques e ativa Mosaicos de Configurações Rápidas e funcionalidades da app adicionais.</string>
     <string name="amin">amin</string>
     <string name="allofthe">Qualquer das opções abaixo dá acesso premium, a escolha é sua :)</string>
@@ -359,7 +357,7 @@
     <string name="wake_active">Manter Ecrã Ligado Ativo</string>
     <string name="floating_toolbox">Ativar BarraLateral/Caixa de Ferramentas</string>
     <string name="float_summary">BarraLateral deslizante ou painel de acesso rápido flutuante</string>
-    <string name="tb_tiles">Definições BarraLateral/Caixa de Ferramentas</string>
+    <string name="tb_tiles">Shortcutter\nSideBar</string>
     <string name="email_feedback">Feedback Email </string>
     <string name="submit_review">Deixar um Comentário</string>
     <string name="rate_app">Classificar A App</string>
@@ -436,16 +434,13 @@
     <string name="screenshot_root">Usar Método de Screenshot Root</string>
     <string name="screenshot_root_summary">Gera um screenshot usando o mecanismo de aptura do sistema</string>
     <string name="corners_active">Cantos Arredondados Activos</string>
-    <string name="misc_cat">Expor Outros Comandos</string>
     <string name="misc_tiles_cat">Outras Definições de Mosaicos</string>
     <string name="fancy_anim">Animação de refluxo</string>
     <string name="fancy_summary">Ativar/Desativar a animação de refluxo elegante</string>
-    <string name="configurable">Mosaicos Shortcutter com uma barra azul têm opções adicionais, estas opções podem ser encontradas no separador "Configurar Serviços/Mosaicos".</string>
     <string name="system_toggles">Mosaicos de Definições de Sistema</string>
     <string name="action_toggles">Mosaicos de Ação</string>
     <string name="info_toggles">Mosaicos de Informação</string>
     <string name="sc_services">Mosaicos de Serviço Shortcutter</string>
-    <string name="misc_tiles">Outros Mosaicos</string>
     <string name="custom_url_tiles">Mosaicos de URL Personalizados</string>
     <string name="google_awareness_key">NOPE, SORRY ;)</string>
     <string name="weather">Informação Metereológica</string>
@@ -554,7 +549,7 @@
     <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
     <string name="left_up">Swipe to close</string>
     <string name="system_toggle_summary">Subject to OS/manufacturer compatibility</string>
-    <string name="sys_settings">System Settings</string>
+    <string name="experimental_settings">Experimental Features</string>
     <string name="sys_setting_tiles">Quick Settings tiles to toggle system settings</string>
     <string name="system_actions">Tiles to toggle/launch system actions</string>
     <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
@@ -567,7 +562,7 @@
     <string name="forceEnglish">Force English</string>
     <string name="force_eng_summary">Run the app in the English Language</string>
     <string name="xiaomi">Your device requires applications to be granted auto start permissions, Shortcutter background services will be killed if this is not enabled.\n\nPlease click Proceed &amp; enable auto start for Shortcutter.</string>
-    <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Batter Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
+    <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Battery Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
     <string name="gridItems">customapp1TB,customapp2TB,alarm,ram,corners,filter,wake,counter,dice,calendar,sync,camera,email,nightlight,voicesearch,search,inear,playpause</string>
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
     <string name="monochrome">B&amp;W</string>
@@ -582,4 +577,12 @@
     <string name="icon_picker">Icon Picker</string>
     <string name="custom_icon">Custom Icon Background</string>
     <string name="cust_icon_summary">Select a custom icon background</string>
+    <string name="manage_tiles">Manage tiles</string>
+    <string name="enable_tiles">Enable/Disable Quick Settings Pull-down Tiles</string>
+    <string name="qs_tiles">Quick Settings\nPull-down</string>
+    <string name="custom_tiles">Custom Tiles</string>
+    <string name="sb_tb_settings">SideBar/Toolbox Settings</string>
+    <string name="design_sb_settings">Configure your Shortcutter SideBar/ToolBox</string>
+    <string name="launch_icons">Launcher\nIcons</string>
+    <string name="enable_tiles_tb">Enable/Disable SideBar Tiles</string>
 </resources>

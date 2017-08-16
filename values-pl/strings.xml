@@ -65,30 +65,6 @@
     <string name="need_dnd">Brak Uprawnień, proszę zezwolić shortcutter na dostęp do DND</string>
     <string name="next_alarm">Następny Alarm
 	    \n</string>
-    <string name="custom_1">Własna Płytka
-	    \n1</string>
-    <string name="custom_2">Własna Płytka
-	    \n2</string>
-    <string name="custom_3">Własna Płytka
-	    \n3</string>
-    <string name="custom_4">Własna Płytka
-	    \n4</string>
-    <string name="custom_5">Własna Płytka
-	    \n5</string>
-    <string name="custom_6">Własna Płytka
-	    \n6</string>
-    <string name="custom_7">Własna Płytka
-	    \n7</string>
-    <string name="custom_8">Własna Płytka
-	    \n8</string>
-    <string name="custom_9">Własna Płytka
-	    \n9</string>
-    <string name="custom_10">Własna Płytka
-	    \n10</string>
-    <string name="custom_11">Własna Płytka
-	    \n11</string>
-    <string name="custom_12">Własna Płytka
-	    \n12</string>
     <string name="custom_url1">Własny URL
 	    \n1</string>
     <string name="custom_url2">Własny URL
@@ -142,7 +118,6 @@
     <string name="Immersive">Tryb Pełnego Ekranu</string>
     <string name="manual_secure_summary">Przyznaj Shortcutter dostęp do Ustawień Zabezpieczeń i włącz dostęp do nowych Płytek QS 
 	    \n(PC &amp; ADB włączone wymagane)</string>
-    <string name="secure_access_enabled">Dostęp do Zabezpieczeń Włączony</string>
     <string name="secure_access">Ustawienia Zabezpieczeń</string>
     <string name="action_required">Wymagana Akcja</string>
     <string name="settings_secure_instruct">Musisz przyznać ręcznie uprawnienia Shortcutter do Ustawień Zabezpieczeń, Co pozwala na większą kontrolę nad systemem.
@@ -183,7 +158,6 @@
     <string name="old_licene">Wykryto stary styl klucza premium</string>
     <string name="tweaks_key">Wykryto klucz LeeDrOiD Tweaks
 	    \n funkcje Premium aktywowane</string>
-    <string name="qs_tiles"> Ustawienia Płytek QS</string>
     <string name="all_prices_subject_to_tax_vat">Wszystkie zakupy zawierają VAT
 	     \n\nKupienie Shortcutter Premium usuwa limit 50 kliknięć oraz daje dostęp do większej ilości płytek i funkcji aplikacji.</string>
     <string name="amin">amin</string>
@@ -477,7 +451,7 @@
     <string name="wake_active">Wybudzanie Ekranu Aktywne</string>
     <string name="floating_toolbox">Włącz Pasek Boczny Shortcutter </string>
     <string name="float_summary">Przeciągnij Toolbox/Panel</string>
-    <string name="tb_tiles">Ustawienia Toolbox</string>
+    <string name="tb_tiles">Shortcutter\nSideBar</string>
     <string name="email_feedback">Zgłaszanie Błędów E-mailowo</string>
     <string name="submit_review">Napisz opinię</string>
     <string name="rate_app">Oceń Aplikację</string>
@@ -560,16 +534,13 @@
     <string name="screenshot_root">Użyj Metody z Rootem do Zrzutów Ekranu</string>
     <string name="screenshot_root_summary">Tworzy zrzut ekranu przy użyciu systemu</string>
     <string name="corners_active">Okrągłe rogi aktywne</string>
-    <string name="misc_cat">Otwórz Inne Przełączniki</string>
     <string name="misc_tiles_cat">Różne Ustawienia Płytek</string>
     <string name="fancy_anim">Animacja Opuszczania</string>
     <string name="fancy_summary">Włącz / wyłącz płynną animację</string>
-    <string name="configurable">Płytki z niebieskim paskiem mają dodatkowe opcje, te opcje można znaleźć na karcie "Konfigurowanie usług / płytek".</string>
     <string name="system_toggles">Ustawienia Płytek Systemowych</string>
     <string name="action_toggles">Płytka Akcji</string>
     <string name="info_toggles">Płytka Informacyjna</string>
     <string name="sc_services">Usługi Płytek Shortcutter</string>
-    <string name="misc_tiles">Inne Płytki</string>
     <string name="custom_url_tiles">Własna Płytka URL</string>
     <string name="google_awareness_key">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
     <string name="weather">Pogoda</string>
@@ -654,7 +625,6 @@
     <string name="review">\n Nie, zapomnij zostawić pozytywną recenzję w Sklepie Play!</string>
     <string name="enjoying">Korzystasz z Shortcutter?</string>
     <string name="counter">Licznik\n+1</string>
-    <string name="expose_activity_summary">Dostęp do tych przełączników\\ z Twojego ekranu głównego lub szuflady aplikacji, umożliwia  to również mapowanie do innych aplikacji\\ takich jak Edge Sense &amp; Bixby</string>
     <string name="wifi_enabled"> Właczone WiFi</string>
     <string name="wifi_disabled">Wyłączone WiFi</string>
     <string name="wifi">WiFi</string>
@@ -678,7 +648,7 @@
     <string name="notif_led_summary">Włączanie / wyłączanie powiadomień LED \\ n (zależne od producenta)</string>
     <string name="left_up">Swypnij, aby zamknąć</string>
     <string name="system_toggle_summary">Z zastrzeżeniem zgodności OS/producent</string>
-    <string name="sys_settings">Ustawienia Systemowe</string>
+    <string name="experimental_settings">Experimental Features</string>
     <string name="sys_setting_tiles">Płytki Szybkich Ustawień, aby przełączyć ustawienia systemu</string>
     <string name="system_actions">Przełącz Płytki/Uruchom akcje systemu</string>
     <string name="info_tiles_sum">Płytki, które zapewniają &amp; powiązują użyteczne informacje o systemie</string>
@@ -706,4 +676,12 @@
     <string name="icon_picker">Icon Picker</string>
     <string name="custom_icon">Custom Icon Background</string>
     <string name="cust_icon_summary">Select a custom icon background</string>
+    <string name="manage_tiles">Manage tiles</string>
+    <string name="enable_tiles">Enable/Disable Quick Settings Pull-down Tiles</string>
+    <string name="qs_tiles">Quick Settings\nPull-down</string>
+    <string name="custom_tiles">Custom Tiles</string>
+    <string name="sb_tb_settings">SideBar/Toolbox Settings</string>
+    <string name="design_sb_settings">Configure your Shortcutter SideBar/ToolBox</string>
+    <string name="launch_icons">Launcher\nIcons</string>
+    <string name="enable_tiles_tb">Enable/Disable SideBar Tiles</string>
 </resources>
