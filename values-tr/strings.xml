@@ -329,7 +329,7 @@
     <string name="go_premium">Premium Satın Alın</string>
     <string name="another_purchase">Daha çok destek vermek isteyen kullanıcılar, her iki satın alma seçeneğini de kullanabilirler.</string>
     <string name="datausage">Mobil İnternet
-        \nKullanımı</string>\nKullanımı</string>
+        \nKullanımı</string>
     <string name="data_usage_perms">Shortcutter mobil internet kullanımı bilgilerine ulaşmak için izin istiyor.
         \n\nDevam edip Shortcutter için gerekli izni verin.\n\n</string>
     <string name="reset_day">Her ay için sıfırlanma günü %1$d </string>
@@ -540,7 +540,7 @@
     <string name="corner_colour">Köşenin rengini seçin</string>
     <string name="how_it_works">Nasıl Çalışıyor?</string>
     <string name="how_it_works1">Shortcutter farklı seçeneklerle, bir çok servis ve uygulama için Durum Çubuğunda kullanılmak üzere 68 sekmeye eklemeye olanak tanır.</string>
-    <string name="how_it_works2">\u2022 Aşağı açılır durum çubuğunu daha kullanışlı hale getirin!/string>
+    <string name="how_it_works2">\u2022 Aşağı açılır durum çubuğunu daha kullanışlı hale getirin!</string>
     <string name="how_it_works3">\u2022 Shortcutter Yan Menü veya Hareketli Araç Kutusu ile</string>
     <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
     <string name="attention">Lütfen 2. kısımdaki sekme ekleme klavuzuna dikkatlice gözatın.</string>
@@ -641,7 +641,7 @@
     <string name="select_shortcut">Yüklemek için bir kısayol seçin</string>
     <string name="header">Başlığı kaldır</string>
     <string name="hide_header_sum">Yan Menü / Araç Kutusu başlığını kaldırır. header</string>
-    <string name="review">\n Play Store 'da\Yüksek bir puan verir ve güzel bir yorum yaparsınız artık :)</string>
+    <string name="review">\n Play Store \'da\Yüksek bir puan verir ve güzel bir yorum yaparsınız artık :)</string>
     <string name="enjoying">Shortcutter Hoşunuza gitti mi?</string>
     <string name="counter">Sayaç\n+1</string>
     <string name="expose_activity_summary">Bu özelliklere ana sayfadan yada uygulamalardan ulaşılablir, bu aynı zamanda  HTC Sense gibi cihazların 2. ekranına da uygulanabilir &amp; Görev Yöneticisi.</string>
@@ -693,4 +693,7 @@
     <string name="hide_tb_labels">Hide Text Labels</string>
     <string name="hidden">Hidden</string>
     <string name="visible">Visible</string>
+    <string name="icon_picker">Icon Picker</string>
+    <string name="custom_icon">Custom Icon Background</string>
+    <string name="cust_icon_summary">Select a custom icon background</string>
 </resources>

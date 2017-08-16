@@ -704,4 +704,7 @@
     <string name="hide_tb_labels">Hide Text Labels</string>
     <string name="hidden">Hidden</string>
     <string name="visible">Visible</string>
+    <string name="icon_picker">Icon Picker</string>
+    <string name="custom_icon">Custom Icon Background</string>
+    <string name="cust_icon_summary">Select a custom icon background</string>
 </resources>
