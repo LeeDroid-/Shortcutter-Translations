@@ -257,7 +257,7 @@
     <string name="countdown_desc">Geri Sayım Sekmesi</string>
     <string name="choose_steps">Kademeli Parlaklık Ayarlarını Seçin</string>
     <string name="preset_steps">Parlaklık Kademeleri</string>
-    <string name="currently"> %1$d steps</string>
+    <string name="currently"> %1$d kademe</string>
     <string name="current_shot">Ayarlandı %1$d saniye</string>
     <string name="current_dice">Ayarlandı %1$d</string>
     <string name="permissions_not_granted">Shortcutter a doğru izinler verilmemiş, Uygulamayı çalıştırdınız mı??</string>
