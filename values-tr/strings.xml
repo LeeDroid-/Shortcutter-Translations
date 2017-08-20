@@ -113,7 +113,7 @@
     <string name="by_leedroid">Bu uygulama LeeDrOiD tarafından yapıldı</string>
     <string name="welcome_to_shortcutter">Hoşgeldiniz!</string>
     <string name="Immersive">Tam Ekran</string>
-    <string name="manual_secure_summary"> Daha Fazla sekme etkinleştirmek istiyorsanız, cihazınıza Shortcutter uygulamasının cihaz ayarlarını değiştirebilme izini vermeniz gerekmektedir.
+    <string name="manual_secure_summary"> Daha fazla sekme etkinleştirmek istiyorsanız, cihazınıza Shortcutter uygulamasının cihaz ayarlarını değiştirebilme izini vermeniz gerekmektedir.
         \n(Bu işlem BİLGİSAYAR &amp; ile yapılır)</string>
     <string name="secure_access">Güvenli Erişim Ayarı</string>
     <string name="action_required">Bir işlem yapmanız gerekli</string>
