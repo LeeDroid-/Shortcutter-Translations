@@ -196,7 +196,7 @@
     <string name="immersive_summary">Durum Çubuğunu ve Navigasyon Düğmelerini Gizle</string>
     <string name="immersive_tile_title">Tam Ekran
         \nModu</string>
-    <string name="location_summary">Konum modu Kapalı/Cihaz/Pil Tasarrufu/Yüksek Hassasiyet</string>
+    <string name="location_summary">Konum modu Kapalı/Sadece GPS/Pil Tasarrufu/Yüksek Hassasiyet</string>
     <string name="location_tile_title">Konum Sekmesi</string>
     <string name="ram_tile_title">Hafıza Sekmesi</string>
     <string name="ram_summary">Cihazınızın anlık ve kullanılabilir hafıza değerlerini gösterir, tıklandığında hafıza ayarlarına gider.</string>
