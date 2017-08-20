@@ -211,7 +211,7 @@
     <string name="screenshot_summary">Ekran görüntüsü alır.</string>
     <string name="screenshot_tile_title">Ekran Görüntüsü Sekmesi</string>
     <string name="sync_tile_title">Otomatik Senkronizasyon Sekmesi</string>
-    <string name="sync_summary">EAç / Kapat Oto Senk</string>
+    <string name="sync_summary">Aç / Kapat Oto Senk</string>
     <string name="timeout_summary">Uykuya geçis süresi</string>
     <string name="timeout_tile_title">Uyku Sekmesi</string>
     <string name="volumeui_tile_title">Ses Paneli Sekmesi</string>
@@ -258,8 +258,8 @@
     <string name="choose_steps">Kademeli Parlaklık Ayarlarını Seçin</string>
     <string name="preset_steps">Parlaklık Kademeleri</string>
     <string name="currently"> %1$d steps</string>
-    <string name="current_shot">Currently set to %1$d seconds</string>
-    <string name="current_dice">Currently set to %1$d</string>
+    <string name="current_shot">Ayarlandı %1$d saniye</string>
+    <string name="current_dice">Ayarlandı %1$d</string>
     <string name="permissions_not_granted">Shortcutter a doğru izinler verilmemiş, Uygulamayı çalıştırdınız mı??</string>
     <string name="counter_tile">Sayaç
         \nSekmesi</string>
@@ -418,7 +418,7 @@
     <string name="inear_audio">Kulaklık ses çıkışı</string>
     <string name="disable">Kapat</string>
     <string name="inear_audio_active">Kulaklık ses çıkışı aktif</string>
-    <string name="show_notif">Etkin bildirimleri göster</string>
+    <string name="show_notif">Etkin bildirimlerde göster</string>
     <string name="inear_summary">Cihazın tüm sesini sadece kulaklığa yönlendirir</string>
     <string name="volUp">Ses +</string>
     <string name="volDown">Ses -</string>
@@ -477,7 +477,7 @@
     <string name="data_roam_on">Yurt dışı mobil internet kullanımı Açık</string>
     <string name="data_roam_disabled">Yurt dışı mobil internet kullanımı Kapalı</string>
     <string name="data_roaming">Yurt dışı mobil internet kullanımı</string>
-    <string name="dataroam_summary">TYurt dışı mobil internet kullanımı Aç</string>
+    <string name="dataroam_summary">Yurt dışı mobil internet kullanımı Aç</string>
     <string name="quick_tiles_title">Ufaltılmış durum çubuğu sekme sayısı</string>
     <string name="manufact_depend">Ufaltılmış durum çubuğu sekme sayısını ayarlayın.
         \nCihaz üreticisi tarafından konulan sayı ile sınırlıdır.</string>
@@ -638,7 +638,7 @@
     <string name="create_hotspot">Mobil internet paylaşımı oluştur.</string>
     <string name="ap_name">Open AP Name</string>
     <string name="swipe_out_close">Kapatmak için kaydırın</string>
-    <string name="obscure_back"><![CDATA[Ekranı karart &detect outside touches]]></string>
+    <string name="obscure_back"><![CDATA[Ekranı karart]]></string>
     <string name="led_enabled">LED Bildirimler\nAçık</string>
     <string name="led_disabled">LED Bildirimler\nKapalı</string>
     <string name="notif_led">LED Bildirimler</string>
@@ -654,7 +654,7 @@
     <string name="cust_url">WEB adreslerini açmak için kullanılabilecek sekmeler to</string>
     <string name="cust_sb">Yan Menüyü / Araç Kutusunu kişiselleştirme, &amp; ve nasıl çalışacağını ayarlama</string>
     <string name="behaviour">Sekmelerin nasıl çalışacağını seçin</string>
-    <string name="perms_now">Bazı sekmeler için izin gerekli &amp; özellikler</string>
+    <string name="perms_now">Bazı özellikler ve sekmeler için &amp; izin gerekli</string>
     <string name="forceEnglish">Sadece İngilizce Kullanıım</string>
     <string name="force_eng_summary">Program İngilizce olarak çalışır</string>
     <string name="xiaomi">Cihazınızına, programlarınızı otomatik olarak çalıştırması için izin vermeniz gerekir, eğer bu izni vermezseniz Shortcutter arkaplan servisleri sistem tarafından kapatılır.\n\nDevam et tıklayın &amp; Shortcutter için otomatik çalıştır iznini verin.</string>
@@ -663,7 +663,7 @@
     <string name="failed_window_add">Pencere ekleme başarısız, Lütfen uygulamayı açıp ekran üzerine yazma iznini verdiğinize emin olun</string>
     <string name="monochrome">S&amp;B</string>
     <string name="monochrome_summary">Görüntü ayarlarını siyah beyaz olarak değiştir(Monochrome)</string>
-    <string name="launch_power">Launches Settings \> Power\n(if no settings secure access)</string>
+    <string name="launch_power">Ayarları açar \> Power\n(if no settings secure access)</string>
     <string name="admin_access">Administrator Access</string>
     <string name="admin_summary">Usage: Screen Lock</string>
     <string name="tb_tile_alpha">Off Tile Transparency</string>
