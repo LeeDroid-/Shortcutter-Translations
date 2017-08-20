@@ -525,7 +525,7 @@
     <string name="how_it_works3">\u2022 Shortcutter Yan Menü veya Hareketli Araç Kutusu ile</string>
     <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
     <string name="attention">Lütfen 2. kısımdaki sekme ekleme klavuzuna dikkatlice gözatın.</string>
-    <string name="config_serv">Configure\nKısa yollar</string>
+    <string name="config_serv">Kısa yolları\nAyarla</string>
     <string name="enable_to_config">Açık/Ayarlamak için sekme ekle</string>
     <string name="wake_tile">Uyandır</string>
     <string name="screenshot_root">Root ile ekran görüntüsü alma metodu</string>
