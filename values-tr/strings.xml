@@ -9,7 +9,7 @@
     <string name="auto_sync_disabled_toast">Otomatik Senkronize Kapalı</string>
     <string name="auto_sync_on">Otomatik Senkronize Açık</string>
     <string name="auto_sync_off">Otomatik Senkronize Kapalı</string>
-    <string name="no_perms">No Permissions</string>
+    <string name="no_perms">İzin yok</string>
     <string name="Off">Kapalı</string>
     <string name="device_only">Sadece GPS</string>
     <string name="battery_saving">Pil Tasarrufu</string>
