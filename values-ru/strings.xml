@@ -361,7 +361,6 @@
         \nEnabled</string>
     <string name="power_saver">Power Saver</string>
     <string name="power_save_summary">Toggle Power Saving mode</string>
-    <string name="premium_only">Premium Only</string>
     <string name="prem_only_option">Premium Only Feature</string>
     <string name="prem_only_message">This feature is only available in the Premium version of Shortcutter.
         \n\nPlease click GO PREMIUM now to enable the following features:
@@ -657,7 +656,6 @@
     <string name="led_disabled">Notif LED\nDisabled</string>
     <string name="notif_led">Notification LED</string>
     <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
-    <string name="left_up">Swipe to close</string>
     <string name="system_toggle_summary">Subject to OS/manufacturer compatibility</string>
     <string name="experimental_settings">Experimental Features</string>
     <string name="sys_setting_tiles">Quick Settings tiles to toggle system settings</string>
@@ -673,7 +671,6 @@
     <string name="force_eng_summary">Run the app in the English Language</string>
     <string name="xiaomi">Your device requires applications to be granted auto start permissions, Shortcutter background services will be killed if this is not enabled.\n\nPlease click Proceed &amp; enable auto start for Shortcutter.</string>
     <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Battery Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
-    <string name="gridItems">customapp1TB,customapp2TB,alarm,ram,corners,filter,wake,counter,dice,calendar,sync,camera,email,nightlight,voicesearch,search,inear,playpause</string>
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
     <string name="monochrome">B&amp;W</string>
     <string name="monochrome_summary">Change the display to black and white (Monochrome)</string>

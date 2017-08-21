@@ -351,7 +351,6 @@
         \nAçık</string>
     <string name="power_saver">Güç Tasarrufu</string>
     <string name="power_save_summary">Güç Tasarrufu </string>
-    <string name="premium_only">Sadece Premium Versiyonda</string>
     <string name="prem_only_option">Premium Versiyon Özelliği</string>
     <string name="prem_only_message">Bu özellik Shortcutter Premium Versiyonda bulunur.
         \n\nBu özellikleri kullanmak için Lütfen Premium Al \'ı tıklayın.
@@ -643,7 +642,6 @@
     <string name="led_disabled">LED Bildirimler\nKapalı</string>
     <string name="notif_led">LED Bildirimler</string>
     <string name="notif_led_summary">LED Bildirimleri Aç/Kapat\n(Cihaz üreticisine göre değişir)</string>
-    <string name="left_up">Kapatmak için kaydırın</string>
     <string name="system_toggle_summary">Anroid versiyonu / üretici uyumluluğu</string>
     <string name="experimental_settings">Experimental Features</string>
     <string name="sys_setting_tiles">Sistem Ayarları için Hızlı Ayar Sekmeleri</string>
@@ -659,7 +657,6 @@
     <string name="force_eng_summary">Program İngilizce olarak çalışır</string>
     <string name="xiaomi">Cihazınızına, programlarınızı otomatik olarak çalıştırması için izin vermeniz gerekir, eğer bu izni vermezseniz Shortcutter arkaplan servisleri sistem tarafından kapatılır.\n\nDevam et tıklayın &amp; Shortcutter için otomatik çalıştır iznini verin.</string>
     <string name="bat_opt"><![CDATA[Shortcutter arkaplanda çalışan servisler çalıştırır, bazı durumlarda (pil tasarrufu, RAM dolması vb.)sistem bazı arkaplan servislerini kapatır, bu nedenle shortcutter için pil ayarlarından, pil optimizasyonunu kapatmanız tavsiye edilir.\n\nUmarım uygulamayı beğenirsiniz!!]]></string>
-    <string name="gridItems">cKişiseluygulama1TB,Kişiseluygulama2TB,alarm,ram,köşeler,filtre,uyandır,sayaç,zar,takvim,sşleme,kamera,email,gecelambası,sesliaramaarama,kulaklıksesi,çaldurdur</string>
     <string name="failed_window_add">Pencere ekleme başarısız, Lütfen uygulamayı açıp ekran üzerine yazma iznini verdiğinize emin olun</string>
     <string name="monochrome">S&amp;B</string>
     <string name="monochrome_summary">Görüntü ayarlarını siyah beyaz olarak değiştir(Monochrome)</string>
@@ -681,4 +678,19 @@
     <string name="design_sb_settings">Shortcutter Yan Menü / Araç Çubuğu ayarlarını yapın</string>
     <string name="launch_icons">Ana Ekran Programı\nIkonları</string>
     <string name="enable_tiles_tb">Aç/Kapat Yan Menü Sekmeleri</string>
+    <string name="detect_touch">Touch &amp; Swipe Trigger</string>
+    <string name="touch_and_swipe">SideBar opens when trigger is touched or swiped\n(up, down or inward)</string>
+    <string name="swipe_only">SideBar opens when swiped\n(up, down or inward)</string>
+    <string name="hide_header_sum">SideBar/ToolBox header removed</string>
+    <string name="hide_header_off_sum">SideBar/ToolBox header visible</string>
+    <string name="capture_quality">Capture Quality</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="view">View</string>
+    <string name="trigger">Trigger</string>
+    <string name="tile_icons">Tiles/Icons</string>
+    <string name="labels">Tile Labels</string>
+    <string name="icon_scale">Icon &amp; Text Scale</string>
+    <string name="flash_sale">I am offering 40% off Shortcutter Premium until August 25th!\nPlease select the £1.99 option in the purchase premium screen.</string>
+    <string name="sale">Shortcutter Flash Sale</string>
 </resources>

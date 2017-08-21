@@ -361,7 +361,6 @@
         \nEnabled</string>
     <string name="power_saver">Power Saver</string>
     <string name="power_save_summary">Toggle Power Saving mode</string>
-    <string name="premium_only">Premium Only</string>
     <string name="prem_only_option">Premium Only Feature</string>
     <string name="prem_only_message">This feature is only available in the Premium version of Shortcutter.
         \n\nPlease click GO PREMIUM now to enable the following features:
@@ -498,13 +497,13 @@
     <string name="sidebar_pos">Horizontal Trigger Position</string>
     <string name="right">Current Position Right</string>
     <string name="left_position">Current Position Left</string>
-    <string name="tb_background">Select SideBar/ToolBox Background Colour</string>
+    <string name="tb_background">Background Colour</string>
     <string name="create_calendar_event">New Event</string>
-    <string name="tb_tile_tint">Select SideBar/ToolBox Tile Colour</string>
-    <string name="tb_tile_text_tint">Select SideBar/ToolBox Font Colour</string>
-    <string name="tb_reset_tint">Reset Colour Preferences</string>
+    <string name="tb_tile_tint">Tile Tint Colour</string>
+    <string name="tb_tile_text_tint">Font Colour</string>
+    <string name="tb_reset_tint">Reset Preferences</string>
     <string name="reset_conf">Are you sure you want to reset all colour preferences?</string>
-    <string name="trigger_colour_title">Select Trigger Colour</string>
+    <string name="trigger_colour_title">Trigger Colour</string>
     <string name="filter_active">Screen Filter Active</string>
     <string name="filter_colour">Select Filter Colour</string>
     <string name="filter_off">Screen Filter\nOff</string>
@@ -517,7 +516,7 @@
     <string name="tb_columns_title">Toolbox Columns</string>
     <string name="tb_columns_summary">Current = %s columns</string>
     <string name="sb_columns_title">SideBar Columns</string>
-    <string name="design_settings">SideBar/ToolBox Theme &amp; Behaviour</string>
+    <string name="design_settings">Theme &amp; Behaviour</string>
     <string name="leedroid">www.LeeDrOiD.co.uk</string>
     <string name="round_off">Rounded
         \nCorners Off</string>
@@ -537,7 +536,7 @@
     <string name="how_it_works3">\u2022 Via the Shortcutter Swipe out SideBar or Floating Toolbox</string>
     <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!</string>
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
-    <string name="config_serv">Configure\nShortcuts</string>
+    <string name="config_serv">Configure\nServices</string>
     <string name="enable_to_config">Enable/Add Tile to configure</string>
     <string name="wake_tile">Screen Wake</string>
     <string name="screenshot_root">Use Root Screenshot Method</string>
@@ -597,7 +596,7 @@
     <string name="deskmode">Desk Clock\nMode</string>
     <string name="lightmode">Night Light\nMode</string>
     <string name="scdesk">Shortcutter\nDesk Clock</string>
-    <string name="expand_collapse">Toolbox\nExpander</string>
+    <string name="expand_collapse">SideBar\nExpander</string>
     <string name="expose_toggler">Enable the \"SideBar Expander\" icon to open/close the SideBar or ToolBox, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp; Tasker.</string>
     <string name="expose_toggler_title">SideBar Expander</string>
     <string name="permissions">App Permissions</string>
@@ -631,7 +630,6 @@
     <string name="install_shortcut">Install\nShortcut</string>
     <string name="select_shortcut">Select A Shortcut To Install</string>
     <string name="header">Remove Header</string>
-    <string name="hide_header_sum">Removes the SideBar/ToolBox header</string>
     <string name="review">\n Don\'t forget to leave a rocking review in the Play Store!</string>
     <string name="enjoying">Enjoying Shortcutter?</string>
     <string name="counter">Counter\n+1</string>
@@ -651,13 +649,12 @@
     <string name="here_to_cancel">Click here to disable</string>
     <string name="create_hotspot">Create WiFi HotSpot</string>
     <string name="ap_name">Open AP Name</string>
-    <string name="swipe_out_close">Swipe out to close</string>
+    <string name="swipe_out_close">Swipe left/right to close</string>
     <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
     <string name="led_enabled">Notif LED\nEnabled</string>
     <string name="led_disabled">Notif LED\nDisabled</string>
     <string name="notif_led">Notification LED</string>
     <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
-    <string name="left_up">Swipe to close</string>
     <string name="system_toggle_summary">Subject to OS/manufacturer compatibility</string>
     <string name="experimental_settings">Experimental Features</string>
     <string name="sys_setting_tiles">Quick Settings tiles to toggle system settings</string>
@@ -673,7 +670,7 @@
     <string name="force_eng_summary">Run the app in the English Language</string>
     <string name="xiaomi">Your device requires applications to be granted auto start permissions, Shortcutter background services will be killed if this is not enabled.\n\nPlease click Proceed &amp; enable auto start for Shortcutter.</string>
     <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Battery Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
-    <string name="gridItems">customapp1TB,customapp2TB,alarm,ram,corners,filter,wake,counter,dice,calendar,sync,camera,email,nightlight,voicesearch,search,inear,playpause</string>
+    <string name="gridItems">customapp1TB,customapp2TB,customapp3TB,customapp4TB,alarm,ram,corners,filter,wake,counter,dice,calendar,sync,camera,email,nightlight,voicesearch,search,inear,playpause</string>
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
     <string name="monochrome">B&amp;W</string>
     <string name="monochrome_summary">Change the display to black and white (Monochrome)</string>
@@ -685,7 +682,7 @@
     <string name="hidden">Hidden</string>
     <string name="visible">Visible</string>
     <string name="icon_picker">Icon Picker</string>
-    <string name="custom_icon">Custom Icon Background</string>
+    <string name="custom_icon">Tile Icon Background</string>
     <string name="cust_icon_summary">Select a custom icon background</string>
     <string name="manage_tiles">Manage tiles</string>
     <string name="enable_tiles">Enable/Disable Quick Settings Pull-down Tiles</string>
@@ -695,4 +692,19 @@
     <string name="design_sb_settings">Configure your Shortcutter SideBar/ToolBox</string>
     <string name="launch_icons">Launcher\nIcons</string>
     <string name="enable_tiles_tb">Enable/Disable SideBar Tiles</string>
+    <string name="detect_touch">Touch &amp; Swipe Trigger</string>
+    <string name="touch_and_swipe">SideBar opens when trigger is touched or swiped\n(up, down or inward)</string>
+    <string name="swipe_only">SideBar opens when swiped\n(up, down or inward)</string>
+    <string name="hide_header_sum">SideBar/ToolBox header removed</string>
+    <string name="hide_header_off_sum">SideBar/ToolBox header visible</string>
+    <string name="capture_quality">Capture Quality</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="view">View</string>
+    <string name="trigger">Trigger</string>
+    <string name="tile_icons">Tiles/Icons</string>
+    <string name="labels">Tile Labels</string>
+    <string name="icon_scale">Icon &amp; Text Scale</string>
+    <string name="flash_sale">I am offering 40% off Shortcutter Premium until August 25th!\nPlease select the £1.99 option in the purchase premium screen.</string>
+    <string name="sale">Shortcutter Flash Sale</string>
 </resources>
