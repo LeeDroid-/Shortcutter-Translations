@@ -47,6 +47,14 @@
     <string name="CustomTile10">Własna Aplikacja 10</string>
     <string name="CustomTile11">Własna Aplikacja 11</string>
     <string name="CustomTile12">Własna Aplikacja 12</string>
+    <string name="CustomTile13">Własna Aplikacja 13</string>
+    <string name="CustomTile14">Własna Aplikacja 14</string>
+    <string name="CustomTile15">Własna Aplikacja 15</string>
+    <string name="CustomTile16">Własna Aplikacja 16</string>
+    <string name="CustomTile17">Własna Aplikacja 17</string>
+    <string name="CustomTile18">Własna Aplikacja 18</string>
+    <string name="CustomTile19">Własna Aplikacja 19</string>
+    <string name="CustomTile20">Własna Aplikacja 20</string>
     <string name="EnterUrl">Wpisz Własny URL</string>
     <string name="CustomUrl1">Własny URL 1</string>
     <string name="CustomUrl2">Własny URL 2</string>
@@ -57,7 +65,7 @@
     <string name="enter_the_url">Wprowadź adres URL, który chcesz przypisać do tej Płytki QS.</string>
     <string name="save">Zapisz</string>
     <string name="Caffeinie">Włącz Ekran</string>
-    <string name="RingMode">Tryb Dźwięku</string>
+    <string name="ring_mode">Tryb Dźwięku</string>
     <string name="Screen_timeout">Czas Wył Ekranu</string>
     <string name="alarm_tile">Następny Alarm</string>
     <string name="wake_stopped">Ekran Wł Wyłączona</string>
@@ -528,11 +536,11 @@
     <string name="how_it_works4">\u2022 Poprzez Ekspozyzcję przełącznika do szuflady aplikacji, który umożliwia mapowanie do Edge Sense i wiele więcej!</string>
     <string name="attention">Proszę zwrócić uwagę jak dodać płytki w instrukcji w zakładce 2.</string>
     <string name="config_serv">Konfiguruj Usługi/Płytki</string>
-    <string name="enable_to_config">Włacz/Dodaj Płytki i konfiguruj</string>
     <string name="wake_tile">Wybudzanie Ekranu</string>
     <string name="screenshot_root">Użyj Metody z Rootem do Zrzutów Ekranu</string>
     <string name="screenshot_root_summary">Tworzy zrzut ekranu przy użyciu systemu</string>
     <string name="corners_active">Okrągłe rogi aktywne</string>
+    <string name="misc_cat">Expose Launcher Toggles</string>
     <string name="misc_tiles_cat">Różne Ustawienia Płytek</string>
     <string name="fancy_anim">Animacja Opuszczania</string>
     <string name="fancy_summary">Włącz / wyłącz płynną animację</string>
@@ -574,9 +582,6 @@
         \nWykryto aktywność zabezpieczoną</string>
     <string name="corners_off_secure">Rogi Ekranu Wył
         \nWykryto aktywność zabezpieczoną</string>
-    <string name="alphaUp">Przeźroczystość +</string>
-    <string name="alphaDown">Przeźroczystość -</string>
-    <string name="transparency">Przeźroczystość =&#160;</string>
     <string name="launch_loc">Uruchamia Ustawienia - Lokalizacja</string>
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
     <string name="nigh_light">Nocna Lampka</string>
@@ -620,10 +625,10 @@
     <string name="install_shortcut">Zainstaluj\nSkrót</string>
     <string name="select_shortcut">Wybierz Skrót do Instalacji</string>
     <string name="header">Usuń Nagłówek</string>
-    <string name="hide_header_sum">Usuń nagłówek w  ToolBox/Pasek Boczny</string>
     <string name="review">\n Nie, zapomnij zostawić pozytywną recenzję w Sklepie Play!</string>
     <string name="enjoying">Korzystasz z Shortcutter?</string>
     <string name="counter">Licznik\n+1</string>
+    <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp;. Tasker.</string>
     <string name="wifi_enabled"> Właczone WiFi</string>
     <string name="wifi_disabled">Wyłączone WiFi</string>
     <string name="wifi">WiFi</string>
@@ -634,11 +639,7 @@
     <string name="hotspot_tile">WiFi Hotspot</string>
     <string name="hotspot_enabled">HotSpot\nWłączony</string>
     <string name="hotspot_disabled">HotSpot\nWyłączony</string>
-    <string name="activate">Aktywowane</string>
     <string name="to_be_toggled">Wybierz pozycje do przełączenia.</string>
-    <string name="here_to_cancel">Kliknij tutaj, aby zamknąć</string>
-    <string name="create_hotspot">Utwórz WiFi HotSpot</string>
-    <string name="ap_name">Otwórz Nazwę AP</string>
     <string name="swipe_out_close">Przesuń, aby zamknąć</string>
     <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
     <string name="led_enabled">Powiad LED\nWłączone</string>
@@ -693,7 +694,30 @@
     <string name="trigger">Trigger</string>
     <string name="tile_icons">Tiles/Icons</string>
     <string name="labels">Tile Labels</string>
-    <string name="icon_scale">Icon &amp; Text Scale</string>
+    <string name="icon_scale">Icon Scale</string>
     <string name="flash_sale">I am offering 40% off Shortcutter Premium until August 25th!\nPlease select the £1.99 option in the purchase premium screen.</string>
     <string name="sale">Shortcutter Flash Sale</string>
+    <string name="dim">Dim -</string>
+    <string name="dimup">Dim +</string>
+    <string name="screen_dim">Screen Dim =&#160;</string>
+    <string name="media_unmuted">Media Unmuted</string>
+    <string name="media_muted">Media Muted</string>
+    <string name="mute_media">Mute Media</string>
+    <string name="mute_media_summary">Mute your media volume</string>
+    <string name="system_perms_message_touches">This option requires the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
+        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
+    <string name="lock_root">Use ROOT Method</string>
+    <string name="root_lock_sum">Sends a POWER key event using shell</string>
+    <string name="choose_activity">Choose Activity</string>
+    <string name="exp_notif">Expand Notifications</string>
+    <string name="quick_settings">Expand QS Panel</string>
+    <string name="exp_notif_sum">Expands the notification pulldown</string>
+    <string name="qs_sum">Expands the Quick Settings pulldown</string>
+    <string name="bt_enabled">Bluetooth\nEnabled</string>
+    <string name="bt_disabled">Bluetooth\nDisabled</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bt_summary">Enable/Disable Bluetooth</string>
+    <string name="sidebar_off_secure">SideBar suspended:
+        \nSecure activity detected</string>
+    <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
 </resources>

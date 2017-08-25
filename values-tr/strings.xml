@@ -43,6 +43,18 @@
     <string name="CustomTile6">Kişisel Uygulama 6</string>
     <string name="CustomTile7">Kişisel Uygulama 7</string>
     <string name="CustomTile8">Kişisel Uygulama 8</string>
+    <string name="CustomTile9">Kişisel Uygulama 9</string>
+    <string name="CustomTile10">Kişisel Uygulama 10</string>
+    <string name="CustomTile11">Kişisel Uygulama 11</string>
+    <string name="CustomTile12">Kişisel Uygulama 12</string>
+    <string name="CustomTile13">Kişisel Uygulama 13</string>
+    <string name="CustomTile14">Kişisel Uygulama 14</string>
+    <string name="CustomTile15">Kişisel Uygulama 15</string>
+    <string name="CustomTile16">Kişisel Uygulama 16</string>
+    <string name="CustomTile17">Kişisel Uygulama 17</string>
+    <string name="CustomTile18">Kişisel Uygulama 18</string>
+    <string name="CustomTile19">Kişisel Uygulama 19</string>
+    <string name="CustomTile20">Kişisel Uygulama 20</string>
     <string name="EnterUrl">Internet adresi girin</string>
     <string name="CustomUrl1">Link 1</string>
     <string name="CustomUrl2">Link 2</string>
@@ -53,7 +65,7 @@
     <string name="enter_the_url">Bu Hızlı Ayar sekmesine istediğiniz linki yazınız.</string>
     <string name="save">Sakla</string>
     <string name="Caffeinie">Uyanık Kal</string>
-    <string name="RingMode">Zil Sesi Modu</string>
+    <string name="ring_mode">Zil Sesi Modu</string>
     <string name="Screen_timeout">Uyku</string>
     <string name="alarm_tile">Sonraki Alarm</string>
     <string name="wake_stopped">Uyanık Kal Kapalı</string>
@@ -525,7 +537,6 @@
     <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
     <string name="attention">Lütfen 2. kısımdaki sekme ekleme klavuzuna dikkatlice gözatın.</string>
     <string name="config_serv">Kısa yolları\nAyarla</string>
-    <string name="enable_to_config">Açık/Ayarlamak için sekme ekle</string>
     <string name="wake_tile">Uyandır</string>
     <string name="screenshot_root">Root ile ekran görüntüsü alma metodu</string>
     <string name="screenshot_root_summary">Sistem uygulaması yoluyla ekran görüntüsü alır.</string>
@@ -571,9 +582,6 @@
         \nGüvenli aktivite bulundu</string>
     <string name="corners_off_secure">Ekran Kenarları Kapalı
         \nGüvenli aktivite bulundu</string>
-    <string name="alphaUp">Şeffaflık +</string>
-    <string name="alphaDown">Şeffaflık -</string>
-    <string name="transparency">Şeffaflık =&#160;</string>
     <string name="launch_loc">Konum ayarları açar</string>
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Hızlı Ayarlar v%1$s </string>
     <string name="nigh_light">Gece Lambası</string>
@@ -631,11 +639,7 @@
     <string name="hotspot_tile">WiFi Hotspot</string>
     <string name="hotspot_enabled">İnternet Paylaşımı\nAçık</string>
     <string name="hotspot_disabled">İnternet Paylaşımı\nKapalı</string>
-    <string name="activate">Etkinleştir</string>
     <string name="to_be_toggled">Eklemek istediklerinizi seçin.</string>
-    <string name="here_to_cancel">Kapatmak için tıklayın</string>
-    <string name="create_hotspot">Mobil internet paylaşımı oluştur.</string>
-    <string name="ap_name">Open AP Name</string>
     <string name="swipe_out_close">Kapatmak için kaydırın</string>
     <string name="obscure_back"><![CDATA[Ekranı karart]]></string>
     <string name="led_enabled">LED Bildirimler\nAçık</string>
@@ -690,7 +694,30 @@
     <string name="trigger">Trigger</string>
     <string name="tile_icons">Tiles/Icons</string>
     <string name="labels">Tile Labels</string>
-    <string name="icon_scale">Icon &amp; Text Scale</string>
+    <string name="icon_scale">Icon Scale</string>
     <string name="flash_sale">I am offering 40% off Shortcutter Premium until August 25th!\nPlease select the £1.99 option in the purchase premium screen.</string>
     <string name="sale">Shortcutter Flash Sale</string>
+    <string name="dim">Dim -</string>
+    <string name="dimup">Dim +</string>
+    <string name="screen_dim">Screen Dim =&#160;</string>
+    <string name="media_unmuted">Media Unmuted</string>
+    <string name="media_muted">Media Muted</string>
+    <string name="mute_media">Mute Media</string>
+    <string name="mute_media_summary">Mute your media volume</string>
+    <string name="system_perms_message_touches">This option requires the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
+        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
+    <string name="lock_root">Use ROOT Method</string>
+    <string name="root_lock_sum">Sends a POWER key event using shell</string>
+    <string name="choose_activity">Choose Activity</string>
+    <string name="exp_notif">Expand Notifications</string>
+    <string name="quick_settings">Expand QS Panel</string>
+    <string name="exp_notif_sum">Expands the notification pulldown</string>
+    <string name="qs_sum">Expands the Quick Settings pulldown</string>
+    <string name="bt_enabled">Bluetooth\nEnabled</string>
+    <string name="bt_disabled">Bluetooth\nDisabled</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bt_summary">Enable/Disable Bluetooth</string>
+    <string name="sidebar_off_secure">SideBar suspended:
+        \nSecure activity detected</string>
+    <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
 </resources>

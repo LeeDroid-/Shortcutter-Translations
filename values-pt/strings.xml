@@ -64,7 +64,7 @@
     <string name="enter_the_url">Intrudaza a URL que quer ligar a este Mosaico CR.</string>
     <string name="save">Guardar</string>
     <string name="Caffeinie">Ecrã Ligado</string>
-    <string name="RingMode">Modo de Toque</string>
+    <string name="ring_mode">Modo de Toque</string>
     <string name="Screen_timeout">Tempo de Suspensão</string>
     <string name="alarm_tile">Próximo Alarme</string>
     <string name="wake_stopped">Manter Ecrã Ligado Desativado</string>
@@ -428,7 +428,6 @@
     <string name="how_it_works4">\u2022 Expondo os comando à lista de aplicações, o que permite ligar a Bixby, Edge Sense, Tasker &amp; muito mais!</string>
     <string name="attention">Por favor estaja atento ao Guia Como Adicionar Mosaicos CR no 2º separador.</string>
     <string name="config_serv">Configurar Serviços/Mosaicos</string>
-    <string name="enable_to_config">Enable/Add Mosaico to configure</string>
     <string name="wake_tile">Ecrã Ligado</string>
     <string name="screenshot_root">Usar Método de Screenshot Root</string>
     <string name="screenshot_root_summary">Gera um screenshot usando o mecanismo de aptura do sistema</string>
@@ -470,13 +469,10 @@
         \n\n \u2022 Detect secure activities.
         \n\nIf a secure activity is detected, this overlay will automatically stop.
         \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
-    <string name="filter_off_secure">Screen Filter Off
+    <string name="filter_off_secure">Screen Filter suspended:
         \nSecure activity detected</string>
-    <string name="corners_off_secure">Screen Corners Off
+    <string name="corners_off_secure">Screen Corners suspended:
         \nSecure activity detected</string>
-    <string name="alphaUp">Opacity +</string>
-    <string name="alphaDown">Opacity -</string>
-    <string name="transparency">Opacity =&#160;</string>
     <string name="launch_loc">Launches Settings \> Location/n(if no settings secure access)</string>
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
     <string name="nigh_light">Night Light</string>
@@ -497,7 +493,7 @@
     <string name="usage_access">Data Usage</string>
     <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
     <string name="overlay_summary">Usage: Floating SideBar/ToolBox, Screen Filter &amp; Rounded Corners</string>
-    <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Screen Filter &amp; Rounded Corners</string>
+    <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Expand Notifications &amp; Quick Settings, Screen Filter &amp; Rounded Corners</string>
     <string name="dnd_summary">Usage: Ring Mode</string>
     <string name="usage_summary">Usage: Data Usage Tile</string>
     <string name="actual_tiles">Actual Tiles =&#160; %1$d </string>
@@ -534,11 +530,7 @@
     <string name="hotspot_tile">WiFi Hotspot</string>
     <string name="hotspot_enabled">HotSpot\nEnabled</string>
     <string name="hotspot_disabled">HotSpot\nDisabled</string>
-    <string name="activate">Activate</string>
     <string name="to_be_toggled">Choose entries to be toggled.</string>
-    <string name="here_to_cancel">Click here to disable</string>
-    <string name="create_hotspot">Create WiFi HotSpot</string>
-    <string name="ap_name">Open AP Name</string>
     <string name="swipe_out_close">Swipe left/right to close</string>
     <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
     <string name="led_enabled">Notif LED\nEnabled</string>
@@ -551,7 +543,7 @@
     <string name="system_actions">Tiles to toggle/launch system actions</string>
     <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
     <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
-    <string name="cust_app">Tiles that you can assign applications to</string>
+    <string name="cust_app">Tiles that you can assign applications/activities to</string>
     <string name="cust_url">Tiles that you can assign web addresses to</string>
     <string name="cust_sb">Customise the look, feel &amp; behaviour of the SideBar or ToolBox</string>
     <string name="behaviour">Change the behaviour of Tiles</string>
@@ -593,7 +585,30 @@
     <string name="trigger">Trigger</string>
     <string name="tile_icons">Tiles/Icons</string>
     <string name="labels">Tile Labels</string>
-    <string name="icon_scale">Icon &amp; Text Scale</string>
+    <string name="icon_scale">Icon Scale</string>
     <string name="flash_sale">I am offering 40% off Shortcutter Premium until August 25th!\nPlease select the £1.99 option in the purchase premium screen.</string>
     <string name="sale">Shortcutter Flash Sale</string>
+    <string name="dim">Dim -</string>
+    <string name="dimup">Dim +</string>
+    <string name="screen_dim">Screen Dim =&#160;</string>
+    <string name="media_unmuted">Media Unmuted</string>
+    <string name="media_muted">Media Muted</string>
+    <string name="mute_media">Mute Media</string>
+    <string name="mute_media_summary">Mute your media volume</string>
+    <string name="system_perms_message_touches">This option requires the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
+        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
+    <string name="lock_root">Use ROOT Method</string>
+    <string name="root_lock_sum">Sends a POWER key event using shell</string>
+    <string name="choose_activity">Choose Activity</string>
+    <string name="exp_notif">Expand Notifications</string>
+    <string name="quick_settings">Expand QS Panel</string>
+    <string name="exp_notif_sum">Expands the notification pulldown</string>
+    <string name="qs_sum">Expands the Quick Settings pulldown</string>
+    <string name="bt_enabled">Bluetooth\nEnabled</string>
+    <string name="bt_disabled">Bluetooth\nDisabled</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bt_summary">Enable/Disable Bluetooth</string>
+    <string name="sidebar_off_secure">SideBar suspended:
+        \nSecure activity detected</string>
+    <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
 </resources>

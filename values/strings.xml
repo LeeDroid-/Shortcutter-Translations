@@ -35,26 +35,26 @@
     <string name="enable_root_features">Enable Root Features</string>
     <string name="root_features_enabled">Root Features Enabled</string>
     <string name="appicon">AppIcon</string>
-    <string name="CustomTile1">Custom App 1</string>
-    <string name="CustomTile2">Custom App 2</string>
-    <string name="CustomTile4">Custom App 4</string>
-    <string name="CustomTile3">Custom App 3</string>
-    <string name="CustomTile5">Custom App 5</string>
-    <string name="CustomTile6">Custom App 6</string>
-    <string name="CustomTile7">Custom App 7</string>
-    <string name="CustomTile8">Custom App 8</string>
-    <string name="CustomTile9">Custom App 9</string>
-    <string name="CustomTile10">Custom App 10</string>
-    <string name="CustomTile11">Custom App 11</string>
-    <string name="CustomTile12">Custom App 12</string>
-    <string name="CustomTile13">Custom App 13</string>
-    <string name="CustomTile14">Custom App 14</string>
-    <string name="CustomTile15">Custom App 15</string>
-    <string name="CustomTile16">Custom App 16</string>
-    <string name="CustomTile17">Custom App 17</string>
-    <string name="CustomTile18">Custom App 18</string>
-    <string name="CustomTile19">Custom App 19</string>
-    <string name="CustomTile20">Custom App 20</string>
+    <string name="CustomTile1">Custom Tile 1</string>
+    <string name="CustomTile2">Custom Tile 2</string>
+    <string name="CustomTile4">Custom Tile 4</string>
+    <string name="CustomTile3">Custom Tile 3</string>
+    <string name="CustomTile5">Custom Tile 5</string>
+    <string name="CustomTile6">Custom Tile 6</string>
+    <string name="CustomTile7">Custom Tile 7</string>
+    <string name="CustomTile8">Custom Tile 8</string>
+    <string name="CustomTile9">Custom Tile 9</string>
+    <string name="CustomTile10">Custom Tile 10</string>
+    <string name="CustomTile11">Custom Tile 11</string>
+    <string name="CustomTile12">Custom Tile 12</string>
+    <string name="CustomTile13">Custom Tile 13</string>
+    <string name="CustomTile14">Custom Tile 14</string>
+    <string name="CustomTile15">Custom Tile 15</string>
+    <string name="CustomTile16">Custom Tile 16</string>
+    <string name="CustomTile17">Custom Tile 17</string>
+    <string name="CustomTile18">Custom Tile 18</string>
+    <string name="CustomTile19">Custom Tile 19</string>
+    <string name="CustomTile20">Custom Tile 20</string>
     <string name="EnterUrl">Enter Custom URL</string>
     <string name="CustomUrl1">Custom URL 1</string>
     <string name="CustomUrl2">Custom URL 2</string>
@@ -65,7 +65,7 @@
     <string name="enter_the_url">Enter the URL you wish to assign to this QS Tile.</string>
     <string name="save">Save</string>
     <string name="Caffeinie">Screen Wake</string>
-    <string name="RingMode">Ring Mode</string>
+    <string name="ring_mode">Ring Mode</string>
     <string name="Screen_timeout">Screen Timeout</string>
     <string name="alarm_tile">Next Alarm</string>
     <string name="wake_stopped">Screen Wake Off</string>
@@ -87,10 +87,10 @@
     <string name="screen_timeout">Timeout
         \n</string>
     <string name="additonal_perms_req">Additional Permissions Required</string>
-    <string name="notification_policy_message">Some tiles require the ability to modify notification settings, as we cannot request these permissions in the normal fasion, you will need to enable them.
+    <string name="notification_policy_message">Some shortcuts require the ability to modify notification settings, as we cannot request these permissions in the normal fasion, you will need to enable them.
         \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
     <string name="proceed">Proceed</string>
-    <string name="system_perms_message">Some tiles require the ability to write system settings, as we cannot request these permissions in the normal fasion, you will need to enable them.
+    <string name="system_perms_message">Some tiles require the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
         \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
     <string name="press_back">Press back to return once enabled.</string>
     <string name="credits">Credits</string>
@@ -364,7 +364,7 @@
     <string name="prem_only_option">Premium Only Feature</string>
     <string name="prem_only_message">This feature is only available in the Premium version of Shortcutter.
         \n\nPlease click GO PREMIUM now to enable the following features:
-        \n\n \u2022 Additional Custom App Tiles
+        \n\n \u2022 Additional Custom Tiles
         \n \u2022 Additional Custom URL Tiles
         \n \u2022 Screen Recording &amp; Capture
         \n \u2022 Additional in-app configuration options
@@ -392,6 +392,7 @@
         \n\n\u2022 Toggle Split Screen
         \n\u2022 Toggle Recent Apps
         \n\u2022 Show Power Menu
+        \n\u2022 Expand Notifications &amp; Quick Settings
         \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.</string>
     <string name="power_dialog">Power Dialog</string>
     <string name="split_screen">Multi Window</string>
@@ -412,7 +413,7 @@
     <string name="admin_needed">Admin rights required</string>
     <string name="admin_needed_long">Shortcutter requires Admin privileges to:\n\n
         \u2022Lock your device screen
-        \n\nPlease press proceed &amp; enable Admin rights to use this QS Tile.\n\n</string>
+        \n\nPlease press proceed &amp; enable Admin rights to use this Shortcut.\n\n</string>
     <string name="lock_sum">Locks your screen</string>
     <string name="immersivemode">Select Immersive Mode</string>
     <string name="immersive_active">Immersive Mode Active</string>
@@ -430,9 +431,9 @@
     <string name="inear_audio_active">In Ear Audio Active</string>
     <string name="show_notif">Show Active Notification</string>
     <string name="inear_summary">Routes all audio through your device earpiece</string>
-    <string name="volUp">Volume +</string>
-    <string name="volDown">Volume -</string>
-    <string name="cur_vol">Current Volume = </string>
+    <string name="volUp">Vol +</string>
+    <string name="volDown">Vol -</string>
+    <string name="cur_vol">Current Volume =&#160;</string>
     <string name="click_disable">%
         \n Click the tile to disable</string>
     <string name="pause">Pause
@@ -445,7 +446,7 @@
     \n\u2022 SideBar/Floating Toolbox
     \n\u2022 Screen Filter/Night Mode
     \n\u2022 Rounded Corners
-    \n\u2022 HotSpot &amp; Network Mode Dialogs
+    \n\u2022 Network Mode Dialogs
     \n\nPlease click proceed & grant the required permission.\n]]></string>
     <string name="overlay_required">System overlay permissions required</string>
     <string name="mob_data">Mobile
@@ -475,7 +476,7 @@
     <string name="toggle">Toggle</string>
     <string name="toolbox_label">Toolbox</string>
     <string name="app_picker">Select An Application</string>
-    <string name="custom_app_tiles">Custom App Tiles</string>
+    <string name="custom_app_tiles">Custom Tiles</string>
     <string name="swipe_up">Swipe up from the bottom to dismiss</string>
     <string name="lock_screen_title">Lock Screen</string>
     <string name="auto_rotate">Auto
@@ -537,7 +538,6 @@
     <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!</string>
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
     <string name="config_serv">Configure\nServices</string>
-    <string name="enable_to_config">Enable/Add Tile to configure</string>
     <string name="wake_tile">Screen Wake</string>
     <string name="screenshot_root">Use Root Screenshot Method</string>
     <string name="screenshot_root_summary">Produces a screenshot using the system screencap binary</string>
@@ -580,13 +580,10 @@
         \n\n \u2022 Detect secure activities.
         \n\nIf a secure activity is detected, this overlay will automatically stop.
         \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
-    <string name="filter_off_secure">Screen Filter Off
+    <string name="filter_off_secure">Screen Filter suspended:
         \nSecure activity detected</string>
-    <string name="corners_off_secure">Screen Corners Off
+    <string name="corners_off_secure">Screen Corners suspended:
         \nSecure activity detected</string>
-    <string name="alphaUp">Opacity +</string>
-    <string name="alphaDown">Opacity -</string>
-    <string name="transparency">Opacity =&#160;</string>
     <string name="launch_loc">Launches Settings \> Location/n(if no settings secure access)</string>
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
     <string name="nigh_light">Night Light</string>
@@ -607,7 +604,7 @@
     <string name="usage_access">Data Usage</string>
     <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
     <string name="overlay_summary">Usage: Floating SideBar/ToolBox, Screen Filter &amp; Rounded Corners</string>
-    <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Screen Filter &amp; Rounded Corners</string>
+    <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Expand Notifications &amp; Quick Settings, Screen Filter &amp; Rounded Corners</string>
     <string name="dnd_summary">Usage: Ring Mode</string>
     <string name="usage_summary">Usage: Data Usage Tile</string>
     <string name="actual_tiles">Actual Tiles =&#160; %1$d </string>
@@ -644,11 +641,7 @@
     <string name="hotspot_tile">WiFi Hotspot</string>
     <string name="hotspot_enabled">HotSpot\nEnabled</string>
     <string name="hotspot_disabled">HotSpot\nDisabled</string>
-    <string name="activate">Activate</string>
     <string name="to_be_toggled">Choose entries to be toggled.</string>
-    <string name="here_to_cancel">Click here to disable</string>
-    <string name="create_hotspot">Create WiFi HotSpot</string>
-    <string name="ap_name">Open AP Name</string>
     <string name="swipe_out_close">Swipe left/right to close</string>
     <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
     <string name="led_enabled">Notif LED\nEnabled</string>
@@ -661,7 +654,7 @@
     <string name="system_actions">Tiles to toggle/launch system actions</string>
     <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
     <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
-    <string name="cust_app">Tiles that you can assign applications to</string>
+    <string name="cust_app">Tiles that you can assign applications/activities to</string>
     <string name="cust_url">Tiles that you can assign web addresses to</string>
     <string name="cust_sb">Customise the look, feel &amp; behaviour of the SideBar or ToolBox</string>
     <string name="behaviour">Change the behaviour of Tiles</string>
@@ -670,7 +663,7 @@
     <string name="force_eng_summary">Run the app in the English Language</string>
     <string name="xiaomi">Your device requires applications to be granted auto start permissions, Shortcutter background services will be killed if this is not enabled.\n\nPlease click Proceed &amp; enable auto start for Shortcutter.</string>
     <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Battery Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
-    <string name="gridItems">customapp1TB,customapp2TB,customapp3TB,customapp4TB,alarm,ram,corners,filter,wake,counter,dice,calendar,sync,camera,email,nightlight,voicesearch,search,inear,playpause</string>
+    <string name="gridItems" translatable="false">customapp1TB,customapp2TB,customapp3TB,customapp4TB,alarm,ram,corners,filter,wake,counter,dice,calendar,sync,camera,email,nightlight,voicesearch,search,inear,playpause,mutemedia</string>
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
     <string name="monochrome">B&amp;W</string>
     <string name="monochrome_summary">Change the display to black and white (Monochrome)</string>
@@ -704,7 +697,30 @@
     <string name="trigger">Trigger</string>
     <string name="tile_icons">Tiles/Icons</string>
     <string name="labels">Tile Labels</string>
-    <string name="icon_scale">Icon &amp; Text Scale</string>
+    <string name="icon_scale">Icon Scale</string>
     <string name="flash_sale">I am offering 40% off Shortcutter Premium until August 25th!\nPlease select the £1.99 option in the purchase premium screen.</string>
     <string name="sale">Shortcutter Flash Sale</string>
+    <string name="dim">Dim -</string>
+    <string name="dimup">Dim +</string>
+    <string name="screen_dim">Screen Dim =&#160;</string>
+    <string name="media_unmuted">Media Unmuted</string>
+    <string name="media_muted">Media Muted</string>
+    <string name="mute_media">Mute Media</string>
+    <string name="mute_media_summary">Mute your media volume</string>
+    <string name="system_perms_message_touches">This option requires the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
+        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
+    <string name="lock_root">Use ROOT Method</string>
+    <string name="root_lock_sum">Sends a POWER key event using shell</string>
+    <string name="choose_activity">Choose Activity</string>
+    <string name="exp_notif">Expand Notifications</string>
+    <string name="quick_settings">Expand QS Panel</string>
+    <string name="exp_notif_sum">Expands the notification pulldown</string>
+    <string name="qs_sum">Expands the Quick Settings pulldown</string>
+    <string name="bt_enabled">Bluetooth\nEnabled</string>
+    <string name="bt_disabled">Bluetooth\nDisabled</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bt_summary">Enable/Disable Bluetooth</string>
+    <string name="sidebar_off_secure">SideBar suspended:
+        \nSecure activity detected</string>
+    <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
 </resources>
