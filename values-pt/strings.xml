@@ -125,10 +125,10 @@
     <string name="show_touches">Mostrar Toques</string>
     <string name="subscription_error">O seu diispositivo não suporta assinaturas.</string>
     <string name="iab_async_error">Erro a lança serviço de compra. Está a decorrer outra operação.</string>
-    <string name="onetimefee2">£1.99</string>
-    <string name="onetimefee5">£3.99\n(Gorjeta)</string>
-    <string name="donation2">£1.99 Licença</string>
-    <string name="donation5">£3.99 Licença</string>
+    <string name="onetimefee2">£1.89</string>
+    <string name="onetimefee5">£3.79\n(Gorjeta)</string>
+    <string name="donation2">£1.89 Licença</string>
+    <string name="donation5">£3.79 Licença</string>
     <string name="donation10">£9.60 Licença</string>
     <string name="detected">Detetada</string>
     <string name="yes">Sim</string>
@@ -543,7 +543,7 @@
     <string name="system_actions">Tiles to toggle/launch system actions</string>
     <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
     <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
-    <string name="cust_app">Tiles that you can assign applications/activities to</string>
+    <string name="cust_app">Tiles that you can assign Applications, Activities &amp; Shortcuts to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
     <string name="cust_url">Tiles that you can assign web addresses to</string>
     <string name="cust_sb">Customise the look, feel &amp; behaviour of the SideBar or ToolBox</string>
     <string name="behaviour">Change the behaviour of Tiles</string>
@@ -611,4 +611,5 @@
     <string name="sidebar_off_secure">SideBar suspended:
         \nSecure activity detected</string>
     <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
+    <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
 </resources>

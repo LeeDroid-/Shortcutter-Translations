@@ -145,11 +145,11 @@
     <string name="show_touches">Dokunuşları Göster</string>
     <string name="subscription_error">Cihazınız aboneliği desteklemiyor.</string>
     <string name="iab_async_error">Satın alma işlemi, başka bir işlem yapılmakta olduğundan, başlatılamadı.</string>
-    <string name="onetimefee2">£1.99</string>
-    <string name="onetimefee5">£3.99
+    <string name="onetimefee2">£1.89</string>
+    <string name="onetimefee5">£3.79
         \n(Gratuity)</string>
-    <string name="donation2">£1.99 Lisans</string>
-    <string name="donation5">£3.99 Lisans</string>
+    <string name="donation2">£1.89 Lisans</string>
+    <string name="donation5">£3.79 Lisans</string>
     <string name="donation10">£9.60 Lisans</string>
     <string name="detected">Algılandı</string>
     <string name="yes">Evet</string>
@@ -625,7 +625,6 @@
     <string name="install_shortcut">Kısayol\nYükle</string>
     <string name="select_shortcut">Yüklemek için bir kısayol seçin</string>
     <string name="header">Başlığı kaldır</string>
-    <string name="hide_header_sum">Yan Menü / Araç Kutusu başlığını kaldırır.</string>
     <string name="review">\n Play Store \'da\Yüksek bir puan verir ve güzel bir yorum yaparsınız artık :)</string>
     <string name="enjoying">Shortcutter Hoşunuza gitti mi?</string>
     <string name="counter">Sayaç\n+1</string>
@@ -652,7 +651,7 @@
     <string name="system_actions">Sistem ayarlarını değiştirmek için sekmeler</string>
     <string name="info_tiles_sum">Faydalı sistem bilgilerine ulaşım için &amp; sekmeler</string>
     <string name="sc_service_sum"><![CDATA[Shortcutter tarafından sunulan Servisler & Özellikler]]></string>
-    <string name="cust_app">Uygulamaları çalıştırmak için kullanılabilecek sekmeler</string>
+    <string name="cust_app">Tiles that you can assign Applications, Activities &amp; Shortcuts to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
     <string name="cust_url">WEB adreslerini açmak için kullanılabilecek sekmeler to</string>
     <string name="cust_sb">Yan Menüyü / Araç Kutusunu kişiselleştirme, &amp; ve nasıl çalışacağını ayarlama</string>
     <string name="behaviour">Sekmelerin nasıl çalışacağını seçin</string>
@@ -720,4 +719,5 @@
     <string name="sidebar_off_secure">SideBar suspended:
         \nSecure activity detected</string>
     <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
+    <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
 </resources>

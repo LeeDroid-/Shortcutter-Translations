@@ -144,11 +144,11 @@
     <string name="show_touches">Pokaż Dotknięcia</string>
     <string name="subscription_error">Twoje urządzenie nie wspiera subskrypcji.</string>
     <string name="iab_async_error">Błąd uruchomienia zakupu. Kolejna próba synchronizacji zakupu w toku.</string>
-    <string name="onetimefee2">1.99 f</string>
-    <string name="onetimefee5">3.99 f
+    <string name="onetimefee2">1.89 f</string>
+    <string name="onetimefee5">3.79 f
 	    \n(Napiwek)</string>
-    <string name="donation2">Licencja 1.99 f</string>
-    <string name="donation5">Licencja 3.99 f</string>
+    <string name="donation2">Licencja 1.89 f</string>
+    <string name="donation5">Licencja 3.79 f</string>
     <string name="donation10">Licencja 9.60 f</string>
     <string name="detected">Wykryto</string>
     <string name="yes">Tak</string>
@@ -652,7 +652,7 @@
     <string name="system_actions">Przełącz Płytki/Uruchom akcje systemu</string>
     <string name="info_tiles_sum">Płytki, które zapewniają &amp; powiązują użyteczne informacje o systemie</string>
     <string name="sc_service_sum"><![CDATA[Usługi & funkcje Shortcutter]]></string>
-    <string name="cust_app">Płytki, którym można przypisać aplikacje</string>
+    <string name="cust_app">Tiles that you can assign Applications, Activities &amp; Shortcuts to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
     <string name="cust_url">Płytki, którym można przypisać adres internetowy</string>
     <string name="cust_sb">Dostosuj wygląd Paska Bocznego lub ToolBoxa</string>
     <string name="behaviour">Zmień zachowanie Płytek</string>
@@ -720,4 +720,5 @@
     <string name="sidebar_off_secure">SideBar suspended:
         \nSecure activity detected</string>
     <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
+    <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
 </resources>

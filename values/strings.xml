@@ -143,11 +143,11 @@
     <string name="show_touches">Show Touches</string>
     <string name="subscription_error">Your device does not support subscriptions.</string>
     <string name="iab_async_error">Error launching purchase flow. Another async operation in progress.</string>
-    <string name="onetimefee2">£1.99</string>
-    <string name="onetimefee5">£3.99
+    <string name="onetimefee2">£1.89</string>
+    <string name="onetimefee5">£3.79
         \n(Gratuity)</string>
-    <string name="donation2">£1.99 License</string>
-    <string name="donation5">£3.99 License</string>
+    <string name="donation2">£1.89 License</string>
+    <string name="donation5">£3.79 License</string>
     <string name="donation10">£9.60 License</string>
     <string name="detected">Detected</string>
     <string name="yes">Yes</string>
@@ -532,7 +532,7 @@
     <string name="corners_scale_summary">Adjust the screen corner radius</string>
     <string name="corner_colour">Select Corner Colour</string>
     <string name="how_it_works">How It works</string>
-    <string name="how_it_works1">Shortcutter offers several different options to access up to 68 shortcuts, settings &amp; services.</string>
+    <string name="how_it_works1">Shortcutter offers several different options to access an array of shortcuts, settings &amp; services.</string>
     <string name="how_it_works2">\u2022 Via your Quick Settings Pull-down</string>
     <string name="how_it_works3">\u2022 Via the Shortcutter Swipe out SideBar or Floating Toolbox</string>
     <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!</string>
@@ -654,7 +654,7 @@
     <string name="system_actions">Tiles to toggle/launch system actions</string>
     <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
     <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
-    <string name="cust_app">Tiles that you can assign applications/activities to</string>
+    <string name="cust_app">Tiles that you can assign Applications, Activities &amp; Shortcuts to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
     <string name="cust_url">Tiles that you can assign web addresses to</string>
     <string name="cust_sb">Customise the look, feel &amp; behaviour of the SideBar or ToolBox</string>
     <string name="behaviour">Change the behaviour of Tiles</string>
@@ -723,4 +723,5 @@
     <string name="sidebar_off_secure">SideBar suspended:
         \nSecure activity detected</string>
     <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
+    <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
 </resources>
