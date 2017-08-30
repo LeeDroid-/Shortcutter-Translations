@@ -4,7 +4,7 @@
     <string name="cancel">Abbrechen</string>
     <string name="Autosync">Auto Sync</string>
     <string name="LocationMode">Standortmodus</string>
-    <string name="HeadsUp">Heads Up</string>
+    <string name="HeadsUp">Hinweis</string>
     <string name="auto_sync_enabled_toast">Auto Sync aktiviert</string>
     <string name="auto_sync_disabled_toast">Auto Sync deaktiviert</string>
     <string name="auto_sync_on">Auto Sync An</string>
@@ -14,7 +14,7 @@
     <string name="device_only">Nur Gerät</string>
     <string name="battery_saving">Batterie sparen</string>
     <string name="high_accuracy">Hohe Genauigkeit</string>
-    <string name="heads_up_enabled">Heads Up aktiviert</string>
+    <string name="heads_up_enabled">Hinweis aktiviert</string>
     <string name="special_perms_command">Wenn abgeschlossen, klicke Bestätigen &amp; wir werden den Zugang testen, falls der Befehl fehlschlägt, versuche es erneut.</string>
     <string name="special_perms_required">"Besondere Berechtigungen erforderlich
         \n\nVersuche Start: "</string>
@@ -199,8 +199,8 @@
     <string name="camera_tile_title">Kamera</string>
     <string name="haptic_tile_title">Haptische Rückmeldung</string>
     <string name="haptic_summary">Schalte Haptische Rückmeldung An/Aus</string>
-    <string name="headsup_summary">Schalte Heads Up Benachrichtigung</string>
-    <string name="Headsup_tile_title">Heads Up</string>
+    <string name="headsup_summary">Schalte Hinweis Benachrichtigung</string>
+    <string name="Headsup_tile_title">Hinweis</string>
     <string name="immersive_summary">Status verbergen &amp; Navigationleisten</string>
     <string name="immersive_tile_title">Vollbild
         \nModus</string>
@@ -278,14 +278,7 @@
     <string name="dice_desc">Generiert eine zufällige Zahl
 		\n(Ändert die Weite in den Kachel Einstellungen)</string>
     <string name="auto_step">Automatische Helligkeitsstufe</string>
-    <string name="about">\nEntworfen &amp; Entwickelt von:
-        \n\n\u2022 Lee Bailey (AKA @LeeDrOiD)\n\n Übersetzung von:
-        \n\n\u2022 4ntagonist, D0wnXibalba, SoLdieR9312 - German
-        \n\u2022 @Linar10 - Polish
-        \n\u2022 @Nuno Nebeker - Portuguese
-        \n\u2022 @Evren GüntürKün - Portuguese
-        \n\nFalls du daran interessiert bist, mir beim Übersetzen der App zu helfen, sende mir eine E-Mail per Feedback Funktion im Home Menü.\n\nZusätzliche Grafiken von @Bogdan</string>
-    <string name="file_tile">Datei
+   <string name="file_tile">Datei
         \nBrowser</string>
     <string name="file_summary">Startet den voreingestellten Dateimanager</string>
     <string name="new_tweet">Neu
@@ -301,7 +294,7 @@
     <string name="stay_in_the_loop">Social Media/Kontakt</string>
     <string name="follow_me">Folge mir auf Twitter</string>
     <string name="like_facebook">Like meine Facebook Seite</string>
-    <string name="home">Zu Hause</string>
+    <string name="home">Startseite</string>
     <string name="dice_desc_range">Wähle eine benutzerdefinierte  Augenanzahl für die Würfel Kachel</string>
     <string name="dice_tile_range">Würfel Kachel Augenanzahl</string>
     <string name="nfc_enabled">NFC
@@ -321,7 +314,7 @@
         \nVerwendung</string>
     <string name="data_usage_perms">Shortcutter benötigt Berechtigung um auf den Datenverbrauchsverlauf zuzugreifen.
         \n\nBitte klicke weiter, wähle Shortcutter &amp; aktiviere Benutzerzugang.\n\n</string>
-    <string name="reset_day">Zurückstellen am %1$d Tag jedes Monats</string>
+    <string name="reset_day">Zurückstellen am  Tag %1$d jeden Monats</string>
     <string name="select_day">Wähle den Tag der Datenzurückstellung</string>
     <string name="data_cycle_reset">Datenverbrauchszyklus</string>
     <string name="data_cycle_summary">Wähle den Tag im Monat ab dem Daten gemessen werden sollen (Normalerweise dein Rechnungsdatum)</string>
@@ -334,8 +327,8 @@
     <string name="adding_qs_tiles">QS-Kacheln hinzufügen</string>
     <string name="select_tiles"><![CDATA[1. Gehe zum Shortcutter \"Quick Settings Pull-Down\" Tabulator & wähle deine QS-Kacheln aus.]]></string>
     <string name="edit_view"><![CDATA[2. Ziehe die Statusleiste herunter und klicke auf die Schaltfläche "Bearbeiten", wie du unten gesehen hast. Dies ist normalerweise ein Stift-Symbol.
-    \n\n Samsung Benutzer wählen das 3-Punktmenü &amp; wähle Kacheln neu anordnen, deine Shortcutter Kacheln werden in der unteren Ansicht angezeigt.]]></string>
-    <string name="edit_view1">3. In der Bearbeitungsansicht findest du 2/3 Container, du wirst deine neuen Shortcutter Kacheln im unteren Container sehen.
+    \n\n Samsung Benutzer wählen das 3-Punktmenü, wähle Kacheln neu anordnen. Deine Shortcutter Kacheln werden in der unteren Ansicht angezeigt.]]></string>
+    <string name="edit_view1">3. In der Bearbeitungsansicht findest du einen 3. Container, du wirst deine neuen Shortcutter Kacheln im untersten Container sehen.
         \n\nDrücke einfach lang um sie hinzuzufügen &amp; ziehe deine ausgewählten Kacheln in den oberen aktiven Container &amp; verlasse die Bearbeitungsansicht.</string>
     <string name="edit_view_note">WICHTIGE NOTIZ:
         \n\nAufgrund eines Fehlers in Android Nougat, könntest du Probleme beim Hinzufügen von Kacheln bekommen, was umgangen werden kann, indem du Folgendes tust.
@@ -352,7 +345,7 @@
     <string name="largest">Schriftart
         \nGrößte</string>
     <string name="fontscale_sum">Schalte die Systemschriftartgröße um</string>
-    <string name="font_scale_title">Schriftmaßstab</string>
+    <string name="font_scale_title">Schriftgröße</string>
     <string name="powersave_disabled">Energie sparen
         \nDeaktiviert</string>
     <string name="powersave_enabled">Energie sparen
@@ -457,7 +450,7 @@
     <string name="wake_active">Bildschirm Aufwachen aktiv</string>
     <string name="floating_toolbox">Aktiviere die Sidebar/Werkzeugkasten</string>
     <string name="float_summary">Öffnet die Sidebar durch Wischen über den Auslösebalken oder den schwebenden Werkzeugkasten über ein schwebendes Symbol.</string>
-    <string name="tb_tiles">Shortcutter\nSidebar</string>
+    <string name="tb_tiles">Sidebar\nEinstellungen</string>
     <string name="email_feedback">E-Mail Rückmeldung</string>
     <string name="submit_review">Lass eine Bewertung da</string>
     <string name="rate_app">Bewerte die App</string>
@@ -534,7 +527,7 @@
     <string name="how_it_works3">\u2022 Über die ausklappbare Sidebar oder den schwebenden Werkzeugkasten</string>
     <string name="how_it_works4">\u2022 Über Schalter in deiner App Übersicht &amp; Startbildschirm, welcher auch in HTC Edge Sense, Zweite Bildschirme und Tasker zugeordnet wird &amp; Vieles mehr!</string>
     <string name="attention">Bitte beachte die Anleitung im Tabulator 2, wie man Kacheln hinzufügt.</string>
-    <string name="config_serv">Konfigurieren\nShortcuts</string>
+    <string name="config_serv">Shortcuts\nEinstellungen</string>
     <string name="wake_tile">Bildschirm Aufwachen</string>
     <string name="screenshot_root">Benutze Root Methode für Bildschirmfoto</string>
     <string name="screenshot_root_summary">Macht ein Bildschirmfoto indem die Systembinärdatei für Bildschirmaufnahme benutzt wird</string>
@@ -572,7 +565,7 @@
     <string name="loading_map">Lädt Karte....</string>
     <string name="swipe_out">Wische heraus um zu verbergen</string>
     <string name="choose_ring_entries">Klingelmodus Einträge (2 minimum)</string>
-    <string name="qs_head_title">QS-Überschrift Kacheln</string>
+    <string name="qs_head_title">Anzahl Kacheln</string>
     <string name="acc_needed_corners">Diese Einblendung benötigt Zugriff auf:
         \n\n \u2022 Erkennt sichere Aktivitäten.
         \n\nWenn eine sichere Aktivität erkannt wurde, wird diese Einblendung automatisch gestoppt.
@@ -591,12 +584,12 @@
     <string name="lightmode">Nachtlicht\nModus</string>
     <string name="scdesk">Shortcutter\nSchreibtischuhr</string>
     <string name="expand_collapse">Werkzeugkasten\nErweiterung</string>
-    <string name="expose_toggler">Aktiviere die \"Sidebar Erweiterung\" Symbol zum Öffnen/Schließen der Sidebar oder des Werkzeugkastens, was auch das Übertragen auf andere Apps wie HTC Edge Sense und erweiterter Bildschirm erlaubt &amp; Tasker.</string>
+    <string name="expose_toggler">Aktiviere das Symbol \"SideBar Expander\", um die SideBar oder ToolBox von deinem Startbildschirm oder anderen Apps zu öffnen / zu schließen</string>
     <string name="expose_toggler_title">Sidebar Erweiterung</string>
     <string name="permissions">App Berechtigungen</string>
     <string name="settings_access">Schreibe Systemeinstellungen</string>
     <string name="overlay_access">Überlagerungsberechtigungen</string>
-    <string name="acc_access">Accessibility Access</string>
+    <string name="acc_access">Zugangserleichterung</string>
     <string name="dnd_access">Nicht stören Zugriff</string>
     <string name="usage_access">Datenverbrauch</string>
     <string name="settings_system_summary">Verwendung: Helligkeit, Schriftgröße, haptische Rückmeldung &amp; Bildschirm Auszeit</string>
@@ -651,7 +644,8 @@
     <string name="system_actions">Kacheln zum Schalten/Starten von Systemaktionen</string>
     <string name="info_tiles_sum">Kacheln bieten &amp; Verlinkung zu nützlichen Systeminformationen</string>
     <string name="sc_service_sum"><![CDATA[Dienste & Funktionen zur Verfügung gestellt von Shortcutter]]></string>
-    <string name="cust_app">Tiles that you can assign Applications, Activities &amp; Shortcuts to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
+    <string name="cust_app">Kacheln, denen Applikationen, Aktivitäten &amp; Shortcuts zuordnen kannst.
+		Aktiviere hier die Kacheln und klicke dann die Kachel, der du deine App, Aktivität oder Shortcut zuordnest.</string>
     <string name="cust_url">Kacheln die du Webadressen zuordnen kannst</string>
     <string name="cust_sb">Passe das Aussehen und die Bedienbarkeit an &amp; Verhalten der Sidebar oder des Werkzeugkastens</string>
     <string name="behaviour">Ändere das Verhalten der Kacheln</string>
@@ -675,7 +669,7 @@
     <string name="cust_icon_summary">Wähle einen benutzerdef. Symbolhintergrund</string>
     <string name="manage_tiles">Kachelverwaltung</string>
     <string name="enable_tiles">Aktiviere/Deaktiviere QS-Kacheln im Pull-Down Menü </string>
-    <string name="qs_tiles">Schnelleinstellungen\nPull-Down</string>
+    <string name="qs_tiles">Pull-Down\nEinstellungen</string>
     <string name="custom_tiles">Benutzerdef. Kacheln</string>
     <string name="sb_tb_settings">Sidebar/Werkzeugkasten Einstellungen</string>
     <string name="design_sb_settings">Konfiguriere deine(n) Shortcutter Sidebar/Werkzeugkasten</string>
@@ -684,7 +678,7 @@
     <string name="detect_touch">Berühre &amp; Wische Auslösebalken</string>
     <string name="touch_and_swipe">Sidebar öffnet, wenn Auslösebalken berührt oder gewischt wird\n(nach oben, nach unten oder nach innen)</string>
     <string name="swipe_only">Sidebar durch Wischen öffnen\n(nach oben, nach unten oder nach innen)</string>
-	<string name="hide_header_sum">Sidebar/Werkzeugkasten entfernt Überschrift</string>
+    <string name="hide_header_sum">Sidebar/Werkzeugkasten entfernt Überschrift</string>
     <string name="hide_header_off_sum">Sidebar/Werkzeugkasten Überschrift sichtbar</string>
     <string name="capture_quality">Aufnahmequalität</string>
     <string name="share">Teile</string>
@@ -701,8 +695,8 @@
     <string name="screen_dim">Screen Dim =&#160;</string>
     <string name="media_unmuted">Media Unmuted</string>
     <string name="media_muted">Media Muted</string>
-    <string name="mute_media">Mute Media</string>
-    <string name="mute_media_summary">Mute your media volume</string>
+    <string name="mute_media">Medien stumm</string>
+    <string name="mute_media_summary">Schalte Medienlaustärke stumm</string>
     <string name="system_perms_message_touches">This option requires the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
         \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
     <string name="lock_root">Use ROOT Method</string>
@@ -720,4 +714,10 @@
         \nSecure activity detected</string>
     <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
     <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
+    <string name="cp_head">TIPPE INS ZENTRUM ZUM BESTÄTIGEN ODER ZURÜCK ZUM ABBRECHEN</string>
+    <string name="apply">Anwenden</string>
+    <string name="scale">Größenordnung =&#160;</string>
+    <string name="disabled">Disabled</string>
+    <string name="transparency">Transparency</string>
+    <string name="ring_mode">Ring Mode</string>
 </resources>

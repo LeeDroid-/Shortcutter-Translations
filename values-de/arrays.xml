@@ -23,9 +23,9 @@
         <item>2</item>
     </string-array>
     <string-array name="sidebar_tmb_entries">
-        <item>Top</item>
-        <item>Center</item>
-        <item>Bottom</item>
+        <item>Oben</item>
+        <item>Mitte</item>
+        <item>Unten</item>
     </string-array>
     <string-array name="sidebar_tmb_values">
         <item>0</item>

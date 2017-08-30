@@ -280,14 +280,7 @@
     <string name="dice_desc">Generates a random number
         \n(Change range in Tile Settings)</string>
     <string name="auto_step">Auto Brightness Step</string>
-    <string name="about">\nDesigned &amp; Developed By:
-        \n\n\u2022 Lee Bailey (AKA @LeeDrOiD)\n\n Translations By:
-        \n\n\u2022 SoLdieR9312 - German
-        \n\u2022 @Linar10 - Polish
-        \n\u2022 @Nuno Nebeker - Portuguese
-        \n\u2022 @Evren GüntürKün - Portuguese
-        \n\nIf you are interested in helping me translate the app, drop me an email using the Email Feedback option in the menu.\n\nAdditional Graphics By @Bogdan</string>
-    <string name="file_tile">File
+   <string name="file_tile">File
         \nBrowser</string>
     <string name="file_summary">Launches default file browser</string>
     <string name="new_tweet">New

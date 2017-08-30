@@ -282,15 +282,7 @@
     <string name="dice_desc">Zar atar
         \n(Zar sayısını ayarlardan değiştirebilirsiniz)</string>
     <string name="auto_step">Otomatik Parlaklık Kademesi</string>
-    <string name="about">\nDesigned &amp; Uygulama Yapımcısı:
-        \n\n\u2022 Lee Bailey (AKA @LeeDrOiD)\n\n Tercümeler:
-        \n\n\u2022 SoLdieR9312 - German
-        \n\u2022 @Linar10 - Polish
-        \n\u2022 @Nuno Nebeker - Portuguese
-	\n\u2022 @Evren GüntürKün - Turkish
-        \n\u2022 范家安(金发大表哥) - Chinese
-        \n\nUygulamayı tecrüme etmekte bana yardımcı olmak isterseniz, geri bildirim bölümünden bana bir e-mail gönderin.\n\nAdditional Graphics By @Bogdan</string>
-    <string name="file_tile">Dosya
+   <string name="file_tile">Dosya
         \nYöneticisi</string>
     <string name="file_summary">Cihazın kendi Dosya Yöneticisini açar</string>
     <string name="new_tweet">Yeni
@@ -720,4 +712,10 @@
         \nSecure activity detected</string>
     <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
     <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
+    <string name="adding_qs_tiles">Adding QS Tiles</string>
+    <string name="misc_cat">Expose Launcher Toggles</string>
+    <string name="transparency">Transparency</string>
+    <string name="scale">Scale =&#160;</string>
+    <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp;. Tasker.</string>
+    <string name="cp_head">TAP CENTER TO CONFIRM OR BACK TO CANCEL</string>
 </resources>

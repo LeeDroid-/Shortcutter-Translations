@@ -240,7 +240,6 @@
     <string name="Dice">Mosaico Dados</string>
     <string name="dice_desc">Gera um número aleatório \n(Mudar gama Change range em Definições de Mosaicos)</string>
     <string name="auto_step">Passo Brilho Automático</string>
-    <string name="about">\nDesenhado &amp; Desenvolvido Por:\n\n\u2022 Lee Bailey (AKA @LeeDrOiD)\n\n Traduzido Por:\n\n\u2022 SoLdieR9312 - Alemão\n\u2022 @Linar10 - Polaco\n\u2022 @Evren GüntürKün - Portuguese\n\n\u2022 Nuno Nebeker - Português\n\n Se estiver interessado em ajudar-me a traduzir a app, envie-me um email usando a opção Feedback por Email no menu</string>
     <string name="file_tile">Explorador de\nFicheiros</string>
     <string name="file_summary">Abre o explorador de ficheiros pré-defiido</string>
     <string name="new_tweet">Novo\nTweet</string>
@@ -612,4 +611,10 @@
         \nSecure activity detected</string>
     <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
     <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
+    <string name="corners__scale_set">Corner Scale&#160;=&#160;%1$d%</string>
+    <string name="misc_cat">Expose Launcher Toggles</string>
+    <string name="transparency">Transparency</string>
+    <string name="screen_recorder">Screen Recorder</string>
+    <string name="scale">Scale =&#160;</string>
+    <string name="cp_head">TAP CENTER TO CONFIRM OR BACK TO CANCEL</string>
 </resources>
