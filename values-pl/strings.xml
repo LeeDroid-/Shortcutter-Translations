@@ -2,31 +2,20 @@
 <resources>
     <string name="app_name">Shortcutter</string>
     <string name="cancel">Anuluj</string>
-    <string name="Autosync">Auto Synch</string>
-    <string name="LocationMode">Tryb Lokalizacji</string>
+    <string name="autosync">Auto Synch</string>
+    <string name="locationMode">Tryb Lokalizacji</string>
     <string name="HeadsUp">Heads Up</string>
-    <string name="auto_sync_enabled_toast">Włącz Auto Synch</string>
-    <string name="auto_sync_disabled_toast">Wyłącz Auto Synch</string>
-    <string name="auto_sync_on">Auto Synch Wł</string>
-    <string name="auto_sync_off">Auto Synch Wył</string>
     <string name="no_perms">Brak Uprawnień</string>
     <string name="Off">Wył</string>
     <string name="device_only">Tylko Urządzenie</string>
     <string name="battery_saving">Oszczędzanie Baterii</string>
     <string name="high_accuracy">Wysoka Dokładność</string>
-    <string name="heads_up_enabled">Włącz Heads Up</string>
     <string name="special_perms_command">Po zakończeniu, kliknij przycisk Potwierdź i przetestujemy dostęp, jeśli się nie uda, spróbuj ponownie.</string>
     <string name="special_perms_required">"Wymagane specjalne uprawnienia
 	    \n\nSpróbuj uruchomić: "</string>
-    <string name="wifi_call_disabled">Wyłącz Wi-Fi Calling</string>
-    <string name="wifi_call_enabled">Włącz Wi-Fi Calling</string>
-    <string name="WiFiCall">Wi-Fi Calling</string>
+    <string name="wifi_call">Wi-Fi Calling</string>
     <string name="adb">ADB</string>
-    <string name="adb_disabled">Wyłacz ADB</string>
-    <string name="adb_enabled">Włącz ADB</string>
     <string name="NetMode">Tryb Sieci</string>
-    <string name="haptic_off">Potwierdzenie Wibracją Wył</string>
-    <string name="haptic_on">Potwierdzenie Wibracją Wł</string>
     <string name="haptic">Potwierdzenie Wibracją</string>
     <string name="root_required1">Dostęp do Roota przyznany</string>
     <string name="select_net_mode">Wybierz Tryb Sieci</string>
@@ -35,57 +24,48 @@
     <string name="enable_root_features">Włącz Funkcje Roota</string>
     <string name="root_features_enabled">Funkcje Roota Włączone</string>
     <string name="appicon">Ikona Aplikacji</string>
-    <string name="CustomTile1">Własna Aplikacja 1</string>
-    <string name="CustomTile2">Własna Aplikacja 2</string>
-    <string name="CustomTile4">Własna Aplikacja 4</string>
-    <string name="CustomTile3">Własna Aplikacja 3</string>
-    <string name="CustomTile5">Własna Aplikacja 5</string>
-    <string name="CustomTile6">Własna Aplikacja 6</string>
-    <string name="CustomTile7">Własna Aplikacja 7</string>
-    <string name="CustomTile8">Własna Aplikacja 8</string>
-    <string name="CustomTile9">Własna Aplikacja 9</string>
-    <string name="CustomTile10">Własna Aplikacja 10</string>
-    <string name="CustomTile11">Własna Aplikacja 11</string>
-    <string name="CustomTile12">Własna Aplikacja 12</string>
-    <string name="CustomTile13">Własna Aplikacja 13</string>
-    <string name="CustomTile14">Własna Aplikacja 14</string>
-    <string name="CustomTile15">Własna Aplikacja 15</string>
-    <string name="CustomTile16">Własna Aplikacja 16</string>
-    <string name="CustomTile17">Własna Aplikacja 17</string>
-    <string name="CustomTile18">Własna Aplikacja 18</string>
-    <string name="CustomTile19">Własna Aplikacja 19</string>
-    <string name="CustomTile20">Własna Aplikacja 20</string>
-    <string name="EnterUrl">Wpisz Własny URL</string>
-    <string name="CustomUrl1">Własny URL 1</string>
-    <string name="CustomUrl2">Własny URL 2</string>
-    <string name="CustomUrl3">Własny URL 3</string>
-    <string name="CustomUrl4">Własny URL 4</string>
+    <string name="CustomTile1">Płytka niestandardowa 1</string>
+    <string name="CustomTile2">Płytka niestandardowa 2</string>
+    <string name="CustomTile4">Płytka niestandardowa 4</string>
+    <string name="CustomTile3">Płytka niestandardowa 3</string>
+    <string name="CustomTile5">Płytka niestandardowa 5</string>
+    <string name="CustomTile6">Płytka niestandardowa 6</string>
+    <string name="CustomTile7">Płytka niestandardowa 7</string>
+    <string name="CustomTile8">Płytka niestandardowa 8</string>
+    <string name="CustomTile9">Płytka niestandardowa 9</string>
+    <string name="CustomTile10">Płytka niestandardowa 10</string>
+    <string name="CustomTile11">Płytka niestandardowa 11</string>
+    <string name="CustomTile12">Płytka niestandardowa 12</string>
+    <string name="CustomTile13">Płytka niestandardowa 13</string>
+    <string name="CustomTile14">Płytka niestandardowa 14</string>
+    <string name="CustomTile15">Płytka niestandardowa 15</string>
+    <string name="CustomTile16">Płytka niestandardowa 16</string>
+    <string name="CustomTile17">Płytka niestandardowa 17</string>
+    <string name="CustomTile18">Płytka niestandardowa 18</string>
+    <string name="CustomTile19">Płytka niestandardowa 19</string>
+    <string name="CustomTile20">Płytka niestandardowa 20</string>
+    <string name="CustomTile21">Płytka niestandardowa 21</string>
+    <string name="CustomTile22">Płytka niestandardowa 22</string>
+    <string name="CustomTile23">Płytka niestandardowa 23</string>
+    <string name="CustomTile24">Płytka niestandardowa 24</string>
+    <string name="CustomTile25">Płytka niestandardowa 25</string>
+    <string name="CustomTile26">Płytka niestandardowa 26</string>
+    <string name="CustomTile27">Płytka niestandardowa 27</string>
+    <string name="CustomTile28">Płytka niestandardowa 28</string>
+    <string name="CustomTile29">Płytka niestandardowa 29</string>
+    <string name="CustomTile30">Płytka niestandardowa 30</string>
     <string name="RebootRecovery">Restart do Recovery</string>
     <string name="Reboot">Restart</string>
-    <string name="enter_the_url">Wprowadź adres URL, który chcesz przypisać do tej Płytki QS.</string>
-    <string name="save">Zapisz</string>
-    <string name="Caffeinie">Włącz Ekran</string>
     <string name="ring_mode">Tryb Dźwięku</string>
     <string name="Screen_timeout">Czas Wył Ekranu</string>
     <string name="alarm_tile">Następny Alarm</string>
-    <string name="wake_stopped">Ekran Wł Wyłączona</string>
-    <string name="wake_started">Ekran Wł Aktywna</string>
     <string name="need_dnd">Brak Uprawnień, proszę zezwolić shortcutter na dostęp do DND</string>
     <string name="next_alarm">Następny Alarm
 	    \n</string>
-    <string name="custom_url1">Własny URL
-	    \n1</string>
-    <string name="custom_url2">Własny URL
-	    \n2</string>
-    <string name="custom_url3">Własny URL
-	    \n3</string>
-    <string name="custom_url4">Własny URL
-	    \n4</string>
     <string name="vibrate">Wibracja</string>
     <string name="ring">Dzwonek</string>
     <string name="silent">Cichy</string>
-    <string name="screen_timeout">Czas wył
-	    \n</string>
+    <string name="screen_timeout">Czas wył</string>
     <string name="additonal_perms_req">Wymagane Dodatkowe Uprawnienia</string>
     <string name="notification_policy_message">Niektóre płytki modyfikują ustawienia powiadomień, jeśli nie możemy dostać tych uprawnień w normalnym stylu, trzeba je włączyć. 
 	    \n\nKliknij kontynuuj i zostaniesz przeniesiony do odpowiedniego ekranu.\n</string>
@@ -104,22 +84,15 @@
     <string name="selected">"Wybierz: "</string>
     <string name="camera">Aparat</string>
     <string name="flashlight">Latarka</string>
-    <string name="ambient_disabled">Doze
-	    \nWyłącz</string>
-    <string name="ambient_enabled">Doze
-	    \nWłącz </string>
     <string name="ambient_display">Wyświetlanie Doze</string>
     <string name="reboot_now">Uruchomić Ponownie?</string>
-    <string name="systemuiTuner">SystemUI
-	    \n Tuner</string>
-    <string name="root_available">Twój telefon wydaje się być zrootowany. 
+    <string name="root_available">Twój telefon wydaje się być zrootowany.
 	    \n Przełącz mnie do więcej płytek QS!</string>
     <string name="available_in_prem1">\u2022 Funkcja z limitem &amp; Powiadomienie co 50 kliknięć.</string>
     <string name="available_in_prem3">Użyj Wersji Premium &amp; pokaż @LeeDrOiD swoje wsparcie!</string>
     <string name="ad_supported">Darmowa Wersja Shortcutter</string>
     <string name="disabled">Wyłączone</string>
     <string name="enabled">Włączone</string>
-    <string name="app_info">Informacje o Aplikacji</string>
     <string name="splash_3">Własne Szybkie Ustawienia dla Androida</string>
     <string name="by_leedroid">By @LeeDrOiD</string>
     <string name="welcome_to_shortcutter">Witam w</string>
@@ -133,8 +106,6 @@
 		\n\n</string>
     <string name="confirm">POTWIERDŹ</string>
     <string name="screenshot">Zrzut Ekranu</string>
-    <string name="screenrecord">Nagrywanie
-	    \nEkranu</string>
     <string name="stop_recording">Zatrzymaj Nagrywanie</string>
     <string name="start_recording">Uruchom Nagrywanie</string>
     <string name="screen_recorder">Nagrywanie Ekranu</string>
@@ -203,7 +174,7 @@
     <string name="haptic_tile_title">Płytka Potwierdzenia Wibracją</string>
     <string name="haptic_summary">Przełacz Potwierdzenie Wibracją wł/wył</string>
     <string name="headsup_summary">Przełącz powiadomienia Heads Up</string>
-    <string name="Headsup_tile_title">Płytka Heads Up</string>
+    <string name="headsup">Płytka Heads Up</string>
     <string name="immersive_summary">Ukryj paski stanu i nawigacji</string>
     <string name="immersive_tile_title">Pełny
 	     \nEkran</string>
@@ -232,13 +203,8 @@
     <string name="tuner_summary">Uruchom ukryte ustawienie Androida SystemUI 
 	    \n(Paska Stanu) Tuner</string>
     <string name="tuner_tile_title">Płytka SystemUI Tuner</string>
-    <string name="prem_only">Tylko
-	    \n Premium</string>
+    <string name="prem_only">Tylko Premium</string>
     <string name="settings_secure_needed">Wymagany dostęp do Ustawień Zabezpieczeń</string>
-    <string name="flash_on">Latarka
-	    \nWł</string>
-    <string name="flash_off">Latarka
-	    \nWył</string>
     <string name="flash_summary">Przełącz latarkę aparatu</string>
     <string name="flash_tile_title">Płytka Latarki</string>
     <string name="no_flash">Nie Wykryto Latarki</string>
@@ -281,7 +247,7 @@
     <string name="dice_desc">Generuje liczbę losową
 	    \n(Zmień w Ustawieniach Płytek)</string>
     <string name="auto_step">Auto Kroki Jasności</string>
-  <string name="file_tile">Przeglądarka
+    <string name="file_tile">Przeglądarka
 	    \nPlików</string>
     <string name="file_summary">Uruchamia domyślną przeglądarkę plików</string>
     <string name="new_tweet">Nowy
@@ -300,10 +266,6 @@
     <string name="home">Strona Domowa</string>
     <string name="dice_desc_range">Wybierz własny zakres numerów dla płytki kości</string>
     <string name="dice_tile_range">Płytka Zakresu Kości</string>
-    <string name="nfc_enabled">NFC
-	    \nWłączony</string>
-    <string name="nfc_disabled">NFC
-	    \nWyłączony</string>
     <string name="togglenfc">NFC
 	    \nPrzełącz</string>
     <string name="nfctile">Płytka NFC</string>
@@ -349,13 +311,8 @@
 	    \nOlbrzymia</string>
     <string name="fontscale_sum">Przełącz rozmiar czcionki systemowej</string>
     <string name="font_scale_title">Skalowanie czcionki</string>
-    <string name="powersave_disabled">Oszczędzanie Energii
-	    \nWyłączone</string>
-    <string name="powersave_enabled">Oszczędzanie Energii
-	    \nWłączone</string>
     <string name="power_saver">Oszczędzanie Energii</string>
     <string name="power_save_summary">Przełącz Tryb Oszczędzania Energii</string>
-    <string name="prem_only_option">Funkcje Tylko Premium</string>
     <string name="prem_only_message">Ta funkcja działa tylko na wersji Premium Shortcutter.
 	    \n\nProszę kliknąć IDŹ PREMIUM i otwórz dodatkowe funkcje:
 		\n\n \u2022 Wiecej Własnych Płytek Aplikacji
@@ -364,10 +321,8 @@
 		\n \u2022 Więcej opcji konfiguracji samej aplikacji
 		\n \u2022 usunięcie powiadomienia co 50 kliknięć</string>
     <string name="no_thanks">Nie Dziękuję</string>
-    <string name="add_event">Dodaj
-	    \nWydarzenie</string>
+    <string name="add_event">Dodaj Wydarzenie</string>
     <string name="add_event_summary">Wydarzenie w Kalendarzu</string>
-    <string name="add_event_title">Wydarzenie w Kalendarzu</string>
     <string name="location_not_found">Ustawienia lokalizacji nie znaleziono</string>
     <string name="power_not_found">Ustawień zasilania nie znaleziono</string>
     <string name="nfc_not_found">Ustawienia aktywności NFC nie znaleziono</string>
@@ -407,17 +362,12 @@
     <string name="admin_needed_long">Shortcutter wymaga uprawnienia administratora, aby zablokować ekran urządzenia.
 	    \n\nProszę nacisnąć kontynuuj i włącz prawa Admina aby użyć tych płytek QS.\n\n</string>
     <string name="lock_sum">Powoduje zablokowanie ekranu</string>
-    <string name="immersivemode">Wybierz Tryb Pełnego Ekranu</string>
     <string name="immersive_active">Tryb Pełnego Ekranu Aktywny</string>
     <string name="select_time">Proszę wybrać czas w mm:ss</string>
     <string name="search_tile">Wyszukiwarka</string>
     <string name="search_summary">Otwórz Wyszukiwarkę Google</string>
     <string name="voice_search_tile">Komendy Głosowe</string>
     <string name="voicesearch_sum">Uruchom Asystenta Google</string>
-    <string name="inear_on">Słuchawki
-	    \nWłaczone</string>
-    <string name="inear_off">Słuchawki
-	    \nWyłączone</string>
     <string name="inear_audio">Słuchawki Audio</string>
     <string name="disable">Wyłącz</string>
     <string name="inear_audio_active">Zestaw Słuchawkowy Aktywny</string>
@@ -444,14 +394,10 @@
 	    \nMobilne</string>
     <string name="mob_dat_sum">Przełącz Dane Mobilne on/off</string>
     <string name="toolbox">Shortcutter\nToolbox</string>
-    <string name="immersive_on">Pełny Ekran
-	    \nOn</string>
-    <string name="immersive_off">Pełny Ekran
-	    \nOff</string>
     <string name="wake_active">Wybudzanie Ekranu Aktywne</string>
     <string name="floating_toolbox">Włącz Pasek Boczny Shortcutter </string>
     <string name="float_summary">Przeciągnij Toolbox/Panel</string>
-    <string name="tb_tiles">Shortcutter\nSideBar</string>
+    <string name="tb_tiles">Side Bar</string>
     <string name="email_feedback">Zgłaszanie Błędów E-mailowo</string>
     <string name="submit_review">Napisz opinię</string>
     <string name="rate_app">Oceń Aplikację</string>
@@ -461,7 +407,6 @@
     <string name="new_message_title">Nowy SMS</string>
     <string name="new_tweet_title">Nowy Tweet</string>
     <string name="counter_tile_title">Płytka Klikania</string>
-    <string name="mobile_data">Dane Mobilne</string>
     <string name="show_immersive_activity">Pokaż Wybór Trybów</string>
     <string name="mode_select_summary">Pokazuje okno dialogowe z dodatkowymi opcjami Trybu Pełnego Ekranu.</string>
     <string name="toggle">Przełącz</string>
@@ -477,8 +422,6 @@
     <string name="orientation_mode">Orientacja Ekranu</string>
     <string name="orient_summary">Przełącz Orientację Ekranu</string>
     <string name="counter_reset">Zrestartować licznik do 0?</string>
-    <string name="data_roam_on">Dane w Roamingu Włączone</string>
-    <string name="data_roam_disabled">Dane w Roamingu Wyłączone</string>
     <string name="data_roaming">Dane w Roamingu</string>
     <string name="dataroam_summary">Przełącz Dane w Roamingu</string>
     <string name="quick_tiles_title">Liczba Płytek w Zwiniętym Widoku</string>
@@ -498,8 +441,6 @@
     <string name="trigger_colour_title">Wybierz Kolor Wyzwalania</string>
     <string name="filter_active">Aktywuj Filtr Ekranu</string>
     <string name="filter_colour">Wybierz Kolor Filtra</string>
-    <string name="filter_off">Filtr Ekranu Wył</string>
-    <string name="filter_on">Filtr Ekranu Wł</string>
     <string name="filter_tile_title">Płytka Filtra Ekranu</string>
     <string name="screen_filter">Filtr Ekranu</string>
     <string name="screen_filter_summary">Nakładka filtra ekranu (Tryb Nocny)</string>
@@ -510,12 +451,6 @@
     <string name="sb_columns_title">Kolumny Paska Bocznego</string>
     <string name="design_settings">Motyw/Wygląd</string>
     <string name="leedroid">www.LeeDrOiD.co.uk</string>
-    <string name="round_off">Zaokrąglone
-	    \nNarożniki Wył</string>
-    <string name="round_on">Zaokrąglone
-	    \nNarożniki Wł</string>
-    <string name="round_title">Zaokrąglone
-	    \nNarożniki Wł</string>
     <string name="corners_summary">Używa nakładki, aby uzyskać złudzenie zaokrąglonych narożników ekranu</string>
     <string name="corners_title">Płytka Zaokrąglonych Narożników</string>
     <string name="corners__scale_title">Skalowanie Rogów</string>
@@ -528,8 +463,7 @@
     <string name="how_it_works3">\u2022 Poprzez przesunięcie Paska Bocznego Shortcutter lub Pływający Toolbox</string>
     <string name="how_it_works4">\u2022 Poprzez Ekspozyzcję przełącznika do szuflady aplikacji, który umożliwia mapowanie do Edge Sense i wiele więcej!</string>
     <string name="attention">Proszę zwrócić uwagę jak dodać płytki w instrukcji w zakładce 2.</string>
-    <string name="config_serv">Konfiguruj Usługi/Płytki</string>
-    <string name="wake_tile">Wybudzanie Ekranu</string>
+    <string name="config_serv">Settings</string>
     <string name="screenshot_root">Użyj Metody z Rootem do Zrzutów Ekranu</string>
     <string name="screenshot_root_summary">Tworzy zrzut ekranu przy użyciu systemu</string>
     <string name="corners_active">Okrągłe rogi aktywne</string>
@@ -541,7 +475,6 @@
     <string name="action_toggles">Płytka Akcji</string>
     <string name="info_toggles">Płytka Informacyjna</string>
     <string name="sc_services">Usługi Płytek Shortcutter</string>
-    <string name="custom_url_tiles">Własna Płytka URL</string>
     <string name="google_awareness_key">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
     <string name="weather">Pogoda</string>
     <string name="tap_close">Dotknij aby zamknąć</string>
@@ -586,7 +519,6 @@
     <string name="scdesk">Shortcutter\nZegar na biurku</string>
     <string name="expand_collapse">Toolbox\nExpander</string>
     <string name="expose_toggler">Pokaż Ikonę \"Toolbox Expander\", aby otworzyć lub zamknąć Toolbox lub Pasek Boczny, mapuj do Edge Sense i dużo więcej!</string>
-    <string name="expose_toggler_title">Toolbox Expander</string>
     <string name="permissions">Uprawnienia Aplikacji</string>
     <string name="settings_access">Zapisz Ustawienia Systemu</string>
     <string name="overlay_access">Zastąp Uprawnienia</string>
@@ -622,21 +554,14 @@
     <string name="enjoying">Korzystasz z Shortcutter?</string>
     <string name="counter">Licznik\n+1</string>
     <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp;. Tasker.</string>
-    <string name="wifi_enabled"> Właczone WiFi</string>
-    <string name="wifi_disabled">Wyłączone WiFi</string>
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">Włączone/Wyłączone WiFi</string>
     <string name="wifi_hotspot_summary">Włacz/Wyłącz HotSpot WiFi </string>
     <string name="wifi_toggled">WiFi Przełączone</string>
-    <string name="hotspot">WiFi\nHotspot</string>
     <string name="hotspot_tile">WiFi Hotspot</string>
-    <string name="hotspot_enabled">HotSpot\nWłączony</string>
-    <string name="hotspot_disabled">HotSpot\nWyłączony</string>
     <string name="to_be_toggled">Wybierz pozycje do przełączenia.</string>
     <string name="swipe_out_close">Przesuń, aby zamknąć</string>
     <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
-    <string name="led_enabled">Powiad LED\nWłączone</string>
-    <string name="led_disabled">Powiad LED\nWyłączone</string>
     <string name="notif_led">Powiadomienia LED</string>
     <string name="notif_led_summary">Włączanie / wyłączanie powiadomień LED \\ n (zależne od producenta)</string>
     <string name="system_toggle_summary">Z zastrzeżeniem zgodności OS/producent</string>
@@ -646,7 +571,6 @@
     <string name="info_tiles_sum">Płytki, które zapewniają &amp; powiązują użyteczne informacje o systemie</string>
     <string name="sc_service_sum"><![CDATA[Usługi & funkcje Shortcutter]]></string>
     <string name="cust_app">Tiles that you can assign Applications, Activities &amp; Shortcuts to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
-    <string name="cust_url">Płytki, którym można przypisać adres internetowy</string>
     <string name="cust_sb">Dostosuj wygląd Paska Bocznego lub ToolBoxa</string>
     <string name="behaviour">Zmień zachowanie Płytek</string>
     <string name="perms_now">Wymagane specyficzne ustawienia płytek &amp; funkcji</string>
@@ -669,11 +593,10 @@
     <string name="cust_icon_summary">Select a custom icon background</string>
     <string name="manage_tiles">Manage tiles</string>
     <string name="enable_tiles">Enable/Disable Quick Settings Pull-down Tiles</string>
-    <string name="qs_tiles">Quick Settings\nPull-down</string>
+    <string name="qs_tiles">Pull Down</string>
     <string name="custom_tiles">Custom Tiles</string>
     <string name="sb_tb_settings">SideBar/Toolbox Settings</string>
     <string name="design_sb_settings">Configure your Shortcutter SideBar/ToolBox</string>
-    <string name="launch_icons">Launcher\nIcons</string>
     <string name="enable_tiles_tb">Enable/Disable SideBar Tiles</string>
     <string name="detect_touch">Touch &amp; Swipe Trigger</string>
     <string name="touch_and_swipe">SideBar opens when trigger is touched or swiped\n(up, down or inward)</string>
@@ -693,8 +616,6 @@
     <string name="dim">Dim -</string>
     <string name="dimup">Dim +</string>
     <string name="screen_dim">Screen Dim =&#160;</string>
-    <string name="media_unmuted">Media Unmuted</string>
-    <string name="media_muted">Media Muted</string>
     <string name="mute_media">Mute Media</string>
     <string name="mute_media_summary">Mute your media volume</string>
     <string name="system_perms_message_touches">This option requires the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
@@ -706,8 +627,6 @@
     <string name="quick_settings">Expand QS Panel</string>
     <string name="exp_notif_sum">Expands the notification pulldown</string>
     <string name="qs_sum">Expands the Quick Settings pulldown</string>
-    <string name="bt_enabled">Bluetooth\nWłączone</string>
-    <string name="bt_disabled">Bluetooth\nWyłączone</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bt_summary">Enable/Disable Bluetooth</string>
     <string name="sidebar_off_secure">SideBar suspended:
@@ -717,4 +636,17 @@
     <string name="transparency">Przeźroczystość</string>
     <string name="scale">Scale =&#160;</string>
     <string name="cp_head">TAP CENTER TO CONFIRM OR BACK TO CANCEL</string>
+    <string name="apply">Apply</string>
+    <string name="act">Activity (Advanced)</string>
+    <string name="ap_name">Web Address</string>
+    <string name="app">Application</string>
+    <string name="create_shortcut">Create a Shortcut</string>
+    <string name="enter_url">Enter a Web URL or search term</string>
+    <string name="how_to_summary">A simple overview of what the app offers</string>
+    <string name="round_corners">Rounded Corners</string>
+    <string name="run_without">Continue Without</string>
+    <string name="search_if_invalid">If the URL is not valid, a google search will be performed</string>
+    <string name="shortcut">Shortcut</string>
+    <string name="web">Web Link</string>
+    <string name="xda">XDA Developers Thread</string>
 </resources>

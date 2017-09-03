@@ -2,31 +2,20 @@
 <resources>
     <string name="app_name">Shortcutter</string>
     <string name="cancel">İptal</string>
-    <string name="Autosync">Otomatik Senkronize</string>
-    <string name="LocationMode">Konum Modu</string>
+    <string name="autosync">Otomatik Senkronize</string>
+    <string name="locationMode">Konum Modu</string>
     <string name="HeadsUp">Üst Bildirimler</string>
-    <string name="auto_sync_enabled_toast">Otomatik Senkronize Açık</string>
-    <string name="auto_sync_disabled_toast">Otomatik Senkronize Kapalı</string>
-    <string name="auto_sync_on">Otomatik Senkronize Açık</string>
-    <string name="auto_sync_off">Otomatik Senkronize Kapalı</string>
     <string name="no_perms">İzin yok</string>
     <string name="Off">Kapalı</string>
     <string name="device_only">Sadece GPS</string>
     <string name="battery_saving">Pil Tasarrufu</string>
     <string name="high_accuracy">Yüksek Hassasiyet</string>
-    <string name="heads_up_enabled">Üst Bildirimler Açık</string>
     <string name="special_perms_command">Tamamlandığında onaylamayı tıklayın, erişim test edilecek, başarısız olursa tekrar deneyin.</string>
     <string name="special_perms_required">"Özel erişim izin gerekli
         \n\nÇalıştırmayı Dene: "</string>
-    <string name="wifi_call_disabled">Wi-Fi Telefon Görüşmesi Kapalı</string>
-    <string name="wifi_call_enabled">Wi-Fi Telefon Görüşmesi Açık</string>
-    <string name="WiFiCall">Wi-Fi Telefon Görüşmesi</string>
+    <string name="wifi_call">Wi-Fi Telefon Görüşmesi</string>
     <string name="adb">ADB</string>
-    <string name="adb_disabled">ADB Kapalı</string>
-    <string name="adb_enabled">ADB Açık</string>
     <string name="NetMode">Şebeke Modu</string>
-    <string name="haptic_off">Dokunma Titreşimi Kapalı</string>
-    <string name="haptic_on">Dokunma Titreşimi Açık</string>
     <string name="haptic">Dokunma Titreşimi</string>
     <string name="root_required1">Root Erişimi Gerekli</string>
     <string name="select_net_mode">Şebeke Modu Seçimi</string>
@@ -35,57 +24,48 @@
     <string name="enable_root_features">Root Özelliklerini Etkinleştir</string>
     <string name="root_features_enabled">Root Özellikleri Etkin</string>
     <string name="appicon">Uygulama Simgesi</string>
-    <string name="CustomTile1">Kişisel Uygulama 1</string>
-    <string name="CustomTile2">Kişisel Uygulama 2</string>
-    <string name="CustomTile4">Kişisel Uygulama 4</string>
-    <string name="CustomTile3">Kişisel Uygulama 3</string>
-    <string name="CustomTile5">Kişisel Uygulama 5</string>
-    <string name="CustomTile6">Kişisel Uygulama 6</string>
-    <string name="CustomTile7">Kişisel Uygulama 7</string>
-    <string name="CustomTile8">Kişisel Uygulama 8</string>
-    <string name="CustomTile9">Kişisel Uygulama 9</string>
-    <string name="CustomTile10">Kişisel Uygulama 10</string>
-    <string name="CustomTile11">Kişisel Uygulama 11</string>
-    <string name="CustomTile12">Kişisel Uygulama 12</string>
-    <string name="CustomTile13">Kişisel Uygulama 13</string>
-    <string name="CustomTile14">Kişisel Uygulama 14</string>
-    <string name="CustomTile15">Kişisel Uygulama 15</string>
-    <string name="CustomTile16">Kişisel Uygulama 16</string>
-    <string name="CustomTile17">Kişisel Uygulama 17</string>
-    <string name="CustomTile18">Kişisel Uygulama 18</string>
-    <string name="CustomTile19">Kişisel Uygulama 19</string>
-    <string name="CustomTile20">Kişisel Uygulama 20</string>
-    <string name="EnterUrl">Internet adresi girin</string>
-    <string name="CustomUrl1">Link 1</string>
-    <string name="CustomUrl2">Link 2</string>
-    <string name="CustomUrl3">Link 3</string>
-    <string name="CustomUrl4">Link 4</string>
+    <string name="CustomTile1">Özel Döşeme 1</string>
+    <string name="CustomTile2">Özel Döşeme 2</string>
+    <string name="CustomTile4">Özel Döşeme 4</string>
+    <string name="CustomTile3">Özel Döşeme 3</string>
+    <string name="CustomTile5">Özel Döşeme 5</string>
+    <string name="CustomTile6">Özel Döşeme 6</string>
+    <string name="CustomTile7">Özel Döşeme 7</string>
+    <string name="CustomTile8">Özel Döşeme 8</string>
+    <string name="CustomTile9">Özel Döşeme 9</string>
+    <string name="CustomTile10">Özel Döşeme 10</string>
+    <string name="CustomTile11">Özel Döşeme 11</string>
+    <string name="CustomTile12">Özel Döşeme 12</string>
+    <string name="CustomTile13">Özel Döşeme 13</string>
+    <string name="CustomTile14">Özel Döşeme 14</string>
+    <string name="CustomTile15">Özel Döşeme 15</string>
+    <string name="CustomTile16">Özel Döşeme 16</string>
+    <string name="CustomTile17">Özel Döşeme 17</string>
+    <string name="CustomTile18">Özel Döşeme 18</string>
+    <string name="CustomTile19">Özel Döşeme 19</string>
+    <string name="CustomTile20">Özel Döşeme 20</string>
+    <string name="CustomTile21">Özel Döşeme 21</string>
+    <string name="CustomTile22">Özel Döşeme 22</string>
+    <string name="CustomTile23">Özel Döşeme 23</string>
+    <string name="CustomTile24">Özel Döşeme 24</string>
+    <string name="CustomTile25">Özel Döşeme 25</string>
+    <string name="CustomTile26">Özel Döşeme 26</string>
+    <string name="CustomTile27">Özel Döşeme 27</string>
+    <string name="CustomTile28">Özel Döşeme 28</string>
+    <string name="CustomTile29">Özel Döşeme 29</string>
+    <string name="CustomTile30">Özel Döşeme 30</string>
     <string name="RebootRecovery">Kurtarma Modunda Başlatma</string>
     <string name="Reboot">Yeniden Başlatma</string>
-    <string name="enter_the_url">Bu Hızlı Ayar sekmesine istediğiniz linki yazınız.</string>
-    <string name="save">Sakla</string>
-    <string name="Caffeinie">Uyanık Kal</string>
     <string name="ring_mode">Zil Sesi Modu</string>
     <string name="Screen_timeout">Uyku</string>
     <string name="alarm_tile">Sonraki Alarm</string>
-    <string name="wake_stopped">Uyanık Kal Kapalı</string>
-    <string name="wake_started">Uyanık Kal Açık</string>
     <string name="need_dnd">Uygulama İzni Yok, Lütfen shortcutter için DND izni verin</string>
     <string name="next_alarm">Sonraki Alarm
         \n</string>
-    <string name="custom_url1">Özel Link
-        \n1</string>
-    <string name="custom_url2">Özel Link
-        \n2</string>
-    <string name="custom_url3">Özel Link
-        \n3</string>
-    <string name="custom_url4">Özel Link
-        \n4</string>
     <string name="vibrate">Titreşim</string>
     <string name="ring">Sesli</string>
     <string name="silent">Sessiz</string>
-    <string name="screen_timeout">Uyku Zamanlayıcısı
-        \n</string>
+    <string name="screen_timeout">Uyku Zamanlayıcısı</string>
     <string name="additonal_perms_req">İlave İzinler Gerekli</string>
     <string name="notification_policy_message">Bazı sekmeler bildirim ayarlarını değiştirmeyi gerektirir. Program için bu izni ancak siz verebilirsiniz.
         \n\nGerekli izinlerin verilebileceği ayarlara ulaşmak için tıklayın.\n</string>
@@ -104,14 +84,8 @@
     <string name="selected">"Seçilen: "</string>
     <string name="camera">Kamera</string>
     <string name="flashlight">Fener</string>
-    <string name="ambient_disabled">Doze
-        \nKapalı</string>
-    <string name="ambient_enabled">Doze
-        \nAçık</string>
     <string name="ambient_display">Otomatik Parlaklık</string>
     <string name="reboot_now">Şimdi Yeniden Başlat?</string>
-    <string name="systemuiTuner">Sistem Arayüzü
-        \n Ayarlayıcısı</string>
     <string name="root_available">Cihazınız Rootlu.
         \n Daha fazla sekme eklemek için etkinleştirin!</string>
     <string name="available_in_prem1">\u2022 Limitli Kullanım &amp; 50 Tıklma Bildirimi,
@@ -120,7 +94,6 @@
     <string name="ad_supported">Shortcutter ÜCRETSİZ versiyon</string>
     <string name="disabled">Kapalı</string>
     <string name="enabled">Açık</string>
-    <string name="app_info">Uygulama Bilgisi</string>
     <string name="splash_3">Android durum çubuğu için hızlı ayar sekmeleri</string>
     <string name="by_leedroid">Bu uygulama LeeDrOiD tarafından yapıldı</string>
     <string name="welcome_to_shortcutter">Hoşgeldiniz!</string>
@@ -134,8 +107,6 @@
         \n\n</string>
     <string name="confirm">ONAYLA</string>
     <string name="screenshot">Ekran Görüntüsü</string>
-    <string name="screenrecord">Ekran
-        \nKaydı</string>
     <string name="stop_recording"> Kaydı Durdur</string>
     <string name="start_recording"> Kaydı Başlat</string>
     <string name="screen_recorder">Ekran Kaydedici</string>
@@ -204,7 +175,7 @@
     <string name="haptic_tile_title">Dokunma Titreşimi Sekmesi</string>
     <string name="haptic_summary">Dokunma Titreşimi Aç/Kapat</string>
     <string name="headsup_summary">Üst Bildirimler Şeridi</string>
-    <string name="Headsup_tile_title">Üst Bildirimler Sekmesi</string>
+    <string name="headsup">Üst Bildirimler Sekmesi</string>
     <string name="immersive_summary">Durum Çubuğunu ve Navigasyon Düğmelerini Gizle</string>
     <string name="immersive_tile_title">Tam Ekran
         \nModu</string>
@@ -233,13 +204,8 @@
     <string name="tuner_summary">Gizli Sistem Arayüzü Ayarlarını Aç
         \nÜreticiye bağlı olarak değişiklik gösterebilir</string>
     <string name="tuner_tile_title">Sİstem Arayüzü Ayarları Sekmesi</string>
-    <string name="prem_only">Sadece Premiuma
-        \n Özel</string>
+    <string name="prem_only">Sadece Premiuma Özel</string>
     <string name="settings_secure_needed">Ayarlara erişim izni verilmesi gerekli</string>
-    <string name="flash_on">Fener
-        \nAçık</string>
-    <string name="flash_off">Flashlight
-        \nKapalı</string>
     <string name="flash_summary">Cihazın kamera flaşını açar</string>
     <string name="flash_tile_title">Fener Sekmesi</string>
     <string name="no_flash">Fener Bulunamadı</string>
@@ -282,7 +248,7 @@
     <string name="dice_desc">Zar atar
         \n(Zar sayısını ayarlardan değiştirebilirsiniz)</string>
     <string name="auto_step">Otomatik Parlaklık Kademesi</string>
-   <string name="file_tile">Dosya
+    <string name="file_tile">Dosya
         \nYöneticisi</string>
     <string name="file_summary">Cihazın kendi Dosya Yöneticisini açar</string>
     <string name="new_tweet">Yeni
@@ -301,10 +267,6 @@
     <string name="home">Ana Sayfa</string>
     <string name="dice_desc_range">Zar için bir sayı aralığı seçin</string>
     <string name="dice_tile_range">Zar atma Aralığı</string>
-    <string name="nfc_enabled">NFC
-        \nAçık</string>
-    <string name="nfc_disabled">NFC
-        \nKapalı</string>
     <string name="togglenfc">NFC
         \nAç</string>
     <string name="nfctile">NFC Sekmesi</string>
@@ -349,13 +311,8 @@
         \nEn Büyük</string>
     <string name="fontscale_sum">Sistemin yazı karakteri boyutu</string>
     <string name="font_scale_title">Yazı karakteri ölçüsü</string>
-    <string name="powersave_disabled">Güç Tasarrufu
-        \nKapalı</string>
-    <string name="powersave_enabled">Power Save
-        \nAçık</string>
     <string name="power_saver">Güç Tasarrufu</string>
     <string name="power_save_summary">Güç Tasarrufu </string>
-    <string name="prem_only_option">Premium Versiyon Özelliği</string>
     <string name="prem_only_message">Bu özellik Shortcutter Premium Versiyonda bulunur.
         \n\nBu özellikleri kullanmak için Lütfen Premium Al \'ı tıklayın.
         \n\n \u2022 Daha fazla uygulama sekmesi
@@ -364,10 +321,8 @@
         \n \u2022 Daha fazla uygulama içi ayarlar
         \n \u2022 &amp; 50 tıklama bildirimini kaldır</string>
     <string name="no_thanks">Hayır Teşekkürler</string>
-    <string name="add_event">Etkinlik
-        \nEkle</string>
+    <string name="add_event">Etkinlik Ekle</string>
     <string name="add_event_summary">Takvime etkinlik ekle</string>
-    <string name="add_event_title">Takvime Etkinlik Ekle</string>
     <string name="location_not_found">Konum ayarları aktivite bulunamadı</string>
     <string name="power_not_found">Güç Ayarları aktivite bulunamadı</string>
     <string name="nfc_not_found">NFC ayarları aktivite bulunamadı</string>
@@ -407,17 +362,12 @@
     <string name="admin_needed_long">Shortcutter cihazın ekran kilidini açmak için yönetici izinlerine ihtiyaç duyar.
         \n\nHızlı ayarlar sekmesini kullanabilmek için, Lütfen devam et tıklayın ve yönetici izinlerini verin.\n\n</string>
     <string name="lock_sum">Ekranı kilitler</string>
-    <string name="immersivemode">Tam ekran modu seç</string>
     <string name="immersive_active">Tam ekran modu açık</string>
     <string name="select_time">Lürfen bir süre seçin  dk:sn</string>
     <string name="search_tile">Google Arama Motoru</string>
     <string name="search_summary">Google Araması Açar</string>
     <string name="voice_search_tile">Sesli Komut</string>
     <string name="voicesearch_sum">Google Asistanı açar</string>
-    <string name="inear_on">Kulaklık ses çıkışı
-        \nAçık</string>
-    <string name="inear_off">Kulaklık ses çıkışı
-        \nKapalı</string>
     <string name="inear_audio">Kulaklık ses çıkışı</string>
     <string name="disable">Kapat</string>
     <string name="inear_audio_active">Kulaklık ses çıkışı aktif</string>
@@ -444,14 +394,10 @@
         \nİnternet</string>
     <string name="mob_dat_sum">Mobil İnternet Aç/Kapat</string>
     <string name="toolbox">Alet Kutusu</string>
-    <string name="immersive_on">Tam Ekran
-        \nAçık</string>
-    <string name="immersive_off">Tam Ekran
-        \nKapalı</string>
     <string name="wake_active">Uyanık Kal Açık</string>
     <string name="floating_toolbox">Yan Menü / Alet kutusunu etkinleştir</string>
     <string name="float_summary">Yan menü kaydırma ile yada hareketli ikona dukunularak açılabilir.</string>
-    <string name="tb_tiles">Shortcutter\nSideBar</string>
+    <string name="tb_tiles">Side Bar</string>
     <string name="email_feedback">Email Geri Bildirim</string>
     <string name="submit_review">Yorum Yap</string>
     <string name="rate_app">Uygulamayı Puanlayın</string>
@@ -461,7 +407,6 @@
     <string name="new_message_title">Yeni SMS</string>
     <string name="new_tweet_title">Yeni Tweet</string>
     <string name="counter_tile_title">Sayaç</string>
-    <string name="mobile_data">Mobile Data</string>
     <string name="show_immersive_activity">Mod seçiciyi Göster</string>
     <string name="mode_select_summary">Tam ekran modlarını gösteren bir kutu açar.</string>
     <string name="toggle">Aç</string>
@@ -477,8 +422,6 @@
     <string name="orientation_mode">Ekran Döndürme</string>
     <string name="orient_summary">Ekran Döndürmeyi Aç</string>
     <string name="counter_reset">Sayacı sıfırla?</string>
-    <string name="data_roam_on">Yurt dışı mobil internet kullanımı Açık</string>
-    <string name="data_roam_disabled">Yurt dışı mobil internet kullanımı Kapalı</string>
     <string name="data_roaming">Yurt dışı mobil internet kullanımı</string>
     <string name="dataroam_summary">Yurt dışı mobil internet kullanımı Aç</string>
     <string name="quick_tiles_title">Ufaltılmış durum çubuğu sekme sayısı</string>
@@ -498,8 +441,6 @@
     <string name="trigger_colour_title">Tetitk rengi seç</string>
     <string name="filter_active">Ekran Filtresi Açık</string>
     <string name="filter_colour">Filtre Rengi Seç</string>
-    <string name="filter_off">Ekran Filtresi\nKapalı</string>
-    <string name="filter_on">Ekran Filtresi\nAçık</string>
     <string name="filter_tile_title">Ekran Filtresi</string>
     <string name="screen_filter">Ekran Filtresi</string>
     <string name="screen_filter_summary">Gece kullanımında ekranın gözünüzü yormasını azaltan bir ekran filtresi</string>
@@ -510,12 +451,6 @@
     <string name="sb_columns_title">Yan Menü Kolonları</string>
     <string name="design_settings">Tema / Düzen</string>
     <string name="leedroid">www.LeeDrOiD.co.uk</string>
-    <string name="round_off">Köşe
-        \nYuvarlama Kapalı</string>
-    <string name="round_on">Köşe
-        \nKöşe Yuvarlama Açık</string>
-    <string name="round_title">Köşe
-        \nYuvarlama</string>
     <string name="corners_summary">Köşeleri yuvarlatılmış olarak göstermek için köşelere giydirme yapar</string>
     <string name="corners_title">Yuvarlak Köşeler</string>
     <string name="corners__scale_title">Ekran Köşesi Boyutu</string>
@@ -528,8 +463,7 @@
     <string name="how_it_works3">\u2022 Shortcutter Yan Menü veya Hareketli Araç Kutusu ile</string>
     <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
     <string name="attention">Lütfen 2. kısımdaki sekme ekleme klavuzuna dikkatlice gözatın.</string>
-    <string name="config_serv">Kısa yolları\nAyarla</string>
-    <string name="wake_tile">Uyandır</string>
+    <string name="config_serv">Settings</string>
     <string name="screenshot_root">Root ile ekran görüntüsü alma metodu</string>
     <string name="screenshot_root_summary">Sistem uygulaması yoluyla ekran görüntüsü alır.</string>
     <string name="corners_active">Yuvarlatılmış Köşeler açık</string>
@@ -540,7 +474,6 @@
     <string name="action_toggles">Eylemler Sekmesi</string>
     <string name="info_toggles">Bilgi Sekmesi</string>
     <string name="sc_services">Shortcutter Servis Sekmesi</string>
-    <string name="custom_url_tiles">Özel URL Sekmeleri</string>
     <string name="google_awareness_key">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
     <string name="weather">Hava Durumu</string>
     <string name="tap_close">Kapatmak için tıklayın</string>
@@ -585,7 +518,6 @@
     <string name="scdesk">Shortcutter\nMasa Saati</string>
     <string name="expand_collapse">Araç Kutusu\nGenişletici</string>
     <string name="expose_toggler">İkon \"Yan Menü Genişletici\" Yan Menü / Araç Çubuğunu açıp Kapatmak için, bu aynı zamanda  HTC Sense gibi cihazların 2. ekranına da uygulanabilir &amp; Görev Yöneticisi.</string>
-    <string name="expose_toggler_title">Yan Menü Genişletici</string>
     <string name="permissions">Uygulama İzinleri</string>
     <string name="settings_access">Sistem ayarlarının üzerine yaz</string>
     <string name="overlay_access">Ekran üstüne yazma izinleri</string>
@@ -620,21 +552,14 @@
     <string name="review">\n Play Store \'da\Yüksek bir puan verir ve güzel bir yorum yaparsınız artık :)</string>
     <string name="enjoying">Shortcutter Hoşunuza gitti mi?</string>
     <string name="counter">Sayaç\n+1</string>
-    <string name="wifi_enabled">WiFi Açık</string>
-    <string name="wifi_disabled">WiFi Kapalı</string>
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">Aç/Kapat WiFi</string>
     <string name="wifi_hotspot_summary">Aç/Kapat WiFi HotSpot (Mobil internet paylaşımı)</string>
     <string name="wifi_toggled">WiFi Açıldı</string>
-    <string name="hotspot">WiFi\nHotspot</string>
     <string name="hotspot_tile">WiFi Hotspot</string>
-    <string name="hotspot_enabled">İnternet Paylaşımı\nAçık</string>
-    <string name="hotspot_disabled">İnternet Paylaşımı\nKapalı</string>
     <string name="to_be_toggled">Eklemek istediklerinizi seçin.</string>
     <string name="swipe_out_close">Kapatmak için kaydırın</string>
     <string name="obscure_back"><![CDATA[Ekranı karart]]></string>
-    <string name="led_enabled">LED Bildirimler\nAçık</string>
-    <string name="led_disabled">LED Bildirimler\nKapalı</string>
     <string name="notif_led">LED Bildirimler</string>
     <string name="notif_led_summary">LED Bildirimleri Aç/Kapat\n(Cihaz üreticisine göre değişir)</string>
     <string name="system_toggle_summary">Anroid versiyonu / üretici uyumluluğu</string>
@@ -644,7 +569,6 @@
     <string name="info_tiles_sum">Faydalı sistem bilgilerine ulaşım için &amp; sekmeler</string>
     <string name="sc_service_sum"><![CDATA[Shortcutter tarafından sunulan Servisler & Özellikler]]></string>
     <string name="cust_app">Tiles that you can assign Applications, Activities &amp; Shortcuts to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
-    <string name="cust_url">WEB adreslerini açmak için kullanılabilecek sekmeler to</string>
     <string name="cust_sb">Yan Menüyü / Araç Kutusunu kişiselleştirme, &amp; ve nasıl çalışacağını ayarlama</string>
     <string name="behaviour">Sekmelerin nasıl çalışacağını seçin</string>
     <string name="perms_now">Bazı özellikler ve sekmeler için &amp; izin gerekli</string>
@@ -667,11 +591,10 @@
     <string name="cust_icon_summary">İkon için arka plan seçin</string>
     <string name="manage_tiles">Sekmeleri Yönet</string>
     <string name="enable_tiles">Aç/Kapat Aşağı açılır Durum Çubuğu Sekmeleri</string>
-    <string name="qs_tiles">Aşağı açılan\nDurum Çubuğu Sekmeleri</string>
+    <string name="qs_tiles">Pull Down</string>
     <string name="custom_tiles">Özel Sekmeler</string>
     <string name="sb_tb_settings">Yan Menü / Araç Çubuğu Ayarları</string>
     <string name="design_sb_settings">Shortcutter Yan Menü / Araç Çubuğu ayarlarını yapın</string>
-    <string name="launch_icons">Ana Ekran Programı\nIkonları</string>
     <string name="enable_tiles_tb">Aç/Kapat Yan Menü Sekmeleri</string>
     <string name="detect_touch">Touch &amp; Swipe Trigger</string>
     <string name="touch_and_swipe">SideBar opens when trigger is touched or swiped\n(up, down or inward)</string>
@@ -691,8 +614,6 @@
     <string name="dim">Dim -</string>
     <string name="dimup">Dim +</string>
     <string name="screen_dim">Screen Dim =&#160;</string>
-    <string name="media_unmuted">Media Unmuted</string>
-    <string name="media_muted">Media Muted</string>
     <string name="mute_media">Mute Media</string>
     <string name="mute_media_summary">Mute your media volume</string>
     <string name="system_perms_message_touches">This option requires the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
@@ -704,8 +625,6 @@
     <string name="quick_settings">Expand QS Panel</string>
     <string name="exp_notif_sum">Expands the notification pulldown</string>
     <string name="qs_sum">Expands the Quick Settings pulldown</string>
-    <string name="bt_enabled">Bluetooth\nEnabled</string>
-    <string name="bt_disabled">Bluetooth\nDisabled</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bt_summary">Enable/Disable Bluetooth</string>
     <string name="sidebar_off_secure">SideBar suspended:
@@ -718,4 +637,17 @@
     <string name="scale">Scale =&#160;</string>
     <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp;. Tasker.</string>
     <string name="cp_head">TAP CENTER TO CONFIRM OR BACK TO CANCEL</string>
+    <string name="apply">Apply</string>
+    <string name="act">Activity (Advanced)</string>
+    <string name="ap_name">Web Address</string>
+    <string name="app">Application</string>
+    <string name="create_shortcut">Create a Shortcut</string>
+    <string name="enter_url">Enter a Web URL or search term</string>
+    <string name="how_to_summary">A simple overview of what the app offers</string>
+    <string name="round_corners">Rounded Corners</string>
+    <string name="run_without">Continue Without</string>
+    <string name="search_if_invalid">If the URL is not valid, a google search will be performed</string>
+    <string name="shortcut">Shortcut</string>
+    <string name="web">Web Link</string>
+    <string name="xda">XDA Developers Thread</string>
 </resources>

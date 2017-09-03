@@ -2,31 +2,20 @@
 <resources>
     <string name="app_name">Shortcutter</string>
     <string name="cancel">Cancel</string>
-    <string name="Autosync">Auto Sync</string>
-    <string name="LocationMode">Location Mode</string>
+    <string name="autosync">Auto Sync</string>
+    <string name="locationMode">Location Mode</string>
     <string name="HeadsUp">Heads Up</string>
-    <string name="auto_sync_enabled_toast">Auto Sync Enabled</string>
-    <string name="auto_sync_disabled_toast">Auto Sync Disabled</string>
-    <string name="auto_sync_on">Auto Sync On</string>
-    <string name="auto_sync_off">Auto Sync Off</string>
     <string name="no_perms">No Permissions</string>
     <string name="Off">Off</string>
     <string name="device_only">Device Only</string>
     <string name="battery_saving">Battery Saving</string>
     <string name="high_accuracy">High Accuracy</string>
-    <string name="heads_up_enabled">Heads Up Enabled</string>
     <string name="special_perms_command">Once complete, click confirm &amp; we will test access, if the command failed, try again.</string>
     <string name="special_perms_required">"Special permission required
         \n\nTry running: "</string>
-    <string name="wifi_call_disabled">Wi-Fi Calling Disabled</string>
-    <string name="wifi_call_enabled">Wi-Fi Calling Enabled</string>
-    <string name="WiFiCall">Wi-Fi Calling</string>
+    <string name="wifi_call">Wi-Fi Calling</string>
     <string name="adb">ADB</string>
-    <string name="adb_disabled">ADB Disabled</string>
-    <string name="adb_enabled">ADB Enabled</string>
     <string name="NetMode">Network Mode</string>
-    <string name="haptic_off">Haptic Feedback Off</string>
-    <string name="haptic_on">Haptic Feedback On</string>
     <string name="haptic">Haptic Feedback</string>
     <string name="root_required1">Root access required to complete</string>
     <string name="select_net_mode">Select Network Mode</string>
@@ -55,37 +44,28 @@
     <string name="CustomTile18">Custom Tile 18</string>
     <string name="CustomTile19">Custom Tile 19</string>
     <string name="CustomTile20">Custom Tile 20</string>
-    <string name="EnterUrl">Enter Custom URL</string>
-    <string name="CustomUrl1">Custom URL 1</string>
-    <string name="CustomUrl2">Custom URL 2</string>
-    <string name="CustomUrl3">Custom URL 3</string>
-    <string name="CustomUrl4">Custom URL 4</string>
+    <string name="CustomTile21">Custom Tile 21</string>
+    <string name="CustomTile22">Custom Tile 22</string>
+    <string name="CustomTile23">Custom Tile 23</string>
+    <string name="CustomTile24">Custom Tile 24</string>
+    <string name="CustomTile25">Custom Tile 25</string>
+    <string name="CustomTile26">Custom Tile 26</string>
+    <string name="CustomTile27">Custom Tile 27</string>
+    <string name="CustomTile28">Custom Tile 28</string>
+    <string name="CustomTile29">Custom Tile 29</string>
+    <string name="CustomTile30">Custom Tile 30</string>
     <string name="RebootRecovery">Reboot Recovery</string>
     <string name="Reboot">Reboot</string>
-    <string name="enter_the_url">Enter the URL you wish to assign to this QS Tile.</string>
-    <string name="save">Save</string>
-    <string name="Caffeinie">Screen Wake</string>
     <string name="ring_mode">Ring Mode</string>
     <string name="Screen_timeout">Screen Timeout</string>
     <string name="alarm_tile">Next Alarm</string>
-    <string name="wake_stopped">Screen Wake Off</string>
-    <string name="wake_started">Screen Wake On</string>
     <string name="need_dnd">No Permissions, please allow shortcutter to override DND</string>
     <string name="next_alarm">Next Alarm
         \n</string>
-    <string name="custom_url1">Custom URL
-        \n1</string>
-    <string name="custom_url2">Custom URL
-        \n2</string>
-    <string name="custom_url3">Custom URL
-        \n3</string>
-    <string name="custom_url4">Custom URL
-        \n4</string>
     <string name="vibrate">Vibrate</string>
     <string name="ring">Ring</string>
     <string name="silent">Silent</string>
-    <string name="screen_timeout">Timeout
-        \n</string>
+    <string name="screen_timeout">Timeout</string>
     <string name="additonal_perms_req">Additional Permissions Required</string>
     <string name="notification_policy_message">Some shortcuts require the ability to modify notification settings, as we cannot request these permissions in the normal fasion, you will need to enable them.
         \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
@@ -95,7 +75,7 @@
     <string name="press_back">Press back to return once enabled.</string>
     <string name="credits">Credits</string>
     <string name="full_title">Shortcutter Quick Settings</string>
-    <string name="thanks_for_support">"   Thanks for your support!  :)"</string>
+    <string name="thanks_for_support">"Thanks for your support!  :)"</string>
     <string name="premuim">Shortcutter Premium</string>
     <string name="confirm_disable_root">You are about to disable all ROOT features, this will remove any QS tiles that require ROOT access.
         \n\nDo you want to proceed?</string>
@@ -104,14 +84,8 @@
     <string name="selected">"Selected: "</string>
     <string name="camera">Camera</string>
     <string name="flashlight">Flashlight</string>
-    <string name="ambient_disabled">Doze
-        \nDisabled</string>
-    <string name="ambient_enabled">Doze
-        \nEnabled</string>
     <string name="ambient_display">Doze Display</string>
     <string name="reboot_now">Reboot Now?</string>
-    <string name="systemuiTuner">SystemUI
-        \n Tuner</string>
     <string name="root_available">Your device appears to be rooted.
         \n Toggle me for more QS Tiles!</string>
     <string name="available_in_prem1">Limited features &amp; a notification every 50 clicks.</string>
@@ -119,7 +93,6 @@
     <string name="ad_supported">Shortcutter FREE</string>
     <string name="disabled">Disabled</string>
     <string name="enabled">Enabled</string>
-    <string name="app_info">App Information</string>
     <string name="splash_3">Custom Quick Settings for Android</string>
     <string name="by_leedroid">Created By LeeDrOiD</string>
     <string name="welcome_to_shortcutter">Welcome To</string>
@@ -132,8 +105,6 @@
         \n\n</string>
     <string name="confirm">CONFIRM</string>
     <string name="screenshot">Screenshot</string>
-    <string name="screenrecord">Screen
-        \nRecord</string>
     <string name="stop_recording">Stop Recording</string>
     <string name="start_recording">Start Recording</string>
     <string name="screen_recorder">Screen Recorder</string>
@@ -202,7 +173,7 @@
     <string name="haptic_tile_title">Haptic Feeback</string>
     <string name="haptic_summary">Toggle Haptic Feeback on/off</string>
     <string name="headsup_summary">Toggle Heads Up notifications</string>
-    <string name="Headsup_tile_title">Heads Up</string>
+    <string name="headsup">Heads Up</string>
     <string name="immersive_summary">Hide the status &amp; navigation bars</string>
     <string name="immersive_tile_title">Immersive
         \nMode</string>
@@ -230,14 +201,9 @@
     <string name="wake_tile_title">Screen Wake</string>
     <string name="tuner_summary">Launch the hidden SystemUI Tuner
         \nFunctionality is Manufacturer dependent</string>
-    <string name="tuner_tile_title">SystemUI Tuner Tile</string>
-    <string name="prem_only">Premium
-        \n Only</string>
+    <string name="tuner_tile_title">SystemUI Tuner</string>
+    <string name="prem_only">Premium Only</string>
     <string name="settings_secure_needed">Settings Secure access required</string>
-    <string name="flash_on">Flashlight
-        \nOn</string>
-    <string name="flash_off">Flashlight
-        \nOff</string>
     <string name="flash_summary">Toggle the camera flashlight</string>
     <string name="flash_tile_title">Flashlight</string>
     <string name="no_flash">No Flashlight Detected</string>
@@ -299,10 +265,6 @@
     <string name="home">Home</string>
     <string name="dice_desc_range">Select a custom number range for the Dice Tile</string>
     <string name="dice_tile_range">Dice Tile Range</string>
-    <string name="nfc_enabled">NFC
-        \nEnabled</string>
-    <string name="nfc_disabled">NFC
-        \nDisabled</string>
     <string name="togglenfc">NFC
         \nToggle</string>
     <string name="nfctile">NFC</string>
@@ -348,13 +310,8 @@
         \nLargest</string>
     <string name="fontscale_sum">Toggle system font size</string>
     <string name="font_scale_title">Font Scale</string>
-    <string name="powersave_disabled">Power Save
-        \nDisabled</string>
-    <string name="powersave_enabled">Power Save
-        \nEnabled</string>
     <string name="power_saver">Power Saver</string>
     <string name="power_save_summary">Toggle Power Saving mode</string>
-    <string name="prem_only_option">Premium Only Feature</string>
     <string name="prem_only_message">This feature is only available in the Premium version of Shortcutter.
         \n\nPlease click GO PREMIUM now to enable the following features:
         \n\n \u2022 Additional Custom Tiles
@@ -363,10 +320,8 @@
         \n \u2022 Additional in-app configuration options
         \n \u2022 &amp; Remove the 50 tile click notification</string>
     <string name="no_thanks">No Thanks</string>
-    <string name="add_event">Add
-        \nEvent</string>
+    <string name="add_event">Add Event</string>
     <string name="add_event_summary">Add A Calendar Event</string>
-    <string name="add_event_title">Add Calendar Event</string>
     <string name="location_not_found">Location settings activity not found</string>
     <string name="power_not_found">Power settings activity not found</string>
     <string name="nfc_not_found">NFC settings activity not found</string>
@@ -408,17 +363,12 @@
         \u2022Lock your device screen
         \n\nPlease press proceed &amp; enable Admin rights to use this Shortcut.\n\n</string>
     <string name="lock_sum">Locks your screen</string>
-    <string name="immersivemode">Select Immersive Mode</string>
     <string name="immersive_active">Immersive Mode Active</string>
     <string name="select_time">Please select a time in mm:ss</string>
     <string name="search_tile">Web Search</string>
     <string name="search_summary">Opens Google Search</string>
     <string name="voice_search_tile">Voice Command</string>
     <string name="voicesearch_sum">Launch Google Assistant</string>
-    <string name="inear_on">In Ear
-        \nEnabled</string>
-    <string name="inear_off">In Ear
-        \nDisabled</string>
     <string name="inear_audio">In Ear Audio</string>
     <string name="disable">Disable</string>
     <string name="inear_audio_active">In Ear Audio Active</string>
@@ -436,24 +386,19 @@
     <string name="play_pause">Play/Pause Music</string>
     <string name="play_pause_sum">Play &amp; Pause music</string>
     <string name="overlay_needed"><![CDATA[Several Shortcutter services require the Draw System Overlay permission to run, these include:\n
-    \n\u2022 SideBar/Floating Toolbox
+    \n\u2022 Side Bar/Floating Toolbox
     \n\u2022 Screen Filter/Night Mode
     \n\u2022 Rounded Corners
     \n\u2022 Network Mode Dialogs
     \n\nPlease click proceed & grant the required permission.\n]]></string>
     <string name="overlay_required">System overlay permissions required</string>
-    <string name="mob_data">Mobile
-        \nData</string>
+    <string name="mob_data">Mobile Data</string>
     <string name="mob_dat_sum">Toggle mobile data on/off</string>
     <string name="toolbox">Toolbox</string>
-    <string name="immersive_on">Immersive
-        \nOn</string>
-    <string name="immersive_off">Immersive
-        \nOff</string>
     <string name="wake_active">Screen Wake Active</string>
-    <string name="floating_toolbox">Enable The SideBar/Toolbox</string>
-    <string name="float_summary">A SideBar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
-    <string name="tb_tiles">Shortcutter\nSideBar</string>
+    <string name="floating_toolbox">Enable The Side Bar/Toolbox</string>
+    <string name="float_summary">A Side Bar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
+    <string name="tb_tiles">Side Bar</string>
     <string name="email_feedback">Email Feedback</string>
     <string name="submit_review">Leave A Review</string>
     <string name="rate_app">Rate The App</string>
@@ -463,7 +408,6 @@
     <string name="new_message_title">New SMS</string>
     <string name="new_tweet_title">New Tweet</string>
     <string name="counter_tile_title">Clicker</string>
-    <string name="mobile_data">Mobile Data</string>
     <string name="show_immersive_activity">Show Mode Selector</string>
     <string name="mode_select_summary">Shows a popup dialog with additional Immersive Mode options.</string>
     <string name="toggle">Toggle</string>
@@ -479,15 +423,13 @@
     <string name="orientation_mode">Screen Rotation</string>
     <string name="orient_summary">Toggle Screen Rotation</string>
     <string name="counter_reset">Reset counter to 0?</string>
-    <string name="data_roam_on">Data Roaming Enabled</string>
-    <string name="data_roam_disabled">Data Roaming Disabled</string>
     <string name="data_roaming">Data Roaming</string>
     <string name="dataroam_summary">Toggle Data Roaming</string>
     <string name="quick_tiles_title">Change Number Of Tiles In Collapsed View</string>
-    <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed pull-down.
+    <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed pulldown.
         \nThis MOD is manufacturer dependent.</string>
-    <string name="sidebar">SideBar or Floating Toolbox</string>
-    <string name="sidebar_summary">Choose between the Swipe Out SideBar or Floating Toolbox.</string>
+    <string name="sidebar">Side Bar or Floating Toolbox</string>
+    <string name="sidebar_summary">Choose between the Swipe Out Side Bar or Floating Toolbox.</string>
     <string name="sidebar_pos">Horizontal Trigger Position</string>
     <string name="right">Current Position Right</string>
     <string name="left_position">Current Position Left</string>
@@ -500,8 +442,6 @@
     <string name="trigger_colour_title">Trigger Colour</string>
     <string name="filter_active">Screen Filter Active</string>
     <string name="filter_colour">Select Filter Colour</string>
-    <string name="filter_off">Screen Filter\nOff</string>
-    <string name="filter_on">Screen Filter\nOn</string>
     <string name="filter_tile_title">Screen Filter</string>
     <string name="screen_filter">Screen Filter</string>
     <string name="screen_filter_summary">A screen filter to reduce eye strain at night (Night Mode)</string>
@@ -509,15 +449,9 @@
     <string name="sideber_tmb_title">Vertical Trigger Position</string>
     <string name="tb_columns_title">Toolbox Columns</string>
     <string name="tb_columns_summary">Current = %s columns</string>
-    <string name="sb_columns_title">SideBar Columns</string>
+    <string name="sb_columns_title">Side Bar Columns</string>
     <string name="design_settings">Theme &amp; Behaviour</string>
     <string name="leedroid">www.LeeDrOiD.co.uk</string>
-    <string name="round_off">Rounded
-        \nCorners Off</string>
-    <string name="round_on">Rounded
-        \nCorners On</string>
-    <string name="round_title">Rounded
-        \nCorners</string>
     <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
     <string name="corners_title">Rounded Corners</string>
     <string name="corners__scale_title">Screen Corner Scale</string>
@@ -526,24 +460,22 @@
     <string name="corner_colour">Select Corner Colour</string>
     <string name="how_it_works">How It works</string>
     <string name="how_it_works1">Shortcutter offers several different options to access an array of shortcuts, settings &amp; services.</string>
-    <string name="how_it_works2">\u2022 Via your Quick Settings Pull-down</string>
-    <string name="how_it_works3">\u2022 Via the Shortcutter Swipe out SideBar or Floating Toolbox</string>
+    <string name="how_it_works2">\u2022 Via your Quick Settings Pulldown</string>
+    <string name="how_it_works3">\u2022 Via the Shortcutter Swipe out Side Bar or Floating Toolbox</string>
     <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!</string>
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
-    <string name="config_serv">Configure\nServices</string>
-    <string name="wake_tile">Screen Wake</string>
+    <string name="config_serv">Settings</string>
     <string name="screenshot_root">Use Root Screenshot Method</string>
     <string name="screenshot_root_summary">Produces a screenshot using the system screencap binary</string>
     <string name="corners_active">Round Corners Active</string>
     <string name="misc_cat">Expose Launcher Toggles</string>
     <string name="misc_tiles_cat">Miscellaneous Tile Settings</string>
-    <string name="fancy_anim">Reflow Pull-down Animation</string>
-    <string name="fancy_summary">Enable/Disable the fancy reflow pull-down animation (Not compatible with all devices)</string>
+    <string name="fancy_anim">Reflow Pulldown Animation</string>
+    <string name="fancy_summary">Enable/Disable the fancy reflow pull down animation (Not compatible with all devices)</string>
     <string name="system_toggles">System Setting Tiles</string>
     <string name="action_toggles">Action Tiles</string>
     <string name="info_toggles">Information Tiles</string>
     <string name="sc_services">Shortcutter Service Tiles</string>
-    <string name="custom_url_tiles">Custom URL Tiles</string>
     <string name="google_awareness_key">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
     <string name="weather">Weather Info</string>
     <string name="tap_close">Touch to close</string>
@@ -586,17 +518,16 @@
     <string name="deskmode">Desk Clock\nMode</string>
     <string name="lightmode">Night Light\nMode</string>
     <string name="scdesk">Shortcutter\nDesk Clock</string>
-    <string name="expand_collapse">SideBar\nExpander</string>
-    <string name="expose_toggler">Enable the \"SideBar Expander\" icon to open/close the SideBar or ToolBox, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp; Tasker.</string>
-    <string name="expose_toggler_title">SideBar Expander</string>
-    <string name="permissions">App Permissions</string>
+    <string name="expand_collapse">Side Bar Expander</string>
+    <string name="expose_toggler">Enable the \"Side Bar Expander\" icon to open/close the Side Bar or ToolBox to toggle the Side Bar from your home screen or other apps</string>
+    <string name="permissions">Manage Permissions</string>
     <string name="settings_access">Write System Settings</string>
     <string name="overlay_access">Overlay Permissions</string>
     <string name="acc_access">Accessibility Access</string>
     <string name="dnd_access">Do Not Disturb Access</string>
     <string name="usage_access">Data Usage</string>
     <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
-    <string name="overlay_summary">Usage: Floating SideBar/ToolBox, Screen Filter &amp; Rounded Corners</string>
+    <string name="overlay_summary">Usage: Floating Side Bar/ToolBox, Screen Filter &amp; Rounded Corners</string>
     <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Expand Notifications &amp; Quick Settings, Screen Filter &amp; Rounded Corners</string>
     <string name="dnd_summary">Usage: Ring Mode</string>
     <string name="usage_summary">Usage: Data Usage Tile</string>
@@ -624,21 +555,14 @@
     <string name="enjoying">Enjoying Shortcutter?</string>
     <string name="counter">Counter\n+1</string>
     <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp;. Tasker.</string>
-    <string name="wifi_enabled">WiFi Enabled</string>
-    <string name="wifi_disabled">WiFi Disabled</string>
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">Enable/Disable WiFi</string>
     <string name="wifi_hotspot_summary">Enable/Disable WiFi HotSpot</string>
     <string name="wifi_toggled">WiFi Toggled</string>
-    <string name="hotspot">WiFi\nHotspot</string>
     <string name="hotspot_tile">WiFi Hotspot</string>
-    <string name="hotspot_enabled">HotSpot\nEnabled</string>
-    <string name="hotspot_disabled">HotSpot\nDisabled</string>
     <string name="to_be_toggled">Choose entries to be toggled.</string>
     <string name="swipe_out_close">Swipe left/right to close</string>
     <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
-    <string name="led_enabled">Notif LED\nEnabled</string>
-    <string name="led_disabled">Notif LED\nDisabled</string>
     <string name="notif_led">Notification LED</string>
     <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
     <string name="system_toggle_summary">Subject to OS/manufacturer compatibility</string>
@@ -647,11 +571,10 @@
     <string name="system_actions">Tiles to toggle/launch system actions</string>
     <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
     <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
-    <string name="cust_app">Tiles that you can assign Applications, Activities &amp; Shortcuts to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
-    <string name="cust_url">Tiles that you can assign web addresses to</string>
-    <string name="cust_sb">Customise the look, feel &amp; behaviour of the SideBar or ToolBox</string>
+    <string name="cust_app">Tiles that you can assign Applications, Activities, Shortcuts &amp; Web Links to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
+    <string name="cust_sb">Customise the look, feel &amp; behaviour of the Side Bar or ToolBox</string>
     <string name="behaviour">Change the behaviour of Tiles</string>
-    <string name="perms_now">Permissions required for specific tiles &amp; features</string>
+    <string name="perms_now">These will be requested when enabling services.</string>
     <string name="forceEnglish">Force English</string>
     <string name="force_eng_summary">Run the app in the English Language</string>
     <string name="xiaomi">Your device requires applications to be granted auto start permissions, Shortcutter background services will be killed if this is not enabled.\n\nPlease click Proceed &amp; enable auto start for Shortcutter.</string>
@@ -670,18 +593,17 @@
     <string name="custom_icon">Tile Icon Background</string>
     <string name="cust_icon_summary">Select a custom icon background</string>
     <string name="manage_tiles">Manage tiles</string>
-    <string name="enable_tiles">Enable/Disable Quick Settings Pull-down Tiles</string>
-    <string name="qs_tiles">Quick Settings\nPull-down</string>
+    <string name="enable_tiles">Enable/Disable Quick Settings Pull Down Tiles</string>
+    <string name="qs_tiles">Pull Down</string>
     <string name="custom_tiles">Custom Tiles</string>
-    <string name="sb_tb_settings">SideBar/Toolbox Settings</string>
-    <string name="design_sb_settings">Configure your Shortcutter SideBar/ToolBox</string>
-    <string name="launch_icons">Launcher\nIcons</string>
-    <string name="enable_tiles_tb">Enable/Disable SideBar Tiles</string>
+    <string name="sb_tb_settings">Side Bar/Toolbox Settings</string>
+    <string name="design_sb_settings">Configure your Shortcutter Side Bar/ToolBox</string>
+    <string name="enable_tiles_tb">Enable/Disable Side Bar Tiles</string>
     <string name="detect_touch">Touch &amp; Swipe Trigger</string>
-    <string name="touch_and_swipe">SideBar opens when trigger is touched or swiped\n(up, down or inward)</string>
-    <string name="swipe_only">SideBar opens when swiped\n(up, down or inward)</string>
-    <string name="hide_header_sum">SideBar/ToolBox header removed</string>
-    <string name="hide_header_off_sum">SideBar/ToolBox header visible</string>
+    <string name="touch_and_swipe">Side Bar opens when trigger is touched or swiped\n(up, down or inward)</string>
+    <string name="swipe_only">Side Bar opens when swiped\n(up, down or inward)</string>
+    <string name="hide_header_sum">Side Bar/ToolBox header removed</string>
+    <string name="hide_header_off_sum">Side Bar/ToolBox header visible</string>
     <string name="capture_quality">Capture Quality</string>
     <string name="share">Share</string>
     <string name="delete">Delete</string>
@@ -695,8 +617,6 @@
     <string name="dim">Dim -</string>
     <string name="dimup">Dim +</string>
     <string name="screen_dim">Screen Dim =&#160;</string>
-    <string name="media_unmuted">Media Unmuted</string>
-    <string name="media_muted">Media Muted</string>
     <string name="mute_media">Mute Media</string>
     <string name="mute_media_summary">Mute your media volume</string>
     <string name="system_perms_message_touches">This option requires the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
@@ -708,12 +628,26 @@
     <string name="quick_settings">Expand QS Panel</string>
     <string name="exp_notif_sum">Expands the notification pulldown</string>
     <string name="qs_sum">Expands the Quick Settings pulldown</string>
-    <string name="bt_enabled">Bluetooth\nEnabled</string>
-    <string name="bt_disabled">Bluetooth\nDisabled</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bt_summary">Enable/Disable Bluetooth</string>
-    <string name="sidebar_off_secure">SideBar suspended:
+    <string name="sidebar_off_secure">Side Bar suspended:
         \nSecure activity detected</string>
     <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
     <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
+    <string name="cp_head">TAP CENTER TO CONFIRM OR BACK TO CANCEL</string>
+    <string name="transparency">Transparency</string>
+    <string name="apply">Apply</string>
+    <string name="scale">Scale =&#160;</string>
+    <string name="how_to_summary">A simple overview of what the app offers</string>
+    <string name="run_without">Continue Without</string>
+    <string name="xda">XDA Developers Thread</string>
+    <string name="ap_name">Web Address</string>
+    <string name="round_corners">Rounded Corners</string>
+    <string name="app">Application</string>
+    <string name="act">Activity (Advanced)</string>
+    <string name="shortcut">Shortcut</string>
+    <string name="web">Web Link</string>
+    <string name="create_shortcut">Create a Shortcut</string>
+    <string name="enter_url">Enter a Web URL or search term</string>
+    <string name="search_if_invalid">If the URL is not valid, a google search will be performed</string>
 </resources>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="location_mode_entries">
-        <item>Off</item>
-        <item>Device Only</item>
-        <item>Battery Saving</item>
-        <item>High Accuracy</item>
+        <item>Aus</item>
+        <item>Nur Gerät</item>
+        <item>Batteriesparen</item>
+        <item>Hohe Genauigkeit</item>
     </string-array>
     <string-array name="location_mode_values">
         <item>0</item>
@@ -13,9 +13,9 @@
         <item>3</item>
     </string-array>
     <string-array name="ring_mode_entries">
-        <item>Silent</item>
-        <item>Vibrate</item>
-        <item>Ring</item>
+        <item>Stumm</item>
+        <item>Vibrieren</item>
+        <item>Klingeln</item>
     </string-array>
     <string-array name="ring_mode_values">
         <item>0</item>
