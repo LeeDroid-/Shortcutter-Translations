@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="location_mode_entries">
+        <item>Wył</item>
+        <item>Tylko Telefon</item>
+        <item>Oszczędzanie Energii</item>
+        <item>Wysoka Dokładność</item>
+    </string-array>
+    <string-array name="location_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="ring_mode_entries">
+        <item>Cichy</item>
+        <item>Wibracja</item>
+        <item>Dzwonek</item>
+    </string-array>
+    <string-array name="ring_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="sidebar_tmb_entries">
+        <item>Góra</item>
+        <item>Środek</item>
+        <item>Dół</item>
+    </string-array>
+    <string-array name="sidebar_tmb_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="tb_columns_entries">
+        <item>2</item>
+        <item>3</item>
+        <item>4 (Domyślnie)</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="tb_columns_values">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="sb_columns_entries">
+        <item>1</item>
+        <item>2 (Domyślnie)</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="sb_columns_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="vid_prof_entries">
+        <item>1080p</item>
+        <item>720p</item>
+        <item>480p</item>
+        <item>HIGH</item>
+        <item>QVGA</item>
+    </string-array>
+</resources>
