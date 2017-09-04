@@ -476,7 +476,7 @@
     <string name="screenshot_root">Użyj Metody z Rootem do Zrzutów Ekranu</string>
     <string name="screenshot_root_summary">Tworzy zrzut ekranu przy użyciu systemu</string>
     <string name="corners_active">Okrągłe rogi aktywne</string>
-    <string name="misc_cat">Expose Launcher Toggles</string>
+    <string name="misc_cat">Eksponuj Przełączniki w Launcherze</string>
     <string name="misc_tiles_cat">Różne Ustawienia Płytek</string>
     <string name="fancy_anim">Animacja Opuszczania</string>
     <string name="fancy_summary">Włącz / wyłącz płynną animację</string>
