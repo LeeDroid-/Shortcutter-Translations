@@ -561,16 +561,13 @@
     <string name="scale">Scale =&#160;</string>
     <string name="cp_head">TAP CENTER TO CONFIRM OR BACK TO CANCEL</string>
     <string name="apply">Apply</string>
-    <string name="act">Activity (Advanced)</string>
     <string name="ap_name">Web Address</string>
-    <string name="app">Application</string>
     <string name="create_shortcut">Create a Shortcut</string>
     <string name="enter_url">Enter a Web URL or search term</string>
     <string name="how_to_summary">A simple overview of what the app offers</string>
     <string name="round_corners">Rounded Corners</string>
     <string name="run_without">Continue Without</string>
     <string name="search_if_invalid">If the URL is not valid, a google search will be performed</string>
-    <string name="shortcut">Shortcut</string>
-    <string name="web">Web Link</string>
     <string name="xda">XDA Developers Thread</string>
+    <string name="choose_function">Escolha a função</string>
 </resources>

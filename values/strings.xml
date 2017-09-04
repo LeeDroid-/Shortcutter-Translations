@@ -297,7 +297,7 @@
     <string name="addtiles_title">How To Add QS Tiles - Guide</string>
     <string name="adding_qs_tiles">Adding QS Tiles</string>
     <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Quick Settings Tiles\" tab & make your QS Tile selections.]]></string>
-    <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below, this is usually a pen icon.
+    <string name="edit_view"><![CDATA[2. Pull-Down your status bar & hit the edit button as seen below, this is usually a pen icon.
     \n\n Samsung users hit the 3 dot menu &amp; select rearrange tiles, your Shortcutter tiles will show in the bottom view.]]></string>
     <string name="edit_view1">3. In the Edit View you will find 2/3 containers, you will see your new Shortcutter tiles in the bottom container.
         \n\nTo add them, simply long press &amp; drag your chosen tiles up to the top (Active) container &amp; exit the Edit View.</string>
@@ -393,7 +393,7 @@
     <string name="play_pause">Play/Pause Music</string>
     <string name="play_pause_sum">Play &amp; Pause music</string>
     <string name="overlay_needed"><![CDATA[Several Shortcutter services require the Draw System Overlay permission to run, these include:\n
-    \n\u2022 Side Bar/Floating Toolbox
+    \n\u2022 Sidebar/Floating Toolbox
     \n\u2022 Screen Filter/Night Mode
     \n\u2022 Rounded Corners
     \n\u2022 Network Mode Dialogs
@@ -403,9 +403,9 @@
     <string name="mob_dat_sum">Toggle mobile data on/off</string>
     <string name="toolbox">Toolbox</string>
     <string name="wake_active">Screen Wake Active</string>
-    <string name="floating_toolbox">Enable The Side Bar/Toolbox</string>
-    <string name="float_summary">A Side Bar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
-    <string name="tb_tiles">Side Bar</string>
+    <string name="floating_toolbox">Enable The Sidebar/Toolbox</string>
+    <string name="float_summary">A Sidebar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
+    <string name="tb_tiles">Sidebar</string>
     <string name="email_feedback">Email Feedback</string>
     <string name="submit_review">Leave A Review</string>
     <string name="rate_app">Rate The App</string>
@@ -433,10 +433,10 @@
     <string name="data_roaming">Data Roaming</string>
     <string name="dataroam_summary">Toggle Data Roaming</string>
     <string name="quick_tiles_title">Change Number Of Tiles In Collapsed View</string>
-    <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed pulldown.
+    <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed Pull-Down.
         \nThis MOD is manufacturer dependent.</string>
-    <string name="sidebar">Side Bar or Floating Toolbox</string>
-    <string name="sidebar_summary">Choose between the Swipe Out Side Bar or Floating Toolbox.</string>
+    <string name="sidebar">Sidebar or Floating Toolbox</string>
+    <string name="sidebar_summary">Choose between the Swipe Out Sidebar or Floating Toolbox.</string>
     <string name="sidebar_pos">Horizontal Trigger Position</string>
     <string name="right">Current Position Right</string>
     <string name="left_position">Current Position Left</string>
@@ -456,7 +456,7 @@
     <string name="sideber_tmb_title">Vertical Trigger Position</string>
     <string name="tb_columns_title">Toolbox Columns</string>
     <string name="tb_columns_summary">Current = %s columns</string>
-    <string name="sb_columns_title">Side Bar Columns</string>
+    <string name="sb_columns_title">Sidebar Columns</string>
     <string name="design_settings">Theme &amp; Behaviour</string>
     <string name="leedroid">www.LeeDrOiD.co.uk</string>
     <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
@@ -467,8 +467,8 @@
     <string name="corner_colour">Select Corner Colour</string>
     <string name="how_it_works">How It works</string>
     <string name="how_it_works1">Shortcutter offers several different options to access an array of shortcuts, settings &amp; services.</string>
-    <string name="how_it_works2">\u2022 Via your Quick Settings Pulldown</string>
-    <string name="how_it_works3">\u2022 Via the Shortcutter Swipe out Side Bar or Floating Toolbox</string>
+    <string name="how_it_works2">\u2022 Via your Quick Settings Pull-Down</string>
+    <string name="how_it_works3">\u2022 Via the Shortcutter Swipe out Sidebar or Floating Toolbox</string>
     <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!</string>
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
     <string name="config_serv">Settings</string>
@@ -477,8 +477,8 @@
     <string name="corners_active">Round Corners Active</string>
     <string name="misc_cat">Expose Launcher Toggles</string>
     <string name="misc_tiles_cat">Miscellaneous Tile Settings</string>
-    <string name="fancy_anim">Reflow Pulldown Animation</string>
-    <string name="fancy_summary">Enable/Disable the fancy reflow pull down animation (Not compatible with all devices)</string>
+    <string name="fancy_anim">Reflow Pull-Down Animation</string>
+    <string name="fancy_summary">Enable/Disable the fancy reflow Pull-Down animation (Not compatible with all devices)</string>
     <string name="system_toggles">System Setting Tiles</string>
     <string name="action_toggles">Action Tiles</string>
     <string name="info_toggles">Information Tiles</string>
@@ -525,8 +525,8 @@
     <string name="deskmode">Desk Clock\nMode</string>
     <string name="lightmode">Night Light\nMode</string>
     <string name="scdesk">Shortcutter\nDesk Clock</string>
-    <string name="expand_collapse">Side Bar Expander</string>
-    <string name="expose_toggler">Enable the \"Side Bar Expander\" icon to open/close the Side Bar or ToolBox to toggle the Side Bar from your home screen or other apps</string>
+    <string name="expand_collapse">Sidebar Expander</string>
+    <string name="expose_toggler">Enable the \"Sidebar Expander\" icon to open/close the Sidebar or ToolBox to toggle the Sidebar from your home screen or other apps</string>
     <string name="permissions">Manage Permissions</string>
     <string name="settings_access">Write System Settings</string>
     <string name="overlay_access">Overlay Permissions</string>
@@ -534,7 +534,7 @@
     <string name="dnd_access">Do Not Disturb Access</string>
     <string name="usage_access">Data Usage</string>
     <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
-    <string name="overlay_summary">Usage: Floating Side Bar/ToolBox, Screen Filter &amp; Rounded Corners</string>
+    <string name="overlay_summary">Usage: Floating Sidebar/ToolBox, Screen Filter &amp; Rounded Corners</string>
     <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Expand Notifications &amp; Quick Settings, Screen Filter &amp; Rounded Corners</string>
     <string name="dnd_summary">Usage: Ring Mode</string>
     <string name="usage_summary">Usage: Data Usage Tile</string>
@@ -579,7 +579,7 @@
     <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
     <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
     <string name="cust_app">Tiles that you can assign Applications, Activities, Shortcuts &amp; Web Links to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
-    <string name="cust_sb">Customise the look, feel &amp; behaviour of the Side Bar or ToolBox</string>
+    <string name="cust_sb">Customise the look, feel &amp; behaviour of the Sidebar or ToolBox</string>
     <string name="behaviour">Change the behaviour of Tiles</string>
     <string name="perms_now">These will be requested when enabling services.</string>
     <string name="forceEnglish">Force English</string>
@@ -601,17 +601,17 @@
     <string name="custom_icon">Tile Icon Background</string>
     <string name="cust_icon_summary">Select a custom icon background</string>
     <string name="manage_tiles">Manage tiles</string>
-    <string name="enable_tiles">Enable/Disable Quick Settings Pull Down Tiles</string>
-    <string name="qs_tiles">Pull Down</string>
+    <string name="enable_tiles">Enable/Disable Quick Settings Pull-Down Tiles</string>
+    <string name="qs_tiles">Pull-Down</string>
     <string name="custom_tiles">Custom Tiles</string>
-    <string name="sb_tb_settings">Side Bar/Toolbox Settings</string>
-    <string name="design_sb_settings">Configure your Shortcutter Side Bar/ToolBox</string>
-    <string name="enable_tiles_tb">Enable/Disable Side Bar Tiles</string>
+    <string name="sb_tb_settings">Sidebar/Toolbox Settings</string>
+    <string name="design_sb_settings">Configure your Shortcutter Sidebar/ToolBox</string>
+    <string name="enable_tiles_tb">Enable/Disable Sidebar Tiles</string>
     <string name="detect_touch">Touch &amp; Swipe Trigger</string>
-    <string name="touch_and_swipe">Side Bar opens when trigger is touched or swiped\n(up, down or inward)</string>
-    <string name="swipe_only">Side Bar opens when swiped\n(up, down or inward)</string>
-    <string name="hide_header_sum">Side Bar/ToolBox header removed</string>
-    <string name="hide_header_off_sum">Side Bar/ToolBox header visible</string>
+    <string name="touch_and_swipe">Sidebar opens when trigger is touched or swiped\n(up, down or inward)</string>
+    <string name="swipe_only">Sidebar opens when swiped\n(up, down or inward)</string>
+    <string name="hide_header_sum">Sidebar/ToolBox header removed</string>
+    <string name="hide_header_off_sum">Sidebar/ToolBox header visible</string>
     <string name="capture_quality">Capture Quality</string>
     <string name="share">Share</string>
     <string name="delete">Delete</string>
@@ -634,11 +634,11 @@
     <string name="choose_activity">Choose Activity</string>
     <string name="exp_notif">Expand Notifications</string>
     <string name="quick_settings">Expand QS Panel</string>
-    <string name="exp_notif_sum">Expands the notification pulldown</string>
-    <string name="qs_sum">Expands the Quick Settings pulldown</string>
+    <string name="exp_notif_sum">Expands the notification Pull-Down</string>
+    <string name="qs_sum">Expands the Quick Settings Pull-Down</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bt_summary">Enable/Disable Bluetooth</string>
-    <string name="sidebar_off_secure">Side Bar suspended:
+    <string name="sidebar_off_secure">Sidebar suspended:
         \nSecure activity detected</string>
     <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
     <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>

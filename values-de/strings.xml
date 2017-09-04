@@ -396,7 +396,7 @@
     <string name="wake_active">Bildschirm Aufwachen aktiv</string>
     <string name="floating_toolbox">Aktiviere die Sidebar/Werkzeugkasten</string>
     <string name="float_summary">Öffnet die Sidebar durch Wischen über den Auslösebalken oder den schwebenden Werkzeugkasten über ein schwebendes Symbol.</string>
-    <string name="tb_tiles">Side Bar</string>
+    <string name="tb_tiles">Sidebar</string>
     <string name="email_feedback">E-Mail Rückmeldung</string>
     <string name="submit_review">Lass eine Bewertung da</string>
     <string name="rate_app">Bewerte die App</string>
@@ -593,7 +593,7 @@
     <string name="cust_icon_summary">Wähle einen benutzerdef. Symbolhintergrund</string>
     <string name="manage_tiles">Kachelverwaltung</string>
     <string name="enable_tiles">Aktiviere/Deaktiviere QS-Kacheln im Pull-Down Menü </string>
-    <string name="qs_tiles">Pull Down</string>
+    <string name="qs_tiles">Pull-Down</string>
     <string name="custom_tiles">Benutzerdef. Kacheln</string>
     <string name="sb_tb_settings">Sidebar/Werkzeugkasten Einstellungen</string>
     <string name="design_sb_settings">Konfiguriere deine(n) Shortcutter Sidebar/Werkzeugkasten</string>
@@ -647,4 +647,5 @@
     <string name="run_without">Weiter ohne</string>
     <string name="search_if_invalid">Wenn die URL nicht gültig ist, wird eine Google-Suche durchgeführt</string>
     <string name="xda">XDA Entwickler Thread</string>
+    <string name="choose_function">Wählen Sie Funktion</string>
 </resources>

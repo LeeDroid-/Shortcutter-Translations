@@ -648,4 +648,5 @@
     <string name="run_without">Kontynuuj Bez</string>
     <string name="search_if_invalid">Jeśli adres URL nie jest prawidłowy, zostanie wykonane wyszukiwanie google</string>
     <string name="xda">Strona na XDA Developers</string>
+    <string name="choose_function">Wybierz funkcję</string>
 </resources>
