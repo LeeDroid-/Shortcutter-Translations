@@ -651,11 +651,8 @@
     <string name="xda">XDA Developers Thread</string>
     <string name="ap_name">Web Address</string>
     <string name="round_corners">Rounded Corners</string>
-    <string name="app">Application</string>
-    <string name="act">Activity (Advanced)</string>
-    <string name="shortcut">Shortcut</string>
-    <string name="web">Web Link</string>
     <string name="create_shortcut">Create a Shortcut</string>
     <string name="enter_url">Enter a Web URL or search term</string>
     <string name="search_if_invalid">If the URL is not valid, a google search will be performed</string>
+    <string name="choose_function">Choose Function</string>
 </resources>

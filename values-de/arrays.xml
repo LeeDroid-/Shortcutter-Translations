@@ -65,4 +65,10 @@
         <item>HIGH</item>
         <item>QVGA</item>
     </string-array>
+    <string-array name="cust_tile_choice">
+        <item>Application</item>
+        <item>Activity (Advanced)</item>
+        <item>Shortcut</item>
+        <item>Web Link</item>
+    </string-array>
 </resources>

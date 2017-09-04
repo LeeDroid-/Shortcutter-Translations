@@ -131,7 +131,6 @@
     <string name="no">Nie</string>
     <string name="settings_license">Licencja</string>
     <string name="no_licence">Nie Wykryto Licencji</string>
-    
     <string name="shortcutter_premium">Shortcutter Premium</string>
     <string name="logo">Logo</string>
     <string name="old_licene">Wykryto stary styl klucza premium</string>
@@ -247,13 +246,6 @@
     <string name="dice_desc">Generuje liczbę losową
 	    \n(Zmień w Ustawieniach Płytek)</string>
     <string name="auto_step">Auto Kroki Jasności</string>
-    
-
-
-
-
-
-
     <string name="file_tile">Przeglądarka
 	    \nPlików</string>
     <string name="file_summary">Uruchamia domyślną przeglądarkę plików</string>
@@ -587,7 +579,7 @@
     <string name="force_eng_summary">Uruchom aplikację w Jezyku Angielskim</string>
     <string name="xiaomi">Twoje urządzenie wymaga, aby aplikacja uzyskała uprawnienia do automatycznego uruchamiania usługi Shortcutter w tle, inaczej usługi zostaną zamknięte, jeśli nie jest ona włączona. \n\nProsimy kliknąć pozycję Uruchom &amp; włączyć automatyczne uruchamianie Shortcutter.</string>
     <string name="bat_opt"><![CDATA[Shortcutter  zawiera kilka usług w tle, w niektórych przypadkach Android może zabić te usługi, gdy urządzenie przechodzi w głęboki sen, aby zignorować ten problem, zaleca się wyłączenie Optymalizacji akumulatora za pomocą skrótu za pomocą opcji Ustawienia> Zasilanie. \n\nMam nadzieję, że lubisz aplikację!]]></string>
-    
+
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
     <string name="monochrome">B&amp;W</string>
     <string name="monochrome_summary">Change the display to black and white (Monochrome)</string>
@@ -648,16 +640,12 @@
     <string name="scale">Skala =&#160;</string>
     <string name="cp_head">DOTKNIJ W CENTRUM POTWIERDZAJĄC LUB WSTECZ,ABY ANULOWAĆ</string>
     <string name="apply">Zastosuj</string>
-    <string name="act">Aktywność (Zaawansowane)</string>
     <string name="ap_name">Adres Internetowy</string>
-    <string name="app">Aplikacje</string>
     <string name="create_shortcut">Utwórz Skrót</string>
     <string name="enter_url">Wprowadź adres internetowy lub wyszukiwane hasło</string>
     <string name="how_to_summary">Prosty przegląd tego, co oferuje aplikacja</string>
     <string name="round_corners">Zaokrąglone Rogi</string>
     <string name="run_without">Kontynuuj Bez</string>
     <string name="search_if_invalid">Jeśli adres URL nie jest prawidłowy, zostanie wykonane wyszukiwanie google</string>
-    <string name="shortcut">Skrót</string>
-    <string name="web">Link do Strony Internetowej</string>
     <string name="xda">Strona na XDA Developers</string>
 </resources>
