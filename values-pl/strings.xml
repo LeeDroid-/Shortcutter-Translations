@@ -97,8 +97,7 @@
     <string name="by_leedroid">By @LeeDrOiD</string>
     <string name="welcome_to_shortcutter">Witam w</string>
     <string name="Immersive">Tryb Pełnego Ekranu</string>
-    <string name="manual_secure_summary">Przyznaj Shortcutter dostęp do Ustawień Zabezpieczeń i włącz dostęp do nowych Płytek QS 
-	    \n(PC &amp; ADB włączone wymagane)</string>
+    <string name="manual_secure_summary">Przyznaj Shortcutter dostęp do Ustawień Zabezpieczeń i włącz dostęp do nowych Płytek QS (PC &amp; ADB włączone wymagane)</string>
     <string name="secure_access">Ustawienia Zabezpieczeń</string>
     <string name="action_required">Wymagana Akcja</string>
     <string name="settings_secure_instruct">Musisz przyznać ręcznie uprawnienia Shortcutter do Ustawień Zabezpieczeń, Co pozwala na większą kontrolę nad systemem.
@@ -132,12 +131,13 @@
     <string name="no">Nie</string>
     <string name="settings_license">Licencja</string>
     <string name="no_licence">Nie Wykryto Licencji</string>
+    
     <string name="shortcutter_premium">Shortcutter Premium</string>
     <string name="logo">Logo</string>
     <string name="old_licene">Wykryto stary styl klucza premium</string>
     <string name="tweaks_key">Wykryto klucz LeeDrOiD Tweaks
 	    \n funkcje Premium aktywowane</string>
-    <string name="all_prices_subject_to_tax_vat">Wszystkie zakupy zawierają VAT
+    <string name="all_prices_subject_to_tax_vat">Wszystkie zakupy zawierają VAT*
 	     \n\nKupienie Shortcutter Premium usuwa limit 50 kliknięć oraz daje dostęp do większej ilości płytek i funkcji aplikacji.</string>
     <string name="amin">amin</string>
     <string name="allofthe">Wszystkie z poniższych opcji da Ci dostęp do premium,</string>
@@ -247,6 +247,13 @@
     <string name="dice_desc">Generuje liczbę losową
 	    \n(Zmień w Ustawieniach Płytek)</string>
     <string name="auto_step">Auto Kroki Jasności</string>
+    
+
+
+
+
+
+
     <string name="file_tile">Przeglądarka
 	    \nPlików</string>
     <string name="file_summary">Uruchamia domyślną przeglądarkę plików</string>
@@ -342,6 +349,7 @@
 		\n\n\u2022 Przełaczanie Ostatnich Aplikacji
 		\n\n\u2022 Pokazywanie Menu Zasilania
 		\n\n\u2022 Wykrywanie Aktywacji - Wymagane w przypadku filtrów ekranu i narożników ekranu usługi te zostaną zatrzymane, gdy aplikacje są instalowane i zostaną przyznane uprawnienia.</string>
+        \n\u2022 Eksponowanie Powiadomień &amp; Szybkie Ustawienia
     <string name="power_dialog">Menu Zasilania</string>
     <string name="split_screen">Multi Window</string>
     <string name="lock_screen">Blokada 
@@ -359,7 +367,8 @@
     <string name="split_sum">Przełączanie Dzielonego Ekranu / Tryb Multi Window</string>
     <string name="power_sum">Otwórz menu zasilania</string>
     <string name="admin_needed">Wymagane uprawnienia administratora</string>
-    <string name="admin_needed_long">Shortcutter wymaga uprawnienia administratora, aby zablokować ekran urządzenia.
+    <string name="admin_needed_long">Shortcutter wymaga uprawnienia administratora, aby:\n\n 
+       \u2022Zablokować ekran urządzenia.
 	    \n\nProszę nacisnąć kontynuuj i włącz prawa Admina aby użyć tych płytek QS.\n\n</string>
     <string name="lock_sum">Powoduje zablokowanie ekranu</string>
     <string name="immersive_active">Tryb Pełnego Ekranu Aktywny</string>
@@ -375,29 +384,29 @@
     <string name="inear_summary">Przekierowuje wszystkie audio poprzez słuchawki</string>
     <string name="volUp">Głośność +</string>
     <string name="volDown">Głośność -</string>
-    <string name="cur_vol">Aktualna Głośność = </string>
+    <string name="cur_vol">Aktualna Głośność =&#160;</string>
     <string name="click_disable">%
 	    \n Kliknij kafelek, aby wyłączyć</string>
     <string name="pause">Pauza
 	    \nMuzyki</string>
-    <string name="play">Play
-	    \nMuzyka</string>
-    <string name="play_pause">Play/Pauza Muzyka</string>
+    <string name="play">Włącz
+	    \nMuzykę</string>
+    <string name="play_pause">Włącz/Zatrzymaj Muzykę</string>
     <string name="play_pause_sum">Play i Pauza Muzyki</string>
     <string name="overlay_needed"><![CDATA[Pływający Shortcutter Toolbox Wymaga uruchomienia Nakładki Systemowej.
 	    \n\u2022 Pasek Boczny/Pływający Toolbox
         \n\u2022 Filtry Ekranu/Tryb Nocny
         \n\u2022 Zaokrąglone Narożniki
+        \n\u2022 Tryb Sieci
 		\n\nProszę kliknij kontynuuj & udziel wymaganych uprawnień.\n]]></string>
     <string name="overlay_required">Wymagane uprawnienia nakładki systemowej</string>
-    <string name="mob_data">Dane
-	    \nMobilne</string>
+    <string name="mob_data">Dane Mobilne</string>
     <string name="mob_dat_sum">Przełącz Dane Mobilne on/off</string>
     <string name="toolbox">Shortcutter\nToolbox</string>
     <string name="wake_active">Wybudzanie Ekranu Aktywne</string>
     <string name="floating_toolbox">Włącz Pasek Boczny Shortcutter </string>
     <string name="float_summary">Przeciągnij Toolbox/Panel</string>
-    <string name="tb_tiles">Side Bar</string>
+    <string name="tb_tiles">Boczny Pasek</string>
     <string name="email_feedback">Zgłaszanie Błędów E-mailowo</string>
     <string name="submit_review">Napisz opinię</string>
     <string name="rate_app">Oceń Aplikację</string>
@@ -463,7 +472,7 @@
     <string name="how_it_works3">\u2022 Poprzez przesunięcie Paska Bocznego Shortcutter lub Pływający Toolbox</string>
     <string name="how_it_works4">\u2022 Poprzez Ekspozyzcję przełącznika do szuflady aplikacji, który umożliwia mapowanie do Edge Sense i wiele więcej!</string>
     <string name="attention">Proszę zwrócić uwagę jak dodać płytki w instrukcji w zakładce 2.</string>
-    <string name="config_serv">Settings</string>
+    <string name="config_serv">Ustawienia</string>
     <string name="screenshot_root">Użyj Metody z Rootem do Zrzutów Ekranu</string>
     <string name="screenshot_root_summary">Tworzy zrzut ekranu przy użyciu systemu</string>
     <string name="corners_active">Okrągłe rogi aktywne</string>
@@ -553,7 +562,7 @@
     <string name="review">\n Nie, zapomnij zostawić pozytywną recenzję w Sklepie Play!</string>
     <string name="enjoying">Korzystasz z Shortcutter?</string>
     <string name="counter">Licznik\n+1</string>
-    <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp;. Tasker.</string>
+    <string name="expose_activity_summary">Uzyskaj dostęp do tych przełączników z ekranu głównego lub szuflady aplikacji, co umożliwia także odwzorowywanie innych aplikacji, takich jak HTC Edge Sense, Second Displays& amp; Tasker.</string>
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">Włączone/Wyłączone WiFi</string>
     <string name="wifi_hotspot_summary">Włacz/Wyłącz HotSpot WiFi </string>
@@ -578,75 +587,77 @@
     <string name="force_eng_summary">Uruchom aplikację w Jezyku Angielskim</string>
     <string name="xiaomi">Your device requires applications to be granted auto start permissions, Shortcutter background services will be killed if this is not enabled.\n\nPlease click Proceed &amp; enable auto start for Shortcutter.</string>
     <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Battery Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
+    
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
     <string name="monochrome">B&amp;W</string>
     <string name="monochrome_summary">Change the display to black and white (Monochrome)</string>
     <string name="launch_power">Launches Settings \> Power\n(if no settings secure access)</string>
-    <string name="admin_access">Administrator Access</string>
-    <string name="admin_summary">Usage: Screen Lock</string>
+    <string name="admin_access">Dostęp Administaratora</string>
+    <string name="admin_summary">UZycie: Blokada Ekranu</string>
     <string name="tb_tile_alpha">Off Tile Transparency</string>
     <string name="hide_tb_labels">Hide Text Labels</string>
-    <string name="hidden">Hidden</string>
-    <string name="visible">Visible</string>
-    <string name="icon_picker">Icon Picker</string>
-    <string name="custom_icon">Tile Icon Background</string>
+    <string name="hidden">Ukryj</string>
+    <string name="visible">Widoczność</string>
+    <string name="icon_picker">Próbnik Ikon</string>
+    <string name="custom_icon">Tło Ikon Płytek</string>
     <string name="cust_icon_summary">Select a custom icon background</string>
-    <string name="manage_tiles">Manage tiles</string>
-    <string name="enable_tiles">Enable/Disable Quick Settings Pull-down Tiles</string>
-    <string name="qs_tiles">Pull Down</string>
-    <string name="custom_tiles">Custom Tiles</string>
-    <string name="sb_tb_settings">SideBar/Toolbox Settings</string>
+    <string name="manage_tiles">Menadżer Płytek</string>
+    <string name="enable_tiles">Włącz/Wyłącz Opuszczanych w Dół Płytek Szybkich Ustawień</string>
+    <string name="qs_tiles">Opuszczane w Dół</string>
+    <string name="custom_tiles">Własne Płytki</string>
+    <string name="sb_tb_settings">Ustawienia Paska Bocznego/Toolbox</string>
     <string name="design_sb_settings">Configure your Shortcutter SideBar/ToolBox</string>
     <string name="enable_tiles_tb">Enable/Disable SideBar Tiles</string>
-    <string name="detect_touch">Touch &amp; Swipe Trigger</string>
-    <string name="touch_and_swipe">SideBar opens when trigger is touched or swiped\n(up, down or inward)</string>
-    <string name="swipe_only">SideBar opens when swiped\n(up, down or inward)</string>
-    <string name="hide_header_sum">SideBar/ToolBox header removed</string>
-    <string name="hide_header_off_sum">SideBar/ToolBox header visible</string>
-    <string name="capture_quality">Capture Quality</string>
-    <string name="share">Share</string>
-    <string name="delete">Delete</string>
-    <string name="view">View</string>
-    <string name="trigger">Trigger</string>
-    <string name="tile_icons">Tiles/Icons</string>
-    <string name="labels">Tile Labels</string>
-    <string name="icon_scale">Icon Scale</string>
-    <string name="flash_sale">I am offering 40% off Shortcutter Premium until August 25th!\nPlease select the £1.99 option in the purchase premium screen.</string>
-    <string name="sale">Shortcutter Flash Sale</string>
+    <string name="detect_touch">Dotknięcie &amp; Swypnięcie Wyzwalacz</string>
+    <string name="touch_and_swipe">Pasek Boczny otwiera się po dotknięciu lub zaciśnięciu przycisku wyzwalacza \n (góra, dół lub środek)</string>
+    <string name="swipe_only">Pasek boczny otwiera się podczas przesuwania \n (góra, dół lub  środek)</string>
+    <string name="hide_header_sum">Usuń nagłówek Paska Bocznego/ToolBox</string>
+    <string name="hide_header_off_sum">Widoczność nagłówka Paska Bocznego/ToolBox</string>
+    <string name="capture_quality">Jakość przechwytywania</string>
+    <string name="share">Udostępnij</string>
+    <string name="delete">Usuń</string>
+    <string name="view">Pokaż</string>
+    <string name="trigger">Wyzwalacz</string>
+    <string name="tile_icons">Kafelki/Ikony</string>
+    <string name="labels">Etykiety Kafli</string>
+    <string name="icon_scale">Skalowanie Ikon</string>
+    <string name="flash_sale">Oferuję 40% zniżkę na Shortcutter Premium do 25 sierpnia!
+!\nWybierz opcję £ 1.99 na ekranie premium.</string>
+    <string name="sale">Wyprzedaż Shortcutter</string>
     <string name="dim">Dim -</string>
-    <string name="dimup">Dim +</string>
-    <string name="screen_dim">Screen Dim =&#160;</string>
-    <string name="mute_media">Mute Media</string>
-    <string name="mute_media_summary">Mute your media volume</string>
-    <string name="system_perms_message_touches">This option requires the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
-        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
-    <string name="lock_root">Use ROOT Method</string>
-    <string name="root_lock_sum">Sends a POWER key event using shell</string>
+    <string name="dimup">Rozmiar +</string>
+    <string name="screen_dim">Rozmiar Ekranu =&#160;</string>
+    <string name="mute_media">Ścisz Media</string>
+    <string name="mute_media_summary">Wycisz głośność multimediów</string>
+    <string name="system_perms_message_touches">Ta opcja wymaga możliwości zapisu ustawień systemu, ponieważ nie możemy żądać tych uprawnień w normalny sposób, musisz je włączyć.
+        \\ n \\ nKliknij przycisk & amp; zostanie wyświetlony odpowiedni ekran.\n</string>
+    <string name="lock_root">Użyj Metody ROOTA</string>
+    <string name="root_lock_sum">Wysyła zdarzenie klucza ZASILANIA za pomocą powłoki-shell</string>
     <string name="choose_activity">Choose Activity</string>
-    <string name="exp_notif">Expand Notifications</string>
-    <string name="quick_settings">Expand QS Panel</string>
-    <string name="exp_notif_sum">Expands the notification pulldown</string>
-    <string name="qs_sum">Expands the Quick Settings pulldown</string>
+    <string name="exp_notif">Rozrzesz Powiadomienia</string>
+    <string name="quick_settings">Rozrzesz Panel QS</string>
+    <string name="exp_notif_sum">Rozszerza listę powiadomień</string>
+    <string name="qs_sum">Rozszerza Szybkie Ustawienia opuszczane w dół</string>
     <string name="bluetooth">Bluetooth</string>
-    <string name="bt_summary">Enable/Disable Bluetooth</string>
-    <string name="sidebar_off_secure">SideBar suspended:
-        \nSecure activity detected</string>
-    <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
-    <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
+    <string name="bt_summary">Włącz/Wyłącz Bluetooth</string>
+    <string name="sidebar_off_secure">Zawieś Pasek Boczny:
+        \nBezpieczne działanie wykryto</string>
+    <string name="went_wrong">Coś jest nie tak, spróbuj jeszcze raz. Jeśli ten problem będzie się powtarzał, prosimy o kontakt z danymi urządzenia.</string>
+    <string name="cont_and_phone"><![CDATA[Coś poszło nie tak, czy masz uprawnienia dla Kontaktów i Telefonu?]]></string>
     <string name="transparency">Przeźroczystość</string>
-    <string name="scale">Scale =&#160;</string>
-    <string name="cp_head">TAP CENTER TO CONFIRM OR BACK TO CANCEL</string>
-    <string name="apply">Apply</string>
-    <string name="act">Activity (Advanced)</string>
-    <string name="ap_name">Web Address</string>
-    <string name="app">Application</string>
-    <string name="create_shortcut">Create a Shortcut</string>
-    <string name="enter_url">Enter a Web URL or search term</string>
-    <string name="how_to_summary">A simple overview of what the app offers</string>
-    <string name="round_corners">Rounded Corners</string>
-    <string name="run_without">Continue Without</string>
-    <string name="search_if_invalid">If the URL is not valid, a google search will be performed</string>
-    <string name="shortcut">Shortcut</string>
-    <string name="web">Web Link</string>
-    <string name="xda">XDA Developers Thread</string>
+    <string name="scale">Skala =&#160;</string>
+    <string name="cp_head">DOTKNIJ W CENTRUM POTWIERDZAJĄC LUB WSTECZ,ABY ANULOWAĆ</string>
+    <string name="apply">Zastosuj</string>
+    <string name="act">Aktywność (Zaawansowane)</string>
+    <string name="ap_name">Adres Internetowy</string>
+    <string name="app">Aplikacje</string>
+    <string name="create_shortcut">Utwórz Skrót</string>
+    <string name="enter_url">Wprowadź adres internetowy lub wyszukiwane hasło</string>
+    <string name="how_to_summary">Prosty przegląd tego, co oferuje aplikacja</string>
+    <string name="round_corners">Zaokrąglone Rogi</string>
+    <string name="run_without">Kontynuuj Bez</string>
+    <string name="search_if_invalid">Jeśli adres URL nie jest prawidłowy, zostanie wykonane wyszukiwanie google</string>
+    <string name="shortcut">Skrót</string>
+    <string name="web">Link do Strony Internetowej</string>
+    <string name="xda">Strona na XDA Developers</string>
 </resources>
