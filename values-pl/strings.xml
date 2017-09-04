@@ -606,9 +606,9 @@
     <string name="qs_tiles">Płytki QS</string>
     <string name="custom_tiles">Własne Płytki</string>
     <string name="sb_tb_settings">Ustawienia Paska Bocznego/Toolbox</string>
-    <string name="design_sb_settings">Konfiguruj Shortcutter Pasek Boczny/ToolBox</string>
-    <string name="enable_tiles_tb">Włącz/Wyłacz Płytki Paska Boczneg</string>
-    <string name="detect_touch">Dotknięcie &amp; Swypnięcie Wyzwalacz</string>
+    <string name="design_sb_settings">Konfiguruj Pasek Boczny/ToolBox</string>
+    <string name="enable_tiles_tb">Włącz/Wyłącz Płytki Paska Bocznego</string>
+    <string name="detect_touch">Dotknięcie &amp; Swypnięcie Wyzwalacza</string>
     <string name="touch_and_swipe">Pasek Boczny otwiera się po dotknięciu lub zaciśnięciu przycisku wyzwalacza \n (góra, dół lub środek)</string>
     <string name="swipe_only">Pasek boczny otwiera się podczas przesuwania \n (góra, dół lub  środek)</string>
     <string name="hide_header_sum">Usuń nagłówek Paska Bocznego/ToolBox</string>
