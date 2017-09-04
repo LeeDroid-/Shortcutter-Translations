@@ -606,8 +606,8 @@
     <string name="qs_tiles">Opuszczane w Dół</string>
     <string name="custom_tiles">Własne Płytki</string>
     <string name="sb_tb_settings">Ustawienia Paska Bocznego/Toolbox</string>
-    <string name="design_sb_settings">Configure your Shortcutter SideBar/ToolBox</string>
-    <string name="enable_tiles_tb">Enable/Disable SideBar Tiles</string>
+    <string name="design_sb_settings">Konfiguruj Shortcutter Pasek Boczny/ToolBox</string>
+    <string name="enable_tiles_tb">Włącz/Wyłacz Płytki Paska Boczneg</string>
     <string name="detect_touch">Dotknięcie &amp; Swypnięcie Wyzwalacz</string>
     <string name="touch_and_swipe">Pasek Boczny otwiera się po dotknięciu lub zaciśnięciu przycisku wyzwalacza \n (góra, dół lub środek)</string>
     <string name="swipe_only">Pasek boczny otwiera się podczas przesuwania \n (góra, dół lub  środek)</string>
@@ -618,13 +618,13 @@
     <string name="delete">Usuń</string>
     <string name="view">Pokaż</string>
     <string name="trigger">Wyzwalacz</string>
-    <string name="tile_icons">Kafelki/Ikony</string>
-    <string name="labels">Etykiety Kafli</string>
+    <string name="tile_icons">Płytki/Ikony</string>
+    <string name="labels">Etykiety Płytek</string>
     <string name="icon_scale">Skalowanie Ikon</string>
     <string name="flash_sale">Oferuję 40% zniżkę na Shortcutter Premium do 25 sierpnia!
-!\nWybierz opcję £ 1.99 na ekranie premium.</string>
+\nWybierz opcję £ 1.99 na ekranie premium.</string>
     <string name="sale">Wyprzedaż Shortcutter</string>
-    <string name="dim">Dim -</string>
+    <string name="dim">Rozmiar -</string>
     <string name="dimup">Rozmiar +</string>
     <string name="screen_dim">Rozmiar Ekranu =&#160;</string>
     <string name="mute_media">Ścisz Media</string>
@@ -633,7 +633,7 @@
         \\ n \\ nKliknij przycisk & amp; zostanie wyświetlony odpowiedni ekran.\n</string>
     <string name="lock_root">Użyj Metody ROOTA</string>
     <string name="root_lock_sum">Wysyła zdarzenie klucza ZASILANIA za pomocą powłoki-shell</string>
-    <string name="choose_activity">Choose Activity</string>
+    <string name="choose_activity">Wybierz aktywność</string>
     <string name="exp_notif">Rozrzesz Powiadomienia</string>
     <string name="quick_settings">Rozrzesz Panel QS</string>
     <string name="exp_notif_sum">Rozszerza listę powiadomień</string>
@@ -641,7 +641,7 @@
     <string name="bluetooth">Bluetooth</string>
     <string name="bt_summary">Włącz/Wyłącz Bluetooth</string>
     <string name="sidebar_off_secure">Zawieś Pasek Boczny:
-        \nBezpieczne działanie wykryto</string>
+        \nWykryto Bezpieczne działanie</string>
     <string name="went_wrong">Coś jest nie tak, spróbuj jeszcze raz. Jeśli ten problem będzie się powtarzał, prosimy o kontakt z danymi urządzenia.</string>
     <string name="cont_and_phone"><![CDATA[Coś poszło nie tak, czy masz uprawnienia dla Kontaktów i Telefonu?]]></string>
     <string name="transparency">Przeźroczystość</string>
