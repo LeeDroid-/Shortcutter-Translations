@@ -630,7 +630,7 @@
     <string name="mute_media">Ścisz Media</string>
     <string name="mute_media_summary">Wycisz głośność multimediów</string>
     <string name="system_perms_message_touches">Ta opcja wymaga możliwości zapisu ustawień systemu, ponieważ nie możemy żądać tych uprawnień w normalny sposób, musisz je włączyć.
-        \\ n \\ nKliknij przycisk & amp; zostanie wyświetlony odpowiedni ekran.\n</string>
+        \nKliknij przycisk & amp; zostanie wyświetlony odpowiedni ekran.\n</string>
     <string name="lock_root">Użyj Metody ROOTA</string>
     <string name="root_lock_sum">Wysyła zdarzenie klucza ZASILANIA za pomocą powłoki-shell</string>
     <string name="choose_activity">Wybierz aktywność</string>
