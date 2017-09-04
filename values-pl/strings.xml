@@ -349,7 +349,7 @@
 	    \n\n\u2022 Przełaczanie Ostatnich Aplikacji
 	    \n\n\u2022 Pokazywanie Menu Zasilania
 		\n\n\u2022 Wykrywanie Aktywacji - Wymagane w przypadku filtrów ekranu i narożników ekranu usługi te zostaną zatrzymane, gdy aplikacje są instalowane i zostaną przyznane uprawnienia.</string>
-        \n\u2022 Eksponowanie Powiadomień amp; Szybkie Ustawienia</string>
+        \n\u2022 Eksponowanie Powiadomień i Szybkich Ustawień</string>
     <string name="power_dialog">Menu Zasilania</string>
     <string name="split_screen">Multi Window</string>
     <string name="lock_screen">Blokada 
