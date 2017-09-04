@@ -603,7 +603,7 @@
     <string name="cust_icon_summary">Select a custom icon background</string>
     <string name="manage_tiles">Menadżer Płytek</string>
     <string name="enable_tiles">Włącz/Wyłącz Opuszczanych w Dół Płytek Szybkich Ustawień</string>
-    <string name="qs_tiles">Opuszczane w Dół</string>
+    <string name="qs_tiles">Płytki QS</string>
     <string name="custom_tiles">Własne Płytki</string>
     <string name="sb_tb_settings">Ustawienia Paska Bocznego/Toolbox</string>
     <string name="design_sb_settings">Konfiguruj Shortcutter Pasek Boczny/ToolBox</string>
