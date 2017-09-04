@@ -24,36 +24,36 @@
     <string name="enable_root_features">Aktiviert Root Eigenschaften</string>
     <string name="root_features_enabled">Root Eigenschaften aktiviert</string>
     <string name="appicon">Appsymbol</string>
-    <string name="CustomTile2">Gewohnheit Fliese 2</string>
-    <string name="CustomTile4">Gewohnheit Fliese 4</string>
-    <string name="CustomTile3">Gewohnheit Fliese 3</string>
-    <string name="CustomTile1">Gewohnheit Fliese 1</string>
-    <string name="CustomTile5">Gewohnheit Fliese 5</string>
-    <string name="CustomTile6">Gewohnheit Fliese 6</string>
-    <string name="CustomTile7">Gewohnheit Fliese 7</string>
-    <string name="CustomTile8">Gewohnheit Fliese 8</string>
-    <string name="CustomTile9">Gewohnheit Fliese 9</string>
-    <string name="CustomTile10">Gewohnheit Fliese 10</string>
-    <string name="CustomTile11">Gewohnheit Fliese 11</string>
-    <string name="CustomTile12">Gewohnheit Fliese 12</string>
-    <string name="CustomTile13">Gewohnheit Fliese 13</string>
-    <string name="CustomTile14">Gewohnheit Fliese 14</string>
-    <string name="CustomTile15">Gewohnheit Fliese 15</string>
-    <string name="CustomTile16">Gewohnheit Fliese 16</string>
-    <string name="CustomTile17">Gewohnheit Fliese 17</string>
-    <string name="CustomTile18">Gewohnheit Fliese 18</string>
-    <string name="CustomTile19">Gewohnheit Fliese 19</string>
-    <string name="CustomTile20">Gewohnheit Fliese 20</string>
-    <string name="CustomTile21">Gewohnheit Fliese 21</string>
-    <string name="CustomTile22">Gewohnheit Fliese 22</string>
-    <string name="CustomTile23">Gewohnheit Fliese 23</string>
-    <string name="CustomTile24">Gewohnheit Fliese 24</string>
-    <string name="CustomTile25">Gewohnheit Fliese 25</string>
-    <string name="CustomTile26">Gewohnheit Fliese 226</string>
-    <string name="CustomTile27">Gewohnheit Fliese 27</string>
-    <string name="CustomTile28">Gewohnheit Fliese 28</string>
-    <string name="CustomTile29">Gewohnheit Fliese 29</string>
-    <string name="CustomTile30">Gewohnheit Fliese 30</string>
+    <string name="CustomTile2">Benutzerdef. Kachel 2</string>
+    <string name="CustomTile4">Benutzerdef. Kachel 4</string>
+    <string name="CustomTile3">Benutzerdef. Kachel 3</string>
+    <string name="CustomTile1">Benutzerdef. Kachel 1</string>
+    <string name="CustomTile5">Benutzerdef. Kachel 5</string>
+    <string name="CustomTile6">Benutzerdef. Kachel 6</string>
+    <string name="CustomTile7">Benutzerdef. Kachel 7</string>
+    <string name="CustomTile8">Benutzerdef. Kachel 8</string>
+    <string name="CustomTile9">Benutzerdef. Kachel 9</string>
+    <string name="CustomTile10">Benutzerdef. Kachel 10</string>
+    <string name="CustomTile11">Benutzerdef. Kachel 11</string>
+    <string name="CustomTile12">Benutzerdef. Kachel 12</string>
+    <string name="CustomTile13">Benutzerdef. Kachel 13</string>
+    <string name="CustomTile14">Benutzerdef. Kachel 14</string>
+    <string name="CustomTile15">Benutzerdef. Kachel 15</string>
+    <string name="CustomTile16">Benutzerdef. Kachel 16</string>
+    <string name="CustomTile17">Benutzerdef. Kachel 17</string>
+    <string name="CustomTile18">Benutzerdef. Kachel 18</string>
+    <string name="CustomTile19">Benutzerdef. Kachel 19</string>
+    <string name="CustomTile20">Benutzerdef. Kachel 20</string>
+    <string name="CustomTile21">Benutzerdef. Kachel 21</string>
+    <string name="CustomTile22">Benutzerdef. Kachel 22</string>
+    <string name="CustomTile23">Benutzerdef. Kachel 23</string>
+    <string name="CustomTile24">Benutzerdef. Kachel 24</string>
+    <string name="CustomTile25">Benutzerdef. Kachel 25</string>
+    <string name="CustomTile26">Benutzerdef. Kachel 226</string>
+    <string name="CustomTile27">Benutzerdef. Kachel 27</string>
+    <string name="CustomTile28">Benutzerdef. Kachel 28</string>
+    <string name="CustomTile29">Benutzerdef. Kachel 29</string>
+    <string name="CustomTile30">Benutzerdef. Kachel 30</string>
     <string name="RebootRecovery">Recovery neu starten</string>
     <string name="Reboot">Neu starten</string>
     <string name="Screen_timeout">Bildschirm Auszeit</string>
@@ -312,7 +312,7 @@
     <string name="power_save_summary">Schalte Energiesparmodus</string>
     <string name="prem_only_message">Diese Funktion ist nur in der Premiumversion von Shortcutter verfügbar.
         \n\nBitte klicke jetzt auf GO PREMIUM um die folgenden Funtionen zu aktivieren:
-        \n\n \u2022 Zusätzliche Gewohnheit Fliese Kacheln
+        \n\n \u2022 Zusätzliche Benutzerdef. Kachel Kacheln
         \n \u2022 Zusätzliche benutzerdef. URL Kacheln
         \n \u2022 Bildschirmaufnahme &amp; Aufnahme
         \n \u2022 Zusätzliche In-App Konfigurationsoptionen
@@ -411,7 +411,7 @@
     <string name="toggle">Schalte</string>
     <string name="toolbox_label">Werkzeugkasten</string>
     <string name="app_picker">Wähle ein Applikation</string>
-    <string name="custom_app_tiles">Gewohnheit Fliese Kacheln</string>
+    <string name="custom_app_tiles">Benutzerdef. Kachel Kacheln</string>
     <string name="swipe_up">Wische von unten nach oben zum Ausblenden</string>
     <string name="lock_screen_title">Sperrbildschirm</string>
     <string name="auto_rotate">Auto
@@ -639,12 +639,12 @@
     <string name="disabled">Deaktiviert</string>
     <string name="transparency">Transparenz</string>
     <string name="ring_mode">Klingelmodus</string>
-    <string name="ap_name">Web Address</string>
-    <string name="create_shortcut">Create a Shortcut</string>
-    <string name="enter_url">Enter a Web URL or search term</string>
-    <string name="how_to_summary">A simple overview of what the app offers</string>
-    <string name="round_corners">Rounded Corners</string>
-    <string name="run_without">Continue Without</string>
-    <string name="search_if_invalid">If the URL is not valid, a google search will be performed</string>
-    <string name="xda">XDA Developers Thread</string>
+    <string name="ap_name">Webadresse</string>
+    <string name="create_shortcut">Verknüpfung erstellen</string>
+    <string name="enter_url">Geben Sie eine Web-URL oder einen Suchbegriff ein</string>
+    <string name="how_to_summary">Ein einfacher Überblick über das, was die App bietet</string>
+    <string name="round_corners">Abgerundete Ecken</string>
+    <string name="run_without">Weiter ohne</string>
+    <string name="search_if_invalid">Wenn die URL nicht gültig ist, wird eine Google-Suche durchgeführt</string>
+    <string name="xda">XDA Entwickler Thread</string>
 </resources>

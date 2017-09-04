@@ -66,9 +66,9 @@
         <item>QVGA</item>
     </string-array>
     <string-array name="cust_tile_choice">
-        <item>Application</item>
-        <item>Activity (Advanced)</item>
-        <item>Shortcut</item>
-        <item>Web Link</item>
+        <item>Anwendung</item>
+        <item>Aktivität (Fortgeschritten)</item>
+        <item>Abkürzung</item>
+        <item>Weblink</item>
     </string-array>
 </resources>
