@@ -72,9 +72,9 @@
     <string name="proceed">Devam et</string>
     <string name="system_perms_message">Bazı sekmeler sistem ayarlarını değiştirmeyi gerektirir. Program için bu izni ancak siz verebilirsiniz.
         \n\nGerekli izinlerin verilebileceği ayarlara ulaşmak için tıklayın.\n</string>
-    <string name="press_back">Press back to return once enabled.</string>
+    <string name="press_back">Etkinleştirildiğinde geriye tıklayın.</string>
     <string name="credits">Katkıda Bulunanlar</string>
-    <string name="full_title">Shortcutter Quick Settings</string>
+    <string name="full_title">Shortcutter Hızlı Ayarlars</string>
     <string name="thanks_for_support">"   Desteğiniz için teşekkürler! :)"</string>
     <string name="premuim">Shortcutter Premium</string>
     <string name="confirm_disable_root">Tüm root özelliklerini kapatmak üzeresiniz. Root gerektiren tüm sekmeler kaldırılacaktır.
@@ -136,7 +136,7 @@
     <string name="shortcutter_premium">Shortcutter Premium</string>
     <string name="logo">Logo</string>
     <string name="old_licene">Premium Lisans Bulundu</string>
-    <string name="tweaks_key">LeeDrOiD Tweaks key detected
+    <string name="tweaks_key">LeeDrOiD Tweaks key bulundu
         \n Premium özellikleri etkinleştirildi.</string>
     <string name="all_prices_subject_to_tax_vat">Fiyatlara KDV Dahildir*
         \n\nShortcutter Premium Lisansı satın almak 50 tıklanma bildirimini kaldırıp, ilave sekmeler ve uygulamanın ekstra özelliklerini kullanabilmenizi sağlayacaktır..</string>
@@ -608,7 +608,7 @@
     <string name="trigger">Tetikle</string>
     <string name="tile_icons">Sekmeler/İkonlar</string>
     <string name="labels">Sekme Etiketleri</string>
-    <string name="icon_scale">Icon Scale</string>
+    <string name="icon_scale">İkon Boyutu</string>
     <string name="flash_sale">I am offering 40% off Shortcutter Premium until August 25th!\nPlease select the £1.99 option in the purchase premium screen.</string>
     <string name="sale">Shortcutter Flash Sale</string>
     <string name="dim">Karartma -</string>
@@ -618,33 +618,33 @@
     <string name="mute_media_summary">Media sesini kapatın</string>
     <string name="system_perms_message_touches">This option requires the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
         \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
-    <string name="lock_root">ROOT Yöntemi kullan</string>
-    <string name="root_lock_sum">Sends a POWER key event using shell</string>
+    <string name="lock_root">ROOT Yöntemini kullan</string>
+    <string name="root_lock_sum">Açma/Kapama tuşuna basma komutu yollar</string>
     <string name="choose_activity">Aktivite seç</string>
     <string name="exp_notif">Bildirimleri genişlet</string>
     <string name="quick_settings">Hızlı Ayarlar Panelini genişletir</string>
     <string name="exp_notif_sum">Bildirimleri aşağı doğru genişletir</string>
-    <string name="qs_sum">Hızlı ayar sekmeleri menüsünü aşağı dopğu genişletir</string>
+    <string name="qs_sum">Hızlı ayar sekmeleri menüsünü aşağı doğru genişletir</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bt_summary">Aç/Kapat Bluetooth</string>
-    <string name="sidebar_off_secure">SideBar suspended:
-        \nSecure activity detected</string>
+    <string name="sidebar_off_secure">Yan Menü durduruldu:
+        \nGüvenli aktivite bulundu</string>
     <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
     <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
-    <string name="adding_qs_tiles">Adding QS Tiles</string>
+    <string name="adding_qs_tiles">Hızlı Ayar Sekmesi eklemek</string>
     <string name="misc_cat">Expose Launcher Toggles</string>
-    <string name="transparency">Transparency</string>
-    <string name="scale">Scale =&#160;</string>
+    <string name="transparency">Saydamlık</string>
+    <string name="scale">Derecesi =&#160;</string>
     <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp;. Tasker.</string>
     <string name="cp_head">TAP CENTER TO CONFIRM OR BACK TO CANCEL</string>
-    <string name="apply">Apply</string>
-    <string name="ap_name">Web Address</string>
-    <string name="create_shortcut">Create a Shortcut</string>
+    <string name="apply">Uygula</string>
+    <string name="ap_name">Web Adresi</string>
+    <string name="create_shortcut">Kısayol oluştur</string>
     <string name="enter_url">Enter a Web URL or search term</string>
     <string name="how_to_summary">A simple overview of what the app offers</string>
-    <string name="round_corners">Rounded Corners</string>
-    <string name="run_without">Continue Without</string>
-    <string name="search_if_invalid">If the URL is not valid, a google search will be performed</string>
+    <string name="round_corners">Yuvarlatılmış Köşeler</string>
+    <string name="run_without">olmadan devam et</string>
+    <string name="search_if_invalid">geçersiz bir adres girildiyse, google araması başlatılır.</string>
     <string name="xda">XDA Developers Thread</string>
     <string name="choose_function">" İşlev Seç"</string>
 </resources>
