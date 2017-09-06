@@ -298,7 +298,7 @@
     <string name="adding_qs_tiles">Adding QS Tiles</string>
     <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Quick Settings Tiles\" tab & make your QS Tile selections.]]></string>
     <string name="edit_view"><![CDATA[2. Pull-Down your status bar & hit the edit button as seen below, this is usually a pen icon.
-    \n\n Samsung users hit the 3 dot menu &amp; select rearrange tiles, your Shortcutter tiles will show in the bottom view.]]></string>
+    \n\n Samsung users hit the 3 dot menu & select rearrange tiles, your Shortcutter tiles will show in the bottom view.]]></string>
     <string name="edit_view1">3. In the Edit View you will find 2/3 containers, you will see your new Shortcutter tiles in the bottom container.
         \n\nTo add them, simply long press &amp; drag your chosen tiles up to the top (Active) container &amp; exit the Edit View.</string>
     <string name="edit_view_note">IMPORTANT NOTE:
@@ -655,4 +655,6 @@
     <string name="enter_url">Enter a Web URL or search term</string>
     <string name="search_if_invalid">If the URL is not valid, a google search will be performed</string>
     <string name="choose_function">Choose Function</string>
+    <string name="samsung_note">Important note for Samsung users</string>
+    <string name="battery_opt">As you are yousing a Samsung device, you may experience tiles becoming unresponsive after being dormant.\nTo rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
 </resources>

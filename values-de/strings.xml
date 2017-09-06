@@ -649,4 +649,6 @@
     <string name="search_if_invalid">Wenn die URL nicht gültig ist, wird eine Google-Suche durchgeführt</string>
     <string name="xda">XDA Entwickler Thread</string>
     <string name="choose_function">Wähle Funktion</string>
+    <string name="samsung_note">Important note for Samsung users</string>
+    <string name="battery_opt">As you are yousing a Samsung device, you may experience tiles becoming unresponsive after being dormant.\nTo rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
 </resources>
