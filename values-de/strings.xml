@@ -67,10 +67,10 @@
     <string name="screen_timeout">Auszeit</string>
     <string name="additonal_perms_req">Zusätzliche Berechtigungen erforderlich</string>
     <string name="notification_policy_message">Einige Kacheln erfordern die Möglichkeit Benachrichtigungseinstellungen zu ändern, da wir diese Berechtigungen nicht in der normalen Fassung anfordern können, musst du diese aktivieren.
-        \n\nKlicke Fortfahren &amp; Du wirst auf den entsprechenden Bildschirm weitergeleitet.\n</string>
+        \n\nKlicke Fortfahren &amp; du wirst auf den entsprechenden Bildschirm weitergeleitet.\n</string>
     <string name="proceed">Fortfahren</string>
-    <string name="system_perms_message">Einige Kacheln erfordern die Möglichkeit System Einstellungen zu ändern, da wir diese Berechtigungen nicht in der normalen Fassung anfordern können, musst du diese aktivieren.
-        \n\nKlicke Fortfahren &amp; Du wirst auf den entsprechenden Bildschirm weitergeleitet.\n</string>
+    <string name="system_perms_message">Einige Kacheln erfordern die Möglichkeit Systemeinstellungen zu ändern, da wir diese Berechtigungen nicht in der normalen Fassung anfordern können, musst du diese aktivieren.
+        \n\nKlicke Fortfahren &amp; du wirst auf den entsprechenden Bildschirm weitergeleitet.\n</string>
     <string name="press_back">Drücke die Zurück Taste, sobald sie aktiviert ist.</string>
     <string name="credits">Danksagung</string>
     <string name="full_title">Shortcutter Schnelleinstellungen</string>
@@ -86,7 +86,7 @@
     <string name="ambient_display">Schlummer Bildschirm</string>
     <string name="reboot_now">Jetzt neu starten?</string>
     <string name="root_available">Dein Gerät scheint gerootet zu sein.
-        \n Schalt mich um für mehr QS-Kacheln!</string>
+        \nSchalt mich um für mehr QS-Kacheln!</string>
     <string name="available_in_prem1">Limitierte Funktionen &amp; eine Benachrichtigung alle 50 Klicks.</string>
     <string name="available_in_prem3">Hohle jetzt Premium &amp; zeige deine Unterstützung!</string>
     <string name="ad_supported">Shortcutter FREE</string>
@@ -95,7 +95,7 @@
     <string name="by_leedroid">Entwickelt von LeeDrOiD</string>
     <string name="welcome_to_shortcutter">Willkommen zu</string>
     <string name="Immersive">Vollbildmodus</string>
-    <string name="manual_secure_summary">Anwendung: Standortmodus Schalter, Vollbildmodus, ADB, Benachrichtigung, monochrom, Data Roaming, Bildschirmumgebungslicht, An beim Aufladen &amp; Energiesparen - (Ein PC wird benötigt)</string>
+    <string name="manual_secure_summary">Anwendung: Standortmodus Schalter, Vollbildmodus, ADB, Benachrichtigung, monochrom, Data Roaming, Bildschirmumgebungslicht, AN beim Aufladen &amp; Energiesparen - (Ein PC wird benötigt)</string>
     <string name="secure_access">Einstellungen sicherer Zugang</string>
     <string name="action_required">Aktion benötigt</string>
     <string name="settings_secure_instruct">Du kannst dem Shortcutter manuell Zugang zu sicheren Einstellungen gewähren, was dir mehr Kontrolle über das System erlaubt.
@@ -133,9 +133,9 @@
     <string name="logo">Logo</string>
     <string name="old_licene">Premium Schlüssel erkannt</string>
     <string name="tweaks_key">LeeDrOiD Tweaks Schlüssel erkannt
-        \n Premium Eigenschaften aktiviert</string>
+        \nPremium Eigenschaften aktiviert</string>
     <string name="all_prices_subject_to_tax_vat">Alle Preise inklusive Steuern
-        \n\nDer Kauf von Shortcutter Premium wird die 50-Klick-Benachrichtigung entfernen &amp; Aktiviere zusätzliche QS-Kacheln &amp; App Eigenschaften.</string>
+        \n\nDer Kauf von Shortcutter Premium wird die 50-Klick-Benachrichtigung entfernen &amp; aktiviert zusätzliche QS-Kacheln &amp; App Eigenschaften.</string>
     <string name="amin">amin</string>
     <string name="allofthe">Jede der unten genannten Optionen gewährt Dir Premium-Zugang, die Wahl liegt bei Dir :)</string>
     <string name="volumeui">Lautstärke
@@ -157,11 +157,11 @@
     <string name="network_mode_summary">Bandnetzwerk Auswahl</string>
     <string name="adb_summary">Umschalten der Android Debug Bridge</string>
     <string name="adbtile">ADB</string>
-    <string name="alarm_summary">Zeige nächsten Alarm, Klick öffnet Alarme</string>
+    <string name="alarm_summary">Zeigt nächsten Alarm, Klick öffnet Alarme</string>
     <string name="alarm_tile_title">Nächster Alarm</string>
     <string name="ambien_summary">Umgebungslicht / Schlummer Anzeige</string>
     <string name="ambient_tile_title">Umgebungslicht Anzeige</string>
-    <string name="autobrightness_summary">Auto Helligkeit An/Aus</string>
+    <string name="autobrightness_summary">Auto Helligkeit An / Aus</string>
     <string name="autobrightness_tile_title">Auto Helligkeit</string>
     <string name="brightnesspreset_summary">Durchschalten der Helligkeitsstufen
         \n(Definiere Stufen in den Kachel Einstellungen)</string>
@@ -169,7 +169,7 @@
     <string name="camera_summary">Startet die voreingestellte Kamera App</string>
     <string name="camera_tile_title">Kamera</string>
     <string name="haptic_tile_title">Haptische Rückmeldung</string>
-    <string name="haptic_summary">Schalte Haptische Rückmeldung An/Aus</string>
+    <string name="haptic_summary">Schalte Haptische Rückmeldung An / Aus</string>
     <string name="headsup_summary">Schalte Hinweis Benachrichtigung</string>
     <string name="headsup">Hinweis</string>
     <string name="immersive_summary">Status verbergen &amp; Navigationleisten</string>
@@ -178,7 +178,7 @@
     <string name="location_summary">Schalte Standortmodus AUS/GPS/Batteriesparen/Hohe Genauigkeit</string>
     <string name="location_tile_title">Standortmodus</string>
     <string name="ram_tile_title">RAM</string>
-    <string name="ram_summary">Anzeigen verfügbar &amp; Gesamter RAM, mit einer Verknüpfung zur RAM Information</string>
+    <string name="ram_summary">Anzeigen verfügbar &amp; gesamter RAM, mit einer Verknüpfung zur RAM Information</string>
     <string name="recovery_tile_title">Recovery neu starten</string>
     <string name="recovery_summary">Startet dein Gerät neu in den Recovery Modus</string>
     <string name="reboot_summary">Startet dein Gerät neu</string>
@@ -200,17 +200,17 @@
     <string name="tuner_summary">Starte den versteckten SystemUI Tuner
         \nFunktionalität ist herstellerabhängig</string>
     <string name="tuner_tile_title">SystemUI Tuner Kachel</string>
-    <string name="prem_only">Premium Nur</string>
+    <string name="prem_only">Nur Premium</string>
     <string name="settings_secure_needed">Einstellungen sicherer Zugang erforderlich</string>
-    <string name="flash_summary">Schalte Kamera Taschenlampe</string>
+    <string name="flash_summary">Schaltet Kamera Taschenlampe</string>
     <string name="flash_tile_title">Taschenlampe</string>
     <string name="no_flash">Keine Taschenlampe gefunden</string>
-    <string name="battery_summary">Überwache deinen Akku</string>
+    <string name="battery_summary">Überwacht deinen Akku</string>
     <string name="battery_tile_title">Akku</string>
     <string name="on_while_charge">An während
         \nAufladen</string>
     <string name="onwhilecharge_summary">Bildschirm anlassen während Gerät angeschlossen</string>
-    <string name="oncharge_tile_title">Bildschirm An während des Aufladens</string>
+    <string name="oncharge_tile_title">Bildschirm AN während des Aufladens</string>
     <string name="choose_button_label">Wähle</string>
     <string name="error_dir_access">Auf Ziel kann nicht zugegriffen werden</string>
     <string name="label_parent_dir">…</string>
@@ -218,11 +218,11 @@
     <string name="last_edit">Letzte Änderung: </string>
     <string name="select">Wähle</string>
     <string name="countdown">Countdown</string>
-    <string name="new_message">Neu
+    <string name="new_message">Neue
         \nNachricht</string>
     <string name="cap_store_title">Bildschirmaufnahme Speicherort</string>
     <string name="choose_location">Speicherort wählen</string>
-    <string name="new_message_summary">Sende eine neue SMS mit einem Klick</string>
+    <string name="new_message_summary">Sendet eine neue SMS mit einem Klick</string>
     <string name="count_down">Herunterzählen</string>
     <string name="remaining">Verbleibend:</string>
     <string name="time_up">Zeit abgelaufen!</string>
@@ -247,26 +247,26 @@
     <string name="file_tile">Datei
         \nBrowser</string>
     <string name="file_summary">Startet den voreingestellten Dateimanager</string>
-    <string name="new_tweet">Neu
+    <string name="new_tweet">Neuer
         \nTweet</string>
     <string name="not_installed">Applikation nicht installiert</string>
-    <string name="new_tweet_summary">Sende einen neuen Tweet</string>
+    <string name="new_tweet_summary">Sendet einen neuen Tweet</string>
     <string name="shot_delay">Wähle benutzerdefinierte Bildschirmfotoverzögerung</string>
     <string name="shot_delay_title">Bildschirmfotoverzögerung (Sekunden)</string>
-    <string name="newemail">Neu
+    <string name="newemail">Neue
         \nE-Mail</string>
-    <string name="newemailsum">Sende eine neue E-Mail</string>
+    <string name="newemailsum">Sendet eine neue E-Mail</string>
     <string name="emailtitle">Neue E-Mail</string>
     <string name="stay_in_the_loop">Social Media/Kontakt</string>
     <string name="follow_me">Folge mir auf Twitter</string>
     <string name="like_facebook">Like meine Facebook Seite</string>
     <string name="home">Startseite</string>
-    <string name="dice_desc_range">Wähle eine benutzerdefinierte  Augenanzahl für die Würfel Kachel</string>
+    <string name="dice_desc_range">Wähle eine benutzerdef. Augenanzahl für die Würfel Kachel</string>
     <string name="dice_tile_range">Würfel Kachel Augenanzahl</string>
     <string name="togglenfc">NFC
         \nSchalte</string>
     <string name="nfctile">NFC</string>
-    <string name="nfctilesum">Schalte NFC An/Aus</string>
+    <string name="nfctilesum">Schalte NFC An / Aus</string>
     <string name="app_open">Diese Applikation muss einmalig gestartet werden, um jegliche Kacheln oder Dienste nutzen zu können.
         \n\nBitte achte auf die Dialoge</string>
     <string name="alert">Shortcutter Alarm</string>
@@ -276,20 +276,21 @@
         \nVerwendung</string>
     <string name="data_usage_perms">Shortcutter benötigt Berechtigung um auf den Datenverbrauchsverlauf zuzugreifen.
         \n\nBitte klicke weiter, wähle Shortcutter &amp; aktiviere Benutzerzugang.\n\n</string>
-    <string name="reset_day">Zurückstellen am  Tag %1$d jeden Monats</string>
+    <string name="reset_day">Zurückstellen am Tag %1$d jeden Monats</string>
     <string name="select_day">Wähle den Tag der Datenzurückstellung</string>
     <string name="data_cycle_reset">Datenverbrauchszyklus</string>
     <string name="data_cycle_summary">Wähle den Tag im Monat ab dem Daten gemessen werden sollen (Normalerweise dein Rechnungsdatum)</string>
     <string name="data_tile_summary">Zeigt mobilen Datenverbrauch
-        \n(Ändere Zyklus in Kacheleinstellungen)</string>
+        \n(Ändere den Zyklus in Kacheleinstellungen)</string>
     <string name="data_tile_title">Datenverbrauch</string>
-    <string name="failed_data_usage">Datenverbauchsinformation schlug fehl</string>
+    <string name="failed_data_usage">Datenverbrauchsinformation schlug fehl</string>
     <string name="how_to">Klicke hier für eine einfache Anleitung um Shortcutter QS-Kacheln hinzuzufügen.</string>
     <string name="addtiles_title">Wie fügt man QS-Kacheln hinzu? - Anleitung</string>
     <string name="adding_qs_tiles">QS-Kacheln hinzufügen</string>
     <string name="select_tiles"><![CDATA[1. Gehe zum Shortcutter \"Quick Settings Pull-Down\" Tabulator & wähle deine QS-Kacheln aus.]]></string>
     <string name="edit_view"><![CDATA[2. Ziehe die Statusleiste herunter und klicke auf die Schaltfläche "Bearbeiten", wie du unten gesehen hast. Dies ist normalerweise ein Stift-Symbol.
-    \n\n Samsung Benutzer wählen das 3-Punktmenü, wähle Kacheln neu anordnen. Deine Shortcutter Kacheln werden in der unteren Ansicht angezeigt.]]></string>
+    	\n\nSamsung Benutzer wählen das
+	\n3-Punktmenü, wähle Kacheln neu anordnen. Deine Shortcutter Kacheln werden in der unteren Ansicht angezeigt.]]></string>
     <string name="edit_view1">3. In der Bearbeitungsansicht findest du einen 3. Container, du wirst deine neuen Shortcutter Kacheln im untersten Container sehen.
         \n\nDrücke einfach lang um sie hinzuzufügen &amp; ziehe deine ausgewählten Kacheln in den oberen aktiven Container &amp; verlasse die Bearbeitungsansicht.</string>
     <string name="edit_view_note">WICHTIGE NOTIZ:
@@ -309,16 +310,16 @@
     <string name="fontscale_sum">Schalte die Systemschriftartgröße um</string>
     <string name="font_scale_title">Schriftgröße</string>
     <string name="power_saver">Energiesparer</string>
-    <string name="power_save_summary">Schalte Energiesparmodus</string>
+    <string name="power_save_summary">Schaltet Energiesparmodus</string>
     <string name="prem_only_message">Diese Funktion ist nur in der Premiumversion von Shortcutter verfügbar.
         \n\nBitte klicke jetzt auf GO PREMIUM um die folgenden Funtionen zu aktivieren:
-        \n\n \u2022 Zusätzliche Benutzerdef. Kachel Kacheln
+        \n\n \u2022 Zusätzliche benutzerdef. Kacheln
         \n \u2022 Zusätzliche benutzerdef. URL Kacheln
         \n \u2022 Bildschirmaufnahme &amp; Aufnahme
         \n \u2022 Zusätzliche In-App Konfigurationsoptionen
         \n \u2022 &amp; Entferne die 50-Klick Kachel Benachrichtigung</string>
     <string name="no_thanks">Nein Danke</string>
-    <string name="add_event">Hinzufügen Ereignis</string>
+    <string name="add_event">Ereignis hinzufügen</string>
     <string name="add_event_summary">Fügt ein Kalenderereignis hinzu</string>
     <string name="location_not_found">Aktivität der Standorteinstellung nicht gefunden</string>
     <string name="power_not_found">Aktivität der Energieeinstellungen nicht gefunden</string>
@@ -328,16 +329,16 @@
         \n\nHast du daran gedacht deine Unterstützung zu zeigen? &amp; möchtest du Premium?
         \n\nDiese Benachrichtigung wird alle 50 Kachel-Klicks in der Free-Version angezeigt.</string>
     <string name="screenre_cat"><![CDATA[Bildschirm Aufnahme & Speicherung]]></string>
-    <string name="choose_entries">Standortmodus Einträge (2 minimum)</string>
+    <string name="choose_entries">Standortmodus Einträge\n(2 minimum)</string>
     <string name="conf_sel">Bestätige Auswahl</string>
     <string name="recentapps">Vorherige Apps</string>
     <string name="settings_system_required">Schreibberechtigung für Systemeinstellung benötigt - schalte zum Aktivieren</string>
     <string name="usage_access_required">Zugangberechtigung zur Benutzung erforderlich - schalte zum Aktivieren</string>
     <string name="dnd_required">NICHT STÖREN Zugang erforderlich - schalte zum Aktivieren</string>
     <string name="accessibility_description">Erlaubt Shortcutter die folgende Zugangsaktion durchzuführen
-        \n\n\u2022 Schalte geteiler Bildschirm
-        \n\u2022 Schalte vorherige Apps
-        \n\u2022 Zeige Startmenü
+        \n\n\u2022 Schaltet geteilter Bildschirm
+        \n\u2022 Schaltet vorherige Apps
+        \n\u2022 Zeigt Startmenü
         \n\u2022 Ermitteln von Aktivitäten - Erforderlich für Bildschirmfilter &amp; Bildschirmecken, diese Dienste werden gestoppt wenn Apps installiert werden &amp; Berechtigungen werden gewährt.</string>
     <string name="power_dialog">Neustart Dialog</string>
     <string name="split_screen">Mehrfachfenster</string>
@@ -352,9 +353,9 @@
         \n\u2022 Geteilter Bildschirm
         \n\u2022 Erkennt Aktivität
         \n - Benötigt für Bildschirmfilter &amp; Bildschirmecken - diese Dienste werden beendet wenn Apps installiert werden &amp; Berechtigungen werden gewährt.
-        \n\nKlick fortfahren, gehe zu Shortcutter &amp; aktiviere den Dienst.\n\n</string>
-    <string name="split_sum">Schalte geteilter Bildschirm / Mehrfachfenster Modus</string>
-    <string name="power_sum">Öffne das Power Menü</string>
+        \n\nKlicke fortfahren, gehe zu Shortcutter &amp; aktiviere den Dienst.\n\n</string>
+    <string name="split_sum">Schaltet geteilter Bildschirm / Mehrfachfenster Modus</string>
+    <string name="power_sum">Öffnet das Power Menü</string>
     <string name="admin_needed">Adminrechte erforderlich</string>
     <string name="admin_needed_long">Shortcutter benötigt Adminrechte für:\n\n
         \u2022Gerätebildschirm sperren
@@ -391,10 +392,10 @@
     <string name="overlay_required">Benötigt Berechtigung für überlagerte Systemeinblendung</string>
     <string name="mob_data">Mobile
         \nDaten</string>
-    <string name="mob_dat_sum">Schalte Mobile Daten An/Aus</string>
+    <string name="mob_dat_sum">Schaltet Mobile Daten An / Aus</string>
     <string name="toolbox">Werkzeugkasten</string>
     <string name="wake_active">Bildschirm Aufwachen aktiv</string>
-    <string name="floating_toolbox">Aktiviere die Sidebar/Werkzeugkasten</string>
+    <string name="floating_toolbox">Aktiviere die Sidebar / Werkzeugkasten</string>
     <string name="float_summary">Öffnet die Sidebar durch Wischen über den Auslösebalken oder den schwebenden Werkzeugkasten über ein schwebendes Symbol.</string>
     <string name="tb_tiles">Sidebar</string>
     <string name="email_feedback">E-Mail Rückmeldung</string>
@@ -410,8 +411,8 @@
     <string name="mode_select_summary">Zeigt ein Popup Fenster mit zusätzlichen Vollbildmodusoptionen.</string>
     <string name="toggle">Schalte</string>
     <string name="toolbox_label">Werkzeugkasten</string>
-    <string name="app_picker">Wähle ein Applikation</string>
-    <string name="custom_app_tiles">Benutzerdef. Kachel Kacheln</string>
+    <string name="app_picker">Wähle eine Applikation</string>
+    <string name="custom_app_tiles">Benutzerdef. Kacheln</string>
     <string name="swipe_up">Wische von unten nach oben zum Ausblenden</string>
     <string name="lock_screen_title">Sperrbildschirm</string>
     <string name="auto_rotate">Auto
@@ -419,10 +420,10 @@
     <string name="portrait">Portrait</string>
     <string name="landscape">Querformat</string>
     <string name="orientation_mode">Bildschirmrotation</string>
-    <string name="orient_summary">Schalte Bildschirmrotation</string>
+    <string name="orient_summary">Schaltet Bildschirmrotation</string>
     <string name="counter_reset">Zähler auf "0" zurücksetzen?</string>
     <string name="data_roaming">Datenroaming</string>
-    <string name="dataroam_summary">Schalte Datenroaming</string>
+    <string name="dataroam_summary">Schaltet Datenroaming</string>
     <string name="quick_tiles_title">Ändere die Zahl der Kacheln in eingeklappter Statusleiste</string>
     <string name="manufact_depend">Passe die Zahl der angezeigten QS-Kacheln im eingeklappten Pull-Down Menü an.
         \nDiese Anpassung ist herstellerabhängig.</string>
@@ -431,10 +432,10 @@
     <string name="sidebar_pos">Horizontale Position Auslösebalken</string>
     <string name="right">Aktuelle Position Rechts</string>
     <string name="left_position">Aktuelle Position Links</string>
-    <string name="tb_background">Wähle Sidebar/Werkzeugkasten Hintergrundfarbe</string>
+    <string name="tb_background">Wähle Sidebar / Werkzeugkasten Hintergrundfarbe</string>
     <string name="create_calendar_event">Neues Ereignis</string>
-    <string name="tb_tile_tint">Wähle Sidebar/Werkzeugkasten Kachelfarbe</string>
-    <string name="tb_tile_text_tint">Wähle Sidebar/Werkzeugkasten Schriftfarbe</string>
+    <string name="tb_tile_tint">Wähle Sidebar / Werkzeugkasten Kachelfarbe</string>
+    <string name="tb_tile_text_tint">Wähle Sidebar / Werkzeugkasten Schriftfarbe</string>
     <string name="tb_reset_tint">Setze Farbeinstellungen zurück</string>
     <string name="reset_conf">Bist du sicher, dass du all deine Farbeinstellungen zurücksetzen willst?</string>
     <string name="trigger_colour_title">Wähle Auslösebalkenfarbe</string>
@@ -448,7 +449,7 @@
     <string name="tb_columns_title">Werkzeugkasten Spalten</string>
     <string name="tb_columns_summary">Aktuell = %s Spalten</string>
     <string name="sb_columns_title">Sidebar Spalten</string>
-    <string name="design_settings">Sidebar/Werkzeugkasten Themen &amp; Verhalten</string>
+    <string name="design_settings">Sidebar / Werkzeugkasten Themen &amp; Verhalten</string>
     <string name="leedroid">www.LeeDrOiD.co.uk</string>
     <string name="corners_summary">Benutzt eine Überlagerung um die Illusion abgerundeter Bildschirmecken zu erzeugen</string>
     <string name="corners_title">Abgerundete Ecken</string>
@@ -457,19 +458,19 @@
     <string name="corners_scale_summary">Stellt den Bildschirmeckenradius ein</string>
     <string name="corner_colour">Wähle Eckenfarbe</string>
     <string name="how_it_works">Wie es funktioniert</string>
-    <string name="how_it_works1">Shortcutter bietet mehrere unterschiedliche Optionen an, bis zu 68 Shortcuts anzulegen, Einstellungen &amp; Dienste.</string>
-    <string name="how_it_works2">\u2022 Über dein  QS Pull-Down Menü</string>
+    <string name="how_it_works1">Shortcutter bietet mehrere unterschiedliche Optionen an, bis zu 85 Shortcuts anzulegen, Einstellungen &amp; Dienste.</string>
+    <string name="how_it_works2">\u2022 Über dein QS Pull-Down Menü</string>
     <string name="how_it_works3">\u2022 Über die ausklappbare Sidebar oder den schwebenden Werkzeugkasten</string>
-    <string name="how_it_works4">\u2022 Über Schalter in deiner App Übersicht &amp; Startbildschirm, welcher auch in HTC Edge Sense, Zweite Bildschirme und Tasker zugeordnet wird &amp; Vieles mehr!</string>
-    <string name="attention">Bitte beachte die Anleitung im Tabulator 2, wie man Kacheln hinzufügt.</string>
-    <string name="config_serv">Settings</string>
+    <string name="how_it_works4">\u2022 Über Schalter in deiner App Übersicht &amp; Startbildschirm, welcher auch in HTC Edge Sense, Zweiter Bildschirm und Tasker zugeordnet wird &amp; vieles mehr!</string>
+    <string name="attention">Bitte beachte die Anleitung im Tabulator 2, \nwie man Kacheln hinzufügt.</string>
+    <string name="config_serv">Einstellungen</string>
     <string name="screenshot_root">Benutze Root Methode für Bildschirmfoto</string>
     <string name="screenshot_root_summary">Macht ein Bildschirmfoto indem die Systembinärdatei für Bildschirmaufnahme benutzt wird</string>
     <string name="corners_active">Bildschirmecken aktiviert</string>
     <string name="misc_cat">Zeigt Start-Schalter an</string>
     <string name="misc_tiles_cat">Verschiedene Kachel Einstellungen</string>
-    <string name="fancy_anim">Überschneiden Pull-Down Animation</string>
-    <string name="fancy_summary">Aktiviere/Deaktiviere die überschneidende Darstellung des Pull-Down Menüs (Nicht mit allen Geräten kompatibel)</string>
+    <string name="fancy_anim">Pull-Down Animation überschneiden</string>
+    <string name="fancy_summary">Aktiviere / Deaktiviere die überschneidende Darstellung des Pull-Down Menüs (Nicht mit allen Geräten kompatibel)</string>
     <string name="system_toggles">Systemeinstellungskacheln</string>
     <string name="action_toggles">Aktionskacheln</string>
     <string name="info_toggles">Informationskacheln</string>
@@ -497,7 +498,7 @@
     <string name="mylocation_summary">Zeigt aktuellen Standort mit Optionen zur Ansicht in Maps oder zum Teilen</string>
     <string name="loading_map">Lädt Karte....</string>
     <string name="swipe_out">Wische heraus um zu verbergen</string>
-    <string name="choose_ring_entries">Klingelmodus Einträge (2 minimum)</string>
+    <string name="choose_ring_entries">Klingelmodus Einträge\n(2 minimum)</string>
     <string name="qs_head_title">Anzahl Kacheln</string>
     <string name="acc_needed_corners">Diese Einblendung benötigt Zugriff auf:
         \n\n \u2022 Erkennt sichere Aktivitäten.
@@ -512,7 +513,7 @@
     <string name="nigh_light">Nachtlicht</string>
     <string name="brightness">Bildschirmhelligkeit</string>
     <string name="scnigh_light">Shortcutter\nNachtlicht</string>
-    <string name="nightlight_summary">Bietet ein permanentes Nachtlicht &amp; Uhranzeige, und ein Wechselschalter zum Abdunkeln in den Schreibtischmodus</string>
+    <string name="nightlight_summary">Bietet ein permanentes Nachtlicht, Uhranzeige und ein Wechselschalter zum Abdunkeln in den Schreibtischmodus</string>
     <string name="deskmode">Schreibtischuhr\nModus</string>
     <string name="lightmode">Nachtlicht\nModus</string>
     <string name="scdesk">Shortcutter\nSchreibtischuhr</string>
@@ -525,26 +526,26 @@
     <string name="dnd_access">Nicht stören Zugriff</string>
     <string name="usage_access">Datenverbrauch</string>
     <string name="settings_system_summary">Verwendung: Helligkeit, Schriftgröße, haptische Rückmeldung &amp; Bildschirm Auszeit</string>
-    <string name="overlay_summary">Verwendung: Schwebende(r) Sidebar/Werkzeugkasten, Bilschirmfilter &amp; abgerundete Ecken</string>
+    <string name="overlay_summary">Verwendung: Schwebende(r) Sidebar / Werkzeugkasten, Bilschirmfilter &amp; abgerundete Ecken</string>
     <string name="acc_summary">Verwendung: Letzte Apps, Power Menü, geteilter Bildschirm, Bilschirmfilter &amp; abgerundete Ecken</string>
     <string name="dnd_summary">Verwendung: Klingelmodus</string>
     <string name="usage_summary">Verwendung: Datenverbrauchs Kachel</string>
     <string name="actual_tiles">Aktuelle Kacheln =&#160; %1$d </string>
-    <string name="shortcutter_permissions_phone">Dieser Schalter erfordert die Fähigkeit den Netzwerkstatus zu überprüfen.\n\n
-    Um das zu tun braucht die App die Telefonberechtigung.\n\n
-    Bitte klicke Fortfahren &amp; gewährt die Berechtigung wenn abgefragt wird.</string>
-    <string name="shortcutter_permissions_storage">Dieser Schalter erfordert die Fähigkeit auf externen Speicher zuzugreifen.\n\n
-    Um das zu tun braucht die App die Lese/Schreibrechte für den Speicher.\n\n
-    Bitte klicke Fortfahren &amp; gewährt die Berechtigung wenn abgefragt wird.</string>
-    <string name="shortcutter_permissions_camera">Dieser Schalter erfordert die Fähigkeit auf die Kamera zuzugreifen (Blitz).\n\n
-    Um das zu tun braucht die App die Kameraberechtigung.\n\n
-    Bitte klicke Fortfahren &amp; gewährt die Berechtigung wenn abgefragt wird.</string>
-    <string name="shortcutter_permissions_sync">Dieser Schalter erfordert die Fähigkeit auf deine Synchronisierungseinstellungen zuzugreifen.\n\n
-    Um das zu tun braucht die App die Lese/Schreibrechte für die Synchronisierung.\n\n
-    Bitte klicke Fortfahren &amp; gewährt die Berechtigung wenn abgefragt wird.</string>
-    <string name="shortcutter_permissions_location">Dieser Schalter erfordert die Fähigkeit auf deinen Standort zuzugreifen.\n\n
-    Um das zu tun braucht die App die Standortberechtigung.\n\n
-    Bitte klicke Fortfahren &amp; gewährt die Berechtigung wenn abgefragt wird.</string>
+    <string name="shortcutter_permissions_phone">Dieser Schalter erfordert die Fähigkeit den Netzwerkstatus zu überprüfen.
+	\n\nUm das zu tun braucht die App die Telefonberechtigung.
+	\n\nBitte klicke Fortfahren &amp; gewähre die Berechtigung wenn diese abgefragt wird.</string>
+    <string name="shortcutter_permissions_storage">Dieser Schalter erfordert die Fähigkeit auf externen Speicher zuzugreifen.
+	\n\nUm das zu tun braucht die App die Lese/Schreibrechte für den Speicher.
+	\n\nBitte klicke Fortfahren &amp; gewähre die Berechtigung wenn diese abgefragt wird.</string>
+    <string name="shortcutter_permissions_camera">Dieser Schalter erfordert die Fähigkeit auf die Kamera zuzugreifen (Blitz).
+	\n\nUm das zu tun braucht die App die Kameraberechtigung.
+	\n\nBitte klicke Fortfahren &amp; gewähre die Berechtigung wenn diese abgefragt wird.</string>
+    <string name="shortcutter_permissions_sync">Dieser Schalter erfordert die Fähigkeit auf deine Synchronisierungseinstellungen zuzugreifen.
+	\n\nUm das zu tun braucht die App die Lese/Schreibrechte für die Synchronisierung.
+	\n\nBitte klicke Fortfahren &amp; gewähre die Berechtigung wenn diese abgefragt wird.</string>
+    <string name="shortcutter_permissions_location">Dieser Schalter erfordert die Fähigkeit auf deinen Standort zuzugreifen.
+	\n\nUm das zu tun braucht die App die Standortberechtigung.
+	\n\nBitte klicke Fortfahren &amp; gewähre die Berechtigung wenn diese abgefragt wird.</string>
     <string name="unavailable">Nicht verfügbar</string>
     <string name="install_shortcut">Installiere\nShortcut</string>
     <string name="select_shortcut">Wähle ein Shortcut zum Installieren</string>
@@ -552,26 +553,26 @@
     <string name="review">\n Vergiss nicht eine aussagekräftige Bewertung im Play Store zu hinterlassen!</string>
     <string name="enjoying">Magst du Shortcutter?</string>
     <string name="counter">Zähler\n+1</string>
-    <string name="expose_activity_summary">Bediene diesen Schalter von deinem Startbildschirm aus oder aus deiner Appübersicht, was auch das Übertragen in andere Apps wie HTC Edge Sense, geteilter Bildschirm aktiviert &amp;. Tasker.</string>
+    <string name="expose_activity_summary">Bediene diesen Schalter von deinem Startbildschirm aus oder aus deiner Appübersicht, was auch das Übertragen in andere Apps wie HTC Edge Sense, geteilter Bildschirm und Tasker aktiviert.</string>
     <string name="wifi">WiFi</string>
-    <string name="wifi_summary">Aktiviere/Deaktiviere WiFi</string>
-    <string name="wifi_hotspot_summary">Aktiviere/Deaktiviere WiFi HotSpot</string>
+    <string name="wifi_summary">Aktiviere / Deaktiviere WiFi</string>
+    <string name="wifi_hotspot_summary">Aktiviere / Deaktiviere WiFi HotSpot</string>
     <string name="wifi_toggled">WiFi umgeschaltet</string>
     <string name="hotspot_tile">WiFi Hotspot</string>
     <string name="to_be_toggled">Wählen die zu schaltenden Einträge aus.</string>
-    <string name="swipe_out_close">Wische links/recht um zu schließen</string>
+    <string name="swipe_out_close">Wische links / rechts um zu schließen</string>
     <string name="obscure_back"><![CDATA[Hintergrund regeln & Berührungen von außen erkennen]]></string>
     <string name="notif_led">Benachrichtigungs LED</string>
-    <string name="notif_led_summary">Schaltet die LED Benachrichtigung des Gerätes An/Aus\n(herstellerabhängig)</string>
+    <string name="notif_led_summary">Schaltet die LED Benachrichtigung des Gerätes An / Aus\n(herstellerabhängig)</string>
     <string name="system_toggle_summary">Gemäß der OS/Hersteller Kompatibilität</string>
     <string name="experimental_settings">Experimentelle Funktionen</string>
     <string name="sys_setting_tiles">QS-Kacheln zum Schalten der Systemeinstellungen</string>
-    <string name="system_actions">Kacheln zum Schalten/Starten von Systemaktionen</string>
-    <string name="info_tiles_sum">Kacheln bieten &amp; Verlinkung zu nützlichen Systeminformationen</string>
+    <string name="system_actions">Kacheln zum Schalten / Starten von Systemaktionen</string>
+    <string name="info_tiles_sum">Kacheln &amp; Verlinkungen zu nützlichen Systeminformationen</string>
     <string name="sc_service_sum"><![CDATA[Dienste & Funktionen zur Verfügung gestellt von Shortcutter]]></string>
-    <string name="cust_app">Kacheln, denen Applikationen, Aktivitäten &amp; Shortcuts zuordnen kannst.
+    <string name="cust_app">Kacheln, denen du Applikationen, Aktivitäten &amp; Shortcuts zuordnen kannst.
 		Aktiviere hier die Kacheln und klicke dann die Kachel, der du deine App, Aktivität oder Shortcut zuordnest.</string>
-    <string name="cust_sb">Passe das Aussehen und die Bedienbarkeit an &amp; Verhalten der Sidebar oder des Werkzeugkastens</string>
+    <string name="cust_sb">Passe das Aussehen, die Bedienbarkeit und das Verhalten der Sidebar oder des Werkzeugkastens an</string>
     <string name="behaviour">Ändere das Verhalten der Kacheln</string>
     <string name="perms_now">Berechtigungen für spezifische Kacheln benötigt &amp; Funktionen</string>
     <string name="forceEnglish">Erzwinge Englisch</string>
@@ -592,23 +593,23 @@
     <string name="custom_icon">Kachel Symbolhintergrund</string>
     <string name="cust_icon_summary">Wähle einen benutzerdef. Symbolhintergrund</string>
     <string name="manage_tiles">Kachelverwaltung</string>
-    <string name="enable_tiles">Aktiviere/Deaktiviere QS-Kacheln im Pull-Down Menü </string>
+    <string name="enable_tiles">Aktiviere / Deaktiviere QS-Kacheln im Pull-Down Menü</string>
     <string name="qs_tiles">Pull-Down</string>
     <string name="custom_tiles">Benutzerdef. Kacheln</string>
-    <string name="sb_tb_settings">Sidebar/Werkzeugkasten Einstellungen</string>
-    <string name="design_sb_settings">Konfiguriere deine(n) Shortcutter Sidebar/Werkzeugkasten</string>
-    <string name="enable_tiles_tb">Aktiviere/Deaktiviere Sidebar Kacheln</string>
-    <string name="detect_touch">Berühre &amp; Wische Auslösebalken</string>
+    <string name="sb_tb_settings">Sidebar / Werkzeugkasten Einstellungen</string>
+    <string name="design_sb_settings">Konfiguriere deine(n) Shortcutter Sidebar / Werkzeugkasten</string>
+    <string name="enable_tiles_tb">Aktiviere / Deaktiviere Sidebar Kacheln</string>
+    <string name="detect_touch">Berühre &amp; wische Auslösebalken</string>
     <string name="touch_and_swipe">Sidebar öffnet, wenn Auslösebalken berührt oder gewischt wird\n(nach oben, nach unten oder nach innen)</string>
     <string name="swipe_only">Sidebar durch Wischen öffnen\n(nach oben, nach unten oder nach innen)</string>
-    <string name="hide_header_sum">Sidebar/Werkzeugkasten entfernt Überschrift</string>
-    <string name="hide_header_off_sum">Sidebar/Werkzeugkasten Überschrift sichtbar</string>
+    <string name="hide_header_sum">Sidebar / Werkzeugkasten Überschrift entfernt</string>
+    <string name="hide_header_off_sum">Sidebar / Werkzeugkasten Überschrift sichtbar</string>
     <string name="capture_quality">Aufnahmequalität</string>
     <string name="share">Teile</string>
     <string name="delete">Lösche</string>
     <string name="view">Ansehen</string>
     <string name="trigger">Auslösebalken</string>
-    <string name="tile_icons">Kacheln/Symbole</string>
+    <string name="tile_icons">Kacheln / Symbole</string>
     <string name="labels">Kachelbeschriftung</string>
     <string name="icon_scale">Symbol &amp; Textgröße</string>
     <string name="flash_sale">Ich biete 40% Rabatt auf Shortcutter Premium bis zum 25. August!\nBitte wähle die £1.99 in der Premiumkaufoption.</string>
@@ -619,21 +620,21 @@
     <string name="mute_media">Medien stumm</string>
     <string name="mute_media_summary">Schalte Medienlaustärke stumm</string>
     <string name="system_perms_message_touches">Diese Option erfordert die Fähigkeit, Systemeinstellungen zu schreiben, da wir diese Berechtigungen nicht auf normale Weise anfordern können, müssen Sie sie aktivieren.
-        \n\nKlicke Fortfahren &amp; du wirst auf den entsprechenden Bildschirm gebracht.\n</string>
+        \n\nKlicke Fortfahren &amp; du wirst auf den entsprechenden Bildschirm weitergeleitet.\n</string>
     <string name="lock_root">Benutze ROOT Methode</string>
     <string name="root_lock_sum">Sendet ein POWER Schlüsselereignis mit Shell</string>
-    <string name="choose_activity">Wählen Aktivität</string>
-    <string name="exp_notif">Erweitert Benachrichtigungen</string>
-    <string name="quick_settings">Erweitert Quick Settings</string>
-    <string name="exp_notif_sum">Erweitert das Pull-Down Benachrichtigungen</string>
-    <string name="qs_sum">Erweitert das Pull-Down Quick Settings</string>
+    <string name="choose_activity">Wähle Aktivität</string>
+    <string name="exp_notif">Erweitert Benachr.</string>
+    <string name="quick_settings">Erweitert QS</string>
+    <string name="exp_notif_sum">Erweitert die Pull-Down Benachrichtigungen</string>
+    <string name="qs_sum">Erweitert die Pull-Down Quick Settings</string>
     <string name="bluetooth">Bluetooth</string>
-    <string name="bt_summary">Aktiviere/Deaktiviere Bluetooth</string>
+    <string name="bt_summary">Aktiviere / Deaktiviere Bluetooth</string>
     <string name="sidebar_off_secure">SideBar aufgehoben:
         \nErkennt sichere Aktivitäten</string>
     <string name="went_wrong">Etwas ist schief gelaufen. Bitte versuche es erneut. Wenn dieses Problem weiterhin besteht, kontaktiere mich bitte und teile mir deine Gerätedetails mit.</string>
     <string name="cont_and_phone"><![CDATA[Etwas ist schief gelaufen, hast du Kontakte & Telefon Berechtigungen gewährt?]]></string>
-    <string name="cp_head">TIPPE INS ZENTRUM ZUM BESTÄTIGEN ODER ZURÜCK ZUM ABBRECHEN</string>
+    <string name="cp_head">Tippe ins ZENTRUM zum Bestätigen oder ZURÜCK zum Abbrechen</string>
     <string name="apply">Anwenden</string>
     <string name="scale">Größenordnung =&#160;</string>
     <string name="disabled">Deaktiviert</string>
@@ -641,11 +642,11 @@
     <string name="ring_mode">Klingelmodus</string>
     <string name="ap_name">Webadresse</string>
     <string name="create_shortcut">Verknüpfung erstellen</string>
-    <string name="enter_url">Geben Sie eine Web-URL oder einen Suchbegriff ein</string>
+    <string name="enter_url">Gib eine Web-URL oder einen Suchbegriff ein</string>
     <string name="how_to_summary">Ein einfacher Überblick über das, was die App bietet</string>
     <string name="round_corners">Abgerundete Ecken</string>
     <string name="run_without">Weiter ohne</string>
     <string name="search_if_invalid">Wenn die URL nicht gültig ist, wird eine Google-Suche durchgeführt</string>
     <string name="xda">XDA Entwickler Thread</string>
-    <string name="choose_function">Wählen Sie Funktion</string>
+    <string name="choose_function">Wähle Funktion</string>
 </resources>
