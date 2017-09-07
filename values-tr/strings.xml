@@ -647,4 +647,9 @@
     <string name="search_if_invalid">geçersiz bir adres girildiyse, google araması başlatılır.</string>
     <string name="xda">XDA Developers Thread</string>
     <string name="choose_function">" İşlev Seç"</string>
+    <string name="cust_app_pref">Tiles that you can assign Applications, Activities, Shortcuts &amp; Web Links to.</string>
+    <string name="samsung_note">Important note for Samsung users</string>
+    <string name="battery_opt">As you are using a Samsung device, you may experience tiles becoming unresponsive after being dormant.</string>
+    <string name="trig_alpha">To rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
+    <string name="problem">Got a problem or feature request\? \n Mail me first :)</string>
 </resources>

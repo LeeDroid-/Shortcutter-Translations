@@ -293,12 +293,12 @@
         \n(Change cycle in Tile Settings)</string>
     <string name="data_tile_title">Data Usage</string>
     <string name="failed_data_usage">Failed to launch data usage information</string>
-    <string name="how_to">Click Here for A simple guide to adding Shortcutter Quick Setting Tiles.</string>
+    <string name="how_to">Click Here for A guide to adding Quick Setting Tiles.\n\nOnce you have enabled your chosen tiles in the categories below, you need to add them to your pull-down in the system quick settings editor.</string>
     <string name="addtiles_title">How To Add QS Tiles - Guide</string>
     <string name="adding_qs_tiles">Adding QS Tiles</string>
     <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Quick Settings Tiles\" tab & make your QS Tile selections.]]></string>
     <string name="edit_view"><![CDATA[2. Pull-Down your status bar & hit the edit button as seen below, this is usually a pen icon.
-    \n\n Samsung users hit the 3 dot menu & select rearrange tiles, your Shortcutter tiles will show in the bottom view.]]></string>
+    \n\n Samsung users hit the 3 dot menu & select rearrange, your Shortcutter tiles will show in the bottom view.]]></string>
     <string name="edit_view1">3. In the Edit View you will find 2/3 containers, you will see your new Shortcutter tiles in the bottom container.
         \n\nTo add them, simply long press &amp; drag your chosen tiles up to the top (Active) container &amp; exit the Edit View.</string>
     <string name="edit_view_note">IMPORTANT NOTE:
@@ -406,7 +406,7 @@
     <string name="floating_toolbox">Enable The Sidebar/Toolbox</string>
     <string name="float_summary">A Sidebar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
     <string name="tb_tiles">Sidebar</string>
-    <string name="email_feedback">Email Feedback</string>
+    <string name="email_feedback">Email Feedback/Ask A Question</string>
     <string name="submit_review">Leave A Review</string>
     <string name="rate_app">Rate The App</string>
     <string name="yes_pro">GO PREMIUM</string>
@@ -526,7 +526,7 @@
     <string name="lightmode">Night Light\nMode</string>
     <string name="scdesk">Shortcutter\nDesk Clock</string>
     <string name="expand_collapse">Sidebar Expander</string>
-    <string name="expose_toggler">Enable the \"Sidebar Expander\" icon to open/close the Sidebar or ToolBox to toggle the Sidebar from your home screen or other apps</string>
+    <string name="expose_toggler">Create an additional \"Sidebar Expander\" icon to open/close the Sidebar or ToolBox from your home screen or other apps.</string>
     <string name="permissions">Manage Permissions</string>
     <string name="settings_access">Write System Settings</string>
     <string name="overlay_access">Overlay Permissions</string>
@@ -561,7 +561,7 @@
     <string name="review">\n Don\'t forget to leave a rocking review in the Play Store!</string>
     <string name="enjoying">Enjoying Shortcutter?</string>
     <string name="counter">Counter\n+1</string>
-    <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp;. Tasker.</string>
+    <string name="expose_activity_summary">Create additional icons to access these toggle\'s from your home screen or app drawer.\n\nThis also enables mapping toggles to other app\'s such as HTC Edge Sense, Second Displays &amp; Tasker.</string>
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">Enable/Disable WiFi</string>
     <string name="wifi_hotspot_summary">Enable/Disable WiFi HotSpot</string>
@@ -579,13 +579,14 @@
     <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
     <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
     <string name="cust_app">Tiles that you can assign Applications, Activities, Shortcuts &amp; Web Links to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
+    <string name="cust_app_pref">Tiles that you can assign Applications, Activities, Shortcuts &amp; Web Links to.</string>
     <string name="cust_sb">Customise the look, feel &amp; behaviour of the Sidebar or ToolBox</string>
     <string name="behaviour">Change the behaviour of Tiles</string>
     <string name="perms_now">These will be requested when enabling services.</string>
     <string name="forceEnglish">Force English</string>
     <string name="force_eng_summary">Run the app in the English Language</string>
     <string name="xiaomi">Your device requires applications to be granted auto start permissions, Shortcutter background services will be killed if this is not enabled.\n\nPlease click Proceed &amp; enable auto start for Shortcutter.</string>
-    <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Battery Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
+    <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances, Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Battery Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
     <string name="gridItems" translatable="false">customapp1TB,customapp2TB,customapp3TB,customapp4TB,alarm,ram,corners,filter,wake,counter,dice,calendar,sync,camera,email,nightlight,voicesearch,search,inear,playpause,mutemedia</string>
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
     <string name="monochrome">B&amp;W</string>
@@ -601,7 +602,7 @@
     <string name="custom_icon">Tile Icon Background</string>
     <string name="cust_icon_summary">Select a custom icon background</string>
     <string name="manage_tiles">Manage tiles</string>
-    <string name="enable_tiles">Enable/Disable Quick Settings Pull-Down Tiles</string>
+    <string name="enable_tiles">Enable/Disable Quick Settings Pull-Down Tiles.</string>
     <string name="qs_tiles">Pull-Down</string>
     <string name="custom_tiles">Custom Tiles</string>
     <string name="sb_tb_settings">Sidebar/Toolbox Settings</string>
@@ -656,5 +657,7 @@
     <string name="search_if_invalid">If the URL is not valid, a google search will be performed</string>
     <string name="choose_function">Choose Function</string>
     <string name="samsung_note">Important note for Samsung users</string>
-    <string name="battery_opt">As you are yousing a Samsung device, you may experience tiles becoming unresponsive after being dormant.\nTo rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
+    <string name="battery_opt">As you are using a Samsung device, you may experience tiles becoming unresponsive after being dormant.\nTo rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
+    <string name="trig_alpha">Trigger Opacity</string>
+    <string name="problem">Got a problem or feature request\? \n Mail me first :)</string>
 </resources>

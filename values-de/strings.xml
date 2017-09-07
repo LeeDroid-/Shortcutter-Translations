@@ -49,7 +49,7 @@
     <string name="CustomTile23">Benutzerdef. Kachel 23</string>
     <string name="CustomTile24">Benutzerdef. Kachel 24</string>
     <string name="CustomTile25">Benutzerdef. Kachel 25</string>
-    <string name="CustomTile26">Benutzerdef. Kachel 226</string>
+    <string name="CustomTile26">Benutzerdef. Kachel 26</string>
     <string name="CustomTile27">Benutzerdef. Kachel 27</string>
     <string name="CustomTile28">Benutzerdef. Kachel 28</string>
     <string name="CustomTile29">Benutzerdef. Kachel 29</string>
@@ -572,6 +572,7 @@
     <string name="sc_service_sum"><![CDATA[Dienste & Funktionen zur Verfügung gestellt von Shortcutter]]></string>
     <string name="cust_app">Kacheln, denen du Applikationen, Aktivitäten &amp; Shortcuts zuordnen kannst.
 		Aktiviere hier die Kacheln und klicke dann die Kachel, der du deine App, Aktivität oder Shortcut zuordnest.</string>
+    <string name="cust_app_pref">Kacheln, denen du Applikationen, Aktivitäten &amp; Shortcuts zuordnen kannst.</string>
     <string name="cust_sb">Passe das Aussehen, die Bedienbarkeit und das Verhalten der Sidebar oder des Werkzeugkastens an</string>
     <string name="behaviour">Ändere das Verhalten der Kacheln</string>
     <string name="perms_now">Berechtigungen für spezifische Kacheln benötigt &amp; Funktionen</string>
@@ -649,6 +650,8 @@
     <string name="search_if_invalid">Wenn die URL nicht gültig ist, wird eine Google-Suche durchgeführt</string>
     <string name="xda">XDA Entwickler Thread</string>
     <string name="choose_function">Wähle Funktion</string>
-    <string name="samsung_note">Important note for Samsung users</string>
-    <string name="battery_opt">As you are yousing a Samsung device, you may experience tiles becoming unresponsive after being dormant.\nTo rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
+    <string name="samsung_note">Wichtiger Hinweis für Samsung Nutzer</string>
+    <string name="battery_opt">Falls du ein Samsung Gerät nutzt kann es sein, dass die Kacheln nicht mehr reagieren nachdem das Gerät im Tiefschlafmodus war.\n Um dieses Problem zu umgehen solltest du den Shortcutter von den Energiesparoptionen in deinen Geräteeinstellungen ausschließen.</string>
+    <string name="trig_alpha">Transparenz auslösen</string>
+    <string name="problem">Got a problem or feature request\? \n Mail me first :)</string>
 </resources>
