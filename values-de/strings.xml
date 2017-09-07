@@ -654,4 +654,5 @@
     <string name="battery_opt">Falls du ein Samsung Gerät nutzt kann es sein, dass die Kacheln nicht mehr reagieren nachdem das Gerät im Tiefschlafmodus war.\n Um dieses Problem zu umgehen solltest du den Shortcutter von den Energiesparoptionen in deinen Geräteeinstellungen ausschließen.</string>
     <string name="trig_alpha">Transparenz auslösen</string>
     <string name="problem">Got a problem or feature request\? \n Mail me first :)</string>
+    <string name="opacity">Opacity =</string>
 </resources>

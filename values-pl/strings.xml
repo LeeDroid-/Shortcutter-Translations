@@ -654,4 +654,5 @@
     <string name="battery_opt">As you are using a Samsung device, you may experience tiles becoming unresponsive after being dormant.</string>
     <string name="trig_alpha">To rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
     <string name="problem">Got a problem or feature request\? \n Mail me first :)</string>
+    <string name="opacity">Opacity =</string>
 </resources>
