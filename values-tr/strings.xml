@@ -616,8 +616,8 @@
     <string name="screen_dim">Ekran Karartma =&#160;</string>
     <string name="mute_media">Meyda Sesini Kapat</string>
     <string name="mute_media_summary">Media sesini kapatın</string>
-    <string name="system_perms_message_touches">This option requires the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
-        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
+    <string name="system_perms_message_touches">Bu özellik sistem ayarlarını değiştirme izni gerektirir.Uygulama bu izni kendisi alamaz, lütfen gerekli izni verin.
+        \n\nClick proceed &amp; İznin verileceği ayara yönlendirileceksiniz\n</string>
     <string name="lock_root">ROOT Yöntemini kullan</string>
     <string name="root_lock_sum">Açma/Kapama tuşuna basma komutu yollar</string>
     <string name="choose_activity">Aktivite seç</string>
@@ -629,28 +629,28 @@
     <string name="bt_summary">Aç/Kapat Bluetooth</string>
     <string name="sidebar_off_secure">Yan Menü durduruldu:
         \nGüvenli aktivite bulundu</string>
-    <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
-    <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
+    <string name="went_wrong">Hata oluştu, Lütfen tekrar deneyin. Sürekli bu hatayı alıyorsanız Lütfen bana cihaz bilgilerini içeren bir e-mail atın.</string>
+    <string name="cont_and_phone"><![CDATA[Hata oluştu, Kişilere ve telefona ulaşım iznini vermiş miydiniz?]]></string>
     <string name="adding_qs_tiles">Hızlı Ayar Sekmesi eklemek</string>
-    <string name="misc_cat">Expose Launcher Toggles</string>
+    <string name="misc_cat">Ana Sayfa Sekmeleri</string>
     <string name="transparency">Saydamlık</string>
     <string name="scale">Derecesi =&#160;</string>
     <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp;. Tasker.</string>
-    <string name="cp_head">TAP CENTER TO CONFIRM OR BACK TO CANCEL</string>
+    <string name="cp_head">KABUL İÇİN ORTAYA, İPTAL ETMEK İÇİN GERİYE DOKUNUN</string>
     <string name="apply">Uygula</string>
     <string name="ap_name">Web Adresi</string>
     <string name="create_shortcut">Kısayol oluştur</string>
     <string name="enter_url">Enter a Web URL or search term</string>
-    <string name="how_to_summary">A simple overview of what the app offers</string>
+    <string name="how_to_summary">Uygulamanın neler yapabileceğinin özeti</string>
     <string name="round_corners">Yuvarlatılmış Köşeler</string>
     <string name="run_without">olmadan devam et</string>
     <string name="search_if_invalid">geçersiz bir adres girildiyse, google araması başlatılır.</string>
     <string name="xda">XDA Developers Thread</string>
     <string name="choose_function">" İşlev Seç"</string>
-    <string name="cust_app_pref">Tiles that you can assign Applications, Activities, Shortcuts &amp; Web Links to.</string>
-    <string name="samsung_note">Important note for Samsung users</string>
-    <string name="battery_opt">As you are using a Samsung device, you may experience tiles becoming unresponsive after being dormant.</string>
-    <string name="trig_alpha">To rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
-    <string name="problem">Got a problem or feature request\? \n Mail me first :)</string>
-    <string name="opacity">Opacity =</string>
+    <string name="cust_app_pref">Sekme olarak ekleyebileceğiniz Uygulamalar, Aktiviteler, Kısayollar Applications, &amp; Web Adresleri.</string>
+    <string name="samsung_note">Samsun kullanıcıları için önemli uyarı</string>
+    <string name="battery_opt">Samsung kullanıcıları, ekran kilidi (uyku) modunun ardından telefonlarının donduğunu gözlemlemişlerdir.</string>
+    <string name="trig_alpha">Pil ayarlarında, shortcutter uygulamasını pil optimizasyonundan çıkarırsanız bu sorun çözülür.</string>
+    <string name="problem">Problemleriniz ve önerileriniz için\? \n Lütfen e-mail atın :)</string>
+    <string name="opacity">Saydamlık =</string>
 </resources>
