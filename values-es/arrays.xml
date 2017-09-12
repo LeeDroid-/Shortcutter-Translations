@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="location_mode_entries">
-        <item>Off</item>
-        <item>Device Only</item>
-        <item>Battery Saving</item>
-        <item>High Accuracy</item>
+        <item>Desactivado</item>
+        <item>Solo dispositivo</item>
+        <item>Ahorro de batería</item>
+        <item>Alta precisión</item>
     </string-array>
     <string-array name="location_mode_values">
         <item>0</item>
@@ -13,9 +13,9 @@
         <item>3</item>
     </string-array>
     <string-array name="ring_mode_entries">
-        <item>Silent</item>
-        <item>Vibrate</item>
-        <item>Ring</item>
+        <item>Silencio</item>
+        <item>Vibración</item>
+        <item>Sonido</item>
     </string-array>
     <string-array name="ring_mode_values">
         <item>0</item>
@@ -23,9 +23,9 @@
         <item>2</item>
     </string-array>
     <string-array name="sidebar_tmb_entries">
-        <item>Top</item>
-        <item>Center</item>
-        <item>Bottom</item>
+        <item>Arriba</item>
+        <item>Centro</item>
+        <item>Abajo</item>
     </string-array>
     <string-array name="sidebar_tmb_values">
         <item>0</item>
@@ -35,7 +35,7 @@
     <string-array name="tb_columns_entries">
         <item>2</item>
         <item>3</item>
-        <item>4 (Default)</item>
+        <item>4 (por defecto)</item>
         <item>5</item>
     </string-array>
     <string-array name="tb_columns_values">
@@ -46,7 +46,7 @@
     </string-array>
     <string-array name="sb_columns_entries">
         <item>1</item>
-        <item>2 (Default)</item>
+        <item>2 (por defecto)</item>
         <item>3</item>
         <item>4</item>
         <item>5</item>
@@ -62,13 +62,13 @@
         <item>1080p</item>
         <item>720p</item>
         <item>480p</item>
-        <item>HIGH</item>
+        <item>HD</item>
         <item>QVGA</item>
     </string-array>
     <string-array name="cust_tile_choice">
-        <item>Application</item>
-        <item>Activity (Advanced)</item>
-        <item>Shortcut</item>
-        <item>Web Link</item>
+        <item>Aplicación</item>
+        <item>Actividad (avanzado)</item>
+        <item>Atajo</item>
+        <item>Enlace web</item>
     </string-array>
 </resources>
