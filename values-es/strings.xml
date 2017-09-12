@@ -1,656 +1,656 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Shortcutter</string>
-    <string name="cancel">Cancel</string>
-    <string name="autosync">Auto Sync</string>
-    <string name="locationMode">Location Mode</string>
-    <string name="HeadsUp">Heads Up</string>
-    <string name="no_perms">No Permissions</string>
-    <string name="Off">Off</string>
-    <string name="device_only">Device Only</string>
-    <string name="battery_saving">Battery Saving</string>
-    <string name="high_accuracy">High Accuracy</string>
-    <string name="special_perms_command">Once complete, click confirm &amp; we will test access, if the command failed, try again.</string>
-    <string name="special_perms_required">"Special permission required
-        \n\nTry running: "</string>
-    <string name="wifi_call">Wi-Fi Calling</string>
+    <string name="app_name">Shortcutter (creador de atajos)</string>
+    <string name="cancel">Cancelar</string>
+    <string name="autosync">Autosincronización</string>
+    <string name="locationMode">Modo de ubicación</string>
+    <string name="HeadsUp">Aviso</string>
+    <string name="no_perms">No hay permisos</string>
+    <string name="Off">Desactivado</string>
+    <string name="device_only">Solo dispositivo</string>
+    <string name="battery_saving">Ahorro de batería</string>
+    <string name="high_accuracy">Alta precisión</string>
+    <string name="special_perms_command">Una vez completado, haz clic en confirmar y probaremos el acceso. Si el comando falla, vuelve a intentarlo.</string>
+    <string name="special_perms_required">"Se necesitan permisos especiales
+        \n\nIntenta ejecutar: "</string>
+    <string name="wifi_call">Llamada Wi-Fi</string>
     <string name="adb">ADB</string>
-    <string name="NetMode">Network Mode</string>
-    <string name="haptic">Haptic Feedback</string>
-    <string name="root_required1">Root access required to complete</string>
-    <string name="select_net_mode">Select Network Mode</string>
-    <string name="exit">Exit</string>
-    <string name="root_access">Root Features</string>
-    <string name="enable_root_features">Enable Root Features</string>
-    <string name="root_features_enabled">Root Features Enabled</string>
-    <string name="appicon">AppIcon</string>
-    <string name="CustomTile1">Custom Tile 1</string>
-    <string name="CustomTile2">Custom Tile 2</string>
-    <string name="CustomTile4">Custom Tile 4</string>
-    <string name="CustomTile3">Custom Tile 3</string>
-    <string name="CustomTile5">Custom Tile 5</string>
-    <string name="CustomTile6">Custom Tile 6</string>
-    <string name="CustomTile7">Custom Tile 7</string>
-    <string name="CustomTile8">Custom Tile 8</string>
-    <string name="CustomTile9">Custom Tile 9</string>
-    <string name="CustomTile10">Custom Tile 10</string>
-    <string name="CustomTile11">Custom Tile 11</string>
-    <string name="CustomTile12">Custom Tile 12</string>
-    <string name="CustomTile13">Custom Tile 13</string>
-    <string name="CustomTile14">Custom Tile 14</string>
-    <string name="CustomTile15">Custom Tile 15</string>
-    <string name="CustomTile16">Custom Tile 16</string>
-    <string name="CustomTile17">Custom Tile 17</string>
-    <string name="CustomTile18">Custom Tile 18</string>
-    <string name="CustomTile19">Custom Tile 19</string>
-    <string name="CustomTile20">Custom Tile 20</string>
-    <string name="CustomTile21">Custom Tile 21</string>
-    <string name="CustomTile22">Custom Tile 22</string>
-    <string name="CustomTile23">Custom Tile 23</string>
-    <string name="CustomTile24">Custom Tile 24</string>
-    <string name="CustomTile25">Custom Tile 25</string>
-    <string name="CustomTile26">Custom Tile 26</string>
-    <string name="CustomTile27">Custom Tile 27</string>
-    <string name="CustomTile28">Custom Tile 28</string>
-    <string name="CustomTile29">Custom Tile 29</string>
-    <string name="CustomTile30">Custom Tile 30</string>
-    <string name="RebootRecovery">Reboot Recovery</string>
-    <string name="Reboot">Reboot</string>
-    <string name="ring_mode">Ring Mode</string>
-    <string name="Screen_timeout">Screen Timeout</string>
-    <string name="alarm_tile">Next Alarm</string>
-    <string name="need_dnd">No Permissions, please allow shortcutter to override DND</string>
-    <string name="next_alarm">Next Alarm
+    <string name="NetMode">Modo de red</string>
+    <string name="haptic">Respuesta háptica</string>
+    <string name="root_required1">Se necesita acceso root para completarlo</string>
+    <string name="select_net_mode">Seleccinoar modo de red</string>
+    <string name="exit">Salir</string>
+    <string name="root_access">Características root</string>
+    <string name="enable_root_features">Activar características root</string>
+    <string name="root_features_enabled">Características root activadas</string>
+    <string name="appicon">Icono de aplicación</string>
+    <string name="CustomTile1">Personalizado 1</string>
+    <string name="CustomTile2">Personalizado 2</string>
+    <string name="CustomTile4">Personalizado 4</string>
+    <string name="CustomTile3">Personalizado 3</string>
+    <string name="CustomTile5">Personalizado 5</string>
+    <string name="CustomTile6">Personalizado 6</string>
+    <string name="CustomTile7">Personalizado 7</string>
+    <string name="CustomTile8">Personalizado 8</string>
+    <string name="CustomTile9">Personalizado 9</string>
+    <string name="CustomTile10">Personalizado 10</string>
+    <string name="CustomTile11">Personalizado 11</string>
+    <string name="CustomTile12">Personalizado 12</string>
+    <string name="CustomTile13">Personalizado 13</string>
+    <string name="CustomTile14">Personalizado 14</string>
+    <string name="CustomTile15">Personalizado 15</string>
+    <string name="CustomTile16">Personalizado 16</string>
+    <string name="CustomTile17">Personalizado 17</string>
+    <string name="CustomTile18">Personalizado 18</string>
+    <string name="CustomTile19">Personalizado 19</string>
+    <string name="CustomTile20">Personalizado 20</string>
+    <string name="CustomTile21">Personalizado 21</string>
+    <string name="CustomTile22">Personalizado 22</string>
+    <string name="CustomTile23">Personalizado 23</string>
+    <string name="CustomTile24">Personalizado 24</string>
+    <string name="CustomTile25">Personalizado 25</string>
+    <string name="CustomTile26">Personalizado 26</string>
+    <string name="CustomTile27">Personalizado 27</string>
+    <string name="CustomTile28">Personalizado 28</string>
+    <string name="CustomTile29">Personalizado 29</string>
+    <string name="CustomTile30">Personalizado 30</string>
+    <string name="RebootRecovery">Reinicio de recuperación</string>
+    <string name="Reboot">Reinicio</string>
+    <string name="ring_mode">Modo de sonido</string>
+    <string name="Screen_timeout">Tiempo de espera de pantalla</string>
+    <string name="alarm_tile">Siguiente alarma</string>
+    <string name="need_dnd">No hay permisos. Por favor, permite que se anule DND</string>
+    <string name="next_alarm">Siguiente alarma
         \n</string>
-    <string name="vibrate">Vibrate</string>
-    <string name="ring">Ring</string>
-    <string name="silent">Silent</string>
-    <string name="screen_timeout">Timeout</string>
-    <string name="additonal_perms_req">Additional Permissions Required</string>
-    <string name="notification_policy_message">Some shortcuts require the ability to modify notification settings, as we cannot request these permissions in the normal fasion, you will need to enable them.
-        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
-    <string name="proceed">Proceed</string>
-    <string name="system_perms_message">Some tiles require the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
-        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
-    <string name="press_back">Press back to return once enabled.</string>
-    <string name="credits">Credits</string>
-    <string name="full_title">Shortcutter Quick Settings</string>
-    <string name="thanks_for_support">"Thanks for your support!  :)"</string>
+    <string name="vibrate">Vibración</string>
+    <string name="ring">Sonido</string>
+    <string name="silent">Silencio</string>
+    <string name="screen_timeout">Tiempo de espera</string>
+    <string name="additonal_perms_req">Necesitas permisos adicionales</string>
+    <string name="notification_policy_message">Algunos atajos requieren la habilidad de modificar los ajustes de notificaciones, debido a que no tenemos estos permisos, tendrás que activarlos.
+        \n\nHaz clic en continuar y se te llevará a la pantalla adecuada.\n</string>
+    <string name="proceed">Continuar</string>
+    <string name="system_perms_message">Algunos apartados pueden modificar ajustes del sistema, debido a que no tenemos estos permisos, tendrás que activarlos.
+        \n\nHaz clic en continuar y se te llevará a la pantalla adecuada.\n</string>
+    <string name="press_back">Pulsa el botón de retroceder una vez activado.</string>
+    <string name="credits">Créditos</string>
+    <string name="full_title">Ajustes rápidos de Shortcutter</string>
+    <string name="thanks_for_support">"¡Gracias por tu apoyo!  :)"</string>
     <string name="premuim">Shortcutter Premium</string>
-    <string name="confirm_disable_root">You are about to disable all ROOT features, this will remove any QS tiles that require ROOT access.
-        \n\nDo you want to proceed?</string>
-    <string name="please_confirm">Please Confirm</string>
-    <string name="nothing_selected">Nothing Selected</string>
-    <string name="selected">"Selected: "</string>
-    <string name="camera">Camera</string>
-    <string name="flashlight">Flashlight</string>
-    <string name="ambient_display">Doze Display</string>
-    <string name="reboot_now">Reboot Now?</string>
-    <string name="root_available">Your device appears to be rooted.
-        \n Toggle me for more QS Tiles!</string>
-    <string name="available_in_prem1">Limited features &amp; a notification every 50 clicks.</string>
-    <string name="available_in_prem3">Go Premium now &amp; show your support!</string>
-    <string name="ad_supported">Shortcutter FREE</string>
-    <string name="disabled">Disabled</string>
-    <string name="enabled">Enabled</string>
-    <string name="splash_3">Custom Quick Settings for Android</string>
-    <string name="by_leedroid">Created By LeeDrOiD</string>
-    <string name="welcome_to_shortcutter">Welcome To</string>
-    <string name="Immersive">Immersive Mode</string>
-    <string name="manual_secure_summary">Usage: Location Mode Toggle, Immersive Mode, ADB, Heads Up, Monochrome, Data Roaming, Ambient Display, On Wile Chargin &amp; Power Save - (A PC is required)</string>
-    <string name="secure_access">Settings Secure Access</string>
-    <string name="action_required">Action Required</string>
-    <string name="settings_secure_instruct">You can manually grant Shortcutter access to Settings Secure, allowing more control over the system.
-        \n\nFrom your PC go to www.leedroid.co.uk/SettingsSecureGuide &amp; follow the instructions.
+    <string name="confirm_disable_root">Estás apunto de desactivar las características ROOT, esto eliminará cualquier apartado QS que necesite acceso ROOT.
+        \n\n¿Quieres continuar?</string>
+    <string name="please_confirm">Por favor, confirma</string>
+    <string name="nothing_selected">Nada seleccionado</string>
+    <string name="selected">"Seleccionado: "</string>
+    <string name="camera">Cámara</string>
+    <string name="flashlight">Linterna</string>
+    <string name="ambient_display">Doze</string>
+    <string name="reboot_now">¿Reiniciar ya?</string>
+    <string name="root_available">Tu dispositivo puede estar rooteado.
+        \n ¡Actívame para los apartados QS!</string>
+    <string name="available_in_prem1">Características limitadas y una notificación cada 50 clics.</string>
+    <string name="available_in_prem3">¡Hazte premium ya y muestra nos tu apoyo!</string>
+    <string name="ad_supported">Shortcutter GRATIS</string>
+    <string name="disabled">Desactivado</string>
+    <string name="enabled">Activado</string>
+    <string name="splash_3">Ajustes de personalización para Android</string>
+    <string name="by_leedroid">Creado por LeeDrOiD</string>
+    <string name="welcome_to_shortcutter">Te damos la bienvenida a</string>
+    <string name="Immersive">Modo inmersivo</string>
+    <string name="manual_secure_summary">Uso: modo ubicación, modo inmersivo, ADB, avisos, monocromático, roaming de datos, doze ambiental, ahorro de batería mientras recarga (PC necesario).</string>
+    <string name="secure_access">Ajustes de acceso de seguridad</string>
+    <string name="action_required">Acción necesaria</string>
+    <string name="settings_secure_instruct">Puedes conceder acceso a Shortcutter a los ajustes de seguridad a mano, dándole más control sobre el sistema.
+        \n\nDesde tu PC dirígete a www.leedroid.co.uk/SettingsSecureGuide y sigue las instrucciones.
         \n\n</string>
-    <string name="confirm">CONFIRM</string>
-    <string name="screenshot">Screenshot</string>
-    <string name="stop_recording">Stop Recording</string>
-    <string name="start_recording">Start Recording</string>
-    <string name="screen_recorder">Screen Recorder</string>
-    <string name="show_toggle">Show Toggle</string>
-    <string name="close">Close</string>
-    <string name="record_audio">Record Audio</string>
-    <string name="show_touches">Show Touches</string>
-    <string name="subscription_error">Your device does not support subscriptions.</string>
-    <string name="iab_async_error">Error launching purchase flow. Another async operation in progress.</string>
-    <string name="onetimefee2">£1.89</string>
-    <string name="onetimefee5">£3.79
-        \n(Gratuity)</string>
-    <string name="donation2">£1.89 License</string>
-    <string name="donation5">£3.79 License</string>
-    <string name="donation10">£9.60 License</string>
-    <string name="detected">Detected</string>
-    <string name="yes">Yes</string>
-    <string name="subscription">Or a Subscription</string>
-    <string name="thankyoumultiple">Multiple licenses detected!
-        \nThank\'s for your support!</string>
-    <string name="thankyou">Thank\'s for your support!</string>
-    <string name="iab_error">In App Billing is not supported on your device yet.
-        \n\nWould you like to purchase a Premium key via the play store?</string>
+    <string name="confirm">CONFIRMAR</string>
+    <string name="screenshot">Captura de pantalla</string>
+    <string name="stop_recording">Detener grabación</string>
+    <string name="start_recording">Iniciar grabación</string>
+    <string name="screen_recorder">Grabadora de pantalla</string>
+    <string name="show_toggle">Mostrar opción</string>
+    <string name="close">Cerrar</string>
+    <string name="record_audio">Grabar sonido</string>
+    <string name="show_touches">Mostrar toques</string>
+    <string name="subscription_error">Tu dispositivo no es compatible con las suscripciones.</string>
+    <string name="iab_async_error">Error al realizar la compra. Hay otra operación en progreso.</string>
+    <string name="onetimefee2">2'10€</string>
+    <string name="onetimefee5">4'21€
+        \n(gratuito)</string>
+    <string name="donation2">Licencia de 2'10€</string>
+    <string name="donation5">Licencia de 4'21€</string>
+    <string name="donation10">Licencia de 10'67€</string>
+    <string name="detected">Detectado</string>
+    <string name="yes">Sí</string>
+    <string name="subscription">O una suscripción</string>
+    <string name="thankyoumultiple">¡Se han detectado varias licencias!
+        \n¡Gracias por tu apoyo!</string>
+    <string name="thankyou">¡Gracias por tu apoyo!</string>
+    <string name="iab_error">Las compras desde la aplicación no funcionan con tu dispositivo.
+        \n\n¿Te gustaría comprar una clave premium en Play Store?</string>
     <string name="no">No</string>
-    <string name="settings_license">LICENSE</string>
-    <string name="no_licence">No Licence Detected</string>
+    <string name="settings_license">LICENCIA</string>
+    <string name="no_licence">No tienes licencia</string>
     <string name="shortcutter_premium">Shortcutter Premium</string>
-    <string name="logo">Logo</string>
-    <string name="old_licene">Premium key detected</string>
-    <string name="tweaks_key">LeeDrOiD Tweaks key detected
-        \n Premium features activated</string>
-    <string name="all_prices_subject_to_tax_vat">All prices include Tax/VAT*
-        \n\nPurchasing Shortcutter Premium will remove the 50 click notification &amp; enable additional Quick Settings tiles &amp; app features.</string>
+    <string name="logo">Logotipo</string>
+    <string name="old_licene">Se ha detectado una clave premium</string>
+    <string name="tweaks_key">Se ha detectado una clave de LeeDrOiD
+        \n Características premium activadas</string>
+    <string name="all_prices_subject_to_tax_vat">Todos los precios incluyen IVA*
+        \n\nAl comprar Shortcutter Premium se eliminarán las notificaciones de 50 clics y se activarán características y apartados de ajustes rápidos adicionales.</string>
     <string name="amin">amin</string>
-    <string name="allofthe">Either of the below options will grant you premium access, the choice is yours :)</string>
-    <string name="volumeui">Volume
-        \nPanel</string>
-    <string name="manualbright">Manual
-        \nBrightness</string>
-    <string name="autobrightness">Auto
-        \nBrightness</string>
-    <string name="brightpreset">Brightness
-        \nPreset</string>
-    <string name="qbright_lev">Brightness
+    <string name="allofthe">Cualquiera de las siguientes opciones te darán acceso premium, la elección es tuya. :)</string>
+    <string name="volumeui">Panel de
+        \nvolumen</string>
+    <string name="manualbright">Brillo
+        \nmanual</string>
+    <string name="autobrightness">Brillo
+        \nautomático</string>
+    <string name="brightpreset">Brillo
+        \npor defecto</string>
+    <string name="qbright_lev">Brillo
         \n%1$d%%</string>
-    <string name="noalarm">No
-        \nAlarms</string>
-    <string name="swipe_left">SWIPE LEFT TO CONTINUE</string>
-    <string name="availableram">Available
-        \nRAM</string>
-    <string name="network_mode">Network Mode</string>
-    <string name="network_mode_summary">Network Band selection</string>
-    <string name="adb_summary">Toggle the Android Debug Bridge</string>
+    <string name="noalarm">Sin
+        \nalarmas</string>
+    <string name="swipe_left">DESLIZA A LA IZQUIERDA PARA CONTINUAR</string>
+    <string name="availableram">RAM
+        \ndisponible</string>
+    <string name="network_mode">Modo de red</string>
+    <string name="network_mode_summary">Selección de banda de red</string>
+    <string name="adb_summary">Activar/Desactivar depuración de Android</string>
     <string name="adbtile">ADB</string>
-    <string name="alarm_summary">Show next alarm, click opens alarms</string>
-    <string name="alarm_tile_title">Next Alarm</string>
-    <string name="ambien_summary">Ambient / Doze display</string>
-    <string name="ambient_tile_title">Ambient Display</string>
-    <string name="autobrightness_summary">Auto Brightness On/Off</string>
-    <string name="autobrightness_tile_title">Auto Brightness</string>
-    <string name="brightnesspreset_summary">Toggle through brightness steps
-        \n(Define steps in Tile Settings)</string>
-    <string name="brightnesspreset_tile_title">Brightness Preset</string>
-    <string name="camera_summary">Launches the default camera app</string>
-    <string name="camera_tile_title">Camera</string>
-    <string name="haptic_tile_title">Haptic Feeback</string>
-    <string name="haptic_summary">Toggle Haptic Feeback on/off</string>
-    <string name="headsup_summary">Toggle Heads Up notifications</string>
-    <string name="headsup">Heads Up</string>
-    <string name="immersive_summary">Hide the status &amp; navigation bars</string>
-    <string name="immersive_tile_title">Immersive
-        \nMode</string>
-    <string name="location_summary">Toggle location mode Off/GPS/Battery Saving/Hight Accuracy</string>
-    <string name="location_tile_title">Location Mode</string>
+    <string name="alarm_summary">Muestra la siguiente alarma, clic para abrirlas</string>
+    <string name="alarm_tile_title">Siguiente alarma</string>
+    <string name="ambien_summary">Doze/Ambiente</string>
+    <string name="ambient_tile_title">Ambiente</string>
+    <string name="autobrightness_summary">Act./Desact. brillo automático</string>
+    <string name="autobrightness_tile_title">Brillo automático</string>
+    <string name="brightnesspreset_summary">Activar/desactivar brillo
+        \n(define los pasos en los ajustes de apartados)</string>
+    <string name="brightnesspreset_tile_title">Brillo por defecto</string>
+    <string name="camera_summary">Inicia la cámara por defecto</string>
+    <string name="camera_tile_title">Cámara</string>
+    <string name="haptic_tile_title">Respuesta háptica</string>
+    <string name="haptic_summary">Activar/Desactivar respuesta háptica</string>
+    <string name="headsup_summary">Activar/Desactivar notificaciones y avisos</string>
+    <string name="headsup">Avisos</string>
+    <string name="immersive_summary">Ocultar la barra de navegación y estado</string>
+    <string name="immersive_tile_title">Modo
+        \ninmersivo</string>
+    <string name="location_summary">Activar/desactivar modo de ubicación GPS/batería alta precisión/ahorro</string>
+    <string name="location_tile_title">Modo de ubicación</string>
     <string name="ram_tile_title">RAM</string>
-    <string name="ram_summary">Displays available &amp; total RAM, with a shortcut to go to RAM information</string>
-    <string name="recovery_tile_title">Reboot Recovery</string>
-    <string name="recovery_summary">Reboots your device to Recovery Mode</string>
-    <string name="reboot_summary">Reboots your device</string>
-    <string name="reboot_tile_title">Reboot</string>
-    <string name="ringmode_tile_title">Ring Mode</string>
-    <string name="ringmode_summary">Toggle Ring Mode Ring/Vibrate/Silent</string>
-    <string name="screenrecord_summary">A tile to record everything on your devices screen</string>
-    <string name="screenrecord_tile_title">Screen Record</string>
-    <string name="screenshot_summary">Takes a still image of your device screen</string>
-    <string name="screenshot_tile_title">Screenshot</string>
-    <string name="sync_tile_title">Auto Sync</string>
-    <string name="sync_summary">Enable / Disable Auto Sync</string>
-    <string name="timeout_summary">Toggle screen timeout value</string>
-    <string name="timeout_tile_title">Screen Timeout</string>
-    <string name="volumeui_tile_title">Volume Panel</string>
-    <string name="volumeui_summary">A tile to display the volume panel</string>
-    <string name="wake_summary">Keeps your device screen awake</string>
-    <string name="wake_tile_title">Screen Wake</string>
-    <string name="tuner_summary">Launch the hidden SystemUI Tuner
-        \nFunctionality is Manufacturer dependent</string>
+    <string name="ram_summary">Muestra la RAM total y disponible en un atajo</string>
+    <string name="recovery_tile_title">Reinicio de recuperación</string>
+    <string name="recovery_summary">Reinicia tu dispositivo a modo de recuperación</string>
+    <string name="reboot_summary">Reinicia tu dispositivo</string>
+    <string name="reboot_tile_title">Reiniciar</string>
+    <string name="ringmode_tile_title">Modo de sonido</string>
+    <string name="ringmode_summary">Activar/Desactivar sonido/vibración/silencio</string>
+    <string name="screenrecord_summary">Un apartado para grabar la pantalla del dispositivo</string>
+    <string name="screenrecord_tile_title">Grabar pantalla</string>
+    <string name="screenshot_summary">Hace una foto de la pantalla del dispositivo</string>
+    <string name="screenshot_tile_title">Capturar pantalla</string>
+    <string name="sync_tile_title">Autosincronización</string>
+    <string name="sync_summary">Activa/Desactiva la autosincronización</string>
+    <string name="timeout_summary">Cambiar tiempo de espera de pantalla</string>
+    <string name="timeout_tile_title">Tiempo de espera de pantalla</string>
+    <string name="volumeui_tile_title">Panel de volumen</string>
+    <string name="volumeui_summary">Un apartado que muestra el panel de volumen</string>
+    <string name="wake_summary">Mantiene tu pantalla encendida</string>
+    <string name="wake_tile_title">Pantalla encendida</string>
+    <string name="tuner_summary">Inicia el SystemUI Tuner oculto
+        \nEsta función depende del fabricante</string>
     <string name="tuner_tile_title">SystemUI Tuner</string>
-    <string name="prem_only">Premium Only</string>
-    <string name="settings_secure_needed">Settings Secure access required</string>
-    <string name="flash_summary">Toggle the camera flashlight</string>
-    <string name="flash_tile_title">Flashlight</string>
-    <string name="no_flash">No Flashlight Detected</string>
-    <string name="battery_summary">Monitor your battery level</string>
-    <string name="battery_tile_title">Battery</string>
-    <string name="on_while_charge">On When
-        \nCharging</string>
-    <string name="onwhilecharge_summary">Keep screen on when plugged in</string>
-    <string name="oncharge_tile_title">Screen On While Charging</string>
-    <string name="choose_button_label">Select</string>
-    <string name="error_dir_access">Directory cannot be accessed</string>
+    <string name="prem_only">Solo premium</string>
+    <string name="settings_secure_needed">Necesitas ajustes de seguridad</string>
+    <string name="flash_summary">Flash de la cámara</string>
+    <string name="flash_tile_title">Linterna</string>
+    <string name="no_flash">No tiene flash</string>
+    <string name="battery_summary">Muestra tu nivel de batería</string>
+    <string name="battery_tile_title">Batería</string>
+    <string name="on_while_charge">Encendida
+        \nal cargar</string>
+    <string name="onwhilecharge_summary">Mantener la pantalla encendida al cargar</string>
+    <string name="oncharge_tile_title">Encendida al cargar</string>
+    <string name="choose_button_label">Seleccionar</string>
+    <string name="error_dir_access">El directorio es inaccesible</string>
     <string name="label_parent_dir">…</string>
-    <string name="label_parent_directory">Parent Directory</string>
-    <string name="last_edit">Last edited: </string>
-    <string name="select">Select</string>
-    <string name="countdown">Countdown</string>
-    <string name="new_message">New
-        \nMessage</string>
-    <string name="cap_store_title">Screen Capture Storage</string>
-    <string name="choose_location">Choose Location</string>
-    <string name="new_message_summary">Send a new SMS with 1 click</string>
-    <string name="count_down">Counting Down</string>
-    <string name="remaining">Remaining:</string>
-    <string name="time_up">Time is up!</string>
-    <string name="countdown_timer">Countdown Timer</string>
-    <string name="set">Set</string>
-    <string name="countdown_desc">A countdown timer tile</string>
-    <string name="choose_steps">Select Brightness Preset Steps</string>
-    <string name="preset_steps">Brightness Preset Steps</string>
-    <string name="currently">Currently set to %1$d steps</string>
-    <string name="current_shot">Currently set to %1$d seconds</string>
-    <string name="current_dice">Currently set to %1$d</string>
-    <string name="permissions_not_granted">You dont appear to have granted Shortcutter the correct permissions, have you launched the app?</string>
-    <string name="counter_tile">Clicker
-        \nTile</string>
-    <string name="counter_summary">A tile that counts clicks</string>
-    <string name="reset_counter">Reset Clicker Tile</string>
-    <string name="cur_val">Current value = %1$d </string>
-    <string name="Dice">Dice</string>
-    <string name="dice_desc">Generates a random number
-        \n(Change range in Tile Settings)</string>
-    <string name="auto_step">Auto Brightness Step</string>
-    <string name="file_tile">File
-        \nBrowser</string>
-    <string name="file_summary">Launches default file browser</string>
-    <string name="new_tweet">New
-        \nTweet</string>
-    <string name="not_installed">Application not installed</string>
-    <string name="new_tweet_summary">Send a new Tweet</string>
-    <string name="shot_delay">Set custom Screenshot delay</string>
-    <string name="shot_delay_title">Screenshot Delay (Seconds)</string>
-    <string name="newemail">New
-        \nEmail</string>
-    <string name="newemailsum">Send a new email</string>
-    <string name="emailtitle">New Email</string>
-    <string name="stay_in_the_loop">Social Media/Contact</string>
-    <string name="follow_me">Follow Me On Twitter</string>
-    <string name="like_facebook">Like My Facebook Page</string>
-    <string name="home">Home</string>
-    <string name="dice_desc_range">Select a custom number range for the Dice Tile</string>
-    <string name="dice_tile_range">Dice Tile Range</string>
-    <string name="togglenfc">NFC
-        \nToggle</string>
+    <string name="label_parent_directory">Directorio principal</string>
+    <string name="last_edit">Última edición: </string>
+    <string name="select">Seleccionar</string>
+    <string name="countdown">Cuenta atrás</string>
+    <string name="new_message">Nuevo
+        \nmensaje</string>
+    <string name="cap_store_title">Almacenamiento de capturas</string>
+    <string name="choose_location">Elegir ubicación</string>
+    <string name="new_message_summary">Envia un nuevo SMS con 1 toque</string>
+    <string name="count_down">Cuenta atrás</string>
+    <string name="remaining">Restante:</string>
+    <string name="time_up">¡Se acabó!</string>
+    <string name="countdown_timer">Cuenta atrás</string>
+    <string name="set">Establecer</string>
+    <string name="countdown_desc">Un apartado de cuenta atrás</string>
+    <string name="choose_steps">Seleccionar pasos de brillo por defecto</string>
+    <string name="preset_steps">Pasos de brillo por defecto</string>
+    <string name="currently">Actualmente en %1$d pasos</string>
+    <string name="current_shot">Actualmente en %1$d segundos</string>
+    <string name="current_dice">Actualmente en %1$d</string>
+    <string name="permissions_not_granted">Parece que el creador de atajos Shortcutter no tiene los permisos necesarios, ¿has iniciado la aplicación?</string>
+    <string name="counter_tile">Apartado
+        \nde clics</string>
+    <string name="counter_summary">Un apartado que cuenta clics</string>
+    <string name="reset_counter">Reiniciar contador de clics</string>
+    <string name="cur_val">Valor actual = %1$d </string>
+    <string name="Dice">Dado</string>
+    <string name="dice_desc">Genera un número aleatorio
+        \n(modifícalo en ajustes de apartados)</string>
+    <string name="auto_step">Paso de brillo automático</string>
+    <string name="file_tile">Explorador
+        \nde archivos</string>
+    <string name="file_summary">Inicia el explorador por defecto</string>
+    <string name="new_tweet">Nuevo
+        \ntuit</string>
+    <string name="not_installed">Aplicación no instalada</string>
+    <string name="new_tweet_summary">Enviar un nuevo tuit</string>
+    <string name="shot_delay">Establecer retraso de captura</string>
+    <string name="shot_delay_title">Retraso de captura (segundos)</string>
+    <string name="newemail">Nuevo
+        \nemail</string>
+    <string name="newemailsum">Enviar un nuevo email</string>
+    <string name="emailtitle">Nuevo email</string>
+    <string name="stay_in_the_loop">Redes sociales/Contacto</string>
+    <string name="follow_me">Sígueme en Twitter</string>
+    <string name="like_facebook">Sígueme en Facebook</string>
+    <string name="home">Inicio</string>
+    <string name="dice_desc_range">Elige un número al azar para el dado</string>
+    <string name="dice_tile_range">Número del dado</string>
+    <string name="togglenfc">Act./Desac.
+        \nNFC</string>
     <string name="nfctile">NFC</string>
-    <string name="nfctilesum">Toggle NFC on/off</string>
-    <string name="app_open">This application must run once prior to using any tiles or services
-        \n\nPlease pay attention to the dialogs</string>
-    <string name="alert">Shortcutter Alert</string>
-    <string name="go_premium">Purchase Premium</string>
-    <string name="another_purchase">For users that want to show additional support, both purchase options can be used.</string>
-    <string name="datausage">Data
-        \nUsage</string>
-    <string name="data_usage_perms">Shortcutter needs permission to access Data Usage history.
-        \n\nPlease click proceed, select Shortcutter &amp; enable usage access.\n\n</string>
-    <string name="reset_day">Reset on the %1$d day of each month</string>
-    <string name="select_day">Select Data Reset Day</string>
-    <string name="data_cycle_reset">Data Usage Cycle</string>
-    <string name="data_cycle_summary">Select the day of the month to measure data from (Usually your billing date)</string>
-    <string name="data_tile_summary">Shows Mobile Data Usage
-        \n(Change cycle in Tile Settings)</string>
-    <string name="data_tile_title">Data Usage</string>
-    <string name="failed_data_usage">Failed to launch data usage information</string>
-    <string name="how_to">Click Here for A guide to adding Quick Setting Tiles.\n\nOnce you have enabled your chosen tiles in the categories below, you need to add them to your pull-down in the system quick settings editor.</string>
-    <string name="addtiles_title">How To Add QS Tiles - Guide</string>
-    <string name="adding_qs_tiles">Adding QS Tiles</string>
-    <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Quick Settings Tiles\" tab & make your QS Tile selections.]]></string>
-    <string name="edit_view"><![CDATA[2. Pull-Down your status bar & hit the edit button as seen below, this is usually a pen icon.
-    \n\n Samsung users hit the 3 dot menu & select rearrange, your Shortcutter tiles will show in the bottom view.]]></string>
-    <string name="edit_view1">3. In the Edit View you will find 2/3 containers, you will see your new Shortcutter tiles in the bottom container.
-        \n\nTo add them, simply long press &amp; drag your chosen tiles up to the top (Active) container &amp; exit the Edit View.</string>
-    <string name="edit_view_note">IMPORTANT NOTE:
-        \n\n Due to a bug in Android N, you may struggle to add tiles, this can be worked around by doing the following.
-        \n\nRemove any tiles you do not want in the \"Quick Settings Tiles\" tab &amp; take your new tiles from the TOP of the available tiles container.
-        \n\nUnfortunately this is not something I can fix as it has nothing to do with the app.</string>
-    <string name="small">Font
-        \nSmall</string>
-    <string name="large">Font
-        \nLarge</string>
-    <string name="fontscale">Font
-        \nSize</string>
-    <string name="defaultsize">Font
-        \nDefault</string>
-    <string name="largest">Font
-        \nLargest</string>
-    <string name="fontscale_sum">Toggle system font size</string>
-    <string name="font_scale_title">Font Scale</string>
-    <string name="power_saver">Power Saver</string>
-    <string name="power_save_summary">Toggle Power Saving mode</string>
-    <string name="prem_only_message">This feature is only available in the Premium version of Shortcutter.
-        \n\nPlease click GO PREMIUM now to enable the following features:
-        \n\n \u2022 Additional Custom Tiles
-        \n \u2022 Additional Custom URL Tiles
-        \n \u2022 Screen Recording &amp; Capture
-        \n \u2022 Additional in-app configuration options
-        \n \u2022 &amp; Remove the 50 tile click notification</string>
-    <string name="no_thanks">No Thanks</string>
-    <string name="add_event">Add Event</string>
-    <string name="add_event_summary">Add A Calendar Event</string>
-    <string name="location_not_found">Location settings activity not found</string>
-    <string name="power_not_found">Power settings activity not found</string>
-    <string name="nfc_not_found">NFC settings activity not found</string>
-    <string name="consider_prem">Shortcutter FREE</string>
-    <string name="consider_prem1">Thats 50 Shortcutter clicks!
-        \n\nHave you considered showing your support &amp; going Premium?
-        \n\nThis notification will show every 50 tile clicks in the Free version.</string>
-    <string name="screenre_cat"><![CDATA[Screen Record & Capture]]></string>
-    <string name="choose_entries">Location Mode Entries (2 Minimum)</string>
-    <string name="conf_sel">Confirm Selection</string>
-    <string name="recentapps">Recent Apps</string>
-    <string name="settings_system_required">Write System Settings permission required - Toggle to enable</string>
-    <string name="usage_access_required">Usage Access permissions required - Toggle to enable</string>
-    <string name="dnd_required">Do Not Distrurb access required - Toggle to enable</string>
-    <string name="accessibility_description">Allows shortcutter to perform the following accessibility actions
-        \n\n\u2022 Toggle Split Screen
-        \n\u2022 Toggle Recent Apps
-        \n\u2022 Show Power Menu
-        \n\u2022 Expand Notifications &amp; Quick Settings
-        \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.</string>
-    <string name="power_dialog">Power Dialog</string>
-    <string name="split_screen">Multi Window</string>
-    <string name="lock_screen">Lock
-        \nScreen</string>
-    <string name="screen_lock_admin">Required to use the \"Lock Screen\" Quick Settings Tile</string>
-    <string name="acc_needed">Accessibility access required</string>
-    <string name="recents_sum">Opens the recent apps screen</string>
-    <string name="acc_needed_long">Shortcutter requires Accessibility access to toggle
-        \n\n\u2022 Recent Apps
-        \n\u2022 Power Menu
-        \n\u2022 Split Screen
-        \n\u2022 Detect Activities
-        \n - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
-        \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
-    <string name="split_sum">Toggle Split Screen / Multi Window Mode</string>
-    <string name="power_sum">Open the power menu</string>
-    <string name="admin_needed">Admin rights required</string>
-    <string name="admin_needed_long">Shortcutter requires Admin privileges to:\n\n
-        \u2022Lock your device screen
-        \n\nPlease press proceed &amp; enable Admin rights to use this Shortcut.\n\n</string>
-    <string name="lock_sum">Locks your screen</string>
-    <string name="immersive_active">Immersive Mode Active</string>
-    <string name="select_time">Please select a time in mm:ss</string>
-    <string name="search_tile">Web Search</string>
-    <string name="search_summary">Opens Google Search</string>
-    <string name="voice_search_tile">Voice Command</string>
-    <string name="voicesearch_sum">Launch Google Assistant</string>
-    <string name="inear_audio">In Ear Audio</string>
-    <string name="disable">Disable</string>
-    <string name="inear_audio_active">In Ear Audio Active</string>
-    <string name="show_notif">Show Active Notification</string>
-    <string name="inear_summary">Routes all audio through your device earpiece</string>
+    <string name="nfctilesum">Act./Desac. NFC</string>
+    <string name="app_open">Esta aplicación debe ejecutarse primero para usar los apartados o servicios.
+        \n\nPor favor, presta atención a los diálogos.</string>
+    <string name="alert">Alerta de Shortcutter</string>
+    <string name="go_premium">Compra premium</string>
+    <string name="another_purchase">Los usuarios que quieren mostrar un apoyo adicional pueden hacer las dos compras.</string>
+    <string name="datausage">Uso de
+        \ndatos</string>
+    <string name="data_usage_perms">Shortcutter necesita permisos de acceso al historial de uso de datos.
+        \n\nPor favor, haz clic para continuar, selecciona Shortcutter y activa el acceso de uso.\n\n</string>
+    <string name="reset_day">Reiniciar el %1$d de cada mes</string>
+    <string name="select_day">Seleccionar día de reinicio</string>
+    <string name="data_cycle_reset">Ciclo de uso de datos</string>
+    <string name="data_cycle_summary">Selecciona el día del mes en el que quieres que se reinicie (normalmente la fecha del contrato)</string>
+    <string name="data_tile_summary">Mostrar uso de datos móviles
+        \n(cambia el ciclo en los ajustes de apartados)</string>
+    <string name="data_tile_title">Uso de datos</string>
+    <string name="failed_data_usage">Error al mostrar información de uso</string>
+    <string name="how_to">Haz clic aquí para ver una guía de añadir apartados de ajustes rápidos.\n\nUna vez hayas activado los apartados elegidos, tendrás que añadirlos al despliegue en el editor de ajustes rápidos del sistema.</string>
+    <string name="addtiles_title">Cómo añadir apartados QS: Guía</string>
+    <string name="adding_qs_tiles">Añadir apartados QS</string>
+    <string name="select_tiles"><![CDATA[1. Ve a la pestaña \"Apartados de ajustes rápidos\" en Shortcutter y selecciona tus apartados QS.]]></string>
+    <string name="edit_view"><![CDATA[2. Despliega tu barra de estado y edita los botones.
+    \n\n En Samsung hay que pulsar en el menú de 3 puntos y seleccionar "Distribución", se mostrarán los botones de Shortcutter al final.]]></string>
+    <string name="edit_view1">3. En la vista de edición encontrarás 2/3 contenedores, verás tus nuevos apartados de Shortcutter en el contenedor inferior.
+        \n\nPara añadirlos, mantén y arrastra los apartados a la zona de arriba (la zona activa) y sal del editor.</string>
+    <string name="edit_view_note">NOTA IMPORTANTE:
+        \n\n Debido a un fallo en Android N, puedes tener dificultades para añadir apartados, pero se puede solucionar haciendo lo siguiente.
+        \n\nElimina todos los apartados que no quieras en la pestaña de \"Apartados de ajustes rápidos\" y toma los nuevos de la parte superior de los disponibles.
+        \n\nPor desgracia, esto no es algo que pueda solucionar yo, ya que no tiene nada que ver con la aplicación.</string>
+    <string name="small">Fuente
+        \npequeña</string>
+    <string name="large">Fuente
+        \ngrande</string>
+    <string name="fontscale">Tamaño
+        \nde fuente</string>
+    <string name="defaultsize">Fuente
+        \npor defecto</string>
+    <string name="largest">Fuente
+        \ngigante</string>
+    <string name="fontscale_sum">Tamaño de fuente del sistema</string>
+    <string name="font_scale_title">Tamaño de fuente</string>
+    <string name="power_saver">Ahorrar batería</string>
+    <string name="power_save_summary">Modo ahorro de batería</string>
+    <string name="prem_only_message">Esta característica solo está disponible en la versión premium de Shortcutter.
+        \n\nPor favor, haz clic en "HAZTE PREMIUM" para conseguir estas ventajas:
+        \n\n \u2022 Más apartados personalizados
+        \n \u2022 Más apartados URL personalizados
+        \n \u2022 Grabación y captura de pantalla
+        \n \u2022 Opciones adicionales en la aplicación
+        \n \u2022 Elimina las notificaciones de 50 clics</string>
+    <string name="no_thanks">No gracias</string>
+    <string name="add_event">Añadir evento</string>
+    <string name="add_event_summary">Añade un evento al calendario</string>
+    <string name="location_not_found">No hay actividad en los ajustes de ubicación</string>
+    <string name="power_not_found">No hay actividad en los ajustes de batería</string>
+    <string name="nfc_not_found">No hay actividad en los ajustes NFC</string>
+    <string name="consider_prem">Shortcutter GRATIS</string>
+    <string name="consider_prem1">¡Esos 50 clics de Shortcutter!
+        \n\n¿Te has pensado apoyarnos haciéndote premium?
+        \n\nEsta notificación se mostrará cada 50 clics en los apartados en la versión gratuita.</string>
+    <string name="screenre_cat"><![CDATA[Grabación y captura de pantalla]]></string>
+    <string name="choose_entries">Entradas del modo de ubicación (2 mínimo)</string>
+    <string name="conf_sel">Confirmar selección</string>
+    <string name="recentapps">Aplicaciones recientes</string>
+    <string name="settings_system_required">Necesitas permisos para modificar ajustes del sistema: Pulsa para activar</string>
+    <string name="usage_access_required">Necesitas permisos de uso de acceso: Pulsa para activar</string>
+    <string name="dnd_required">Neceistas permisos de no molestar: Pulsa para activar</string>
+    <string name="accessibility_description">Permite que Shortcutter realice las siguientes acciones de accesibilidad
+        \n\n\u2022 Pantalla dividida
+        \n\u2022 Aplicaciones recientes
+        \n\u2022 Mostrar menú de batería
+        \n\u2022 Notificaciones y ajustes rápidos
+        \n\u2022 Detectar actividades: Se necesita filtro de pantalla y esquinas, estos servicios se detendrán cuando las aplicaciones se instalen y los permisos se concedan.</string>
+    <string name="power_dialog">Diálogo de batería</string>
+    <string name="split_screen">Multiventana</string>
+    <string name="lock_screen">Bloqueo de
+        \npantalla</string>
+    <string name="screen_lock_admin">Es necesario usar el \"bloqueo de pantalla\" de los apartados de ajustes rápidos</string>
+    <string name="acc_needed">Necesitas acceso de accesibilidad</string>
+    <string name="recents_sum">Abre la pantalla de aplicaciones recientes</string>
+    <string name="acc_needed_long">Shortcutter necesita acceso de accesibilidad para abrir/cerrar
+        \n\n\u2022 Aplicaciones recientes
+        \n\u2022 Menú de batería
+        \n\u2022 Pantalla dividida
+        \n\u2022 Detectar actividades
+        \n - Se necesita filtro de pantalla y esquinas, estos servicios se detendrán cuando las aplicaciones se instalen y los permisos se concedan.
+        \n\nHaz clic para proceder o dirígete a Shortcutter y activa el servicio.\n\n</string>
+    <string name="split_sum">Activar/Desactivar pantalla dividida/modo multiventana.</string>
+    <string name="power_sum">Abrir el menú de batería</string>
+    <string name="admin_needed">Necesitas derechos de administrador</string>
+    <string name="admin_needed_long">Shortcutter necesita privilegios de administrador para:\n\n
+        \u2022Bloquear la pantalla de tu dispositivo
+        \n\nHaz clic en continuar y activa los derechos de administrador para usar este atajo.\n\n</string>
+    <string name="lock_sum">Bloquea tu pantalla</string>
+    <string name="immersive_active">Modo inmersivo activado</string>
+    <string name="select_time">Por favor, contacta en mm:ss</string>
+    <string name="search_tile">Búsqueda web</string>
+    <string name="search_summary">Abre Google</string>
+    <string name="voice_search_tile">Comando de voz</string>
+    <string name="voicesearch_sum">Inicia el asistente de Google</string>
+    <string name="inear_audio">Sonido en oído</string>
+    <string name="disable">Desactivar</string>
+    <string name="inear_audio_active">Sonido en oído activado</string>
+    <string name="show_notif">Mostrar notificaciones activas</string>
+    <string name="inear_summary">Dirige todo el sonido al dispositivo auricular</string>
     <string name="volUp">Vol +</string>
     <string name="volDown">Vol -</string>
-    <string name="cur_vol">Current Volume =&#160;</string>
+    <string name="cur_vol">Volumen actual =&#160;</string>
     <string name="click_disable">%
-        \n Click the tile to disable</string>
-    <string name="pause">Pause
-        \nMusic</string>
-    <string name="play">Play
-        \nMusic</string>
-    <string name="play_pause">Play/Pause Music</string>
-    <string name="play_pause_sum">Play &amp; Pause music</string>
-    <string name="overlay_needed"><![CDATA[Several Shortcutter services require the Draw System Overlay permission to run, these include:\n
-    \n\u2022 Sidebar/Floating Toolbox
-    \n\u2022 Screen Filter/Night Mode
-    \n\u2022 Rounded Corners
-    \n\u2022 Network Mode Dialogs
-    \n\nPlease click proceed & grant the required permission.\n]]></string>
-    <string name="overlay_required">System overlay permissions required</string>
-    <string name="mob_data">Mobile Data</string>
-    <string name="mob_dat_sum">Toggle mobile data on/off</string>
-    <string name="toolbox">Toolbox</string>
-    <string name="wake_active">Screen Wake Active</string>
-    <string name="floating_toolbox">Enable The Sidebar/Toolbox</string>
-    <string name="float_summary">A Sidebar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
-    <string name="tb_tiles">Sidebar</string>
-    <string name="email_feedback">Email Feedback/Ask A Question</string>
-    <string name="submit_review">Leave A Review</string>
-    <string name="rate_app">Rate The App</string>
-    <string name="yes_pro">GO PREMIUM</string>
-    <string name="file_browser">File Browser</string>
-    <string name="power_menu">Power Menu</string>
-    <string name="new_message_title">New SMS</string>
-    <string name="new_tweet_title">New Tweet</string>
-    <string name="counter_tile_title">Clicker</string>
-    <string name="show_immersive_activity">Show Mode Selector</string>
-    <string name="mode_select_summary">Shows a popup dialog with additional Immersive Mode options.</string>
-    <string name="toggle">Toggle</string>
-    <string name="toolbox_label">Toolbox</string>
-    <string name="app_picker">Select An Application</string>
-    <string name="custom_app_tiles">Custom Tiles</string>
-    <string name="swipe_up">Swipe up from the bottom to dismiss</string>
-    <string name="lock_screen_title">Lock Screen</string>
-    <string name="auto_rotate">Auto
-        \nRotate</string>
-    <string name="portrait">Portrait</string>
-    <string name="landscape">Landscape</string>
-    <string name="orientation_mode">Screen Rotation</string>
-    <string name="orient_summary">Toggle Screen Rotation</string>
-    <string name="counter_reset">Reset counter to 0?</string>
-    <string name="data_roaming">Data Roaming</string>
-    <string name="dataroam_summary">Toggle Data Roaming</string>
-    <string name="quick_tiles_title">Change Number Of Tiles In Collapsed View</string>
-    <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed Pull-Down.
-        \nThis MOD is manufacturer dependent.</string>
-    <string name="sidebar">Sidebar or Floating Toolbox</string>
-    <string name="sidebar_summary">Choose between the Swipe Out Sidebar or Floating Toolbox.</string>
-    <string name="sidebar_pos">Horizontal Trigger Position</string>
-    <string name="right">Current Position Right</string>
-    <string name="left_position">Current Position Left</string>
-    <string name="tb_background">Background Colour</string>
-    <string name="create_calendar_event">New Event</string>
-    <string name="tb_tile_tint">Tile Tint Colour</string>
-    <string name="tb_tile_text_tint">Font Colour</string>
-    <string name="tb_reset_tint">Reset Preferences</string>
-    <string name="reset_conf">Are you sure you want to reset all colour preferences?</string>
-    <string name="trigger_colour_title">Trigger Colour</string>
-    <string name="filter_active">Screen Filter Active</string>
-    <string name="filter_colour">Select Filter Colour</string>
-    <string name="filter_tile_title">Screen Filter</string>
-    <string name="screen_filter">Screen Filter</string>
-    <string name="screen_filter_summary">A screen filter to reduce eye strain at night (Night Mode)</string>
-    <string name="reset_filter">Reset Filter Colour</string>
-    <string name="sideber_tmb_title">Vertical Trigger Position</string>
-    <string name="tb_columns_title">Toolbox Columns</string>
-    <string name="tb_columns_summary">Current = %s columns</string>
-    <string name="sb_columns_title">Sidebar Columns</string>
-    <string name="design_settings">Theme &amp; Behaviour</string>
+        \n Haz clic en el apartado para desactivar</string>
+    <string name="pause">Pausar
+        \nmúsica</string>
+    <string name="play">Reproducir
+        \nmúsica</string>
+    <string name="play_pause">Pausar/Reproducir música</string>
+    <string name="play_pause_sum">Pausar y reproducir música</string>
+    <string name="overlay_needed"><![CDATA[Hay varios servicios de Shortcutter que necesitan los permisos de interfaz del sistema para ejecutarse, lo que incluye:\n
+    \n\u2022 Caja de herramientas flotante/lateral
+    \n\u2022 Filtro de pantalla/Modo noche
+    \n\u2022 Esquinas redondas
+    \n\u2022 Diálogos del modo de red
+    \n\nPor favor, haz clic en continuar y concede el permiso requerido.\n]]></string>
+    <string name="overlay_required">Se necesitan permisos de interfaz del sistema</string>
+    <string name="mob_data">Datos móviles</string>
+    <string name="mob_dat_sum">Activar/Desactivar datos móviles</string>
+    <string name="toolbox">Caja de herramientas</string>
+    <string name="wake_active">Pantalla encendida</string>
+    <string name="floating_toolbox">Activar esta caja de herramientas/lateral</string>
+    <string name="float_summary">Se abre una barra lateral deslizando o una caja de herramientas con un icono flotante.</string>
+    <string name="tb_tiles">Barra lateral</string>
+    <string name="email_feedback">Enviar comentarios/preguntas</string>
+    <string name="submit_review">Deja un análisis</string>
+    <string name="rate_app">Valora la aplicación</string>
+    <string name="yes_pro">HAZTE PREMIUM</string>
+    <string name="file_browser">Explorador de archivos</string>
+    <string name="power_menu">Menú de batería</string>
+    <string name="new_message_title">Nuevo SMS</string>
+    <string name="new_tweet_title">Nuevo tuit</string>
+    <string name="counter_tile_title">Cuentaclics</string>
+    <string name="show_immersive_activity">Mostrar modo selector</string>
+    <string name="mode_select_summary">Muestra un diálogo emergente con opciones del modo inmersivo.</string>
+    <string name="toggle">Act./Desac.</string>
+    <string name="toolbox_label">Caja de herramientas</string>
+    <string name="app_picker">Seleccionar una aplicación</string>
+    <string name="custom_app_tiles">Apartados personalizados</string>
+    <string name="swipe_up">Desliza de abajo a arriba para rechazar</string>
+    <string name="lock_screen_title">Bloquear pantalla</string>
+    <string name="auto_rotate">Rotación
+        \nautomática</string>
+    <string name="portrait">Vertical</string>
+    <string name="landscape">Horizontal</string>
+    <string name="orientation_mode">Rotación de pantalla</string>
+    <string name="orient_summary">Activar/Desactivar rotación</string>
+    <string name="counter_reset">¿Reiniciar contador a 0?</string>
+    <string name="data_roaming">Roaming de datos</string>
+    <string name="dataroam_summary">Activar/Desactivar roaming</string>
+    <string name="quick_tiles_title">Cambiar número de botones en vista compacta</string>
+    <string name="manufact_depend">Personaliza el número de botones/apartados QS que se mustran en la vista compacta del menú desplegable.
+        \nDepende del fabricante.</string>
+    <string name="sidebar">Barra lateral o caja flotante</string>
+    <string name="sidebar_summary">Elige entre una barra lateral o una caja flotante.</string>
+    <string name="sidebar_pos">Posición horizontal</string>
+    <string name="right">Posición actual derecha</string>
+    <string name="left_position">Posición actual izquierda</string>
+    <string name="tb_background">Color de fondo</string>
+    <string name="create_calendar_event">Nuevo evento</string>
+    <string name="tb_tile_tint">Color del apartado</string>
+    <string name="tb_tile_text_tint">Color de la fuente</string>
+    <string name="tb_reset_tint">Reiniciar preferencias</string>
+    <string name="reset_conf">¿Seguro que quiere reiniciar todas las preferencias de color?</string>
+    <string name="trigger_colour_title">Color del trigger</string>
+    <string name="filter_active">Filtro de pantalla activado</string>
+    <string name="filter_colour">Seleccionar color del filtro</string>
+    <string name="filter_tile_title">Filtro de pantalla</string>
+    <string name="screen_filter">Filtro de pantalla</string>
+    <string name="screen_filter_summary">Un filtro de pantalla para proteger los ojos durante la noche (modo nocturno)</string>
+    <string name="reset_filter">Reiniciar color del filtro</string>
+    <string name="sideber_tmb_title">Posición vertical</string>
+    <string name="tb_columns_title">Columnas de caja de herramientas</string>
+    <string name="tb_columns_summary">Actual = %s columnas</string>
+    <string name="sb_columns_title">Columnas laterales</string>
+    <string name="design_settings">Tema y comportamiento</string>
     <string name="leedroid">www.LeeDrOiD.co.uk</string>
-    <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
-    <string name="corners_title">Rounded Corners</string>
-    <string name="corners__scale_title">Screen Corner Scale</string>
-    <string name="corners__scale_set">Corner Scale&#160;=&#160;%1$d\%</string>
-    <string name="corners_scale_summary">Adjust the screen corner radius</string>
-    <string name="corner_colour">Select Corner Colour</string>
-    <string name="how_it_works">How It works</string>
-    <string name="how_it_works1">Shortcutter offers several different options to access an array of shortcuts, settings &amp; services.</string>
-    <string name="how_it_works2">\u2022 Via your Quick Settings Pull-Down</string>
-    <string name="how_it_works3">\u2022 Via the Shortcutter Swipe out Sidebar or Floating Toolbox</string>
-    <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!</string>
-    <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
-    <string name="config_serv">Settings</string>
-    <string name="screenshot_root">Use Root Screenshot Method</string>
-    <string name="screenshot_root_summary">Produces a screenshot using the system screencap binary</string>
-    <string name="corners_active">Round Corners Active</string>
-    <string name="misc_cat">Expose Launcher Toggles</string>
-    <string name="misc_tiles_cat">Miscellaneous Tile Settings</string>
-    <string name="fancy_anim">Reflow Pull-Down Animation</string>
-    <string name="fancy_summary">Enable/Disable the fancy reflow Pull-Down animation (Not compatible with all devices)</string>
-    <string name="system_toggles">System Setting Tiles</string>
-    <string name="action_toggles">Action Tiles</string>
-    <string name="info_toggles">Information Tiles</string>
-    <string name="sc_services">Shortcutter Service Tiles</string>
+    <string name="corners_summary">Usa una interfaz para dar una ilusión de esquinas redondeadas</string>
+    <string name="corners_title">Esquinas redondeadas</string>
+    <string name="corners__scale_title">Tamaño de la esquina</string>
+    <string name="corners__scale_set">Tamaño de la esquina&#160;=&#160;%1$d\%</string>
+    <string name="corners_scale_summary">Ajusta el radio de la esquina</string>
+    <string name="corner_colour">Selecciona el color de la esquina</string>
+    <string name="how_it_works">¿Cómo funciona?</string>
+    <string name="how_it_works1">Shortcutter tiene distintas formas de crear atajos, ajustes y servicios.</string>
+    <string name="how_it_works2">\u2022 Desde el panel desplegable de ajustes rápidos</string>
+    <string name="how_it_works3">\u2022 Desde la barra lateral de Shortcutter o la caja de herramientas</string>
+    <string name="how_it_works4">\u2022 Al dejar los botones en el cajón de aplicaciones y la pantalla de inicio, se activa también el mapeado de HTC Edge Sense, Second Displays, Tasker y mucho más.</string>
+    <string name="attention">Por favor, presta atención a la guía de añadir apartados en la pestaña 2.</string>
+    <string name="config_serv">Ajustes</string>
+    <string name="screenshot_root">Usar método de captura root</string>
+    <string name="screenshot_root_summary">Hace una captura con el sistema binario</string>
+    <string name="corners_active">Esquinas redondeadas activadas</string>
+    <string name="misc_cat">Botones del lanzador</string>
+    <string name="misc_tiles_cat">Ajustes de apartados misceláneos</string>
+    <string name="fancy_anim">Animación de despliegue</string>
+    <string name="fancy_summary">Activar/Desactivar la animación de despliegue (no disponible en todos los dispositivos)</string>
+    <string name="system_toggles">Apartados de ajustes del sistema</string>
+    <string name="action_toggles">Apartados de acción</string>
+    <string name="info_toggles">Apartados de información</string>
+    <string name="sc_services">Apartados de servicio de Shortcutter</string>
     <string name="google_awareness_key">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
-    <string name="weather">Weather Info</string>
-    <string name="tap_close">Touch to close</string>
-    <string name="weather_desc">Launches a popup with current weather information</string>
-    <string name="location">Location Updating</string>
-    <string name="condition">Condition:&#160;</string>
-    <string name="temp">Current Temperature:&#160;</string>
-    <string name="feels">Feels Like:&#160;</string>
-    <string name="dewp">Dew point:&#160;</string>
-    <string name="weather_celsius">Temperature Unit</string>
+    <string name="weather">Información del tiempo</string>
+    <string name="tap_close">Toca para cerrar</string>
+    <string name="weather_desc">Lanza una ventana emergente con información del tiempo</string>
+    <string name="location">Actualizando ubicación</string>
+    <string name="condition">Condición:&#160;</string>
+    <string name="temp">Temperatura actual:&#160;</string>
+    <string name="feels">Sensación térmica:&#160;</string>
+    <string name="dewp">Punto de rocío:&#160;</string>
+    <string name="weather_celsius">Unidad de temperatura</string>
     <string name="celsius">Celsius</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="app_sig">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
-    <string name="humidity">Humidity:&#160;</string>
-    <string name="mylocation">My Location</string>
-    <string name="maps_link">View On Maps</string>
-    <string name="refresh">Refresh</string>
-    <string name="current_location">Current Location</string>
+    <string name="humidity">Humedad:&#160;</string>
+    <string name="mylocation">Mi ubicación</string>
+    <string name="maps_link">Ver en mapa</string>
+    <string name="refresh">Actualizar</string>
+    <string name="current_location">Ubicación actual</string>
     <string name="maps_api">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
-    <string name="dev_loc_mode">Location Mode:&#160;%1$s</string>
-    <string name="mylocation_summary">Displays current location, with options to view in maps or share</string>
-    <string name="loading_map">Loading Map....</string>
-    <string name="swipe_out">Swipe out to dismiss</string>
-    <string name="choose_ring_entries">Ring Mode Entries (2 Minimum)</string>
-    <string name="qs_head_title">QS Header Tiles</string>
-    <string name="acc_needed_corners">This overlay requires Accessibility access to:
-        \n\n \u2022 Detect secure activities.
-        \n\nIf a secure activity is detected, this overlay will automatically stop.
-        \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
-    <string name="filter_off_secure">Screen Filter suspended:
-        \nSecure activity detected</string>
-    <string name="corners_off_secure">Screen Corners suspended:
-        \nSecure activity detected</string>
-    <string name="launch_loc">Launches Settings \> Location/n(if no settings secure access)</string>
-    <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
-    <string name="nigh_light">Night Light</string>
-    <string name="brightness">Screen Brightness</string>
-    <string name="scnigh_light">Shortcutter\nNight Light</string>
-    <string name="nightlight_summary">Provides an always on Nightlight &amp; clock display, plus a button to switch to Desk Clock Mode</string>
-    <string name="deskmode">Desk Clock\nMode</string>
-    <string name="lightmode">Night Light\nMode</string>
-    <string name="scdesk">Shortcutter\nDesk Clock</string>
-    <string name="expand_collapse">Sidebar Expander</string>
-    <string name="expose_toggler">Create an additional \"Sidebar Expander\" icon to open/close the Sidebar or ToolBox from your home screen or other apps.</string>
-    <string name="permissions">Manage Permissions</string>
-    <string name="settings_access">Write System Settings</string>
-    <string name="overlay_access">Overlay Permissions</string>
-    <string name="acc_access">Accessibility Access</string>
-    <string name="dnd_access">Do Not Disturb Access</string>
-    <string name="usage_access">Data Usage</string>
-    <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
-    <string name="overlay_summary">Usage: Floating Sidebar/ToolBox, Screen Filter &amp; Rounded Corners</string>
-    <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Expand Notifications &amp; Quick Settings, Screen Filter &amp; Rounded Corners</string>
-    <string name="dnd_summary">Usage: Ring Mode</string>
-    <string name="usage_summary">Usage: Data Usage Tile</string>
-    <string name="actual_tiles">Actual Tiles =&#160; %1$d </string>
-    <string name="shortcutter_permissions_phone">This toggle requires the ability to check network state.\n\n
-    In order to do this the app needs the Phone permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="shortcutter_permissions_storage">This service requires the ability to access external storage.\n\n
-    In order to do this the app needs the Read/Write Storage permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="shortcutter_permissions_camera">This toggle requires the ability to access the camera (Flash).\n\n
-    In order to do this the app needs the Camera permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="shortcutter_permissions_sync">This toggle requires the ability to access your Sync settings.\n\n
-    In order to do this the app needs the Read/Write Sync permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
-    In order to do this the app needs the Location permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="unavailable">Unavailable</string>
-    <string name="install_shortcut">Install\nShortcut</string>
-    <string name="select_shortcut">Select A Shortcut To Install</string>
-    <string name="header">Remove Header</string>
-    <string name="review">\n Don\'t forget to leave a rocking review in the Play Store!</string>
-    <string name="enjoying">Enjoying Shortcutter?</string>
-    <string name="counter">Counter\n+1</string>
-    <string name="expose_activity_summary">Create additional icons to access these toggle\'s from your home screen or app drawer.\n\nThis also enables mapping toggles to other app\'s such as HTC Edge Sense, Second Displays &amp; Tasker.</string>
+    <string name="dev_loc_mode">Modo ubicación:&#160;%1$s</string>
+    <string name="mylocation_summary">Muestra ubicación actual, con opciones de ver en el mapa y compartirlo</string>
+    <string name="loading_map">Cargando mapa...</string>
+    <string name="swipe_out">Desliza para rechazar</string>
+    <string name="choose_ring_entries">Entradas de modo sonido (2 mínimo)</string>
+    <string name="qs_head_title">Apartados de encabezado QS</string>
+    <string name="acc_needed_corners">Esta interfaz necesita accesibilidad para:
+        \n\n \u2022 Detectar actividades seguras.
+        \n\nSi se detecta una actividad segura, esta interfaz la detendrá.
+        \n\nHaz clic para proceder, ve a Shortcutter y activa el servicio.\n\n</string>
+    <string name="filter_off_secure">Filtro de pantalla desactivado:
+        \nActividad segura detectada</string>
+    <string name="corners_off_secure">Esquinas de pantalla desactivadas:
+        \nActividad segura detectada</string>
+    <string name="launch_loc">Ajustes del lanzador \> Ubicación/n(si no hay ajustes de acceso seguro)</string>
+    <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Ajustes rápidos v%1$s </string>
+    <string name="nigh_light">Luz nocturna</string>
+    <string name="brightness">Brillo de pantalla</string>
+    <string name="scnigh_light">Shortcutter\nLuz nocturna</string>
+    <string name="nightlight_summary">Proporciona un tono perfecto para la luz nocturna y muestra el reloj, además de un botón para cambiar al modo del reloj de escritorio.</string>
+    <string name="deskmode">Modo de\nreloj de escritorio</string>
+    <string name="lightmode">Modo de\nluz nocturna</string>
+    <string name="scdesk">Reloja de escritorio\nShortcutter</string>
+    <string name="expand_collapse">Expansor de barra lateral</string>
+    <string name="expose_toggler">Crea un icono adicional de \"expansor de barra lateral\" para abrirla o cerrarla desde tu pantalla de inicio u otras aplicaciones.</string>
+    <string name="permissions">Administrar permisos</string>
+    <string name="settings_access">Escribir ajustes del sistema</string>
+    <string name="overlay_access">Permisos de interfaz</string>
+    <string name="acc_access">Acceso de accesibilidad</string>
+    <string name="dnd_access">Acceso de no molestar</string>
+    <string name="usage_access">Uso de datos</string>
+    <string name="settings_system_summary">Uso: brillo, tamaño de fuente, respuesta háptica y mostrar tiempo de espera</string>
+    <string name="overlay_summary">Uso: caja/barra lateral, filtro de pantalla y esquinas redondeadas</string>
+    <string name="acc_summary">Uso: aplicaciones recientes, menú de batería, pantalla dividida, expandir notificaciones y ajustes rápidos, filtro de pantalla y esquinas redondeadas</string>
+    <string name="dnd_summary">Uso: modo de sonido</string>
+    <string name="usage_summary">Uso: apartado de uso de datos</string>
+    <string name="actual_tiles">Apartados reales =&#160; %1$d </string>
+    <string name="shortcutter_permissions_phone">Esta opción necesita permiso para comprobar el estado de red.\n\n
+    Para hacer esto, la aplicación necesita permisos del teléfono.\n\n
+    Por favor, haz clic en continuar y concede acceso a los permisos.</string>
+    <string name="shortcutter_permissions_storage">Esta opción necesita permiso para acceder al almacenamiento externo.\n\n
+    Para hacer esto, la aplicación necesita permisos de lectura y edición de almacenamiento.\n\n
+    Por favor, haz clic en continuar y concede acceso a los permisos.</string>
+    <string name="shortcutter_permissions_camera">Esta opción necesita permiso para acceder al flash de la cámara.\n\n
+    Para hacer esto, la aplicación necesita permisos de la cámara.\n\n
+    Por favor, haz clic en continuar y concede acceso a los permisos.</string>
+    <string name="shortcutter_permissions_sync">Esta opción necesita permiso para acceder a los ajustes de sincronización.\n\n
+    Para hacer esto, la aplicación necesita permisos de lectura y edición de sincronización.\n\n
+    Por favor, haz clic en continuar y concede acceso a los permisos.</string>
+    <string name="shortcutter_permissions_location">Esta opción necesita permiso para acceder a tu ubicación.\n\n
+    Para hacer esto, la aplicación necesita permisos de ubicación.\n\n
+    Por favor, haz clic en continuar y concede acceso a los permisos.</string>
+    <string name="unavailable">No disponible</string>
+    <string name="install_shortcut">Instalar\natajo</string>
+    <string name="select_shortcut">Selecciona un atajo para instalar</string>
+    <string name="header">Eliminar encabezado</string>
+    <string name="review">\n ¡No te olvides de dejarnos una valoración de calidad en Play Store!</string>
+    <string name="enjoying">¿Te está gustando Shortcutter?</string>
+    <string name="counter">Contador\n+1</string>
+    <string name="expose_activity_summary">Crea iconos adicionales para acceder a estos botones desde tu pantalla de inicio o el cajón de aplicaciones.\n\nEsto también activa el mapeado de otras aplicaciones como HTC Edge Sense, Second Displays y Tasker.</string>
     <string name="wifi">WiFi</string>
-    <string name="wifi_summary">Enable/Disable WiFi</string>
-    <string name="wifi_hotspot_summary">Enable/Disable WiFi HotSpot</string>
-    <string name="wifi_toggled">WiFi Toggled</string>
-    <string name="hotspot_tile">WiFi Hotspot</string>
-    <string name="to_be_toggled">Choose entries to be toggled.</string>
-    <string name="swipe_out_close">Swipe left/right to close</string>
-    <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
-    <string name="notif_led">Notification LED</string>
-    <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
-    <string name="system_toggle_summary">Subject to OS/manufacturer compatibility</string>
-    <string name="experimental_settings">Experimental Features</string>
-    <string name="sys_setting_tiles">Quick Settings tiles to toggle system settings</string>
-    <string name="system_actions">Tiles to toggle/launch system actions</string>
-    <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
-    <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
-    <string name="cust_app">Tiles that you can assign Applications, Activities, Shortcuts &amp; Web Links to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
-    <string name="cust_app_pref">Tiles that you can assign Applications, Activities, Shortcuts &amp; Web Links to.</string>
-    <string name="cust_sb">Customise the look, feel &amp; behaviour of the Sidebar or ToolBox</string>
-    <string name="behaviour">Change the behaviour of Tiles</string>
-    <string name="perms_now">These will be requested when enabling services.</string>
-    <string name="forceEnglish">Force English</string>
-    <string name="force_eng_summary">Run the app in the English Language</string>
-    <string name="xiaomi">Your device requires applications to be granted auto start permissions, Shortcutter background services will be killed if this is not enabled.\n\nPlease click Proceed &amp; enable auto start for Shortcutter.</string>
-    <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances, Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Battery Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
-    <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
-    <string name="monochrome">B&amp;W</string>
-    <string name="monochrome_summary">Change the display to black and white (Monochrome)</string>
-    <string name="launch_power">Launches Settings \> Power\n(if no settings secure access)</string>
-    <string name="admin_access">Administrator Access</string>
-    <string name="admin_summary">Usage: Screen Lock</string>
-    <string name="tb_tile_alpha">Off Tile Transparency</string>
-    <string name="hide_tb_labels">Hide Text Labels</string>
-    <string name="hidden">Hidden</string>
+    <string name="wifi_summary">Activar/Desactivar WiFi</string>
+    <string name="wifi_hotspot_summary">Activar/Desactivar puntos WiFi</string>
+    <string name="wifi_toggled">WiFi Act./Desac.</string>
+    <string name="hotspot_tile">Puntos WiFi</string>
+    <string name="to_be_toggled">Elige entradas para act./desact.</string>
+    <string name="swipe_out_close">Desliza a un lado para cerrar</string>
+    <string name="obscure_back"><![CDATA[Oscurecer y detectar toques externos]]></string>
+    <string name="notif_led">Notificación LED</string>
+    <string name="notif_led_summary">Act./Desac. notificaciones LED\n(depende del fabricante)</string>
+    <string name="system_toggle_summary">Sujeto a compatibilidad del SO y el fabricante</string>
+    <string name="experimental_settings">Características experimentales</string>
+    <string name="sys_setting_tiles">Usa los botones de ajustes rápidos para ajustes del sistema</string>
+    <string name="system_actions">Apartados para acciones del sistema</string>
+    <string name="info_tiles_sum">Aparatados que proporcionan y enlazan información útil del sistema</string>
+    <string name="sc_service_sum"><![CDATA[Servicios y características proporcionadas por Shortcutter]]></string>
+    <string name="cust_app">Apartados a los que puedes asignar aplicaciones, actividades, atajos y enlaces web.\nActiva los apartados de botones aquí para asignarlos a la aplicación, actividad o atajo que quieras.</string>
+    <string name="cust_app_pref">Apartados a los que puedes asignar aplicaciones, actividades, atajos y enlaces web.</string>
+    <string name="cust_sb">Personaliza el aspecto y comportamiento de tu barra lateral o caja de herramientas.</string>
+    <string name="behaviour">Cambia el comportamiento de los apartados</string>
+    <string name="perms_now">Esto se solicitará al activar los servicios.</string>
+    <string name="forceEnglish">Forzar inglés</string>
+    <string name="force_eng_summary">Inicia la aplicación en inglés</string>
+    <string name="xiaomi">Tu dispositivo necesita conceder a algunas aplicaciones el permiso de autoinicio, los servicios en segundo plano de Shortcutter se cerrarán si no está activado.\n\nPor favor, haz clic en continuar y activa el autoinicio de Shortcutter.</string>
+    <string name="bat_opt"><![CDATA[Shortcutter contiene varios servicios en segundo plano y, en ocasiones, Android puede detener estos servicios cuando se apaga la pantalla del dispositivo, para evitarlo te recomendaría que desactivases la optimización de batería para Shortcutter en Ajustes > Batería.\n\n¡Espero que disfrutes de la aplicación!]]></string>
+    <string name="failed_window_add">Error al añadir una ventana, abre la aplicación y asegúrate de que se han concedido los permisos de interfaz de la pantalla.</string>
+    <string name="monochrome">ByN</string>
+    <string name="monochrome_summary">Cambia el aspecto a blanco y negro (monocromático)</string>
+    <string name="launch_power">Ajustes de lanzamiento \> Batería\n(si no hay ajustes de acceso seguro)</string>
+    <string name="admin_access">Acceso de administrador</string>
+    <string name="admin_summary">Uso: Bloqueo de pantalla</string>
+    <string name="tb_tile_alpha">Transparencia de botones</string>
+    <string name="hide_tb_labels">Ocultar etiquetas</string>
+    <string name="hidden">Oculto</string>
     <string name="visible">Visible</string>
-    <string name="icon_picker">Icon Picker</string>
-    <string name="custom_icon">Tile Icon Background</string>
-    <string name="cust_icon_summary">Select a custom icon background</string>
-    <string name="manage_tiles">Manage tiles</string>
-    <string name="enable_tiles">Enable/Disable Quick Settings Pull-Down Tiles.</string>
-    <string name="qs_tiles">Pull-Down</string>
-    <string name="custom_tiles">Custom Tiles</string>
-    <string name="sb_tb_settings">Sidebar/Toolbox Settings</string>
-    <string name="design_sb_settings">Configure your Shortcutter Sidebar/ToolBox</string>
-    <string name="enable_tiles_tb">Enable/Disable Sidebar Tiles</string>
-    <string name="detect_touch">Touch &amp; Swipe Trigger</string>
-    <string name="touch_and_swipe">Sidebar opens when trigger is touched or swiped\n(up, down or inward)</string>
-    <string name="swipe_only">Sidebar opens when swiped\n(up, down or inward)</string>
-    <string name="hide_header_sum">Sidebar/ToolBox header removed</string>
-    <string name="hide_header_off_sum">Sidebar/ToolBox header visible</string>
-    <string name="capture_quality">Capture Quality</string>
-    <string name="share">Share</string>
-    <string name="delete">Delete</string>
-    <string name="view">View</string>
-    <string name="trigger">Trigger</string>
-    <string name="tile_icons">Tiles/Icons</string>
-    <string name="labels">Tile Labels</string>
-    <string name="icon_scale">Icon Scale</string>
-    <string name="flash_sale">I am offering 40% off Shortcutter Premium until August 25th!\nPlease select the £1.99 option in the purchase premium screen.</string>
-    <string name="sale">Shortcutter Flash Sale</string>
-    <string name="dim">Dim -</string>
-    <string name="dimup">Dim +</string>
-    <string name="screen_dim">Screen Dim =&#160;</string>
-    <string name="mute_media">Mute Media</string>
-    <string name="mute_media_summary">Mute your media volume</string>
-    <string name="system_perms_message_touches">This option requires the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
-        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
-    <string name="lock_root">Use ROOT Method</string>
-    <string name="root_lock_sum">Sends a POWER key event using shell</string>
-    <string name="choose_activity">Choose Activity</string>
-    <string name="exp_notif">Expand Notifications</string>
-    <string name="quick_settings">Expand QS Panel</string>
-    <string name="exp_notif_sum">Expands the notification Pull-Down</string>
-    <string name="qs_sum">Expands the Quick Settings Pull-Down</string>
+    <string name="icon_picker">Selector de iconos</string>
+    <string name="custom_icon">Fondo de iconos</string>
+    <string name="cust_icon_summary">Elige un fondo personalizado</string>
+    <string name="manage_tiles">Administrar apartados</string>
+    <string name="enable_tiles">Activar/Desactivar ajustes rápidos de menú desplegable.</string>
+    <string name="qs_tiles">Desplegable</string>
+    <string name="custom_tiles">Personalizados</string>
+    <string name="sb_tb_settings">Ajustes de caja/barra lateral</string>
+    <string name="design_sb_settings">Configurar caja/barra lateral de Shortcutter</string>
+    <string name="enable_tiles_tb">Activar/Desactivar botones de barra lateral</string>
+    <string name="detect_touch">Tocar y deslizar</string>
+    <string name="touch_and_swipe">La barra lateral se abre al pulsar sobre el activador o deslizar\n(arriba, abajo o hacia dentro)</string>
+    <string name="swipe_only">La barra lateral se abre al deslizar\n(arriba, abajo o hacia dentro)</string>
+    <string name="hide_header_sum">Cabecera de caja/barra lateral eliminada</string>
+    <string name="hide_header_off_sum">Cabecera de caja/barra lateral visible</string>
+    <string name="capture_quality">Calidad de captura</string>
+    <string name="share">Compartir</string>
+    <string name="delete">Eliminar</string>
+    <string name="view">Ver</string>
+    <string name="trigger">Registrar</string>
+    <string name="tile_icons">Botones/Iconos</string>
+    <string name="labels">Etiquetas</string>
+    <string name="icon_scale">Tamaño</string>
+    <string name="flash_sale">¡Ofrezco un 40% de descuento en Shortcutter premium hasta el 25 de agosto!\nSelecciona la opción de pago de 2'21€.</string>
+    <string name="sale">Oferta de Shortcutter</string>
+    <string name="dim">Oscurecer -</string>
+    <string name="dimup">Oscurecer +</string>
+    <string name="screen_dim">Oscurecer pantalla =&#160;</string>
+    <string name="mute_media">Silenciar</string>
+    <string name="mute_media_summary">Silencia tu multimedia</string>
+    <string name="system_perms_message_touches">Esta opción requiere la habilidad de modificar los ajustes del sistema, debido a que no tenemos estos permisos, tendrás que activarlos.
+        \n\nHaz clic en continuar y se te llevará a la pantalla adecuada.\n</string>
+    <string name="lock_root">Usar método ROOT</string>
+    <string name="root_lock_sum">Envía una clave eventual POWER</string>
+    <string name="choose_activity">Elegir actividad</string>
+    <string name="exp_notif">Expandir notificaciones</string>
+    <string name="quick_settings">Expandir panel QS</string>
+    <string name="exp_notif_sum">Expande las notificaciones del menú desplegable</string>
+    <string name="qs_sum">Expande los ajustes del menú desplegable</string>
     <string name="bluetooth">Bluetooth</string>
-    <string name="bt_summary">Enable/Disable Bluetooth</string>
-    <string name="sidebar_off_secure">Sidebar suspended:
-        \nSecure activity detected</string>
-    <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
-    <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
-    <string name="cp_head">TAP CENTER TO CONFIRM OR BACK TO CANCEL</string>
-    <string name="transparency">Transparency</string>
-    <string name="apply">Apply</string>
-    <string name="scale">Scale =&#160;</string>
-    <string name="how_to_summary">A simple overview of what the app offers</string>
-    <string name="run_without">Continue Without</string>
-    <string name="xda">XDA Developers Thread</string>
-    <string name="ap_name">Web Address</string>
-    <string name="round_corners">Rounded Corners</string>
-    <string name="create_shortcut">Create a Shortcut</string>
-    <string name="enter_url">Enter a Web URL or search term</string>
-    <string name="search_if_invalid">If the URL is not valid, a google search will be performed</string>
-    <string name="choose_function">Choose Function</string>
-    <string name="samsung_note">Important note for Samsung users</string>
-    <string name="battery_opt">As you are using a Samsung device, you may experience tiles becoming unresponsive after being dormant.\nTo rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
-    <string name="trig_alpha">Trigger Opacity</string>
-    <string name="problem">Got a problem or feature request\? \n Mail me first :)</string>
-    <string name="opacity">Opacity =</string>
+    <string name="bt_summary">Activar/Desactivar Bluetooth</string>
+    <string name="sidebar_off_secure">Barra lateral desactivada:
+        \nActividad segura detectada</string>
+    <string name="went_wrong">Algo ha salido mal, vuelve a intentarlo. Si este fallo continúa, ponte en contacto conmigo y dame los detalles de tu dispositivo.</string>
+    <string name="cont_and_phone"><![CDATA[Algo ha salido mal, ¿has concedido permisos a Contactos y Teléfono?]]></string>
+    <string name="cp_head">PULSA EN EL CENTRO PARA CONFIRMAR O ATRÁS PARA CANCELAR</string>
+    <string name="transparency">Transparencia</string>
+    <string name="apply">Aplicar</string>
+    <string name="scale">Escala =&#160;</string>
+    <string name="how_to_summary">Una vista simple sobre lo que ofrece la aplicación</string>
+    <string name="run_without">Continuar sin</string>
+    <string name="xda">Hilo de desarrolladores XDA</string>
+    <string name="ap_name">Dirección web</string>
+    <string name="round_corners">Esquinas redondeadas</string>
+    <string name="create_shortcut">Crear un atajo</string>
+    <string name="enter_url">Introduce una URL o busca un término</string>
+    <string name="search_if_invalid">Si la URL no es válida, busca en Google</string>
+    <string name="choose_function">Elegir función</string>
+    <string name="samsung_note">Nota importante para los usuarios de Samsung</string>
+    <string name="battery_opt">Debido a que estáis utilizando un dispositivo Samsung, podéis experimentar fallos con los botones.\nPara solucionarlo, debes excluir Shortcutter de la optimización de batería en los ajustes del sistema.</string>
+    <string name="trig_alpha">Opacidad</string>
+    <string name="problem">¿Tienes un problema o quieres sugerir algo? \n Envíame un correo :)</string>
+    <string name="opacity">Opacidad =</string>
 </resources>
