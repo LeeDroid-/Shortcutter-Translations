@@ -114,12 +114,12 @@
     <string name="show_touches">Mostrar toques</string>
     <string name="subscription_error">Tu dispositivo no es compatible con las suscripciones.</string>
     <string name="iab_async_error">Error al realizar la compra. Hay otra operación en progreso.</string>
-    <string name="onetimefee2">2'10€</string>
-    <string name="onetimefee5">4'21€
+    <string name="onetimefee2">2\'10€</string>
+    <string name="onetimefee5">4\'21€
         \n(gratuito)</string>
-    <string name="donation2">Licencia de 2'10€</string>
-    <string name="donation5">Licencia de 4'21€</string>
-    <string name="donation10">Licencia de 10'67€</string>
+    <string name="donation2">Licencia de 2\'10€</string>
+    <string name="donation5">Licencia de 4\'21€</string>
+    <string name="donation10">Licencia de 10\'67€</string>
     <string name="detected">Detectado</string>
     <string name="yes">Sí</string>
     <string name="subscription">O una suscripción</string>
@@ -455,7 +455,7 @@
     <string name="corners_summary">Usa una interfaz para dar una ilusión de esquinas redondeadas</string>
     <string name="corners_title">Esquinas redondeadas</string>
     <string name="corners__scale_title">Tamaño de la esquina</string>
-    <string name="corners__scale_set">Tamaño de la esquina&#160;=&#160;%1$d\%</string>
+    <string name="corners__scale_set">Tamaño de la esquina&#160;=&#160; %1$d%%</string>
     <string name="corners_scale_summary">Ajusta el radio de la esquina</string>
     <string name="corner_colour">Selecciona el color de la esquina</string>
     <string name="how_it_works">¿Cómo funciona?</string>
@@ -495,7 +495,7 @@
     <string name="refresh">Actualizar</string>
     <string name="current_location">Ubicación actual</string>
     <string name="maps_api">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
-    <string name="dev_loc_mode">Modo ubicación:&#160;%1$s</string>
+    <string name="dev_loc_mode">Modo ubicación:&#160; %1$d</string>
     <string name="mylocation_summary">Muestra ubicación actual, con opciones de ver en el mapa y compartirlo</string>
     <string name="loading_map">Cargando mapa...</string>
     <string name="swipe_out">Desliza para rechazar</string>
@@ -653,4 +653,8 @@
     <string name="trig_alpha">Opacidad</string>
     <string name="problem">¿Tienes un problema o quieres sugerir algo? \n Envíame un correo :)</string>
     <string name="opacity">Opacidad =</string>
+    <string name="onehand">One Handed (Experimental)</string>
+    <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
+    <string name="enter_shell_command">Shell Command</string>
+    <string name="drag_out">Long press to change assignment</string>
 </resources>

@@ -455,7 +455,7 @@
     <string name="corners_summary">Używa nakładki, aby uzyskać złudzenie zaokrąglonych narożników ekranu</string>
     <string name="corners_title">Płytka Zaokrąglonych Narożników</string>
     <string name="corners__scale_title">Skalowanie Rogów</string>
-    <string name="corners__scale_set">Skalowanie Narożników&#160;=&#160;%1$d\%</string>
+    <string name="corners__scale_set">Skalowanie Narożników&#160;=&#160;%1$d%%</string>
     <string name="corners_scale_summary">Ustaw promień naroża ekranu</string>
     <string name="corner_colour">Wybierz Kolor Rogów</string>
     <string name="how_it_works">Jak to działa</string>
@@ -655,4 +655,8 @@
     <string name="trig_alpha">To rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
     <string name="problem">Got a problem or feature request\? \n Mail me first :)</string>
     <string name="opacity">Opacity =</string>
+    <string name="onehand">One Handed (Experimental)</string>
+    <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
+    <string name="enter_shell_command">Shell Command</string>
+    <string name="drag_out">Long press to change assignment</string>
 </resources>

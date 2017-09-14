@@ -252,6 +252,7 @@
         \n\u2022 @Linar10 - Polish
         \n\u2022 @Nuno Nebeker - Portuguese
         \n\u2022 @Evren GüntürKün - Turkish
+        \n\u2022 @Eugenio Martinez Seguin
         \n\nIf you are interested in helping me translate the app, drop me an email using the Email Feedback option in the menu.\n\nAdditional Graphics By @Bogdan</string>
     <string name="file_tile">File
         \nBrowser</string>
@@ -462,7 +463,7 @@
     <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
     <string name="corners_title">Rounded Corners</string>
     <string name="corners__scale_title">Screen Corner Scale</string>
-    <string name="corners__scale_set">Corner Scale&#160;=&#160;%1$d\%</string>
+    <string name="corners__scale_set">Corner Scale&#160;=&#160; %1$d%%</string>
     <string name="corners_scale_summary">Adjust the screen corner radius</string>
     <string name="corner_colour">Select Corner Colour</string>
     <string name="how_it_works">How It works</string>
@@ -502,7 +503,7 @@
     <string name="refresh">Refresh</string>
     <string name="current_location">Current Location</string>
     <string name="maps_api">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
-    <string name="dev_loc_mode">Location Mode:&#160;%1$s</string>
+    <string name="dev_loc_mode">Location Mode:&#160; %1$s</string>
     <string name="mylocation_summary">Displays current location, with options to view in maps or share</string>
     <string name="loading_map">Loading Map....</string>
     <string name="swipe_out">Swipe out to dismiss</string>
@@ -578,8 +579,8 @@
     <string name="system_actions">Tiles to toggle/launch system actions</string>
     <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
     <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
-    <string name="cust_app">Tiles that you can assign Applications, Activities, Shortcuts &amp; Web Links to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
-    <string name="cust_app_pref">Tiles that you can assign Applications, Activities, Shortcuts &amp; Web Links to.</string>
+    <string name="cust_app">Tiles that you can assign Applications, Activities, Shortcuts, Web Links &amp; Shell Commands (ROOT) to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
+    <string name="cust_app_pref">Tiles that you can assign Applications, Activities, Shortcuts &amp; Web Links &amp; Shell Commands (ROOT) to.</string>
     <string name="cust_sb">Customise the look, feel &amp; behaviour of the Sidebar or ToolBox</string>
     <string name="behaviour">Change the behaviour of Tiles</string>
     <string name="perms_now">These will be requested when enabling services.</string>
@@ -661,4 +662,8 @@
     <string name="trig_alpha">Trigger Opacity</string>
     <string name="problem">Got a problem or feature request\? \n Mail me first :)</string>
     <string name="opacity">Opacity =</string>
+    <string name="onehand">One Handed (Experimental)</string>
+    <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
+    <string name="enter_shell_command">Shell Command</string>
+    <string name="drag_out">Long press to change assignment</string>
 </resources>

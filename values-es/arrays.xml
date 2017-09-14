@@ -71,4 +71,11 @@
         <item>Atajo</item>
         <item>Enlace web</item>
     </string-array>
+        <string-array name="cust_tile_choice_root">
+        <item>Aplicación</item>
+        <item>Actividad (avanzado)</item>
+        <item>Atajo</item>
+        <item>Enlace web</item>
+	<item>Shell Command</item>
+    </string-array>
 </resources>

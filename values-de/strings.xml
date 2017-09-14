@@ -454,7 +454,7 @@
     <string name="corners_summary">Benutzt eine Überlagerung um die Illusion abgerundeter Bildschirmecken zu erzeugen</string>
     <string name="corners_title">Abgerundete Ecken</string>
     <string name="corners__scale_title">Bilschirmecken Radius</string>
-    <string name="corners__scale_set">Eckenradius&#160;=&#160;%1$d\%</string>
+    <string name="corners__scale_set">Eckenradius&#160;=&#160;%1$d%%</string>
     <string name="corners_scale_summary">Stellt den Bildschirmeckenradius ein</string>
     <string name="corner_colour">Wähle Eckenfarbe</string>
     <string name="how_it_works">Wie es funktioniert</string>
@@ -463,7 +463,7 @@
     <string name="how_it_works3">\u2022 Über die ausklappbare Sidebar oder den schwebenden Werkzeugkasten</string>
     <string name="how_it_works4">\u2022 Über Schalter in deiner App Übersicht &amp; Startbildschirm, welcher auch in HTC Edge Sense, Zweiter Bildschirm und Tasker zugeordnet wird &amp; vieles mehr!</string>
     <string name="attention">Bitte beachte die Anleitung im Tabulator 2, \nwie man Kacheln hinzufügt.</string>
-    <string name="config_serv">Einstellungen</string>
+    <string name="config_serv">Einst</string>
     <string name="screenshot_root">Benutze Root Methode für Bildschirmfoto</string>
     <string name="screenshot_root_summary">Macht ein Bildschirmfoto indem die Systembinärdatei für Bildschirmaufnahme benutzt wird</string>
     <string name="corners_active">Bildschirmecken aktiviert</string>
@@ -494,7 +494,7 @@
     <string name="refresh">Aktualisieren</string>
     <string name="current_location">Aktueller Standort</string>
     <string name="maps_api">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
-    <string name="dev_loc_mode">Standortmodus:&#160;%1$s</string>
+    <string name="dev_loc_mode">Standortmodus:&#160; %1$s</string>
     <string name="mylocation_summary">Zeigt aktuellen Standort mit Optionen zur Ansicht in Maps oder zum Teilen</string>
     <string name="loading_map">Lädt Karte....</string>
     <string name="swipe_out">Wische heraus um zu verbergen</string>
@@ -655,4 +655,8 @@
     <string name="trig_alpha">Transparenz auslösen</string>
     <string name="problem">Hast du ein Problem oder eine Feature-Anfrage\? \n Schreibe mir zuerst :)</string>
     <string name="opacity">Deckkraft =</string>
+    <string name="onehand">One Handed (Experimental)</string>
+    <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
+    <string name="enter_shell_command">Shell Command</string>
+    <string name="drag_out">Long press to change assignment</string>
 </resources>

@@ -454,7 +454,7 @@
     <string name="corners_summary">Köşeleri yuvarlatılmış olarak göstermek için köşelere giydirme yapar</string>
     <string name="corners_title">Yuvarlak Köşeler</string>
     <string name="corners__scale_title">Ekran Köşesi Boyutu</string>
-    <string name="corners__scale_set">Köşe Boyutu&#160;=&#160;%1$d\%</string>
+    <string name="corners__scale_set">Köşe Boyutu&#160;=&#160;%1$d%%</string>
     <string name="corners_scale_summary">Ekran köşesinin genişliğini ayarlayın</string>
     <string name="corner_colour">Köşenin rengini seçin</string>
     <string name="how_it_works">Nasıl Çalışıyor?</string>
@@ -653,4 +653,8 @@
     <string name="trig_alpha">Pil ayarlarında, shortcutter uygulamasını pil optimizasyonundan çıkarırsanız bu sorun çözülür.</string>
     <string name="problem">Problemleriniz ve önerileriniz için\? \n Lütfen e-mail atın :)</string>
     <string name="opacity">Saydamlık =</string>
+    <string name="onehand">One Handed (Experimental)</string>
+    <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
+    <string name="enter_shell_command">Shell Command</string>
+    <string name="drag_out">Long press to change assignment</string>
 </resources>
