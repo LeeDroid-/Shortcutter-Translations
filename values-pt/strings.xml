@@ -23,36 +23,36 @@
     <string name="enable_root_features">Ativar Funcionalidades Root</string>
     <string name="root_features_enabled">Funcionalidades Root Ativadas</string>
     <string name="appicon">AppIcon</string>
-    <string name="CustomTile1">Azulejo personalizado 1</string>
-    <string name="CustomTile2">Azulejo personalizado 2</string>
-    <string name="CustomTile4">Azulejo personalizado 4</string>
-    <string name="CustomTile3">Azulejo personalizado 3</string>
-    <string name="CustomTile5">Azulejo personalizado 5</string>
-    <string name="CustomTile6">Azulejo personalizado 6</string>
-    <string name="CustomTile7">Azulejo personalizado 7</string>
-    <string name="CustomTile8">Azulejo personalizado 8</string>
-    <string name="CustomTile9">Azulejo personalizado 9</string>
-    <string name="CustomTile10">Azulejo personalizado 10</string>
-    <string name="CustomTile11">Azulejo personalizado 11</string>
-    <string name="CustomTile12">Azulejo personalizado 12</string>
-    <string name="CustomTile13">Azulejo personalizado 13</string>
-    <string name="CustomTile14">Azulejo personalizado 14</string>
-    <string name="CustomTile15">Azulejo personalizado 15</string>
-    <string name="CustomTile16">Azulejo personalizado 16</string>
-    <string name="CustomTile17">Azulejo personalizado 17</string>
-    <string name="CustomTile18">Azulejo personalizado 18</string>
-    <string name="CustomTile19">Azulejo personalizado 19</string>
-    <string name="CustomTile20">Azulejo personalizado 20</string>
-    <string name="CustomTile21">Azulejo personalizado 21</string>
-    <string name="CustomTile22">Azulejo personalizado 22</string>
-    <string name="CustomTile23">Azulejo personalizado 23</string>
-    <string name="CustomTile24">Azulejo personalizado 24</string>
-    <string name="CustomTile25">Azulejo personalizado 25</string>
-    <string name="CustomTile26">Azulejo personalizado 26</string>
-    <string name="CustomTile27">Azulejo personalizado 27</string>
-    <string name="CustomTile28">Azulejo personalizado 28</string>
-    <string name="CustomTile29">Azulejo personalizado 29</string>
-    <string name="CustomTile30">Azulejo personalizado 30</string>
+    <string name="CustomTile1">Mosaico personalizado 1</string>
+    <string name="CustomTile2">Mosaico personalizado 2</string>
+    <string name="CustomTile4">Mosaico personalizado 4</string>
+    <string name="CustomTile3">Mosaico personalizado 3</string>
+    <string name="CustomTile5">Mosaico personalizado 5</string>
+    <string name="CustomTile6">Mosaico personalizado 6</string>
+    <string name="CustomTile7">Mosaico personalizado 7</string>
+    <string name="CustomTile8">Mosaico personalizado 8</string>
+    <string name="CustomTile9">Mosaico personalizado 9</string>
+    <string name="CustomTile10">Mosaico personalizado 10</string>
+    <string name="CustomTile11">Mosaico personalizado 11</string>
+    <string name="CustomTile12">Mosaico personalizado 12</string>
+    <string name="CustomTile13">Mosaico personalizado 13</string>
+    <string name="CustomTile14">Mosaico personalizado 14</string>
+    <string name="CustomTile15">Mosaico personalizado 15</string>
+    <string name="CustomTile16">Mosaico personalizado 16</string>
+    <string name="CustomTile17">Mosaico personalizado 17</string>
+    <string name="CustomTile18">Mosaico personalizado 18</string>
+    <string name="CustomTile19">Mosaico personalizado 19</string>
+    <string name="CustomTile20">Mosaico personalizado 20</string>
+    <string name="CustomTile21">Mosaico personalizado 21</string>
+    <string name="CustomTile22">Mosaico personalizado 22</string>
+    <string name="CustomTile23">Mosaico personalizado 23</string>
+    <string name="CustomTile24">Mosaico personalizado 24</string>
+    <string name="CustomTile25">Mosaico personalizado 25</string>
+    <string name="CustomTile26">Mosaico personalizado 26</string>
+    <string name="CustomTile27">Mosaico personalizado 27</string>
+    <string name="CustomTile28">Mosaico personalizado 28</string>
+    <string name="CustomTile29">Mosaico personalizado 29</string>
+    <string name="CustomTile30">Mosaico personalizado 30</string>
     <string name="RebootRecovery">Reiniciar Recuperação</string>
     <string name="Reboot">Reiniciar</string>
     <string name="ring_mode">Modo de Toque</string>
@@ -409,175 +409,173 @@
     <string name="celsius">Celsius</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="app_sig">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
-    <string name="humidity">Humidity:&#160;</string>
-    <string name="mylocation">My Location</string>
-    <string name="maps_link">View On Maps</string>
-    <string name="refresh">Refresh</string>
-    <string name="current_location">Current Location</string>
+    <string name="humidity">Humidade:&#160;</string>
+    <string name="mylocation">A Minha Localização</string>
+    <string name="maps_link">Mostrar em Mapa</string>
+    <string name="refresh">Atualizar</string>
+    <string name="current_location">Localização Atual</string>
     <string name="maps_api">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
-    <string name="dev_loc_mode">Location Mode:&#160;%1$s</string>
-    <string name="mylocation_summary">Displays current location, with options to view in maps or share</string>
-    <string name="loading_map">Loading Map....</string>
-    <string name="swipe_out">Swipe out to dismiss</string>
-    <string name="choose_ring_entries">Ring Mode Entries (2 Minimum)</string>
-    <string name="qs_head_title">QS Header Tiles</string>
-    <string name="acc_needed_corners">This overlay requires Accessibility access to:
-        \n\n \u2022 Detect secure activities.
-        \n\nIf a secure activity is detected, this overlay will automatically stop.
-        \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
-    <string name="filter_off_secure">Screen Filter suspended:
-        \nSecure activity detected</string>
-    <string name="corners_off_secure">Screen Corners suspended:
-        \nSecure activity detected</string>
-    <string name="launch_loc">Launches Settings \> Location/n(if no settings secure access)</string>
-    <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
-    <string name="nigh_light">Night Light</string>
-    <string name="brightness">Screen Brightness</string>
-    <string name="scnigh_light">Shortcutter\nNight Light</string>
-    <string name="nightlight_summary">Provides an always on Nightlight &amp; clock display, plus a button to switch to Desk Clock Mode</string>
-    <string name="deskmode">Desk Clock\nMode</string>
-    <string name="lightmode">Night Light\nMode</string>
-    <string name="scdesk">Shortcutter\nDesk Clock</string>
-    <string name="expand_collapse">SideBar\nExpander</string>
-    <string name="expose_toggler">Enable the \"SideBar Expander\" icon to open/close the SideBar or ToolBox, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp; Tasker.</string>
-    <string name="permissions">App Permissions</string>
-    <string name="settings_access">Write System Settings</string>
-    <string name="overlay_access">Overlay Permissions</string>
-    <string name="acc_access">Accessibility Access</string>
-    <string name="dnd_access">Do Not Disturb Access</string>
-    <string name="usage_access">Data Usage</string>
-    <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
-    <string name="overlay_summary">Usage: Floating SideBar/ToolBox, Screen Filter &amp; Rounded Corners</string>
-    <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Expand Notifications &amp; Quick Settings, Screen Filter &amp; Rounded Corners</string>
-    <string name="dnd_summary">Usage: Ring Mode</string>
-    <string name="usage_summary">Usage: Data Usage Tile</string>
-    <string name="actual_tiles">Actual Tiles =&#160; %1$d </string>
-    <string name="shortcutter_permissions_phone">This toggle requires the ability to check network state.\n\n
-    In order to do this the app needs the Phone permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="shortcutter_permissions_storage">This service requires the ability to access external storage.\n\n
-    In order to do this the app needs the Read/Write Storage permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="shortcutter_permissions_camera">This toggle requires the ability to access the camera (Flash).\n\n
-    In order to do this the app needs the Camera permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="shortcutter_permissions_sync">This toggle requires the ability to access your Sync settings.\n\n
-    In order to do this the app needs the Read/Write Sync permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
-    In order to do this the app needs the Location permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="unavailable">Unavailable</string>
-    <string name="install_shortcut">Install\nShortcut</string>
-    <string name="select_shortcut">Select A Shortcut To Install</string>
-    <string name="header">Remove Header</string>
-    <string name="review">\n Don\'t forget to leave a rocking review in the Play Store!</string>
-    <string name="enjoying">Enjoying Shortcutter?</string>
-    <string name="counter">Counter\n+1</string>
-    <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp;. Tasker.</string>
+    <string name="dev_loc_mode">Modo de Localização:&#160;%1$s</string>
+    <string name="mylocation_summary">Mostra a localização atual com opções de mostrar em mapa ou partilhar</string>
+    <string name="loading_map">A Carregar Mapa...</string>
+    <string name="swipe_out">Deslizar para fora para ignorar</string>
+    <string name="choose_ring_entries">Opções de Modo de Toque (Mínimo de 2)</string>
+    <string name="qs_head_title">Mosaicos CR de Cabeçalho</string>
+    <string name="acc_needed_corners">Este conteúdo sobreposto precisa de acesso a Acessibilidade para:
+        \n\n \u2022 Detetar atividades seguras.
+        \n\nSe uma atividade segura for detetada, esta sobreposição pára automaticamente.
+        \n\nClique em continuar, escolha Shortcutter &amp; ative o serviço.\n\n</string>
+    <string name="filter_off_secure">Filtro de Ecrã suspenso:
+        \nAtividade Segura detetada</string>
+    <string name="corners_off_secure">Cantos de Ecrã suspenso:
+        \nAtividade Segura detetada</string>
+    <string name="launch_loc">Abre Definições \> Loalização/n(se não houver acesso a definições segurs)</string>
+    <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Definições Rápidas v%1$s </string>
+    <string name="nigh_light">Luz de Presença</string>
+    <string name="brightness">Brilho do Ecrã</string>
+    <string name="scnigh_light">Luz de Presença\nShortcutter</string>
+    <string name="nightlight_summary">Oferece uma Luz de Presença sempre ligada &amp; mostrador de relógio, além de um botão para trocar para Modo de Relógio de Mesa</string>
+    <string name="deskmode">Modo\nRelógio de Mesa</string>
+    <string name="lightmode">Modo\nLuz de Presença</string>
+    <string name="scdesk">Relógio de Mesa\nShortcutter</string>
+    <string name="expand_collapse">Expansor\nBarraLateral</string>
+    <string name="expose_toggler">Ativa ícone \"Expansor BarraLateral\" para abrir/fechar a BarraLateral ou Caixa de Ferramentas, também permite ligar a outras aplicações como HTC Edge Sense, Second Displays &amp; Tasker.</string>
+    <string name="permissions">Permisseões da Aplicação</string>
+    <string name="settings_access">Alterar Definições de Sistema</string>
+    <string name="overlay_access">Permissão de Sobreposição</string>
+    <string name="acc_access">Acesso de Acessibilidade</string>
+    <string name="dnd_access">Acesso a Não Inocomodar</string>
+    <string name="usage_access">Utilização de Dados</string>
+    <string name="settings_system_summary">Uso: Brilho, Tamanho de Tipo de Letra, Resposta de Vibração &amp; Suspensão de Ecrã</string>
+    <string name="overlay_summary">Uso: BarraLateral/Caixa de Ferramentas, Filtro de Ecrã &amp; Cantos arredondados</string>
+    <string name="acc_summary">Uso: Aplicações Recentes, Menu Desligar, Ecrã Dividido, Expandir Notificações &amp; Definições Rápidas, Filtro de Ecrã &amp; Cantos Arredondados</string>
+    <string name="dnd_summary">Uso: Modo de Toque</string>
+    <string name="usage_summary">Uso: Mosaico Utilização de Dados</string>
+    <string name="actual_tiles">Mosaicos Atuais =&#160; %1$d </string>
+    <string name="shortcutter_permissions_phone	">Esta opção precisa de poder verificar o estado de rede.\n\n
+	Para isso, a aplicação precisa da permissão Telemóvel.\n\n
+	Por favor clique continuar &amp; dê a permissão quando pedido.</string>
+    <string name="shortcutter_permissions_storage">Este serviço precisa de poder aceder a armazenamento externo.\n\n
+	Para isso, a aplicação precisa da permissão Armazenamento.\n\n
+    Por favor clique continuar &amp; dê a permissão quando pedido.</string>
+    <string name="shortcutter_permissions_camera">Esta opção precisa de poder aceder à câmara (Flash).\n\n
+	Para isso, a aplicação precisa da permissão Câmara.\n\n
+    Por favor clique continuar &amp; dê a permissão quando pedido.</string>
+    <string name="shortcutter_permissions_sync">Esta opção precisa de poder aceder às definições de Sincronização.\n\n
+	Para isso, a aplicação precisa da permissão Sincronização.\n\n
+    Por favor clique continuar &amp; dê a permissão quando pedido.</string>Esta opção precisa de poder aceder à sua Localização.\n\n
+    Para isso, a aplicação precisa da permissão Localização.\n\n
+    Por favor clique continuar &amp; dê a permissão quando pedido.</string>
+    <string name="unavailable">Indisponível</string>
+    <string name="install_shortcut">Instalar\nAtalho</string>
+    <string name="select_shortcut">Selecione um Atalho Para Instalar</string>
+    <string name="header">Remover Cabeçalho</string>
+    <string name="review">\n Não se esqueça de deixar uma crítica espectacular na Play Store!</string>
+    <string name="enjoying">Aprecie Shortcutter?</string>
+    <string name="counter">Countador\n+1</string>
+    <string name="expose_activity_summary">Aceda a estes comandos do ecrã inicial ou lista de aplicações, também permite ligar a outras aplicções como HTC Edge Sense, Second Displays &amp;. Tasker.</string>
     <string name="wifi">WiFi</string>
-    <string name="wifi_summary">Enable/Disable WiFi</string>
-    <string name="wifi_hotspot_summary">Enable/Disable WiFi HotSpot</string>
-    <string name="wifi_toggled">WiFi Toggled</string>
-    <string name="hotspot_tile">WiFi Hotspot</string>
-    <string name="to_be_toggled">Choose entries to be toggled.</string>
-    <string name="swipe_out_close">Swipe left/right to close</string>
-    <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
-    <string name="notif_led">Notification LED</string>
-    <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
-    <string name="system_toggle_summary">Subject to OS/manufacturer compatibility</string>
-    <string name="experimental_settings">Experimental Features</string>
-    <string name="sys_setting_tiles">Quick Settings tiles to toggle system settings</string>
-    <string name="system_actions">Tiles to toggle/launch system actions</string>
-    <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
-    <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
-    <string name="cust_app">Tiles that you can assign Applications, Activities &amp; Shortcuts to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
-    <string name="cust_sb">Customise the look, feel &amp; behaviour of the SideBar or ToolBox</string>
-    <string name="behaviour">Change the behaviour of Tiles</string>
-    <string name="perms_now">Permissions required for specific tiles &amp; features</string>
-    <string name="forceEnglish">Force English</string>
-    <string name="force_eng_summary">Run the app in the English Language</string>
-    <string name="xiaomi">Your device requires applications to be granted auto start permissions, Shortcutter background services will be killed if this is not enabled.\n\nPlease click Proceed &amp; enable auto start for Shortcutter.</string>
-    <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Battery Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
-    <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
-    <string name="monochrome">B&amp;W</string>
-    <string name="monochrome_summary">Change the display to black and white (Monochrome)</string>
-    <string name="launch_power">Launches Settings \> Power\n(if no settings secure access)</string>
-    <string name="admin_access">Administrator Access</string>
-    <string name="admin_summary">Usage: Screen Lock</string>
-    <string name="tb_tile_alpha">Off Tile Transparency</string>
-    <string name="hide_tb_labels">Hide Text Labels</string>
-    <string name="hidden">Hidden</string>
-    <string name="visible">Visible</string>
-    <string name="icon_picker">Icon Picker</string>
-    <string name="custom_icon">Tile Icon Background</string>
-    <string name="cust_icon_summary">Select a custom icon background</string>
-    <string name="manage_tiles">Manage tiles</string>
-    <string name="enable_tiles">Enable/Disable Quick Settings Pull-down Tiles</string>
-    <string name="qs_tiles">Pull Down</string>
-    <string name="custom_tiles">Custom Tiles</string>
-    <string name="sb_tb_settings">SideBar/Toolbox Settings</string>
-    <string name="design_sb_settings">Configure your Shortcutter SideBar/ToolBox</string>
-    <string name="enable_tiles_tb">Enable/Disable SideBar Tiles</string>
-    <string name="detect_touch">Touch &amp; Swipe Trigger</string>
-    <string name="touch_and_swipe">SideBar opens when trigger is touched or swiped\n(up, down or inward)</string>
-    <string name="swipe_only">SideBar opens when swiped\n(up, down or inward)</string>
-    <string name="hide_header_sum">SideBar/ToolBox header removed</string>
-    <string name="hide_header_off_sum">SideBar/ToolBox header visible</string>
-    <string name="capture_quality">Capture Quality</string>
-    <string name="share">Share</string>
-    <string name="delete">Delete</string>
-    <string name="view">View</string>
-    <string name="trigger">Trigger</string>
-    <string name="tile_icons">Tiles/Icons</string>
-    <string name="labels">Tile Labels</string>
-    <string name="icon_scale">Icon Scale</string>
-    <string name="flash_sale">I am offering 40% off Shortcutter Premium until August 25th!\nPlease select the £1.99 option in the purchase premium screen.</string>
-    <string name="sale">Shortcutter Flash Sale</string>
-    <string name="dim">Dim -</string>
-    <string name="dimup">Dim +</string>
-    <string name="screen_dim">Screen Dim =&#160;</string>
-    <string name="mute_media">Mute Media</string>
-    <string name="mute_media_summary">Mute your media volume</string>
-    <string name="system_perms_message_touches">This option requires the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
-        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
-    <string name="lock_root">Use ROOT Method</string>
-    <string name="root_lock_sum">Sends a POWER key event using shell</string>
-    <string name="choose_activity">Choose Activity</string>
-    <string name="exp_notif">Expand Notifications</string>
-    <string name="quick_settings">Expand QS Panel</string>
-    <string name="exp_notif_sum">Expands the notification pulldown</string>
-    <string name="qs_sum">Expands the Quick Settings pulldown</string>
+    <string name="wifi_summary">Liga/Desliga WiFi</string>
+    <string name="wifi_hotspot_summary">Liga/Desliga Zona WiFi Portátil</string>
+    <string name="wifi_toggled">WiFi Ligado/Desligado</string>
+    <string name="hotspot_tile">Zona WiFi</string>
+    <string name="to_be_toggled">Escolha ações para controlar.</string>
+    <string name="swipe_out_close">Deslize para a esquerdadireita para fechar</string>
+    <string name="obscure_back"><![CDATA[Escurecer por Trás & Detetar Toques Exteriores]]></string>
+    <string name="notif_led">Notificações por LED</string>
+    <string name="notif_led_summary">Liga/desliga notificações pelo LED do dispositivo\n(Depende do fabricante)</string>
+    <string name="system_toggle_summary">Subjeito a compatibilidade SO/fabricante</string>
+    <string name="experimental_settings">Funções Experimentais</string>
+    <string name="sys_setting_tiles">Mosaicos de Configurações Rápidas para alterar definições de sistema</string>
+    <string name="system_actions">Mosaicos de alterar/ativar ações de sistema</string>
+    <string name="info_tiles_sum">Mosaicos com informações úteis de sistema</string>
+    <string name="sc_service_sum"><![CDATA[Serviços & funções oferecidas por Shortcutter]]></string>
+    <string name="cust_app">Mosaicos que pode ligar a Aplicações, Atividades &amp; Atalhos.\nAtive os mosaicos aqui, depois cique no mosaico para definir a aplicação, atividade ou atalho escolhido.</string>
+    <string name="cust_sb">Personalizar o aspeto &amp; comportamento da BarraLateral ou Caixa de Ferramentas</string>
+    <string name="behaviour">Mudar o comportamento dos Mosaicos</string>
+    <string name="perms_now">Permissões necessárias para mosaicos &amp; funções específicas</string>    <string name="forceEnglish">Force English</string>
+    <string name="force_eng_summary">Correr a aplicação em língua Inglesa</string>
+    <string name="xiaomi">O seu dispositivo requer autorização para que aplicações possam correr no arranque, serviçoes de fundo Shortcutter serão encerrados sem esta autorização.\n\nPor favor clique continuar &amp; ative início no arranque para Shortcutter.</string>
+    <string name="bat_opt"><![CDATA[Shortcutter tem v+arios serviços de fundo, nalguns casos, o Android pode encerrar estes serviços quando o aparelho entra em modo de hibernação, para evitar isso recomenda-se que desligue Otimização de Bateria para Shortcutter via Definições > Bateria.\n\nEspero que aprecie a aplicação!]]></string>
+    <string name="failed_window_add">Falha a adicionar janela, por favor abra a aplicação e verifique qua a permissão Sobreposição foi concedida</string>
+    <string name="monochrome">P&amp;B</string>
+    <string name="monochrome_summary">Mudar o ecrã para preto e btanco (Monocromático)</string>
+    <string name="launch_power">Abrir Definições \> Bateria\n(Se não tiver accesso a definições seguras)</string>
+    <string name="admin_access">Acesso de Administrador</string>
+    <string name="admin_summary">Uso: Bloqueio de Ecrã</string>
+    <string name="tb_tile_alpha">Transparência de Mosaicos</string>
+    <string name="hide_tb_labels">Esconder Legendas</string>
+    <string name="hidden">Escondido</string>
+    <string name="visible">Visível</string>
+    <string name="icon_picker">Escolher Ícones</string>
+    <string name="custom_icon">Fundo de Ícones de Mosaicos</string>
+    <string name="cust_icon_summary">Selecione um fundo de ícone personalizado</string>
+    <string name="manage_tiles">Gerir mosaicos</string>
+    <string name="enable_tiles">Ativar/Desativar Mosaicos de Configurações Rápidas</string>
+    <string name="qs_tiles">Desliz para Baixo</string>
+    <string name="custom_tiles">Mosaicos Personalizados</string>
+    <string name="sb_tb_settings">Definições BarraLateral/Caixa de Ferramentas</string>
+    <string name="design_sb_settings">Configure a sua BarraLateral/Caixa de Ferramentas Shortcutter</string>
+    <string name="enable_tiles_tb">Ativar/Desativar Mosaicos BarraLateral</string>
+    <string name="detect_touch">Deteção Tocar &amp; Deslizar</string>
+    <string name="touch_and_swipe">BarraLateral abre quando desliza (para cima, baixo dentro) na zona de deteção</string>
+    <string name="swipe_only">BarraLateral abre quando desliza (para cima, baixo dentro)</string>
+    <string name="hide_header_sum">Cabeçalho BarraLateral/Caixa de Ferramentas removido</string>
+    <string name="hide_header_off_sum">Cabeçalho BarraLateral/Caixa de Ferramentas visível</string>
+    <string name="capture_quality">Qualidade de Captura</string>
+    <string name="share">Partilhar</string>
+    <string name="delete">Apagar</string>
+    <string name="view">Ver</string>
+    <string name="trigger">Deteção</string>
+    <string name="tile_icons">Mosaico/Ícones</string>
+    <string name="labels">Legendas de Ícones</string>
+    <string name="icon_scale">Escala de Ícones</string>
+    <string name="flash_sale">Estou a oferecer 40% de desconto no Shortcutter Premium até 25 de Agosto!\nPor favor selecione a opção de £1.99 no ecrã de compra premium.</string>
+    <string name="sale">Saldos Shortcutter</string>
+    <string name="dim">Escorecer -</string>
+    <string name="dimup">Escorecer +</string>
+    <string name="screen_dim">Escorecimento e Ecrã =&#160;</string>
+    <string name="mute_media">Silenciar Média</string>
+    <string name="mute_media_summary">Silencia o volume de multimédia</string>
+    <string name="system_perms_message_touches">Esta opção precisa de poder alterar definições de sistema, como não podemos pedir esta permissão do modo normal, terá que a ativar.
+        \n\nClque continuar &amp; será levado ao eccrã relevante.\n</string>
+    <string name="lock_root">Usar Método ROOT</string>
+    <string name="root_lock_sum">Envia um event do botão POWER usando a linha de comandos</string>
+    <string name="choose_activity">Selecionar Atividade</string>
+    <string name="exp_notif">Expandir Notificações</string>
+    <string name="quick_settings">Expandir Painel CR</string>
+    <string name="exp_notif_sum">Expande as notificações</string>
+    <string name="qs_sum">Expande o painel de Configurações Rápidas</string>
     <string name="bluetooth">Bluetooth</string>
-    <string name="bt_summary">Enable/Disable Bluetooth</string>
-    <string name="sidebar_off_secure">SideBar suspended:
-        \nSecure activity detected</string>
-    <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
-    <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
-    <string name="corners__scale_set">Corner Scale&#160;=&#160; %1$d%%</string>
-    <string name="misc_cat">Expose Launcher Toggles</string>
-    <string name="transparency">Transparency</string>
-    <string name="screen_recorder">Screen Recorder</string>
-    <string name="scale">Scale =&#160;</string>
-    <string name="cp_head">TAP CENTER TO CONFIRM OR BACK TO CANCEL</string>
-    <string name="apply">Apply</string>
-    <string name="ap_name">Web Address</string>
-    <string name="create_shortcut">Create a Shortcut</string>
-    <string name="enter_url">Enter a Web URL or search term</string>
-    <string name="how_to_summary">A simple overview of what the app offers</string>
-    <string name="round_corners">Rounded Corners</string>
-    <string name="run_without">Continue Without</string>
-    <string name="search_if_invalid">If the URL is not valid, a google search will be performed</string>
-    <string name="xda">XDA Developers Thread</string>
+    <string name="bt_summary">Ligar/Desligar Bluetooth</string>
+    <string name="sidebar_off_secure">BarraLateral suspença:
+        \nAtividade segura detetada</string>
+    <string name="went_wrong">Ocurreu um problema, por favor tente outra vez. Se o problema persistir, por favor contacte-me com os detalhes o seu aparelho.</string>
+    <string name="cont_and_phone"><![CDATA[Ocurreu um problema, concedeu as autorizações Contactos & Telemóvel?]]></string>
+    <string name="corners__scale_set">Escala de Cantos&#160;=&#160; %1$d%%</string>
+    <string name="misc_cat">Expôr Controlos no Ecrã Inicial</string>
+    <string name="transparency">Transparência</string>
+    <string name="screen_recorder">Gravador de Ecrã</string>
+    <string name="scale">Escala =&#160;</string>
+    <string name="cp_head">TOQUE NO CENTRO PARA CONFIRMAR OU RETROCEDER PARA CONCELAR</string>
+    <string name="apply">Aplicar</string>
+    <string name="ap_name">Endereço Web</string>
+    <string name="create_shortcut">Criar um Atalho</string>
+    <string name="enter_url">Introduza uma URL WEB ou termo de pesquisa</string>
+    <string name="how_to_summary">Uma simples apresentação do que a app afoerece</string>
+    <string name="round_corners">Cantos Arredondados</string>
+    <string name="run_without">Continuar Sem</string>
+    <string name="search_if_invalid">Se a URL não for válida, será feita uma pesquisa no Google</string>
+    <string name="xda">Tópico XDA Developers</string>
     <string name="choose_function">Escolha a função</string>
-    <string name="cust_app_pref">Tiles that you can assign Applications, Activities, Shortcuts &amp; Web Links to.</string>
-    <string name="samsung_note">Important note for Samsung users</string>
-    <string name="battery_opt">As you are using a Samsung device, you may experience tiles becoming unresponsive after being dormant.</string>
-    <string name="trig_alpha">To rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
-    <string name="problem">Got a problem or feature request\? \n Mail me first :)</string>
-    <string name="opacity">Opacity =</string>
-    <string name="onehand">One Handed (Experimental)</string>
-    <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
-    <string name="enter_shell_command">Shell Command</string>
-    <string name="drag_out">Long press to change assignment</string>
+    <string name="cust_app_pref">Mosaicos que pode ligar a Aplicações, Atividades, Atalhos &amp; Ligações Web..</string>
+    <string name="samsung_note">Nota importante para utilizadores de Samsung</string>
+    <string name="battery_opt">Como está a utilizar um aparelho Samsung, pode ter mmosaicos que deixam de responder passado algum tempo.</string>
+    <string name="trig_alpha">Para retificar este problems, por favor exclua Shortcutter da otimização de bateria nas definições do aparelho.</string>
+    <string name="problem">Tem um problema ou quer pedir uma funçãonova\? \n Envie-me um email primeiro :)</string>
+    <string name="opacity">Opacidade =</string>
+    <string name="onehand">Modo de Uma Mão (Experimental)</string>
+    <string name="onehanded_summary">Encolhe o ecrã para o canto inferior direito, nem todas as aplicações encolhem corretamente</string>
+    <string name="enter_shell_command">Linha de Comandos</string>
+    <string name="drag_out">Toque e segure para alterar</string>
 </resources>
