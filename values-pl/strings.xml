@@ -649,14 +649,14 @@
     <string name="search_if_invalid">Jeśli adres URL nie jest prawidłowy, zostanie wykonane wyszukiwanie google</string>
     <string name="xda">Strona na XDA Developers</string>
     <string name="choose_function">Wybierz funkcję</string>
-    <string name="cust_app_pref">Tiles that you can assign Applications, Activities, Shortcuts &amp; Web Links to.</string>
-    <string name="samsung_note">Important note for Samsung users</string>
-    <string name="battery_opt">As you are using a Samsung device, you may experience tiles becoming unresponsive after being dormant.</string>
-    <string name="trig_alpha">To rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
-    <string name="problem">Got a problem or feature request\? \n Mail me first :)</string>
-    <string name="opacity">Opacity =</string>
-    <string name="onehand">One Handed (Experimental)</string>
-    <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
+    <string name="cust_app_pref">Płytki, na które można przypisać Aplikacje,, Aktywność, Skróty &amp; Linki Stron.</string>
+    <string name="samsung_note">Ważna uwaga dla użytkowników Samsunga</string>
+    <string name="battery_opt">Jeśli używasz urządzenia firmy Samsung, po przejściu w stan uśpienia może wystąpić brak reakcji na dotknięcie płytki.</string>
+    <string name="trig_alpha">Aby wyeliminować ten problem, wyłącz Shortcutter z optymalizacji baterii w ustawieniach urządzenia.</string>
+    <string name="problem">Masz problem lub prośbę o funkcję\? \n Wyślij mi E-Mail najpierw :)</string>
+    <string name="opacity">Przeźroczystość =</string>
+    <string name="onehand">Jedną Ręką (Eksperymentalne)</string>
+    <string name="onehanded_summary">Powoduje zmniejszenie wyświetlacza w prawym dolnym rogu, ale nie wszystkie aplikacje są prawidłowo skalowane</string>
     <string name="enter_shell_command">Shell Command</string>
-    <string name="drag_out">Long press to change assignment</string>
+    <string name="drag_out">Długie naciśnięcie powoduje zmianę przypisania</string>
 </resources>
