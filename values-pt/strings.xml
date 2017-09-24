@@ -289,7 +289,7 @@
     <string name="screen_lock_admin">Necessário para usar o Mosaico de Configuração Rápida \"Bloquear Ecrã\"</string>
     <string name="acc_needed">Acesso de Accessibilidade necessário</string>
     <string name="recents_sum">Abre o ecrã da lista de apps recentes</string>
-    <string name="acc_needed_long">Shortcutter precisa d epermição de Acessibilidade para usar\n\nApps Recentes\nMenu Desligar\nEcrã Dividido\n\nClique para continuar, escolha Shortcutter e ative o serviço.\n\n</string>
+    <string name="acc_needed_long">Shortcutter precisa de permissão de Acessibilidade para usar\n\nApps Recentes\nMenu Desligar\nEcrã Dividido\n\nClique para continuar, escolha Shortcutter e ative o serviço.\n\n</string>
     <string name="split_sum">Ativar/Desativar Modo Ecrã Dividido</string>
     <string name="power_sum">Abrir o menu de desligar</string>
     <string name="admin_needed">Dereitos de Administrador necessários</string>
@@ -440,7 +440,7 @@
     <string name="scdesk">Relógio de Mesa\nShortcutter</string>
     <string name="expand_collapse">Expansor\nBarraLateral</string>
     <string name="expose_toggler">Ativa ícone \"Expansor BarraLateral\" para abrir/fechar a BarraLateral ou Caixa de Ferramentas, também permite ligar a outras aplicações como HTC Edge Sense, Second Displays &amp; Tasker.</string>
-    <string name="permissions">Permisseões da Aplicação</string>
+    <string name="permissions">Permissões da Aplicação</string>
     <string name="settings_access">Alterar Definições de Sistema</string>
     <string name="overlay_access">Permissão de Sobreposição</string>
     <string name="acc_access">Acesso de Acessibilidade</string>
