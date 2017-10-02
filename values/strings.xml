@@ -150,8 +150,7 @@
         \nPreset</string>
     <string name="qbright_lev">Brightness
         \n%1$d%%</string>
-    <string name="noalarm">No
-        \nAlarms</string>
+    <string name="noalarm">No Alarms</string>
     <string name="swipe_left">SWIPE LEFT TO CONTINUE</string>
     <string name="availableram">Available
         \nRAM</string>
@@ -622,7 +621,7 @@
     <string name="tile_icons">Tiles/Icons</string>
     <string name="labels">Tile Labels</string>
     <string name="icon_scale">Icon Scale</string>
-    <string name="flash_sale">I am offering 40% off Shortcutter Premium until August 25th!\nPlease select the £1.99 option in the purchase premium screen.</string>
+    <string name="flash_sale">I am offering 30% off Shortcutter Premium until October 4th!\nPlease select the £1.89 option in the purchase premium screen.</string>
     <string name="sale">Shortcutter Flash Sale</string>
     <string name="dim">Dim -</string>
     <string name="dimup">Dim +</string>
@@ -666,4 +665,15 @@
     <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
     <string name="enter_shell_command">Shell Command</string>
     <string name="drag_out">Long press to change assignment</string>
+    <string name="left_hand_mode">Left Handed Mode</string>
+    <string name="ime_method">IME Selector</string>
+    <string name="wrap">Set to: wrap contents</string>
+    <string name="fill">Set to: Fill Vertically</string>
+    <string name="height">Fill Screen/Wrap Contents</string>
+    <string name="ime_summary">Change in use input method</string>
+    <string name="auto_start">Auto Start Time</string>
+    <string name="auto_stop">Auto Stop Time</string>
+    <string name="clear_schedule">Clear Schedules</string>
+    <string name="reset_alarms">Are you sure you want to clear your Screen Filter schedules?</string>
+    <string name="tile_name">Tile Name (Auto if blank)</string>
 </resources>

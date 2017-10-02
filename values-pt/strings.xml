@@ -452,7 +452,7 @@
     <string name="dnd_summary">Uso: Modo de Toque</string>
     <string name="usage_summary">Uso: Mosaico Utilização de Dados</string>
     <string name="actual_tiles">Mosaicos Atuais =&#160; %1$d </string>
-    <string name="shortcutter_permissions_phone	">Esta opção precisa de poder verificar o estado de rede.\n\n
+    <string name="shortcutter_permissions_phone">Esta opção precisa de poder verificar o estado de rede.\n\n
 	Para isso, a aplicação precisa da permissão Telemóvel.\n\n
 	Por favor clique continuar &amp; dê a permissão quando pedido.</string>
     <string name="shortcutter_permissions_storage">Este serviço precisa de poder aceder a armazenamento externo.\n\n
@@ -463,7 +463,8 @@
     Por favor clique continuar &amp; dê a permissão quando pedido.</string>
     <string name="shortcutter_permissions_sync">Esta opção precisa de poder aceder às definições de Sincronização.\n\n
 	Para isso, a aplicação precisa da permissão Sincronização.\n\n
-    Por favor clique continuar &amp; dê a permissão quando pedido.</string>Esta opção precisa de poder aceder à sua Localização.\n\n
+    Por favor clique continuar &amp; dê a permissão quando pedido.</string>
+    <string name="shortcutter_permissions_location">Esta opção precisa de poder aceder à sua Localização.\n\n
     Para isso, a aplicação precisa da permissão Localização.\n\n
     Por favor clique continuar &amp; dê a permissão quando pedido.</string>
     <string name="unavailable">Indisponível</string>
@@ -530,7 +531,7 @@
     <string name="tile_icons">Mosaico/Ícones</string>
     <string name="labels">Legendas de Ícones</string>
     <string name="icon_scale">Escala de Ícones</string>
-    <string name="flash_sale">Estou a oferecer 40% de desconto no Shortcutter Premium até 25 de Agosto!\nPor favor selecione a opção de £1.99 no ecrã de compra premium.</string>
+    <string name="flash_sale">Estou a oferecer 30% de desconto no Shortcutter Premium até October 4th!\nPor favor selecione a opção de £1.89 no ecrã de compra premium.</string>
     <string name="sale">Saldos Shortcutter</string>
     <string name="dim">Escorecer -</string>
     <string name="dimup">Escorecer +</string>
@@ -578,4 +579,15 @@
     <string name="onehanded_summary">Encolhe o ecrã para o canto inferior direito, nem todas as aplicações encolhem corretamente</string>
     <string name="enter_shell_command">Linha de Comandos</string>
     <string name="drag_out">Toque e segure para alterar</string>
+    <string name="left_hand_mode">Left Handed Mode</string>
+    <string name="ime_method">IME Selector</string>
+    <string name="wrap">Set to: wrap contents</string>
+    <string name="fill">Set to: Fill Vertically</string>
+    <string name="height">Fill Screen/Wrap Contents</string>
+    <string name="ime_summary">Change in use input method</string>
+    <string name="auto_start">Auto Start Time</string>
+    <string name="auto_stop">Auto Stop Time</string>
+    <string name="clear_schedule">Clear Schedules</string>
+    <string name="reset_alarms">Are you sure you want to clear your Screen Filter schedules?</string>
+    <string name="tile_name">Tile Name (Auto if blank)</string>
 </resources>

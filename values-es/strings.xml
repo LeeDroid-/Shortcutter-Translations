@@ -613,7 +613,7 @@
     <string name="tile_icons">Botones/Iconos</string>
     <string name="labels">Etiquetas</string>
     <string name="icon_scale">Tamaño</string>
-    <string name="flash_sale">¡Ofrezco un 40% de descuento en Shortcutter premium hasta el 25 de agosto!\nSelecciona la opción de pago de 2'21€.</string>
+    <string name="flash_sale">¡Ofrezco un 30% de descuento en Shortcutter premium hasta el 4 de October!\nSelecciona la opción de pago de 2\'10€.</string>
     <string name="sale">Oferta de Shortcutter</string>
     <string name="dim">Oscurecer -</string>
     <string name="dimup">Oscurecer +</string>
@@ -657,4 +657,15 @@
     <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
     <string name="enter_shell_command">Shell Command</string>
     <string name="drag_out">Long press to change assignment</string>
+    <string name="left_hand_mode">Left Handed Mode</string>
+    <string name="ime_method">IME Selector</string>
+    <string name="wrap">Set to: wrap contents</string>
+    <string name="fill">Set to: Fill Vertically</string>
+    <string name="height">Fill Screen/Wrap Contents</string>
+    <string name="ime_summary">Change in use input method</string>
+    <string name="auto_start">Auto Start Time</string>
+    <string name="auto_stop">Auto Stop Time</string>
+    <string name="clear_schedule">Clear Schedules</string>
+    <string name="reset_alarms">Are you sure you want to clear your Screen Filter schedules?</string>
+    <string name="tile_name">Tile Name (Auto if blank)</string>
 </resources>

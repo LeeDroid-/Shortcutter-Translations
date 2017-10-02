@@ -613,8 +613,8 @@
     <string name="tile_icons">Płytki/Ikony</string>
     <string name="labels">Etykiety Płytek</string>
     <string name="icon_scale">Skalowanie Ikon</string>
-    <string name="flash_sale">Oferuję 40% zniżkę na Shortcutter Premium do 25 sierpnia!
-\nWybierz opcję £ 1.99 na ekranie premium.</string>
+    <string name="flash_sale">Oferuję 30% zniżkę na Shortcutter Premium do 4 October!
+\nWybierz opcję £ 1.89 na ekranie premium.</string>
     <string name="sale">Wyprzedaż Shortcutter</string>
     <string name="dim">Rozmiar -</string>
     <string name="dimup">Rozmiar +</string>
@@ -659,4 +659,15 @@
     <string name="onehanded_summary">Powoduje zmniejszenie wyświetlacza w prawym dolnym rogu, ale nie wszystkie aplikacje są prawidłowo skalowane</string>
     <string name="enter_shell_command">Shell Command</string>
     <string name="drag_out">Długie naciśnięcie powoduje zmianę przypisania</string>
+    <string name="left_hand_mode">Left Handed Mode</string>
+    <string name="ime_method">IME Selector</string>
+    <string name="wrap">Set to: wrap contents</string>
+    <string name="fill">Set to: Fill Vertically</string>
+    <string name="height">Fill Screen/Wrap Contents</string>
+    <string name="ime_summary">Change in use input method</string>
+    <string name="auto_start">Auto Start Time</string>
+    <string name="auto_stop">Auto Stop Time</string>
+    <string name="clear_schedule">Clear Schedules</string>
+    <string name="reset_alarms">Are you sure you want to clear your Screen Filter schedules?</string>
+    <string name="tile_name">Tile Name (Auto if blank)</string>
 </resources>
