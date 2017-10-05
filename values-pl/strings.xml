@@ -35,8 +35,8 @@
     <string name="CustomTile9">Własna Płytka 9</string>
     <string name="CustomTile10">Własna Płytka 10</string>
     <string name="CustomTile11">Własna Płytka 11</string>
-    <string name="CustomTile12">Własna Płytkaa 12</string>
-    <string name="CustomTile13">Własna Płytkaa 13</string>
+    <string name="CustomTile12">Własna Płytka 12</string>
+    <string name="CustomTile13">Własna Płytka 13</string>
     <string name="CustomTile14">Własna Płytka 14</string>
     <string name="CustomTile15">Własna Płytka 15</string>
     <string name="CustomTile16">Własna Płytka 16</string>
@@ -44,7 +44,7 @@
     <string name="CustomTile18">Własna Płytka 18</string>
     <string name="CustomTile19">Własna Płytka 19</string>
     <string name="CustomTile20">Własna Płytka 20</string>
-    <string name="CustomTile21">Własna Płytkaa 21</string>
+    <string name="CustomTile21">Własna Płytka 21</string>
     <string name="CustomTile22">Własna Płytka 22</string>
     <string name="CustomTile23">Własna Płytka 23</string>
     <string name="CustomTile24">Własna Płytka 24</string>
@@ -267,7 +267,7 @@
     <string name="dice_tile_range">Płytka Zakresu Kości</string>
     <string name="togglenfc">NFC
 	    \nPrzełącz</string>
-    <string name="nfctile">Płytka NFC</string>
+    <string name="nfctile">NFC</string>
     <string name="nfctilesum">Przełącz NFC wł/wył</string>
     <string name="app_open">Aplikacja shortcutter musi być uruchomiona raz przed użyciem płytek
 	    \n\nProszę zwrócić uwagę na pojawiające się informacje</string>
@@ -404,7 +404,7 @@
     <string name="rate_app">Oceń Aplikację</string>
     <string name="yes_pro">KUP PREMIUM</string>
     <string name="file_browser">Przeglądarka Plików</string>
-    <string name="power_menu">Menu Zasilania</string>
+    <string name="power_menu">Zasilanie</string>
     <string name="new_message_title">Nowy SMS</string>
     <string name="new_tweet_title">Nowy Tweet</string>
     <string name="counter_tile_title">Płytka Klikania</string>
@@ -443,7 +443,7 @@
     <string name="filter_active">Aktywuj Filtr Ekranu</string>
     <string name="filter_colour">Wybierz Kolor Filtra</string>
     <string name="filter_tile_title">Płytka Filtra Ekranu</string>
-    <string name="screen_filter">Filtr Ekranu</string>
+    <string name="screen_filter"></string>
     <string name="screen_filter_summary">Nakładka filtra ekranu (Tryb Nocny)</string>
     <string name="reset_filter">Resetuj Filtr Kolorów</string>
     <string name="sideber_tmb_title">Pozycja Paska</string>
@@ -562,11 +562,11 @@
     <string name="hotspot_tile">WiFi Hotspot</string>
     <string name="to_be_toggled">Wybierz pozycje do przełączenia.</string>
     <string name="swipe_out_close">Przesuń, aby zamknąć</string>
-    <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
+    <string name="obscure_back"><![CDATA[Zmniejsz i Wykrywaj Zewnętrzne Dotknięcia]]></string>
     <string name="notif_led">Powiadomienia LED</string>
-    <string name="notif_led_summary">Włączanie / wyłączanie powiadomień LED \\ n (zależne od producenta)</string>
+    <string name="notif_led_summary">Włączanie/wyłączanie powiadomień LED \\ n (zależne od producenta)</string>
     <string name="system_toggle_summary">Z zastrzeżeniem zgodności OS/producent</string>
-    <string name="experimental_settings">Experimental Features</string>
+    <string name="experimental_settings">Funkcje Eksperymentalne</string>
     <string name="sys_setting_tiles">Płytki Szybkich Ustawień, aby przełączyć ustawienia systemu</string>
     <string name="system_actions">Przełącz Płytki/Uruchom akcje systemu</string>
     <string name="info_tiles_sum">Płytki, które zapewniają &amp; powiązują użyteczne informacje o systemie</string>
@@ -580,19 +580,19 @@
     <string name="xiaomi">Twoje urządzenie wymaga, aby aplikacja uzyskała uprawnienia do automatycznego uruchamiania usługi Shortcutter w tle, inaczej usługi zostaną zamknięte, jeśli nie jest ona włączona. \n\nProsimy kliknąć pozycję Uruchom &amp; włączyć automatyczne uruchamianie Shortcutter.</string>
     <string name="bat_opt"><![CDATA[Shortcutter  zawiera kilka usług w tle, w niektórych przypadkach Android może zabić te usługi, gdy urządzenie przechodzi w głęboki sen, aby zignorować ten problem, zaleca się wyłączenie Optymalizacji akumulatora za pomocą skrótu za pomocą opcji Ustawienia> Zasilanie. \n\nMam nadzieję, że lubisz aplikację!]]></string>
 
-    <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
+    <string name="failed_window_add">Nie udało się dodać okna, otwórz aplikację i upewnij się, że przyznano uprawnienia nakładki ekranu</string>
     <string name="monochrome">B&amp;W</string>
-    <string name="monochrome_summary">Change the display to black and white (Monochrome)</string>
-    <string name="launch_power">Launches Settings \> Power\n(if no settings secure access)</string>
+    <string name="monochrome_summary">Zmiana wyświetlacza na czarno-biały (monochromatyczny)</string>
+    <string name="launch_power">Uruchamia Ustawienia \> Zasilanie\n(jeśli nie ma ustawień bezpiecznego dostępu)</string>
     <string name="admin_access">Dostęp Administaratora</string>
-    <string name="admin_summary">UZycie: Blokada Ekranu</string>
-    <string name="tb_tile_alpha">Off Tile Transparency</string>
-    <string name="hide_tb_labels">Hide Text Labels</string>
+    <string name="admin_summary">Użycie: Blokada Ekranu</string>
+    <string name="tb_tile_alpha">Wyłącz Przezroczystość Płytek</string>
+    <string name="hide_tb_labels">Ukryj Etykiety Tekstowe</string>
     <string name="hidden">Ukryj</string>
     <string name="visible">Widoczność</string>
     <string name="icon_picker">Próbnik Ikon</string>
     <string name="custom_icon">Tło Ikon Płytek</string>
-    <string name="cust_icon_summary">Select a custom icon background</string>
+    <string name="cust_icon_summary">Wybierz własne tło ikon</string>
     <string name="manage_tiles">Menadżer Płytek</string>
     <string name="enable_tiles">Włącz/Wyłącz Opuszczanych w Dół Płytek Szybkich Ustawień</string>
     <string name="qs_tiles">Płytki QS</string>
@@ -626,10 +626,10 @@
     <string name="lock_root">Użyj Metody ROOTA</string>
     <string name="root_lock_sum">Wysyła zdarzenie klucza ZASILANIA za pomocą powłoki-shell</string>
     <string name="choose_activity">Wybierz aktywność</string>
-    <string name="exp_notif">Rozrzesz Powiadomienia</string>
-    <string name="quick_settings">Rozrzesz Panel QS</string>
-    <string name="exp_notif_sum">Rozszerza listę powiadomień</string>
-    <string name="qs_sum">Rozszerza Szybkie Ustawienia opuszczane w dół</string>
+    <string name="exp_notif">Rozwiń Powiadomienia</string>
+    <string name="quick_settings">Rozwiń Panel QS</string>
+    <string name="exp_notif_sum">Rozwija listę powiadomień</string>
+    <string name="qs_sum">Rozwija Szybkie Ustawienia w dół</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bt_summary">Włącz/Wyłącz Bluetooth</string>
     <string name="sidebar_off_secure">Zawieś Pasek Boczny:
@@ -659,15 +659,15 @@
     <string name="onehanded_summary">Powoduje zmniejszenie wyświetlacza w prawym dolnym rogu, ale nie wszystkie aplikacje są prawidłowo skalowane</string>
     <string name="enter_shell_command">Shell Command</string>
     <string name="drag_out">Długie naciśnięcie powoduje zmianę przypisania</string>
-    <string name="left_hand_mode">Left Handed Mode</string>
-    <string name="ime_method">IME Selector</string>
-    <string name="wrap">Set to: wrap contents</string>
-    <string name="fill">Set to: Fill Vertically</string>
-    <string name="height">Fill Screen/Wrap Contents</string>
-    <string name="ime_summary">Change in use input method</string>
-    <string name="auto_start">Auto Start Time</string>
-    <string name="auto_stop">Auto Stop Time</string>
-    <string name="clear_schedule">Clear Schedules</string>
-    <string name="reset_alarms">Are you sure you want to clear your Screen Filter schedules?</string>
-    <string name="tile_name">Tile Name (Auto if blank)</string>
+    <string name="left_hand_mode">Tryb Lewej Ręki</string>
+    <string name="ime_method">Wybieranie IME</string>
+    <string name="wrap">Ustaw na: Zawijanie Zawartości</string>
+    <string name="fill">Ustaw na: Wypełnij Ekran</string>
+    <string name="height">Wypełnij ekran / zawijanie zawartości</string>
+    <string name="ime_summary">Zmień metodę wprowadzania</string>
+    <string name="auto_start">Auto Start Czasu</string>
+    <string name="auto_stop">Auto Stop Czasu</string>
+    <string name="clear_schedule">Wyczyść Harmonogramy</string>
+    <string name="reset_alarms">Czy na pewno chcesz wyczyścić harmonogramy filtru ekranu?</string>
+    <string name="tile_name">Nazwa płytki (Auto, jeśli jest pusta)</string>
 </resources>
