@@ -455,7 +455,7 @@
     <string name="reset_filter">Resetuj Filtr Kolorów</string>
     <string name="sideber_tmb_title">Pozycja Paska</string>
     <string name="tb_columns_title">Kolumny Toolbox</string>
-    <string name="tb_columns_summary">Aktualnie = %s kolumn</string>
+    <string name="tb_columns_summary">Aktualnie = %s kolumny</string>
     <string name="sb_columns_title">Kolumny Paska Bocznego</string>
     <string name="design_settings">Motyw/Wygląd</string>
     <string name="leedroid">www.LeeDrOiD.co.uk</string>
