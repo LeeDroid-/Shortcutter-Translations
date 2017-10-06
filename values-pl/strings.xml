@@ -187,7 +187,7 @@
     <string name="ringmode_tile_title">Płytka Trybu Dzwonka</string>
     <string name="ringmode_summary">Przełącz Tryb Dzwonka Dzwonek/Wibracja/Cichy</string>
     <string name="screenrecord_summary">Płytka która pozwala nagrywać wszystko, co jest na ekranie urządzenia</string>
-    <string name="screenrecord_tile_title">Płytka Nagrywania Ekranu</string>
+    <string name="screenrecord_tile_title">Nagrywanie Ekranu</string>
     <string name="screenshot_summary">Wykonuje zdjęcie ekranu Twojego urządzenia</string>
     <string name="screenshot_tile_title">Płytka Zrzutu Ekranu</string>
     <string name="sync_tile_title">Płytka Autosynch</string>
@@ -197,17 +197,17 @@
     <string name="volumeui_tile_title">Płytka Panelu Głośności</string>
     <string name="volumeui_summary">Płytka wyświetlająca panel głośności</string>
     <string name="wake_summary">Utrzymuje wybudzony ekran urządzenia</string>
-    <string name="wake_tile_title">Płytka Wybudzenia Ekranu</string>
+    <string name="wake_tile_title">Wybudzenie Ekranu</string>
     <string name="tuner_summary">Uruchom ukryte ustawienie Androida SystemUI Tuner
 	    \nFunkcjonalność zależy od producenta</string>
-    <string name="tuner_tile_title">Płytka SystemUI Tuner</string>
+    <string name="tuner_tile_title">SystemUI Tuner</string>
     <string name="prem_only">Tylko Premium</string>
     <string name="settings_secure_needed">Wymagany dostęp do Ustawień Zabezpieczeń</string>
     <string name="flash_summary">Przełącz latarkę aparatu</string>
     <string name="flash_tile_title">Płytka Latarki</string>
     <string name="no_flash">Nie Wykryto Latarki</string>
     <string name="battery_summary">Monitoruje Twój poziom baterii</string>
-    <string name="battery_tile_title">Płytka Baterii</string>
+    <string name="battery_tile_title">Bateria</string>
     <string name="on_while_charge">Wł Gdy
 	    \nładowanie</string>
     <string name="onwhilecharge_summary">Trzymaj wł ekran, gdy podłączony</string>
@@ -533,7 +533,7 @@
     <string name="acc_access">Dostęp do Ułatwień Dostępu</string>
     <string name="dnd_access">Dostęp Do Trybu Nieprzeszkadzać</string>
     <string name="usage_access">Użycie Danych</string>
-    <string name="settings_system_summary">Użyj: Jasność, Rozmiar Czcionki, Potwierdzenie wibracją &amp; Czas włączenia ekranu</string>
+    <string name="settings_system_summary">Użycie: Jasność, Rozmiar Czcionki, Potwierdzenie wibracją &amp; Czas włączenia ekranu</string>
     <string name="overlay_summary">Użycie: Pływający Toolbox/Pasek Boczny, Tryb Nocny &amp; Zaokrąglone Narożniki</string>
     <string name="acc_summary">Użycie: Ostatnie Aplikacje, Menu Zasilania, Dzielony Ekran, Tryb Nocny &amp; Zaokrąglone Narożniki</string>
     <string name="dnd_summary">Użycie: Trybu Dzwonka</string>
