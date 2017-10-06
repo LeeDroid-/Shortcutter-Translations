@@ -385,7 +385,7 @@
     <string name="volDown">Głośność -</string>
     <string name="cur_vol">Aktualna Głośność =&#160;</string>
     <string name="click_disable">%
-	    \n Kliknij kafelek, aby wyłączyć</string>
+	    \n Kliknij płytkę, aby wyłączyć</string>
     <string name="pause">Pauza
 	    \nMuzyki</string>
     <string name="play">Włącz
@@ -436,7 +436,7 @@
     <string name="manufact_depend">Dostosuj liczbę płytek QS w rozwiniętym pasku.
 	    \nTen MOD jest zależny od producenta.</string>
     <string name="sidebar">Użyj Pasek Boczny Shortcutters</string>
-    <string name="sidebar_summary">Shortcutter jako Boczny Pasek zamiast Pływający Toolbox z 4 kolumnami</string>
+    <string name="sidebar_summary">Wybierz pomiędzy Bocznym Paskiem a Pływającym Toolbox</string>
     <string name="sidebar_pos">Pozycja Paska Bocznego</string>
     <string name="right">Aktualna Pozycja po Prawej</string>
     <string name="left_position">Aktualna Pozycja po Lewej</string>
