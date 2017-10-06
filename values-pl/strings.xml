@@ -12,7 +12,7 @@
     <string name="high_accuracy">Wysoka Dokładność</string>
     <string name="special_perms_command">Po zakończeniu, kliknij przycisk Potwierdź i przetestujemy dostęp, jeśli się nie uda, spróbuj ponownie.</string>
     <string name="special_perms_required">"Wymagane specjalne uprawnienia
-	    \n\nSpróbuj uruchomić: "</string>
+	    		\n\nSpróbuj uruchomić: "</string>
     <string name="wifi_call">Wi-Fi Calling</string>
     <string name="adb">ADB</string>
     <string name="NetMode">Tryb Sieci</string>
@@ -150,8 +150,7 @@
 	    \nJasność</string>
     <string name="qbright_lev">Jasność
 	    \n%1$d%%</string>
-    <string name="noalarm">Brak
-	    \nAlarmów</string>
+    <string name="noalarm">Brak Alarmów</string>
     <string name="swipe_left">Swypnij w lewo, \nAby kontynuować</string>
     <string name="availableram">"Dostępny
 	    \nRAM"</string>
@@ -246,6 +245,14 @@
     <string name="dice_desc">Generuje liczbę losową
 	    \n(Zmień w Ustawieniach Płytek)</string>
     <string name="auto_step">Auto Kroki Jasności</string>
+    <string name="about" translatable="false">\nDesigned &amp; Developed By:
+        \n\n\u2022 Lee Bailey (AKA @LeeDrOiD)\n\n Translations By:
+        \n\n\u2022 @4ntagonist - German
+        \n\u2022 @linar10 - Polish
+        \n\u2022 @Nuno Nebeker - Portuguese
+        \n\u2022 @Evren GĂĽntĂĽrKĂĽn - Turkish
+        \n\u2022 @Eugenio Martinez Seguin
+        \n\nIf you are interested in helping me translate the app, drop me an email using the Email Feedback option in the menu.\n\nAdditional Graphics By @Bogdan</string>
     <string name="file_tile">Przeglądarka
 	    \nPlików</string>
     <string name="file_summary">Uruchamia domyślną przeglądarkę plików</string>
@@ -572,6 +579,7 @@
     <string name="info_tiles_sum">Płytki, które zapewniają &amp; powiązują użyteczne informacje o systemie</string>
     <string name="sc_service_sum"><![CDATA[Usługi & funkcje Shortcutter]]></string>
     <string name="cust_app">Płytki, na które można przypisać Aplikacje, Aktywność &amp; Skróty \nWybierz tutaj płytki, a następnie kliknij płytkę, aby przypisać wybraną aplikację, aktywność lub skrót.</string>
+    <string name="cust_app_pref">Płytki, do których można przypisać Aplikacje, Aktywność, Skróty & Linki internetowe &amp; Shell Commands (ROOT).</string>
     <string name="cust_sb">Dostosuj wygląd Paska Bocznego lub ToolBoxa</string>
     <string name="behaviour">Zmień zachowanie Płytek</string>
     <string name="perms_now">Wymagane specyficzne ustawienia płytek &amp; funkcji</string>
@@ -579,7 +587,7 @@
     <string name="force_eng_summary">Uruchom aplikację w Jezyku Angielskim</string>
     <string name="xiaomi">Twoje urządzenie wymaga, aby aplikacja uzyskała uprawnienia do automatycznego uruchamiania usługi Shortcutter w tle, inaczej usługi zostaną zamknięte, jeśli nie jest ona włączona. \n\nProsimy kliknąć pozycję Uruchom &amp; włączyć automatyczne uruchamianie Shortcutter.</string>
     <string name="bat_opt"><![CDATA[Shortcutter  zawiera kilka usług w tle, w niektórych przypadkach Android może zabić te usługi, gdy urządzenie przechodzi w głęboki sen, aby zignorować ten problem, zaleca się wyłączenie Optymalizacji akumulatora za pomocą skrótu za pomocą opcji Ustawienia> Zasilanie. \n\nMam nadzieję, że lubisz aplikację!]]></string>
-
+    
     <string name="failed_window_add">Nie udało się dodać okna, otwórz aplikację i upewnij się, że przyznano uprawnienia nakładki ekranu</string>
     <string name="monochrome">B&amp;W</string>
     <string name="monochrome_summary">Zmiana wyświetlacza na czarno-biały (monochromatyczny)</string>
@@ -613,8 +621,7 @@
     <string name="tile_icons">Płytki/Ikony</string>
     <string name="labels">Etykiety Płytek</string>
     <string name="icon_scale">Skalowanie Ikon</string>
-    <string name="flash_sale">Oferuję 30% zniżkę na Shortcutter Premium do 4 October!
-\nWybierz opcję £ 1.89 na ekranie premium.</string>
+    <string name="flash_sale">Oferuję 30% zniżkę na Shortcutter Premium do 4 Pażdziernika! \nWybierz opcję £ 1.89 na ekranie premium.</string>
     <string name="sale">Wyprzedaż Shortcutter</string>
     <string name="dim">Rozmiar -</string>
     <string name="dimup">Rozmiar +</string>
@@ -636,20 +643,19 @@
         \nWykryto Bezpieczne działanie</string>
     <string name="went_wrong">Coś jest nie tak, spróbuj jeszcze raz. Jeśli ten problem będzie się powtarzał, prosimy o kontakt z danymi urządzenia.</string>
     <string name="cont_and_phone"><![CDATA[Coś poszło nie tak, czy masz uprawnienia dla Kontaktów i Telefonu?]]></string>
-    <string name="transparency">Przeźroczystość</string>
-    <string name="scale">Skala =&#160;</string>
     <string name="cp_head">DOTKNIJ W CENTRUM POTWIERDZAJĄC LUB WSTECZ,ABY ANULOWAĆ</string>
+    <string name="transparency">Przeźroczystość</string>
     <string name="apply">Zastosuj</string>
+    <string name="scale">Skala =&#160;</string>
+    <string name="how_to_summary">Prosty przegląd tego, co oferuje aplikacja</string> 
+    <string name="run_without">Kontynuuj Bez</string>
+    <string name="xda">Strona na XDA Developers</string>    
     <string name="ap_name">Adres Internetowy</string>
+    <string name="round_corners">Zaokrąglone Rogi</string>
     <string name="create_shortcut">Utwórz Skrót</string>
     <string name="enter_url">Wprowadź adres internetowy lub wyszukiwane hasło</string>
-    <string name="how_to_summary">Prosty przegląd tego, co oferuje aplikacja</string>
-    <string name="round_corners">Zaokrąglone Rogi</string>
-    <string name="run_without">Kontynuuj Bez</string>
     <string name="search_if_invalid">Jeśli adres URL nie jest prawidłowy, zostanie wykonane wyszukiwanie google</string>
-    <string name="xda">Strona na XDA Developers</string>
     <string name="choose_function">Wybierz funkcję</string>
-    <string name="cust_app_pref">Płytki, na które można przypisać Aplikacje,, Aktywność, Skróty &amp; Linki Stron.</string>
     <string name="samsung_note">Ważna uwaga dla użytkowników Samsunga</string>
     <string name="battery_opt">Jeśli używasz urządzenia firmy Samsung, po przejściu w stan uśpienia może wystąpić brak reakcji na dotknięcie płytki.</string>
     <string name="trig_alpha">Aby wyeliminować ten problem, wyłącz Shortcutter z optymalizacji baterii w ustawieniach urządzenia.</string>
