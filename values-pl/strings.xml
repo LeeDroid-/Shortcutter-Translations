@@ -447,9 +447,9 @@
     <string name="tb_reset_tint">Zrestartuj Preferencje Kolorów</string>
     <string name="reset_conf">Czy na pewno chcesz zresetować wszystkie ustawienia kolorów?</string>
     <string name="trigger_colour_title">Wybierz Kolor Wyzwalania</string>
-    <string name="filter_active">Aktywuj Filtr Ekranu</string>
+    <string name="filter_active">Aktywuj Tryb Nocny</string>
     <string name="filter_colour">Wybierz Kolor Filtra</string>
-    <string name="filter_tile_title">Płytka Filtra Ekranu</string>
+    <string name="filter_tile_title">Płytka Trybu Nocnego</string>
     <string name="screen_filter"></string>
     <string name="screen_filter_summary">Nakładka filtra ekranu (Tryb Nocny)</string>
     <string name="reset_filter">Resetuj Filtr Kolorów</string>
@@ -512,7 +512,7 @@
         \n\n \u2022 Wykrywanie aktualnych aktywności.
         \n\nJeśli zostanie wykryta bezpieczna aktywność, ta nakładka zostanie automatycznie zatrzymana.
         \n\nKliknij dalej, przejdź do skrótu i włącz usługę.\n\n</string>
-    <string name="filter_off_secure">Filtr Ekranu Wył
+    <string name="filter_off_secure">Tryb Nocny Wył
         \nWykryto aktywność zabezpieczoną</string>
     <string name="corners_off_secure">Rogi Ekranu Wył
         \nWykryto aktywność zabezpieczoną</string>
@@ -534,8 +534,8 @@
     <string name="dnd_access">Dostęp Do Trybu Nieprzeszkadzać</string>
     <string name="usage_access">Użycie Danych</string>
     <string name="settings_system_summary">Użyj: Jasność, Rozmiar Czcionki, Potwierdzenie wibracją &amp; Czas włączenia ekranu</string>
-    <string name="overlay_summary">Użycie: Pływający Toolbox/Pasek Boczny, Filtry Ekranu &amp; Zaokrąglone Narożniki</string>
-    <string name="acc_summary">Użycie: Ostatnie Aplikacje, Menu Zasilania, Podzielony Ekran, Filtry Ekarnu &amp; Zaokrąglone Narożniki</string>
+    <string name="overlay_summary">Użycie: Pływający Toolbox/Pasek Boczny, Tryb Nocny &amp; Zaokrąglone Narożniki</string>
+    <string name="acc_summary">Użycie: Ostatnie Aplikacje, Menu Zasilania, Dzielony Ekran, Tryb Nocny &amp; Zaokrąglone Narożniki</string>
     <string name="dnd_summary">Użycie: Trybu Dzwonka</string>
     <string name="usage_summary">Użycie: Płytka Użycia Danych</string>
     <string name="actual_tiles">Aktualna Płytka =&#160; %1$d </string>
