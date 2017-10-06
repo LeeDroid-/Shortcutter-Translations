@@ -198,8 +198,8 @@
     <string name="volumeui_summary">Płytka wyświetlająca panel głośności</string>
     <string name="wake_summary">Utrzymuje wybudzony ekran urządzenia</string>
     <string name="wake_tile_title">Płytka Wybudzenia Ekranu</string>
-    <string name="tuner_summary">Uruchom ukryte ustawienie Androida SystemUI 
-	    \n(Paska Stanu) Tuner</string>
+    <string name="tuner_summary">Uruchom ukryte ustawienie Androida SystemUI Tuner
+	    \nFunkcjonalność zależy od producenta</string>
     <string name="tuner_tile_title">Płytka SystemUI Tuner</string>
     <string name="prem_only">Tylko Premium</string>
     <string name="settings_secure_needed">Wymagany dostęp do Ustawień Zabezpieczeń</string>
@@ -252,7 +252,7 @@
         \n\u2022 @Nuno Nebeker - Portuguese
         \n\u2022 @Evren GĂĽntĂĽrKĂĽn - Turkish
         \n\u2022 @Eugenio Martinez Seguin
-        \n\nIf you are interested in helping me translate the app, drop me an email using the Email Feedback option in the menu.\n\nAdditional Graphics By @Bogdan</string>
+        \n\nJeśli jesteś zainteresowany pomocą przy tłumaczeniu skorzystaj z emaila w Menu - zgłaszanie błędów.\n\nAdditional Graphics By @Bogdan</string>
     <string name="file_tile">Przeglądarka
 	    \nPlików</string>
     <string name="file_summary">Uruchamia domyślną przeglądarkę plików</string>
@@ -350,7 +350,7 @@
 		\n\u2022 Eksponowanie Powiadomień &amp; Szybkich Ustawień.
 		\n\u2022 Wykrywanie Aktywacji - Wymagane w przypadku filtrów ekranu i narożników ekranu usługi te zostaną zatrzymane, gdy aplikacje są instalowane i zostaną przyznane uprawnienia.</string>
     <string name="power_dialog">Menu Zasilania</string>
-    <string name="split_screen">Multi Window</string>
+    <string name="split_screen">Podwójny Ekran</string>
     <string name="lock_screen">Blokada 
 	    \nEkranu</string>
     <string name="screen_lock_admin">Wymagane do korzystania z \"Blokada Ekranu\" Szybkie Ustawienia Płytek</string>
