@@ -12,7 +12,7 @@
     <string name="high_accuracy">Wysoka Dokładność</string>
     <string name="special_perms_command">Po zakończeniu, kliknij przycisk Potwierdź i przetestujemy dostęp, jeśli się nie uda, spróbuj ponownie.</string>
     <string name="special_perms_required">"Wymagane specjalne uprawnienia
-	    		\n\nSpróbuj uruchomić: "</string>
+	    \n\nSpróbuj uruchomić: "</string>
     <string name="wifi_call">Wi-Fi Calling</string>
     <string name="adb">ADB</string>
     <string name="NetMode">Tryb Sieci</string>
@@ -245,14 +245,6 @@
     <string name="dice_desc">Generuje liczbę losową
 	    \n(Zmień w Ustawieniach Płytek)</string>
     <string name="auto_step">Auto Kroki Jasności</string>
-    <string name="about" translatable="false">\nDesigned &amp; Developed By:
-        \n\n\u2022 Lee Bailey (AKA @LeeDrOiD)\n\n Translations By:
-        \n\n\u2022 @4ntagonist - German
-        \n\u2022 @linar10 - Polish
-        \n\u2022 @Nuno Nebeker - Portuguese
-        \n\u2022 @Evren GĂĽntĂĽrKĂĽn - Turkish
-        \n\u2022 @Eugenio Martinez Seguin
-        \n\nJeśli jesteś zainteresowany pomocą przy tłumaczeniu skorzystaj z emaila w Menu - zgłaszanie błędów.\n\nAdditional Graphics By @Bogdan</string>
     <string name="file_tile">Przeglądarka
 	    \nPlików</string>
     <string name="file_summary">Uruchamia domyślną przeglądarkę plików</string>
@@ -449,8 +441,8 @@
     <string name="trigger_colour_title">Wybierz Kolor Wyzwalania</string>
     <string name="filter_active">Aktywuj Tryb Nocny</string>
     <string name="filter_colour">Wybierz Kolor Filtra</string>
-    <string name="filter_tile_title">Płytka Trybu Nocnego</string>
-    <string name="screen_filter"></string>
+    <string name="filter_tile_title">Płytka Trybu</string>
+    <string name="screen_filter">Płytka Trybu</string>
     <string name="screen_filter_summary">Nakładka filtra ekranu (Tryb Nocny)</string>
     <string name="reset_filter">Resetuj Filtr Kolorów</string>
     <string name="sideber_tmb_title">Pozycja Paska</string>
@@ -571,7 +563,7 @@
     <string name="swipe_out_close">Przesuń, aby zamknąć</string>
     <string name="obscure_back"><![CDATA[Zmniejsz i Wykrywaj Zewnętrzne Dotknięcia]]></string>
     <string name="notif_led">Powiadomienia LED</string>
-    <string name="notif_led_summary">Włączanie/wyłączanie powiadomień LED \\ n (zależne od producenta)</string>
+    <string name="notif_led_summary">Włączanie / wyłączanie powiadomień LED \\ n (zależne od producenta)</string>
     <string name="system_toggle_summary">Z zastrzeżeniem zgodności OS/producent</string>
     <string name="experimental_settings">Funkcje Eksperymentalne</string>
     <string name="sys_setting_tiles">Płytki Szybkich Ustawień, aby przełączyć ustawienia systemu</string>
@@ -621,7 +613,8 @@
     <string name="tile_icons">Płytki/Ikony</string>
     <string name="labels">Etykiety Płytek</string>
     <string name="icon_scale">Skalowanie Ikon</string>
-    <string name="flash_sale">Oferuję 30% zniżkę na Shortcutter Premium do 4 Pażdziernika! \nWybierz opcję £ 1.89 na ekranie premium.</string>
+    <string name="flash_sale">10% zniżkę na Shortcutter Premium!
+\nWybierz opcję £ 1.89 na ekranie premium.</string>
     <string name="sale">Wyprzedaż Shortcutter</string>
     <string name="dim">Rozmiar -</string>
     <string name="dimup">Rozmiar +</string>
@@ -639,8 +632,6 @@
     <string name="qs_sum">Rozwija Szybkie Ustawienia w dół</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bt_summary">Włącz/Wyłącz Bluetooth</string>
-    <string name="sidebar_off_secure">Zawieś Pasek Boczny:
-        \nWykryto Bezpieczne działanie</string>
     <string name="went_wrong">Coś jest nie tak, spróbuj jeszcze raz. Jeśli ten problem będzie się powtarzał, prosimy o kontakt z danymi urządzenia.</string>
     <string name="cont_and_phone"><![CDATA[Coś poszło nie tak, czy masz uprawnienia dla Kontaktów i Telefonu?]]></string>
     <string name="cp_head">DOTKNIJ W CENTRUM POTWIERDZAJĄC LUB WSTECZ,ABY ANULOWAĆ</string>

@@ -494,7 +494,8 @@
     <string name="cust_app">Mosaicos que pode ligar a Aplicações, Atividades &amp; Atalhos.\nAtive os mosaicos aqui, depois cique no mosaico para definir a aplicação, atividade ou atalho escolhido.</string>
     <string name="cust_sb">Personalizar o aspeto &amp; comportamento da BarraLateral ou Caixa de Ferramentas</string>
     <string name="behaviour">Mudar o comportamento dos Mosaicos</string>
-    <string name="perms_now">Permissões necessárias para mosaicos &amp; funções específicas</string>    <string name="forceEnglish">Force English</string>
+    <string name="perms_now">Permissões necessárias para mosaicos &amp; funções específicas</string>
+    <string name="forceEnglish">Force English</string>
     <string name="force_eng_summary">Correr a aplicação em língua Inglesa</string>
     <string name="xiaomi">O seu dispositivo requer autorização para que aplicações possam correr no arranque, serviçoes de fundo Shortcutter serão encerrados sem esta autorização.\n\nPor favor clique continuar &amp; ative início no arranque para Shortcutter.</string>
     <string name="bat_opt"><![CDATA[Shortcutter tem v+arios serviços de fundo, nalguns casos, o Android pode encerrar estes serviços quando o aparelho entra em modo de hibernação, para evitar isso recomenda-se que desligue Otimização de Bateria para Shortcutter via Definições > Bateria.\n\nEspero que aprecie a aplicação!]]></string>
@@ -531,7 +532,7 @@
     <string name="tile_icons">Mosaico/Ícones</string>
     <string name="labels">Legendas de Ícones</string>
     <string name="icon_scale">Escala de Ícones</string>
-    <string name="flash_sale">Estou a oferecer 30% de desconto no Shortcutter Premium até October 4th!\nPor favor selecione a opção de £1.89 no ecrã de compra premium.</string>
+    <string name="flash_sale">10% de desconto no Shortcutter Premium!\nPor favor selecione a opção de £1.89 no ecrã de compra premium.</string>
     <string name="sale">Saldos Shortcutter</string>
     <string name="dim">Escorecer -</string>
     <string name="dimup">Escorecer +</string>
@@ -549,8 +550,6 @@
     <string name="qs_sum">Expande o painel de Configurações Rápidas</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bt_summary">Ligar/Desligar Bluetooth</string>
-    <string name="sidebar_off_secure">BarraLateral suspença:
-        \nAtividade segura detetada</string>
     <string name="went_wrong">Ocurreu um problema, por favor tente outra vez. Se o problema persistir, por favor contacte-me com os detalhes o seu aparelho.</string>
     <string name="cont_and_phone"><![CDATA[Ocurreu um problema, concedeu as autorizações Contactos & Telemóvel?]]></string>
     <string name="corners__scale_set">Escala de Cantos&#160;=&#160; %1$d%%</string>

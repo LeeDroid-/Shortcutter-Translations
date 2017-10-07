@@ -613,7 +613,7 @@
     <string name="tile_icons">Kacheln / Symbole</string>
     <string name="labels">Kachelbeschriftung</string>
     <string name="icon_scale">Symbol &amp; Textgröße</string>
-    <string name="flash_sale">Ich biete 30% Rabatt auf Shortcutter Premium bis zum 4. October!\nBitte wähle die £1.89 in der Premiumkaufoption.</string>
+    <string name="flash_sale">10% Rabatt auf Shortcutter Premium!\nBitte wähle die £1.89 in der Premiumkaufoption.</string>
     <string name="sale">Shortcutter Blitz Verkauf</string>
     <string name="dim">Dimmen -</string>
     <string name="dimup">Dimmen +</string>
@@ -631,8 +631,6 @@
     <string name="qs_sum">Erweitert die Pull-Down Quick Settings</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bt_summary">Aktiviere / Deaktiviere Bluetooth</string>
-    <string name="sidebar_off_secure">SideBar aufgehoben:
-        \nErkennt sichere Aktivitäten</string>
     <string name="went_wrong">Etwas ist schief gelaufen. Bitte versuche es erneut. Wenn dieses Problem weiterhin besteht, kontaktiere mich bitte und teile mir deine Gerätedetails mit.</string>
     <string name="cont_and_phone"><![CDATA[Etwas ist schief gelaufen, hast du Kontakte & Telefon Berechtigungen gewährt?]]></string>
     <string name="cp_head">Tippe ins ZENTRUM zum Bestätigen oder ZURÜCK zum Abbrechen</string>

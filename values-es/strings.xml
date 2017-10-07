@@ -613,7 +613,7 @@
     <string name="tile_icons">Botones/Iconos</string>
     <string name="labels">Etiquetas</string>
     <string name="icon_scale">Tamaño</string>
-    <string name="flash_sale">¡Ofrezco un 30% de descuento en Shortcutter premium hasta el 4 de October!\nSelecciona la opción de pago de 2\'10€.</string>
+    <string name="flash_sale">10% de descuento en Shortcutter premium.!\nSelecciona la opción de pago de 2\'10€.</string>
     <string name="sale">Oferta de Shortcutter</string>
     <string name="dim">Oscurecer -</string>
     <string name="dimup">Oscurecer +</string>
@@ -631,8 +631,6 @@
     <string name="qs_sum">Expande los ajustes del menú desplegable</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bt_summary">Activar/Desactivar Bluetooth</string>
-    <string name="sidebar_off_secure">Barra lateral desactivada:
-        \nActividad segura detectada</string>
     <string name="went_wrong">Algo ha salido mal, vuelve a intentarlo. Si este fallo continúa, ponte en contacto conmigo y dame los detalles de tu dispositivo.</string>
     <string name="cont_and_phone"><![CDATA[Algo ha salido mal, ¿has concedido permisos a Contactos y Teléfono?]]></string>
     <string name="cp_head">PULSA EN EL CENTRO PARA CONFIRMAR O ATRÁS PARA CANCELAR</string>
