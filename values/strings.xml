@@ -483,7 +483,7 @@
     <string name="action_toggles">Action Tiles</string>
     <string name="info_toggles">Information Tiles</string>
     <string name="sc_services">Shortcutter Service Tiles</string>
-    <string name="google_awareness_key">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
+    <string name="google_awareness_key" translatable="false">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
     <string name="weather">Weather Info</string>
     <string name="tap_close">Touch to close</string>
     <string name="weather_desc">Launches a popup with current weather information</string>
@@ -495,13 +495,13 @@
     <string name="weather_celsius">Temperature Unit</string>
     <string name="celsius">Celsius</string>
     <string name="fahrenheit">Fahrenheit</string>
-    <string name="app_sig">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
+    <string name="app_sig" translatable="false">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
     <string name="humidity">Humidity:&#160;</string>
     <string name="mylocation">My Location</string>
     <string name="maps_link">View On Maps</string>
     <string name="refresh">Refresh</string>
     <string name="current_location">Current Location</string>
-    <string name="maps_api">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
+    <string name="maps_api" translatable="false">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
     <string name="dev_loc_mode">Location Mode:&#160; %1$s</string>
     <string name="mylocation_summary">Displays current location, with options to view in maps or share</string>
     <string name="loading_map">Loading Map....</string>

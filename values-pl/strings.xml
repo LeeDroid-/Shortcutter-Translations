@@ -475,7 +475,6 @@
     <string name="action_toggles">Płytka Akcji</string>
     <string name="info_toggles">Płytka Informacyjna</string>
     <string name="sc_services">Usługi Płytek Shortcutter</string>
-    <string name="google_awareness_key">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
     <string name="weather">Pogoda</string>
     <string name="tap_close">Dotknij aby zamknąć</string>
     <string name="weather_desc">Uruchamia pop-up z aktualnymi informacjami o pogodzie</string>
@@ -487,13 +486,11 @@
     <string name="weather_celsius"> Jednostka Temperatury</string>
     <string name="celsius">Celcjusza</string>
     <string name="fahrenheit">Fahrenheit</string>
-    <string name="app_sig">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
     <string name="humidity">Wilgotność:&#160;</string>
     <string name="mylocation">Moja Lokalizacja</string>
     <string name="maps_link">Zobacz na Mapie</string>
     <string name="refresh">Odśwież</string>
     <string name="current_location">Aktualna Lokalizacja</string>
-    <string name="maps_api">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
     <string name="dev_loc_mode">Tryb Lokalizacji:&#160;%1$s</string>
     <string name="mylocation_summary">Wyświetla bieżącą lokalizację, z możliwością wyświetlania na mapach lub udostępniania</string>
     <string name="loading_map">Ładowanie Map....</string>
@@ -579,7 +576,7 @@
     <string name="force_eng_summary">Uruchom aplikację w Jezyku Angielskim</string>
     <string name="xiaomi">Twoje urządzenie wymaga, aby aplikacja uzyskała uprawnienia do automatycznego uruchamiania usługi Shortcutter w tle, inaczej usługi zostaną zamknięte, jeśli nie jest ona włączona. \n\nProsimy kliknąć pozycję Uruchom &amp; włączyć automatyczne uruchamianie Shortcutter.</string>
     <string name="bat_opt"><![CDATA[Shortcutter  zawiera kilka usług w tle, w niektórych przypadkach Android może zabić te usługi, gdy urządzenie przechodzi w głęboki sen, aby zignorować ten problem, zaleca się wyłączenie Optymalizacji akumulatora za pomocą skrótu za pomocą opcji Ustawienia> Zasilanie. \n\nMam nadzieję, że lubisz aplikację!]]></string>
-    
+
     <string name="failed_window_add">Nie udało się dodać okna, otwórz aplikację i upewnij się, że przyznano uprawnienia nakładki ekranu</string>
     <string name="monochrome">B&amp;W</string>
     <string name="monochrome_summary">Zmiana wyświetlacza na czarno-biały (monochromatyczny)</string>
@@ -638,9 +635,9 @@
     <string name="transparency">Przeźroczystość</string>
     <string name="apply">Zastosuj</string>
     <string name="scale">Skala =&#160;</string>
-    <string name="how_to_summary">Prosty przegląd tego, co oferuje aplikacja</string> 
+    <string name="how_to_summary">Prosty przegląd tego, co oferuje aplikacja</string>
     <string name="run_without">Kontynuuj Bez</string>
-    <string name="xda">Strona na XDA Developers</string>    
+    <string name="xda">Strona na XDA Developers</string>
     <string name="ap_name">Adres Internetowy</string>
     <string name="round_corners">Zaokrąglone Rogi</string>
     <string name="create_shortcut">Utwórz Skrót</string>

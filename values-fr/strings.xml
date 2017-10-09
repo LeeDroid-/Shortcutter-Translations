@@ -475,7 +475,6 @@
     <string name="action_toggles">Action Tiles</string>
     <string name="info_toggles">Information Tiles</string>
     <string name="sc_services">Shortcutter Service Tiles</string>
-    <string name="google_awareness_key">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
     <string name="weather">Weather Info</string>
     <string name="tap_close">Touch to close</string>
     <string name="weather_desc">Launches a popup with current weather information</string>
@@ -487,13 +486,11 @@
     <string name="weather_celsius">Temperature Unit</string>
     <string name="celsius">Celsius</string>
     <string name="fahrenheit">Fahrenheit</string>
-    <string name="app_sig">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
     <string name="humidity">Humidity:&#160;</string>
     <string name="mylocation">My Location</string>
     <string name="maps_link">View On Maps</string>
     <string name="refresh">Refresh</string>
     <string name="current_location">Current Location</string>
-    <string name="maps_api">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
     <string name="dev_loc_mode">Location Mode:&#160; %1$s</string>
     <string name="mylocation_summary">Displays current location, with options to view in maps or share</string>
     <string name="loading_map">Loading Map....</string>
@@ -612,7 +609,7 @@
     <string name="tile_icons">Tiles/Icons</string>
     <string name="labels">Tile Labels</string>
     <string name="icon_scale">Icon Scale</string>
-    <string name="flash_sale">I am offering 40% off Shortcutter Premium until August 25th!\nPlease select the £1.99 option in the purchase premium screen.</string>
+    <string name="flash_sale">10% Off Shortcutter Premium!\nPlease select the £1.89 option in the purchase premium screen.</string>
     <string name="sale">Shortcutter Flash Sale</string>
     <string name="dim">Dim -</string>
     <string name="dimup">Dim +</string>
@@ -630,8 +627,6 @@
     <string name="qs_sum">Expands the Quick Settings Pull-Down</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bt_summary">Enable/Disable Bluetooth</string>
-    <string name="sidebar_off_secure">Sidebar suspended:
-        \nSecure activity detected</string>
     <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
     <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
     <string name="cp_head">TAP CENTER TO CONFIRM OR BACK TO CANCEL</string>

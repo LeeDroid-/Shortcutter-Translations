@@ -475,7 +475,6 @@
     <string name="action_toggles">Aktionskacheln</string>
     <string name="info_toggles">Informationskacheln</string>
     <string name="sc_services">Shortcutter Dienste Kacheln</string>
-    <string name="google_awareness_key">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
     <string name="weather">Wetter Info</string>
     <string name="tap_close">Berühren um zu schließen</string>
     <string name="weather_desc">Öffnet ein Popup Fenster mit aktuellen Wetterinformationen</string>
@@ -487,13 +486,11 @@
     <string name="weather_celsius">Temperatur Einheit</string>
     <string name="celsius">Celsius</string>
     <string name="fahrenheit">Fahrenheit</string>
-    <string name="app_sig">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
     <string name="humidity">Feuchtigkeit:&#160;</string>
     <string name="mylocation">Mein Standort</string>
     <string name="maps_link">In Maps anzeigen</string>
     <string name="refresh">Aktualisieren</string>
     <string name="current_location">Aktueller Standort</string>
-    <string name="maps_api">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
     <string name="dev_loc_mode">Standortmodus:&#160; %1$s</string>
     <string name="mylocation_summary">Zeigt aktuellen Standort mit Optionen zur Ansicht in Maps oder zum Teilen</string>
     <string name="loading_map">Lädt Karte....</string>

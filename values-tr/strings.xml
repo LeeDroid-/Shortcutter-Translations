@@ -474,7 +474,6 @@
     <string name="action_toggles">Eylemler Sekmesi</string>
     <string name="info_toggles">Bilgi Sekmesi</string>
     <string name="sc_services">Shortcutter Servis Sekmesi</string>
-    <string name="google_awareness_key">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
     <string name="weather">Hava Durumu</string>
     <string name="tap_close">Kapatmak için tıklayın</string>
     <string name="weather_desc">Anlık hava durumunu bildiren bir pencere açar.</string>
@@ -486,13 +485,11 @@
     <string name="weather_celsius">Sıcaklık Birimi</string>
     <string name="celsius">Selsius</string>
     <string name="fahrenheit">Fahrenhayt</string>
-    <string name="app_sig">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
     <string name="humidity">Nem:&#160;</string>
     <string name="mylocation">Konumum</string>
     <string name="maps_link">Harita üzerinde göster</string>
     <string name="refresh">Yenile</string>
     <string name="current_location">Konumum</string>
-    <string name="maps_api">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
     <string name="dev_loc_mode">Konum Modu:&#160;%1$s</string>
     <string name="mylocation_summary">Bulunduğunuz konumu gösterir, haritada görebilir, paylaşabilirsiniz.</string>
     <string name="loading_map">Harita yükleniyor....</string>

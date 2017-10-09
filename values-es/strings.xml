@@ -476,7 +476,6 @@
     <string name="action_toggles">Apartados de acción</string>
     <string name="info_toggles">Apartados de información</string>
     <string name="sc_services">Apartados de servicio de Shortcutter</string>
-    <string name="google_awareness_key">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
     <string name="weather">Información del tiempo</string>
     <string name="tap_close">Toca para cerrar</string>
     <string name="weather_desc">Lanza una ventana emergente con información del tiempo</string>
@@ -488,13 +487,11 @@
     <string name="weather_celsius">Unidad de temperatura</string>
     <string name="celsius">Celsius</string>
     <string name="fahrenheit">Fahrenheit</string>
-    <string name="app_sig">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
     <string name="humidity">Humedad:&#160;</string>
     <string name="mylocation">Mi ubicación</string>
     <string name="maps_link">Ver en mapa</string>
     <string name="refresh">Actualizar</string>
     <string name="current_location">Ubicación actual</string>
-    <string name="maps_api">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
     <string name="dev_loc_mode">Modo ubicación:&#160; %1$d</string>
     <string name="mylocation_summary">Muestra ubicación actual, con opciones de ver en el mapa y compartirlo</string>
     <string name="loading_map">Cargando mapa...</string>

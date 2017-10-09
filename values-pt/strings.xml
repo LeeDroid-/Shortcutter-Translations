@@ -373,7 +373,6 @@
     <string name="tb_columns_summary">Atual = %s colunas</string>
     <string name="sb_columns_title">Colunas da BarraLateral</string>
     <string name="design_settings">Tema/Layout</string>
-    <string name="leedroid">www.LeeDrOiD.co.uk</string>
     <string name="corners_summary">Usa uma sobreposição para criar a ilusão de canto do ecrã arredondados</string>
     <string name="corners_title">Mosaico Cantos Arredondados</string>
     <string name="corners__scale_title">Escala de Contos</string>
@@ -396,7 +395,6 @@
     <string name="action_toggles">Mosaicos de Ação</string>
     <string name="info_toggles">Mosaicos de Informação</string>
     <string name="sc_services">Mosaicos de Serviço Shortcutter</string>
-    <string name="google_awareness_key">NOPE, SORRY ;)</string>
     <string name="weather">Informação Metereológica</string>
     <string name="tap_close">Toque para fechar</string>
     <string name="weather_desc">Abre uma janela com o estado do tempo atual</string>
@@ -408,13 +406,11 @@
     <string name="weather_celsius">Unidade de Temperatura</string>
     <string name="celsius">Celsius</string>
     <string name="fahrenheit">Fahrenheit</string>
-    <string name="app_sig">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
     <string name="humidity">Humidade:&#160;</string>
     <string name="mylocation">A Minha Localização</string>
     <string name="maps_link">Mostrar em Mapa</string>
     <string name="refresh">Atualizar</string>
     <string name="current_location">Localização Atual</string>
-    <string name="maps_api">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
     <string name="dev_loc_mode">Modo de Localização:&#160;%1$s</string>
     <string name="mylocation_summary">Mostra a localização atual com opções de mostrar em mapa ou partilhar</string>
     <string name="loading_map">A Carregar Mapa...</string>
