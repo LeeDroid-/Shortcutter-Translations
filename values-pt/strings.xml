@@ -148,7 +148,6 @@
     <string name="brightnesspreset_tile_title">Mosaico Brilho em Passos</string>
     <string name="camera_summary">Abra a aplicação de câmara pré-definida</string>
     <string name="camera_tile_title">Mosaico Câmara</string>
-    <string name="haptic_tile_title">Mosaico Resposta de Vibração</string>
     <string name="haptic_summary">Liga/Desliga Resposta de Vibração</string>
     <string name="headsup_summary">Liga/Desliga notificações flutuantes</string>
     <string name="headsup">Mosaico Notificações Flutuantes</string>
@@ -253,8 +252,8 @@
     <string name="how_to">Clique aqui para um guia simple de como adicionar Mosaicos de Configuração Rápida.</string>
     <string name="addtiles_title">Como Adicionar Mosaicos CR</string>
     <string name="adding_qs_tiles">Adicionar Mosaicos CR</string>
-    <string name="select_tiles"><![CDATA[1. Em Shortcutter abra o separador \"Definições de Mosaico\" & selecione os Mosaicos CR.]]></string>
-    <string name="edit_view"><![CDATA[2. Puxe a barra e estado & toque no botão de editar como se vê em baixo, normalmente um ícone de caneta.\n\n Utilizadores de Samsung devem tocar no botão de 3 pontos e selecionar Ordem dos botões, verá os mosaicos Shortcutter no fundo da lista.]]></string>
+    <string name="select_tiles"><![CDATA[1. Em Shortcutter abra o separador \"Desliz para Baixo\" & selecione os Mosaicos CR.]]></string>
+    <string name="edit_view"><![CDATA[2. Puxe a barra e estado & toque no botão de editar como se vê em baixo, normalmente um ícone de caneta.\n\n Utilizadores de Samsung devem tocar no botão de 3 pontos e selecionar Ordem dos botões.\n\n verá os mosaicos Shortcutter no fundo da lista.]]></string>
     <string name="edit_view1">3. Na Vista Editar verá 2 ou 3 secções, os novo mosaicos Shortcutter estarão na de baixo.\n\nPara os adicionar, simplesmente toque sobre e arraste os mosaicos que escolher para a secção de cima (Ativos) e saia da Vista Editar.</string>
     <string name="edit_view_note">NOTA IMPORTANTE:\n\n Devido a um bug no Android N, pode ter difucldades a adicionar mosaicos, isto pode ser resolvido do seguinte modo.\n\nArraste e adicione todos os mosaicos da 2ª secção para a secção Ativa, depoois arraste os novos Mosaicos shortcutter do cimo da lista para a secção Ativa.\n\nInfelizmente este não é um problema que possa resolver e não está relaconado com a app.</string>
     <string name="small">Letra\nPequena</string>
@@ -585,4 +584,6 @@
     <string name="clear_schedule">Clear Schedules</string>
     <string name="reset_alarms">Are you sure you want to clear your Screen Filter schedules?</string>
     <string name="tile_name">Tile Name (Auto if blank)</string>
+    <string name="disable_change">Disable or change assignment?</string>
+    <string name="change">Change</string>
 </resources>

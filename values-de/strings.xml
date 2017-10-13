@@ -168,7 +168,6 @@
     <string name="brightnesspreset_tile_title">Helligkeits Voreinstellungen</string>
     <string name="camera_summary">Startet die voreingestellte Kamera App</string>
     <string name="camera_tile_title">Kamera</string>
-    <string name="haptic_tile_title">Haptische Rückmeldung</string>
     <string name="haptic_summary">Schalte Haptische Rückmeldung An / Aus</string>
     <string name="headsup_summary">Schalte Hinweis Benachrichtigung</string>
     <string name="headsup">Hinweis</string>
@@ -287,10 +286,10 @@
     <string name="how_to">Klicke hier für eine einfache Anleitung um Shortcutter QS-Kacheln hinzuzufügen.</string>
     <string name="addtiles_title">Wie fügt man QS-Kacheln hinzu? - Anleitung</string>
     <string name="adding_qs_tiles">QS-Kacheln hinzufügen</string>
-    <string name="select_tiles"><![CDATA[1. Gehe zum Shortcutter \"Quick Settings Pull-Down\" Tabulator & wähle deine QS-Kacheln aus.]]></string>
+    <string name="select_tiles"><![CDATA[1. Gehe zum Shortcutter \"Pull-Down\" Tabulator & wähle deine QS-Kacheln aus.]]></string>
     <string name="edit_view"><![CDATA[2. Ziehe die Statusleiste herunter und klicke auf die Schaltfläche "Bearbeiten", wie du unten gesehen hast. Dies ist normalerweise ein Stift-Symbol.
     	\n\nSamsung Benutzer wählen das
-	\n3-Punktmenü, wähle Kacheln neu anordnen. Deine Shortcutter Kacheln werden in der unteren Ansicht angezeigt.]]></string>
+	\n3-Punktmenü, wähle Kacheln neu anordnen.\n\n Deine Shortcutter Kacheln werden in der unteren Ansicht angezeigt.]]></string>
     <string name="edit_view1">3. In der Bearbeitungsansicht findest du einen 3. Container, du wirst deine neuen Shortcutter Kacheln im untersten Container sehen.
         \n\nDrücke einfach lang um sie hinzuzufügen &amp; ziehe deine ausgewählten Kacheln in den oberen aktiven Container &amp; verlasse die Bearbeitungsansicht.</string>
     <string name="edit_view_note">WICHTIGE NOTIZ:
@@ -450,7 +449,6 @@
     <string name="tb_columns_summary">Aktuell = %s Spalten</string>
     <string name="sb_columns_title">Sidebar Spalten</string>
     <string name="design_settings">Sidebar / Werkzeugkasten Themen &amp; Verhalten</string>
-    <string name="leedroid">www.LeeDrOiD.co.uk</string>
     <string name="corners_summary">Benutzt eine Überlagerung um die Illusion abgerundeter Bildschirmecken zu erzeugen</string>
     <string name="corners_title">Abgerundete Ecken</string>
     <string name="corners__scale_title">Bilschirmecken Radius</string>
@@ -665,4 +663,6 @@
     <string name="clear_schedule">Clear Schedules</string>
     <string name="reset_alarms">Are you sure you want to clear your Screen Filter schedules?</string>
     <string name="tile_name">Tile Name (Auto if blank)</string>
+    <string name="disable_change">Disable or change assignment?</string>
+    <string name="change">Change</string>
 </resources>

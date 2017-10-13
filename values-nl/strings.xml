@@ -169,7 +169,6 @@
     <string name="brightnesspreset_tile_title">Brightness Preset</string>
     <string name="camera_summary">Launches the default camera app</string>
     <string name="camera_tile_title">Camera</string>
-    <string name="haptic_tile_title">Haptic Feeback</string>
     <string name="haptic_summary">Toggle Haptic Feeback on/off</string>
     <string name="headsup_summary">Toggle Heads Up notifications</string>
     <string name="headsup">Heads Up</string>
@@ -245,7 +244,7 @@
     <string name="dice_desc">Generates a random number
         \n(Change range in Tile Settings)</string>
     <string name="auto_step">Auto Brightness Step</string>
-   <string name="file_tile">File
+    <string name="file_tile">File
         \nBrowser</string>
     <string name="file_summary">Launches default file browser</string>
     <string name="new_tweet">New
@@ -288,9 +287,9 @@
     <string name="how_to">Click Here for A guide to adding Quick Setting Tiles.\n\nOnce you have enabled your chosen tiles in the categories below, you need to add them to your pull-down in the system quick settings editor.</string>
     <string name="addtiles_title">How To Add QS Tiles - Guide</string>
     <string name="adding_qs_tiles">Adding QS Tiles</string>
-    <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Quick Settings Tiles\" tab & make your QS Tile selections.]]></string>
+    <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Pull-Down\" tab & make your QS Tile selections.]]></string>
     <string name="edit_view"><![CDATA[2. Pull-Down your status bar & hit the edit button as seen below, this is usually a pen icon.
-    \n\n Samsung users hit the 3 dot menu & select rearrange, your Shortcutter tiles will show in the bottom view.]]></string>
+    \n\n Samsung users hit the 3 dot menu & select rearrange.\n\n Your Shortcutter tiles will show in the bottom view.]]></string>
     <string name="edit_view1">3. In the Edit View you will find 2/3 containers, you will see your new Shortcutter tiles in the bottom container.
         \n\nTo add them, simply long press &amp; drag your chosen tiles up to the top (Active) container &amp; exit the Edit View.</string>
     <string name="edit_view_note">IMPORTANT NOTE:
@@ -450,7 +449,6 @@
     <string name="tb_columns_summary">Current = %s columns</string>
     <string name="sb_columns_title">Sidebar Columns</string>
     <string name="design_settings">Theme &amp; Behaviour</string>
-    <string name="leedroid">www.LeeDrOiD.co.uk</string>
     <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
     <string name="corners_title">Rounded Corners</string>
     <string name="corners__scale_title">Screen Corner Scale</string>
@@ -662,4 +660,6 @@
     <string name="clear_schedule">Clear Schedules</string>
     <string name="reset_alarms">Are you sure you want to clear your Screen Filter schedules?</string>
     <string name="tile_name">Tile Name (Auto if blank)</string>
+    <string name="disable_change">Disable or change assignment?</string>
+    <string name="change">Change</string>
 </resources>

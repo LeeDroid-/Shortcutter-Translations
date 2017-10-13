@@ -170,7 +170,6 @@
     <string name="brightnesspreset_tile_title">Brillo por defecto</string>
     <string name="camera_summary">Inicia la cámara por defecto</string>
     <string name="camera_tile_title">Cámara</string>
-    <string name="haptic_tile_title">Respuesta háptica</string>
     <string name="haptic_summary">Activar/Desactivar respuesta háptica</string>
     <string name="headsup_summary">Activar/Desactivar notificaciones y avisos</string>
     <string name="headsup">Avisos</string>
@@ -289,9 +288,9 @@
     <string name="how_to">Haz clic aquí para ver una guía de añadir apartados de ajustes rápidos.\n\nUna vez hayas activado los apartados elegidos, tendrás que añadirlos al despliegue en el editor de ajustes rápidos del sistema.</string>
     <string name="addtiles_title">Cómo añadir apartados QS: Guía</string>
     <string name="adding_qs_tiles">Añadir apartados QS</string>
-    <string name="select_tiles"><![CDATA[1. Ve a la pestaña \"Apartados de ajustes rápidos\" en Shortcutter y selecciona tus apartados QS.]]></string>
+    <string name="select_tiles"><![CDATA[1. Ve a la pestaña \"Desplegable\" en Shortcutter y selecciona tus apartados QS.]]></string>
     <string name="edit_view"><![CDATA[2. Despliega tu barra de estado y edita los botones.
-    \n\n En Samsung hay que pulsar en el menú de 3 puntos y seleccionar "Distribución", se mostrarán los botones de Shortcutter al final.]]></string>
+    \n\n En Samsung hay que pulsar en el menú de 3 puntos y seleccionar "Distribución".\n\n se mostrarán los botones de Shortcutter al final.]]></string>
     <string name="edit_view1">3. En la vista de edición encontrarás 2/3 contenedores, verás tus nuevos apartados de Shortcutter en el contenedor inferior.
         \n\nPara añadirlos, mantén y arrastra los apartados a la zona de arriba (la zona activa) y sal del editor.</string>
     <string name="edit_view_note">NOTA IMPORTANTE:
@@ -451,7 +450,6 @@
     <string name="tb_columns_summary">Actual = %s columnas</string>
     <string name="sb_columns_title">Columnas laterales</string>
     <string name="design_settings">Tema y comportamiento</string>
-    <string name="leedroid">www.LeeDrOiD.co.uk</string>
     <string name="corners_summary">Usa una interfaz para dar una ilusión de esquinas redondeadas</string>
     <string name="corners_title">Esquinas redondeadas</string>
     <string name="corners__scale_title">Tamaño de la esquina</string>
@@ -663,4 +661,6 @@
     <string name="clear_schedule">Clear Schedules</string>
     <string name="reset_alarms">Are you sure you want to clear your Screen Filter schedules?</string>
     <string name="tile_name">Tile Name (Auto if blank)</string>
+    <string name="disable_change">Disable or change assignment?</string>
+    <string name="change">Change</string>
 </resources>

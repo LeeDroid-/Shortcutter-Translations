@@ -233,7 +233,7 @@ Usage"</string>
     <string name="drag_out">Длительное нажатие для изменения назначения </string>
     <string name="edit_view">2. Выдвиньте свою строку состояния и нажмите кнопку редактирования, как показано ниже, это обычно значок пера.
 
- Пользователи Samsung нажать меню с тремя точками и выберите перегруппировку, ваши фрагменты Shortcutter-ом будут показаны в низу.</string>
+ Пользователи Samsung нажать меню с тремя точками и выберите перегруппировку.\n\n ваши фрагменты Shortcutter-ом будут показаны в низу.</string>
     <string name="edit_view1">3. В редакторе вы найдете 2/3 контейнера, вы увидите новые плитки Shortcutter-а в нижнем контейнере.
 
 Чтобы добавить их, просто нажмите и удерживайте и перетащите выбранные плитки в верхний (активный) контейнер, выйдите из режима редактирования.</string>
@@ -526,7 +526,7 @@ Usage"</string>
     <string name="select_day">Сброс данных выберите день</string>
     <string name="select_net_mode">Выберите сетевой режим</string>
     <string name="select_shortcut">Выберите ярлык для установки</string>
-    <string name="select_tiles">1. Запуск Shortcutter \"Быстрые настройки Плиток\" и внесите нужные изменения для Плитки.</string>
+    <string name="select_tiles">1. Запуск Shortcutter \"ПулДаун\" и внесите нужные изменения для Плитки.</string>
     <string name="select_time">Пожалуйста, установите время mm:ss</string>
     <string name="selected">"Выбрано: "</string>
     <string name="set">Установить</string>
@@ -679,5 +679,9 @@ Usage"</string>
 Нажмите Продолжить и нажмите Далее и включите автозапуск для Shortcutter.</string>
     <string name="yes">Да</string>
     <string name="yes_pro">ПЕРЕЙТИ на ПРЕМИУМ</string>
+    <string name="disable_change">Disable or change assignment?</string>
+    <string name="change">Change</string>
+    <string name="haptic">Haptic Feedback</string>
+    <string name="haptic_summary">Toggle Haptic Feeback on/off</string>
 
 </resources>

@@ -71,11 +71,11 @@
         <item>Abkürzung</item>
         <item>Weblink</item>
     </string-array>
-        <string-array name="cust_tile_choice_root">
+    <string-array name="cust_tile_choice_root">
         <item>Anwendung</item>
         <item>Aktivität (Fortgeschritten)</item>
         <item>Abkürzung</item>
         <item>Weblink</item>
-	<item>Shell Command</item>
+        <item>Shell Command</item>
     </string-array>
 </resources>

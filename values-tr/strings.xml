@@ -172,7 +172,6 @@
     <string name="brightnesspreset_tile_title">Kademeli Parlaklık Sekmesi</string>
     <string name="camera_summary">Cihazın kendi Kamera Uygulamsını açar</string>
     <string name="camera_tile_title">Kamera Sekmesi</string>
-    <string name="haptic_tile_title">Dokunma Titreşimi Sekmesi</string>
     <string name="haptic_summary">Dokunma Titreşimi Aç/Kapat</string>
     <string name="headsup_summary">Üst Bildirimler Şeridi</string>
     <string name="headsup">Üst Bildirimler Sekmesi</string>
@@ -292,7 +291,7 @@
     <string name="addtiles_title">Sekme nasıl eklenir - Klavuz</string>
     <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Pulldown Tile Settings\" tab & make your QS Tile selections.]]></string>
     <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below, this is usually a pen icon.
-    \n\n Samsung users hit the 3 dot menu and select rearrange tiles, your Shortcutter tiles will show in the bottom view.]]></string>
+    \n\n Samsung users hit the 3 dot menu and select rearrange tiles.\n\n your Shortcutter tiles will show in the bottom view.]]></string>
     <string name="edit_view1">3. In the Edit View you will find 2/3 containers, you will see your new Shortcutter tiles in the bottom container.
         \n\nTo add them, simply long press and drag your chosen tiles up to the top (Active) container and exit the Edit View.</string>
     <string name="edit_view_note">IMPORTANT NOTE:
@@ -450,7 +449,6 @@
     <string name="tb_columns_summary">Geçerli kolon sayısı = %s </string>
     <string name="sb_columns_title">Yan Menü Kolonları</string>
     <string name="design_settings">Tema / Düzen</string>
-    <string name="leedroid">www.LeeDrOiD.co.uk</string>
     <string name="corners_summary">Köşeleri yuvarlatılmış olarak göstermek için köşelere giydirme yapar</string>
     <string name="corners_title">Yuvarlak Köşeler</string>
     <string name="corners__scale_title">Ekran Köşesi Boyutu</string>
@@ -663,4 +661,6 @@
     <string name="clear_schedule">Clear Schedules</string>
     <string name="reset_alarms">Are you sure you want to clear your Screen Filter schedules?</string>
     <string name="tile_name">Tile Name (Auto if blank)</string>
+    <string name="disable_change">Disable or change assignment?</string>
+    <string name="change">Change</string>
 </resources>

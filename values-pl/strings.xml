@@ -169,7 +169,6 @@
     <string name="brightnesspreset_tile_title">Płytka Ustawienia Jasności</string>
     <string name="camera_summary">Uruchamia domyślną aplikację aparatu</string>
     <string name="camera_tile_title">Płytka Aparatu</string>
-    <string name="haptic_tile_title">Płytka Potwierdzenia Wibracją</string>
     <string name="haptic_summary">Przełacz Potwierdzenie Wibracją wł/wył</string>
     <string name="headsup_summary">Przełącz powiadomienia Heads Up</string>
     <string name="headsup">Płytka Heads Up</string>
@@ -288,7 +287,7 @@
     <string name="how_to">Prosty przewodnik jak dodawać płytki Shortcutter do szybkich ustawień.</string>
     <string name="addtiles_title">Jak Dodawać Płytki QS</string>
     <string name="adding_qs_tiles">Dodawanie Płytek QS</string>
-    <string name="select_tiles"><![CDATA[1. Idź do zakładki w Shortcutter \"Ustawienia Płytek QS\" & wybierz swoje Płytki QS.]]></string>
+    <string name="select_tiles"><![CDATA[1. Idź do zakładki w Shortcutter \"Płytki QS\" & wybierz swoje Płytki QS.]]></string>
     <string name="edit_view"><![CDATA[2. Pociągnij w dół pasek stanu, a następnie naciśnij przycisk Edytuj, aby dodać płytki do ustawień (Zazwyczaj ikona pióra).]]></string>
 
     <string name="edit_view1">3. W widoku edycji znajdziecie 3 pojemniki, nowe Płytki Shortcutter są w 3 pojemniku.
@@ -450,7 +449,6 @@
     <string name="tb_columns_summary">Aktualnie = %s kolumny</string>
     <string name="sb_columns_title">Kolumny Paska Bocznego</string>
     <string name="design_settings">Motyw/Wygląd</string>
-    <string name="leedroid">www.LeeDrOiD.co.uk</string>
     <string name="corners_summary">Używa nakładki, aby uzyskać złudzenie zaokrąglonych narożników ekranu</string>
     <string name="corners_title">Płytka Zaokrąglonych Narożników</string>
     <string name="corners__scale_title">Skalowanie Rogów</string>
@@ -664,4 +662,6 @@
     <string name="clear_schedule">Wyczyść Harmonogramy</string>
     <string name="reset_alarms">Czy na pewno chcesz wyczyścić harmonogramy filtru ekranu?</string>
     <string name="tile_name">Nazwa płytki (Auto, jeśli jest pusta)</string>
+    <string name="disable_change">Disable or change assignment?</string>
+    <string name="change">Change</string>
 </resources>
