@@ -683,5 +683,6 @@ Usage"</string>
     <string name="change">Change</string>
     <string name="haptic">Haptic Feedback</string>
     <string name="haptic_summary">Toggle Haptic Feeback on/off</string>
+    <string name="disable_screen_off">Disable on Screen Off</string>
 
 </resources>
