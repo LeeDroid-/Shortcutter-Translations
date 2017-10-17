@@ -76,6 +76,6 @@
         <item>Aktivität (Fortgeschritten)</item>
         <item>Abkürzung</item>
         <item>Weblink</item>
-        <item>Shell Command</item>
+        <item>Shell-Befehl</item>
     </string-array>
 </resources>
