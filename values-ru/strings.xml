@@ -82,8 +82,7 @@ Click proceed, go to Shortcutter &amp; enable the service.
     <string name="alarm_tile">Следующий будильник</string>
     <string name="alarm_tile_title">Следующий будильник</string>
     <string name="alert">Shortcutter Предупреждение</string>
-    <string name="all_prices_subject_to_tax_vat">"All prices include Tax/VAT* 
-Purchasing Shortcutter Premium will remove the 50 click notification &amp; enable additional Quick Settings tiles &amp; app features."</string>
+    <string name="all_prices_subject_to_tax_vat">Цена включают все налоги / НДС * Покупка, Shortcutter Premium удалит 50 нажатий и включит дополнительные плитки быстрой настройки и другие функции.</string>
     <string name="allofthe">Either of the below options will grant you premium access, the choice is yours :)</string>
     <string name="ambien_summary">Ambient / Режим Doze</string>
     <string name="ambient_display">Режим Doze</string>
