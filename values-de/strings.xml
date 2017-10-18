@@ -665,5 +665,5 @@
     <string name="tile_name">Kachelname (Auto wenn leer)</string>
     <string name="disable_change">Zuordnung deaktivieren oder ändern?</string>
     <string name="change">Ändere</string>
-    <string name="disable_screen_off">Disable on Screen Off</string>
+    <string name="disable_screen_off">On-Screen deaktivieren AUS</string>
 </resources>
