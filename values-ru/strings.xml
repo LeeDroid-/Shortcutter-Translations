@@ -38,6 +38,25 @@
     <string name="Reboot">Перезагрузка</string>
     <string name="RebootRecovery">Перезагрузка в рекавери</string>
     <string name="Screen_timeout">Экрана ожидания</string>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="acc_access">Доступ</string>
     <string name="acc_needed">Требуется доступ</string>
     <string name="acc_needed_corners">"This overlay requires Accessibility access to:
@@ -74,9 +93,7 @@ Click proceed, go to Shortcutter &amp; enable the service.
     <string name="addtiles_title">Руководоство - как добавить Плитку</string>
     <string name="admin_access">Доступ администратора</string>
     <string name="admin_needed">Требуются права администратора</string>
-    <string name="admin_needed_long">Shortcutter требует привилегий администратора для:
-•Нажмите пожалуйста на экране вашего устройства действовать и включить права администратора использовать этот ярлык.
-"</string>
+    <string name="admin_needed_long">"Shortcutter требует привилегий администратора для: •Нажмите пожалуйста на экране вашего устройства действовать и включить права администратора использовать этот ярлык. "</string>
     <string name="admin_summary">Использование: Блокировка экрана</string>
     <string name="alarm_summary">Показать следующий сигнал</string>
     <string name="alarm_tile">Следующий будильник</string>
@@ -91,6 +108,7 @@ Click proceed, go to Shortcutter &amp; enable the service.
     <string name="another_purchase">Для пользователей, которые хотят показать дополнительную поддержку могут использоваться оба варианта покупки.</string>
     <string name="ap_name">Веб-адрес</string>
     <string name="app_name">Shortcutter</string>
+    <string name="app_data">Данные</string>
     <string name="app_open">"Это приложение должно запускаться один раз перед использованием любых служ
 Обратите внимание на диалоги"</string>
     <string name="app_picker">Выберите приложение</string>
@@ -101,7 +119,7 @@ Click proceed, go to Shortcutter &amp; enable the service.
     <string name="auto_start">Вкл. Автояркость</string>
     <string name="auto_step">Шаг Автояркости</string>
     <string name="auto_stop">Выкл. Автояркость</string>
-    <string name="autobrightness">"Автояркость"</string>
+    <string name="autobrightness">Автояркость</string>
     <string name="autobrightness_summary">Автояркость вкл/выкл</string>
     <string name="autobrightness_tile_title">Автояркость</string>
     <string name="autosync">Синхронизация</string>
@@ -109,10 +127,8 @@ Click proceed, go to Shortcutter &amp; enable the service.
     <string name="available_in_prem3">Перейдите на Премиум сейчас &amp; показать свою поддержку!</string>
     <string name="availableram">"Доступно 
 ОЗУ"</string>
-    <string name="bat_opt">Shortcutter содержит несколько фоновых служб, в некоторых случаях, Android может закрыть эти службы, когда устройство переходит в глубокий сон, чтобы этого не произошло я бы порекомендовал отключение оптимизации батарея для Shortcutter через настройки.
-Я надеюсь, что вам понравится приложение!"</string>
-    <string name="battery_opt">Когда вы используете устройство Samsung, вы можете почувствовать, что плитки перестают реагировать, как будто они спят.
-Чтобы исправить эту проблему, пожалуйста, исключайте Shortcutter в оптимизации батареи в настройках вашего устройства.</string>
+    <string name="bat_opt">Shortcutter содержит несколько фоновых служб, в некоторых случаях, Android может закрыть эти службы, когда устройство переходит в глубокий сон, чтобы этого не произошло я бы порекомендовал отключение оптимизации батарея для Shortcutter через настройки. Я надеюсь, что вам понравится приложение!</string>
+    <string name="battery_opt">Когда вы используете устройство Samsung, вы можете почувствовать, что плитки перестают реагировать, как будто они спят. Чтобы исправить эту проблему, пожалуйста, исключайте Shortcutter в оптимизации батареи в настройках вашего устройства.</string>
     <string name="battery_saving">Экономия батареи</string>
     <string name="battery_summary">Контролировать ваш уровень заряда аккумулятора</string>
     <string name="battery_tile_title">Батарея</string>
@@ -132,6 +148,7 @@ Click proceed, go to Shortcutter &amp; enable the service.
     <string name="cap_store_title">Место хранения хранения захвата Экрана</string>
     <string name="capture_quality">Качество захвата</string>
     <string name="celsius">Цельсия</string>
+    <string name="change">Изменения</string>
     <string name="choose_activity">Выбор Активити</string>
     <string name="choose_button_label">Выбор</string>
     <string name="choose_entries">Режим записи местоположение (минимум 2)</string>
@@ -143,6 +160,23 @@ Click proceed, go to Shortcutter &amp; enable the service.
     <string name="click_disable">"% 
  Нажмите на плитку, чтобы отключить"</string>
     <string name="close">Закрыть</string>
+    <string name="common_google_play_services_enable_button">Включить</string>
+    <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string name="common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
+    <string name="common_google_play_services_update_button">Обновить</string>
+    <string name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="common_open_on_phone">Открыть на телефоне</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
     <string name="condition">Условие: </string>
     <string name="conf_sel">Подтвердить выбор</string>
     <string name="config_serv">Еще</string>
@@ -151,11 +185,7 @@ Click proceed, go to Shortcutter &amp; enable the service.
 
 Вы хотите продолжить?"</string>
     <string name="consider_prem">Shortcutter Бесплатная версия</string>
-    <string name="consider_prem1">Вот 50 кликов! 
-
-Рассматривали ли вы покупку поддержки Премиум? 
-
-Это уведомление будет показываться каждые 50 кликов в бесплатной версии.</string>
+    <string name="consider_prem1">Вот 50 кликов! Рассматривали ли вы покупку поддержки Премиум? Это уведомление будет показываться каждые 50 кликов в бесплатной версии.</string>
     <string name="cont_and_phone">Что-то пошло не так, у вас предоставлены разрешения на контакты и телефон?</string>
     <string name="corner_colour">Выберите Цвет угола</string>
     <string name="corners__scale_set">Масштаб угла = %1$d%%</string>
@@ -173,7 +203,7 @@ Click proceed, go to Shortcutter &amp; enable the service.
 +1"</string>
     <string name="counter_reset">Сброс счетчика в 0?</string>
     <string name="counter_summary">Плитка, что рассчитывает нажаьтя</string>
-    <string name="counter_tile">"Плитка нажатий"</string>
+    <string name="counter_tile">Плитка нажатий</string>
     <string name="counter_tile_title">Нажатия</string>
     <string name="cp_head">НАЖМИТЕ В ЦЕНТР ДЛЯ ПОДТВЕРДИТЬ ИЛИ НАЗАД ДЛЯ ОТМЕНЕ</string>
     <string name="create_calendar_event">Новое событие</string>
@@ -183,10 +213,9 @@ Click proceed, go to Shortcutter &amp; enable the service.
     <string name="cur_vol">Текущая Громкость = </string>
     <string name="current_dice">Текущее значение %1$d</string>
     <string name="current_location">Текущее Местоположение</string>
-    <string name="current_shot"> Установлено значение %1$d сек.</string>
+    <string name="current_shot">Установлено значение %1$d сек.</string>
     <string name="currently">Установлено значение %1$d ш.</string>
-    <string name="cust_app">Плитки, которые вы можете назначить приложениям, действиям, ярлыкам, веб-ссылкам и командам оболочки (ROOT).
-Включите здесь, затем нажмите на плитку, чтобы назначить выбранное приложение, действие или ярлык. </string>
+    <string name="cust_app">Плитки, которые вы можете назначить приложениям, действиям, ярлыкам, веб-ссылкам и командам оболочки (ROOT). Включите здесь, затем нажмите на плитку, чтобы назначить выбранное приложение, действие или ярлык.</string>
     <string name="cust_app_pref">Плитки, которые вы можете назначить приложениям, действиям, ярлыкам, Веб-ссылкам и Команды оболочки (ROOT).</string>
     <string name="cust_icon_summary">Выберите пользовательский фон значка</string>
     <string name="cust_sb">Настройте внешний вид, чувствовать amp; поведение боковой панели или панели инструментов</string>
@@ -196,12 +225,11 @@ Click proceed, go to Shortcutter &amp; enable the service.
     <string name="data_cycle_reset">Цикл использования данных</string>
     <string name="data_cycle_summary">Выберите день для измерения мобильных данных (обычно это дата выставления счета)</string>
     <string name="data_roaming">Роуминг данных</string>
-    <string name="data_tile_summary">Показывает использование мобильных данных
-(Изменить цикл в настройках плитки)</string>
+    <string name="data_tile_summary">Показывает использование мобильных данных (Изменить цикл в настройках плитки)</string>
     <string name="data_tile_title">Использование данных</string>
     <string name="data_usage_perms">"Shortcutter нуждается в разрешении на доступ к истории использования данных.
 
-Нажмите Продолжить, выберите Shortcutter и разрешите использование.</string>
+Нажмите Продолжить, выберите Shortcutter и разрешите использование."</string>
     <string name="dataroam_summary">преключатель Роуминг данных</string>
     <string name="datausage">"Data 
 Usage"</string>
@@ -215,13 +243,14 @@ Usage"</string>
     <string name="dev_loc_mode">Местоположение: %1$s</string>
     <string name="device_only">Только устройство</string>
     <string name="dewp">Точка росы: </string>
-    <string name="dice_desc">Генерация случайного номера 
-(Изменить диапазон в настройках плитки)</string>
+    <string name="dice_desc">Генерация случайного номера (Изменить диапазон в настройках плитки)</string>
     <string name="dice_desc_range">Выберите индивидуальный диапазон номеров для Плитки Dice</string>
     <string name="dice_tile_range">Диапазон</string>
     <string name="dim">Dim -</string>
     <string name="dimup">Dim +</string>
     <string name="disable">Отключить</string>
+    <string name="disable_change">Отключить или изменить назначение?</string>
+    <string name="disable_screen_off">Выкл. отключение экрана</string>
     <string name="disabled">Отключено</string>
     <string name="dnd_access">Не беспокоить</string>
     <string name="dnd_required">Неразрешен доступ - Включить, чтобы включить</string>
@@ -229,20 +258,12 @@ Usage"</string>
     <string name="donation10">£9.60 Лицензия</string>
     <string name="donation2">£1.89 Лицензия</string>
     <string name="donation5">£3.79 Лицензия</string>
-    <string name="drag_out">Длительное нажатие для изменения назначения </string>
-    <string name="edit_view">2. Выдвиньте свою строку состояния и нажмите кнопку редактирования, как показано ниже, это обычно значок пера.
+    <string name="drag_out">Длительное нажатие для изменения назначения</string>
+    <string name="edit_view">"2. Выдвиньте свою строку состояния и нажмите кнопку редактирования, как показано ниже, это обычно значок пера.  Пользователи Samsung нажать меню с тремя точками и выберите перегруппировку.
 
- Пользователи Samsung нажать меню с тремя точками и выберите перегруппировку.\n\n ваши фрагменты Shortcutter-ом будут показаны в низу.</string>
-    <string name="edit_view1">3. В редакторе вы найдете 2/3 контейнера, вы увидите новые плитки Shortcutter-а в нижнем контейнере.
-
-Чтобы добавить их, просто нажмите и удерживайте и перетащите выбранные плитки в верхний (активный) контейнер, выйдите из режима редактирования.</string>
-    <string name="edit_view_note">ВАЖНОЕ ПРИМЕЧАНИЕ:
-
- Из-за ошибки в Android N вы можете попытаться добавить плитки, это можно обойти, выполнив следующее.
-
-Удалите все плитки, которые вы не хотите видеть на вкладке Быстрые настройки плитки и возьмите свои новые плитки из верхнего доступного контейнера для плиток.
-
-К сожалению, это не то, что я могу исправить, поскольку это не имеет ничего общего с приложением</string>
+ ваши фрагменты Shortcutter-ом будут показаны в низу."</string>
+    <string name="edit_view1">3. В редакторе вы найдете 2/3 контейнера, вы увидите новые плитки Shortcutter-а в нижнем контейнере. Чтобы добавить их, просто нажмите и удерживайте и перетащите выбранные плитки в верхний (активный) контейнер, выйдите из режима редактирования.</string>
+    <string name="edit_view_note">ВАЖНОЕ ПРИМЕЧАНИЕ:  Из-за ошибки в Android N вы можете попытаться добавить плитки, это можно обойти, выполнив следующее. Удалите все плитки, которые вы не хотите видеть на вкладке Быстрые настройки плитки и возьмите свои новые плитки из верхнего доступного контейнера для плиток. К сожалению, это не то, что я могу исправить, поскольку это не имеет ничего общего с приложением</string>
     <string name="email_feedback">Email</string>
     <string name="emailtitle">Новый адрес электронной почты</string>
     <string name="enable_root_features">Включить Root функции</string>
@@ -258,14 +279,12 @@ Usage"</string>
     <string name="exp_notif_sum">Расширяет уведомления ПулДаун</string>
     <string name="expand_collapse">Расширение боковой панели</string>
     <string name="experimental_settings">Экспериментальные возможности</string>
-    <string name="expose_activity_summary">Создайте дополнительные значки для доступа к этим переключателям с вашего домашнего экрана или приложения.
-
-Это также позволяет переключаться на другие приложения, такие как HTC Edge Sense, Second Displays или Tasker.</string>
+    <string name="expose_activity_summary">Создайте дополнительные значки для доступа к этим переключателям с вашего домашнего экрана или приложения. Это также позволяет переключаться на другие приложения, такие как HTC Edge Sense, Second Displays или Tasker.</string>
     <string name="expose_toggler">Создайте дополнительный значок Расширения боковой панели, чтобы открыть / закрыть боковую панель или панель инструментов на главном экране или в других приложениях.</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="failed_data_usage">Не удалось запустить информацию об использовании данных</string>
     <string name="failed_window_add">Не удалось добавить окно, пожалуйста, откройте приложение и убедитесь, что разрешение на экранное разрешение было предоставлено</string>
-    <string name="fancy_anim">Reflow Pull-Down Animation</string>
+    <string name="fancy_anim">Анимация ПулДаун</string>
     <string name="fancy_summary">Вкл./Выкл. анимацию ПулДаун (несовместимо с некоторыми устройствами)</string>
     <string name="feels">Ощущается как: </string>
     <string name="file_browser">Проводник</string>
@@ -277,8 +296,7 @@ Usage"</string>
     <string name="filter_colour">Выберите цвет фильтра</string>
     <string name="filter_off_secure">Фильтр Экрана приостановлен: обнаружена активность</string>
     <string name="filter_tile_title">Фильтр экрана</string>
-    <string name="flash_sale">Я предлагаю 30%-ю скидку на Shortcutter Премиум до 4 октября!
-Пожалуйста, выберите опцию £1,89 в окне покупки премиум.</string>
+    <string name="flash_sale">Я предлагаю 30%-ю скидку на Shortcutter Премиум до 4 октября! Пожалуйста, выберите опцию £1,89 в окне покупки премиум.</string>
     <string name="flash_summary">Переключение камеры/фонарик</string>
     <string name="flash_tile_title">Фонарик</string>
     <string name="flashlight">Фонарик</string>
@@ -286,7 +304,7 @@ Usage"</string>
     <string name="floating_toolbox">Включение элементов боковой панели</string>
     <string name="follow_me">Твиттер</string>
     <string name="font_scale_title">Масштаб шрифта</string>
-    <string name="fontscale">"Размер шрифта"</string>
+    <string name="fontscale">Размер шрифта</string>
     <string name="fontscale_sum">Размер системного шрифта</string>
     <string name="forceEnglish">Английский</string>
     <string name="force_eng_summary">Запустите приложение на английском языке</string>
@@ -294,6 +312,8 @@ Usage"</string>
     <string name="full_title_header">"Shortcutter
     Ярлыки v%1$s"</string>
     <string name="go_premium">Покупка премиум версии</string>
+    <string name="haptic">Обратная связь</string>
+    <string name="haptic_summary">Вкл./Выкл. Обратная связь</string>
     <string name="header">Удалить заголовок</string>
     <string name="headsup">Вверх</string>
     <string name="headsup_summary">Переключить Heads Up уведомления</string>
@@ -310,14 +330,11 @@ Usage"</string>
     <string name="how_it_works2">• Через ПулДаун</string>
     <string name="how_it_works3">• Через боковую панель или плавающую панель инструментов</string>
     <string name="how_it_works4">• Через ярдыки в Вашем Лаунчере, а также позволяет работать через HTC Edge, Tasker и многое другое!</string>
-    <string name="how_to">Нажмите здесь, для добавления быстрой установки плитки.
-После активации вашей выбранной плитки в приведенной ниже категории, необходимо добавить их в ваш пулДаун в редакторе быстрой настройки системы.</string>
+    <string name="how_to">Нажмите здесь, для добавления быстрой установки плитки. После активации вашей выбранной плитки в приведенной ниже категории, необходимо добавить их в ваш пулДаун в редакторе быстрой настройки системы.</string>
     <string name="how_to_summary">Простой обзор как программа работает</string>
     <string name="humidity">Влажность: </string>
     <string name="iab_async_error">Ошибка покупки. Выполняется еще одна асинхронная операция.</string>
-    <string name="iab_error">Пприложение Биллинг еще не поддерживается на вашем устройстве.
-
-Вы хотите приобрести ключ Премиум через Магазин?</string>
+    <string name="iab_error">Пприложение Биллинг еще не поддерживается на вашем устройстве. Вы хотите приобрести ключ Премиум через Магазин?</string>
     <string name="icon_picker">Палитра Значков</string>
     <string name="icon_scale">Масштаб значков</string>
     <string name="ime_method">Выбор IME</string>
@@ -339,9 +356,8 @@ Usage"</string>
     <string name="large">Большой шрифт</string>
     <string name="largest">Шрифт крупнейших</string>
     <string name="last_edit">Отредактированный:</string>
-    <string name="launch_loc">Запускает параметры &gt; Местоположение/n(if no settings secure access)</string>
-    <string name="launch_power">Запускает настройки
-(если параметры не безопасный доступ)</string>
+    <string name="launch_loc">Запускает параметры > Местоположение/n(if no settings secure access)</string>
+    <string name="launch_power">Запускает настройки (если параметры не безопасный доступ)</string>
     <string name="left_hand_mode">Режим Левой руки</string>
     <string name="left_position">Текущей позиция слева</string>
     <string name="lightmode">Ночной Режим</string>
@@ -360,8 +376,7 @@ Usage"</string>
     <string name="manage_tiles">Управление Плитками</string>
     <string name="manual_secure_summary">Использование: расположение режим переключения, захватывающий режим, АБР, Heads Up, монохромный, роуминг данных, окружающего дисплей, на Wile зарядки и энергосбережение - (ПК не требуется)</string>
     <string name="manualbright">Ручная яркость</string>
-    <string name="manufact_depend">Настроить количество Плиток QS в свернутом ПулДауне.
-Этот мод работает не во всех прошивках.</string>
+    <string name="manufact_depend">Настроить количество Плиток QS в свернутом ПулДауне. Этот мод работает не во всех прошивках.</string>
     <string name="maps_link">Вид на карте</string>
     <string name="misc_cat">Иконки в Лаунчере</string>
     <string name="misc_tiles_cat">Прочие Параметры</string>
@@ -385,7 +400,7 @@ Usage"</string>
     <string name="new_tweet_title">Новое сообщение Твиттер</string>
     <string name="newemail">Эл. письмо</string>
     <string name="newemailsum">Отправить новое письмо</string>
-    <string name="next_alarm">Следующий сигнал </string>
+    <string name="next_alarm">Следующий сигнал</string>
     <string name="nfc_not_found">NFC не найдено</string>
     <string name="nfctile">NFC</string>
     <string name="nfctilesum">NFC вкл./выкл.</string>
@@ -400,11 +415,8 @@ Usage"</string>
     <string name="not_installed">Приложение не установлено</string>
     <string name="nothing_selected">Ничего не выбрано</string>
     <string name="notif_led">Уведомление LED</string>
-    <string name="notif_led_summary">Уведомление LED вкл./выкл.
-(зависит от Вашей прошивки)</string>
-    <string name="notification_policy_message">возможность изменять параметры уведомлений, требуется запросить разрешения, вам нужно будет включить их.
-
-Нажмите кнопку продолжить, и вы будете перемещены на соответствующий экран.</string>
+    <string name="notif_led_summary">Уведомление LED вкл./выкл. (зависит от Вашей прошивки)</string>
+    <string name="notification_policy_message">возможность изменять параметры уведомлений, требуется запросить разрешения, вам нужно будет включить их. Нажмите кнопку продолжить, и вы будете перемещены на соответствующий экран.</string>
     <string name="obscure_back">Dim позади и обнаружить вне штрихи</string>
     <string name="old_licene">Премиум ключ обнаружен</string>
     <string name="on_while_charge">На зарядки</string>
@@ -419,16 +431,15 @@ Usage"</string>
     <string name="orient_summary">Переключатель поворота экрана</string>
     <string name="orientation_mode">Поворот экрана</string>
     <string name="overlay_access">Наложение разрешений</string>
-    <string name="overlay_needed">Shortcutter требуют разрешения наложения:
- 
-• Боковая/плавающая панель экрана, фильтр/ночной режим скругленных углов 
-• прочие диалоги, пожалуйста нажмите продолжить и предоставьте необходимые разрешения.</string>
+    <string name="overlay_needed">Shortcutter требуют разрешения наложения: • Боковая/плавающая панель экрана, фильтр/ночной режим скругленных углов • прочие диалоги, пожалуйста нажмите продолжить и предоставьте необходимые разрешения.</string>
     <string name="overlay_required">Системные наложения необходимо разрешить</string>
     <string name="overlay_summary">Боковая панель, сетка и закругленные углы</string>
     <string name="pause">Пауза Музыка</string>
     <string name="permissions">Управление разрешениями</string>
     <string name="permissions_not_granted">Вы не дали Shortcutter-у соответствующих разрешений</string>
     <string name="perms_now">Они будут запрашиваться при включении службы.</string>
+    <string name="place_autocomplete_clear_button">Удалить поисковый запрос</string>
+    <string name="place_autocomplete_search_hint">Поиск</string>
     <string name="play">Музыка</string>
     <string name="play_pause">Воспр./ Пауза Музыка</string>
     <string name="play_pause_sum">Воспр. / Пауза Музыка</string>
@@ -441,12 +452,7 @@ Usage"</string>
     <string name="power_saver">Экономия энергии</string>
     <string name="power_sum">Открыть меню питания</string>
     <string name="prem_only">Только Премиум</string>
-    <string name="prem_only_message">Эта функция доступна только в Премиум версии Shortcutter.
-Пожалуйста, нажмите ПРЕМИУМ, чтобы включить следующие возможности: 
-• дополнительные пользовательские плитки 
-• дополнительные пользовательские URL плитки 
-• запись экрана 
-• параметры дополнительной настройки</string>
+    <string name="prem_only_message">Эта функция доступна только в Премиум версии Shortcutter. Пожалуйста, нажмите ПРЕМИУМ, чтобы включить следующие возможности: • дополнительные пользовательские плитки • дополнительные пользовательские URL плитки • запись экрана • параметры дополнительной настройки</string>
     <string name="premuim">Shortcutter Премиум</string>
     <string name="preset_steps">Шаг Яркости</string>
     <string name="press_back">Нажмите назад, чтобы вернуться после включения.</string>
@@ -478,15 +484,14 @@ Usage"</string>
     <string name="reset_counter">Плитка Сброс</string>
     <string name="reset_day">Сброс на %1$d день каждого месяца</string>
     <string name="reset_filter">Сброс фильтра цвета</string>
-    <string name="review"> Не забудьте оставить рецензию!</string>
+    <string name="review">Не забудьте оставить рецензию!</string>
     <string name="right">Текущее положение вправо</string>
     <string name="ring">Звонок</string>
     <string name="ring_mode">Режим Звонка</string>
     <string name="ringmode_summary">Переключить режим вибрировать/звука</string>
     <string name="ringmode_tile_title">Режим Звонка</string>
     <string name="root_access">ROOT функции</string>
-    <string name="root_available">Устройство имеет ROOT.
- Переключателей будет больше!</string>
+    <string name="root_available">Устройство имеет ROOT. Переключателей будет больше!</string>
     <string name="root_features_enabled">ROOT функции</string>
     <string name="root_lock_sum">Необходимо для ROOT устройства</string>
     <string name="root_required1">Root доступ, необходимые для завершения</string>
@@ -506,7 +511,7 @@ Usage"</string>
     <string name="screen_dim">Экран = </string>
     <string name="screen_filter">Фильтр экрана</string>
     <string name="screen_filter_summary">Сетчатый фильтр, чтобы уменьшить напряжение глаз (ночной режим)</string>
-    <string name="screen_lock_admin">Требуется для использования \"Экран блокировки\ "Быстрой настройки</string>
+    <string name="screen_lock_admin">Требуется для использования \"Экран блокировки Быстрой настройки</string>
     <string name="screen_recorder">Запись Экрана</string>
     <string name="screen_timeout">Таймаут</string>
     <string name="screenre_cat">Запись Экрана и Скриншот</string>
@@ -518,6 +523,7 @@ Usage"</string>
     <string name="screenshot_summary">Принимает неподвижное изображение экрана вашего устройства</string>
     <string name="screenshot_tile_title">Скриншот</string>
     <string name="search_if_invalid">Если URL-адрес не является допустимым, будет выполняться поиск в google</string>
+    <string name="search_menu_title">Поиск</string>
     <string name="search_summary">Поиск Google</string>
     <string name="search_tile">Веб-поиск</string>
     <string name="secure_access">Параметры безопасного доступа</string>
@@ -531,40 +537,16 @@ Usage"</string>
     <string name="set">Установить</string>
     <string name="settings_access">Записать Системные Настройки</string>
     <string name="settings_license">ЛИЦЕНЗИИ</string>
-    <string name="settings_secure_instruct">Вы можете вручную предоставить доступ к Shortcutter к настройкам, позволяя больше контролировать систему.
-
-С вашего компьютера перейдите на сайт www.leedroid.co.uk/SettingsSecureGuide и Следуйте инструкциям. 
-
-</string>
+    <string name="settings_secure_instruct">Вы можете вручную предоставить доступ к Shortcutter к настройкам, позволяя больше контролировать систему. С вашего компьютера перейдите на сайт www.leedroid.co.uk/SettingsSecureGuide и Следуйте инструкциям.</string>
     <string name="settings_secure_needed">Параметры, необходимые для защищенного доступа</string>
     <string name="settings_system_required">Требуется разрешение на системные настройки - Включить для включения</string>
     <string name="settings_system_summary">Использование: Яркость, Шрифты, Советы и Время ожидания отображения</string>
     <string name="share">Поделиться</string>
-    <string name="shortcutter_permissions_camera">Этот переключатель требует доступа к камере.
-
- Для этого приложение требует разрешения камеры.
-
- Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса.</string>
-    <string name="shortcutter_permissions_location">Этот переключатель требует доступа к вашему местоположению.
-
- Для этого приложение должно иметь разрешение на месторазмещение.
-
- Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса.</string>
-    <string name="shortcutter_permissions_phone">Этот переключатель требует проверки состояния сети.
-
- Для этого приложение нуждается в разрешении Телефон.
-
- Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса. </string>
-    <string name="shortcutter_permissions_storage">Эта служба требует доступа к внешнему хранилищу.
-
- Для этого приложение требует разрешения на чтение / запись.
-
- Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса.</string>
-    <string name="shortcutter_permissions_sync">Этот переключатель требует возможности доступа к вашим настройкам синхронизации.
-
- Для этого приложение нуждается в разрешении Чтение / Запись Синхронизации.
-
- Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса. </string>
+    <string name="shortcutter_permissions_camera">Этот переключатель требует доступа к камере.  Для этого приложение требует разрешения камеры.  Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса.</string>
+    <string name="shortcutter_permissions_location">Этот переключатель требует доступа к вашему местоположению.  Для этого приложение должно иметь разрешение на месторазмещение.  Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса.</string>
+    <string name="shortcutter_permissions_phone">Этот переключатель требует проверки состояния сети.  Для этого приложение нуждается в разрешении Телефон.  Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса.</string>
+    <string name="shortcutter_permissions_storage">Эта служба требует доступа к внешнему хранилищу.  Для этого приложение требует разрешения на чтение / запись.  Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса.</string>
+    <string name="shortcutter_permissions_sync">Этот переключатель требует возможности доступа к вашим настройкам синхронизации.  Для этого приложение нуждается в разрешении Чтение / Запись Синхронизации.  Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса.</string>
     <string name="shortcutter_premium">Shortcutter Премиум</string>
     <string name="shot_delay">Установить пользовательскую задержку скриншота</string>
     <string name="shot_delay_title">Задержка скриншота (сек.)</string>
@@ -580,14 +562,12 @@ Usage"</string>
     <string name="small">"Маленький 
 Шрифт"</string>
     <string name="special_perms_command">После завершения нажмите кнопку подтверждения и мы проверим доступ, если команда не удалась, повторите попытку.</string>
-    <string name="special_perms_required">Требуется специальное разрешение
-        
-
-Попробуйте запустить: </string>
-    <string name="splash_3"> Пользовательские быстрые настройки для Android</string>
+    <string name="special_perms_required">Требуется специальное разрешение          Попробуйте запустить:</string>
+    <string name="splash_3">Пользовательские быстрые настройки для Android</string>
     <string name="split_screen">Мульти Окна</string>
     <string name="split_sum">Разделение экрана / Мульти Окна</string>
     <string name="start_recording">Начать запись</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="stay_in_the_loop">Медиа/контакты</string>
     <string name="stop_recording">Остановить запись</string>
     <string name="submit_review">Оставить отзыв</string>
@@ -603,12 +583,8 @@ Usage"</string>
     <string name="sync_tile_title">Синхронизация</string>
     <string name="sys_setting_tiles">Быстрые настройки для переключения системных настроек</string>
     <string name="system_actions">Плитки для переключения/запуска системных действий</string>
-    <string name="system_perms_message">Для некоторых плиток требуется разрешение изменять системные настройки, так как мы не можем запросить эти разрешения обычным способом, вам нужно будет включить их вручную.
-
-Нажмите Продолжить и вы попадете на соответствующий экран.</string>
-    <string name="system_perms_message_touches">Для некоторых плиток требуется разрешение изменять системные настройки, так как мы не можем запросить эти разрешения обычным способом, вам нужно будет включить их вручную.
-
-Нажмите Продолжить и вы попадете на соответствующий экран.</string>
+    <string name="system_perms_message">Для некоторых плиток требуется разрешение изменять системные настройки, так как мы не можем запросить эти разрешения обычным способом, вам нужно будет включить их вручную. Нажмите Продолжить и вы попадете на соответствующий экран.</string>
+    <string name="system_perms_message_touches">Для некоторых плиток требуется разрешение изменять системные настройки, так как мы не можем запросить эти разрешения обычным способом, вам нужно будет включить их вручную. Нажмите Продолжить и вы попадете на соответствующий экран.</string>
     <string name="system_toggle_summary">Требуется совместимость с вашей прошивкой</string>
     <string name="system_toggles">Системные плитки</string>
     <string name="tap_close">Чтобы закрыть</string>
@@ -623,8 +599,7 @@ Usage"</string>
     <string name="temp">Текущая температура: </string>
     <string name="thanks_for_support">Спасибо за поддержку :)</string>
     <string name="thankyou">Спасибо за поддержку!</string>
-    <string name="thankyoumultiple">Обнаружена Лицензия! 
-Спасибо за поддержку!</string>
+    <string name="thankyoumultiple">Обнаружена Лицензия! Спасибо за поддержку!</string>
     <string name="tile_icons">Плитки/Иконки</string>
     <string name="tile_name">Имя Плитки (Автоимя, если пусто)</string>
     <string name="time_up">Активный Экран</string>
@@ -635,8 +610,7 @@ Usage"</string>
     <string name="togglenfc">Тригер NFC</string>
     <string name="toolbox">Панель инструментов</string>
     <string name="toolbox_label">Панель инструментов</string>
-    <string name="touch_and_swipe">Боковая панель открывается, когда провели
-(вверх, вниз или внутрь)»</string>
+    <string name="touch_and_swipe">Боковая панель открывается, когда провели (вверх, вниз или внутрь)»</string>
     <string name="transparency">Прозрачность</string>
     <string name="trig_alpha">Непрозрачность триггеров</string>
     <string name="trigger">Триггер</string>
@@ -673,15 +647,7 @@ Usage"</string>
     <string name="wifi_toggled">WiFi включен</string>
     <string name="wrap">Set to: wrap contents</string>
     <string name="xda">XDA Developers</string>
-    <string name="xiaomi">Ваше устройство требует, чтобы приложения получали разрешения автозапуска, без этого службы Shortcutter будут закрыты.
-
-Нажмите Продолжить и нажмите Далее и включите автозапуск для Shortcutter.</string>
+    <string name="xiaomi">Ваше устройство требует, чтобы приложения получали разрешения автозапуска, без этого службы Shortcutter будут закрыты. Нажмите Продолжить и нажмите Далее и включите автозапуск для Shortcutter.</string>
     <string name="yes">Да</string>
     <string name="yes_pro">ПЕРЕЙТИ на ПРЕМИУМ</string>
-    <string name="disable_change">Disable or change assignment?</string>
-    <string name="change">Change</string>
-    <string name="haptic">Haptic Feedback</string>
-    <string name="haptic_summary">Toggle Haptic Feeback on/off</string>
-    <string name="disable_screen_off">Disable on Screen Off</string>
-
 </resources>
