@@ -660,7 +660,7 @@
     <string name="ime_summary">Änderung der verwendeten Eingabemethode</string>
     <string name="auto_start">Automatische Startzeit</string>
     <string name="auto_stop">Automatische Stoppzeit</string>
-    <string name="clear_schedule">Lösche Zeitpläne</string>
+    <string name="clear_schedule">Lösche Zeitplan</string>
     <string name="reset_alarms">Bist du sicher, dass du die Bildschirmfilterpläne löschen möchtest?</string>
     <string name="tile_name">Kachelname (Auto wenn leer)</string>
     <string name="disable_change">Zuordnung deaktivieren oder ändern?</string>
