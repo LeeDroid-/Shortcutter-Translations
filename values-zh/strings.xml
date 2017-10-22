@@ -1,169 +1,169 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Shortcutter</string>
-    <string name="cancel">Cancel</string>
-    <string name="autosync">Auto Sync</string>
-    <string name="locationMode">Location Mode</string>
-    <string name="HeadsUp">Heads Up</string>
-    <string name="no_perms">No Permissions</string>
-    <string name="Off">Off</string>
-    <string name="device_only">Device Only</string>
-    <string name="battery_saving">Battery Saving</string>
-    <string name="high_accuracy">High Accuracy</string>
-    <string name="special_perms_command">Once complete, click confirm &amp; we will test access, if the command failed, try again.</string>
-    <string name="special_perms_required">"Special permission required
-        \n\nTry running: "</string>
-    <string name="wifi_call">Wi-Fi Calling</string>
+    <string name="cancel">取消</string>
+    <string name="autosync">自动同步</string>
+    <string name="locationMode">位置模式</string>
+    <string name="HeadsUp">浮动通知</string>
+    <string name="no_perms">无权限</string>
+    <string name="Off">关闭</string>
+    <string name="device_only">仅限设备</string>
+    <string name="battery_saving">省电模式</string>
+    <string name="high_accuracy">高精确度</string>
+    <string name="special_perms_command">一旦完成，点击确认 &amp; 我们会测试访问，如果命令失败，再试一次。</string>
+    <string name="special_perms_required">"需要特殊权限
+        \n\n尝试运行: "</string>
+    <string name="wifi_call">Wi-Fi 通话</string>
     <string name="adb">ADB</string>
-    <string name="NetMode">Network Mode</string>
-    <string name="haptic">Haptic Feedback</string>
-    <string name="root_required1">Root access required to complete</string>
-    <string name="select_net_mode">Select Network Mode</string>
-    <string name="exit">Exit</string>
-    <string name="root_access">Root Features</string>
-    <string name="enable_root_features">Enable Root Features</string>
-    <string name="root_features_enabled">Root Features Enabled</string>
+    <string name="NetMode">网络模式</string>
+    <string name="haptic">触觉反馈</string>
+    <string name="root_required1">需要 Root 访问权限才能完成</string>
+    <string name="select_net_mode">选择网络模式</string>
+    <string name="exit">退出</string>
+    <string name="root_access">Root 功能</string>
+    <string name="enable_root_features">启用 Root 功能</string>
+    <string name="root_features_enabled">Root 功能已启用</string>
     <string name="appicon">AppIcon</string>
-    <string name="CustomTile1">Custom Tile 1</string>
-    <string name="CustomTile2">Custom Tile 2</string>
-    <string name="CustomTile4">Custom Tile 4</string>
-    <string name="CustomTile3">Custom Tile 3</string>
-    <string name="CustomTile5">Custom Tile 5</string>
-    <string name="CustomTile6">Custom Tile 6</string>
-    <string name="CustomTile7">Custom Tile 7</string>
-    <string name="CustomTile8">Custom Tile 8</string>
-    <string name="CustomTile9">Custom Tile 9</string>
-    <string name="CustomTile10">Custom Tile 10</string>
-    <string name="CustomTile11">Custom Tile 11</string>
-    <string name="CustomTile12">Custom Tile 12</string>
-    <string name="CustomTile13">Custom Tile 13</string>
-    <string name="CustomTile14">Custom Tile 14</string>
-    <string name="CustomTile15">Custom Tile 15</string>
-    <string name="CustomTile16">Custom Tile 16</string>
-    <string name="CustomTile17">Custom Tile 17</string>
-    <string name="CustomTile18">Custom Tile 18</string>
-    <string name="CustomTile19">Custom Tile 19</string>
-    <string name="CustomTile20">Custom Tile 20</string>
-    <string name="CustomTile21">Custom Tile 21</string>
-    <string name="CustomTile22">Custom Tile 22</string>
-    <string name="CustomTile23">Custom Tile 23</string>
-    <string name="CustomTile24">Custom Tile 24</string>
-    <string name="CustomTile25">Custom Tile 25</string>
-    <string name="CustomTile26">Custom Tile 26</string>
-    <string name="CustomTile27">Custom Tile 27</string>
-    <string name="CustomTile28">Custom Tile 28</string>
-    <string name="CustomTile29">Custom Tile 29</string>
-    <string name="CustomTile30">Custom Tile 30</string>
-    <string name="RebootRecovery">Reboot Recovery</string>
-    <string name="Reboot">Reboot</string>
-    <string name="ring_mode">Ring Mode</string>
-    <string name="Screen_timeout">Screen Timeout</string>
-    <string name="alarm_tile">Next Alarm</string>
-    <string name="need_dnd">No Permissions, please allow shortcutter to override DND</string>
-    <string name="next_alarm">Next Alarm
+    <string name="CustomTile1">自定义瓷贴 1</string>
+    <string name="CustomTile2">自定义瓷贴 2</string>
+    <string name="CustomTile4">自定义瓷贴 4</string>
+    <string name="CustomTile3">自定义瓷贴 3</string>
+    <string name="CustomTile5">自定义瓷贴 5</string>
+    <string name="CustomTile6">自定义瓷贴 6</string>
+    <string name="CustomTile7">自定义瓷贴 7</string>
+    <string name="CustomTile8">自定义瓷贴 8</string>
+    <string name="CustomTile9">自定义瓷贴 9</string>
+    <string name="CustomTile10">自定义瓷贴 10</string>
+    <string name="CustomTile11">自定义瓷贴 11</string>
+    <string name="CustomTile12">自定义瓷贴 12</string>
+    <string name="CustomTile13">自定义瓷贴 13</string>
+    <string name="CustomTile14">自定义瓷贴 14</string>
+    <string name="CustomTile15">自定义瓷贴 15</string>
+    <string name="CustomTile16">自定义瓷贴 16</string>
+    <string name="CustomTile17">自定义瓷贴 17</string>
+    <string name="CustomTile18">自定义瓷贴 18</string>
+    <string name="CustomTile19">自定义瓷贴 19</string>
+    <string name="CustomTile20">自定义瓷贴 20</string>
+    <string name="CustomTile21">自定义瓷贴 21</string>
+    <string name="CustomTile22">自定义瓷贴 22</string>
+    <string name="CustomTile23">自定义瓷贴 23</string>
+    <string name="CustomTile24">自定义瓷贴 24</string>
+    <string name="CustomTile25">自定义瓷贴 25</string>
+    <string name="CustomTile26">自定义瓷贴 26</string>
+    <string name="CustomTile27">自定义瓷贴 27</string>
+    <string name="CustomTile28">自定义瓷贴 28</string>
+    <string name="CustomTile29">自定义瓷贴 29</string>
+    <string name="CustomTile30">自定义瓷贴 30</string>
+    <string name="RebootRecovery">重启进入 Recovery</string>
+    <string name="Reboot">重新启动</string>
+    <string name="ring_mode">情景模式</string>
+    <string name="Screen_timeout">屏幕超时</string>
+    <string name="alarm_tile">下一个闹钟</string>
+    <string name="need_dnd">无权限，请允许 Shortcutter 以取消 DND(免打扰)</string>
+    <string name="next_alarm">下一个闹钟
         \n</string>
-    <string name="vibrate">Vibrate</string>
-    <string name="ring">Ring</string>
-    <string name="silent">Silent</string>
-    <string name="screen_timeout">Timeout</string>
-    <string name="additonal_perms_req">Additional Permissions Required</string>
-    <string name="notification_policy_message">Some shortcuts require the ability to modify notification settings, as we cannot request these permissions in the normal fasion, you will need to enable them.
-        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
-    <string name="proceed">Proceed</string>
-    <string name="system_perms_message">Some tiles require the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
-        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
-    <string name="press_back">Press back to return once enabled.</string>
-    <string name="credits">Credits</string>
-    <string name="full_title">Shortcutter Quick Settings</string>
-    <string name="thanks_for_support">"Thanks for your support!  :)"</string>
-    <string name="premuim">Shortcutter Premium</string>
-    <string name="confirm_disable_root">You are about to disable all ROOT features, this will remove any QS tiles that require ROOT access.
-        \n\nDo you want to proceed?</string>
-    <string name="please_confirm">Please Confirm</string>
-    <string name="nothing_selected">Nothing Selected</string>
-    <string name="selected">"Selected: "</string>
-    <string name="camera">Camera</string>
-    <string name="flashlight">Flashlight</string>
-    <string name="ambient_display">Doze Display</string>
-    <string name="reboot_now">Reboot Now?</string>
-    <string name="root_available">Your device appears to be rooted.
-        \n Toggle me for more QS Tiles!</string>
-    <string name="available_in_prem1">Limited features &amp; a notification every 50 clicks.</string>
-    <string name="available_in_prem3">Go Premium now &amp; show your support!</string>
-    <string name="ad_supported">Shortcutter FREE</string>
-    <string name="disabled">Disabled</string>
-    <string name="enabled">Enabled</string>
-    <string name="splash_3">Custom Quick Settings for Android</string>
+    <string name="vibrate">振动</string>
+    <string name="ring">响铃</string>
+    <string name="silent">静音</string>
+    <string name="screen_timeout">超时</string>
+    <string name="additonal_perms_req">需要额外权限</string>
+    <string name="notification_policy_message">一些快捷方式需要能够修改通知设置，我们无法通过常规的方式请求这些权限，你需要手动启用这些权限。
+        \n\n点击继续 &amp; 你将前往相关界面。\n</string>
+    <string name="proceed">继续</string>
+    <string name="system_perms_message">一些瓷贴需要能够写入系统设置，我们无法通过常规的方式请求这些权限，你需要手动启用这些权限。
+        \n\n点击继续 &amp; 你将前往相关界面。\n</string>
+    <string name="press_back">一旦启用，点按返回键以返回</string>
+    <string name="credits">致谢名单</string>
+    <string name="full_title">Shortcutter 快捷设置</string>
+    <string name="thanks_for_support">"感谢你的支持!  :)"</string>
+    <string name="premuim">Shortcutter 付费版</string>
+    <string name="confirm_disable_root">你即将停用所有 ROOT 功能，这将移除所有需要 ROOT 权限的快捷设置瓷贴。
+        \n\n你是否要继续?</string>
+    <string name="please_confirm">请确认</string>
+    <string name="nothing_selected">未选择项目</string>
+    <string name="selected">"已选择: "</string>
+    <string name="camera">相机</string>
+    <string name="flashlight">手电筒</string>
+    <string name="ambient_display">打盹(环境)显示</string>
+    <string name="reboot_now">立即重启?</string>
+    <string name="root_available">你的设备似乎已经 Root 。
+        \n 点我查看更多快捷设置瓷贴!</string>
+    <string name="available_in_prem1">限制功能 &amp; 每点击 50 次显示一条通知</string>
+    <string name="available_in_prem3">立即获取付费版 &amp; 展示你的支持!</string>
+    <string name="ad_supported">Shortcutter 免费版</string>
+    <string name="disabled">已停用</string>
+    <string name="enabled">已启用</string>
+    <string name="splash_3">Android 平台上的自定义快捷设置</string>
     <string name="by_leedroid">Created By LeeDrOiD</string>
-    <string name="welcome_to_shortcutter">Welcome To</string>
-    <string name="Immersive">Immersive Mode</string>
-    <string name="manual_secure_summary">Usage: Location Mode Toggle, Immersive Mode, ADB, Heads Up, Monochrome, Data Roaming, Ambient Display, On Wile Chargin &amp; Power Save - (A PC is required)</string>
-    <string name="secure_access">Settings Secure Access</string>
-    <string name="action_required">Action Required</string>
-    <string name="settings_secure_instruct">You can manually grant Shortcutter access to Settings Secure, allowing more control over the system.
-        \n\nFrom your PC go to www.leedroid.co.uk/SettingsSecureGuide &amp; follow the instructions.
+    <string name="welcome_to_shortcutter">欢迎使用</string>
+    <string name="Immersive">沉浸模式</string>
+    <string name="manual_secure_summary">用途: 位置模式开关、沉浸模式、ADB、浮动通知、Monochrome、数据漫游、环境显示、充电时屏幕常亮 &amp; 省电模式 - (需要一台 PC )</string>
+    <string name="secure_access">安全设置访问</string>
+    <string name="action_required">需要操作</string>
+    <string name="settings_secure_instruct">你可以手动授予 Shortcutter 安全设置权限，允许在系统上进行更多控制。
+        \n\n在你的 PC 上，前往 www.leedroid.co.uk/SettingsSecureGuide &amp; 遵循操作指南。
         \n\n</string>
-    <string name="confirm">CONFIRM</string>
-    <string name="screenshot">Screenshot</string>
-    <string name="stop_recording">Stop Recording</string>
-    <string name="start_recording">Start Recording</string>
-    <string name="screen_recorder">Screen Recorder</string>
-    <string name="show_toggle">Show Toggle</string>
-    <string name="close">Close</string>
-    <string name="record_audio">Record Audio</string>
-    <string name="show_touches">Show Touches</string>
-    <string name="subscription_error">Your device does not support subscriptions.</string>
-    <string name="iab_async_error">Error launching purchase flow. Another async operation in progress.</string>
+    <string name="confirm">确认</string>
+    <string name="screenshot">截屏</string>
+    <string name="stop_recording">停止录制</string>
+    <string name="start_recording">开始录制</string>
+    <string name="screen_recorder">屏幕录制</string>
+    <string name="show_toggle">显示开关</string>
+    <string name="close">关闭</string>
+    <string name="record_audio">录音</string>
+    <string name="show_touches">显示触点</string>
+    <string name="subscription_error">你的设备不支持订阅。</string>
+    <string name="iab_async_error">启动购买流程时发生错误。其他非同步操作仍在进行中。</string>
     <string name="onetimefee2">£1.89</string>
     <string name="onetimefee5">£3.79
-        \n(Gratuity)</string>
-    <string name="donation2">£1.89 License</string>
-    <string name="donation5">£3.79 License</string>
-    <string name="donation10">£9.60 License</string>
-    <string name="detected">Detected</string>
-    <string name="yes">Yes</string>
-    <string name="subscription">Or a Subscription</string>
-    <string name="thankyoumultiple">Multiple licenses detected!
-        \nThank\'s for your support!</string>
-    <string name="thankyou">Thank\'s for your support!</string>
-    <string name="iab_error">In App Billing is not supported on your device yet.
-        \n\nWould you like to purchase a Premium key via the play store?</string>
-    <string name="no">No</string>
-    <string name="settings_license">LICENSE</string>
-    <string name="no_licence">No Licence Detected</string>
-    <string name="shortcutter_premium">Shortcutter Premium</string>
-    <string name="logo">Logo</string>
-    <string name="old_licene">Premium key detected</string>
-    <string name="tweaks_key">LeeDrOiD Tweaks key detected
-        \n Premium features activated</string>
-    <string name="all_prices_subject_to_tax_vat">All prices include Tax/VAT*
+        \n(小费)</string>
+    <string name="donation2">£1.89 许可证</string>
+    <string name="donation5">£3.79 许可证</string>
+    <string name="donation10">£9.60 许可证</string>
+    <string name="detected">已检测</string>
+    <string name="yes">是</string>
+    <string name="subscription">或者订阅</string>
+    <string name="thankyoumultiple">检测到多个许可证！
+        \n感谢你的支持!</string>
+    <string name="thankyou">感谢你的支持!</string>
+    <string name="iab_error">应用内购尚不支持你的设备。
+        \n\n是否要通过 Play 商店购买付费版密钥?</string>
+    <string name="no">否</string>
+    <string name="settings_license">许可证</string>
+    <string name="no_licence">未检测到许可证</string>
+    <string name="shortcutter_premium">Shortcutter 付费版</string>
+    <string name="logo">徽标</string>
+    <string name="old_licene">检测到付费版密钥</string>
+    <string name="tweaks_key">检测到 LeeDrOiD Tweaks 密钥
+        \n 付费版功能已激活</string>
+    <string name="all_prices_subject_to_tax_vat">所有价格均包含 税金/增值税*
         \n\nPurchasing Shortcutter Premium will remove the 50 click notification &amp; enable additional Quick Settings tiles &amp; app features.</string>
     <string name="amin">amin</string>
     <string name="allofthe">Either of the below options will grant you premium access, the choice is yours :)</string>
-    <string name="volumeui">Volume
-        \nPanel</string>
-    <string name="manualbright">Manual
-        \nBrightness</string>
-    <string name="autobrightness">Auto
-        \nBrightness</string>
-    <string name="brightpreset">Brightness
-        \nPreset</string>
-    <string name="qbright_lev">Brightness
+    <string name="volumeui">音量
+        \n面板</string>
+    <string name="manualbright">手动
+        \n亮度</string>
+    <string name="autobrightness">自动
+        \n亮度</string>
+    <string name="brightpreset">亮度
+        \n预设</string>
+    <string name="qbright_lev">亮度
         \n%1$d%%</string>
-    <string name="noalarm">No Alarms</string>
-    <string name="swipe_left">SWIPE LEFT TO CONTINUE</string>
-    <string name="availableram">Available
+    <string name="noalarm">无闹钟</string>
+    <string name="swipe_left">向左滑动以继续</string>
+    <string name="availableram">可用
         \nRAM</string>
-    <string name="network_mode">Network Mode</string>
-    <string name="network_mode_summary">Network Band selection</string>
-    <string name="adb_summary">Toggle the Android Debug Bridge</string>
+    <string name="network_mode">网络模式</string>
+    <string name="network_mode_summary">选择网络带宽</string>
+    <string name="adb_summary">开关 Android 调试桥</string>
     <string name="adbtile">ADB</string>
-    <string name="alarm_summary">Show next alarm, click opens alarms</string>
-    <string name="alarm_tile_title">Next Alarm</string>
-    <string name="ambien_summary">Ambient / Doze display</string>
-    <string name="ambient_tile_title">Ambient Display</string>
-    <string name="autobrightness_summary">Auto Brightness On/Off</string>
-    <string name="autobrightness_tile_title">Auto Brightness</string>
+    <string name="alarm_summary">显示下一个闹钟，点击打开闹钟</string>
+    <string name="alarm_tile_title">下一个闹钟</string>
+    <string name="ambien_summary">环境 / 打盹显示</string>
+    <string name="ambient_tile_title">环境显示</string>
+    <string name="autobrightness_summary">打开/关闭自动亮度</string>
+    <string name="autobrightness_tile_title">自动亮度</string>
     <string name="brightnesspreset_summary">Toggle through brightness steps
         \n(Define steps in Tile Settings)</string>
     <string name="brightnesspreset_tile_title">Brightness Preset</string>
@@ -642,25 +642,25 @@
     <string name="choose_function">Choose Function</string>
     <string name="samsung_note">Important note for Samsung users</string>
     <string name="battery_opt">As you are using a Samsung device, you may experience tiles becoming unresponsive after being dormant.\nTo rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
-    <string name="trig_alpha">Trigger Opacity</string>
+    <string name="trig_alpha">触发器不透明度</string>
     <string name="problem">Got a problem or feature request\? \n Mail me first :)</string>
-    <string name="opacity">Opacity =</string>
-    <string name="onehand">One Handed (Experimental)</string>
+    <string name="opacity">不透明度 =</string>
+    <string name="onehand">单手模式 (试验性)</string>
     <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
-    <string name="enter_shell_command">Shell Command</string>
-    <string name="drag_out">Long press to change assignment</string>
-    <string name="left_hand_mode">Left Handed Mode</string>
-    <string name="ime_method">IME Selector</string>
-    <string name="wrap">Set to: wrap contents</string>
-    <string name="fill">Set to: Fill Vertically</string>
-    <string name="height">Fill Screen/Wrap Contents</string>
-    <string name="ime_summary">Change in use input method</string>
-    <string name="auto_start">Auto Start Time</string>
-    <string name="auto_stop">Auto Stop Time</string>
-    <string name="clear_schedule">Clear Schedules</string>
-    <string name="reset_alarms">Are you sure you want to clear your Screen Filter schedules?</string>
-    <string name="tile_name">Tile Name (Auto if blank)</string>
-    <string name="disable_change">Disable or change assignment?</string>
-    <string name="change">Change</string>
-    <string name="disable_screen_off">Disable on Screen Off</string>
+    <string name="enter_shell_command">Shell 命令</string>
+    <string name="drag_out">长按可变更任务</string>
+    <string name="left_hand_mode">左手模式</string>
+    <string name="ime_method">IME 选择器</string>
+    <string name="wrap">设为: 自动换行</string>
+    <string name="fill">设为: 垂直填充</string>
+    <string name="height">填充屏幕/自动换行</string>
+    <string name="ime_summary">更改正在使用的输入法</string>
+    <string name="auto_start">自动开始时间</string>
+    <string name="auto_stop">自动停止时间</string>
+    <string name="clear_schedule">清除定时</string>
+    <string name="reset_alarms">你确定要清除屏幕过滤定时?</string>
+    <string name="tile_name">瓷贴名称 (留空则为自动)</string>
+    <string name="disable_change">停用或变更任务?</string>
+    <string name="change">变更</string>
+    <string name="disable_screen_off">息屏时停用</string>
 </resources>
