@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="location_mode_entries">
-        <item>Off</item>
-        <item>Device Only</item>
-        <item>Battery Saving</item>
-        <item>High Accuracy</item>
+        <item>关闭</item>
+        <item>仅限设备</item>
+        <item>省电模式</item>
+        <item>高精确度</item>
     </string-array>
     <string-array name="location_mode_values">
         <item>0</item>
@@ -13,9 +13,9 @@
         <item>3</item>
     </string-array>
     <string-array name="ring_mode_entries">
-        <item>Silent</item>
-        <item>Vibrate</item>
-        <item>Ring</item>
+        <item>静音</item>
+        <item>振动</item>
+        <item>响铃</item>
     </string-array>
     <string-array name="ring_mode_values">
         <item>0</item>
@@ -23,9 +23,9 @@
         <item>2</item>
     </string-array>
     <string-array name="sidebar_tmb_entries">
-        <item>Top</item>
-        <item>Center</item>
-        <item>Bottom</item>
+        <item>顶部</item>
+        <item>居中</item>
+        <item>底部</item>
     </string-array>
     <string-array name="sidebar_tmb_values">
         <item>0</item>
@@ -46,7 +46,7 @@
     </string-array>
     <string-array name="sb_columns_entries">
         <item>1</item>
-        <item>2 (Default)</item>
+        <item>2 (默认)</item>
         <item>3</item>
         <item>4</item>
         <item>5</item>
@@ -66,16 +66,16 @@
         <item>QVGA</item>
     </string-array>
     <string-array name="cust_tile_choice">
-        <item>Application</item>
-        <item>Activity (Advanced)</item>
-        <item>Shortcut</item>
-        <item>Web Link</item>
+        <item>应用程序</item>
+        <item>活动项 (高级)</item>
+        <item>快捷方式</item>
+        <item>网页链接</item>
     </string-array>
     <string-array name="cust_tile_choice_root">
-        <item>Application</item>
-        <item>Activity (Advanced)</item>
-        <item>Shortcut</item>
-        <item>Web Link</item>
-        <item>Shell Command</item>
+        <item>应用程序</item>
+        <item>活动项 (高级)</item>
+        <item>快捷方式</item>
+        <item>网页链接</item>
+        <item>Shell 命令</item>
     </string-array>
 </resources>
