@@ -257,36 +257,36 @@
         \n邮件</string>
     <string name="newemailsum">发送新邮件</string>
     <string name="emailtitle">新邮件</string>
-    <string name="stay_in_the_loop">Social Media/Contact</string>
-    <string name="follow_me">Follow Me On Twitter</string>
-    <string name="like_facebook">Like My Facebook Page</string>
-    <string name="home">Home</string>
+    <string name="stay_in_the_loop">社交媒体/联系</string>
+    <string name="follow_me">在 Twitter 上关注我们</string>
+    <string name="like_facebook">给我们的 Facebook 页面点赞</string>
+    <string name="home">主页</string>
     <string name="dice_desc_range">Select a custom number range for the Dice Tile</string>
     <string name="dice_tile_range">Dice Tile Range</string>
     <string name="togglenfc">NFC
-        \nToggle</string>
+        \n开关</string>
     <string name="nfctile">NFC</string>
-    <string name="nfctilesum">Toggle NFC on/off</string>
+    <string name="nfctilesum">打开/关闭 NFC</string>
     <string name="app_open">This application must run once prior to using any tiles or services
         \n\nPlease pay attention to the dialogs</string>
     <string name="alert">Shortcutter Alert</string>
-    <string name="go_premium">Purchase Premium</string>
+    <string name="go_premium">购买付费版</string>
     <string name="another_purchase">For users that want to show additional support, both purchase options can be used.</string>
-    <string name="datausage">Data
-        \nUsage</string>
-    <string name="data_usage_perms">Shortcutter needs permission to access Data Usage history.
-        \n\nPlease click proceed, select Shortcutter &amp; enable usage access.\n\n</string>
-    <string name="reset_day">Reset on the %1$d day of each month</string>
-    <string name="select_day">Select Data Reset Day</string>
-    <string name="data_cycle_reset">Data Usage Cycle</string>
-    <string name="data_cycle_summary">Select the day of the month to measure data from (Usually your billing date)</string>
-    <string name="data_tile_summary">Shows Mobile Data Usage
-        \n(Change cycle in Tile Settings)</string>
-    <string name="data_tile_title">Data Usage</string>
-    <string name="failed_data_usage">Failed to launch data usage information</string>
+    <string name="datausage">流量
+        \n使用情况</string>
+    <string name="data_usage_perms">Shortcutter 需要权限才能访问流量使用情况历史。
+        \n\n请点击继续, 选择 Shortcutter &amp; 启用使用情况访问。\n\n</string>
+    <string name="reset_day">在每月的第 %1$d 天月结</string>
+    <string name="select_day">选择流量月结日</string>
+    <string name="data_cycle_reset">流量使用周期</string>
+    <string name="data_cycle_summary">选择开始计算流量的时间 (通常是你的计费日期)</string>
+    <string name="data_tile_summary">显示移动流量使用情况
+        \n(可在瓷贴设置中变更周期)</string>
+    <string name="data_tile_title">流量使用情况</string>
+    <string name="failed_data_usage">启动流量使用情况信息失败</string>
     <string name="how_to">Click Here for A guide to adding Quick Setting Tiles.\n\nOnce you have enabled your chosen tiles in the categories below, you need to add them to your pull-down in the system quick settings editor.</string>
     <string name="addtiles_title">How To Add QS Tiles - Guide</string>
-    <string name="adding_qs_tiles">Adding QS Tiles</string>
+    <string name="adding_qs_tiles">添加快捷设置瓷贴</string>
     <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Pull-Down\" tab & make your QS Tile selections.]]></string>
     <string name="edit_view"><![CDATA[2. Pull-Down your status bar & hit the edit button as seen below, this is usually a pen icon.
     \n\n Samsung users hit the 3 dot menu & select rearrange.\n\n Your Shortcutter tiles will show in the bottom view.]]></string>
@@ -296,19 +296,19 @@
         \n\n Due to a bug in Android N, you may struggle to add tiles, this can be worked around by doing the following.
         \n\nRemove any tiles you do not want in the \"Quick Settings Tiles\" tab &amp; take your new tiles from the TOP of the available tiles container.
         \n\nUnfortunately this is not something I can fix as it has nothing to do with the app.</string>
-    <string name="small">Font
-        \nSmall</string>
-    <string name="large">Font
-        \nLarge</string>
-    <string name="fontscale">Font
-        \nSize</string>
-    <string name="defaultsize">Font
-        \nDefault</string>
-    <string name="largest">Font
-        \nLargest</string>
-    <string name="fontscale_sum">Toggle system font size</string>
-    <string name="font_scale_title">Font Scale</string>
-    <string name="power_saver">Power Saver</string>
+    <string name="small">字体
+        \n小</string>
+    <string name="large">字体
+        \n大</string>
+    <string name="fontscale">字体
+        \n大小</string>
+    <string name="defaultsize">字体
+        \n默认</string>
+    <string name="largest">字体
+        \n最大</string>
+    <string name="fontscale_sum">开关系统字体大小</string>
+    <string name="font_scale_title">字体缩放</string>
+    <string name="power_saver">省电模式</string>
     <string name="power_save_summary">Toggle Power Saving mode</string>
     <string name="prem_only_message">This feature is only available in the Premium version of Shortcutter.
         \n\nPlease click GO PREMIUM now to enable the following features:
