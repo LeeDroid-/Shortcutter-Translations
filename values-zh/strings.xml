@@ -663,4 +663,10 @@
     <string name="disable_change">停用或变更任务?</string>
     <string name="change">变更</string>
     <string name="disable_screen_off">息屏时停用</string>
+     <string name="app_data">App Data</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="unknown_sources">Allow Unknown Sources</string>
+    <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
 </resources>

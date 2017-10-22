@@ -216,7 +216,6 @@
     <string name="oncharge_tile_title">Şarj ederken ekran açık</string>
     <string name="choose_button_label">Seç</string>
     <string name="error_dir_access">Klasöre ulaşılamıyor</string>
-    <string name="label_parent_dir">…</string>
     <string name="label_parent_directory">Ana Klasör</string>
     <string name="last_edit">Son düzenlenen </string>
     <string name="select">Seç</string>
@@ -652,8 +651,8 @@
     <string name="drag_out">Long press to change assignment</string>
     <string name="left_hand_mode">Left Handed Mode</string>
     <string name="ime_method">IME Selector</string>
-    <string name="wrap">Set to: wrap contents</string>
-    <string name="fill">Set to: Fill Vertically</string>
+    <string name="wrap">Set to: Wrap contents</string>
+    <string name="fill">Set to: Fill vertically</string>
     <string name="height">Fill Screen/Wrap Contents</string>
     <string name="ime_summary">Change in use input method</string>
     <string name="auto_start">Auto Start Time</string>
@@ -663,5 +662,11 @@
     <string name="tile_name">Tile Name (Auto if blank)</string>
     <string name="disable_change">Disable or change assignment?</string>
     <string name="change">Change</string>
-    <string name="disable_screen_off">Disable on Screen Off</string>
+    <string name="disable_screen_off">Disable On-Screen OFF</string>
+    <string name="app_data">App Data</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="unknown_sources">Allow Unknown Sources</string>
+    <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
 </resources>

@@ -213,7 +213,6 @@
     <string name="oncharge_tile_title">Screen On While Charging</string>
     <string name="choose_button_label">Select</string>
     <string name="error_dir_access">Directory cannot be accessed</string>
-    <string name="label_parent_dir">…</string>
     <string name="label_parent_directory">Parent Directory</string>
     <string name="last_edit">Last edited: </string>
     <string name="select">Select</string>
@@ -244,7 +243,7 @@
     <string name="dice_desc">Generates a random number
         \n(Change range in Tile Settings)</string>
     <string name="auto_step">Auto Brightness Step</string>
-    <string name="file_tile">File
+ <string name="file_tile">File
         \nBrowser</string>
     <string name="file_summary">Launches default file browser</string>
     <string name="new_tweet">New
@@ -288,13 +287,13 @@
     <string name="addtiles_title">How To Add QS Tiles - Guide</string>
     <string name="adding_qs_tiles">Adding QS Tiles</string>
     <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Pull-Down\" tab & make your QS Tile selections.]]></string>
-    <string name="edit_view"><![CDATA[2. Pull-Down your status bar & hit the edit button as seen below, this is usually a pen icon.
+    <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below, this is usually a pen icon.
     \n\n Samsung users hit the 3 dot menu & select rearrange.\n\n Your Shortcutter tiles will show in the bottom view.]]></string>
     <string name="edit_view1">3. In the Edit View you will find 2/3 containers, you will see your new Shortcutter tiles in the bottom container.
         \n\nTo add them, simply long press &amp; drag your chosen tiles up to the top (Active) container &amp; exit the Edit View.</string>
     <string name="edit_view_note">IMPORTANT NOTE:
         \n\n Due to a bug in Android N, you may struggle to add tiles, this can be worked around by doing the following.
-        \n\nRemove any tiles you do not want in the \"Quick Settings Tiles\" tab &amp; take your new tiles from the TOP of the available tiles container.
+        \n\nRemove any tiles you do not want in the \"Pull-Down\" tab &amp; take your new tiles from the TOP of the available tiles container.
         \n\nUnfortunately this is not something I can fix as it has nothing to do with the app.</string>
     <string name="small">Font
         \nSmall</string>
@@ -458,7 +457,7 @@
     <string name="how_it_works">How It works</string>
     <string name="how_it_works1">Shortcutter offers several different options to access an array of shortcuts, settings &amp; services.</string>
     <string name="how_it_works2">\u2022 Via your Quick Settings Pull-Down</string>
-    <string name="how_it_works3">\u2022 Via the Shortcutter Swipe out Sidebar or Floating Toolbox</string>
+    <string name="how_it_works3">\u2022 Via the fully customisable, always on top, Shortcutter Swipe out Sidebar.</string>
     <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!</string>
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
     <string name="config_serv">Settings</string>
@@ -573,7 +572,8 @@
     <string name="forceEnglish">Force English</string>
     <string name="force_eng_summary">Run the app in the English Language</string>
     <string name="xiaomi">Your device requires applications to be granted auto start permissions, Shortcutter background services will be killed if this is not enabled.\n\nPlease click Proceed &amp; enable auto start for Shortcutter.</string>
-    <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances, Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Battery Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
+    <string name="bat_opt"><![CDATA[Shortcutter contains several background services, none of these services are power hungry or intensive, however in some instances, Android may kill these services when the device goes into deep sleep.\n\n
+    To negate this issue I would recommend disabling Battery Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
     <string name="monochrome">B&amp;W</string>
     <string name="monochrome_summary">Change the display to black and white (Monochrome)</string>
@@ -627,7 +627,7 @@
     <string name="bt_summary">Enable/Disable Bluetooth</string>
     <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
     <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
-    <string name="cp_head">TAP CENTER TO CONFIRM OR BACK TO CANCEL</string>
+    <string name="cp_head">Tap CENTER to confirm or BACK to cancel</string>
     <string name="transparency">Transparency</string>
     <string name="apply">Apply</string>
     <string name="scale">Scale =&#160;</string>
@@ -651,8 +651,8 @@
     <string name="drag_out">Long press to change assignment</string>
     <string name="left_hand_mode">Left Handed Mode</string>
     <string name="ime_method">IME Selector</string>
-    <string name="wrap">Set to: wrap contents</string>
-    <string name="fill">Set to: Fill Vertically</string>
+    <string name="wrap">Set to: Wrap contents</string>
+    <string name="fill">Set to: Fill vertically</string>
     <string name="height">Fill Screen/Wrap Contents</string>
     <string name="ime_summary">Change in use input method</string>
     <string name="auto_start">Auto Start Time</string>
@@ -662,5 +662,11 @@
     <string name="tile_name">Tile Name (Auto if blank)</string>
     <string name="disable_change">Disable or change assignment?</string>
     <string name="change">Change</string>
-    <string name="disable_screen_off">Disable on Screen Off</string>
+    <string name="disable_screen_off">Disable On-Screen OFF</string>
+    <string name="app_data">App Data</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="unknown_sources">Allow Unknown Sources</string>
+    <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
 </resources>

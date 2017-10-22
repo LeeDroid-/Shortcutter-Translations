@@ -189,7 +189,6 @@
     <string name="oncharge_tile_title">Ecrã Ligado ao Carregar</string>
     <string name="choose_button_label">Selecionar</string>
     <string name="error_dir_access">Diretório inacessível</string>
-    <string name="label_parent_dir">…</string>
     <string name="label_parent_directory">Diretório Acima</string>
     <string name="last_edit">Editado em: </string>
     <string name="select">Selecionar</string>
@@ -586,5 +585,11 @@
     <string name="tile_name">Tile Name (Auto if blank)</string>
     <string name="disable_change">Disable or change assignment?</string>
     <string name="change">Change</string>
-    <string name="disable_screen_off">Disable on Screen Off</string>
+    <string name="disable_screen_off">Disable On-Screen OFF</string>
+    <string name="app_data">App Data</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="unknown_sources">Allow Unknown Sources</string>
+    <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
 </resources>
