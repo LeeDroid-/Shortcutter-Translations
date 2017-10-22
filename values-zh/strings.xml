@@ -166,97 +166,97 @@
     <string name="autobrightness_tile_title">自动亮度</string>
     <string name="brightnesspreset_summary">Toggle through brightness steps
         \n(Define steps in Tile Settings)</string>
-    <string name="brightnesspreset_tile_title">Brightness Preset</string>
-    <string name="camera_summary">Launches the default camera app</string>
-    <string name="camera_tile_title">Camera</string>
-    <string name="haptic_summary">Toggle Haptic Feeback on/off</string>
-    <string name="headsup_summary">Toggle Heads Up notifications</string>
-    <string name="headsup">Heads Up</string>
-    <string name="immersive_summary">Hide the status &amp; navigation bars</string>
-    <string name="immersive_tile_title">Immersive
-        \nMode</string>
-    <string name="location_summary">Toggle location mode Off/GPS/Battery Saving/Hight Accuracy</string>
-    <string name="location_tile_title">Location Mode</string>
+    <string name="brightnesspreset_tile_title">亮度预设</string>
+    <string name="camera_summary">启动默认相机应用</string>
+    <string name="camera_tile_title">相机</string>
+    <string name="haptic_summary">打开/关闭触觉反馈</string>
+    <string name="headsup_summary">打开/关闭浮动通知</string>
+    <string name="headsup">浮动通知</string>
+    <string name="immersive_summary">隐藏状态 &amp; 导航栏</string>
+    <string name="immersive_tile_title">沉浸
+        \n模式</string>
+    <string name="location_summary">关闭位置模式/GPS/省电模式/高精确度</string>
+    <string name="location_tile_title">位置模式</string>
     <string name="ram_tile_title">RAM</string>
-    <string name="ram_summary">Displays available &amp; total RAM, with a shortcut to go to RAM information</string>
-    <string name="recovery_tile_title">Reboot Recovery</string>
-    <string name="recovery_summary">Reboots your device to Recovery Mode</string>
-    <string name="reboot_summary">Reboots your device</string>
-    <string name="reboot_tile_title">Reboot</string>
-    <string name="ringmode_tile_title">Ring Mode</string>
-    <string name="ringmode_summary">Toggle Ring Mode Ring/Vibrate/Silent</string>
-    <string name="screenrecord_summary">A tile to record everything on your devices screen</string>
-    <string name="screenrecord_tile_title">Screen Record</string>
-    <string name="screenshot_summary">Takes a still image of your device screen</string>
-    <string name="screenshot_tile_title">Screenshot</string>
-    <string name="sync_tile_title">Auto Sync</string>
-    <string name="sync_summary">Enable / Disable Auto Sync</string>
-    <string name="timeout_summary">Toggle screen timeout value</string>
-    <string name="timeout_tile_title">Screen Timeout</string>
-    <string name="volumeui_tile_title">Volume Panel</string>
-    <string name="volumeui_summary">A tile to display the volume panel</string>
-    <string name="wake_summary">Keeps your device screen awake</string>
-    <string name="wake_tile_title">Screen Wake</string>
-    <string name="tuner_summary">Launch the hidden SystemUI Tuner
-        \nFunctionality is Manufacturer dependent</string>
-    <string name="tuner_tile_title">SystemUI Tuner</string>
-    <string name="prem_only">Premium Only</string>
-    <string name="settings_secure_needed">Settings Secure access required</string>
-    <string name="flash_summary">Toggle the camera flashlight</string>
-    <string name="flash_tile_title">Flashlight</string>
-    <string name="no_flash">No Flashlight Detected</string>
-    <string name="battery_summary">Monitor your battery level</string>
-    <string name="battery_tile_title">Battery</string>
-    <string name="on_while_charge">On When
-        \nCharging</string>
-    <string name="onwhilecharge_summary">Keep screen on when plugged in</string>
-    <string name="oncharge_tile_title">Screen On While Charging</string>
-    <string name="choose_button_label">Select</string>
-    <string name="error_dir_access">Directory cannot be accessed</string>
+    <string name="ram_summary">显示可用 &amp; 全部 RAM, 通过快捷方式查看 RAM 信息</string>
+    <string name="recovery_tile_title">重启进入 Recovery</string>
+    <string name="recovery_summary">让你的设备重启进入Recovery 模式</string>
+    <string name="reboot_summary">重新启动你的设备</string>
+    <string name="reboot_tile_title">重新启动</string>
+    <string name="ringmode_tile_title">情景模式</string>
+    <string name="ringmode_summary">开关情景模式响铃/振动/静音</string>
+    <string name="screenrecord_summary">一个可在你的设备屏幕上录制内容的瓷贴</string>
+    <string name="screenrecord_tile_title">屏幕录制</string>
+    <string name="screenshot_summary">截取你的设备屏幕的静止图片</string>
+    <string name="screenshot_tile_title">截屏</string>
+    <string name="sync_tile_title">自动同步</string>
+    <string name="sync_summary">启用 / 停用自动同步</string>
+    <string name="timeout_summary">开关屏幕超时值</string>
+    <string name="timeout_tile_title">屏幕超时</string>
+    <string name="volumeui_tile_title">音量面板</string>
+    <string name="volumeui_summary">一个可显示音量面板的瓷贴</string>
+    <string name="wake_summary">保持设备屏幕唤醒</string>
+    <string name="wake_tile_title">屏幕唤醒</string>
+    <string name="tuner_summary">启动隐藏的 SystemUI 调谐器
+        \n功能依赖于设备制造商</string>
+    <string name="tuner_tile_title">SystemUI 调谐器</string>
+    <string name="prem_only">仅限付费版</string>
+    <string name="settings_secure_needed">需要安全设置访问</string>
+    <string name="flash_summary">开关相机闪光灯</string>
+    <string name="flash_tile_title">手电筒</string>
+    <string name="no_flash">未检测到闪光灯</string>
+    <string name="battery_summary">监控你的电池电量</string>
+    <string name="battery_tile_title">电量</string>
+    <string name="on_while_charge">充电时
+        \n屏幕常亮</string>
+    <string name="onwhilecharge_summary">插入电源时保持屏幕常亮</string>
+    <string name="oncharge_tile_title">充电时屏幕常亮</string>
+    <string name="choose_button_label">选择</string>
+    <string name="error_dir_access">目录无法访问</string>
     <string name="label_parent_dir">…</string>
-    <string name="label_parent_directory">Parent Directory</string>
-    <string name="last_edit">Last edited: </string>
-    <string name="select">Select</string>
-    <string name="countdown">Countdown</string>
-    <string name="new_message">New
-        \nMessage</string>
-    <string name="cap_store_title">Screen Capture Storage</string>
-    <string name="choose_location">Choose Location</string>
-    <string name="new_message_summary">Send a new SMS with 1 click</string>
-    <string name="count_down">Counting Down</string>
-    <string name="remaining">Remaining:</string>
-    <string name="time_up">Time is up!</string>
-    <string name="countdown_timer">Countdown Timer</string>
-    <string name="set">Set</string>
-    <string name="countdown_desc">A countdown timer tile</string>
-    <string name="choose_steps">Select Brightness Preset Steps</string>
-    <string name="preset_steps">Brightness Preset Steps</string>
-    <string name="currently">Currently set to %1$d steps</string>
-    <string name="current_shot">Currently set to %1$d seconds</string>
-    <string name="current_dice">Currently set to %1$d</string>
-    <string name="permissions_not_granted">You dont appear to have granted Shortcutter the correct permissions, have you launched the app?</string>
+    <string name="label_parent_directory">父目录</string>
+    <string name="last_edit">上次编辑: </string>
+    <string name="select">选择</string>
+    <string name="countdown">倒计时</string>
+    <string name="new_message">新
+        \n消息</string>
+    <string name="cap_store_title">屏幕捕获存储</string>
+    <string name="choose_location">选择位置</string>
+    <string name="new_message_summary">一键发送新短信</string>
+    <string name="count_down">正在倒计时</string>
+    <string name="remaining">剩余:</string>
+    <string name="time_up">时间到!</string>
+    <string name="countdown_timer">倒计时计时器</string>
+    <string name="set">设定</string>
+    <string name="countdown_desc">倒计时计时器瓷贴</string>
+    <string name="choose_steps">选择亮度预设步骤</string>
+    <string name="preset_steps">亮度预设步骤</string>
+    <string name="currently">当前设为 %1$d 步</string>
+    <string name="current_shot">当前设为 %1$d 秒</string>
+    <string name="current_dice">当前设为 %1$d</string>
+    <string name="permissions_not_granted">你似乎未授予 Shortcutter 正确的权限，你是否启动过应用?</string>
     <string name="counter_tile">Clicker
         \nTile</string>
     <string name="counter_summary">A tile that counts clicks</string>
     <string name="reset_counter">Reset Clicker Tile</string>
-    <string name="cur_val">Current value = %1$d </string>
+    <string name="cur_val">当前值 = %1$d </string>
     <string name="Dice">Dice</string>
-    <string name="dice_desc">Generates a random number
-        \n(Change range in Tile Settings)</string>
-    <string name="auto_step">Auto Brightness Step</string>
-    <string name="file_tile">File
-        \nBrowser</string>
-    <string name="file_summary">Launches default file browser</string>
-    <string name="new_tweet">New
-        \nTweet</string>
-    <string name="not_installed">Application not installed</string>
-    <string name="new_tweet_summary">Send a new Tweet</string>
-    <string name="shot_delay">Set custom Screenshot delay</string>
-    <string name="shot_delay_title">Screenshot Delay (Seconds)</string>
-    <string name="newemail">New
-        \nEmail</string>
-    <string name="newemailsum">Send a new email</string>
-    <string name="emailtitle">New Email</string>
+    <string name="dice_desc">生成随机数字
+        \n(可在瓷贴设置中变更范围)</string>
+    <string name="auto_step">自动亮度步骤</string>
+    <string name="file_tile">文件
+        \n浏览器</string>
+    <string name="file_summary">启动默认文件浏览器</string>
+    <string name="new_tweet">新
+        \n推文</string>
+    <string name="not_installed">应用程序未安装</string>
+    <string name="new_tweet_summary">发送新推文</string>
+    <string name="shot_delay">设定自定义截屏延时</string>
+    <string name="shot_delay_title">截屏延时 (秒)</string>
+    <string name="newemail">新
+        \n邮件</string>
+    <string name="newemailsum">发送新邮件</string>
+    <string name="emailtitle">新邮件</string>
     <string name="stay_in_the_loop">Social Media/Contact</string>
     <string name="follow_me">Follow Me On Twitter</string>
     <string name="like_facebook">Like My Facebook Page</string>
