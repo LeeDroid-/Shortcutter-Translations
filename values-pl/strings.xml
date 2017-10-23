@@ -151,7 +151,6 @@
     <string name="qbright_lev">Jasność
 	    \n%1$d%%</string>
     <string name="noalarm">Brak Alarmów</string>
-    <string name="swipe_left">Swypnij w lewo, \nAby kontynuować</string>
     <string name="availableram">"Dostępny
 	    \nRAM"</string>
     <string name="network_mode">Płytka Trybu Sieci</string>
@@ -506,11 +505,9 @@
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
     <string name="nigh_light">Nocna Lampka</string>
     <string name="brightness">Jasność Ekranu</string>
-    <string name="scnigh_light">Shortcutter\nNocna Lampka</string>
     <string name="nightlight_summary">Wyświetla zawsze na wyświetlaczu w nocny zegar, a także przycisk, aby szybko przełączać się na Tryb Zegara Biurkowego</string>
     <string name="deskmode">Tryb\nZegara Nocnego</string>
     <string name="lightmode">Tryb\nLampki Nocnej</string>
-    <string name="scdesk">Shortcutter\nZegar na biurku</string>
     <string name="expand_collapse">Toolbox\nExpander</string>
     <string name="expose_toggler">Pokaż Ikonę \"Toolbox Expander\", aby otworzyć lub zamknąć Toolbox lub Pasek Boczny, mapuj do Edge Sense i dużo więcej!</string>
     <string name="permissions">Uprawnienia Aplikacji</string>
@@ -664,10 +661,6 @@
     <string name="disable_change">Wyłączyć lub zmienić przypisanie?</string>
     <string name="change">Zmień</string>
     <string name="disable_screen_off">Wyłącz Wł/Wył-Ekran</string>
-    <string name="app_data">Dane Aplikacji</string>
-    <string name="appwidget_text">PRZYKŁAD</string>
-    <string name="configure">Konfiguruj</string>
-    <string name="add_widget">Dodaj widżet</string>
     <string name="unknown_sources">Zezwalaj na Nieznane Źródła</string>
     <string name="unknownsource_tile_summary">Zezwalaj na nieznane źródła / Instalowanie aplikacji innych niż ze sklepu</string>
     <string name="cast">Przesylanie ekranu</string>

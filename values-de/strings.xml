@@ -150,7 +150,6 @@
         \n%1$d%%</string>
     <string name="noalarm">Keine
         \nAlarme</string>
-    <string name="swipe_left">WISCHE NACH LINKS UM FORTZUFAHREN</string>
     <string name="availableram">Verfügbar
         \nRAM</string>
     <string name="network_mode">Netzwerkmodus</string>
@@ -506,11 +505,9 @@
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Schnelleinstellungen v%1$s </string>
     <string name="nigh_light">Nachtlicht</string>
     <string name="brightness">Bildschirmhelligkeit</string>
-    <string name="scnigh_light">Shortcutter\nNachtlicht</string>
     <string name="nightlight_summary">Bietet ein permanentes Nachtlicht, Uhranzeige und ein Wechselschalter zum Abdunkeln in den Schreibtischmodus</string>
     <string name="deskmode">Schreibtischuhr\nModus</string>
     <string name="lightmode">Nachtlicht\nModus</string>
-    <string name="scdesk">Shortcutter\nSchreibtischuhr</string>
     <string name="expand_collapse">Werkzeugkasten\nErweiterung</string>
     <string name="expose_toggler">Aktiviere das Symbol \"SideBar Expander\", um die SideBar oder ToolBox von deinem Startbildschirm oder anderen Apps zu öffnen / zu schließen</string>
     <string name="permissions">App Berechtigungen</string>
@@ -665,11 +662,7 @@
     <string name="disable_change">Zuordnung deaktivieren oder ändern?</string>
     <string name="change">Ändere</string>
     <string name="disable_screen_off">On-Screen deaktivieren AUS</string>
-    <string name="app_data">App Data</string>
-    <string name="appwidget_text">EXAMPLE</string>
-    <string name="configure">Configure</string>
-    <string name="add_widget">Add widget</string>
-    <string name="unknown_sources">Allow Unknown Sources</string>
+    <string name="unknown_sources" >Allow Unknown Sources</string>
     <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
     <string name="cast">Cast</string>
     <string name="cast_summary">Launches the Screen Cast device list</string>

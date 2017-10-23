@@ -151,7 +151,6 @@
     <string name="qbright_lev">Brightness
         \n%1$d%%</string>
     <string name="noalarm">No Alarms</string>
-    <string name="swipe_left">SWIPE LEFT TO CONTINUE</string>
     <string name="availableram">Available
         \nRAM</string>
     <string name="network_mode">Network Mode</string>
@@ -506,11 +505,9 @@
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
     <string name="nigh_light">Night Light</string>
     <string name="brightness">Screen Brightness</string>
-    <string name="scnigh_light">Shortcutter\nNight Light</string>
     <string name="nightlight_summary">Provides an always on Nightlight &amp; clock display, plus a button to switch to Desk Clock Mode</string>
     <string name="deskmode">Desk Clock\nMode</string>
     <string name="lightmode">Night Light\nMode</string>
-    <string name="scdesk">Shortcutter\nDesk Clock</string>
     <string name="expand_collapse">Sidebar Expander</string>
     <string name="expose_toggler">Create an additional \"Sidebar Expander\" icon to open/close the Sidebar or ToolBox from your home screen or other apps.</string>
     <string name="permissions">Manage Permissions</string>
@@ -663,10 +660,6 @@
     <string name="disable_change">Disable or change assignment?</string>
     <string name="change">Change</string>
     <string name="disable_screen_off">Disable On-Screen OFF</string>
-    <string name="app_data">App Data</string>
-    <string name="appwidget_text">EXAMPLE</string>
-    <string name="configure">Configure</string>
-    <string name="add_widget">Add widget</string>
     <string name="unknown_sources">Allow Unknown Sources</string>
     <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
     <string name="cast">Cast</string>

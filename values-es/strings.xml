@@ -152,7 +152,6 @@
         \n%1$d%%</string>
     <string name="noalarm">Sin
         \nalarmas</string>
-    <string name="swipe_left">DESLIZA A LA IZQUIERDA PARA CONTINUAR</string>
     <string name="availableram">RAM
         \ndisponible</string>
     <string name="network_mode">Modo de red</string>
@@ -507,11 +506,9 @@
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Ajustes rápidos v%1$s </string>
     <string name="nigh_light">Luz nocturna</string>
     <string name="brightness">Brillo de pantalla</string>
-    <string name="scnigh_light">Shortcutter\nLuz nocturna</string>
     <string name="nightlight_summary">Proporciona un tono perfecto para la luz nocturna y muestra el reloj, además de un botón para cambiar al modo del reloj de escritorio.</string>
     <string name="deskmode">Modo de\nreloj de escritorio</string>
     <string name="lightmode">Modo de\nluz nocturna</string>
-    <string name="scdesk">Reloja de escritorio\nShortcutter</string>
     <string name="expand_collapse">Expansor de barra lateral</string>
     <string name="expose_toggler">Crea un icono adicional de \"expansor de barra lateral\" para abrirla o cerrarla desde tu pantalla de inicio u otras aplicaciones.</string>
     <string name="permissions">Administrar permisos</string>
@@ -663,10 +660,6 @@
     <string name="disable_change">Disable or change assignment?</string>
     <string name="change">Change</string>
     <string name="disable_screen_off">Disable on Screen Off</string>
-    <string name="app_data">App Data</string>
-    <string name="appwidget_text">EXAMPLE</string>
-    <string name="configure">Configure</string>
-    <string name="add_widget">Add widget</string>
     <string name="unknown_sources">Allow Unknown Sources</string>
     <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
     <string name="cast">Cast</string>

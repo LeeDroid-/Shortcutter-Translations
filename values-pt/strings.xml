@@ -132,7 +132,6 @@
     <string name="brightpreset">Brilho\nProgramado</string>
     <string name="qbright_lev">Brilho\n%1$d%%</string>
     <string name="noalarm">Sem\nAlarmes</string>
-    <string name="swipe_left">DESLIZE PARA A ESQUERDA PARA CONTINUAR</string>
     <string name="availableram">RAM\nDisponível</string>
     <string name="network_mode">Mosaico Mode de Rede</string>
     <string name="network_mode_summary">Seleção de Banda de Rede</string>
@@ -427,11 +426,9 @@
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Definições Rápidas v%1$s </string>
     <string name="nigh_light">Luz de Presença</string>
     <string name="brightness">Brilho do Ecrã</string>
-    <string name="scnigh_light">Luz de Presença\nShortcutter</string>
     <string name="nightlight_summary">Oferece uma Luz de Presença sempre ligada &amp; mostrador de relógio, além de um botão para trocar para Modo de Relógio de Mesa</string>
     <string name="deskmode">Modo\nRelógio de Mesa</string>
     <string name="lightmode">Modo\nLuz de Presença</string>
-    <string name="scdesk">Relógio de Mesa\nShortcutter</string>
     <string name="expand_collapse">Expansor\nBarraLateral</string>
     <string name="expose_toggler">Ativa ícone \"Expansor BarraLateral\" para abrir/fechar a BarraLateral ou Caixa de Ferramentas, também permite ligar a outras aplicações como HTC Edge Sense, Second Displays &amp; Tasker.</string>
     <string name="permissions">Permissões da Aplicação</string>
@@ -586,10 +583,6 @@
     <string name="disable_change">Disable or change assignment?</string>
     <string name="change">Change</string>
     <string name="disable_screen_off">Disable on Screen Off</string>
-    <string name="app_data">App Data</string>
-    <string name="appwidget_text">EXAMPLE</string>
-    <string name="configure">Configure</string>
-    <string name="add_widget">Add widget</string>
     <string name="unknown_sources">Allow Unknown Sources</string>
     <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
     <string name="cast">Cast</string>

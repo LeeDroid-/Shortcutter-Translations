@@ -154,7 +154,6 @@
         \n%1$d%%</string>
     <string name="noalarm">Alarm
         \nYok</string>
-    <string name="swipe_left">DEVAM ETMEK İÇİN SOLA KAYDIRIN</string>
     <string name="availableram">Kullanılabilir
         \nHafıza</string>
     <string name="network_mode">Şebeke Modu Sekmesi</string>
@@ -505,11 +504,9 @@
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Hızlı Ayarlar v%1$s </string>
     <string name="nigh_light">Gece Lambası</string>
     <string name="brightness">Ekran Parlaklığı</string>
-    <string name="scnigh_light">Shortcutter\nGece Lambası</string>
     <string name="nightlight_summary">Hep açık bir gece lambası açar &amp; Saat ve masa saati modu</string>
     <string name="deskmode">Masa Saati\nModu</string>
     <string name="lightmode">Gece Lambasıt\nModu</string>
-    <string name="scdesk">Shortcutter\nMasa Saati</string>
     <string name="expand_collapse">Araç Kutusu\nGenişletici</string>
     <string name="expose_toggler">İkon \"Yan Menü Genişletici\" Yan Menü / Araç Çubuğunu açıp Kapatmak için, bu aynı zamanda  HTC Sense gibi cihazların 2. ekranına da uygulanabilir &amp; Görev Yöneticisi.</string>
     <string name="permissions">Uygulama İzinleri</string>
@@ -663,10 +660,6 @@
     <string name="disable_change">Disable or change assignment?</string>
     <string name="change">Change</string>
     <string name="disable_screen_off">Disable on Screen Off</string>
-    <string name="app_data">App Data</string>
-    <string name="appwidget_text">EXAMPLE</string>
-    <string name="configure">Configure</string>
-    <string name="add_widget">Add widget</string>
     <string name="unknown_sources">Allow Unknown Sources</string>
     <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
     <string name="cast">Cast</string>
