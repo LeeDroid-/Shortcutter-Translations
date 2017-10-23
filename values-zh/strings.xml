@@ -23,7 +23,7 @@
     <string name="root_access">Root 功能</string>
     <string name="enable_root_features">启用 Root 功能</string>
     <string name="root_features_enabled">Root 功能已启用</string>
-    <string name="appicon">AppIcon</string>
+    <string name="appicon">应用图标</string>
     <string name="CustomTile1">自定义瓷贴 1</string>
     <string name="CustomTile2">自定义瓷贴 2</string>
     <string name="CustomTile4">自定义瓷贴 4</string>
@@ -257,7 +257,7 @@
         \n邮件</string>
     <string name="newemailsum">发送新邮件</string>
     <string name="emailtitle">新邮件</string>
-    <string name="stay_in_the_loop">社交媒体/联系</string>
+    <string name="stay_in_the_loop">社交媒体/联系方式</string>
     <string name="follow_me">在 Twitter 上关注我们</string>
     <string name="like_facebook">给我们的 Facebook 页面点赞</string>
     <string name="home">主页</string>
@@ -353,7 +353,7 @@
         \n\u2022 分屏
         \n\u2022 检测活动项
         \n - 用于屏幕过滤 &amp; 屏幕圆角，这些服务将会在安装应用 &amp; 授予权限时停止。
-        \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
+        \n\n点击继续, 前往 Shortcutter &amp; 启用服务。\n\n</string>
     <string name="split_sum">开关分屏 / 多窗口模式</string>
     <string name="power_sum">打开电源菜单</string>
     <string name="admin_needed">需要管理员权限</string>
@@ -505,50 +505,50 @@
         \n检测到安全活动项</string>
     <string name="launch_loc">启动设置 \> 位置/n(如果没有安全设置访问)</string>
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;快捷设置 v%1$s </string>
-    <string name="nigh_light">Night Light</string>
+    <string name="nigh_light">夜光模式</string>
     <string name="brightness">屏幕亮度</string>
-    <string name="scnigh_light">Shortcutter\nNight Light</string>
-    <string name="nightlight_summary">Provides an always on Nightlight &amp; clock display, plus a button to switch to Desk Clock Mode</string>
-    <string name="deskmode">Desk Clock\nMode</string>
-    <string name="lightmode">Night Light\nMode</string>
-    <string name="scdesk">Shortcutter\nDesk Clock</string>
-    <string name="expand_collapse">Sidebar Expander</string>
-    <string name="expose_toggler">Create an additional \"Sidebar Expander\" icon to open/close the Sidebar or ToolBox from your home screen or other apps.</string>
-    <string name="permissions">Manage Permissions</string>
-    <string name="settings_access">Write System Settings</string>
-    <string name="overlay_access">Overlay Permissions</string>
-    <string name="acc_access">Accessibility Access</string>
-    <string name="dnd_access">Do Not Disturb Access</string>
-    <string name="usage_access">Data Usage</string>
-    <string name="settings_system_summary">Usage: Brightness, Font Scale, Haptic Feedback &amp; Display Timeout</string>
-    <string name="overlay_summary">Usage: Floating Sidebar/ToolBox, Screen Filter &amp; Rounded Corners</string>
-    <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Expand Notifications &amp; Quick Settings, Screen Filter &amp; Rounded Corners</string>
-    <string name="dnd_summary">Usage: Ring Mode</string>
-    <string name="usage_summary">Usage: Data Usage Tile</string>
-    <string name="actual_tiles">Actual Tiles =&#160; %1$d </string>
-    <string name="shortcutter_permissions_phone">This toggle requires the ability to check network state.\n\n
-    In order to do this the app needs the Phone permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="shortcutter_permissions_storage">This service requires the ability to access external storage.\n\n
-    In order to do this the app needs the Read/Write Storage permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="shortcutter_permissions_camera">This toggle requires the ability to access the camera (Flash).\n\n
-    In order to do this the app needs the Camera permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="shortcutter_permissions_sync">This toggle requires the ability to access your Sync settings.\n\n
-    In order to do this the app needs the Read/Write Sync permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
-    In order to do this the app needs the Location permission.\n\n
-    Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="unavailable">Unavailable</string>
-    <string name="install_shortcut">Install\nShortcut</string>
+    <string name="scnigh_light">Shortcutter\n夜光模式</string>
+    <string name="nightlight_summary">提供一个始终亮屏的夜光 &amp; 时钟显示，增加一个切换桌面时钟模式的按钮</string>
+    <string name="deskmode">桌面时钟\n模式</string>
+    <string name="lightmode">夜光\n模式</string>
+    <string name="scdesk">Shortcutter\n桌面时钟</string>
+    <string name="expand_collapse">侧栏展开</string>
+    <string name="expose_toggler">创建额外的 \"侧栏展开\" 图标以便从你的主屏幕或其他应用打开/关闭侧栏或工具栏。</string>
+    <string name="permissions">管理权限</string>
+    <string name="settings_access">写入系统设置</string>
+    <string name="overlay_access">叠加层权限</string>
+    <string name="acc_access">无障碍访问</string>
+    <string name="dnd_access">勿扰模式访问</string>
+    <string name="usage_access">流量使用情况</string>
+    <string name="settings_system_summary">用途: 亮度、字体缩放、触觉反馈 &amp; 显示超时</string>
+    <string name="overlay_summary">用途: 悬浮侧栏/工具箱、屏幕过滤 &amp; 圆角</string>
+    <string name="acc_summary">用途: 最近应用、电源菜单、分屏、展开通知 &amp; 快捷设置、屏幕过滤 &amp; 圆角</string>
+    <string name="dnd_summary">用途: 情景模式</string>
+    <string name="usage_summary">用途: 流量使用情况瓷贴</string>
+    <string name="actual_tiles">实际瓷贴数 =&#160; %1$d个</string>
+    <string name="shortcutter_permissions_phone">这个开关需要能够检查网络状态。\n\n
+    为了做到这样，应用需要电话权限。\n\n
+    请点击继续 &amp; 提示时授予权限。</string>
+    <string name="shortcutter_permissions_storage">这个服务需要能够访问外部存储。\n\n
+    为了做到这样，应用需要读取/写入存储权限。\n\n
+    请点击继续 &amp; 提示时授予权限。</string>
+    <string name="shortcutter_permissions_camera">这个开关需要能够访问相机(闪光灯)。\n\n
+    为了做到这样，应用需要相机权限。\n\n
+    请点击继续 &amp; 提示时授予权限。</string>
+    <string name="shortcutter_permissions_sync">这个开关需要能够访问你的同步设置。\n\n
+    为了做到这样，应用需要读取/写入同步权限。\n\n
+    请点击继续 &amp; 提示时授予权限。</string>
+    <string name="shortcutter_permissions_location">这个开关需要能够访问你的位置。\n\n
+    为了做到这样，应用需要位置权限。\n\n
+    请点击继续 &amp; 提示时授予权限。</string>
+    <string name="unavailable">不可用</string>
+    <string name="install_shortcut">安装\n快捷方式</string>
     <string name="select_shortcut">选择要安装的快捷方式</string>
     <string name="header">移除标题</string>
     <string name="review">\n 不要忘了在 Play 商店留下评论!</string>
     <string name="enjoying">喜欢 Shortcutter 吗？</string>
     <string name="counter">计数器\n+1</string>
-    <string name="expose_activity_summary">Create additional icons to access these toggle\'s from your home screen or app drawer.\n\nThis also enables mapping toggles to other app\'s such as HTC Edge Sense, Second Displays &amp; Tasker.</string>
+    <string name="expose_activity_summary">创建额外图标以便从你的主屏幕或者应用抽屉访问这些开关。\n\n这也会启用映射开关到其他如 HTC Edge Sense、Second Displays &amp; Tasker 的应用。</string>
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">启用/停用 WiFi</string>
     <string name="wifi_hotspot_summary">启用/停用 WiFi 热点</string>
@@ -556,77 +556,77 @@
     <string name="hotspot_tile">WiFi 热点</string>
     <string name="to_be_toggled">选择要开关的条目。</string>
     <string name="swipe_out_close">向左/右滑动以关闭</string>
-    <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
+    <string name="obscure_back"><![CDATA[Dim Behind & 检测外部触摸]]></string>
     <string name="notif_led">通知呼吸灯</string>
     <string name="notif_led_summary">打开/关闭设备的通知呼吸灯\n(依赖于制造商)</string>
-    <string name="system_toggle_summary">Subject to OS/manufacturer compatibility</string>
-    <string name="experimental_settings">Experimental Features</string>
-    <string name="sys_setting_tiles">Quick Settings tiles to toggle system settings</string>
-    <string name="system_actions">Tiles to toggle/launch system actions</string>
-    <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
-    <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
-    <string name="cust_app">Tiles that you can assign Applications, Activities, Shortcuts, Web Links &amp; Shell Commands (ROOT) to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
-    <string name="cust_app_pref">Tiles that you can assign Applications, Activities, Shortcuts &amp; Web Links &amp; Shell Commands (ROOT) to.</string>
-    <string name="cust_sb">Customise the look, feel &amp; behaviour of the Sidebar or ToolBox</string>
-    <string name="behaviour">Change the behaviour of Tiles</string>
-    <string name="perms_now">These will be requested when enabling services.</string>
-    <string name="forceEnglish">Force English</string>
-    <string name="force_eng_summary">Run the app in the English Language</string>
-    <string name="xiaomi">Your device requires applications to be granted auto start permissions, Shortcutter background services will be killed if this is not enabled.\n\nPlease click Proceed &amp; enable auto start for Shortcutter.</string>
-    <string name="bat_opt"><![CDATA[Shortcutter contains several background services, in some instances, Android may kill these services when the device goes into deep sleep, to negate this issue I would recommend disabling Battery Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
-    <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
-    <string name="monochrome">B&amp;W</string>
-    <string name="monochrome_summary">Change the display to black and white (Monochrome)</string>
-    <string name="launch_power">Launches Settings \> Power\n(if no settings secure access)</string>
-    <string name="admin_access">Administrator Access</string>
-    <string name="admin_summary">Usage: Screen Lock</string>
-    <string name="tb_tile_alpha">Off Tile Transparency</string>
-    <string name="hide_tb_labels">Hide Text Labels</string>
-    <string name="hidden">Hidden</string>
-    <string name="visible">Visible</string>
-    <string name="icon_picker">Icon Picker</string>
-    <string name="custom_icon">Tile Icon Background</string>
-    <string name="cust_icon_summary">Select a custom icon background</string>
-    <string name="manage_tiles">Manage tiles</string>
-    <string name="enable_tiles">Enable/Disable Quick Settings Pull-Down Tiles.</string>
-    <string name="qs_tiles">Pull-Down</string>
-    <string name="custom_tiles">Custom Tiles</string>
-    <string name="sb_tb_settings">Sidebar/Toolbox Settings</string>
-    <string name="design_sb_settings">Configure your Shortcutter Sidebar/ToolBox</string>
-    <string name="enable_tiles_tb">Enable/Disable Sidebar Tiles</string>
-    <string name="detect_touch">Touch &amp; Swipe Trigger</string>
-    <string name="touch_and_swipe">Sidebar opens when trigger is touched or swiped\n(up, down or inward)</string>
-    <string name="swipe_only">Sidebar opens when swiped\n(up, down or inward)</string>
-    <string name="hide_header_sum">Sidebar/ToolBox header removed</string>
-    <string name="hide_header_off_sum">Sidebar/ToolBox header visible</string>
-    <string name="capture_quality">Capture Quality</string>
-    <string name="share">Share</string>
-    <string name="delete">Delete</string>
-    <string name="view">View</string>
-    <string name="trigger">Trigger</string>
-    <string name="tile_icons">Tiles/Icons</string>
-    <string name="labels">Tile Labels</string>
-    <string name="icon_scale">Icon Scale</string>
+    <string name="system_toggle_summary">受制于 OS/制造商的兼容性</string>
+    <string name="experimental_settings">试验性功能</string>
+    <string name="sys_setting_tiles">开关系统设置的快捷设置瓷贴</string>
+    <string name="system_actions">开关/启动系统操作的瓷贴</string>
+    <string name="info_tiles_sum">提供 &amp; 链接到系统有用信息的瓷贴</string>
+    <string name="sc_service_sum"><![CDATA[服务 & 功能由 Shortcutter 提供]]></string>
+    <string name="cust_app">你可以将应用程序、活动项、快捷方式 &amp; 网页链接 &amp; Shell 命令 (ROOT) 分配于瓷贴\n在这里启用瓷贴，然后点击瓷贴以分配你选中的应用、活动项或者快捷方式。</string>
+    <string name="cust_app_pref">你可以将应用程序、活动项、快捷方式 &amp; 网页链接 &amp; Shell 命令 (ROOT) 分配于瓷贴</string>
+    <string name="cust_sb">自定义侧栏或工具箱的外观、感觉 &amp; 行为</string>
+    <string name="behaviour">变更瓷贴的行为</string>
+    <string name="perms_now">启用服务时需要请求这些权限。</string>
+    <string name="forceEnglish">强制使用英文</string>
+    <string name="force_eng_summary">使用英文语言使用这个应用</string>
+    <string name="xiaomi">你的设备需要授予应用程序的自启权限，如果未启用这个权限， Shortcutter 的后台服务将会被终止。\n\n请点击继续 &amp; 启用 Shortcutter 的自启权限。</string>
+    <string name="bat_opt"><![CDATA[Shortcutter 包含若干后台服务，在某些情况下，Android 可能会在设备进入休眠时终止这些服务，要防止这个问题的发生，我推荐通过设置 > 电源停用对 Shortcutter 的电池优化。\n\n我喜欢你能喜欢这个应用!]]></string>
+    <string name="failed_window_add">添加窗口失败，请打开应用并确保已经授予屏幕叠加层权限</string>
+    <string name="monochrome">黑&amp;白</string>
+    <string name="monochrome_summary">变更显示屏为黑白色(单色)</string>
+    <string name="launch_power">启动设置 \> 电源\n(如果没有安全设置访问)</string>
+    <string name="admin_access">管理员访问</string>
+    <string name="admin_summary">用途: 屏幕锁定</string>
+    <string name="tb_tile_alpha">关闭瓷贴透明度</string>
+    <string name="hide_tb_labels">隐藏文本标签</string>
+    <string name="hidden">隐藏</string>
+    <string name="visible">可见</string>
+    <string name="icon_picker">图标选择</string>
+    <string name="custom_icon">瓷贴图标背景</string>
+    <string name="cust_icon_summary">选择自定义图标背景</string>
+    <string name="manage_tiles">管理瓷贴</string>
+    <string name="enable_tiles">启用/停用快捷设置下拉面板瓷贴。</string>
+    <string name="qs_tiles">下拉</string>
+    <string name="custom_tiles">自定义瓷贴</string>
+    <string name="sb_tb_settings">侧栏/工具箱设置</string>
+    <string name="design_sb_settings">配置你的 Shortcutter 侧栏/工具箱</string>
+    <string name="enable_tiles_tb">启用/停用侧栏瓷贴</string>
+    <string name="detect_touch">触摸 &amp; 滑动触发器</string>
+    <string name="touch_and_swipe">当触摸触发器或者向(上方, down or inward)\n滑动时打开侧栏</string>
+    <string name="swipe_only">当向(上方、下方或内部)\n滑动时打开侧栏</string>
+    <string name="hide_header_sum">侧栏/工具箱标题已移除</string>
+    <string name="hide_header_off_sum">侧栏/工具箱标题可见</string>
+    <string name="capture_quality">捕获画质</string>
+    <string name="share">分享</string>
+    <string name="delete">删除</string>
+    <string name="view">查看</string>
+    <string name="trigger">触发</string>
+    <string name="tile_icons">瓷贴/图标</string>
+    <string name="labels">瓷贴标注</string>
+    <string name="icon_scale">图标缩放</string>
     <string name="flash_sale">10% Off Shortcutter Premium!\nPlease select the £1.89 option in the purchase premium screen.</string>
     <string name="sale">Shortcutter Flash Sale</string>
-    <string name="dim">Dim -</string>
-    <string name="dimup">Dim +</string>
-    <string name="screen_dim">Screen Dim =&#160;</string>
-    <string name="mute_media">Mute Media</string>
-    <string name="mute_media_summary">Mute your media volume</string>
-    <string name="system_perms_message_touches">This option requires the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
-        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
-    <string name="lock_root">Use ROOT Method</string>
-    <string name="root_lock_sum">Sends a POWER key event using shell</string>
-    <string name="choose_activity">Choose Activity</string>
-    <string name="exp_notif">Expand Notifications</string>
-    <string name="quick_settings">Expand QS Panel</string>
-    <string name="exp_notif_sum">Expands the notification Pull-Down</string>
-    <string name="qs_sum">Expands the Quick Settings Pull-Down</string>
-    <string name="bluetooth">Bluetooth</string>
-    <string name="bt_summary">Enable/Disable Bluetooth</string>
-    <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
-    <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
+    <string name="dim">调暗 -</string>
+    <string name="dimup">调暗 +</string>
+    <string name="screen_dim">屏幕调暗 =&#160;</string>
+    <string name="mute_media">静音媒体</string>
+    <string name="mute_media_summary">静音你的媒体音量</string>
+    <string name="system_perms_message_touches">这个选项需要能够写入系统设置，我们无法通过正常方式请求这些权限，你需要手动启用这些权限。
+        \n\n点击继续 &amp; 你将前往相关界面。\n</string>
+    <string name="lock_root">使用 ROOT 方法</string>
+    <string name="root_lock_sum">使用 shell 命令发送 POWER (电源)键事件</string>
+    <string name="choose_activity">选择活动项</string>
+    <string name="exp_notif">展开通知</string>
+    <string name="quick_settings">展开快捷设置面板</string>
+    <string name="exp_notif_sum">展开通知下拉面板</string>
+    <string name="qs_sum">展开快捷设置下拉面板</string>
+    <string name="bluetooth">蓝牙</string>
+    <string name="bt_summary">启用/停用蓝牙</string>
+    <string name="went_wrong">发生一些错误，请重试。如问题仍然存在，请附上你的设备详情与我联系。</string>
+    <string name="cont_and_phone"><![CDATA[发生一些错误，你是否有授予联系人 & 电话权限？]]></string>
     <string name="cp_head">轻触中间以确认或者返回以取消</string>
     <string name="transparency">透明度</string>
     <string name="apply">应用</string>
