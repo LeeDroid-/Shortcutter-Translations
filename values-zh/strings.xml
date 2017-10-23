@@ -94,7 +94,7 @@
     <string name="disabled">已停用</string>
     <string name="enabled">已启用</string>
     <string name="splash_3">Android 平台上的自定义快捷设置</string>
-    <string name="by_leedroid">Created By LeeDrOiD</string>
+    <string name="by_leedroid">创建者: LeeDrOiD</string>
     <string name="welcome_to_shortcutter">欢迎使用</string>
     <string name="Immersive">沉浸模式</string>
     <string name="manual_secure_summary">用途: 位置模式开关、沉浸模式、ADB、浮动通知、Monochrome、数据漫游、环境显示、充电时屏幕常亮 &amp; 省电模式 - (需要一台 PC )</string>
@@ -138,7 +138,7 @@
         \n 付费版功能已激活</string>
     <string name="all_prices_subject_to_tax_vat">所有价格均包含 税金/增值税*
         \n\nPurchasing Shortcutter 付费版会移除 50 次点击通知 &amp; 启用额外快捷设置瓷贴 &amp; 应用功能</string>
-    <string name="amin">amin</string>
+    <string name="amin">管理员</string>
     <string name="allofthe">以下选项均会授予你付费访问，选择权在你的手上 :)</string>
     <string name="volumeui">音量
         \n面板</string>
@@ -240,7 +240,7 @@
     <string name="counter_summary">一个计算点击数的瓷贴</string>
     <string name="reset_counter">重置点击器瓷贴</string>
     <string name="cur_val">当前值 = %1$d </string>
-    <string name="Dice">Dice</string>
+    <string name="Dice">骰子</string>
     <string name="dice_desc">生成随机数字
         \n(可在瓷贴设置中变更范围)</string>
     <string name="auto_step">自动亮度步骤</string>
@@ -405,7 +405,7 @@
     <string name="power_menu">电源菜单</string>
     <string name="new_message_title">新短信</string>
     <string name="new_tweet_title">新推文</string>
-    <string name="counter_tile_title">Clicker</string>
+    <string name="counter_tile_title">点击器</string>
     <string name="show_immersive_activity">显示模式选择器</string>
     <string name="mode_select_summary">显示附有沉浸模式选项的弹出式对话框。</string>
     <string name="toggle">开关</string>
@@ -425,7 +425,7 @@
     <string name="dataroam_summary">开关数据漫游</string>
     <string name="quick_tiles_title">变更折叠视图中的瓷贴数</string>
     <string name="manufact_depend">自定义在折叠下拉面板显示的快捷设置瓷贴数。
-        \nThis MOD is manufacturer dependent.</string>
+        \n这个 MOD 依赖于设备制造商。</string>
     <string name="sidebar">侧栏或者悬浮工具箱</string>
     <string name="sidebar_summary">在滑出式侧栏或悬浮工具箱中选择。</string>
     <string name="sidebar_pos">水平触发位置</string>
