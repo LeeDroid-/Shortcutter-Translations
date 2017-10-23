@@ -588,7 +588,7 @@
     <string name="custom_icon">Tło Ikon Płytek</string>
     <string name="cust_icon_summary">Wybierz własne tło ikon</string>
     <string name="manage_tiles">Menadżer Płytek</string>
-    <string name="enable_tiles">Włącz/Wyłącz Opuszczanych w Dół Płytek Szybkich Ustawień</string>
+    <string name="enable_tiles">Włącz/Wyłącz Płytki Szybkich Ustawień</string>
     <string name="qs_tiles">Płytki QS</string>
     <string name="custom_tiles">Własne Płytki</string>
     <string name="sb_tb_settings">Ustawienia Paska Bocznego/Toolbox</string>
@@ -661,13 +661,13 @@
     <string name="clear_schedule">Wyczyść Harmonogramy</string>
     <string name="reset_alarms">Czy na pewno chcesz wyczyścić harmonogramy filtru ekranu?</string>
     <string name="tile_name">Nazwa płytki (Auto, jeśli jest pusta)</string>
-    <string name="disable_change">Disable or change assignment?</string>
-    <string name="change">Change</string>
-    <string name="disable_screen_off">Disable On-Screen OFF</string>
-    <string name="app_data">App Data</string>
-    <string name="appwidget_text">EXAMPLE</string>
-    <string name="configure">Configure</string>
-    <string name="add_widget">Add widget</string>
-    <string name="unknown_sources">Allow Unknown Sources</string>
-    <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
+    <string name="disable_change">Wyłączyć lub zmienić przypisanie?</string>
+    <string name="change">Zmień</string>
+    <string name="disable_screen_off">Wyłącz Wł/Wył-Ekran</string>
+    <string name="app_data">Dane Aplikacji</string>
+    <string name="appwidget_text">PRZYKŁAD</string>
+    <string name="configure">Konfiguruj</string>
+    <string name="add_widget">Dodaj widżet</string>
+    <string name="unknown_sources">Zezwalaj na nieznane Źródła</string>
+    <string name="unknownsource_tile_summary">Zezwalaj na nieznane źródła / Instalowanie aplikacji innych niż ze sklepu</string>
 </resources>
