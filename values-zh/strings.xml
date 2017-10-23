@@ -151,6 +151,7 @@
     <string name="qbright_lev">亮度
         \n%1$d%%</string>
     <string name="noalarm">无闹钟</string>
+    <string name="swipe_left">向左滑动以继续</string>
     <string name="availableram">可用
         \nRAM</string>
     <string name="network_mode">网络模式</string>
@@ -212,6 +213,7 @@
     <string name="oncharge_tile_title">充电时屏幕常亮</string>
     <string name="choose_button_label">选择</string>
     <string name="error_dir_access">目录无法访问</string>
+    <string name="label_parent_dir">…</string>
     <string name="label_parent_directory">父目录</string>
     <string name="last_edit">上次编辑: </string>
     <string name="select">选择</string>
@@ -265,11 +267,11 @@
         \n开关</string>
     <string name="nfctile">NFC</string>
     <string name="nfctilesum">打开/关闭 NFC</string>
-    <string name="app_open">This application must run once prior to using any tiles or services
-        \n\nPlease pay attention to the dialogs</string>
-    <string name="alert">Shortcutter Alert</string>
+    <string name="app_open">这个应用程序必须在使用任何瓷贴或服务之前允许一次
+        \n\n请留意对话框</string>
+    <string name="alert">Shortcutter 提醒</string>
     <string name="go_premium">购买付费版</string>
-    <string name="another_purchase">For users that want to show additional support, both purchase options can be used.</string>
+    <string name="another_purchase">为满足想展示额外支持的用户，可使用两个付费选项。</string>
     <string name="datausage">流量
         \n使用情况</string>
     <string name="data_usage_perms">Shortcutter 需要权限才能访问流量使用情况历史。
@@ -282,18 +284,18 @@
         \n(可在瓷贴设置中变更周期)</string>
     <string name="data_tile_title">流量使用情况</string>
     <string name="failed_data_usage">启动流量使用情况信息失败</string>
-    <string name="how_to">Click Here for A guide to adding Quick Setting Tiles.\n\nOnce you have enabled your chosen tiles in the categories below, you need to add them to your pull-down in the system quick settings editor.</string>
-    <string name="addtiles_title">How To Add QS Tiles - Guide</string>
+    <string name="how_to">点击此处查看添加快捷设置瓷贴的向导。\n\n一旦你在以下类别中选择要启用的瓷贴，你需要在系统快捷设置编辑器中添加这些瓷贴到下拉面板。</string>
+    <string name="addtiles_title">如何添加快捷设置瓷贴 - 向导</string>
     <string name="adding_qs_tiles">添加快捷设置瓷贴</string>
-    <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Pull-Down\" tab & make your QS Tile selections.]]></string>
-    <string name="edit_view"><![CDATA[2. Pull-Down your status bar & hit the edit button as seen below, this is usually a pen icon.
-    \n\n Samsung users hit the 3 dot menu & select rearrange.\n\n Your Shortcutter tiles will show in the bottom view.]]></string>
-    <string name="edit_view1">3. In the Edit View you will find 2/3 containers, you will see your new Shortcutter tiles in the bottom container.
-        \n\nTo add them, simply long press &amp; drag your chosen tiles up to the top (Active) container &amp; exit the Edit View.</string>
-    <string name="edit_view_note">IMPORTANT NOTE:
-        \n\n Due to a bug in Android N, you may struggle to add tiles, this can be worked around by doing the following.
-        \n\nRemove any tiles you do not want in the \"Quick Settings Tiles\" tab &amp; take your new tiles from the TOP of the available tiles container.
-        \n\nUnfortunately this is not something I can fix as it has nothing to do with the app.</string>
+    <string name="select_tiles"><![CDATA[1. 前往 Shortcutter 的 \"下拉\" 标签 & 选择你的快捷设置瓷贴。]]></string>
+    <string name="edit_view"><![CDATA[2. 下拉你的状态栏 & 点击如下所示的编辑按钮，通常显示为钢笔图标。
+    \n\n 三星用户点击三个点菜单 & 选择重新排列。\n\n 你的 Shortcutter 瓷贴会在下视图中显示。]]></string>
+    <string name="edit_view1">3. 在编辑视图中，你会找到 2/3 容器，你将会在底部容器中看到新的 Shortcutter 瓷贴。
+        \n\n要添加这些瓷贴，只需长按 &amp; 拖曳选中的瓷贴到顶部(现用的)容器 &amp; 退出编辑视图。</string>
+    <string name="edit_view_note">重要提醒:
+        \n\n 由于 Android N 的 Bug，在添加瓷贴会显得困难，进行如下操作可以暂时解决这个问题。
+        \n\n在 \"快捷设置瓷贴\" 标签移除不想要的瓷贴 &amp; 从可用瓷贴容器的上方移走你的新瓷贴。
+        \n\n不幸的是，我未能修复这个问题，使用这个应用也无济于事。</string>
     <string name="small">字体
         \n小</string>
     <string name="large">字体
@@ -322,11 +324,11 @@
     <string name="power_not_found">未找到电源设置活动项</string>
     <string name="nfc_not_found">未找到 NFC 设置活动项</string>
     <string name="consider_prem">Shortcutter 免费版</string>
-    <string name="consider_prem1">Thats 50 Shortcutter clicks!
-        \n\nHave you considered showing your support &amp; going Premium?
-        \n\nThis notification will show every 50 tile clicks in the Free version.</string>
-    <string name="screenre_cat"><![CDATA[Screen Record & Capture]]></string>
-    <string name="choose_entries">Location Mode Entries (2 Minimum)</string>
+    <string name="consider_prem1">已达 50 次 Shortcutter 点击!
+        \n\n是否考虑展示你的支持 &amp; 获取付费版？
+        \n\n在免费版中，每点击瓷贴 50 次会显示这条通知。</string>
+    <string name="screenre_cat"><![CDATA[屏幕录制 & 捕获]]></string>
+    <string name="choose_entries">位置模式条目 (最小 2 条)</string>
     <string name="conf_sel">确认选择</string>
     <string name="recentapps">最近应用</string>
     <string name="settings_system_required">需要写入系统设置权限 - 点击以启用</string>
@@ -338,161 +340,161 @@
         \n\u2022 显示电源菜单
         \n\u2022 展开通知 &amp; 快捷设置
         \n\u2022 检测活动项 - 用于屏幕过滤 &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.</string>
-    <string name="power_dialog">Power Dialog</string>
-    <string name="split_screen">Multi Window</string>
-    <string name="lock_screen">Lock
-        \nScreen</string>
-    <string name="screen_lock_admin">Required to use the \"Lock Screen\" Quick Settings Tile</string>
-    <string name="acc_needed">Accessibility access required</string>
-    <string name="recents_sum">Opens the recent apps screen</string>
-    <string name="acc_needed_long">Shortcutter requires Accessibility access to toggle
-        \n\n\u2022 Recent Apps
-        \n\u2022 Power Menu
-        \n\u2022 Split Screen
-        \n\u2022 Detect Activities
+    <string name="power_dialog">电源对话框</string>
+    <string name="split_screen">多窗口</string>
+    <string name="lock_screen">锁定
+        \n屏幕</string>
+    <string name="screen_lock_admin">需要使用 \"锁定屏幕\" 快捷设置瓷贴</string>
+    <string name="acc_needed">需要无障碍访问</string>
+    <string name="recents_sum">打开最近应用屏幕</string>
+    <string name="acc_needed_long">Shortcutter 需要无障碍访问才能开关
+        \n\n\u2022 最近应用
+        \n\u2022 电源菜单
+        \n\u2022 分屏
+        \n\u2022 检测活动项
         \n - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
         \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
-    <string name="split_sum">Toggle Split Screen / Multi Window Mode</string>
-    <string name="power_sum">Open the power menu</string>
-    <string name="admin_needed">Admin rights required</string>
-    <string name="admin_needed_long">Shortcutter requires Admin privileges to:\n\n
-        \u2022Lock your device screen
-        \n\nPlease press proceed &amp; enable Admin rights to use this Shortcut.\n\n</string>
-    <string name="lock_sum">Locks your screen</string>
-    <string name="immersive_active">Immersive Mode Active</string>
-    <string name="select_time">Please select a time in mm:ss</string>
-    <string name="search_tile">Web Search</string>
-    <string name="search_summary">Opens Google Search</string>
-    <string name="voice_search_tile">Voice Command</string>
-    <string name="voicesearch_sum">Launch Google Assistant</string>
+    <string name="split_sum">开关分屏 / 多窗口模式</string>
+    <string name="power_sum">打开电源菜单</string>
+    <string name="admin_needed">需要管理员权限</string>
+    <string name="admin_needed_long">Shortcutter 需要管理员特权用于:\n\n
+        \u2022锁定你的设备屏幕
+        \n\n请点按继续 &amp; 启用管理员权限以使用这个快捷方式。\n\n</string>
+    <string name="lock_sum">锁定你的屏幕</string>
+    <string name="immersive_active">正在使用沉浸模式</string>
+    <string name="select_time">请选择 mm:ss 的时间格式</string>
+    <string name="search_tile">在线搜索</string>
+    <string name="search_summary">打开 Google 搜索</string>
+    <string name="voice_search_tile">语音命令</string>
+    <string name="voicesearch_sum">启动 Google 智能助理</string>
     <string name="inear_audio">In Ear Audio</string>
-    <string name="disable">Disable</string>
+    <string name="disable">停用</string>
     <string name="inear_audio_active">In Ear Audio Active</string>
-    <string name="show_notif">Show Active Notification</string>
+    <string name="show_notif">显示进行中的通知</string>
     <string name="inear_summary">Routes all audio through your device earpiece</string>
-    <string name="volUp">Vol +</string>
-    <string name="volDown">Vol -</string>
-    <string name="cur_vol">Current Volume =&#160;</string>
+    <string name="volUp">音量 +</string>
+    <string name="volDown">音量 -</string>
+    <string name="cur_vol">当前音量 =&#160;</string>
     <string name="click_disable">%
-        \n Click the tile to disable</string>
-    <string name="pause">Pause
-        \nMusic</string>
-    <string name="play">Play
-        \nMusic</string>
-    <string name="play_pause">Play/Pause Music</string>
-    <string name="play_pause_sum">Play &amp; Pause music</string>
-    <string name="overlay_needed"><![CDATA[Several Shortcutter services require the Draw System Overlay permission to run, these include:\n
-    \n\u2022 Sidebar/Floating Toolbox
-    \n\u2022 Screen Filter/Night Mode
-    \n\u2022 Rounded Corners
-    \n\u2022 Network Mode Dialogs
-    \n\nPlease click proceed & grant the required permission.\n]]></string>
-    <string name="overlay_required">System overlay permissions required</string>
-    <string name="mob_data">Mobile Data</string>
-    <string name="mob_dat_sum">Toggle mobile data on/off</string>
-    <string name="toolbox">Toolbox</string>
-    <string name="wake_active">Screen Wake Active</string>
-    <string name="floating_toolbox">Enable The Sidebar/Toolbox</string>
-    <string name="float_summary">A Sidebar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
-    <string name="tb_tiles">Sidebar</string>
-    <string name="email_feedback">Email Feedback/Ask A Question</string>
-    <string name="submit_review">Leave A Review</string>
-    <string name="rate_app">Rate The App</string>
-    <string name="yes_pro">GO PREMIUM</string>
-    <string name="file_browser">File Browser</string>
-    <string name="power_menu">Power Menu</string>
-    <string name="new_message_title">New SMS</string>
-    <string name="new_tweet_title">New Tweet</string>
+        \n 点击瓷贴以停用</string>
+    <string name="pause">暂停
+        \n音乐</string>
+    <string name="play">播放
+        \n音乐</string>
+    <string name="play_pause">播放/暂停音乐</string>
+    <string name="play_pause_sum">播放 &amp; 暂停音乐</string>
+    <string name="overlay_needed"><![CDATA[Several若干 Shortcutter 服务需要绘制系统叠加层权限才能运行, 其中包括:\n
+    \n\u2022 侧栏/悬浮工具箱
+    \n\u2022 屏幕过滤/夜间模式
+    \n\u2022 屏幕圆角
+    \n\u2022 网络模式对话框
+    \n\n请点击继续 & 授予所需权限。\n]]></string>
+    <string name="overlay_required">需要系统叠加层权限</string>
+    <string name="mob_data">移动数据</string>
+    <string name="mob_dat_sum">打开/关闭移动数据</string>
+    <string name="toolbox">工具箱</string>
+    <string name="wake_active">屏幕唤醒使用中</string>
+    <string name="floating_toolbox">启用侧栏/工具箱</string>
+    <string name="float_summary">侧栏可通过滑动手势触发或者悬浮图标显示的悬浮工具箱打开。</string>
+    <string name="tb_tiles">侧栏</string>
+    <string name="email_feedback">Email 反馈/询问问题</string>
+    <string name="submit_review">留下评论</string>
+    <string name="rate_app">评价应用</string>
+    <string name="yes_pro">获取付费版</string>
+    <string name="file_browser">文件浏览器</string>
+    <string name="power_menu">电源菜单</string>
+    <string name="new_message_title">新短信</string>
+    <string name="new_tweet_title">新推文</string>
     <string name="counter_tile_title">Clicker</string>
-    <string name="show_immersive_activity">Show Mode Selector</string>
-    <string name="mode_select_summary">Shows a popup dialog with additional Immersive Mode options.</string>
-    <string name="toggle">Toggle</string>
-    <string name="toolbox_label">Toolbox</string>
-    <string name="app_picker">Select An Application</string>
-    <string name="custom_app_tiles">Custom Tiles</string>
-    <string name="swipe_up">Swipe up from the bottom to dismiss</string>
-    <string name="lock_screen_title">Lock Screen</string>
-    <string name="auto_rotate">Auto
-        \nRotate</string>
-    <string name="portrait">Portrait</string>
-    <string name="landscape">Landscape</string>
-    <string name="orientation_mode">Screen Rotation</string>
-    <string name="orient_summary">Toggle Screen Rotation</string>
-    <string name="counter_reset">Reset counter to 0?</string>
-    <string name="data_roaming">Data Roaming</string>
-    <string name="dataroam_summary">Toggle Data Roaming</string>
-    <string name="quick_tiles_title">Change Number Of Tiles In Collapsed View</string>
-    <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed Pull-Down.
+    <string name="show_immersive_activity">显示模式选择器</string>
+    <string name="mode_select_summary">显示附有沉浸模式选项的弹出式对话框。</string>
+    <string name="toggle">开关</string>
+    <string name="toolbox_label">工具箱</string>
+    <string name="app_picker">选择应用程序</string>
+    <string name="custom_app_tiles">自定义瓷贴</string>
+    <string name="swipe_up">从底部上滑以关闭</string>
+    <string name="lock_screen_title">锁定屏幕</string>
+    <string name="auto_rotate">自动
+        \n旋转</string>
+    <string name="portrait">纵向</string>
+    <string name="landscape">横向</string>
+    <string name="orientation_mode">屏幕旋转</string>
+    <string name="orient_summary">开关屏幕旋转</string>
+    <string name="counter_reset">重置计数器为 0?</string>
+    <string name="data_roaming">数据漫游</string>
+    <string name="dataroam_summary">开关数据漫游</string>
+    <string name="quick_tiles_title">变更折叠视图中的瓷贴数</string>
+    <string name="manufact_depend">自定义在折叠下拉面板显示的快捷设置瓷贴数。
         \nThis MOD is manufacturer dependent.</string>
-    <string name="sidebar">Sidebar or Floating Toolbox</string>
-    <string name="sidebar_summary">Choose between the Swipe Out Sidebar or Floating Toolbox.</string>
-    <string name="sidebar_pos">Horizontal Trigger Position</string>
-    <string name="right">Current Position Right</string>
-    <string name="left_position">Current Position Left</string>
-    <string name="tb_background">Background Colour</string>
-    <string name="create_calendar_event">New Event</string>
-    <string name="tb_tile_tint">Tile Tint Colour</string>
-    <string name="tb_tile_text_tint">Font Colour</string>
-    <string name="tb_reset_tint">Reset Preferences</string>
-    <string name="reset_conf">Are you sure you want to reset all colour preferences?</string>
-    <string name="trigger_colour_title">Trigger Colour</string>
-    <string name="filter_active">Screen Filter Active</string>
-    <string name="filter_colour">Select Filter Colour</string>
-    <string name="filter_tile_title">Screen Filter</string>
-    <string name="screen_filter">Screen Filter</string>
-    <string name="screen_filter_summary">A screen filter to reduce eye strain at night (Night Mode)</string>
-    <string name="reset_filter">Reset Filter Colour</string>
-    <string name="sideber_tmb_title">Vertical Trigger Position</string>
-    <string name="tb_columns_title">Toolbox Columns</string>
-    <string name="tb_columns_summary">Current = %s columns</string>
-    <string name="sb_columns_title">Sidebar Columns</string>
-    <string name="design_settings">Theme &amp; Behaviour</string>
+    <string name="sidebar">侧栏或者悬浮工具箱</string>
+    <string name="sidebar_summary">在滑出式侧栏或悬浮工具箱中选择。</string>
+    <string name="sidebar_pos">水平触发位置</string>
+    <string name="right">当前位置为右侧</string>
+    <string name="left_position">当前位置为左侧</string>
+    <string name="tb_background">背景颜色</string>
+    <string name="create_calendar_event">新事件</string>
+    <string name="tb_tile_tint">瓷贴着色</string>
+    <string name="tb_tile_text_tint">字体颜色</string>
+    <string name="tb_reset_tint">重置偏好设置</string>
+    <string name="reset_conf">你真的要重置所有颜色偏好设置？</string>
+    <string name="trigger_colour_title">触发器颜色</string>
+    <string name="filter_active">屏幕过滤使用中</string>
+    <string name="filter_colour">选择过滤器颜色</string>
+    <string name="filter_tile_title">屏幕过滤</string>
+    <string name="screen_filter">屏幕过滤</string>
+    <string name="screen_filter_summary">可在夜晚减轻眼睛疲劳的屏幕过滤器 (夜间模式)</string>
+    <string name="reset_filter">重置过滤器颜色</string>
+    <string name="sideber_tmb_title">垂直触发位置</string>
+    <string name="tb_columns_title">工具箱栏位</string>
+    <string name="tb_columns_summary">当前 = %s 栏</string>
+    <string name="sb_columns_title">侧栏栏位</string>
+    <string name="design_settings">主题 &amp; 行为</string>
     <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
     <string name="corners_title">Rounded Corners</string>
-    <string name="corners__scale_title">Screen Corner Scale</string>
-    <string name="corners__scale_set">Corner Scale&#160;=&#160; %1$d%%</string>
-    <string name="corners_scale_summary">Adjust the screen corner radius</string>
-    <string name="corner_colour">Select Corner Colour</string>
-    <string name="how_it_works">How It works</string>
+    <string name="corners__scale_title">屏幕圆角缩放</string>
+    <string name="corners__scale_set">圆角缩放&#160;=&#160; %1$d%%</string>
+    <string name="corners_scale_summary">调整屏幕圆角半径</string>
+    <string name="corner_colour">选择圆角颜色</string>
+    <string name="how_it_works">使用方法</string>
     <string name="how_it_works1">Shortcutter offers several different options to access an array of shortcuts, settings &amp; services.</string>
     <string name="how_it_works2">\u2022 Via your Quick Settings Pull-Down</string>
     <string name="how_it_works3">\u2022 Via the Shortcutter Swipe out Sidebar or Floating Toolbox</string>
     <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!</string>
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
     <string name="config_serv">Settings</string>
-    <string name="screenshot_root">Use Root Screenshot Method</string>
-    <string name="screenshot_root_summary">Produces a screenshot using the system screencap binary</string>
-    <string name="corners_active">Round Corners Active</string>
-    <string name="misc_cat">Expose Launcher Toggles</string>
-    <string name="misc_tiles_cat">Miscellaneous Tile Settings</string>
-    <string name="fancy_anim">Reflow Pull-Down Animation</string>
-    <string name="fancy_summary">Enable/Disable the fancy reflow Pull-Down animation (Not compatible with all devices)</string>
-    <string name="system_toggles">System Setting Tiles</string>
-    <string name="action_toggles">Action Tiles</string>
-    <string name="info_toggles">Information Tiles</string>
-    <string name="sc_services">Shortcutter Service Tiles</string>
-    <string name="weather">Weather Info</string>
-    <string name="tap_close">Touch to close</string>
-    <string name="weather_desc">Launches a popup with current weather information</string>
-    <string name="location">Location Updating</string>
-    <string name="condition">Condition:&#160;</string>
-    <string name="temp">Current Temperature:&#160;</string>
-    <string name="feels">Feels Like:&#160;</string>
-    <string name="dewp">Dew point:&#160;</string>
-    <string name="weather_celsius">Temperature Unit</string>
-    <string name="celsius">Celsius</string>
-    <string name="fahrenheit">Fahrenheit</string>
-    <string name="humidity">Humidity:&#160;</string>
-    <string name="mylocation">My Location</string>
-    <string name="maps_link">View On Maps</string>
-    <string name="refresh">Refresh</string>
-    <string name="current_location">Current Location</string>
-    <string name="dev_loc_mode">Location Mode:&#160; %1$s</string>
-    <string name="mylocation_summary">Displays current location, with options to view in maps or share</string>
-    <string name="loading_map">Loading Map....</string>
-    <string name="swipe_out">Swipe out to dismiss</string>
-    <string name="choose_ring_entries">Ring Mode Entries (2 Minimum)</string>
-    <string name="qs_head_title">QS Header Tiles</string>
+    <string name="screenshot_root">使用 Root 截屏方法</string>
+    <string name="screenshot_root_summary">使用系统截屏二进制进行截图</string>
+    <string name="corners_active">圆角使用中</string>
+    <string name="misc_cat">显示启动器开关</string>
+    <string name="misc_tiles_cat">杂项瓷贴设置</string>
+    <string name="fancy_anim">重排下拉动画</string>
+    <string name="fancy_summary">启用/停用奇妙的重排下拉动画 (不兼容所有设备)</string>
+    <string name="system_toggles">系统设置瓷贴</string>
+    <string name="action_toggles">操作瓷贴</string>
+    <string name="info_toggles">信息瓷贴</string>
+    <string name="sc_services">Shortcutter 服务瓷贴</string>
+    <string name="weather">天气信息</string>
+    <string name="tap_close">触摸以关闭</string>
+    <string name="weather_desc">启动包含当前天气信息的弹窗</string>
+    <string name="location">位置更新</string>
+    <string name="condition">状况:&#160;</string>
+    <string name="temp">当前温度:&#160;</string>
+    <string name="feels">体感温度:&#160;</string>
+    <string name="dewp">露点:&#160;</string>
+    <string name="weather_celsius">温度单位</string>
+    <string name="celsius">摄氏度</string>
+    <string name="fahrenheit">华氏度</string>
+    <string name="humidity">湿度:&#160;</string>
+    <string name="mylocation">我的位置</string>
+    <string name="maps_link">在地图上查看</string>
+    <string name="refresh">刷新</string>
+    <string name="current_location">当前位置</string>
+    <string name="dev_loc_mode">位置模式:&#160; %1$s</string>
+    <string name="mylocation_summary">显示当前位置，附有在地图上查看或分享的选项。</string>
+    <string name="loading_map">正在加载地图....</string>
+    <string name="swipe_out">滑出以关闭</string>
+    <string name="choose_ring_entries">情景模式条目 (最小 2 条)</string>
+    <string name="qs_head_title">快捷设置标题瓷贴</string>
     <string name="acc_needed_corners">This overlay requires Accessibility access to:
         \n\n \u2022 Detect secure activities.
         \n\nIf a secure activity is detected, this overlay will automatically stop.
@@ -505,9 +507,11 @@
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
     <string name="nigh_light">Night Light</string>
     <string name="brightness">Screen Brightness</string>
+    <string name="scnigh_light">Shortcutter\nNight Light</string>
     <string name="nightlight_summary">Provides an always on Nightlight &amp; clock display, plus a button to switch to Desk Clock Mode</string>
     <string name="deskmode">Desk Clock\nMode</string>
     <string name="lightmode">Night Light\nMode</string>
+    <string name="scdesk">Shortcutter\nDesk Clock</string>
     <string name="expand_collapse">Sidebar Expander</string>
     <string name="expose_toggler">Create an additional \"Sidebar Expander\" icon to open/close the Sidebar or ToolBox from your home screen or other apps.</string>
     <string name="permissions">Manage Permissions</string>
@@ -539,22 +543,22 @@
     Please click proceed &amp; grant the permission when prompted.</string>
     <string name="unavailable">Unavailable</string>
     <string name="install_shortcut">Install\nShortcut</string>
-    <string name="select_shortcut">Select A Shortcut To Install</string>
-    <string name="header">Remove Header</string>
-    <string name="review">\n Don\'t forget to leave a rocking review in the Play Store!</string>
-    <string name="enjoying">Enjoying Shortcutter?</string>
-    <string name="counter">Counter\n+1</string>
+    <string name="select_shortcut">选择要安装的快捷方式</string>
+    <string name="header">移除标题</string>
+    <string name="review">\n 不要忘了在 Play 商店留下评论!</string>
+    <string name="enjoying">喜欢 Shortcutter 吗？</string>
+    <string name="counter">计数器\n+1</string>
     <string name="expose_activity_summary">Create additional icons to access these toggle\'s from your home screen or app drawer.\n\nThis also enables mapping toggles to other app\'s such as HTC Edge Sense, Second Displays &amp; Tasker.</string>
     <string name="wifi">WiFi</string>
-    <string name="wifi_summary">Enable/Disable WiFi</string>
-    <string name="wifi_hotspot_summary">Enable/Disable WiFi HotSpot</string>
-    <string name="wifi_toggled">WiFi Toggled</string>
-    <string name="hotspot_tile">WiFi Hotspot</string>
-    <string name="to_be_toggled">Choose entries to be toggled.</string>
-    <string name="swipe_out_close">Swipe left/right to close</string>
+    <string name="wifi_summary">启用/停用 WiFi</string>
+    <string name="wifi_hotspot_summary">启用/停用 WiFi 热点</string>
+    <string name="wifi_toggled">WiFi 开关</string>
+    <string name="hotspot_tile">WiFi 热点</string>
+    <string name="to_be_toggled">选择要开关的条目。</string>
+    <string name="swipe_out_close">向左/右滑动以关闭</string>
     <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
-    <string name="notif_led">Notification LED</string>
-    <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
+    <string name="notif_led">通知呼吸灯</string>
+    <string name="notif_led_summary">打开/关闭设备的通知呼吸灯\n(依赖于制造商)</string>
     <string name="system_toggle_summary">Subject to OS/manufacturer compatibility</string>
     <string name="experimental_settings">Experimental Features</string>
     <string name="sys_setting_tiles">Quick Settings tiles to toggle system settings</string>
@@ -639,10 +643,10 @@
     <string name="samsung_note">Important note for Samsung users</string>
     <string name="battery_opt">As you are using a Samsung device, you may experience tiles becoming unresponsive after being dormant.\nTo rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
     <string name="trig_alpha">触发器不透明度</string>
-    <string name="problem">Got a problem or feature request\? \n Mail me first :)</string>
+    <string name="problem">提出问题或者功能请求\？ \n 可以发邮件给我 :)</string>
     <string name="opacity">不透明度 =</string>
     <string name="onehand">单手模式 (试验性)</string>
-    <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
+    <string name="onehanded_summary">将你的显示屏缩小到右下角，不是所有应用都能正确缩放。</string>
     <string name="enter_shell_command">Shell 命令</string>
     <string name="drag_out">长按可变更任务</string>
     <string name="left_hand_mode">左手模式</string>
@@ -659,8 +663,10 @@
     <string name="disable_change">停用或变更任务?</string>
     <string name="change">变更</string>
     <string name="disable_screen_off">息屏时停用</string>
-    <string name="unknown_sources">Allow Unknown Sources</string>
-    <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
-    <string name="cast">Cast</string>
-    <string name="cast_summary">Launches the Screen Cast device list</string>
+     <string name="app_data">应用数据</string>
+    <string name="appwidget_text">示例</string>
+    <string name="configure">配置</string>
+    <string name="add_widget">添加小部件</string>
+    <string name="unknown_sources">允许未知来源</string>
+    <string name="unknownsource_tile_summary">允许未知来源 / 非市场应用的安装</string>
 </resources>
