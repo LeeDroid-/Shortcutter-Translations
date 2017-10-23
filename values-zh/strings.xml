@@ -151,6 +151,7 @@
     <string name="qbright_lev">亮度
         \n%1$d%%</string>
     <string name="noalarm">无闹钟</string>
+    <string name="swipe_left">向左滑动以继续</string>
     <string name="availableram">可用
         \nRAM</string>
     <string name="network_mode">网络模式</string>
@@ -494,21 +495,23 @@
     <string name="swipe_out">滑出以关闭</string>
     <string name="choose_ring_entries">情景模式条目 (最小 2 条)</string>
     <string name="qs_head_title">快捷设置标题瓷贴</string>
-    <string name="acc_needed_corners">This overlay requires Accessibility access to:
-        \n\n \u2022 Detect secure activities.
-        \n\nIf a secure activity is detected, this overlay will automatically stop.
-        \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
-    <string name="filter_off_secure">Screen Filter suspended:
-        \nSecure activity detected</string>
-    <string name="corners_off_secure">Screen Corners suspended:
-        \nSecure activity detected</string>
-    <string name="launch_loc">Launches Settings \> Location/n(if no settings secure access)</string>
-    <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
+    <string name="acc_needed_corners">这个叠加层需要无障碍访问用于:
+        \n\n \u2022 检测安全活动项。
+        \n\n如果检测到安全活动项，将自动停止这个叠加层。
+        \n\n点击继续，前往 Shortcutter &amp; 启用服务。\n\n</string>
+    <string name="filter_off_secure">屏幕过滤已延缓:
+        \n检测到安全活动项</string>
+    <string name="corners_off_secure">屏幕圆角已延缓:
+        \n检测到安全活动项</string>
+    <string name="launch_loc">启动设置 \> 位置/n(如果没有安全设置访问)</string>
+    <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;快捷设置 v%1$s </string>
     <string name="nigh_light">Night Light</string>
-    <string name="brightness">Screen Brightness</string>
+    <string name="brightness">屏幕亮度</string>
+    <string name="scnigh_light">Shortcutter\nNight Light</string>
     <string name="nightlight_summary">Provides an always on Nightlight &amp; clock display, plus a button to switch to Desk Clock Mode</string>
     <string name="deskmode">Desk Clock\nMode</string>
     <string name="lightmode">Night Light\nMode</string>
+    <string name="scdesk">Shortcutter\nDesk Clock</string>
     <string name="expand_collapse">Sidebar Expander</string>
     <string name="expose_toggler">Create an additional \"Sidebar Expander\" icon to open/close the Sidebar or ToolBox from your home screen or other apps.</string>
     <string name="permissions">Manage Permissions</string>
@@ -624,21 +627,21 @@
     <string name="bt_summary">Enable/Disable Bluetooth</string>
     <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
     <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
-    <string name="cp_head">TAP CENTER TO CONFIRM OR BACK TO CANCEL</string>
-    <string name="transparency">Transparency</string>
-    <string name="apply">Apply</string>
-    <string name="scale">Scale =&#160;</string>
-    <string name="how_to_summary">A simple overview of what the app offers</string>
-    <string name="run_without">Continue Without</string>
-    <string name="xda">XDA Developers Thread</string>
-    <string name="ap_name">Web Address</string>
-    <string name="round_corners">Rounded Corners</string>
-    <string name="create_shortcut">Create a Shortcut</string>
-    <string name="enter_url">Enter a Web URL or search term</string>
-    <string name="search_if_invalid">If the URL is not valid, a google search will be performed</string>
-    <string name="choose_function">Choose Function</string>
-    <string name="samsung_note">Important note for Samsung users</string>
-    <string name="battery_opt">As you are using a Samsung device, you may experience tiles becoming unresponsive after being dormant.\nTo rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
+    <string name="cp_head">轻触中间以确认或者返回以取消</string>
+    <string name="transparency">透明度</string>
+    <string name="apply">应用</string>
+    <string name="scale">缩放 =&#160;</string>
+    <string name="how_to_summary">应用能提供的内容的简单概览</string>
+    <string name="run_without">继续无需</string>
+    <string name="xda">XDA 开发者原帖</string>
+    <string name="ap_name">网页地址</string>
+    <string name="round_corners">圆角</string>
+    <string name="create_shortcut">创建快捷方式</string>
+    <string name="enter_url">输入网页链接或者搜索关键词</string>
+    <string name="search_if_invalid">如果链接无效，将执行 Google 搜索</string>
+    <string name="choose_function">选择功能</string>
+    <string name="samsung_note">对三星用户的重要提醒</string>
+    <string name="battery_opt">你正在使用的是三星设备，你可能会遇到休眠后瓷贴变得没有响应的情况。\n要解决这个问题，请在设备设置中将 Shortcutter 从电池优化中排除。</string>
     <string name="trig_alpha">触发器不透明度</string>
     <string name="problem">提出问题或者功能请求\？ \n 可以发邮件给我 :)</string>
     <string name="opacity">不透明度 =</string>
@@ -660,6 +663,10 @@
     <string name="disable_change">停用或变更任务?</string>
     <string name="change">变更</string>
     <string name="disable_screen_off">息屏时停用</string>
+     <string name="app_data">应用数据</string>
+    <string name="appwidget_text">示例</string>
+    <string name="configure">配置</string>
+    <string name="add_widget">添加小部件</string>
     <string name="unknown_sources">允许未知来源</string>
     <string name="unknownsource_tile_summary">允许未知来源 / 非市场应用的安装</string>
 </resources>
