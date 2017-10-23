@@ -660,6 +660,7 @@ Usage"</string>
     <string name="add_widget">Add widget</string>
     <string name="unknown_sources">Allow Unknown Sources</string>
     <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
-</resources>
+    <string name="cast">Cast</string>
+    <string name="cast_summary">Launches the Screen Cast device list</string>
 
 </resources>

@@ -670,4 +670,6 @@
     <string name="add_widget">Dodaj widżet</string>
     <string name="unknown_sources">Zezwalaj na Nieznane Źródła</string>
     <string name="unknownsource_tile_summary">Zezwalaj na nieznane źródła / Instalowanie aplikacji innych niż ze sklepu</string>
+    <string name="cast">Przesylanie ekranu</string>
+    <string name="cast_summary">Launches the Screen Cast device list</string>
 </resources>
