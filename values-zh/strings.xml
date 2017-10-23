@@ -164,7 +164,7 @@
     <string name="ambient_tile_title">环境显示</string>
     <string name="autobrightness_summary">打开/关闭自动亮度</string>
     <string name="autobrightness_tile_title">自动亮度</string>
-    <string name="brightnesspreset_summary">Toggle through brightness steps
+    <string name="brightnesspreset_summary">切换亮度步骤
         \n(可在瓷贴设置中定义步骤)</string>
     <string name="brightnesspreset_tile_title">亮度预设</string>
     <string name="camera_summary">启动默认相机应用</string>
@@ -235,10 +235,10 @@
     <string name="current_shot">当前设为 %1$d 秒</string>
     <string name="current_dice">当前设为 %1$d</string>
     <string name="permissions_not_granted">你似乎未授予 Shortcutter 正确的权限，你是否启动过应用?</string>
-    <string name="counter_tile">Clicker
-        \nTile</string>
-    <string name="counter_summary">A tile that counts clicks</string>
-    <string name="reset_counter">Reset Clicker Tile</string>
+    <string name="counter_tile">点击器
+        \n瓷贴</string>
+    <string name="counter_summary">一个计算点击数的瓷贴</string>
+    <string name="reset_counter">重置点击器瓷贴</string>
     <string name="cur_val">当前值 = %1$d </string>
     <string name="Dice">Dice</string>
     <string name="dice_desc">生成随机数字
@@ -261,8 +261,8 @@
     <string name="follow_me">在 Twitter 上关注我们</string>
     <string name="like_facebook">给我们的 Facebook 页面点赞</string>
     <string name="home">主页</string>
-    <string name="dice_desc_range">Select a custom number range for the Dice Tile</string>
-    <string name="dice_tile_range">Dice Tile Range</string>
+    <string name="dice_desc_range">选择骰子瓷贴的自定义数字范围</string>
+    <string name="dice_tile_range">骰子瓷贴范围</string>
     <string name="togglenfc">NFC
         \n开关</string>
     <string name="nfctile">NFC</string>
@@ -293,7 +293,7 @@
     <string name="edit_view1">3. 在编辑视图中，你会找到 2/3 容器，你将会在底部容器中看到新的 Shortcutter 瓷贴。
         \n\n要添加这些瓷贴，只需长按 &amp; 拖曳选中的瓷贴到顶部(现用的)容器 &amp; 退出编辑视图。</string>
     <string name="edit_view_note">重要提醒:
-        \n\n 由于 Android N 的 Bug，在添加瓷贴会显得困难，进行如下操作可以暂时解决这个问题。
+        \n\n 由于 Android N 的 Bug，在添加瓷贴时会显得困难，进行如下操作可以暂时解决这个问题。
         \n\n在 \"快捷设置瓷贴\" 标签移除不想要的瓷贴 &amp; 从可用瓷贴容器的上方移走你的新瓷贴。
         \n\n不幸的是，我未能修复这个问题，使用这个应用也无济于事。</string>
     <string name="small">字体
@@ -339,7 +339,7 @@
         \n\u2022 开关最近应用
         \n\u2022 显示电源菜单
         \n\u2022 展开通知 &amp; 快捷设置
-        \n\u2022 检测活动项 - 用于屏幕过滤 &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.</string>
+        \n\u2022 检测活动项 - 用于屏幕过滤 &amp; 屏幕圆角，这些服务将会在安装应用 &amp; 授予权限时停止。</string>
     <string name="power_dialog">电源对话框</string>
     <string name="split_screen">多窗口</string>
     <string name="lock_screen">锁定
@@ -352,7 +352,7 @@
         \n\u2022 电源菜单
         \n\u2022 分屏
         \n\u2022 检测活动项
-        \n - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
+        \n - 用于屏幕过滤 &amp; 屏幕圆角，这些服务将会在安装应用 &amp; 授予权限时停止。
         \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
     <string name="split_sum">开关分屏 / 多窗口模式</string>
     <string name="power_sum">打开电源菜单</string>
@@ -449,19 +449,19 @@
     <string name="tb_columns_summary">当前 = %s 栏</string>
     <string name="sb_columns_title">侧栏栏位</string>
     <string name="design_settings">主题 &amp; 行为</string>
-    <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
-    <string name="corners_title">Rounded Corners</string>
+    <string name="corners_summary">使用叠加层给予圆角屏幕的幻觉体验</string>
+    <string name="corners_title">圆角</string>
     <string name="corners__scale_title">屏幕圆角缩放</string>
     <string name="corners__scale_set">圆角缩放&#160;=&#160; %1$d%%</string>
     <string name="corners_scale_summary">调整屏幕圆角半径</string>
     <string name="corner_colour">选择圆角颜色</string>
     <string name="how_it_works">使用方法</string>
-    <string name="how_it_works1">Shortcutter offers several different options to access an array of shortcuts, settings &amp; services.</string>
-    <string name="how_it_works2">\u2022 Via your Quick Settings Pull-Down</string>
-    <string name="how_it_works3">\u2022 Via the Shortcutter Swipe out Sidebar or Floating Toolbox</string>
-    <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!</string>
-    <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
-    <string name="config_serv">Settings</string>
+    <string name="how_it_works1">Shortcutter 提供若干不同的选项以访问大量快捷方式、设置 &amp; 服务。</string>
+    <string name="how_it_works2">\u2022 通过你的快捷设置下拉面板</string>
+    <string name="how_it_works3">\u2022 通过 Shortcutter 滑出式侧栏或者悬浮工具箱</string>
+    <string name="how_it_works4">\u2022 通过你的应用抽屉 &amp; 主屏幕的显式开关，也可以允许启用映射到 HTC Edge Sense、Second Displays、Tasker &amp; 更多！</string>
+    <string name="attention">请参阅标签 2 的如何添加瓷贴向导。</string>
+    <string name="config_serv">设置</string>
     <string name="screenshot_root">使用 Root 截屏方法</string>
     <string name="screenshot_root_summary">使用系统截屏二进制进行截图</string>
     <string name="corners_active">圆角使用中</string>
