@@ -137,9 +137,9 @@
     <string name="tweaks_key">检测到 LeeDrOiD Tweaks 密钥
         \n 付费版功能已激活</string>
     <string name="all_prices_subject_to_tax_vat">所有价格均包含 税金/增值税*
-        \n\nPurchasing Shortcutter Premium will remove the 50 click notification &amp; enable additional Quick Settings tiles &amp; app features.</string>
+        \n\nPurchasing Shortcutter 付费版会移除 50 次点击通知 &amp; 启用额外快捷设置瓷贴 &amp; 应用功能</string>
     <string name="amin">amin</string>
-    <string name="allofthe">Either of the below options will grant you premium access, the choice is yours :)</string>
+    <string name="allofthe">以下选项均会授予你付费访问，选择权在你的手上 :)</string>
     <string name="volumeui">音量
         \n面板</string>
     <string name="manualbright">手动
@@ -165,7 +165,7 @@
     <string name="autobrightness_summary">打开/关闭自动亮度</string>
     <string name="autobrightness_tile_title">自动亮度</string>
     <string name="brightnesspreset_summary">Toggle through brightness steps
-        \n(Define steps in Tile Settings)</string>
+        \n(可在瓷贴设置中定义步骤)</string>
     <string name="brightnesspreset_tile_title">亮度预设</string>
     <string name="camera_summary">启动默认相机应用</string>
     <string name="camera_tile_title">相机</string>
@@ -309,37 +309,37 @@
     <string name="fontscale_sum">开关系统字体大小</string>
     <string name="font_scale_title">字体缩放</string>
     <string name="power_saver">省电模式</string>
-    <string name="power_save_summary">Toggle Power Saving mode</string>
-    <string name="prem_only_message">This feature is only available in the Premium version of Shortcutter.
-        \n\nPlease click GO PREMIUM now to enable the following features:
-        \n\n \u2022 Additional Custom Tiles
-        \n \u2022 Additional Custom URL Tiles
-        \n \u2022 Screen Recording &amp; Capture
-        \n \u2022 Additional in-app configuration options
-        \n \u2022 &amp; Remove the 50 tile click notification</string>
-    <string name="no_thanks">No Thanks</string>
-    <string name="add_event">Add Event</string>
-    <string name="add_event_summary">Add A Calendar Event</string>
-    <string name="location_not_found">Location settings activity not found</string>
-    <string name="power_not_found">Power settings activity not found</string>
-    <string name="nfc_not_found">NFC settings activity not found</string>
-    <string name="consider_prem">Shortcutter FREE</string>
+    <string name="power_save_summary">开关省电模式</string>
+    <string name="prem_only_message">此功能仅能在 Shortcutter 付费版使用。
+        \n\n请立即点击获取付费版以启用以下功能:
+        \n\n \u2022 额外自定义瓷贴
+        \n \u2022 额外自定义链接瓷贴
+        \n \u2022 屏幕录制 &amp; 捕获
+        \n \u2022 额外应用内配置选项
+        \n \u2022 &amp; 移除50次瓷贴点击通知</string>
+    <string name="no_thanks">不，谢谢</string>
+    <string name="add_event">添加事件</string>
+    <string name="add_event_summary">添加日历事件</string>
+    <string name="location_not_found">未找到位置设置活动项</string>
+    <string name="power_not_found">未找到电源设置活动项</string>
+    <string name="nfc_not_found">未找到 NFC 设置活动项</string>
+    <string name="consider_prem">Shortcutter 免费版</string>
     <string name="consider_prem1">Thats 50 Shortcutter clicks!
         \n\nHave you considered showing your support &amp; going Premium?
         \n\nThis notification will show every 50 tile clicks in the Free version.</string>
     <string name="screenre_cat"><![CDATA[Screen Record & Capture]]></string>
     <string name="choose_entries">Location Mode Entries (2 Minimum)</string>
-    <string name="conf_sel">Confirm Selection</string>
-    <string name="recentapps">Recent Apps</string>
-    <string name="settings_system_required">Write System Settings permission required - Toggle to enable</string>
-    <string name="usage_access_required">Usage Access permissions required - Toggle to enable</string>
-    <string name="dnd_required">Do Not Distrurb access required - Toggle to enable</string>
-    <string name="accessibility_description">Allows shortcutter to perform the following accessibility actions
-        \n\n\u2022 Toggle Split Screen
-        \n\u2022 Toggle Recent Apps
-        \n\u2022 Show Power Menu
-        \n\u2022 Expand Notifications &amp; Quick Settings
-        \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.</string>
+    <string name="conf_sel">确认选择</string>
+    <string name="recentapps">最近应用</string>
+    <string name="settings_system_required">需要写入系统设置权限 - 点击以启用</string>
+    <string name="usage_access_required">需要使用情况访问权限 - 点击以启用</string>
+    <string name="dnd_required">需要勿扰模式访问 - 点击以启用</string>
+    <string name="accessibility_description">允许 Shortcutter 执行以下辅助操作
+        \n\n\u2022 开关分屏
+        \n\u2022 开关最近应用
+        \n\u2022 显示电源菜单
+        \n\u2022 展开通知 &amp; 快捷设置
+        \n\u2022 检测活动项 - 用于屏幕过滤 &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.</string>
     <string name="power_dialog">Power Dialog</string>
     <string name="split_screen">Multi Window</string>
     <string name="lock_screen">Lock
