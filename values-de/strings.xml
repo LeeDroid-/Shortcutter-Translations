@@ -662,8 +662,8 @@
     <string name="disable_change">Zuordnung deaktivieren oder ändern?</string>
     <string name="change">Ändere</string>
     <string name="disable_screen_off">On-Screen deaktivieren AUS</string>
-    <string name="unknown_sources" >Allow Unknown Sources</string>
-    <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
-    <string name="cast">Cast</string>
-    <string name="cast_summary">Launches the Screen Cast device list</string>
+    <string name="unknown_sources" >Unbekannte Quellen zulassen</string>
+    <string name="unknownsource_tile_summary">Unbekannte Quellen zulassen / Installation marktfremder Apps</string>
+    <string name="cast">Bildschirmübertragung</string>
+    <string name="cast_summary">Zeigt die Geräteliste zur Bildschirmübertragung an</string>
 </resources>
