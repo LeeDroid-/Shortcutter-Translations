@@ -653,8 +653,8 @@
     <string name="left_hand_mode">Tryb Lewej Ręki</string>
     <string name="ime_method">Wybieranie IME</string>
     <string name="wrap">Ustaw na: Zawijanie Zawartości</string>
-    <string name="fill">Ustaw na: Wypełnij Ekran</string>
-    <string name="height">Wypełnij ekran / zawijanie zawartości</string>
+    <string name="fill">Ustaw na: Wypełnienie Ekranu</string>
+    <string name="height">Wypełnienie ekranu / zawijanie zawartości</string>
     <string name="ime_summary">Zmień metodę wprowadzania</string>
     <string name="auto_start">Auto Start Czasu</string>
     <string name="auto_stop">Auto Stop Czasu</string>
