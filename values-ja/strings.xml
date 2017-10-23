@@ -242,7 +242,7 @@
     <string name="dice_desc">Generates a random number
         \n(Change range in Tile Settings)</string>
     <string name="auto_step">Auto Brightness Step</string>
- <string name="file_tile">File
+    <string name="file_tile">File
         \nBrowser</string>
     <string name="file_summary">Launches default file browser</string>
     <string name="new_tweet">New
