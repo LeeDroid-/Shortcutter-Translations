@@ -668,6 +668,6 @@
     <string name="appwidget_text">PRZYKŁAD</string>
     <string name="configure">Konfiguruj</string>
     <string name="add_widget">Dodaj widżet</string>
-    <string name="unknown_sources">Zezwalaj na nieznane Źródła</string>
+    <string name="unknown_sources">Zezwalaj na Nieznane Źródła</string>
     <string name="unknownsource_tile_summary">Zezwalaj na nieznane źródła / Instalowanie aplikacji innych niż ze sklepu</string>
 </resources>
