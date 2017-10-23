@@ -328,7 +328,7 @@
         \n\n是否考虑展示你的支持 &amp; 获取付费版？
         \n\n在免费版中，每点击瓷贴 50 次会显示这条通知。</string>
     <string name="screenre_cat"><![CDATA[屏幕录制 & 捕获]]></string>
-    <string name="choose_entries">位置模式条目 (最小 2 条)</string>
+    <string name="choose_entries">位置模式条目 (最少 2 条)</string>
     <string name="conf_sel">确认选择</string>
     <string name="recentapps">最近应用</string>
     <string name="settings_system_required">需要写入系统设置权限 - 点击以启用</string>
@@ -493,7 +493,7 @@
     <string name="mylocation_summary">显示当前位置，附有在地图上查看或分享的选项。</string>
     <string name="loading_map">正在加载地图....</string>
     <string name="swipe_out">滑出以关闭</string>
-    <string name="choose_ring_entries">情景模式条目 (最小 2 条)</string>
+    <string name="choose_ring_entries">情景模式条目 (最少 2 条)</string>
     <string name="qs_head_title">快捷设置标题瓷贴</string>
     <string name="acc_needed_corners">这个叠加层需要无障碍访问用于:
         \n\n \u2022 检测安全活动项。
@@ -571,7 +571,7 @@
     <string name="behaviour">变更瓷贴的行为</string>
     <string name="perms_now">启用服务时需要请求这些权限。</string>
     <string name="forceEnglish">强制使用英文</string>
-    <string name="force_eng_summary">使用英文语言使用这个应用</string>
+    <string name="force_eng_summary">将应用语言切换成英文</string>
     <string name="xiaomi">你的设备需要授予应用程序的自启权限，如果未启用这个权限， Shortcutter 的后台服务将会被终止。\n\n请点击继续 &amp; 启用 Shortcutter 的自启权限。</string>
     <string name="bat_opt"><![CDATA[Shortcutter 包含若干后台服务，在某些情况下，Android 可能会在设备进入休眠时终止这些服务，要防止这个问题的发生，我推荐通过设置 > 电源停用对 Shortcutter 的电池优化。\n\n我喜欢你能喜欢这个应用!]]></string>
     <string name="failed_window_add">添加窗口失败，请打开应用并确保已经授予屏幕叠加层权限</string>
@@ -595,7 +595,7 @@
     <string name="design_sb_settings">配置你的 Shortcutter 侧栏/工具箱</string>
     <string name="enable_tiles_tb">启用/停用侧栏瓷贴</string>
     <string name="detect_touch">触摸 &amp; 滑动触发器</string>
-    <string name="touch_and_swipe">当触摸触发器或者向(上方, down or inward)\n滑动时打开侧栏</string>
+    <string name="touch_and_swipe">当触摸触发器或者向(上方、下方或内部)\n滑动时打开侧栏</string>
     <string name="swipe_only">当向(上方、下方或内部)\n滑动时打开侧栏</string>
     <string name="hide_header_sum">侧栏/工具箱标题已移除</string>
     <string name="hide_header_off_sum">侧栏/工具箱标题可见</string>
