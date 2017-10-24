@@ -277,8 +277,7 @@ Usage"</string>
     <string name="filter_colour">Выберите цвет фильтра</string>
     <string name="filter_off_secure">Фильтр Экрана приостановлен: обнаружена активность</string>
     <string name="filter_tile_title">Фильтр экрана</string>
-    <string name="flash_sale">Я предлагаю 30%-ю скидку на Shortcutter Премиум до 4 октября!
-Пожалуйста, выберите опцию £1,89 в окне покупки премиум.</string>
+    <string name="flash_sale">30% Off Shortcutter Premium!\nPlease select the £1.89 option in the purchase premium screen.</string>
     <string name="flash_summary">Переключение камеры/фонарик</string>
     <string name="flash_tile_title">Фонарик</string>
     <string name="flashlight">Фонарик</string>
@@ -681,5 +680,10 @@ Usage"</string>
     <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
     <string name="cast">Cast</string>
     <string name="cast_summary">Launches the Screen Cast device list</string>
+    <string name="horizontal_scale">Horizontal Scale</string>
+    <string name="vertical_scale">Vertical Scale</string>
+    <string name="submit_icons">Submit your own icons using the Email feeback option</string>
+    <string name="premium">Premium</string>
+    <string name="free">FREE</string>
 
 </resources>

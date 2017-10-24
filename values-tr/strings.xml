@@ -600,7 +600,7 @@
     <string name="tile_icons">Sekmeler/İkonlar</string>
     <string name="labels">Sekme Etiketleri</string>
     <string name="icon_scale">İkon Boyutu</string>
-    <string name="flash_sale">10% off Shortcutter Premium!\nPlease select the £1.89 option in the purchase premium screen.</string>
+    <string name="flash_sale">30% off Shortcutter Premium!\nPlease select the £1.89 option in the purchase premium screen.</string>
     <string name="sale">Shortcutter Flash Sale</string>
     <string name="dim">Karartma -</string>
     <string name="dimup">Karartma +</string>
@@ -664,4 +664,9 @@
     <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
     <string name="cast">Cast</string>
     <string name="cast_summary">Launches the Screen Cast device list</string>
+    <string name="horizontal_scale">Horizontal Scale</string>
+    <string name="vertical_scale">Vertical Scale</string>
+    <string name="submit_icons">Submit your own icons using the Email feeback option</string>
+    <string name="premium">Premium</string>
+    <string name="free">FREE</string>
 </resources>

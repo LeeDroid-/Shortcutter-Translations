@@ -151,7 +151,6 @@
     <string name="qbright_lev">亮度
         \n%1$d%%</string>
     <string name="noalarm">无闹钟</string>
-    <string name="swipe_left">向左滑动以继续</string>
     <string name="availableram">可用
         \nRAM</string>
     <string name="network_mode">网络模式</string>
@@ -213,7 +212,6 @@
     <string name="oncharge_tile_title">充电时屏幕常亮</string>
     <string name="choose_button_label">选择</string>
     <string name="error_dir_access">目录无法访问</string>
-    <string name="label_parent_dir">…</string>
     <string name="label_parent_directory">父目录</string>
     <string name="last_edit">上次编辑: </string>
     <string name="select">选择</string>
@@ -507,11 +505,9 @@
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;快捷设置 v%1$s </string>
     <string name="nigh_light">夜光模式</string>
     <string name="brightness">屏幕亮度</string>
-    <string name="scnigh_light">Shortcutter\n夜光模式</string>
     <string name="nightlight_summary">提供一个始终亮屏的夜光 &amp; 时钟显示，增加一个切换桌面时钟模式的按钮</string>
     <string name="deskmode">桌面时钟\n模式</string>
     <string name="lightmode">夜光\n模式</string>
-    <string name="scdesk">Shortcutter\n桌面时钟</string>
     <string name="expand_collapse">侧栏展开</string>
     <string name="expose_toggler">创建额外的 \"侧栏展开\" 图标以便从你的主屏幕或其他应用打开/关闭侧栏或工具栏。</string>
     <string name="permissions">管理权限</string>
@@ -663,10 +659,13 @@
     <string name="disable_change">停用或变更任务?</string>
     <string name="change">变更</string>
     <string name="disable_screen_off">息屏时停用</string>
-     <string name="app_data">应用数据</string>
-    <string name="appwidget_text">示例</string>
-    <string name="configure">配置</string>
-    <string name="add_widget">添加小部件</string>
     <string name="unknown_sources">允许未知来源</string>
     <string name="unknownsource_tile_summary">允许未知来源 / 非市场应用的安装</string>
+    <string name="cast">Cast</string>
+    <string name="cast_summary">Launches the Screen Cast device list</string>
+    <string name="horizontal_scale">Horizontal Scale</string>
+    <string name="vertical_scale">Vertical Scale</string>
+    <string name="submit_icons">Submit your own icons using the Email feeback option</string>
+    <string name="premium">Premium</string>
+    <string name="free">FREE</string>
 </resources>

@@ -604,7 +604,7 @@
     <string name="tile_icons">Kacheln / Symbole</string>
     <string name="labels">Kachelbeschriftung</string>
     <string name="icon_scale">Symbolgröße</string>
-    <string name="flash_sale">10% Rabatt auf Shortcutter Premium!\nBitte wähle die £1.89 in der Premiumkaufoption.</string>
+    <string name="flash_sale">30% Rabatt auf Shortcutter Premium!\nBitte wähle die £1.89 in der Premiumkaufoption.</string>
     <string name="sale">Shortcutter Blitz Verkauf</string>
     <string name="dim">Dimmen -</string>
     <string name="dimup">Dimmen +</string>
@@ -662,8 +662,13 @@
     <string name="disable_change">Zuordnung deaktivieren oder ändern?</string>
     <string name="change">Ändere</string>
     <string name="disable_screen_off">On-Screen deaktivieren AUS</string>
-    <string name="unknown_sources" >Unbekannte Quellen zulassen</string>
+    <string name="unknown_sources">Unbekannte Quellen zulassen</string>
     <string name="unknownsource_tile_summary">Unbekannte Quellen zulassen / Installation marktfremder Apps</string>
     <string name="cast">Bildschirmübertragung</string>
     <string name="cast_summary">Zeigt die Geräteliste zur Bildschirmübertragung an</string>
+    <string name="horizontal_scale">Horizontal Scale</string>
+    <string name="vertical_scale">Vertical Scale</string>
+    <string name="submit_icons">Submit your own icons using the Email feeback option</string>
+    <string name="premium">Premium</string>
+    <string name="free">FREE</string>
 </resources>
