@@ -592,4 +592,6 @@
     <string name="submit_icons">Enviar os seus próprios ícones usando a aopção de  feeback por email</string>
     <string name="premium">Premium</string>
     <string name="free">GRÁTIS</string>
+    <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
+    <string name="force_refresh">Force Refresh</string>
 </resources>

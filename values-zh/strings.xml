@@ -668,4 +668,6 @@
     <string name="submit_icons">使用 Email 反馈选项提交你自己的图标</string>
     <string name="premium">付费版</string>
     <string name="free">免费版</string>
+    <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
+    <string name="force_refresh">Force Refresh</string>
 </resources>
