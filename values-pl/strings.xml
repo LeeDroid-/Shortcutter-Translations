@@ -210,11 +210,6 @@
 	    \nładowanie</string>
     <string name="onwhilecharge_summary">Trzymaj wł ekran, gdy podłączony</string>
     <string name="oncharge_tile_title">Ekran Wł Podczas Ładowania</string>
-    <string name="choose_button_label">Wybierz</string>
-    <string name="error_dir_access">Katalog nie jest dostępny</string>
-    <string name="label_parent_directory">Główny Katalog</string>
-    <string name="last_edit">Ostatnio edytowane:</string>
-    <string name="select">Wybierz</string>
     <string name="countdown">Płytka Odliczania</string>
     <string name="new_message">Nowa 
 	    \nWiadomość</string>
@@ -672,4 +667,6 @@
     <string name="free">FREE</string>
     <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
     <string name="force_refresh">Force Refresh</string>
+    <string name="vpn">VPN</string>
+    <string name="vpn_summary">Opens VPN Settings</string>
 </resources>

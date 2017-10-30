@@ -213,11 +213,6 @@
         \nEkranı Açık Tut</string>
     <string name="onwhilecharge_summary">Şarj ederken ekranı açık tutar.</string>
     <string name="oncharge_tile_title">Şarj ederken ekran açık</string>
-    <string name="choose_button_label">Seç</string>
-    <string name="error_dir_access">Klasöre ulaşılamıyor</string>
-    <string name="label_parent_directory">Ana Klasör</string>
-    <string name="last_edit">Son düzenlenen </string>
-    <string name="select">Seç</string>
     <string name="countdown">Geri Sayım Sekmesi</string>
     <string name="new_message">Yeni
         \nMessage</string>
@@ -671,4 +666,6 @@
     <string name="free">FREE</string>
     <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
     <string name="force_refresh">Force Refresh</string>
+    <string name="vpn">VPN</string>
+    <string name="vpn_summary">Opens VPN Settings</string>
 </resources>

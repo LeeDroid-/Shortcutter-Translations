@@ -133,7 +133,6 @@ Click proceed, go to Shortcutter &amp; enable the service.
     <string name="capture_quality">Качество захвата</string>
     <string name="celsius">Цельсия</string>
     <string name="choose_activity">Выбор Активити</string>
-    <string name="choose_button_label">Выбор</string>
     <string name="choose_entries">Режим записи местоположение (минимум 2)</string>
     <string name="choose_function">Функция выбор</string>
     <string name="choose_location">Выберите местоположение</string>
@@ -252,7 +251,6 @@ Usage"</string>
     <string name="enjoying">Нравится Shortcutter?</string>
     <string name="enter_shell_command">Команды оболочки</string>
     <string name="enter_url">Введите веб-адрес или поисковый запрос</string>
-    <string name="error_dir_access">Directory cannot be accessed</string>
     <string name="exit">Выход</string>
     <string name="exp_notif">Разверните узел уведомления</string>
     <string name="exp_notif_sum">Расширяет уведомления ПулДаун</string>
@@ -331,12 +329,10 @@ Usage"</string>
     <string name="info_toggles">Информационные плитки</string>
     <string name="install_shortcut">"Установить
 Ярлык"</string>
-    <string name="label_parent_directory">Родительский каталог</string>
     <string name="labels">Меток мозаичных элементов</string>
     <string name="landscape">Пейзаж</string>
     <string name="large">Большой шрифт</string>
     <string name="largest">Шрифт крупнейших</string>
-    <string name="last_edit">Отредактированный:</string>
     <string name="launch_loc">Запускает параметры &gt; Местоположение/n(if no settings secure access)</string>
     <string name="launch_power">Запускает настройки
 (если параметры не безопасный доступ)</string>
@@ -515,7 +511,6 @@ Usage"</string>
     <string name="search_summary">Поиск Google</string>
     <string name="search_tile">Веб-поиск</string>
     <string name="secure_access">Параметры безопасного доступа</string>
-    <string name="select">Выбор</string>
     <string name="select_day">Сброс данных выберите день</string>
     <string name="select_net_mode">Выберите сетевой режим</string>
     <string name="select_shortcut">Выберите ярлык для установки</string>
@@ -687,5 +682,7 @@ Usage"</string>
     <string name="free">FREE</string>
     <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
     <string name="force_refresh">Force Refresh</string>
+    <string name="vpn">VPN</string>
+    <string name="vpn_summary">Opens VPN Settings</string>
 
 </resources>

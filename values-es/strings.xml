@@ -211,11 +211,6 @@
         \nal cargar</string>
     <string name="onwhilecharge_summary">Mantener la pantalla encendida al cargar</string>
     <string name="oncharge_tile_title">Encendida al cargar</string>
-    <string name="choose_button_label">Seleccionar</string>
-    <string name="error_dir_access">El directorio es inaccesible</string>
-    <string name="label_parent_directory">Directorio principal</string>
-    <string name="last_edit">Última edición: </string>
-    <string name="select">Seleccionar</string>
     <string name="countdown">Cuenta atrás</string>
     <string name="new_message">Nuevo
         \nmensaje</string>
@@ -671,4 +666,6 @@
     <string name="free">FREE</string>
     <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
     <string name="force_refresh">Force Refresh</string>
+    <string name="vpn">VPN</string>
+    <string name="vpn_summary">Opens VPN Settings</string>
 </resources>

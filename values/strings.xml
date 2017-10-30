@@ -210,12 +210,6 @@
         \nCharging</string>
     <string name="onwhilecharge_summary">Keep screen on when plugged in</string>
     <string name="oncharge_tile_title">Screen On While Charging</string>
-    <string name="choose_button_label">Select</string>
-    <string name="error_dir_access">Directory cannot be accessed</string>
-    <string name="label_parent_dir" translatable="false">…</string>
-    <string name="label_parent_directory">Parent Directory</string>
-    <string name="last_edit">Last edited: </string>
-    <string name="select">Select</string>
     <string name="countdown">Countdown</string>
     <string name="new_message">New
         \nMessage</string>
@@ -689,4 +683,6 @@
     <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
     <string name="force_refresh">Force Refresh</string>
     <string name="add_tiles_url" translatable="false">https://youtu.be/JhbGPtRn56c</string>
+    <string name="vpn">VPN</string>
+    <string name="vpn_summary">Opens VPN Settings</string>
 </resources>

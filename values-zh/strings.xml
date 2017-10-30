@@ -210,11 +210,6 @@
         \n屏幕常亮</string>
     <string name="onwhilecharge_summary">插入电源时保持屏幕常亮</string>
     <string name="oncharge_tile_title">充电时屏幕常亮</string>
-    <string name="choose_button_label">选择</string>
-    <string name="error_dir_access">目录无法访问</string>
-    <string name="label_parent_directory">父目录</string>
-    <string name="last_edit">上次编辑: </string>
-    <string name="select">选择</string>
     <string name="countdown">倒计时</string>
     <string name="new_message">新
         \n消息</string>
@@ -670,4 +665,6 @@
     <string name="free">免费版</string>
     <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
     <string name="force_refresh">Force Refresh</string>
+    <string name="vpn">VPN</string>
+    <string name="vpn_summary">Opens VPN Settings</string>
 </resources>

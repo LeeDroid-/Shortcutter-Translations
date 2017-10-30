@@ -186,11 +186,6 @@
     <string name="on_while_charge">Ligado ao\nCarregar</string>
     <string name="onwhilecharge_summary">Mantem o ecrã ligado enquanto carrega in</string>
     <string name="oncharge_tile_title">Ecrã Ligado ao Carregar</string>
-    <string name="choose_button_label">Selecionar</string>
-    <string name="error_dir_access">Diretório inacessível</string>
-    <string name="label_parent_directory">Diretório Acima</string>
-    <string name="last_edit">Editado em: </string>
-    <string name="select">Selecionar</string>
     <string name="countdown">Mosaico Contagem Decrescente</string>
     <string name="new_message">Nova \nMenssagem</string>
     <string name="cap_store_title">Armazenamento de Captura de Ecrã</string>
@@ -594,4 +589,6 @@
     <string name="free">GRÁTIS</string>
     <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
     <string name="force_refresh">Force Refresh</string>
+    <string name="vpn">VPN</string>
+    <string name="vpn_summary">Opens VPN Settings</string>
 </resources>

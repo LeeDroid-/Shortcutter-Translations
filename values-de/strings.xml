@@ -209,11 +209,6 @@
         \nAufladen</string>
     <string name="onwhilecharge_summary">Bildschirm anlassen während Gerät angeschlossen</string>
     <string name="oncharge_tile_title">Bildschirm AN während des Aufladens</string>
-    <string name="choose_button_label">Wähle</string>
-    <string name="error_dir_access">Auf Ziel kann nicht zugegriffen werden</string>
-    <string name="label_parent_directory">Übergeordnetes Verzeichnis</string>
-    <string name="last_edit">Letzte Änderung: </string>
-    <string name="select">Wähle</string>
     <string name="countdown">Countdown</string>
     <string name="new_message">Neue
         \nNachricht</string>
@@ -673,4 +668,6 @@
     <string name="free">FREE</string>
     <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
     <string name="force_refresh">Force Refresh</string>
+    <string name="vpn">VPN</string>
+    <string name="vpn_summary">Opens VPN Settings</string>
 </resources>
