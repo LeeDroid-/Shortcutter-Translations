@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="location_mode_entries">
-        <item>Off</item>
-        <item>Device Only</item>
-        <item>Battery Saving</item>
-        <item>High Accuracy</item>
+        <item>Kapalı</item>
+        <item>Yalnızca Cihaz</item>
+        <item>Pil Tasarrufu</item>
+        <item>Yüksek Doğruluk</item>
     </string-array>
     <string-array name="location_mode_values">
         <item>0</item>
@@ -13,9 +13,9 @@
         <item>3</item>
     </string-array>
     <string-array name="ring_mode_entries">
-        <item>Silent</item>
-        <item>Vibrate</item>
-        <item>Ring</item>
+        <item>Sessiz</item>
+        <item>Titreşim</item>
+        <item>Sesli</item>
     </string-array>
     <string-array name="ring_mode_values">
         <item>0</item>
@@ -23,9 +23,9 @@
         <item>2</item>
     </string-array>
     <string-array name="sidebar_tmb_entries">
-        <item>Top</item>
-        <item>Center</item>
-        <item>Bottom</item>
+        <item>Üst</item>
+        <item>Orta</item>
+        <item>Alt</item>
     </string-array>
     <string-array name="sidebar_tmb_values">
         <item>0</item>
@@ -35,7 +35,7 @@
     <string-array name="tb_columns_entries">
         <item>2</item>
         <item>3</item>
-        <item>4 (Default)</item>
+        <item>4 (Varsayılan)</item>
         <item>5</item>
     </string-array>
     <string-array name="tb_columns_values">
@@ -46,7 +46,7 @@
     </string-array>
     <string-array name="sb_columns_entries">
         <item>1</item>
-        <item>2 (Default)</item>
+        <item>2 (Varsayılan)</item>
         <item>3</item>
         <item>4</item>
         <item>5</item>
@@ -62,20 +62,20 @@
         <item>1080p</item>
         <item>720p</item>
         <item>480p</item>
-        <item>HIGH</item>
+        <item>YÜKSEK</item>
         <item>QVGA</item>
     </string-array>
     <string-array name="cust_tile_choice">
-        <item>Application</item>
-        <item>Activity (Advanced)</item>
-        <item>Shortcut</item>
-        <item>Web Link</item>
+        <item>Uygulama</item>
+        <item>Etkinlik (Gelişmiş)</item>
+        <item>Kısayol</item>
+        <item>İnternet Bağlantısı</item>
     </string-array>
     <string-array name="cust_tile_choice_root">
-        <item>Application</item>
-        <item>Activity (Advanced)</item>
-        <item>Shortcut</item>
-        <item>Web Link</item>
-        <item>Shell Command</item>
+        <item>Uygulama</item>
+        <item>Etkinlik (Gelişmiş)</item>
+        <item>Kısayol</item>
+        <item>İnternet Bağlantısı</item>
+        <item>Kabuk Komutu</item>
     </string-array>
 </resources>
