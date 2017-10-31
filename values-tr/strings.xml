@@ -281,16 +281,16 @@ d<?xml version="1.0" encoding="utf-8"?>
     <string name="data_tile_title">Mobil İnternet kullanımı Sekmesi</string>
     <string name="failed_data_usage">Mobil internet kullanımı başlatılamadı.</string>
     <string name="how_to">Sekmelerin nasıl eklendiğini öğrenmek için tıklayın.</string>
-    <string name="addtiles_title">Sekme nasıl eklenir - Klavuz</string>
-    <string name="select_tiles"><![CDATA[1. Shortcutter 'ı açın\"Bildirimmm\" tab & make your QS Tile selections.]]></string>
-    <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below, this is usually a pen icon.
-    \n\n Samsung users hit the 3 dot menu and select rearrange tiles.\n\n your Shortcutter tiles will show in the bottom view.]]></string>
-    <string name="edit_view1">3. In the Edit View you will find 2/3 containers, you will see your new Shortcutter tiles in the bottom container.
-        \n\nTo add them, simply long press and drag your chosen tiles up to the top (Active) container and exit the Edit View.</string>
-    <string name="edit_view_note">IMPORTANT NOTE:
-        \n\n Due to a bug in Android N, you may struggle to add tiles, this can be worked around by doing the following.
-        \n\nRemove any tiles you do not want in the \"Pulldown Tile Settings\" tab &amp; take your new tiles from the TOP of the available tiles container.
-        \n\nUnfortunately this is not something I can fix as it has nothing to do with the app.</string>
+    <string name="addtiles_title">Sekme nasıl eklenir? - Klavuz</string>
+    <string name="select_tiles"><![CDATA[1. Shortcutter 'ı açın\"Hızlı ayarlar ayarları\" tıklayın ve kendinize özel HA sekmelerini seçin.]]></string>
+    <string name="edit_view"><![CDATA[2. Durum çubuğunu aşağı çekin ve düzenleye tıklayın, bu genellikle bir kalem ikonudur.
+    \n\n Samsung kullanıcıları 3 noktalı ayarlar menüsünden yerdeğişrtiri seçin.\n\n Seçtiğiniz Shortcutter sekmeleri en altta gözükecekler.]]></string>
+    <string name="edit_view1">3. eklenebilecek ayarlarda 2 veya 3 bölüm göreceksiniz, seçtiğiniz sekmeler en altta gözükecekler.
+        \n\nuzun basıp sürükleyerek sekmeleri yukarıdaki aktif alana taşıyıp, düzenlemeden çıkabilirsiniz.</string>
+    <string name="edit_view_note">ÖNEMLİ NOT:
+        \n\nAndroid 6 ve 7 de ki bir hatadan dolayı yukarı taşımakla ilgili sıkıntı yaşayabilirsiniz, aşağıdaki yöntemi uygulayarak bu durumu düzeltebilirsiniz.
+        \n\nHızlı ayarlarda gözükmesini istemediğiniz ayarları kaldırın\" tab &amp; eklemek istediğiniz sekmeleri en alt bölümdekilerin başına taşıyın ve ordan yukarıdaki aktif alana taşıyın.
+        \n\nNe yazık ki bu Androidi yapanların hatası ve bunu düzeltmek için uygulamaya ekleyebileceğim bir çözüm yok.</string>
     <string name="small">Yazı Karakteri
         \nKüçük</string>
     <string name="large">Yazı Karakteri
@@ -326,7 +326,7 @@ d<?xml version="1.0" encoding="utf-8"?>
     <string name="choose_entries">Konum Modu Seçici (En az 2 tane)</string>
     <string name="conf_sel">Seçimi onaylayın</string>
     <string name="recentapps">Son kullanılan uygulamalar</string>
-    <string name="settings_system_required">Sistem ayarlarını değiştirme izni gerekli - Toggle to enable</string>
+    <string name="settings_system_required">Sistem ayarlarını değiştirme izni gerekli - aktifleştirmek için tıklayın</string>
     <string name="usage_access_required">Kullanım erişimi izni gerekli - İzin vermek için tıklayın</string>
     <string name="dnd_required">Rahatsız Etme erişim izni gerekli - İzin vermek için tıklayın</string>
     <string name="accessibility_description">Shortcutter şu ulaşılabilirlik özelliklerinin kullanmasını sağlar:
@@ -595,8 +595,8 @@ d<?xml version="1.0" encoding="utf-8"?>
     <string name="tile_icons">Sekmeler/İkonlar</string>
     <string name="labels">Sekme Etiketleri</string>
     <string name="icon_scale">İkon Boyutu</string>
-    <string name="flash_sale">30% off Shortcutter Premium!\nPlease select the £1.89 option in the purchase premium screen.</string>
-    <string name="sale">Shortcutter Flash Sale</string>
+    <string name="flash_sale">30% indirim Shortcutter Premium!\nLütfen satınalma menüsünde £1.89 seçneğini seçin.</string>
+    <string name="sale">Shortcutter Süper İndirim</string>
     <string name="dim">Karartma -</string>
     <string name="dimup">Karartma +</string>
     <string name="screen_dim">Ekran Karartma =&#160;</string>
@@ -637,35 +637,35 @@ d<?xml version="1.0" encoding="utf-8"?>
     <string name="trig_alpha">Pil ayarlarında, shortcutter uygulamasını pil optimizasyonundan çıkarırsanız bu sorun çözülür.</string>
     <string name="problem">Problemleriniz ve önerileriniz için\? \n Lütfen e-mail atın :)</string>
     <string name="opacity">Saydamlık =</string>
-    <string name="onehand">One Handed (Experimental)</string>
-    <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
-    <string name="enter_shell_command">Shell Command</string>
-    <string name="drag_out">Long press to change assignment</string>
-    <string name="left_hand_mode">Left Handed Mode</string>
-    <string name="ime_method">IME Selector</string>
+    <string name="onehand">Tek el modu (Denemede)</string>
+    <string name="onehanded_summary">Ekranı sağ alt köşeye küçültür, her uygulama düzgün boyutlanmayabilir.</string>
+    <string name="enter_shell_command">Sistem Görevi</string>
+    <string name="drag_out">görevi değiştirmek için uzun basın</string>
+    <string name="left_hand_mode">solak modu</string>
+    <string name="ime_method">IME Seçici</string>
     <string name="wrap">Set to: wrap contents</string>
-    <string name="fill">Set to: Fill Vertically</string>
+    <string name="fill">Set to: Dikey doldurma</string>
     <string name="height">Fill Screen/Wrap Contents</string>
     <string name="ime_summary">Change in use input method</string>
-    <string name="auto_start">Auto Start Time</string>
-    <string name="auto_stop">Auto Stop Time</string>
-    <string name="clear_schedule">Clear Schedules</string>
-    <string name="reset_alarms">Are you sure you want to clear your Screen Filter schedules?</string>
-    <string name="tile_name">Tile Name (Auto if blank)</string>
-    <string name="disable_change">Disable or change assignment?</string>
-    <string name="change">Change</string>
+    <string name="auto_start">Zamanı otomatik başlat</string>
+    <string name="auto_stop">Zamanı otomatik durdur</string>
+    <string name="clear_schedule">Zamanlamaları temizle</string>
+    <string name="reset_alarms">Ekran filtresi zamanlamalarını temizlemek istediğinizden emin misiniz? schedules?</string>
+    <string name="tile_name">Sekme adı (Boş bırakırsanız otomatik)</string>
+    <string name="disable_change">Görevi devredışı bırak veya değiştir?</string>
+    <string name="change">Değiştir</string>
     <string name="disable_screen_off">Disable on Screen Off</string>
-    <string name="unknown_sources">Allow Unknown Sources</string>
-    <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
+    <string name="unknown_sources">Bilinmeyen kaynaklara izin ver</string>
+    <string name="unknownsource_tile_summary">Bilinmeyen kaynaklara izin ver / Google play dışından uygulama yükleme</string>
     <string name="cast">Cast</string>
     <string name="cast_summary">Launches the Screen Cast device list</string>
-    <string name="horizontal_scale">Horizontal Scale</string>
-    <string name="vertical_scale">Vertical Scale</string>
+    <string name="horizontal_scale">Yatay</string>
+    <string name="vertical_scale">Dikey</string>
     <string name="submit_icons">Submit your own icons using the Email feeback option</string>
     <string name="premium">Premium</string>
-    <string name="free">FREE</string>
+    <string name="free">ÜCRETSİZ</string>
     <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
-    <string name="force_refresh">Force Refresh</string>
+    <string name="force_refresh">Yenilemeye zorla</string>
     <string name="vpn">VPN</string>
-    <string name="vpn_summary">Opens VPN Settings</string>
+    <string name="vpn_summary"VPN ayarlarını aç</string>
 </resources>
