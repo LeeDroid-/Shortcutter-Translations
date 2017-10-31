@@ -2,16 +2,16 @@
 <resources>
     <string name="app_name">Shortcutter</string>
     <string name="cancel">İptal</string>
-    <string name="autosync">Otomatik Senkronize</string>
+    <string name="autosync">Otomatik Senk</string>
     <string name="locationMode">Konum Modu</string>
-    <string name="HeadsUp">Üst Bildirimler</string>
+    <string name="HeadsUp">Üst Bildirim</string>
     <string name="no_perms">İzin yok</string>
     <string name="Off">Kapalı</string>
-    <string name="device_only">Sadece GPS</string>
+    <string name="device_only">Yalnızca Cihaz</string>
     <string name="battery_saving">Pil Tasarrufu</string>
-    <string name="high_accuracy">Yüksek Hassasiyet</string>
+    <string name="high_accuracy">Yüksek Doğruluk</string>
     <string name="special_perms_command">Tamamlandığında onaylamayı tıklayın, erişim test edilecek, başarısız olursa tekrar deneyin.</string>
-    <string name="special_perms_required">"Özel erişim izin gerekli
+    <string name="special_perms_required">"Özel erişim izni gerekli
         \n\nÇalıştırmayı Dene: "</string>
     <string name="wifi_call">Wi-Fi Telefon Görüşmesi</string>
     <string name="adb">ADB</string>
@@ -59,7 +59,7 @@
     <string name="ring_mode">Zil Sesi Modu</string>
     <string name="Screen_timeout">Uyku</string>
     <string name="alarm_tile">Sonraki Alarm</string>
-    <string name="need_dnd">Uygulama İzni Yok, Lütfen shortcutter için DND izni verin</string>
+    <string name="need_dnd">"İzin Yok, lütfen shortcutter'ın DND'yi geçersiz kılmasına izin verin"</string>
     <string name="next_alarm">Sonraki Alarm
         \n</string>
     <string name="vibrate">Titreşim</string>
@@ -74,62 +74,61 @@
         \n\nGerekli izinlerin verilebileceği ayarlara ulaşmak için tıklayın.\n</string>
     <string name="press_back">Etkinleştirildiğinde geriye tıklayın.</string>
     <string name="credits">Katkıda Bulunanlar</string>
-    <string name="full_title">Shortcutter Hızlı Ayarlars</string>
-    <string name="thanks_for_support">"   Desteğiniz için teşekkürler! :)"</string>
+    <string name="full_title">Shortcutter Hızlı Ayarlar</string>
+    <string name="thanks_for_support">"   Desteğiniz için teşekkürler!  :)"</string>
     <string name="premuim">Shortcutter Premium</string>
     <string name="confirm_disable_root">Tüm root özelliklerini kapatmak üzeresiniz. Root gerektiren tüm sekmeler kaldırılacaktır.
-        \n\nDevam etmek istiyor musunuz??</string>
+        \n\nDevam etmek istiyor musunuz?</string>
     <string name="please_confirm">Lütfen Onaylayın</string>
-    <string name="nothing_selected">Seçili öğe yok</string>
+    <string name="nothing_selected">Seçili Öğe Yok</string>
     <string name="selected">"Seçilen: "</string>
     <string name="camera">Kamera</string>
     <string name="flashlight">Fener</string>
     <string name="ambient_display">Otomatik Parlaklık</string>
-    <string name="reboot_now">Şimdi Yeniden Başlat?</string>
-    <string name="root_available">Cihazınız Rootlu.
+    <string name="reboot_now">Şimdi Yeniden Başlatılsın mı?</string>
+    <string name="root_available">Cihazınız Rootlanmış gibi görünüyor.
         \n Daha fazla sekme eklemek için etkinleştirin!</string>
-    <string name="available_in_prem1">\u2022 Limitli Kullanım &amp; 50 Tıklma Bildirimi,
-        \n</string>
-    <string name="available_in_prem3">Şimdi Premium satın al &amp; @LeeDrOiD \'e destek olun!</string>
-    <string name="ad_supported">Shortcutter ÜCRETSİZ versiyon</string>
+    <string name="available_in_prem1">\u2022 Sınırlı özellikler &amp; her 50 Tıklamayla ilgili bir Bildirim.</string>
+    <string name="available_in_prem3">Hemen Premium satın alın &amp; desteğinizi gösterin!</string>
+    <string name="ad_supported">Shortcutter ÜCRETSİZ sürüm</string>
     <string name="disabled">Kapalı</string>
     <string name="enabled">Açık</string>
     <string name="splash_3">Android durum çubuğu için hızlı ayar sekmeleri</string>
-    <string name="by_leedroid">Bu uygulama LeeDrOiD tarafından yapıldı</string>
-    <string name="welcome_to_shortcutter">Hoşgeldiniz!</string>
+    <string name="by_leedroid">LeeDrOiD tarafından yapıldı</string>
+    <string name="welcome_to_shortcutter">Hoş geldiniz!</string>
     <string name="Immersive">Tam Ekran</string>
-    <string name="manual_secure_summary"> Daha fazla sekme etkinleştirmek istiyorsanız, cihazınıza Shortcutter uygulamasının cihaz ayarlarını değiştirebilme izini vermeniz gerekmektedir.
+    <string name="manual_secure_summary"> Daha fazla sekme etkinleştirmek istiyorsanız, cihazınıza Shortcutter uygulamasının cihaz ayarlarını değiştirebilme iznini vermeniz gerekmektedir.
         \n(Bu işlem BİLGİSAYAR &amp; ile yapılır)</string>
     <string name="secure_access">Güvenli Erişim Ayarı</string>
     <string name="action_required">Bir işlem yapmanız gerekli</string>
-    <string name="settings_secure_instruct">Shortcutter uygulamasına, sistem üzerinde daha çok kontrol sahibi olabilmesi için gerekli izinleri verebilirsiniz.
+    <string name="settings_secure_instruct">"Shortcutter'a, sistem üzerinde daha çok kontrol sahibi olabilmesi için gerekli izinleri verebilirsiniz.
         \n\nBilgisayarınızdan www.leedroid.co.uk/SettingsSecureGuide adresine gidip, talimatları uygulayın.
-        \n\n</string>
+        \n\n"</string>
     <string name="confirm">ONAYLA</string>
     <string name="screenshot">Ekran Görüntüsü</string>
     <string name="stop_recording"> Kaydı Durdur</string>
     <string name="start_recording"> Kaydı Başlat</string>
     <string name="screen_recorder">Ekran Kaydedici</string>
-    <string name="show_toggle">Show Toggle</string>
+    <string name="show_toggle">Geçişi Göster</string>
     <string name="close">Kapat</string>
     <string name="record_audio">Sesi Kaydet</string>
-    <string name="show_touches">Dokunuşları Göster</string>
-    <string name="subscription_error">Cihazınız aboneliği desteklemiyor.</string>
+    <string name="show_touches">Dokunmaları Göster</string>
+    <string name="subscription_error">Cihazınız abonelikleri desteklemiyor.</string>
     <string name="iab_async_error">Satın alma işlemi, başka bir işlem yapılmakta olduğundan, başlatılamadı.</string>
     <string name="onetimefee2">£1.89</string>
     <string name="onetimefee5">£3.79
-        \n(Gratuity)</string>
+        \n(Hediye)</string>
     <string name="donation2">£1.89 Lisans</string>
     <string name="donation5">£3.79 Lisans</string>
     <string name="donation10">£9.60 Lisans</string>
     <string name="detected">Algılandı</string>
     <string name="yes">Evet</string>
-    <string name="subscription">Or a Subscription</string>
-    <string name="thankyoumultiple">Çoklu Lisans Algılandı.
-        \nThank\'s for your support!</string>
-    <string name="thankyou">Thank\'s for your support!</string>
+    <string name="subscription">Veya Abonelik</string>
+    <string name="thankyoumultiple">Çoklu Lisans Algılandı!
+        \nDesteğiniz için teşekkürler!</string>
+    <string name="thankyou">Desteğiniz için teşekkürler!</string>
     <string name="iab_error">Uygulama içi satın alma cihazınız tarafından desteklenmiyor.
-        \n\nGoogle Play Store \'dan Premium Lisans satın almak ister misiniz?</string>
+        \n\nPlay Store\'dan Premium key satın almak ister misiniz?</string>
     <string name="no">Hayır</string>
     <string name="settings_license">LİSANS</string>
     <string name="no_licence">Lisans Bulunamadı</string>
@@ -137,92 +136,97 @@
     <string name="logo">Logo</string>
     <string name="old_licene">Premium Lisans Bulundu</string>
     <string name="tweaks_key">LeeDrOiD Tweaks key bulundu
-        \n Premium özellikleri etkinleştirildi.</string>
+        \n Premium özellikleri etkinleştirildi</string>
     <string name="all_prices_subject_to_tax_vat">Fiyatlara KDV Dahildir*
-        \n\nShortcutter Premium Lisansı satın almak 50 tıklanma bildirimini kaldırıp, ilave sekmeler ve uygulamanın ekstra özelliklerini kullanabilmenizi sağlayacaktır..</string>
-    <string name="amin">amin</string>
-    <string name="allofthe">Aşağıdaki seçeneklerden herhangi biri size Premium erişimi verecek, Seçim sizin :)</string>
+        \n\nShortcutter Premium Lisansı satın almak 50 tıklama bildirimini kaldıracak, ilave sekmeler ve uygulamanın ekstra özelliklerini kullanabilmenizi sağlayacaktır.</string>
+    <string name="amin">olur</string>
+    <string name="allofthe">Aşağıdaki seçeneklerden herhangi biri size premium erişimi verecek, seçim sizin :)</string>
     <string name="volumeui">Ses
         \nPaneli</string>
     <string name="manualbright">Elle
-        \nAydınlatma</string>
+        \nParlaklık</string>
     <string name="autobrightness">Otomatik
-        \nAydınlatma</string>
+        \nParlaklık</string>
     <string name="brightpreset">Tanımlı 
-        \nAydınlatma</string>
-    <string name="qbright_lev">Aydınlatma
+        \nParlaklık</string>
+    <string name="qbright_lev">Parlaklık
         \n%1$d%%</string>
     <string name="noalarm">Alarm
         \nYok</string>
     <string name="availableram">Kullanılabilir
-        \nHafıza</string>
-    <string name="network_mode">Şebeke Modu Sekmesi</string>
+        \nBellek</string>
+    <string name="network_mode">Şebeke Modu</string>
     <string name="network_mode_summary">Şebeke Modu Seçme</string>
     <string name="adb_summary">Android Debug Bridge Modunu Etkinleştir</string>
-    <string name="adbtile">ADB Sekmesi</string>
-    <string name="alarm_summary">Bir sonraki alarmı göster, tıklandığında alarmlara gider.</string>
-    <string name="alarm_tile_title">Sonraki Alarm Sekmesi</string>
-    <string name="ambien_summary">Ortam Durumu/ Bekleme Modu</string>
-    <string name="ambient_tile_title">Ortama Göre Ekran Tavrı Sekmesi</string>
+    <string name="adbtile">ADB</string>
+    <string name="alarm_summary">Bir sonraki alarmı gösterir, tıklandığında alarmlara gider</string>
+    <string name="alarm_tile_title">Sonraki Alarm</string>
+    <string name="ambien_summary">Ortam Durumu / Bekleme Modu</string>
+    <string name="ambient_tile_title">Ortama Göre Ekran Tavrı</string>
     <string name="autobrightness_summary">Otomatik Parlaklık Açık/Kapalı</string>
-    <string name="autobrightness_tile_title">Otomatik Parlaklık Sekmesi</string>
+    <string name="autobrightness_tile_title">Otomatik Parlaklık</string>
     <string name="brightnesspreset_summary">Kademeli Parlaklık Modu
         \n(Kademeleri sekme ayarları bölümünden ayarlayabilirsiniz)</string>
-    <string name="brightnesspreset_tile_title">Kademeli Parlaklık Sekmesi</string>
-    <string name="camera_summary">Cihazın kendi Kamera Uygulamsını açar</string>
-    <string name="camera_tile_title">Kamera Sekmesi</string>
-    <string name="haptic_summary">Dokunma Titreşimi Aç/Kapat</string>
-    <string name="headsup_summary">Üst Bildirimler Şeridi</string>
-    <string name="headsup">Üst Bildirimler Sekmesi</string>
-    <string name="immersive_summary">Durum Çubuğunu ve Navigasyon Düğmelerini Gizle</string>
+    <string name="brightnesspreset_tile_title">Kademeli Parlaklık</string>
+    <string name="camera_summary">Cihazın kendi Kamera Uygulamasını açar</string>
+    <string name="camera_tile_title">Kamera</string>
+    <string name="haptic_summary">Dokunma Titreşimini Aç/Kapat</string>
+    <string name="headsup_summary">Üst Bildirimleri Aç/Kapat</string>
+    <string name="headsup">Üst Bildirimler</string>
+    <string name="immersive_summary">Durum Çubuğunu ve Gezinti Düğmelerini Gizle</string>
     <string name="immersive_tile_title">Tam Ekran
         \nModu</string>
-    <string name="location_summary">Konum modu Kapalı/Sadece GPS/Pil Tasarrufu/Yüksek Hassasiyet</string>
-    <string name="location_tile_title">Konum Sekmesi</string>
-    <string name="ram_tile_title">Hafıza Sekmesi</string>
-    <string name="ram_summary">Cihazınızın anlık ve kullanılabilir hafıza değerlerini gösterir, tıklandığında hafıza ayarlarına gider.</string>
-    <string name="recovery_tile_title">Kurtarma Moduna Başlat Sekmesi</string>
-    <string name="recovery_summary">Cihazı Kurtarma Modunda Açar</string>
-    <string name="reboot_summary">Cihazı yeniden başlatır</string>
-    <string name="reboot_tile_title">Yeniden Başlat Sekmesi</string>
-    <string name="ringmode_tile_title">Zil Sesi Sekmesi</string>
+    <string name="location_summary">Konum modu Kapalı/Yalnızca GPS/Pil Tasarrufu/Yüksek Doğruluk</string>
+    <string name="location_tile_title">Konum Modu</string>
+    <string name="ram_tile_title">Bellek</string>
+    <string name="ram_summary">"Kullanılabilir ve toplam RAM'i, RAM bilgilerine gitmek için bir kısayol kullanarak görüntüler"</string>
+    <string name="recovery_tile_title">Kurtarma Modunda Yeniden Başlat</string>
+    <string name="recovery_summary">Cihazınızı Kurtarma Modunda yeniden başlatır</string>
+    <string name="reboot_summary">Cihazınızı yeniden başlatır</string>
+    <string name="reboot_tile_title">Yeniden Başlat</string>
+    <string name="ringmode_tile_title">Zil Sesi Modu</string>
     <string name="ringmode_summary">Zil Sesi Sesli/Titreşim/Sessiz</string>
-    <string name="screenrecord_summary">Cihazın ekranındaki her şeyi kaydeder.</string>
-    <string name="screenrecord_tile_title">Ekran Kaydetme Sekmesi</string>
-    <string name="screenshot_summary">Ekran görüntüsü alır.</string>
-    <string name="screenshot_tile_title">Ekran Görüntüsü Sekmesi</string>
-    <string name="sync_tile_title">Otomatik Senkronizasyon Sekmesi</string>
+    <string name="screenrecord_summary">Cihazınızın ekranındaki her şeyi kaydetmek için bir sekme</string>
+    <string name="screenrecord_tile_title">Ekran Kaydı</string>
+    <string name="screenshot_summary">Cihaz ekranınızın hareketsiz görüntüsünü alır</string>
+    <string name="screenshot_tile_title">Ekran Görüntüsü</string>
+    <string name="sync_tile_title">Otomatik Senkronizasyon</string>
     <string name="sync_summary">Aç / Kapat Oto Senk</string>
     <string name="timeout_summary">Uykuya geçis süresi</string>
-    <string name="timeout_tile_title">Uyku Sekmesi</string>
-    <string name="volumeui_tile_title">Ses Paneli Sekmesi</string>
-    <string name="volumeui_summary">Ses seviyeleri panelini açar</string>
-    <string name="wake_summary">Cihazın ekranını açık tutar</string>
-    <string name="wake_tile_title">Uyanık Kal Sekmesi</string>
+    <string name="timeout_tile_title">Uyku</string>
+    <string name="volumeui_tile_title">Ses Paneli</string>
+    <string name="volumeui_summary">Ses seviyesi panelini görüntülemek için bir sekme</string>
+    <string name="wake_summary">Cihazınızın ekranını açık tutar</string>
+    <string name="wake_tile_title">Uyanık Kal</string>
     <string name="tuner_summary">Gizli Sistem Arayüzü Ayarlarını Aç
         \nÜreticiye bağlı olarak değişiklik gösterebilir</string>
-    <string name="tuner_tile_title">Sİstem Arayüzü Ayarları Sekmesi</string>
-    <string name="prem_only">Sadece Premiuma Özel</string>
-    <string name="settings_secure_needed">Ayarlara erişim izni verilmesi gerekli</string>
-    <string name="flash_summary">Cihazın kamera flaşını açar</string>
-    <string name="flash_tile_title">Fener Sekmesi</string>
+    <string name="tuner_tile_title">Sistem Arayüzü Ayarları</string>
+    <string name="prem_only">Sadece Premium</string>
+    <string name="settings_secure_needed">Ayarlara güvenli erişim gerekli</string>
+    <string name="flash_summary">Kamera flaşını açar/kapatır</string>
+    <string name="flash_tile_title">Fener</string>
     <string name="no_flash">Fener Bulunamadı</string>
-    <string name="battery_summary">Pil Seviyesi Takibi</string>
-    <string name="battery_tile_title">Pil Sekmesi</string>
-    <string name="on_while_charge">Şarj ederken
+    <string name="battery_summary">Pil seviyenizi izleyin</string>
+    <string name="battery_tile_title">Pil</string>
+    <string name="on_while_charge">Şarj olurken
         \nEkranı Açık Tut</string>
-    <string name="onwhilecharge_summary">Şarj ederken ekranı açık tutar.</string>
-    <string name="oncharge_tile_title">Şarj ederken ekran açık</string>
-    <string name="countdown">Geri Sayım Sekmesi</string>
+    <string name="onwhilecharge_summary">Şarj olurken ekranı açık tutar</string>
+    <string name="oncharge_tile_title">Şarj olurken ekran açık</string>
+    <string name="choose_button_label">Seç</string>
+    <string name="error_dir_access">Klasöre erişilemiyor</string>
+    <string name="label_parent_directory">Ana Klasör</string>
+    <string name="last_edit">Son düzenlenen: </string>
+    <string name="select">Seç</string>
+    <string name="countdown">Geri Sayım</string>
     <string name="new_message">Yeni
-        \nMessage</string>
+        \nMesaj</string>
     <string name="cap_store_title">Ekran Görüntüsü Klasörü</string>
     <string name="choose_location">Klasör Seç</string>
-    <string name="new_message_summary">Yeni SMS Gönder</string>
+    <string name="new_message_summary">Bir tıkla yeni bir SMS gönder</string>
     <string name="count_down">Geri Sayım Başladı</string>
     <string name="remaining">Kalan:</string>
-    <string name="time_up">Süre Doldu!</string>
-    <string name="countdown_timer">Geri Sayım Süresi</string>
+    <string name="time_up">Zaman doldu!</string>
+    <string name="countdown_timer">Geri Sayım Saati</string>
     <string name="set">Ayarla</string>
     <string name="countdown_desc">Geri Sayım Sekmesi</string>
     <string name="choose_steps">Kademeli Parlaklık Ayarlarını Seçin</string>
@@ -230,141 +234,154 @@
     <string name="currently"> %1$d kademe</string>
     <string name="current_shot">Ayarlandı %1$d saniye</string>
     <string name="current_dice">Ayarlandı %1$d</string>
-    <string name="permissions_not_granted">Shortcutter a doğru izinler verilmemiş, Uygulamayı çalıştırdınız mı??</string>
+    <string name="permissions_not_granted">"Shortcutter'a doğru izinler verilmemiş, uygulamayı çalıştırdınız mı?"</string>
     <string name="counter_tile">Sayaç
         \nSekmesi</string>
     <string name="counter_summary">Tıkladığınız kadar sayı sayar</string>
-    <string name="reset_counter">Sayacı Sıfırla</string>
-    <string name="cur_val">Şuanki Sayı = %1$d </string>
-    <string name="Dice">Zar Sekmesi</string>
-    <string name="dice_desc">Zar atar
+    <string name="reset_counter">Sayaç Sekmesini Sıfırla</string>
+    <string name="cur_val">Şu anki Sayı = %1$d </string>
+    <string name="Dice">Zar</string>
+    <string name="dice_desc">Rastgele bir sayı oluşturur
         \n(Zar sayısını ayarlardan değiştirebilirsiniz)</string>
     <string name="auto_step">Otomatik Parlaklık Kademesi</string>
+    <string name="about" translatable="false">\nTasarım &amp; Geliştirme:
+        \n\n\u2022 Lee Bailey (Nam-ı diğer @LeeDrOiD)\n\n Çeviriler:
+        \n\n\u2022 @4ntagonist - Almanca
+        \n\u2022 @Linar10 - Lehçe
+        \n\u2022 @Nuno Nebeker - Portekizce
+        \n\u2022 @Evren GüntürKün ve Fatih Fırıncı - Türkçe
+        \n\u2022 @Eugenio M Seguin - İspanyolca
+        \n\u2022 @Majida Whale - Çince
+        \n\u2022 @Kodenma - Japonca
+        \n\u2022 @Anonymous ;) - Rusça
+        \n\nIf you are interested in helping me translate the app, drop me an email using the Email Feedback option in the menu.\n\nEk grafikler: @Bogdan</string>
     <string name="file_tile">Dosya
         \nYöneticisi</string>
-    <string name="file_summary">Cihazın kendi Dosya Yöneticisini açar</string>
+    <string name="file_summary">Varsayılan dosya yöneticisini açar</string>
     <string name="new_tweet">Yeni
         \nTweet</string>
     <string name="not_installed">Uygulama yüklü değil</string>
-    <string name="new_tweet_summary">Yeni Tweet At</string>
-    <string name="shot_delay"> Ekran Görüntüsü alma zamanlayıcısı</string>
-    <string name="shot_delay_title">Ekran Görüntüsü alma zamanı (Saniye)</string>
+    <string name="new_tweet_summary">Yeni bir tweet gönder</string>
+    <string name="shot_delay"> Ekran görüntüsü alma zamanını ayarla</string>
+    <string name="shot_delay_title">Ekran Görüntüsü Alma Zamanı (Saniye)</string>
     <string name="newemail">Yeni
-        \nEmail</string>
-    <string name="newemailsum">Yeni email Gönder</string>
-    <string name="emailtitle">Yeni Email Sekmesi</string>
+        \nE-posta</string>
+    <string name="newemailsum">Yeni e-posta gönder</string>
+    <string name="emailtitle">Yeni E-posta</string>
     <string name="stay_in_the_loop">Sosyal Medya/Kişi</string>
-    <string name="follow_me">Twitter \'da Takip Et</string>
-    <string name="like_facebook">Facebook Sayfamı Beğenin</string>
+    <string name="follow_me">Beni Twitter\'da Takip Et</string>
+    <string name="like_facebook">Facebook Sayfamı Beğen</string>
     <string name="home">Ana Sayfa</string>
-    <string name="dice_desc_range">Zar için bir sayı aralığı seçin</string>
-    <string name="dice_tile_range">Zar atma Aralığı</string>
+    <string name="dice_desc_range">Zar Sekmesi için bir sayı aralığı seçin</string>
+    <string name="dice_tile_range">Zar Sekmesi Aralığı</string>
     <string name="togglenfc">NFC
-        \nAç</string>
-    <string name="nfctile">NFC Sekmesi</string>
-    <string name="nfctilesum"> NFC aç/kapat</string>
-    <string name="app_open">Bu uygulama hiç bir sekme veya servis kullanılmadan önce çalıştırılmalıdır.
-        \n\nLütfen açıklamalara dikkat edin.</string>
+        \nAç/Kapat</string>
+    <string name="nfctile">NFC</string>
+    <string name="nfctilesum">NFC\'yi açar/kapatır</string>
+    <string name="app_open">Bu uygulama hiçbir sekme veya hizmet kullanılmadan önce çalıştırılmalıdır
+        \n\nLütfen açıklamalara dikkat edin</string>
     <string name="alert">Shortcutter Uyarı</string>
     <string name="go_premium">Premium Satın Alın</string>
     <string name="another_purchase">Daha çok destek vermek isteyen kullanıcılar, her iki satın alma seçeneğini de kullanabilirler.</string>
-    <string name="datausage">Mobil İnternet
+    <string name="datausage">Veri 
         \nKullanımı</string>
-    <string name="data_usage_perms">Shortcutter mobil internet kullanımı bilgilerine ulaşmak için izin istiyor.
-        \n\nDevam edip Shortcutter için gerekli izni verin.\n\n</string>
-    <string name="reset_day">Her ay için sıfırlanma günü %1$d </string>
-    <string name="select_day">Mobil İnternet sıfırlanma gününü seçin</string>
-    <string name="data_cycle_reset">Mobil İnternet kullanımı aralığı</string>
-    <string name="data_cycle_summary">Ayın hangi gününden itibaren ölçüm yapılacağını seçin.(Fatura kesim tarihi yada kontör yükleme tarihi)</string>
-    <string name="data_tile_summary">Mobil İnternet kullanımını gösterir.
-        \n(Change cycle in \n(Kullanım aralığını sekme ayarlarından değiştirebilirsiniz)</string>
-    <string name="data_tile_title">Mobil İnternet kullanımı Sekmesi</string>
-    <string name="failed_data_usage">Mobil internet kullanımı başlatılamadı.</string>
-    <string name="how_to">Sekmelerin nasıl eklendiğini öğrenmek için tıklayın.</string>
-    <string name="addtiles_title">Sekme nasıl eklenir - Klavuz</string>
-    <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Pulldown Tile Settings\" tab & make your QS Tile selections.]]></string>
-    <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below, this is usually a pen icon.
-    \n\n Samsung users hit the 3 dot menu and select rearrange tiles.\n\n your Shortcutter tiles will show in the bottom view.]]></string>
-    <string name="edit_view1">3. In the Edit View you will find 2/3 containers, you will see your new Shortcutter tiles in the bottom container.
-        \n\nTo add them, simply long press and drag your chosen tiles up to the top (Active) container and exit the Edit View.</string>
-    <string name="edit_view_note">IMPORTANT NOTE:
-        \n\n Due to a bug in Android N, you may struggle to add tiles, this can be worked around by doing the following.
-        \n\nRemove any tiles you do not want in the \"Pulldown Tile Settings\" tab &amp; take your new tiles from the TOP of the available tiles container.
-        \n\nUnfortunately this is not something I can fix as it has nothing to do with the app.</string>
-    <string name="small">Yazı Karakteri
+    <string name="data_usage_perms">Shortcutter Veri Kullanımı geçmişine ulaşmak için izin istiyor.
+        \n\nLütfen devam edip Shortcutter için gerekli izni verin.\n\n</string>
+    <string name="reset_day">Her ayın %1$d. gününde sıfırla</string>
+    <string name="select_day">Verilerin Sıfırlanma Gününü Seçin</string>
+    <string name="data_cycle_reset">Veri Kullanma Döngüsü</string>
+    <string name="data_cycle_summary">Ayın hangi gününden itibaren ölçüm yapılacağını seçin (Fatura kesim tarihi ya da kontör yükleme tarihi)</string>
+    <string name="data_tile_summary">Mobil Veri Kullanımını Gösterir
+        \n(Kullanım aralığını Sekme Ayarlarından değiştirebilirsiniz)</string>
+    <string name="data_tile_title">Veri Kullanımı</string>
+    <string name="failed_data_usage">Veri kullanımı bilgileri başlatılamadı</string>
+    <string name="how_to">"Hızlı Ayar Sekmelerini ekleme kılavuzu için Buraya Tıklayın.\n\nAşağıdaki kategorilerde seçtiğiniz sekmeleri etkinleştirdikten sonra, bunları sistem hızlı ayarlar Düzenleyicisi'ndeki aşağı çekmeye eklemeniz gerekir."</string>
+    <string name="adding_qs_tiles">Hızlı Ayar Sekmeleri Eklemek</string>
+    <string name="addtiles_title">Hızlı Ayar Sekmeleri Ekleme Kılavuzu</string>
+    <string name="select_tiles"><![CDATA[1. Shortcutter \"Aşağı Çekme Sekme Ayarları\"na gidin & Hızlı Ayar Sekmeleri seçiminizi yapın.]]></string>
+    <string name="edit_view"><![CDATA[2. Durum çubuğunuzu aşağı çekin ve aşağıda görüldüğü gibi düzenleme düğmesine basın, bu genellikle bir kalem simgesidir.
+    \n\n Samsung kullanıcıları 3 nokta menüsüne basın & sekmeleri yeniden düzenleyi seçin.\n\n Shortcutter sekmeleriniz alt görünümde görünecektir.]]></string>
+    <string name="edit_view1">3. Düzenleme Görünümünde 2/3 kapsayıcı bulacaksınız, yeni Shortcutter sekmelerini alt kapsayıcıda göreceksiniz.
+        \n\nBunları eklemek için, seçtiğiniz sekmeleri üst (Etkin) kutuya kadar uzun süre basıp sürükleyin ve Düzenleme Görünümünden çıkın.</string>
+    <string name="edit_view_note">"ÖNEMLİ NOT:
+        \n\n Android N'deki bir hata yüzünden sekmeyi eklemek için uğraşabilirsiniz, bu işlem aşağıdakileri yaparak yapılabilir.
+        \n\n\"Aşağı Çekme Sekmesi\"nden istemediğiniz sekmeleri kaldırın &amp; yeni sekmelerinizi mevcut sekme kapsayıcılarının ÜST kısmından alın.
+        \n\nMaalesef bu, uygulamamla alakalı olmadığı için düzeltebileceğim bir şey değil."</string>
+    <string name="small">Yazı Tipi
         \nKüçük</string>
-    <string name="large">Yazı Karakteri
+    <string name="large">Yazı Tipi
         \nBüyük</string>
-    <string name="fontscale">Yazı Karakteri
-        \nBoyu</string>
-    <string name="defaultsize">Yazı Karakteri
-        \nSistem Orjinali</string>
-    <string name="largest">Yazı Karakteri
+    <string name="fontscale">Yazı Tipi
+        \nBoyut</string>
+    <string name="defaultsize">Yazı Tipi
+        \nVarsayılan</string>
+    <string name="largest">Yazı Tipi
         \nEn Büyük</string>
-    <string name="fontscale_sum">Sistemin yazı karakteri boyutu</string>
-    <string name="font_scale_title">Yazı karakteri ölçüsü</string>
+    <string name="fontscale_sum">Sistem yazı tipi boyutunu değiştir</string>
+    <string name="font_scale_title">Yazı tipi Ölçeği</string>
     <string name="power_saver">Güç Tasarrufu</string>
-    <string name="power_save_summary">Güç Tasarrufu </string>
-    <string name="prem_only_message">Bu özellik Shortcutter Premium Versiyonda bulunur.
-        \n\nBu özellikleri kullanmak için Lütfen Premium Al \'ı tıklayın.
-        \n\n \u2022 Daha fazla uygulama sekmesi
-        \n \u2022 Daha fazla iink sekmesi
-        \n \u2022 Ekran görünütüsü al &amp; Ekran videosu kaydet
+    <string name="power_save_summary">Güç Tasarrufu modunu aç/kapat</string>
+    <string name="prem_only_message">"Bu özellik sadece Shortcutter'ın Premium sürümünde bulunur.
+        \n\nAşağıdaki özellikleri etkinleştirmek için lütfen PREMIUM'u satın al'ı tıklayın:
+        \n\n \u2022 Daha fazla Özel Sekmeler
+        \n \u2022 Ekstra Özel URL Sekmeleri
+        \n \u2022 Ekran Kaydetme &amp; Yakalama
         \n \u2022 Daha fazla uygulama içi ayarlar
-        \n \u2022 &amp; 50 tıklama bildirimini kaldır</string>
+        \n \u2022 &amp; 50 tıklama bildirimini kaldırma</string>
     <string name="no_thanks">Hayır Teşekkürler</string>
     <string name="add_event">Etkinlik Ekle</string>
     <string name="add_event_summary">Takvime etkinlik ekle</string>
-    <string name="location_not_found">Konum ayarları aktivite bulunamadı</string>
-    <string name="power_not_found">Güç Ayarları aktivite bulunamadı</string>
-    <string name="nfc_not_found">NFC ayarları aktivite bulunamadı</string>
+    <string name="location_not_found">Konum ayarları etkinliği bulunamadı</string>
+    <string name="power_not_found">Güç Ayarları etkinliği bulunamadı</string>
+    <string name="nfc_not_found">NFC ayarları etkinliği bulunamadı</string>
     <string name="consider_prem">Shortcutter ÜCRETSİZ </string>
     <string name="consider_prem1">Bu 50. tıklaman oldu!
-        \n\n Premium alarak biraz destek olmayı düşünür müydün?
-        \n\nÜcretsiz versiyonda her 50 tıklamada bu ileti görüntülenir.</string>
-    <string name="screenre_cat"><![CDATA[Ekran Görüntüsü & Ekran Videosu]]></string>
-    <string name="choose_entries">Konum Modu Seçici (En az 2 tane)</string>
-    <string name="conf_sel">Seçimi onaylayın</string>
-    <string name="recentapps">Son kullanılan uygulamalar</string>
-    <string name="settings_system_required">Sistem ayarlarını değiştirme izni gerekli - Toggle to enable</string>
-    <string name="usage_access_required">Kullanım erişimi izni gerekli - İzin vermek için tıklayın</string>
-    <string name="dnd_required">Rahatsız Etme erişim izni gerekli - İzin vermek için tıklayın</string>
-    <string name="accessibility_description">Shortcutter şu ulaşılabilirlik özelliklerinin kullanmasını sağlar:
-        \n\n\u2022 Çoklu Ekranı etkinleştir
-        \n\u2022 Son Kullanılan Uygulamalar
+        \n\nPremium alarak biraz destek olmayı düşünür müydün?
+        \n\nBu bildirim, Ücretsiz sürümdeki her 50. sekme tıklamasında görünür.</string>
+    <string name="screenre_cat"><![CDATA[Ekran Kaydı & Yakalama]]></string>
+    <string name="choose_entries">Konum Modu Girişleri (En az 2)</string>
+    <string name="conf_sel">Seçimi Onayla</string>
+    <string name="recentapps">Son Uygulamalar</string>
+    <string name="settings_system_required">Sistem Ayarlarına Yazma izni gerekli - Etkinleştirmek için Tıklayın</string>
+    <string name="usage_access_required">Kullanım Erişimi izni gerekli - Etkinleştirmek için tıklayın</string>
+    <string name="dnd_required">Rahatsız Etme erişimi gerekli - Etkinleştirmek için tıklayın</string>
+    <string name="accessibility_description">Shortcutter\'ın aşağıdaki erişilebilirlik eylemlerini gerçekleştirmesine izin verir
+        \n\n\u2022 Bölünmüş Ekranı Aç/Kapat
+        \n\u2022 Son Uygulamaları Aç/Kapat
         \n\u2022 Güç Menüsünü Göster
-        \n\u2022 Etkinlikleri bul - Ekran Filtresi ve Köşe kenarlıkları için gerekli, Bu özellikler yeni uygulama yüklerken ve erişim izinleri verilirken kapatılır.</string>
+        \n\u2022 Bildirimleri &amp; Hızlı Ayarları Genişlet
+        \n\u2022 Etkinlikleri Algıla - Ekran filtresi ve ekran köşelerinde gerekli olan bu hizmetler, uygulamalar yüklendiğinde ve izinler verildiğinde durdurulur.</string>
     <string name="power_dialog">Güç Bildirimi</string>
     <string name="split_screen">Çoklu Pencere</string>
     <string name="lock_screen">Ekran
         \nKilidi</string>
-    <string name="screen_lock_admin">Hızlı Ayarlar Sekmesi \"Ekran Kilidi\" için gerekli</string>
-    <string name="acc_needed">Erişilebilirlik ayarları için gerekli</string>
-    <string name="recents_sum">Son kullanılan uygulamalar ekranını açar</string>
-    <string name="acc_needed_long">Shortcutter erişilebilirlik ayarlarına şunları kullanabilmek için gereksnim duyar
-        \n\n\u2022 Son Kullanılan Uygulamalar
+    <string name="screen_lock_admin">\"Ekran Kilidi\" Hızlı Ayarlar sekmesini kullanmak için gerekli</string>
+    <string name="acc_needed">Erişilebilirlik erişimi gerekli</string>
+    <string name="recents_sum">Son uygulamalar ekranını açar</string>
+    <string name="acc_needed_long">"Shortcutter Erişilebilirlik ayarlarına şunları kullanabilmek için gereksinim duyar:
+        \n\n\u2022 Son Uygulamalar
         \n\u2022 Güç Menüsü
-        \n\u2022 Çoklu Ekran
+        \n\u2022 Bölünmüş Ekran
         \n\u2022 Etkinlikleri Bul
-        \n - Ekran Filtresi ve Köşe kenarlıkları için gerekli, Bu özellikler yeni uygulama yüklerken ve erişim izinleri verilirken kapatılır.
-        \n\nDevam et tıklayın, Shortcutter açın ve servisi aktif hale getirin.\n\n</string>
-    <string name="split_sum">Çoklu penceyeri aç / Çoklu pencere modu</string>
+        \n - Ekran Filtresi ve Ekran Köşeleri için gerekli olan bu hizmetler, uygulamalar yüklenirken ve izinler verildiğinde durdurulur.
+        \n\nDevam et'i tıklayın, Shortcutter'a gidin ve hizmeti etkinleştirin.\n\n"</string>
+    <string name="split_sum">Bölünmüş Ekranı / Çoklu Pencere Modunu Aç/Kapat</string>
     <string name="power_sum">Güç menüsünü aç</string>
-    <string name="admin_needed">Yönetici izini gerekli</string>
-    <string name="admin_needed_long">Shortcutter cihazın ekran kilidini açmak için yönetici izinlerine ihtiyaç duyar.
-        \n\nHızlı ayarlar sekmesini kullanabilmek için, Lütfen devam et tıklayın ve yönetici izinlerini verin.\n\n</string>
+    <string name="admin_needed">Yönetici hakları gerekli</string>
+    <string name="admin_needed_long">Shortcutter cihazınızın ekranını kilitlemek için Yönetici izinlerine ihtiyaç duyar.
+        \n\nLütfen devam et\'e tıklayın &amp; gereken izni verin\n\n</string>
     <string name="lock_sum">Ekranı kilitler</string>
     <string name="immersive_active">Tam ekran modu açık</string>
-    <string name="select_time">Lürfen bir süre seçin  dk:sn</string>
-    <string name="search_tile">Google Arama Motoru</string>
-    <string name="search_summary">Google Araması Açar</string>
+    <string name="select_time">Lütfen bir süre seçin dk:sn</string>
+    <string name="search_tile">Web Arama</string>
+    <string name="search_summary">Google Aramayı Açar</string>
     <string name="voice_search_tile">Sesli Komut</string>
-    <string name="voicesearch_sum">Google Asistanı açar</string>
+    <string name="voicesearch_sum">Google Asistanı Açar</string>
     <string name="inear_audio">Kulaklık ses çıkışı</string>
     <string name="disable">Kapat</string>
-    <string name="inear_audio_active">Kulaklık ses çıkışı aktif</string>
-    <string name="show_notif">Etkin bildirimlerde göster</string>
-    <string name="inear_summary">Cihazın tüm sesini sadece kulaklığa yönlendirir</string>
+    <string name="inear_audio_active">Kulaklık Ses Çıkışı Aktif</string>
+    <string name="show_notif">Etkin Bildirimi Göster</string>
+    <string name="inear_summary">Cihazdaki tüm sesleri kulaklığa yönlendirir</string>
     <string name="volUp">Ses +</string>
     <string name="volDown">Ses -</string>
     <string name="cur_vol">Şu anki ses = </string>
@@ -376,296 +393,302 @@
         \nÇal</string>
     <string name="play_pause">Müzik Çal/Duraklat </string>
     <string name="play_pause_sum">Müzik çal ve duraklat</string>
-    <string name="overlay_needed"><![CDATA[Bazı Shortcutter özellikleri tüm uygulamaların üstünde gözükebilmek için, sistem uygulamalarının üstünde bulunabilme iznine gereksinim duyar.:\n
-    \n\u2022 SideBar/Hareketli Araç Kutusu
-    \n\u2022 Screen Filter/Gece Modu Ekran Filtresi
-    \n\u2022 Yuvarlatılmış Ekran Köşelikleri
-    \n\nLütfen devam et tıklayın ve gerekli izinleri verin.\n]]></string>
-    <string name="overlay_required">sistem uygulamalarının üstünde göster izni gerekli</string>
-    <string name="mob_data">Mobile
-        \nİnternet</string>
-    <string name="mob_dat_sum">Mobil İnternet Aç/Kapat</string>
-    <string name="toolbox">Alet Kutusu</string>
+    <string name="overlay_needed"><![CDATA[Bazı Shortcutter hizmetleri çalışmak için Diğer Uygulamalar Üzerinde Görüntüleme iznine ihtiyaç duyar, bunlar şunları içerir:\n
+    \n\u2022 Kenar Çubuğu/Yüzen Araç Kutusu
+    \n\u2022 Ekran Filtresi/Gece Modu
+    \n\u2022 Yuvarlatılmış Köşeler
+    \n\nLütfen devam edin & gerekli izni verin.\n]]></string>
+    <string name="overlay_required">Diğer uygulamalar üzerinde görüntüleme izni gerekli</string>
+    <string name="mob_data">Mobil
+        \nVeri</string>
+    <string name="mob_dat_sum">Mobil veriyi aç/kapat</string>
+    <string name="toolbox">Araç Kutusu</string>
     <string name="wake_active">Uyanık Kal Açık</string>
-    <string name="floating_toolbox">Yan Menü / Alet kutusunu etkinleştir</string>
-    <string name="float_summary">Yan menü kaydırma ile yada hareketli ikona dukunularak açılabilir.</string>
-    <string name="tb_tiles">Side Bar</string>
-    <string name="email_feedback">Email Geri Bildirim</string>
+    <string name="floating_toolbox">Yan Menü/Araç kutusunu etkinleştir</string>
+    <string name="float_summary">Yan menü kaydırma ile ya da yüzen simgeye dokunularak açılabilir.</string>
+    <string name="tb_tiles">Yan Menü</string>
+    <string name="email_feedback">Geribildirim Gönder</string>
     <string name="submit_review">Yorum Yap</string>
-    <string name="rate_app">Uygulamayı Puanlayın</string>
+    <string name="rate_app">Uygulamayı Oyla</string>
     <string name="yes_pro">PREMIUM AL</string>
     <string name="file_browser">Dosya Yöneticisi</string>
     <string name="power_menu">Güç Menüsü</string>
     <string name="new_message_title">Yeni SMS</string>
     <string name="new_tweet_title">Yeni Tweet</string>
     <string name="counter_tile_title">Sayaç</string>
-    <string name="show_immersive_activity">Mod seçiciyi Göster</string>
+    <string name="show_immersive_activity">Mod Seçiciyi Göster</string>
     <string name="mode_select_summary">Tam ekran modlarını gösteren bir kutu açar.</string>
     <string name="toggle">Aç</string>
     <string name="toolbox_label">Araç Kutusu</string>
-    <string name="app_picker">Bir uygulama seçin</string>
-    <string name="custom_app_tiles">Özel Uygulama</string>
-    <string name="swipe_up">Geçmek için aşağıdan yukarıya doğru kaydırın.</string>
+    <string name="app_picker">Bir Uygulama Seçin</string>
+    <string name="custom_app_tiles">Özel Sekmeler</string>
+    <string name="swipe_up">Kapatmak için aşağıdan yukarıya doğru kaydırın</string>
     <string name="lock_screen_title">Ekran Kilidi</string>
     <string name="auto_rotate">Otomatik
         \nDöndür</string>
     <string name="portrait">Dikey</string>
     <string name="landscape">Yatay</string>
     <string name="orientation_mode">Ekran Döndürme</string>
-    <string name="orient_summary">Ekran Döndürmeyi Aç</string>
-    <string name="counter_reset">Sayacı sıfırla?</string>
-    <string name="data_roaming">Yurt dışı mobil internet kullanımı</string>
-    <string name="dataroam_summary">Yurt dışı mobil internet kullanımı Aç</string>
+    <string name="orient_summary">Ekran Döndürmeyi Aç/Kapat</string>
+    <string name="counter_reset">Sayaç  sıfırlansın mı?</string>
+    <string name="data_roaming">Veri Dolaşımı</string>
+    <string name="dataroam_summary">Veri Dolaşımını Aç/Kapat</string>
     <string name="quick_tiles_title">Ufaltılmış durum çubuğu sekme sayısı</string>
     <string name="manufact_depend">Ufaltılmış durum çubuğu sekme sayısını ayarlayın.
         \nCihaz üreticisi tarafından konulan sayı ile sınırlıdır.</string>
-    <string name="sidebar">Hareketli Araç kutusu / Yan Menü</string>
-    <string name="sidebar_summary">Kaydırma Yan Menü yada Hareketli Araç Kutusu arasında seçim yapın.</string>
-    <string name="sidebar_pos">Yatay tetikleme pozisyonu</string>
-    <string name="right">Geçerli pozisyon sağda</string>
-    <string name="left_position">Geçerli pozisyon solda</string>
-    <string name="tb_background">Araç Kutusu / Yan Menü arka plan rengi seçin</string>
+    <string name="sidebar">Yan Menü veya Yüzen Araç Kutusu</string>
+    <string name="sidebar_summary">Yan Menü ya da Yüzen Araç Kutusunu Kaydırmak arasında seçim yapın.</string>
+    <string name="sidebar_pos">Yatay Tetikleme Konumu</string>
+    <string name="right">Geçerli Konum Sağda</string>
+    <string name="left_position">Geçerli Konum Solda</string>
+    <string name="tb_background">Arkaplan Rengi</string>
     <string name="create_calendar_event">Yeni Etkinlik</string>
-    <string name="tb_tile_tint">Araç Kutusu / Yan Menü sekme rengi seçin</string>
-    <string name="tb_tile_text_tint">Araç Kutusu / Yan Menü Yazı rengi seçin</string>
-    <string name="tb_reset_tint">Renk ayarlarını orjinale döndür</string>
-    <string name="reset_conf">Tüm renk ayarlarını orjinale döndürmek istediğinize emin misiniz??</string>
-    <string name="trigger_colour_title">Tetitk rengi seç</string>
-    <string name="filter_active">Ekran Filtresi Açık</string>
+    <string name="tb_tile_tint">Sekme Rengi</string>
+    <string name="tb_tile_text_tint">Yazı Tipi Rengi</string>
+    <string name="tb_reset_tint">Tercihleri sıfırla</string>
+    <string name="reset_conf">Tüm renk ayarlarını sıfırlamak istediğinize emin misiniz?</string>
+    <string name="trigger_colour_title">Tetikleme Rengi / Şeffaflığı</string>
+    <string name="filter_active">Ekran Filtresi Etkin</string>
     <string name="filter_colour">Filtre Rengi Seç</string>
     <string name="filter_tile_title">Ekran Filtresi</string>
     <string name="screen_filter">Ekran Filtresi</string>
-    <string name="screen_filter_summary">Gece kullanımında ekranın gözünüzü yormasını azaltan bir ekran filtresi</string>
+    <string name="screen_filter_summary">Gece göz yorgunluğunu azaltmak için bir ekran filtresi (Gece Modu)</string>
     <string name="reset_filter">Filtre Rengini Sıfırla</string>
-    <string name="sideber_tmb_title">Dikey tetikleme pozisyonu</string>
-    <string name="tb_columns_title">Araç Kutusu Kolonları</string>
-    <string name="tb_columns_summary">Geçerli kolon sayısı = %s </string>
-    <string name="sb_columns_title">Yan Menü Kolonları</string>
-    <string name="design_settings">Tema / Düzen</string>
+    <string name="sideber_tmb_title">Dikey Tetikleme Konumu</string>
+    <string name="tb_columns_title">Araç Kutusu Sütunları</string>
+    <string name="tb_columns_summary">Geçerli sütun sayısı = %s </string>
+    <string name="sb_columns_title">Yan Menü Sütunları</string>
+    <string name="design_settings">Tema &amp; Davranış</string>
+    <string name="leedroid" translatable="false">www.LeeDrOiD.co.uk</string>
     <string name="corners_summary">Köşeleri yuvarlatılmış olarak göstermek için köşelere giydirme yapar</string>
     <string name="corners_title">Yuvarlak Köşeler</string>
     <string name="corners__scale_title">Ekran Köşesi Boyutu</string>
     <string name="corners__scale_set">Köşe Boyutu&#160;=&#160;%1$d%%</string>
     <string name="corners_scale_summary">Ekran köşesinin genişliğini ayarlayın</string>
-    <string name="corner_colour">Köşenin rengini seçin</string>
-    <string name="how_it_works">Nasıl Çalışıyor?</string>
-    <string name="how_it_works1">Shortcutter farklı seçeneklerle, bir çok servis ve uygulama için Durum Çubuğunda kullanılmak üzere 68 sekmeye eklemeye olanak tanır.</string>
-    <string name="how_it_works2">\u2022 Aşağı açılır durum çubuğunu daha kullanışlı hale getirin!</string>
-    <string name="how_it_works3">\u2022 Shortcutter Yan Menü veya Hareketli Araç Kutusu ile</string>
-    <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to Bixby, Edge Sense, Tasker &amp; much more!</string>
-    <string name="attention">Lütfen 2. kısımdaki sekme ekleme klavuzuna dikkatlice gözatın.</string>
-    <string name="config_serv">Settings</string>
-    <string name="screenshot_root">Root ile ekran görüntüsü alma metodu</string>
-    <string name="screenshot_root_summary">Sistem uygulaması yoluyla ekran görüntüsü alır.</string>
-    <string name="corners_active">Yuvarlatılmış Köşeler açık</string>
+    <string name="corner_colour">Köşenin Rengini Seçin</string>
+    <string name="how_it_works">Nasıl çalışır</string>
+    <string name="how_it_works1">Shortcutter, bir dizi kısayola, ayarlara &amp; hizmetlere erişmek için birkaç farklı seçenek sunar.</string>
+    <string name="how_it_works2">\u2022 Hızlı Ayarları Aşağı Çekme yoluyla</string>
+    <string name="how_it_works3">\u2022 Tamamen özelleştirilebilir, daima üstte Shortcutter Yan Menüsü ile</string>
+    <string name="how_it_works4">\u2022 Bunlar sayesinde, uygulama çekmecenize &amp; ana ekranınıza geçiş yapar; HTC Edge Sense, İkinci Ekranlar, Tasker &amp; daha fazlası için eşleme yapılmasını sağlar!</string>
+    <string name="attention">Lütfen 2. kısımdaki sekme ekleme kılavuzuna dikkatlice gözatın.</string>
+    <string name="config_serv">Ayarlar</string>
+    <string name="screenshot_root">Root ile ekran görüntüsü alma yöntemi</string>
+    <string name="screenshot_root_summary">Sistem uygulaması yoluyla ekran görüntüsü alır</string>
+    <string name="corners_active">Yuvarlatılmış Köşeler Etkin</string>
+   <string name="misc_cat">Ana Sayfa Sekmeleri</string>
     <string name="misc_tiles_cat">Diğer Sekme Ayarları</string>
-    <string name="fancy_anim">Durum Çubuğu aşağı açılma efekti</string>
-    <string name="fancy_summary">Aç/Kapat Durum Çubuğu açılma efekti (Her cihazla uyumlu değildir)</string>
-    <string name="system_toggles">Sistem ayarları Sekmesi</string>
-    <string name="action_toggles">Eylemler Sekmesi</string>
-    <string name="info_toggles">Bilgi Sekmesi</string>
-    <string name="sc_services">Shortcutter Servis Sekmesi</string>
+    <string name="fancy_anim">Aşağı Çekme animasyonunu kullan</string>
+    <string name="fancy_summary">Aşağı Çekme animasyonunu Aç/Kapat (Her cihazla uyumlu değildir)</string>
+    <string name="system_toggles">Sistem Ayarı Sekmeleri</string>
+    <string name="action_toggles">Eylem Sekmeleri</string>
+    <string name="info_toggles">Bilgi Sekmeleri</string>
+    <string name="sc_services">Shortcutter Hizmet Sekmeleri</string>
+    <string name="google_awareness_key" translatable="false">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
     <string name="weather">Hava Durumu</string>
-    <string name="tap_close">Kapatmak için tıklayın</string>
-    <string name="weather_desc">Anlık hava durumunu bildiren bir pencere açar.</string>
+    <string name="tap_close">Kapatmak için dokunun</string>
+    <string name="weather_desc">Anlık hava durumunu bildiren bir pencere açar</string>
     <string name="location">Konum Güncelleniyor</string>
     <string name="condition">Durum:&#160;</string>
-    <string name="temp">Anlık Sıcaklık:&#160;</string>
+    <string name="temp">Mevcut Sıcaklık:&#160;</string>
     <string name="feels">Hissedilen:&#160;</string>
     <string name="dewp">Çiğ düşme sıcaklığı:&#160;</string>
     <string name="weather_celsius">Sıcaklık Birimi</string>
     <string name="celsius">Selsius</string>
     <string name="fahrenheit">Fahrenhayt</string>
+    <string name="app_sig" translatable="false">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
     <string name="humidity">Nem:&#160;</string>
     <string name="mylocation">Konumum</string>
-    <string name="maps_link">Harita üzerinde göster</string>
+    <string name="maps_link">Haritada Göster</string>
     <string name="refresh">Yenile</string>
-    <string name="current_location">Konumum</string>
+    <string name="current_location">Mevcut Konum</string>
+    <string name="maps_api" translatable="false">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
     <string name="dev_loc_mode">Konum Modu:&#160;%1$s</string>
-    <string name="mylocation_summary">Bulunduğunuz konumu gösterir, haritada görebilir, paylaşabilirsiniz.</string>
+    <string name="mylocation_summary">Haritaları görüntülemek veya paylaşmak için seçeneklerle birlikte, geçerli konumu görüntüler</string>
     <string name="loading_map">Harita yükleniyor....</string>
     <string name="swipe_out">Çıkmak için kaydırın</string>
-    <string name="choose_ring_entries">Zil Sesi Modu (En az 2 seçenek)</string>
-    <string name="qs_head_title">Hızlı Ayarlar başlığı sekmesi</string>
-    <string name="acc_needed_corners">Bu ekran üzerinde bulunma özelliği şu erişim iznini gerektirir:
-        \n\n \u2022 GÜvenli aktiviteleri bul.
-        \n\nIf Güvenli aktivite bulundu, bu özellik otomatik olarak durdurulacak..
-        \n\nShortcutter a gitmek için tıklayın &amp; Servisi çalıştır.\n\n</string>
+    <string name="choose_ring_entries">Zil Sesi Modu (En az 2)</string>
+    <string name="qs_head_title">Hızlı Ayarlar Başlık Sekmeleri</string>
+    <string name="acc_needed_corners">Bu yer paylaşımı, Erişilebilirlik erişimi gerektirir:
+        \n\n \u2022 Güvenli etkinlikleri algıla.
+        \n\nGüvenli bir etkinlik tespit edilirse, bu yer paylaşımı otomatik olarak duracaktır.
+        \n\nDevam et\'i tıklayın Shortcutter\'a gidin &amp; hizmeti etkinleştirin.\n\n</string>
     <string name="filter_off_secure">Ekran Filtresi Kapalı
-        \nGüvenli aktivite bulundu</string>
-    <string name="corners_off_secure">Ekran Kenarları Kapalı
-        \nGüvenli aktivite bulundu</string>
-    <string name="launch_loc">Konum ayarları açar</string>
+        \nGüvenli etkinlik bulundu</string>
+    <string name="corners_off_secure">Ekran Köşeleri Kapalı
+        \nGüvenli etkinlik bulundu</string>
+    <string name="launch_loc">Konum ayarlarını başlatır/n(hiçbir ayar erişimi güvenli değilse)</string>
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Hızlı Ayarlar v%1$s </string>
     <string name="nigh_light">Gece Lambası</string>
     <string name="brightness">Ekran Parlaklığı</string>
-    <string name="nightlight_summary">Hep açık bir gece lambası açar &amp; Saat ve masa saati modu</string>
+    <string name="nightlight_summary">Her zaman açık bir Gece Lambası & saat göstergesi, artı Masa Saati Moduna geçmek için bir düğme sağlar</string>
     <string name="deskmode">Masa Saati\nModu</string>
-    <string name="lightmode">Gece Lambasıt\nModu</string>
-    <string name="expand_collapse">Araç Kutusu\nGenişletici</string>
-    <string name="expose_toggler">İkon \"Yan Menü Genişletici\" Yan Menü / Araç Çubuğunu açıp Kapatmak için, bu aynı zamanda  HTC Sense gibi cihazların 2. ekranına da uygulanabilir &amp; Görev Yöneticisi.</string>
-    <string name="permissions">Uygulama İzinleri</string>
-    <string name="settings_access">Sistem ayarlarının üzerine yaz</string>
-    <string name="overlay_access">Ekran üstüne yazma izinleri</string>
-    <string name="acc_access">Erişilebilirlik ayarları erişimi</string>
-    <string name="dnd_access">Rahatsız etme modu erişimi</string>
-    <string name="usage_access">Mobil İnternet Kullanımı</string>
-    <string name="settings_system_summary">Kullanım: Parlaklık, Yazı Karakteri Boyutu, Dokunma Titreşimi &amp; Uyku</string>
-    <string name="overlay_summary">Kullanım: Hareketli Yan Menü/Araç Çubuğu, Ekran Filtresi &amp; Yuvarlatılmış Kenarlar</string>
-    <string name="acc_summary">Kullanım: Son Kullanılan Uygulamalar, Güç Menüsü, Çoklu Ekran, Ekran Fİltresi &amp; Yuvarlatılmış Kenarlar</string>
+    <string name="lightmode">Gece Lambası\nModu</string>
+    <string name="expand_collapse">Yan Menü Genişletici</string>
+    <string name="expose_toggler">Ana ekranınızdan veya diğer uygulamalarınızdan Yan Menü veya Araç Kutusunu açmak/kapatmak için ek bir \"Yan Menü Genişletme\" simgesi oluşturun.</string>
+    <string name="permissions">İzinleri Yönet</string>
+    <string name="settings_access">Sistem Ayarlarını Değiştirme</string>
+    <string name="overlay_access">Diğer Uygulamalar Üzerinde Görüntüleme</string>
+    <string name="acc_access">Erişilebilirlik Erişimi</string>
+    <string name="dnd_access">Rahatsız Etme Erişimi</string>
+    <string name="usage_access">Veri Kullanımı</string>
+    <string name="settings_system_summary">Kullanım: Parlaklık, Yazı Tipi Boyutu, Dokunma Titreşimi &amp; Uyku Zaman Aşımı</string>
+    <string name="overlay_summary">Kullanım: Yüzen Yan Menü/Araç Çubuğu, Ekran Filtresi &amp; Yuvarlatılmış Köşeler</string>
+    <string name="acc_summary">Kullanım: Son Uygulamalar, Güç Menüsü, Bölünmüş Ekran, Bildirimleri &amp; Hızlı Ayarları Genişlet, Ekran Filtresi &amp; Yuvarlatılmış Köşeler</string>
     <string name="dnd_summary">Kullanım: Zil Sesi Modu</string>
-    <string name="usage_summary">Kullanım: Mobil İnternet Kullanımı Sekmesi</string>
+    <string name="usage_summary">Kullanım: Veri Kullanımı Sekmesi</string>
     <string name="actual_tiles">Kullanımdaki Sekmeler =&#160; %1$d </string>
     <string name="shortcutter_permissions_phone">Bu özellik şebeke durumunu kontrol etmeye gereksinim duyar.\n\n
-    Bunu yapabilmek için, uygulama cihazdan izin ister.\n\n
-    Lütfen Devam et tıklayıp &amp; sorulduğunda izin verin.</string>
+    Bunu yapmak için, uygulamanın Telefon iznine ihtiyacı var.\n\n
+    Lütfen devam et\'e tıklayın &amp; sorulduğunda izin verin.</string>
     <string name="shortcutter_permissions_storage">Bu özellik hafıza kartına erişim gerektirir.\n\n
-    Bunu yapabilmek için,uygulama okuma / yazma izinlerine ihtiyaç duyar.\n\n
-    Lütfen Devam et tıklayıp &amp; sorulduğunda izin verin.</string>
+    Bunu yapmak için, uygulamanın Depolamayı Okuma/Yazma iznine ihtiyacı var.\n\n
+    Lütfen devam et\'e tıklayın &amp; sorulduğunda izin verin.</string>
     <string name="shortcutter_permissions_camera">Bu özellik kamera flaşına erişim izni gerektirir.\n\n
-    Bunu yapabilmek için,uygulama Kamera izinlerine ihtiyaç duyar.\n\n
-    Lütfen Devam et tıklayıp &amp; sorulduğunda izin verin.</string>
-    <string name="shortcutter_permissions_sync">Bu özellik senkronizasyon (eşleme) ayarlarına erişim izni gerektirir.\n\n
-    Bunu yapabilmek için,uygulama senkronizasyon (eşleme) okuma / yazma izinlerine ihtiyaç duyar.\n\n
-     Lütfen Devam et tıklayıp &amp; sorulduğunda izin verin.</string>
+    Bunu yapabilmek için, uygulama Kamera izinlerine ihtiyaç duyar.\n\n
+    Lütfen devam et\'e tıklayın &amp; sorulduğunda izin verin.</string>
+    <string name="shortcutter_permissions_sync">Bu özellik senkronizasyon ayarlarına erişim izni gerektirir.\n\n
+    Bunu yapabilmek için, uygulamanın Senkronizasyon Okuma/Yazma iznine ihtiyacı var.\n\n
+    Lütfen devam et\'e tıklayın &amp; sorulduğunda izin verin.</string>
     <string name="shortcutter_permissions_location">Bu özellik konumunuza erişim izni gerektirir.\n\n
-    Bunu yapabilmek için,uygulama Konum izinlerine ihtiyaç duyar.\n\n
-    Lütfen Devam et tıklayıp &amp; sorulduğunda izin verin.</string>
+    Bunu yapabilmek için, uygulama Konum izinlerine ihtiyaç duyar.\n\n
+    Lütfen devam et\'e tıklayın &amp; sorulduğunda izin verin.</string>
     <string name="unavailable">Kullanılamıyor</string>
     <string name="install_shortcut">Kısayol\nYükle</string>
     <string name="select_shortcut">Yüklemek için bir kısayol seçin</string>
     <string name="header">Başlığı kaldır</string>
-    <string name="review">\n Play Store \'da\Yüksek bir puan verir ve güzel bir yorum yaparsınız artık :)</string>
+    <string name="review">\n Play Store\'da Yüksek bir puan verir ve güzel bir yorum yaparsınız artık :)</string>
     <string name="enjoying">Shortcutter Hoşunuza gitti mi?</string>
     <string name="counter">Sayaç\n+1</string>
+    <string name="expose_activity_summary">Create additional icons to access these toggle\'s from your home screen or app drawer.\n\nThis also enables mapping toggles to other app\'s such as HTC Edge Sense, Second Displays &amp; Tasker.</string>
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">Aç/Kapat WiFi</string>
-    <string name="wifi_hotspot_summary">Aç/Kapat WiFi HotSpot (Mobil internet paylaşımı)</string>
+    <string name="wifi_hotspot_summary">Aç/Kapat WiFi İnternet Paylaşımı)</string>
     <string name="wifi_toggled">WiFi Açıldı</string>
-    <string name="hotspot_tile">WiFi Hotspot</string>
+    <string name="hotspot_tile">WiFi İnternet Paylaşımı</string>
     <string name="to_be_toggled">Eklemek istediklerinizi seçin.</string>
-    <string name="swipe_out_close">Kapatmak için kaydırın</string>
-    <string name="obscure_back"><![CDATA[Ekranı karart]]></string>
-    <string name="notif_led">LED Bildirimler</string>
-    <string name="notif_led_summary">LED Bildirimleri Aç/Kapat\n(Cihaz üreticisine göre değişir)</string>
-    <string name="system_toggle_summary">Anroid versiyonu / üretici uyumluluğu</string>
-    <string name="experimental_settings">Experimental Features</string>
+    <string name="swipe_out_close">Kapatmak için sola/sağa kaydırın</string>
+    <string name="obscure_back"><![CDATA[Karart & Dış Dokunuşları Algıla]]></string>
+    <string name="notif_led">Bildirim Led\'i</string>
+    <string name="notif_led_summary">Bildirim LED\'ini aç/kapat\n(Üreticiye bağlıdır)</string>
+    <string name="system_toggle_summary">İşletim sistemi/üreticinin uyumluluğu şartıyla</string>
+    <string name="experimental_settings">Deneysel Özellikler</string>
     <string name="sys_setting_tiles">Sistem Ayarları için Hızlı Ayar Sekmeleri</string>
-    <string name="system_actions">Sistem ayarlarını değiştirmek için sekmeler</string>
-    <string name="info_tiles_sum">Faydalı sistem bilgilerine ulaşım için &amp; sekmeler</string>
-    <string name="sc_service_sum"><![CDATA[Shortcutter tarafından sunulan Servisler & Özellikler]]></string>
-    <string name="cust_app">Tiles that you can assign Applications, Activities &amp; Shortcuts to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
-    <string name="cust_sb">Yan Menüyü / Araç Kutusunu kişiselleştirme, &amp; ve nasıl çalışacağını ayarlama</string>
+    <string name="system_actions">Sistem eylemlerini açıp kapatmak/başlatmak için sekmeler</string>
+    <string name="info_tiles_sum">Kullanışlı sistem bilgilerine bağlantı sağlayan sekmeler</string>
+    <string name="sc_service_sum"><![CDATA[Shortcutter tarafından sunulan Hizmetler & Özellikler]]></string>
+    <string name="cust_app">Uygulamalar, Etkinlikler, Kısayollar, Web Bağlantıları &amp; Kabuk Komutlarını (ROOT) atayabileceğiniz sekmeler.\nBurada sekmeleri etkinleştirin, ardından seçtiğiniz uygulamayı, etkinliği veya kısayolu atamak için sekmeye tıklayın.</string>
+    <string name="cust_app_pref">Uygulamalar, Etkinlikler, Kısayollar &amp; Web Bağlantıları &amp; Kabuk Komutlarını (ROOT) atayabileceğiniz sekmeler.</string>
+    <string name="cust_sb">Yan Menü veya Araç Kutusu görünümünü ve davranışını özelleştirin</string>
     <string name="behaviour">Sekmelerin nasıl çalışacağını seçin</string>
-    <string name="perms_now">Bazı özellikler ve sekmeler için &amp; izin gerekli</string>
-    <string name="forceEnglish">Sadece İngilizce Kullanıım</string>
-    <string name="force_eng_summary">Program İngilizce olarak çalışır</string>
-    <string name="xiaomi">Cihazınızına, programlarınızı otomatik olarak çalıştırması için izin vermeniz gerekir, eğer bu izni vermezseniz Shortcutter arkaplan servisleri sistem tarafından kapatılır.\n\nDevam et tıklayın &amp; Shortcutter için otomatik çalıştır iznini verin.</string>
-    <string name="bat_opt"><![CDATA[Shortcutter arkaplanda çalışan servisler çalıştırır, bazı durumlarda (pil tasarrufu, RAM dolması vb.)sistem bazı arkaplan servislerini kapatır, bu nedenle shortcutter için pil ayarlarından, pil optimizasyonunu kapatmanız tavsiye edilir.\n\nUmarım uygulamayı beğenirsiniz!!]]></string>
-    <string name="failed_window_add">Pencere ekleme başarısız, Lütfen uygulamayı açıp ekran üzerine yazma iznini verdiğinize emin olun</string>
+    <string name="perms_now">Bunlar, hizmetleri etkinleştirirken istenecektir.</string>
+    <string name="forceEnglish">İngilizceye zorla</string>
+    <string name="force_eng_summary">Uygulamayı İngilizce dilinde çalıştır</string>
+    <string name="xiaomi">Cihazınız, uygulamaların otomatik başlatma izinleri almasını gerektiriyor. Shortcutter arkaplan hizmetleri bu etkinleştirilmemişse sonlandırılacaktır.\n\nLütfen Devam et\'e tıklayın &amp; Shortcutter için otomatik başlat iznini etkinleştirin.</string>
+    <string name="bat_opt"><![CDATA[Shortcutter arkaplanda çalışan hizmetler çalıştırır, bazı durumlarda (pil tasarrufu, RAM dolması vb.)sistem bazı arkaplan hizmetlerini kapatır, bu nedenle shortcutter için pil ayarlarından, pil optimizasyonunu kapatmanız tavsiye edilir.\n\nUmarım uygulamayı beğenirsiniz!]]></string>
+    <string name="gridItems" translatable="false">customapp1TB,customapp2TB,customapp3TB,customapp4TB,alarm,ram,corners,filter,wake,counter,dice,calendar,sync,camera,email,nightlight,voicesearch,search,inear,playpause,mutemedia</string>
+    <string name="failed_window_add">Pencere ekleme başarısız, lütfen uygulamayı açın ve ekran üzerine yazma iznini verdiğinize emin olun</string>
     <string name="monochrome">S&amp;B</string>
-    <string name="monochrome_summary">Görüntü ayarlarını siyah beyaz olarak değiştir(Monochrome)</string>
-    <string name="launch_power">Ayarları açar \> Güç\n(if no settings secure access)</string>
+    <string name="monochrome_summary">Görüntü ayarlarını siyah ve beyaz (Monochrome) olarak değiştir</string>
+    <string name="launch_power">Ayarlar \> Güç\'ü başlatır\n(herhangi bir ayar erişimi güvenli değilse)</string>
     <string name="admin_access">Yönetici Erişimi</string>
     <string name="admin_summary">Kullanım: Ekran Kilidi</string>
-    <string name="tb_tile_alpha">Sekme Saydamlığı kapalı</string>
-    <string name="hide_tb_labels">Etiketleri kaldır</string>
+    <string name="tb_tile_alpha">Sekme Şeffaflığı kapalı</string>
+    <string name="hide_tb_labels">Metin Etiketlerini gizle</string>
     <string name="hidden">Gizli</string>
     <string name="visible">Görünür</string>
-    <string name="icon_picker">İkon Seçici</string>
-    <string name="custom_icon">Kişisel ikon arkaplanı</string>
-    <string name="cust_icon_summary">İkon için arka plan seçin</string>
-    <string name="manage_tiles">Sekmeleri Yönet</string>
-    <string name="enable_tiles">Aç/Kapat Aşağı açılır Durum Çubuğu Sekmeleri</string>
-    <string name="qs_tiles">Pull Down</string>
+    <string name="icon_picker">Simge Seçici</string>
+    <string name="custom_icon">Sekme Simgesi Arkaplanı</string>
+    <string name="cust_icon_summary">Özel bir simge arka planı seçin</string>
+    <string name="manage_tiles">Sekmeleri yönet</string>
+    <string name="enable_tiles">Aç/Kapat Aşağı Çekme Hızlı Ayarlar Sekmeleri</string>
+    <string name="qs_tiles">Aşağı Çekme</string>
     <string name="custom_tiles">Özel Sekmeler</string>
-    <string name="sb_tb_settings">Yan Menü / Araç Çubuğu Ayarları</string>
-    <string name="design_sb_settings">Shortcutter Yan Menü / Araç Çubuğu ayarlarını yapın</string>
+    <string name="sb_tb_settings">Yan Menü/Araç Çubuğu Ayarları</string>
+    <string name="design_sb_settings">Shortcutter Yan Menü/Araç Çubuğu ayarlarını yapılandırın</string>
     <string name="enable_tiles_tb">Aç/Kapat Yan Menü Sekmeleri</string>
-    <string name="detect_touch">Dokunma &amp; Kaydırma Tetiği</string>
-    <string name="touch_and_swipe">Yan Menü tetiğe dokunulduğunda yada kaydırıldığında açılır\n(yukarı, aşağı yada içe doğru)</string>
-    <string name="swipe_only">Yan Menü kaydırıldığında açılır\n(yukarı, aşağı yada içe doğru)</string>
+    <string name="detect_touch">Dokunma &amp; Kaydırma Tetikleyici</string>
+    <string name="touch_and_swipe">Yan Menü tetiğe dokunulduğunda ya da kaydırıldığında açılır\n(yukarı, aşağı ya da içe doğru)</string>
+    <string name="swipe_only">Yan Menü kaydırıldığında açılır\n(yukarı, aşağı ya da içe doğru)</string>
     <string name="hide_header_sum">Yan Menü/Araç Kutusu başlığı kaldırıldı</string>
-    <string name="hide_header_off_sum">Yan Menü/Araç Kutusu başlığı etkinleştirildi</string>
-    <string name="capture_quality">Kaydetme Kalitesi</string>
+    <string name="hide_header_off_sum">Yan Menü/Araç Kutusu başlığı görünür</string>
+    <string name="capture_quality">Yakalama Kalitesi</string>
     <string name="share">Paylaş</string>
     <string name="delete">Sil</string>
     <string name="view">Göster</string>
     <string name="trigger">Tetikle</string>
-    <string name="tile_icons">Sekmeler/İkonlar</string>
+    <string name="tile_icons">Sekmeler/Simgeler</string>
     <string name="labels">Sekme Etiketleri</string>
-    <string name="icon_scale">İkon Boyutu</string>
-    <string name="flash_sale">30% off Shortcutter Premium!\nPlease select the £1.89 option in the purchase premium screen.</string>
-    <string name="sale">Shortcutter Flash Sale</string>
+    <string name="icon_scale">Simge Boyutu</string>
+    <string name="flash_sale">Shortcutter Premium\'dan% 30 indirim!\nLütfen, premium satın alma ekranında £1.89 seçeneğini seçin.</string>
+    <string name="sale">Shortcutter Büyük İndirim</string>
     <string name="dim">Karartma -</string>
     <string name="dimup">Karartma +</string>
     <string name="screen_dim">Ekran Karartma =&#160;</string>
-    <string name="mute_media">Meyda Sesini Kapat</string>
-    <string name="mute_media_summary">Media sesini kapatın</string>
-    <string name="system_perms_message_touches">Bu özellik sistem ayarlarını değiştirme izni gerektirir.Uygulama bu izni kendisi alamaz, lütfen gerekli izni verin.
-        \n\nClick proceed &amp; İznin verileceği ayara yönlendirileceksiniz\n</string>
+    <string name="mute_media">Medya Sesini Kapat</string>
+    <string name="mute_media_summary">Medya sesini kapatır</string>
+    <string name="system_perms_message_touches">Bu seçenek, bu izinleri normal şekilde talep edemediğimiz için sistem ayarlarını yazma yeteneğini gerektirir; bu izinleri etkinleştirmeniz gerekir.
+        \n\nDevam et\'i tıklayın &amp; ilgili ekrana yönlendirileceksiniz.\n</string>
     <string name="lock_root">ROOT Yöntemini kullan</string>
-    <string name="root_lock_sum">Açma/Kapama tuşuna basma komutu yollar</string>
-    <string name="choose_activity">Aktivite seç</string>
+    <string name="root_lock_sum">Güç tuşuna basma komutu yollar</string>
+    <string name="choose_activity">Etkinlik seç</string>
     <string name="exp_notif">Bildirimleri genişlet</string>
-    <string name="quick_settings">Hızlı Ayarlar Panelini genişletir</string>
+    <string name="quick_settings">Hızlı Ayarlar Panelini genişlet</string>
     <string name="exp_notif_sum">Bildirimleri aşağı doğru genişletir</string>
     <string name="qs_sum">Hızlı ayar sekmeleri menüsünü aşağı doğru genişletir</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bt_summary">Aç/Kapat Bluetooth</string>
-    <string name="went_wrong">Hata oluştu, Lütfen tekrar deneyin. Sürekli bu hatayı alıyorsanız Lütfen bana cihaz bilgilerini içeren bir e-mail atın.</string>
-    <string name="cont_and_phone"><![CDATA[Hata oluştu, Kişilere ve telefona ulaşım iznini vermiş miydiniz?]]></string>
-    <string name="adding_qs_tiles">Hızlı Ayar Sekmesi eklemek</string>
-    <string name="misc_cat">Ana Sayfa Sekmeleri</string>
-    <string name="transparency">Saydamlık</string>
+    <string name="went_wrong">Bir şeyler ters gitti, lütfen tekrar deneyin. Bu sorun devam ederse, lütfen cihaz ayrıntılarıyla bana ulaşın.</string>
+    <string name="cont_and_phone"><![CDATA[Hata oluştu, Kişilere ve Telefona erişim izni vermiş miydiniz?]]></string>
+    <string name="cp_head">Onaylamak için ORTAYA, iptal etmek için GERİYE dokunun</string>
+    <string name="transparency">Şeffaflık</string>
     <string name="scale">Derecesi =&#160;</string>
-    <string name="expose_activity_summary">Access these toggle\'s from your home screen or app drawer, this also enables mapping to other app\'s such as HTC Edge Sense, Second Displays &amp;. Tasker.</string>
-    <string name="cp_head">KABUL İÇİN ORTAYA, İPTAL ETMEK İÇİN GERİYE DOKUNUN</string>
+ 
     <string name="apply">Uygula</string>
     <string name="ap_name">Web Adresi</string>
     <string name="create_shortcut">Kısayol oluştur</string>
-    <string name="enter_url">Enter a Web URL or search term</string>
+    <string name="enter_url">Bir Web adresi veya arama terimi girin</string>
     <string name="how_to_summary">Uygulamanın neler yapabileceğinin özeti</string>
     <string name="round_corners">Yuvarlatılmış Köşeler</string>
-    <string name="run_without">olmadan devam et</string>
-    <string name="search_if_invalid">geçersiz bir adres girildiyse, google araması başlatılır.</string>
-    <string name="xda">XDA Developers Thread</string>
-    <string name="choose_function">" İşlev Seç"</string>
-    <string name="cust_app_pref">Sekme olarak ekleyebileceğiniz Uygulamalar, Aktiviteler, Kısayollar Applications, &amp; Web Adresleri.</string>
-    <string name="samsung_note">Samsun kullanıcıları için önemli uyarı</string>
-    <string name="battery_opt">Samsung kullanıcıları, ekran kilidi (uyku) modunun ardından telefonlarının donduğunu gözlemlemişlerdir.</string>
-    <string name="trig_alpha">Pil ayarlarında, shortcutter uygulamasını pil optimizasyonundan çıkarırsanız bu sorun çözülür.</string>
-    <string name="problem">Problemleriniz ve önerileriniz için\? \n Lütfen e-mail atın :)</string>
+    <string name="run_without">Olmadan Devam et</string>
+    <string name="search_if_invalid">Geçersiz bir adres girildiyse, google araması başlatılır.</string>
+    <string name="xda">XDA Geliştiricileri Konusu</string>
+    <string name="choose_function">İşlev Seç</string>
+    <string name="samsung_note">Samsung kullanıcıları için önemli uyarı</string>
+    <string name="battery_opt">Samsung kullanıcıları, ekran kilidi (uyku) modunun ardından telefonlarının donduğunu gözlemlemişlerdir.\nBu sorunu gidermek için, lütfen Shortcutter\'ı cihaz ayarlarındaki pil optimizasyonlarından hariç tutun.</string>
+    <string name="trig_alpha">Tetik Saydamlığı.</string>
+    <string name="problem">Problemleriniz ve önerileriniz mi var\? \n Hemen e-posta atın :)</string>
     <string name="opacity">Saydamlık =</string>
-    <string name="onehand">One Handed (Experimental)</string>
-    <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
-    <string name="enter_shell_command">Shell Command</string>
-    <string name="drag_out">Long press to change assignment</string>
-    <string name="left_hand_mode">Left Handed Mode</string>
-    <string name="ime_method">IME Selector</string>
-    <string name="wrap">Set to: wrap contents</string>
-    <string name="fill">Set to: Fill Vertically</string>
-    <string name="height">Fill Screen/Wrap Contents</string>
-    <string name="ime_summary">Change in use input method</string>
-    <string name="auto_start">Auto Start Time</string>
-    <string name="auto_stop">Auto Stop Time</string>
-    <string name="clear_schedule">Clear Schedules</string>
-    <string name="reset_alarms">Are you sure you want to clear your Screen Filter schedules?</string>
-    <string name="tile_name">Tile Name (Auto if blank)</string>
-    <string name="disable_change">Disable or change assignment?</string>
-    <string name="change">Change</string>
-    <string name="disable_screen_off">Disable on Screen Off</string>
-    <string name="unknown_sources">Allow Unknown Sources</string>
-    <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
-    <string name="cast">Cast</string>
-    <string name="cast_summary">Launches the Screen Cast device list</string>
-    <string name="horizontal_scale">Horizontal Scale</string>
-    <string name="vertical_scale">Vertical Scale</string>
-    <string name="submit_icons">Submit your own icons using the Email feeback option</string>
+    <string name="onehand">Tek El (Deneysel)</string>
+    <string name="onehanded_summary">Ekranınızı sağ alt köşeye küçültür, tüm uygulamalar doğru şekilde ölçeklendirilmez</string>
+    <string name="enter_shell_command">Kabuk Komutu</string>
+    <string name="drag_out">Atamayı değiştirmek için uzun basın</string>
+    <string name="left_hand_mode">Sol El Modu</string>
+    <string name="ime_method">Giriş Yöntemi Seçici</string>
+    <string name="wrap">Ayar: İçerikleri genişlet</string>
+    <string name="fill">Ayar: Dikey Doldur</string>
+    <string name="height">Ekranı Doldur/İçerikleri Genişlet</string>
+    <string name="ime_summary">Giriş yöntemi kullanımında değiştir</string>
+    <string name="auto_start">Otomatik Başlatma Zamanı</string>
+    <string name="auto_stop">Otomatik Durdurma Zamanı</string>
+    <string name="clear_schedule">Zamanlamaları Temizle</string>
+    <string name="reset_alarms">Ekran Filtresi zamanlamalarınızı silmek istediğinizden emin misiniz?</string>
+    <string name="tile_name">Sekme Adı (Boşsa otomatik)</string>
+    <string name="disable_change">Atama devre dışı bırakılsın veya değiştirilsin mi?</string>
+    <string name="change">Değiştir</string>
+    <string name="disable_screen_off">Ekran Kapandığında Kapat</string>
+    <string name="unknown_sources">Bilinmeyen Kaynaklara İzin Ver</string>
+    <string name="unknownsource_tile_summary">Bilinmeyen Kaynaklara / Markette olmayan uygulamaları yüklemeye izin ver</string>
+    <string name="cast">Yayınla</string>
+    <string name="cast_summary">Ekran Yayınlama cihaz listesini açar</string>
+    <string name="horizontal_scale">Yatay Ölçek</string>
+    <string name="vertical_scale">Dikey Ölçek</string>
+    <string name="submit_icons">Geribildirim gönder seçeneğini kullanarak kendi simgelerinizi gönderin</string>
     <string name="premium">Premium</string>
-    <string name="free">FREE</string>
-    <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
-    <string name="force_refresh">Force Refresh</string>
+    <string name="free">ÜCRETSİZ</string>
+    <string name="refresh_summary">Shortcutter Hızlı Ayarlar Sekmelerini yenilemeye zorla (Sekmeler yanıt vermezse kullanılacaktır)</string>
+    <string name="force_refresh">Yenilemeye Zorla</string>
+    <string name="add_tiles_url" translatable="false">https://youtu.be/JhbGPtRn56c</string>
     <string name="vpn">VPN</string>
-    <string name="vpn_summary">Opens VPN Settings</string>
+    <string name="vpn_summary">VPN Ayarlarını açar</string>
 </resources>
