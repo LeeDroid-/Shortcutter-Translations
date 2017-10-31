@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+d<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Shortcutter</string>
     <string name="cancel">İptal</string>
@@ -110,7 +110,7 @@
     <string name="stop_recording"> Kaydı Durdur</string>
     <string name="start_recording"> Kaydı Başlat</string>
     <string name="screen_recorder">Ekran Kaydedici</string>
-    <string name="show_toggle">Show Toggle</string>
+    <string name="show_toggle">Değiştirme düğmesini göster</string>
     <string name="close">Kapat</string>
     <string name="record_audio">Sesi Kaydet</string>
     <string name="show_touches">Dokunuşları Göster</string>
@@ -124,10 +124,10 @@
     <string name="donation10">£9.60 Lisans</string>
     <string name="detected">Algılandı</string>
     <string name="yes">Evet</string>
-    <string name="subscription">Or a Subscription</string>
+    <string name="subscription">veya üyelik</string>
     <string name="thankyoumultiple">Çoklu Lisans Algılandı.
-        \nThank\'s for your support!</string>
-    <string name="thankyou">Thank\'s for your support!</string>
+        \nDesteğiniz için\'Teşekkürler!</string>
+    <string name="thankyou">Desteğiniz için\Teşekkürler!</string>
     <string name="iab_error">Uygulama içi satın alma cihazınız tarafından desteklenmiyor.
         \n\nGoogle Play Store \'dan Premium Lisans satın almak ister misiniz?</string>
     <string name="no">Hayır</string>
@@ -282,7 +282,7 @@
     <string name="failed_data_usage">Mobil internet kullanımı başlatılamadı.</string>
     <string name="how_to">Sekmelerin nasıl eklendiğini öğrenmek için tıklayın.</string>
     <string name="addtiles_title">Sekme nasıl eklenir - Klavuz</string>
-    <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Pulldown Tile Settings\" tab & make your QS Tile selections.]]></string>
+    <string name="select_tiles"><![CDATA[1. Shortcutter 'ı açın\"Bildirimmm\" tab & make your QS Tile selections.]]></string>
     <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below, this is usually a pen icon.
     \n\n Samsung users hit the 3 dot menu and select rearrange tiles.\n\n your Shortcutter tiles will show in the bottom view.]]></string>
     <string name="edit_view1">3. In the Edit View you will find 2/3 containers, you will see your new Shortcutter tiles in the bottom container.
