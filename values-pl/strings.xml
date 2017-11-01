@@ -114,11 +114,11 @@
     <string name="show_touches">Pokaż Dotknięcia</string>
     <string name="subscription_error">Twoje urządzenie nie wspiera subskrypcji.</string>
     <string name="iab_async_error">Błąd uruchomienia zakupu. Kolejna próba synchronizacji zakupu w toku.</string>
-    <string name="onetimefee2">1.89 f</string>
-    <string name="onetimefee5">3.79 f
+    <string name="onetimefee2">1.93€</string>
+    <string name="onetimefee5">3.87€
 	    \n(Napiwek)</string>
-    <string name="donation2">Licencja 1.89 f</string>
-    <string name="donation5">Licencja 3.79 f</string>
+    <string name="donation2">Licencja 1.93€</string>
+    <string name="donation5">Licencja 3.87€</string>
     <string name="donation10">Licencja 9.60 f</string>
     <string name="detected">Wykryto</string>
     <string name="yes">Tak</string>
@@ -390,7 +390,7 @@
     <string name="floating_toolbox">Włącz Pasek Boczny Shortcutter </string>
     <string name="float_summary">Przeciągnij Toolbox/Panel</string>
     <string name="tb_tiles">Boczny Pasek</string>
-    <string name="email_feedback">Zgłaszanie Błędów E-mailowo</string>
+    <string name="email_feedback">Zgłaszanie Błędów</string>
     <string name="submit_review">Napisz opinię</string>
     <string name="rate_app">Oceń Aplikację</string>
     <string name="yes_pro">KUP PREMIUM</string>
@@ -433,8 +433,8 @@
     <string name="trigger_colour_title">Wybierz Kolor Wyzwalania</string>
     <string name="filter_active">Aktywuj Tryb Nocny</string>
     <string name="filter_colour">Wybierz Kolor Filtra</string>
-    <string name="filter_tile_title">Płytka Trybu</string>
-    <string name="screen_filter">Płytka Trybu</string>
+    <string name="filter_tile_title">Tryb Nocny</string>
+    <string name="screen_filter">Płytka Trybu Nocnego</string>
     <string name="screen_filter_summary">Nakładka filtra ekranu (Tryb Nocny)</string>
     <string name="reset_filter">Resetuj Filtr Kolorów</string>
     <string name="sideber_tmb_title">Pozycja Paska</string>
@@ -462,10 +462,10 @@
     <string name="misc_tiles_cat">Różne Ustawienia Płytek</string>
     <string name="fancy_anim">Animacja Opuszczania</string>
     <string name="fancy_summary">Włącz / wyłącz płynną animację</string>
-    <string name="system_toggles">Ustawienia Płytek Systemowych</string>
-    <string name="action_toggles">Płytka Akcji</string>
-    <string name="info_toggles">Płytka Informacyjna</string>
-    <string name="sc_services">Usługi Płytek Shortcutter</string>
+    <string name="system_toggles">Płytki Systemowe</string>
+    <string name="action_toggles">Płytki Akcji</string>
+    <string name="info_toggles">Płytki Informacyjne</string>
+    <string name="sc_services">Płytki Shortcutter</string>
     <string name="weather">Pogoda</string>
     <string name="tap_close">Dotknij aby zamknąć</string>
     <string name="weather_desc">Uruchamia pop-up z aktualnymi informacjami o pogodzie</string>
@@ -486,7 +486,7 @@
     <string name="mylocation_summary">Wyświetla bieżącą lokalizację, z możliwością wyświetlania na mapach lub udostępniania</string>
     <string name="loading_map">Ładowanie Map....</string>
     <string name="swipe_out">Przesuń, aby odrzucić</string>
-    <string name="choose_ring_entries">Wybierz pozycje trybu dzwonka (minimum 2)</string>
+    <string name="choose_ring_entries">Wybierz pozycję trybu dzwonka (minimum 2)</string>
     <string name="qs_head_title">Płytka Nagłówka QS</string>
     <string name="acc_needed_corners">Ta nakładka wymaga dostępu do Ułatwień Dostępu:
         \n\n \u2022 Wykrywanie aktualnych aktywności.
@@ -506,7 +506,7 @@
     <string name="expand_collapse">Toolbox\nExpander</string>
     <string name="expose_toggler">Pokaż Ikonę \"Toolbox Expander\", aby otworzyć lub zamknąć Toolbox lub Pasek Boczny, mapuj do Edge Sense i dużo więcej!</string>
     <string name="permissions">Uprawnienia Aplikacji</string>
-    <string name="settings_access">Zapisz Ustawienia Systemu</string>
+    <string name="settings_access">Zapis Ustawień Systemu</string>
     <string name="overlay_access">Zastąp Uprawnienia</string>
     <string name="acc_access">Dostęp do Ułatwień Dostępu</string>
     <string name="dnd_access">Dostęp Do Trybu Nieprzeszkadzać</string>
@@ -565,7 +565,6 @@
     <string name="force_eng_summary">Uruchom aplikację w Jezyku Angielskim</string>
     <string name="xiaomi">Twoje urządzenie wymaga, aby aplikacja uzyskała uprawnienia do automatycznego uruchamiania usługi Shortcutter w tle, inaczej usługi zostaną zamknięte, jeśli nie jest ona włączona. \n\nProsimy kliknąć pozycję Uruchom &amp; włączyć automatyczne uruchamianie Shortcutter.</string>
     <string name="bat_opt"><![CDATA[Shortcutter  zawiera kilka usług w tle, w niektórych przypadkach Android może zabić te usługi, gdy urządzenie przechodzi w głęboki sen, aby zignorować ten problem, zaleca się wyłączenie Optymalizacji akumulatora za pomocą skrótu za pomocą opcji Ustawienia> Zasilanie. \n\nMam nadzieję, że lubisz aplikację!]]></string>
-
     <string name="failed_window_add">Nie udało się dodać okna, otwórz aplikację i upewnij się, że przyznano uprawnienia nakładki ekranu</string>
     <string name="monochrome">B&amp;W</string>
     <string name="monochrome_summary">Zmiana wyświetlacza na czarno-biały (monochromatyczny)</string>
@@ -599,8 +598,7 @@
     <string name="tile_icons">Płytki/Ikony</string>
     <string name="labels">Etykiety Płytek</string>
     <string name="icon_scale">Skalowanie Ikon</string>
-    <string name="flash_sale">30% zniżkę na Shortcutter Premium!
-\nWybierz opcję £ 1.89 na ekranie premium.</string>
+    <string name="flash_sale">30% zniżkę na Shortcutter Premium!\nWybierz opcję £ 1.89 na ekranie premium.</string>
     <string name="sale">Wyprzedaż Shortcutter</string>
     <string name="dim">Rozmiar -</string>
     <string name="dimup">Rozmiar +</string>
@@ -620,7 +618,7 @@
     <string name="bt_summary">Włącz/Wyłącz Bluetooth</string>
     <string name="went_wrong">Coś jest nie tak, spróbuj jeszcze raz. Jeśli ten problem będzie się powtarzał, prosimy o kontakt z danymi urządzenia.</string>
     <string name="cont_and_phone"><![CDATA[Coś poszło nie tak, czy masz uprawnienia dla Kontaktów i Telefonu?]]></string>
-    <string name="cp_head">DOTKNIJ W CENTRUM POTWIERDZAJĄC LUB WSTECZ,ABY ANULOWAĆ</string>
+    <string name="cp_head">Doyknij w CENTRUM potwierdzając lub WSTECZ,aby anulować</string>
     <string name="transparency">Przeźroczystość</string>
     <string name="apply">Zastosuj</string>
     <string name="scale">Skala =&#160;</string>
@@ -636,7 +634,7 @@
     <string name="samsung_note">Ważna uwaga dla użytkowników Samsunga</string>
     <string name="battery_opt">Jeśli używasz urządzenia firmy Samsung, po przejściu w stan uśpienia może wystąpić brak reakcji na dotknięcie płytki.</string>
     <string name="trig_alpha">Aby wyeliminować ten problem, wyłącz Shortcutter z optymalizacji baterii w ustawieniach urządzenia.</string>
-    <string name="problem">Masz problem lub prośbę o funkcję\? \n Wyślij mi E-Mail najpierw :)</string>
+    <string name="problem">Masz problem lub prośbę o funkcję, nie pisz w Sklepie Play\? \n Wyślij mi E-Mail poprzez opcję Zgłaszanie Błędów :)</string>
     <string name="opacity">Przeźroczystość =</string>
     <string name="onehand">Jedną Ręką (Eksperymentalne)</string>
     <string name="onehanded_summary">Powoduje zmniejszenie wyświetlacza w prawym dolnym rogu, ale nie wszystkie aplikacje są prawidłowo skalowane</string>
@@ -658,15 +656,15 @@
     <string name="disable_screen_off">Wyłącz Wł/Wył-Ekran</string>
     <string name="unknown_sources">Zezwalaj na Nieznane Źródła</string>
     <string name="unknownsource_tile_summary">Zezwalaj na nieznane źródła / Instalowanie aplikacji innych niż ze sklepu</string>
-    <string name="cast">Przesylanie ekranu</string>
-    <string name="cast_summary">Launches the Screen Cast device list</string>
-    <string name="horizontal_scale">Horizontal Scale</string>
-    <string name="vertical_scale">Vertical Scale</string>
-    <string name="submit_icons">Submit your own icons using the Email feeback option</string>
+    <string name="cast">Przesyłanie ekranu</string>
+    <string name="cast_summary">Uruchamia listę urządzeń do Przesyłania ekranu</string>
+    <string name="horizontal_scale">Skalowanie Poziome</string>
+    <string name="vertical_scale">Skalowanie Pionowe</string>
+    <string name="submit_icons">Prześlij własne ikony za pomocą opcji Zgłaszanie Błędów za pośrednictwem poczty e-mail</string>
     <string name="premium">Premium</string>
     <string name="free">FREE</string>
-    <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
-    <string name="force_refresh">Force Refresh</string>
+    <string name="refresh_summary">Wymuś odświeżenie Płytek Shortcutter Quick Settings (jeśli płytki przestały odpowiadać)</string>
+    <string name="force_refresh">Wymuś Odświeżenie</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">Opens VPN Settings</string>
 </resources>

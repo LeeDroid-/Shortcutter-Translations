@@ -226,8 +226,8 @@ Usage"</string>
     <string name="dnd_required">Неразрешен доступ - Включить, чтобы включить</string>
     <string name="dnd_summary">Использование: Режим звонка</string>
     <string name="donation10">£9.60 Лицензия</string>
-    <string name="donation2">£1.89 Лицензия</string>
-    <string name="donation5">£3.79 Лицензия</string>
+    <string name="donation2">£1.69 Лицензия</string>
+    <string name="donation5">£3.39 Лицензия</string>
     <string name="drag_out">Длительное нажатие для изменения назначения </string>
     <string name="edit_view">2. Выдвиньте свою строку состояния и нажмите кнопку редактирования, как показано ниже, это обычно значок пера.
 
@@ -405,8 +405,8 @@ Usage"</string>
     <string name="oncharge_tile_title">Экран вкл. во время зарядки</string>
     <string name="onehand">Одной рукой (экспериментальный)</string>
     <string name="onehanded_summary">сжимает ваш дисплей в правом нижнем углу, не все приложений масштабируются правильно</string>
-    <string name="onetimefee2">£1.89</string>
-    <string name="onetimefee5">"£3.79 
+    <string name="onetimefee2">£1.69</string>
+    <string name="onetimefee5">"£3.39
 (Gratuity)"</string>
     <string name="onwhilecharge_summary">Держите экран, когда заткнуто</string>
     <string name="opacity">Непрозрачность =</string>

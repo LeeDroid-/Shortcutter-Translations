@@ -105,10 +105,10 @@
     <string name="show_touches">Mostrar Toques</string>
     <string name="subscription_error">O seu diispositivo não suporta assinaturas.</string>
     <string name="iab_async_error">Erro a lança serviço de compra. Está a decorrer outra operação.</string>
-    <string name="onetimefee2">£1.89</string>
-    <string name="onetimefee5">£3.79\n(Gorjeta)</string>
-    <string name="donation2">£1.89 Licença</string>
-    <string name="donation5">£3.79 Licença</string>
+    <string name="onetimefee2">1.93€</string>
+    <string name="onetimefee5">3.87€\n(Gorjeta)</string>
+    <string name="donation2">1.93€ Licença</string>
+    <string name="donation5">3.87€ Licença</string>
     <string name="donation10">£9.60 Licença</string>
     <string name="detected">Detetada</string>
     <string name="yes">Sim</string>

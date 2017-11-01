@@ -114,11 +114,11 @@
     <string name="show_touches">Show Touches</string>
     <string name="subscription_error">Your device does not support subscriptions.</string>
     <string name="iab_async_error">Error launching purchase flow. Another async operation in progress.</string>
-    <string name="onetimefee2">£1.89</string>
-    <string name="onetimefee5">£3.79
+    <string name="onetimefee2">£1.69</string>
+    <string name="onetimefee5">£3.39
         \n(Gratuity)</string>
-    <string name="donation2">£1.89 License</string>
-    <string name="donation5">£3.79 License</string>
+    <string name="donation2">£1.69 License</string>
+    <string name="donation5">£3.39 License</string>
     <string name="donation10">£9.60 License</string>
     <string name="detected">Detected</string>
     <string name="yes">Yes</string>
