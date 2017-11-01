@@ -490,7 +490,6 @@
     <string name="weather_celsius">Temperature Unit</string>
     <string name="celsius">Celsius</string>
     <string name="fahrenheit">Fahrenheit</string>
-    <string name="app_sig" translatable="false">h/PYxYUERge+smlDrO6Ffl2VHWY=</string>
     <string name="humidity">Humidity:&#160;</string>
     <string name="mylocation">My Location</string>
     <string name="maps_link">View On Maps</string>
