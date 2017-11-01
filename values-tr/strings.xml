@@ -1,4 +1,4 @@
-d<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Shortcutter</string>
     <string name="cancel">İptal</string>
@@ -116,11 +116,11 @@ d<?xml version="1.0" encoding="utf-8"?>
     <string name="show_touches">Dokunuşları Göster</string>
     <string name="subscription_error">Cihazınız aboneliği desteklemiyor.</string>
     <string name="iab_async_error">Satın alma işlemi, başka bir işlem yapılmakta olduğundan, başlatılamadı.</string>
-    <string name="onetimefee2">£1.89</string>
-    <string name="onetimefee5">£3.79
+    <string name="onetimefee2">£1.69</string>
+    <string name="onetimefee5">£3.39
         \n(Gratuity)</string>
-    <string name="donation2">£1.89 Lisans</string>
-    <string name="donation5">£3.79 Lisans</string>
+    <string name="donation2">£1.69 Lisans</string>
+    <string name="donation5">£3.39 Lisans</string>
     <string name="donation10">£9.60 Lisans</string>
     <string name="detected">Algılandı</string>
     <string name="yes">Evet</string>
@@ -667,5 +667,5 @@ d<?xml version="1.0" encoding="utf-8"?>
     <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
     <string name="force_refresh">Yenilemeye zorla</string>
     <string name="vpn">VPN</string>
-    <string name="vpn_summary"VPN ayarlarını aç</string>
+    <string name="vpn_summary">VPN ayarlarını aç</string>
 </resources>

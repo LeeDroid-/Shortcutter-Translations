@@ -114,11 +114,11 @@
     <string name="show_touches">Mostrar toques</string>
     <string name="subscription_error">Tu dispositivo no es compatible con las suscripciones.</string>
     <string name="iab_async_error">Error al realizar la compra. Hay otra operación en progreso.</string>
-    <string name="onetimefee2">2\'10€</string>
-    <string name="onetimefee5">4\'21€
+    <string name="onetimefee2">1.93€</string>
+    <string name="onetimefee5">3.87€
         \n(gratuito)</string>
-    <string name="donation2">Licencia de 2\'10€</string>
-    <string name="donation5">Licencia de 4\'21€</string>
+    <string name="donation2">Licencia de 1.93€</string>
+    <string name="donation5">Licencia de 3.87€</string>
     <string name="donation10">Licencia de 10\'67€</string>
     <string name="detected">Detectado</string>
     <string name="yes">Sí</string>

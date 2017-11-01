@@ -114,11 +114,11 @@
     <string name="show_touches">Pokaż Dotknięcia</string>
     <string name="subscription_error">Twoje urządzenie nie wspiera subskrypcji.</string>
     <string name="iab_async_error">Błąd uruchomienia zakupu. Kolejna próba synchronizacji zakupu w toku.</string>
-    <string name="onetimefee2">1.89 f</string>
-    <string name="onetimefee5">3.79 f
+    <string name="onetimefee2">1.93€</string>
+    <string name="onetimefee5">3.87€
 	    \n(Napiwek)</string>
-    <string name="donation2">Licencja 1.89 f</string>
-    <string name="donation5">Licencja 3.79 f</string>
+    <string name="donation2">Licencja 1.93€</string>
+    <string name="donation5">Licencja 3.87€</string>
     <string name="donation10">Licencja 9.60 f</string>
     <string name="detected">Wykryto</string>
     <string name="yes">Tak</string>
@@ -237,18 +237,7 @@
     <string name="dice_desc">Generuje liczbę losową
 	    \n(Zmień w Ustawieniach Płytek)</string>
     <string name="auto_step">Auto Kroki Jasności</string>
-    
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	<string name="file_tile">Przeglądarka
+    <string name="file_tile">Przeglądarka
 	    \nPlików</string>
     <string name="file_summary">Uruchamia domyślną przeglądarkę plików</string>
     <string name="new_tweet">Nowy
@@ -453,8 +442,7 @@
     <string name="tb_columns_summary">Aktualnie = %s kolumny</string>
     <string name="sb_columns_title">Kolumny Paska Bocznego</string>
     <string name="design_settings">Motyw/Wygląd</string>
-    
-	<string name="corners_summary">Używa nakładki, aby uzyskać złudzenie zaokrąglonych narożników ekranu</string>
+    <string name="corners_summary">Używa nakładki, aby uzyskać złudzenie zaokrąglonych narożników ekranu</string>
     <string name="corners_title">Płytka Zaokrąglonych Narożników</string>
     <string name="corners__scale_title">Skalowanie Rogów</string>
     <string name="corners__scale_set">Skalowanie Narożników&#160;=&#160;%1$d%%</string>
@@ -478,8 +466,7 @@
     <string name="action_toggles">Płytki Akcji</string>
     <string name="info_toggles">Płytki Informacyjne</string>
     <string name="sc_services">Płytki Shortcutter</string>
-    
-	<string name="weather">Pogoda</string>
+    <string name="weather">Pogoda</string>
     <string name="tap_close">Dotknij aby zamknąć</string>
     <string name="weather_desc">Uruchamia pop-up z aktualnymi informacjami o pogodzie</string>
     <string name="location">Aktualizacja Lokalizacji</string>
@@ -490,14 +477,12 @@
     <string name="weather_celsius"> Jednostka Temperatury</string>
     <string name="celsius">Celcjusza</string>
     <string name="fahrenheit">Fahrenheit</string>
-    
-	<string name="humidity">Wilgotność:&#160;</string>
+    <string name="humidity">Wilgotność:&#160;</string>
     <string name="mylocation">Moja Lokalizacja</string>
     <string name="maps_link">Zobacz na Mapie</string>
     <string name="refresh">Odśwież</string>
     <string name="current_location">Aktualna Lokalizacja</string>
-    
-	<string name="dev_loc_mode">Tryb Lokalizacji:&#160;%1$s</string>
+    <string name="dev_loc_mode">Tryb Lokalizacji:&#160;%1$s</string>
     <string name="mylocation_summary">Wyświetla bieżącą lokalizację, z możliwością wyświetlania na mapach lub udostępniania</string>
     <string name="loading_map">Ładowanie Map....</string>
     <string name="swipe_out">Przesuń, aby odrzucić</string>
@@ -580,8 +565,6 @@
     <string name="force_eng_summary">Uruchom aplikację w Jezyku Angielskim</string>
     <string name="xiaomi">Twoje urządzenie wymaga, aby aplikacja uzyskała uprawnienia do automatycznego uruchamiania usługi Shortcutter w tle, inaczej usługi zostaną zamknięte, jeśli nie jest ona włączona. \n\nProsimy kliknąć pozycję Uruchom &amp; włączyć automatyczne uruchamianie Shortcutter.</string>
     <string name="bat_opt"><![CDATA[Shortcutter  zawiera kilka usług w tle, w niektórych przypadkach Android może zabić te usługi, gdy urządzenie przechodzi w głęboki sen, aby zignorować ten problem, zaleca się wyłączenie Optymalizacji akumulatora za pomocą skrótu za pomocą opcji Ustawienia> Zasilanie. \n\nMam nadzieję, że lubisz aplikację!]]></string>
-
-    
     <string name="failed_window_add">Nie udało się dodać okna, otwórz aplikację i upewnij się, że przyznano uprawnienia nakładki ekranu</string>
     <string name="monochrome">B&amp;W</string>
     <string name="monochrome_summary">Zmiana wyświetlacza na czarno-biały (monochromatyczny)</string>
@@ -682,7 +665,6 @@
     <string name="free">FREE</string>
     <string name="refresh_summary">Wymuś odświeżenie Płytek Shortcutter Quick Settings (jeśli płytki przestały odpowiadać)</string>
     <string name="force_refresh">Wymuś Odświeżenie</string>
-    
     <string name="vpn">VPN</string>
     <string name="vpn_summary">Opens VPN Settings</string>
 </resources>

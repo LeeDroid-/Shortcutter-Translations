@@ -112,11 +112,11 @@
     <string name="show_touches">Berührungen anzeigen</string>
     <string name="subscription_error">Dein Gerät unterstützt keine Abonnements.</string>
     <string name="iab_async_error">Fehler beim Starten des Bezahlvorgangs. Ein weiterer asynchroner Prozess ist im Gange.</string>
-    <string name="onetimefee2">£1.89</string>
-    <string name="onetimefee5">£3.79
+    <string name="onetimefee2">1.93€</string>
+    <string name="onetimefee5">3.87€
         \n(Trinkgeld)</string>
-    <string name="donation2">£1.89 Lizenz</string>
-    <string name="donation5">£3.79 Lizenz</string>
+    <string name="donation2">1.93€ Lizenz</string>
+    <string name="donation5">3.87€ Lizenz</string>
     <string name="donation10">£9.60 Lizenz</string>
     <string name="detected">Erkannt</string>
     <string name="yes">Ja</string>

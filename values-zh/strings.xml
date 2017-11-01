@@ -114,11 +114,11 @@
     <string name="show_touches">显示触点</string>
     <string name="subscription_error">你的设备不支持订阅。</string>
     <string name="iab_async_error">启动购买流程时发生错误。其他非同步操作仍在进行中。</string>
-    <string name="onetimefee2">£1.89</string>
-    <string name="onetimefee5">£3.79
+    <string name="onetimefee2">£1.69</string>
+    <string name="onetimefee5">£3.39
         \n(小费)</string>
-    <string name="donation2">£1.89 许可证</string>
-    <string name="donation5">£3.79 许可证</string>
+    <string name="donation2">£1.69 许可证</string>
+    <string name="donation5">£3.39 许可证</string>
     <string name="donation10">£9.60 许可证</string>
     <string name="detected">已检测</string>
     <string name="yes">是</string>
