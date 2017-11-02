@@ -114,11 +114,11 @@
     <string name="show_touches">Pokaż Dotknięcia</string>
     <string name="subscription_error">Twoje urządzenie nie wspiera subskrypcji.</string>
     <string name="iab_async_error">Błąd uruchomienia zakupu. Kolejna próba synchronizacji zakupu w toku.</string>
-    <string name="onetimefee2">1.89 f</string>
-    <string name="onetimefee5">3.79 f
+    <string name="onetimefee2">1.69 f</string>
+    <string name="onetimefee5">3.39 f
 	    \n(Napiwek)</string>
-    <string name="donation2">Licencja 1.89 f</string>
-    <string name="donation5">Licencja 3.79 f</string>
+    <string name="donation2">Licencja 1.69 f</string>
+    <string name="donation5">Licencja 3.39 f</string>
     <string name="donation10">Licencja 9.60 f</string>
     <string name="detected">Wykryto</string>
     <string name="yes">Tak</string>
@@ -489,8 +489,7 @@
     <string name="dewp">Punkt rosy:&#160;</string>
     <string name="weather_celsius"> Jednostka Temperatury</string>
     <string name="celsius">Celcjusza</string>
-    <string name="fahrenheit">Fahrenheit</string>
-    
+    <string name="fahrenheit">Fahrenheit</string>    
 	<string name="humidity">Wilgotność:&#160;</string>
     <string name="mylocation">Moja Lokalizacja</string>
     <string name="maps_link">Zobacz na Mapie</string>
