@@ -260,7 +260,7 @@
     <string name="newemail">Nowy
 	    \nEmail</string>
     <string name="newemailsum">Wyślij email</string>
-    <string name="emailtitle">Płytka E-maila</string>
+    <string name="emailtitle">E-mail</string>
     <string name="stay_in_the_loop">Media Społecznościowe</string>
     <string name="follow_me">Polub Mnie na Twitterze</string>
     <string name="like_facebook">Polub Moją Stronę na Facebooku</string>
@@ -682,6 +682,6 @@
     <string name="refresh_summary">Wymuś odświeżenie Płytek Shortcutter Quick Settings (jeśli płytki przestały odpowiadać)</string>
     <string name="force_refresh">Wymuś Odświeżenie</string>
     
-	<string name="vpn">VPN</string>
+    <string name="vpn">VPN</string>
     <string name="vpn_summary">Opens VPN Settings</string>
 </resources>
