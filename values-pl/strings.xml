@@ -153,46 +153,46 @@
     <string name="noalarm">Brak Alarmów</string>
     <string name="availableram">"Dostępny
 	    \nRAM"</string>
-    <string name="network_mode">Płytka Trybu Sieci</string>
+    <string name="network_mode">Tryb Sieci</string>
     <string name="network_mode_summary">Wybierz Tryb Sieci</string>
     <string name="adb_summary">Przełącz Tryb Debugowania</string>
-    <string name="adbtile">Płytka ADB</string>
+    <string name="adbtile">ADB</string>
     <string name="alarm_summary">Pokaż następny alarm, kliknięcie otwiera alarmy</string>
-    <string name="alarm_tile_title">Płytka Następnego Alarmu</string>
+    <string name="alarm_tile_title">Następny Alarm</string>
     <string name="ambien_summary">Wyświetlanie Ambient / Doze</string>
-    <string name="ambient_tile_title">Płytka Ambient Display</string>
+    <string name="ambient_tile_title">Ambient Display</string>
     <string name="autobrightness_summary">Auto Jasność Wł/Wył</string>
     <string name="autobrightness_tile_title">Auto Jasność</string>
     <string name="brightnesspreset_summary">Przełącz kroki jasności
         \n(Zdefiniuj kroki w Ustawieniach Płytki)</string>
     <string name="brightnesspreset_tile_title">Płytka Ustawienia Jasności</string>
     <string name="camera_summary">Uruchamia domyślną aplikację aparatu</string>
-    <string name="camera_tile_title">Płytka Aparatu</string>
+    <string name="camera_tile_title">Aparat</string>
     <string name="haptic_summary">Przełącz Potwierdzenie Wibracją wł/wył</string>
     <string name="headsup_summary">Przełącz powiadomienia Heads Up</string>
-    <string name="headsup">Płytka Heads Up</string>
+    <string name="headsup">Heads Up</string>
     <string name="immersive_summary">Ukryj paski stanu i nawigacji</string>
     <string name="immersive_tile_title">Pełny
 	     \nEkran</string>
     <string name="location_summary">Przełącz tryb lokalizacji Wył/GPS/Oszczędzanie Baterii/Wysoka Dokładność</string>
-    <string name="location_tile_title">Płytka Trybu Lokalizacji</string>
-    <string name="ram_tile_title">Płytka RAM</string>
+    <string name="location_tile_title">Tryb Lokalizacji</string>
+    <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">Wyświetla dostępną i całkowitą ilość RAM. Za pomocą skrótu przejdziesz do informacji o pamięci RAM</string>
-    <string name="recovery_tile_title">Płytka Restartu do Recovery</string>
+    <string name="recovery_tile_title">Restart do Recovery</string>
     <string name="recovery_summary">Restartuje Twoje urządzenie do Trybu Recovery</string>
     <string name="reboot_summary">Restartuje Twoje urządzenie</string>
-    <string name="reboot_tile_title">Płytka Restartu</string>
-    <string name="ringmode_tile_title">Płytka Trybu Dzwonka</string>
+    <string name="reboot_tile_title">Restart</string>
+    <string name="ringmode_tile_title">Tryb Dzwonka</string>
     <string name="ringmode_summary">Przełącz Tryb Dzwonka Dzwonek/Wibracja/Cichy</string>
     <string name="screenrecord_summary">Płytka która pozwala nagrywać wszystko, co jest na ekranie urządzenia</string>
     <string name="screenrecord_tile_title">Nagrywanie Ekranu</string>
     <string name="screenshot_summary">Wykonuje zdjęcie ekranu Twojego urządzenia</string>
-    <string name="screenshot_tile_title">Płytka Zrzutu Ekranu</string>
-    <string name="sync_tile_title">Płytka Autosynch</string>
-    <string name="sync_summary">Włącz / Wyłącz Auto Synch</string>
+    <string name="screenshot_tile_title">Zrzut Ekranu</string>
+    <string name="sync_tile_title">Autosynch</string>
+    <string name="sync_summary">Włącz/Wyłącz Auto Synch</string>
     <string name="timeout_summary">Przełącz ustawienie wył ekranu</string>
-    <string name="timeout_tile_title">Płytka Czasu Wł Ekranu</string>
-    <string name="volumeui_tile_title">Płytka Panelu Głośności</string>
+    <string name="timeout_tile_title">Czasu Wł Ekranu</string>
+    <string name="volumeui_tile_title">Panel Głośności</string>
     <string name="volumeui_summary">Płytka wyświetlająca panel głośności</string>
     <string name="wake_summary">Utrzymuje wybudzony ekran urządzenia</string>
     <string name="wake_tile_title">Wybudzenie Ekranu</string>
@@ -202,7 +202,7 @@
     <string name="prem_only">Tylko Premium</string>
     <string name="settings_secure_needed">Wymagany dostęp do Ustawień Zabezpieczeń</string>
     <string name="flash_summary">Przełącz latarkę aparatu</string>
-    <string name="flash_tile_title">Płytka Latarki</string>
+    <string name="flash_tile_title">Latarka</string>
     <string name="no_flash">Nie Wykryto Latarki</string>
     <string name="battery_summary">Monitoruje Twój poziom baterii</string>
     <string name="battery_tile_title">Bateria</string>
@@ -210,7 +210,7 @@
 	    \nładowanie</string>
     <string name="onwhilecharge_summary">Trzymaj wł ekran, gdy podłączony</string>
     <string name="oncharge_tile_title">Ekran Wł Podczas Ładowania</string>
-    <string name="countdown">Płytka Odliczania</string>
+    <string name="countdown">Odliczanie</string>
     <string name="new_message">Nowa 
 	    \nWiadomość</string>
     <string name="cap_store_title">Miejsce Przechowywania Zrzutów Ekranu</string>
@@ -221,19 +221,19 @@
     <string name="time_up">Czas minął!</string>
     <string name="countdown_timer">Odliczanie</string>
     <string name="set">Ustaw</string>
-    <string name="countdown_desc">Płytka odliczania</string>
+    <string name="countdown_desc">Odliczanie</string>
     <string name="choose_steps">Wybierz Kroki Ustawień Jasności</string>
     <string name="preset_steps">Zdefiniowane Kroki Jasności</string>
     <string name="currently">Aktualne ustawienie to %1$d kroki(ów)</string>
     <string name="current_shot">Aktualne ustawienie to %1$d sekund</string>
     <string name="current_dice">Aktualne ustawienie to %1$d</string>
     <string name="permissions_not_granted">Nie wydaje się mieć Shortcutter odpowiednich uprawnień, uruchomić aplikację?</string>
-    <string name="counter_tile">Płytka
-	    \nKlikania</string>
-    <string name="counter_summary">Płytka liczy ilość kliknięć</string>
+    <string name="counter_tile">Klikanie</string>
+    
+	<string name="counter_summary">Płytka liczy ilość kliknięć</string>
     <string name="reset_counter">Resetuj Płytkę Kliknięć</string>
     <string name="cur_val">Aktualny stan = %1$d</string>
-    <string name="Dice">Płytka Kości</string>
+    <string name="Dice">Kości</string>
     <string name="dice_desc">Generuje liczbę losową
 	    \n(Zmień w Ustawieniach Płytek)</string>
     <string name="auto_step">Auto Kroki Jasności</string>
@@ -445,7 +445,7 @@
     <string name="filter_active">Aktywuj Tryb Nocny</string>
     <string name="filter_colour">Wybierz Kolor Filtra</string>
     <string name="filter_tile_title">Tryb Nocny</string>
-    <string name="screen_filter">Płytka Trybu Nocnego</string>
+    <string name="screen_filter">Tryb Nocny</string>
     <string name="screen_filter_summary">Nakładka filtra ekranu (Tryb Nocny)</string>
     <string name="reset_filter">Resetuj Filtr Kolorów</string>
     <string name="sideber_tmb_title">Pozycja Paska</string>
@@ -455,7 +455,7 @@
     <string name="design_settings">Motyw/Wygląd</string>
     
 	<string name="corners_summary">Używa nakładki, aby uzyskać złudzenie zaokrąglonych narożników ekranu</string>
-    <string name="corners_title">Płytka Zaokrąglonych Narożników</string>
+    <string name="corners_title">Zaokrąglone Narożniki</string>
     <string name="corners__scale_title">Skalowanie Rogów</string>
     <string name="corners__scale_set">Skalowanie Narożników&#160;=&#160;%1$d%%</string>
     <string name="corners_scale_summary">Ustaw promień naroża ekranu</string>
