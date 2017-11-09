@@ -683,5 +683,5 @@
     <string name="force_refresh">Wymuś Odświeżenie</string>
     
     <string name="vpn">VPN</string>
-    <string name="vpn_summary">Opens VPN Settings</string>
+    <string name="vpn_summary">Otwórz Ustawienia VPN</string>
 </resources>
