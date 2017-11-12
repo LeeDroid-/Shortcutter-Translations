@@ -661,13 +661,13 @@
     <string name="unknownsource_tile_summary">Unbekannte Quellen zulassen / Installation marktfremder Apps</string>
     <string name="cast">Bildschirmübertragung</string>
     <string name="cast_summary">Zeigt die Geräteliste zur Bildschirmübertragung an</string>
-    <string name="horizontal_scale">Horizontal Scale</string>
-    <string name="vertical_scale">Vertical Scale</string>
-    <string name="submit_icons">Submit your own icons using the Email feeback option</string>
+    <string name="horizontal_scale">Horizontale Skalierung</string>
+    <string name="vertical_scale">Vertikale Skalierung</string>
+    <string name="submit_icons">Submit your own icons using the Email feeback optionEigene Icons mit der E-Mail-Feeback-Option senden</string>
     <string name="premium">Premium</string>
-    <string name="free">FREE</string>
-    <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
-    <string name="force_refresh">Force Refresh</string>
+    <string name="free">FREE</string> 
+    <string name="refresh_summary">Aktualisierung der Shortcutter Quick Settings Kacheln erzwingen (Zu verwenden, wenn die Kacheln nicht mehr ansprechen)</string>
+    <string name="force_refresh">Aktualisierung erzwingen</string>
     <string name="vpn">VPN</string>
-    <string name="vpn_summary">Opens VPN Settings</string>
+    <string name="vpn_summary">Öffnet VPN Einstellungen</string>
 </resources>
