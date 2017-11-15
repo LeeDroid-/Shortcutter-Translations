@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Shortcutter</string>
-    <string name="cancel">Annuler</string>
-    <string name="autosync">Synchronisation Auto</string>
-    <string name="locationMode">Mode Localisation</string>
+    <string name="cancel">Cancel</string>
+    <string name="autosync">Auto Sync</string>
+    <string name="locationMode">Location Mode</string>
     <string name="HeadsUp">Heads Up</string>
     <string name="no_perms">No Permissions</string>
     <string name="Off">Off</string>
