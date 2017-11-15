@@ -3,8 +3,8 @@
     <string-array name="location_mode_entries">
         <item>Off</item>
         <item>Device Only</item>
-        <item>Battery Saving</item>
-        <item>High Accuracy</item>
+        <item>Risparmio energetico</item>
+        <item>Alta precisione</item>
     </string-array>
     <string-array name="location_mode_values">
         <item>0</item>
@@ -13,9 +13,9 @@
         <item>3</item>
     </string-array>
     <string-array name="ring_mode_entries">
-        <item>Silent</item>
-        <item>Vibrate</item>
-        <item>Ring</item>
+        <item>Silenzioso</item>
+        <item>Vibrazione</item>
+        <item>Suoneria</item>
     </string-array>
     <string-array name="ring_mode_values">
         <item>0</item>
@@ -23,9 +23,9 @@
         <item>2</item>
     </string-array>
     <string-array name="sidebar_tmb_entries">
-        <item>Top</item>
-        <item>Center</item>
-        <item>Bottom</item>
+        <item>Alto</item>
+        <item>Centro</item>
+        <item>Basso</item>
     </string-array>
     <string-array name="sidebar_tmb_values">
         <item>0</item>
@@ -66,16 +66,16 @@
         <item>QVGA</item>
     </string-array>
     <string-array name="cust_tile_choice">
-        <item>Application</item>
-        <item>Activity (Advanced)</item>
-        <item>Shortcut</item>
-        <item>Web Link</item>
+        <item>Applicazione</item>
+        <item>Activity (Avanzato)</item>
+        <item>Scorciatoia</item>
+        <item>Sito Web</item>
     </string-array>
     <string-array name="cust_tile_choice_root">
-        <item>Application</item>
-        <item>Activity (Advanced)</item>
-        <item>Shortcut</item>
-        <item>Web Link</item>
-        <item>Shell Command</item>
+        <item>Applicazione</item>
+        <item>Activity (Avanzato)</item>
+        <item>Scorciatoia</item>
+        <item>Sito Web</item>
+        <item>Comando Shell</item>
     </string-array>
 </resources>
