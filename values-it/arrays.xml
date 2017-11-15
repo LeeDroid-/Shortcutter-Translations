@@ -2,7 +2,7 @@
 <resources>
     <string-array name="location_mode_entries">
         <item>Off</item>
-        <item>Device Only</item>
+        <item>Solo dispositivo</item>
         <item>Risparmio energetico</item>
         <item>Alta precisione</item>
     </string-array>
