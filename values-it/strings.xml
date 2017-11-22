@@ -532,7 +532,6 @@
     <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
     In order to do this the app needs the Location permission.\n\n
     Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="unavailable">Unavailable</string>
     <string name="install_shortcut">Install\nShortcut</string>
     <string name="select_shortcut">Select A Shortcut To Install</string>
     <string name="header">Remove Header</string>
@@ -599,7 +598,7 @@
     <string name="tile_icons">Tiles/Icons</string>
     <string name="labels">Tile Labels</string>
     <string name="icon_scale">Icon Scale</string>
-    <string name="flash_sale">30% Off Shortcutter Premium!\nPlease select the £1.89 option in the purchase premium screen.</string>
+    <string name="flash_sale">30% Off Shortcutter Premium!\nPlease select the £1.69 option in the purchase premium screen.</string>
     <string name="sale">Shortcutter Flash Sale</string>
     <string name="dim">Dim -</string>
     <string name="dimup">Dim +</string>
@@ -669,4 +668,6 @@
     <string name="add_tiles_url" translatable="false">https://youtu.be/JhbGPtRn56c</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">Opens VPN Settings</string>
+    <string name="compass">Compass</string>
+    <string name="updating">Updating</string>
 </resources>

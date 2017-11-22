@@ -532,7 +532,6 @@
     <string name="shortcutter_permissions_location">Dieser Schalter erfordert die Fähigkeit auf deinen Standort zuzugreifen.
 	\n\nUm das zu tun braucht die App die Standortberechtigung.
 	\n\nBitte klicke Fortfahren &amp; gewähre die Berechtigung wenn diese abgefragt wird.</string>
-    <string name="unavailable">Nicht verfügbar</string>
     <string name="install_shortcut">Installiere\nShortcut</string>
     <string name="select_shortcut">Wähle ein Shortcut zum Installieren</string>
     <string name="header">Entferne Überschrift</string>
@@ -670,4 +669,6 @@
     <string name="force_refresh">Aktualisierung erzwingen</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">Öffnet VPN Einstellungen</string>
+    <string name="compass">Compass</string>
+    <string name="updating">Updating</string>
 </resources>

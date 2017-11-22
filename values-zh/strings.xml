@@ -532,7 +532,6 @@
     <string name="shortcutter_permissions_location">这个开关需要能够访问你的位置。\n\n
     为了做到这样，应用需要位置权限。\n\n
     请点击继续 &amp; 提示时授予权限。</string>
-    <string name="unavailable">不可用</string>
     <string name="install_shortcut">安装\n快捷方式</string>
     <string name="select_shortcut">选择要安装的快捷方式</string>
     <string name="header">移除标题</string>
@@ -598,7 +597,7 @@
     <string name="tile_icons">瓷贴/图标</string>
     <string name="labels">瓷贴标注</string>
     <string name="icon_scale">图标缩放</string>
-    <string name="flash_sale">Shortcutter 付费版现正9折!\n请在购买付费版界面选择 £1.89 选项。</string>
+    <string name="flash_sale">Shortcutter 付费版现正9折!\n请在购买付费版界面选择 £1.69 选项。</string>
     <string name="sale">Shortcutter 闪光灯缩放</string>
     <string name="dim">调暗 -</string>
     <string name="dimup">调暗 +</string>
@@ -667,4 +666,6 @@
     <string name="force_refresh">强制刷新</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">打开 VPN 设置</string>
+    <string name="compass">Compass</string>
+    <string name="updating">Updating</string>
 </resources>

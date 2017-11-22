@@ -275,7 +275,7 @@ Usage"</string>
     <string name="filter_colour">Выберите цвет фильтра</string>
     <string name="filter_off_secure">Фильтр Экрана приостановлен: обнаружена активность</string>
     <string name="filter_tile_title">Фильтр экрана</string>
-    <string name="flash_sale">30% Off Shortcutter Premium!\nPlease select the £1.89 option in the purchase premium screen.</string>
+    <string name="flash_sale">30% Off Shortcutter Premium!\nPlease select the £1.69 option in the purchase premium screen.</string>
     <string name="flash_summary">Переключение камеры/фонарик</string>
     <string name="flash_tile_title">Фонарик</string>
     <string name="flashlight">Фонарик</string>
@@ -632,7 +632,6 @@ Usage"</string>
     <string name="tuner_summary">Запуск скрытые функции SystemUI, зависит от прошивки</string>
     <string name="tuner_tile_title">SystemUI</string>
     <string name="tweaks_key">Обнаружен ключ для премиум-функций</string>
-    <string name="unavailable">Недоступено</string>
     <string name="usage_access">Использование данных</string>
     <string name="usage_access_required">Использование Разрешения доступа - Переключить для включения</string>
     <string name="usage_summary">Использование: Плитка использования данных</string>
@@ -684,5 +683,7 @@ Usage"</string>
     <string name="force_refresh">Force Refresh</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">Opens VPN Settings</string>
+    <string name="compass">Compass</string>
+    <string name="updating">Updating</string>
 
 </resources>

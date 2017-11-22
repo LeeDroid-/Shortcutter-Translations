@@ -86,7 +86,7 @@
   <string name="flashlight">フラッシュライト</string>
   <string name="ambient_display">Doze Display</string>
   <string name="reboot_now">再起動しますか?</string>
-  <string name="root_available">Your device appears to be rooted.
+  <string name="root_available">このデバイスはroot化済みです。
         \n Toggle me for more QS Tiles!</string>
   <string name="available_in_prem1">Limited features &amp; a notification every 50 clicks.</string>
   <string name="available_in_prem3">Go Premium now &amp; show your support!</string>
@@ -111,16 +111,16 @@
   <string name="show_toggle">Show Toggle</string>
   <string name="close">閉じる</string>
   <string name="record_audio">オーディオを録音</string>
-  <string name="show_touches">Show Touches</string>
+  <string name="show_touches">タップを表示</string>
   <string name="subscription_error">お使いの端末はサブスクリプションをサポートしていません。</string>
   <string name="iab_async_error">購入処理にエラーが発生しました。Another async operation in progress.</string>
-  <string name="onetimefee2">ﾂ｣1.89</string>
-  <string name="onetimefee5">ﾂ｣3.79
+  <string name="onetimefee2">€1.89</string>
+  <string name="onetimefee5">€3.79
         \n(Gratuity)</string>
-  <string name="donation2">ﾂ｣1.89 License</string>
-  <string name="donation5">ﾂ｣3.79 License</string>
-  <string name="donation10">ﾂ｣9.60 License</string>
-  <string name="detected">Detected</string>
+  <string name="donation2">€1.89 ライセンス</string>
+  <string name="donation5">€3.79 ライセンス</string>
+  <string name="donation10">€9.60 ライセンス</string>
+  <string name="detected">検出された</string>
   <string name="yes">Yes</string>
   <string name="subscription">Or a Subscription</string>
   <string name="thankyoumultiple">Multiple licenses detected!
@@ -540,8 +540,7 @@
   <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
     In order to do this the app needs the Location permission.\n\n
     Please click proceed &amp; grant the permission when prompted.</string>
-  <string name="unavailable">利用できません</string>
-  <string name="install_shortcut">Install\nShortcut</string>
+    <string name="install_shortcut">Install\nShortcut</string>
   <string name="select_shortcut">インストールするショートカットを選択してください</string>
   <string name="header">ヘッダーを削除</string>
   <string name="review">\n Don\'t forget to leave a rocking review in the Play Store!</string>
@@ -684,4 +683,6 @@
   <string name="force_refresh">Force Refresh</string>
   <string name="vpn">VPN</string>
   <string name="vpn_summary">Opens VPN Settings</string>
+  <string name="compass">Compass</string>
+  <string name="updating">Updating</string>
 </resources>

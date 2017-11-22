@@ -533,7 +533,6 @@
     <string name="shortcutter_permissions_location">Esta opción necesita permiso para acceder a tu ubicación.\n\n
     Para hacer esto, la aplicación necesita permisos de ubicación.\n\n
     Por favor, haz clic en continuar y concede acceso a los permisos.</string>
-    <string name="unavailable">No disponible</string>
     <string name="install_shortcut">Instalar\natajo</string>
     <string name="select_shortcut">Selecciona un atajo para instalar</string>
     <string name="header">Eliminar encabezado</string>
@@ -599,7 +598,7 @@
     <string name="tile_icons">Botones/Iconos</string>
     <string name="labels">Etiquetas</string>
     <string name="icon_scale">Tamaño</string>
-    <string name="flash_sale">30% de descuento en Shortcutter premium.!\nSelecciona la opción de pago de 2\'10€.</string>
+    <string name="flash_sale">30% de descuento en Shortcutter premium.!\nSelecciona la opción de pago de 1.93€.</string>
     <string name="sale">Oferta de Shortcutter</string>
     <string name="dim">Oscurecer -</string>
     <string name="dimup">Oscurecer +</string>
@@ -668,4 +667,6 @@
     <string name="force_refresh">Force Refresh</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">Opens VPN Settings</string>
+    <string name="compass">Compass</string>
+    <string name="updating">Updating</string>
 </resources>

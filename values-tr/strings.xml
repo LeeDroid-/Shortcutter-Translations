@@ -533,7 +533,6 @@
     <string name="shortcutter_permissions_location">Bu özellik konumunuza erişim izni gerektirir.\n\n
     Bunu yapabilmek için, uygulama Konum izinlerine ihtiyaç duyar.\n\n
     Lütfen devam et\'e tıklayın &amp; sorulduğunda izin verin.</string>
-    <string name="unavailable">Kullanılamıyor</string>
     <string name="install_shortcut">Kısayol\nYükle</string>
     <string name="select_shortcut">Yüklemek için bir kısayol seçin</string>
     <string name="header">Başlığı kaldır</string>
@@ -599,7 +598,7 @@
     <string name="tile_icons">Sekmeler/Simgeler</string>
     <string name="labels">Sekme Etiketleri</string>
     <string name="icon_scale">Simge Boyutu</string>
-    <string name="flash_sale">Shortcutter Premium\'dan% 30 indirim!\nLütfen, premium satın alma ekranında £1.89 seçeneğini seçin.</string>
+    <string name="flash_sale">Shortcutter Premium\'dan% 30 indirim!\nLütfen, premium satın alma ekranında £1.69 seçeneğini seçin.</string>
     <string name="sale">Shortcutter Büyük İndirim</string>
     <string name="dim">Karartma -</string>
     <string name="dimup">Karartma +</string>
@@ -622,7 +621,6 @@
     <string name="cp_head">Onaylamak için ORTAYA, iptal etmek için GERİYE dokunun</string>
     <string name="transparency">Şeffaflık</string>
     <string name="scale">Derecesi =&#160;</string>
- 
     <string name="apply">Uygula</string>
     <string name="ap_name">Web Adresi</string>
     <string name="create_shortcut">Kısayol oluştur</string>
@@ -669,4 +667,6 @@
     <string name="force_refresh">Yenilemeye Zorla</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">VPN Ayarlarını açar</string>
+    <string name="compass">Compass</string>
+    <string name="updating">Updating</string>
 </resources>

@@ -453,7 +453,6 @@
     <string name="shortcutter_permissions_location">Esta opção precisa de poder aceder à sua Localização.\n\n
     Para isso, a aplicação precisa da permissão Localização.\n\n
     Por favor clique continuar &amp; dê a permissão quando pedido.</string>
-    <string name="unavailable">Indisponível</string>
     <string name="install_shortcut">Instalar\nAtalho</string>
     <string name="select_shortcut">Selecione um Atalho Para Instalar</string>
     <string name="header">Remover Cabeçalho</string>
@@ -518,7 +517,7 @@
     <string name="tile_icons">Mosaico/Ícones</string>
     <string name="labels">Legendas de Ícones</string>
     <string name="icon_scale">Escala de Ícones</string>
-    <string name="flash_sale">30% de desconto no Shortcutter Premium!\nPor favor selecione a opção de £1.89 no ecrã de compra premium.</string>
+    <string name="flash_sale">30% de desconto no Shortcutter Premium!\nPor favor selecione a opção de 1.93€ no ecrã de compra premium.</string>
     <string name="sale">Saldos Shortcutter</string>
     <string name="dim">Escorecer -</string>
     <string name="dimup">Escorecer +</string>
@@ -591,4 +590,6 @@
     <string name="force_refresh">Force Refresh</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">Opens VPN Settings</string>
+    <string name="compass">Compass</string>
+    <string name="updating">Updating</string>
 </resources>
