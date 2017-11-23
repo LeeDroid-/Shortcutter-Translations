@@ -539,7 +539,7 @@
     <string name="review">\n Play Store\'da Yüksek bir puan verir ve güzel bir yorum yaparsınız artık :)</string>
     <string name="enjoying">Shortcutter Hoşunuza gitti mi?</string>
     <string name="counter">Sayaç\n+1</string>
-    <string name="expose_activity_summary">Create additional icons to access these toggle\'s from your home screen or app drawer.\n\nThis also enables mapping toggles to other app\'s such as HTC Edge Sense, Second Displays &amp; Tasker.</string>
+    <string name="expose_activity_summary">Ana ekranınızdan veya uygulama menüsünden bu geçişlere erişmek için ek simgeler oluşturun.\n\nBu aynı zamanda HTC Edge Sense, İkinci Ekranlar &amp; Tasker gibi diğer uygulamalara haritalama geçişleri de sağlar.</string>
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">Aç/Kapat WiFi</string>
     <string name="wifi_hotspot_summary">Aç/Kapat WiFi İnternet Paylaşımı)</string>
@@ -667,6 +667,6 @@
     <string name="force_refresh">Yenilemeye Zorla</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">VPN Ayarlarını açar</string>
-    <string name="compass">Compass</string>
-    <string name="updating">Updating</string>
+    <string name="compass">Pusula</string>
+    <string name="updating">Güncelleniyor</string>
 </resources>
