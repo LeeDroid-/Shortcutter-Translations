@@ -665,6 +665,6 @@
     <string name="force_refresh">Wymuś Odświeżenie</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">Otwórz Ustawienia VPN</string>
-    <string name="compass">Compass</string>
-    <string name="updating">Updating</string>
+    <string name="compass">Kompas</string>
+    <string name="updating">Aktualizacja</string>
 </resources>
