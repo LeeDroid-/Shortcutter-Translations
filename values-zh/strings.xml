@@ -54,7 +54,6 @@
     <string name="CustomTile28">自定义瓷贴 28</string>
     <string name="CustomTile29">自定义瓷贴 29</string>
     <string name="CustomTile30">自定义瓷贴 30</string>
-    <string name="RebootRecovery">重启进入 Recovery</string>
     <string name="Reboot">重新启动</string>
     <string name="ring_mode">情景模式</string>
     <string name="Screen_timeout">屏幕超时</string>
@@ -85,7 +84,6 @@
     <string name="camera">相机</string>
     <string name="flashlight">手电筒</string>
     <string name="ambient_display">打盹(环境)显示</string>
-    <string name="reboot_now">立即重启?</string>
     <string name="root_available">你的设备似乎已经 Root 。
         \n 点我查看更多快捷设置瓷贴!</string>
     <string name="available_in_prem1">限制功能 &amp; 每点击 50 次显示一条通知</string>
@@ -178,8 +176,6 @@
     <string name="location_tile_title">位置模式</string>
     <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">显示可用 &amp; 全部 RAM, 通过快捷方式查看 RAM 信息</string>
-    <string name="recovery_tile_title">重启进入 Recovery</string>
-    <string name="recovery_summary">让你的设备重启进入Recovery 模式</string>
     <string name="reboot_summary">重新启动你的设备</string>
     <string name="reboot_tile_title">重新启动</string>
     <string name="ringmode_tile_title">情景模式</string>
@@ -399,8 +395,6 @@
     <string name="new_message_title">新短信</string>
     <string name="new_tweet_title">新推文</string>
     <string name="counter_tile_title">点击器</string>
-    <string name="show_immersive_activity">显示模式选择器</string>
-    <string name="mode_select_summary">显示附有沉浸模式选项的弹出式对话框。</string>
     <string name="toggle">开关</string>
     <string name="toolbox_label">工具箱</string>
     <string name="app_picker">选择应用程序</string>
@@ -668,4 +662,8 @@
     <string name="vpn_summary">打开 VPN 设置</string>
     <string name="compass">Compass</string>
     <string name="updating">Updating</string>
+    <string name="select_default_immersive_mode">Select Mode</string>
+    <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
+    <string name="pip">Picture In Picture</string>
+    <string name="pip_sum">Launch Picture In Picture on current app</string>
 </resources>

@@ -54,7 +54,6 @@
     <string name="CustomTile28">Własna Płytka 28</string>
     <string name="CustomTile29">Własna Płytka 29</string>
     <string name="CustomTile30">Własna Płytka 30</string>
-    <string name="RebootRecovery">Restart do Recovery</string>
     <string name="Reboot">Restart</string>
     <string name="ring_mode">Tryb Dźwięku</string>
     <string name="Screen_timeout">Czas Wył Ekranu</string>
@@ -85,7 +84,6 @@
     <string name="camera">Aparat</string>
     <string name="flashlight">Latarka</string>
     <string name="ambient_display">Wyświetlanie Doze</string>
-    <string name="reboot_now">Uruchomić Ponownie?</string>
     <string name="root_available">Twój telefon wydaje się być zrootowany.
 	    \n Przełącz do większej ilości płytek QS!</string>
     <string name="available_in_prem1">\u2022 Funkcja z limitem &amp; Powiadomienie co 50 kliknięć.</string>
@@ -178,8 +176,6 @@
     <string name="location_tile_title">Tryb Lokalizacji</string>
     <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">Wyświetla dostępną i całkowitą ilość RAM. Za pomocą skrótu przejdziesz do informacji o pamięci RAM</string>
-    <string name="recovery_tile_title">Restart do Recovery</string>
-    <string name="recovery_summary">Restartuje Twoje urządzenie do Trybu Recovery</string>
     <string name="reboot_summary">Restartuje Twoje urządzenie</string>
     <string name="reboot_tile_title">Restart</string>
     <string name="ringmode_tile_title">Tryb Dzwonka</string>
@@ -398,8 +394,6 @@
     <string name="new_message_title">Nowy SMS</string>
     <string name="new_tweet_title">Nowy Tweet</string>
     <string name="counter_tile_title">Płytka Klikania</string>
-    <string name="show_immersive_activity">Pokaż Wybór Trybów</string>
-    <string name="mode_select_summary">Pokazuje okno dialogowe z dodatkowymi opcjami Trybu Pełnego Ekranu.</string>
     <string name="toggle">Przełącz</string>
     <string name="toolbox_label">Toolbox</string>
     <string name="app_picker">Wybierz Aplikacje</string>
@@ -667,4 +661,8 @@
     <string name="vpn_summary">Otwórz Ustawienia VPN</string>
     <string name="compass">Kompas</string>
     <string name="updating">Aktualizacja</string>
+    <string name="select_default_immersive_mode">Select Mode</string>
+    <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
+    <string name="pip">Picture In Picture</string>
+    <string name="pip_sum">Launch Picture In Picture on current app</string>
 </resources>

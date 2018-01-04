@@ -54,8 +54,7 @@
     <string name="CustomTile28">Custom Tile 28</string>
     <string name="CustomTile29">Custom Tile 29</string>
     <string name="CustomTile30">Custom Tile 30</string>
-    <string name="RebootRecovery">Reboot Recovery</string>
-    <string name="Reboot">Reboot</string>
+    <string name="Reboot">Reboot Menu</string>
     <string name="ring_mode">Ring Mode</string>
     <string name="Screen_timeout">Screen Timeout</string>
     <string name="alarm_tile">Next Alarm</string>
@@ -85,7 +84,6 @@
     <string name="camera">Camera</string>
     <string name="flashlight">Flashlight</string>
     <string name="ambient_display">Doze Display</string>
-    <string name="reboot_now">Reboot Now?</string>
     <string name="root_available">Your device appears to be rooted.
         \n Toggle me for more QS Tiles!</string>
     <string name="available_in_prem1">Limited features &amp; a notification every 50 clicks.</string>
@@ -178,10 +176,8 @@
     <string name="location_tile_title">Location Mode</string>
     <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">Displays available &amp; total RAM, with a shortcut to go to RAM information</string>
-    <string name="recovery_tile_title">Reboot Recovery</string>
-    <string name="recovery_summary">Reboots your device to Recovery Mode</string>
-    <string name="reboot_summary">Reboots your device</string>
-    <string name="reboot_tile_title">Reboot</string>
+    <string name="reboot_summary">Opens an advanced reboot options dialog</string>
+    <string name="reboot_tile_title">Reboot Menu</string>
     <string name="ringmode_tile_title">Ring Mode</string>
     <string name="ringmode_summary">Toggle Ring Mode Ring/Vibrate/Silent</string>
     <string name="screenrecord_summary">A tile to record everything on your devices screen</string>
@@ -242,7 +238,7 @@
         \n\n\u2022 @4ntagonist - German
         \n\u2022 @Linar10 - Polish
         \n\u2022 @Nuno Nebeker - Portuguese
-        \n\u2022 @Evren GüntürKün & Fatih Fırıncı- Turkish
+        \n\u2022 @Evren GüntürKün &amp; Fatih Fırıncı- Turkish
         \n\u2022 @Eugenio M Seguin - Spanish
         \n\u2022 @Majida Whale - Chinese
         \n\u2022 @Kodenma - Japanese
@@ -410,8 +406,6 @@
     <string name="new_message_title">New SMS</string>
     <string name="new_tweet_title">New Tweet</string>
     <string name="counter_tile_title">Clicker</string>
-    <string name="show_immersive_activity">Show Mode Selector</string>
-    <string name="mode_select_summary">Shows a popup dialog with additional Immersive Mode options.</string>
     <string name="toggle">Toggle</string>
     <string name="toolbox_label">Toolbox</string>
     <string name="app_picker">Select An Application</string>
@@ -685,4 +679,8 @@
     <string name="vpn_summary">Opens VPN Settings</string>
     <string name="compass">Compass</string>
     <string name="updating">Updating</string>
+    <string name="select_default_immersive_mode">Select Mode</string>
+    <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
+    <string name="pip">Picture In Picture</string>
+    <string name="pip_sum">Launch Picture In Picture on current app</string>
 </resources>

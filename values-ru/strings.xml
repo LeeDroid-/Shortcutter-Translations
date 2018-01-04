@@ -36,7 +36,6 @@
     <string name="NetMode">Сетевой режим</string>
     <string name="Off">Выкл</string>
     <string name="Reboot">Перезагрузка</string>
-    <string name="RebootRecovery">Перезагрузка в рекавери</string>
     <string name="Screen_timeout">Экрана ожидания</string>
     <string name="acc_access">Доступ</string>
     <string name="acc_needed">Требуется доступ</string>
@@ -361,7 +360,6 @@ Usage"</string>
     <string name="misc_tiles_cat">Прочие Параметры</string>
     <string name="mob_dat_sum">Мобильные данные вкл./выкл.</string>
     <string name="mob_data">Мобильные данные</string>
-    <string name="mode_select_summary">Показывает всплывающее диалоговое окно с дополнительными параметрами.</string>
     <string name="monochrome">B &amp; W</string>
     <string name="monochrome_summary">Изменение отображения черного и белого (монохромный)</string>
     <string name="mute_media">Отключение Звука</string>
@@ -457,14 +455,11 @@ Usage"</string>
     <string name="ram_summary">Отображает доступную и общую оперативную память, с ярлыком для перехода к информации о RAM</string>
     <string name="ram_tile_title">ОЗУ</string>
     <string name="rate_app">Поделиться программой</string>
-    <string name="reboot_now">Перезагрузить?</string>
     <string name="reboot_summary">Перезагрузка устройства</string>
     <string name="reboot_tile_title">Перезагрузка</string>
     <string name="recentapps">Последние приложения</string>
     <string name="recents_sum">Открывает экран Последние приложения</string>
     <string name="record_audio">Запись аудио</string>
-    <string name="recovery_summary">Перезагружает устройство в режим восстановления</string>
-    <string name="recovery_tile_title">Перезагрузка в рекавери</string>
     <string name="refresh">Обновить</string>
     <string name="remaining">Осталось:</string>
     <string name="reset_alarms">Вы уверены, что вы хотите очистить ваш сетчатый фильтр графики?</string>
@@ -557,7 +552,6 @@ Usage"</string>
     <string name="shortcutter_premium">Shortcutter Премиум</string>
     <string name="shot_delay">Установить пользовательскую задержку скриншота</string>
     <string name="shot_delay_title">Задержка скриншота (сек.)</string>
-    <string name="show_immersive_activity">Задержка экрана (сек.)</string>
     <string name="show_notif">Показать активное уведомление</string>
     <string name="show_toggle">Показать Переключатель</string>
     <string name="show_touches">Показать нажатия</string>
@@ -685,5 +679,9 @@ Usage"</string>
     <string name="vpn_summary">Opens VPN Settings</string>
     <string name="compass">Compass</string>
     <string name="updating">Updating</string>
+    <string name="select_default_immersive_mode">Select Mode</string>
+    <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
+    <string name="pip">Picture In Picture</string>
+    <string name="pip_sum">Launch Picture In Picture on current app</string>
 
 </resources>

@@ -53,7 +53,6 @@
     <string name="CustomTile28">Mosaico personalizado 28</string>
     <string name="CustomTile29">Mosaico personalizado 29</string>
     <string name="CustomTile30">Mosaico personalizado 30</string>
-    <string name="RebootRecovery">Reiniciar Recuperação</string>
     <string name="Reboot">Reiniciar</string>
     <string name="ring_mode">Modo de Toque</string>
     <string name="Screen_timeout">Tempo de Suspensão</string>
@@ -80,7 +79,6 @@
     <string name="camera">Câmara</string>
     <string name="flashlight">Lanterna</string>
     <string name="ambient_display">Visualização de ambiente</string>
-    <string name="reboot_now">Reinicializar Agora?</string>
     <string name="root_available">Parece que o seu dispositivo tem acesso root.\n Ative para ter mais Mosaicos CR!</string>
     <string name="available_in_prem1">\u2022 Funcionalidades limitadas &amp; Uma notificação a cada 50 cliques.</string>
     <string name="available_in_prem3">Obtenha Premium agora &amp; mostre o seu apoio a @LeeDrOiD!</string>
@@ -156,8 +154,6 @@
     <string name="location_tile_title">Mosaico Modo de Localização</string>
     <string name="ram_tile_title">Mosaico RAM</string>
     <string name="ram_summary">Mostra RAM disponível e total com atalho para informações de RAM</string>
-    <string name="recovery_tile_title">Mosaico Reiniciar Recuperação</string>
-    <string name="recovery_summary">Reinicia o aparelho em Modo de Recuperação</string>
     <string name="reboot_summary">Reinicia o aparelho</string>
     <string name="reboot_tile_title">Mosaico Reiniciar</string>
     <string name="ringmode_tile_title">Mosaico Modo de Toque</string>
@@ -324,8 +320,6 @@
     <string name="new_message_title">Novo SMS</string>
     <string name="new_tweet_title">Novo Tweet</string>
     <string name="counter_tile_title">Mosaico Contador</string>
-    <string name="show_immersive_activity">Mostrar Seletor de Modo</string>
-    <string name="mode_select_summary">Mostrar uma janela com opções de Modo Imersivo adicionais.</string>
     <string name="toggle">Ligar/Desligar</string>
     <string name="toolbox_label">Caixa de Ferramentas</string>
     <string name="app_picker">Selecionar Uma Aplicação</string>
@@ -592,4 +586,8 @@
     <string name="vpn_summary">Opens VPN Settings</string>
     <string name="compass">Compass</string>
     <string name="updating">Updating</string>
+    <string name="select_default_immersive_mode">Select Mode</string>
+    <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
+    <string name="pip">Picture In Picture</string>
+    <string name="pip_sum">Launch Picture In Picture on current app</string>
 </resources>

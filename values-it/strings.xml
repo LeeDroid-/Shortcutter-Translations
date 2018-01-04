@@ -390,8 +390,6 @@
     <string name="new_message_title">New SMS</string>
     <string name="new_tweet_title">New Tweet</string>
     <string name="counter_tile_title">Clicker</string>
-    <string name="show_immersive_activity">Show Mode Selector</string>
-    <string name="mode_select_summary">Shows a popup dialog with additional Immersive Mode options.</string>
     <string name="toggle">Toggle</string>
     <string name="toolbox_label">Toolbox</string>
     <string name="app_picker">Select An Application</string>
@@ -661,4 +659,8 @@
     <string name="vpn_summary">Opens VPN Settings</string>
     <string name="compass">Compass</string>
     <string name="updating">Updating</string>
+    <string name="select_default_immersive_mode">Select Mode</string>
+    <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
+    <string name="pip">Picture In Picture</string>
+    <string name="pip_sum">Launch Picture In Picture on current app</string>
 </resources>

@@ -54,7 +54,6 @@
     <string name="CustomTile28">Özel Döşeme 28</string>
     <string name="CustomTile29">Özel Döşeme 29</string>
     <string name="CustomTile30">Özel Döşeme 30</string>
-    <string name="RebootRecovery">Kurtarma Modunda Başlatma</string>
     <string name="Reboot">Yeniden Başlatma</string>
     <string name="ring_mode">Zil Sesi Modu</string>
     <string name="Screen_timeout">Uyku</string>
@@ -85,7 +84,6 @@
     <string name="camera">Kamera</string>
     <string name="flashlight">Fener</string>
     <string name="ambient_display">Otomatik Parlaklık</string>
-    <string name="reboot_now">Şimdi Yeniden Başlatılsın mı?</string>
     <string name="root_available">Cihazınız Rootlanmış gibi görünüyor.
         \n Daha fazla sekme eklemek için etkinleştirin!</string>
     <string name="available_in_prem1">\u2022 Sınırlı özellikler &amp; her 50 Tıklamayla ilgili bir Bildirim.</string>
@@ -180,8 +178,6 @@
     <string name="location_tile_title">Konum Modu</string>
     <string name="ram_tile_title">Bellek</string>
     <string name="ram_summary">"Kullanılabilir ve toplam RAM'i, RAM bilgilerine gitmek için bir kısayol kullanarak görüntüler"</string>
-    <string name="recovery_tile_title">Kurtarma Modunda Yeniden Başlat</string>
-    <string name="recovery_summary">Cihazınızı Kurtarma Modunda yeniden başlatır</string>
     <string name="reboot_summary">Cihazınızı yeniden başlatır</string>
     <string name="reboot_tile_title">Yeniden Başlat</string>
     <string name="ringmode_tile_title">Zil Sesi Modu</string>
@@ -400,8 +396,6 @@
     <string name="new_message_title">Yeni SMS</string>
     <string name="new_tweet_title">Yeni Tweet</string>
     <string name="counter_tile_title">Sayaç</string>
-    <string name="show_immersive_activity">Mod Seçiciyi Göster</string>
-    <string name="mode_select_summary">Tam ekran modlarını gösteren bir kutu açar.</string>
     <string name="toggle">Aç</string>
     <string name="toolbox_label">Araç Kutusu</string>
     <string name="app_picker">Bir Uygulama Seçin</string>
@@ -459,7 +453,7 @@
     <string name="screenshot_root">Root ile ekran görüntüsü alma yöntemi</string>
     <string name="screenshot_root_summary">Sistem uygulaması yoluyla ekran görüntüsü alır</string>
     <string name="corners_active">Yuvarlatılmış Köşeler Etkin</string>
-   <string name="misc_cat">Ana Sayfa Sekmeleri</string>
+    <string name="misc_cat">Ana Sayfa Sekmeleri</string>
     <string name="misc_tiles_cat">Diğer Sekme Ayarları</string>
     <string name="fancy_anim">Aşağı Çekme animasyonunu kullan</string>
     <string name="fancy_summary">Aşağı Çekme animasyonunu Aç/Kapat (Her cihazla uyumlu değildir)</string>
@@ -669,4 +663,8 @@
     <string name="vpn_summary">VPN Ayarlarını açar</string>
     <string name="compass">Pusula</string>
     <string name="updating">Güncelleniyor</string>
+    <string name="select_default_immersive_mode">Select Mode</string>
+    <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
+    <string name="pip">Picture In Picture</string>
+    <string name="pip_sum">Launch Picture In Picture on current app</string>
 </resources>

@@ -54,7 +54,6 @@
     <string name="CustomTile28">Benutzerdef. Kachel 28</string>
     <string name="CustomTile29">Benutzerdef. Kachel 29</string>
     <string name="CustomTile30">Benutzerdef. Kachel 30</string>
-    <string name="RebootRecovery">Recovery neu starten</string>
     <string name="Reboot">Neu starten</string>
     <string name="Screen_timeout">Bildschirm Auszeit</string>
     <string name="alarm_tile">Nächster Alarm</string>
@@ -84,7 +83,6 @@
     <string name="camera">Kamera</string>
     <string name="flashlight">Taschenlampe</string>
     <string name="ambient_display">Schlummer Bildschirm</string>
-    <string name="reboot_now">Jetzt neu starten?</string>
     <string name="root_available">Dein Gerät scheint gerootet zu sein.
         \nSchalt mich um für mehr QS-Kacheln!</string>
     <string name="available_in_prem1">Limitierte Funktionen &amp; eine Benachrichtigung alle 50 Klicks.</string>
@@ -177,8 +175,6 @@
     <string name="location_tile_title">Standortmodus</string>
     <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">Anzeigen verfügbar &amp; gesamter RAM, mit einer Verknüpfung zur RAM Information</string>
-    <string name="recovery_tile_title">Recovery neu starten</string>
-    <string name="recovery_summary">Startet dein Gerät neu in den Recovery Modus</string>
     <string name="reboot_summary">Startet dein Gerät neu</string>
     <string name="reboot_tile_title">Neu starten</string>
     <string name="ringmode_tile_title">Klingelmodus</string>
@@ -399,8 +395,6 @@
     <string name="new_message_title">Neue SMS</string>
     <string name="new_tweet_title">Neuer Tweet</string>
     <string name="counter_tile_title">Zähler</string>
-    <string name="show_immersive_activity">Zeige Auswahlmodus</string>
-    <string name="mode_select_summary">Zeigt ein Popup Fenster mit zusätzlichen Vollbildmodusoptionen.</string>
     <string name="toggle">Schalte</string>
     <string name="toolbox_label">Werkzeugkasten</string>
     <string name="app_picker">Wähle eine Applikation</string>
@@ -664,11 +658,15 @@
     <string name="vertical_scale">Vertikale Skalierung</string>
     <string name="submit_icons">Submit your own icons using the Email feeback optionEigene Icons mit der E-Mail-Feeback-Option senden</string>
     <string name="premium">Premium</string>
-    <string name="free">FREE</string> 
+    <string name="free">FREE</string>
     <string name="refresh_summary">Aktualisierung der Shortcutter Quick Settings Kacheln erzwingen (Zu verwenden, wenn die Kacheln nicht mehr ansprechen)</string>
     <string name="force_refresh">Aktualisierung erzwingen</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">Öffnet VPN Einstellungen</string>
     <string name="compass">Compass</string>
     <string name="updating">Updating</string>
+    <string name="select_default_immersive_mode">Select Mode</string>
+    <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
+    <string name="pip">Picture In Picture</string>
+    <string name="pip_sum">Launch Picture In Picture on current app</string>
 </resources>

@@ -78,4 +78,24 @@
         <item>网页链接</item>
         <item>Shell 命令</item>
     </string-array>
+    <string-array name="immersive_mode_entries">
+        <item>Full Immersive</item>
+        <item>Hide Status Bar</item>
+        <item>Hide Nav Bar</item>
+        <item>Show Mode Selector</item>
+    </string-array>
+    <string-array name="immersive_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="reboot_list">
+        <item>Reboot</item>
+        <item>Reboot Recovery</item>
+        <item>Reboot Download</item>
+        <item>Reboot Bootloader</item>
+        <item>Hot Reboot</item>
+        <item>Reboot Safe Mode</item>
+    </string-array>
 </resources>
