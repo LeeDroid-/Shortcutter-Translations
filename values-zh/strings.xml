@@ -660,10 +660,10 @@
     <string name="force_refresh">强制刷新</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">打开 VPN 设置</string>
-    <string name="compass">Compass</string>
-    <string name="updating">Updating</string>
-    <string name="select_default_immersive_mode">Select Mode</string>
-    <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
-    <string name="pip">Picture In Picture</string>
-    <string name="pip_sum">Launch Picture In Picture on current app</string>
+    <string name="compass">电子罗盘</string>
+    <string name="updating">更新中</string>
+    <string name="select_default_immersive_mode">选择模式</string>
+    <string name="select_default_immersive_mode_summary">选择默认沉浸模式响应</string>
+    <string name="pip">画中画</string>
+    <string name="pip_sum">在当前应用上启动画中画模式</string>
 </resources>
