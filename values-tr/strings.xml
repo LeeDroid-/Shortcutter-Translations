@@ -663,8 +663,8 @@
     <string name="vpn_summary">VPN Ayarlarını açar</string>
     <string name="compass">Pusula</string>
     <string name="updating">Güncelleniyor</string>
-    <string name="select_default_immersive_mode">Select Mode</string>
-    <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
-    <string name="pip">Picture In Picture</string>
-    <string name="pip_sum">Launch Picture In Picture on current app</string>
+    <string name="select_default_immersive_mode">Mod Seç</string>
+    <string name="select_default_immersive_mode_summary">Varsayılan immersive modu yanıtını seçin</string>
+    <string name="pip">Resim içinde Resim</string>
+    <string name="pip_sum">Geçerli uygulamada Resim İçinde Resim\'i başlat</string>
 </resources>
