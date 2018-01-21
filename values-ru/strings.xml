@@ -39,20 +39,15 @@
     <string name="Screen_timeout">Экрана ожидания</string>
     <string name="acc_access">Доступ</string>
     <string name="acc_needed">Требуется доступ</string>
-    <string name="acc_needed_corners">"This overlay requires Accessibility access to:
- • Detect secure activities.
-If a secure activity is detected, this overlay will automatically stop.
-Click proceed, go to Shortcutter &amp; enable the service.
+    <string name="acc_needed_corners">"Этот оверлей требует разрешение доступа к:
+ Обнаружить разрешение.
+Если нет разрешения, тогда программа автоматически остановит этот оверлей.
+Нажмите кнопку продолжить, перейдите на Shortcutter и включите службу.
 "</string>
-    <string name="acc_needed_long">"Shortcutter requires Accessibility access to toggle 
-• Recent Apps 
-• Power Menu 
-• Split Screen 
-• Detect Activities 
- - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted. 
-Click proceed, go to Shortcutter &amp; enable the service.
+    <string name="acc_needed_long">"Shortcutter требует специальных разрешений доступа для переключения последние приложений, меню питания, разделения экрана - необходимые для сетчатого фильтр и для углов экрана, эти службы будут остановлены, предоставить разрешения. 
+Нажмите кнопку продолжить, перейдите на Shortcutter и включите службу.
 "</string>
-    <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Expand Notifications &amp; Quick Settings, Screen Filter &amp; Rounded Corners</string>
+    <string name="acc_summary">Использование: Последние Приложения, меню Питание, Разделение экрана, развернутые уведомления &amp; Быстрой настройки, сетчатый фильтр &amp; Закругленные углы</string>
     <string name="accessibility_description">"Allows shortcutter to perform the following accessibility actions 
 • Toggle Split Screen 
 • Toggle Recent Apps 
@@ -141,7 +136,7 @@ Click proceed, go to Shortcutter &amp; enable the service.
     <string name="click_disable">"% 
  Нажмите на плитку, чтобы отключить"</string>
     <string name="close">Закрыть</string>
-    <string name="condition">Условие: </string>
+    <string name="condition">Условие: </string>
     <string name="conf_sel">Подтвердить выбор</string>
     <string name="config_serv">Еще</string>
     <string name="confirm">ПРИНЯТЬ</string>
@@ -178,7 +173,7 @@ Click proceed, go to Shortcutter &amp; enable the service.
     <string name="create_shortcut">Создание ярлыка</string>
     <string name="credits">О программе</string>
     <string name="cur_val">Текущее значение = %1$d</string>
-    <string name="cur_vol">Текущая Громкость = </string>
+    <string name="cur_vol">Текущая Громкость = </string>
     <string name="current_dice">Текущее значение %1$d</string>
     <string name="current_location">Текущее Местоположение</string>
     <string name="current_shot"> Установлено значение %1$d сек.</string>
@@ -212,7 +207,7 @@ Usage"</string>
     <string name="detected">Обнаружено</string>
     <string name="dev_loc_mode">Местоположение: %1$s</string>
     <string name="device_only">Только устройство</string>
-    <string name="dewp">Точка росы: </string>
+    <string name="dewp">Точка росы: </string>
     <string name="dice_desc">Генерация случайного номера 
 (Изменить диапазон в настройках плитки)</string>
     <string name="dice_desc_range">Выберите индивидуальный диапазон номеров для Плитки Dice</string>
@@ -224,19 +219,19 @@ Usage"</string>
     <string name="dnd_access">Не беспокоить</string>
     <string name="dnd_required">Неразрешен доступ - Включить, чтобы включить</string>
     <string name="dnd_summary">Использование: Режим звонка</string>
-    <string name="donation10">£9.60 Лицензия</string>
-    <string name="donation2">£1.69 Лицензия</string>
-    <string name="donation5">£3.39 Лицензия</string>
+    <string name="donation10">?9.60 Лицензия</string>
+    <string name="donation2">?1.69 Лицензия</string>
+    <string name="donation5">?3.39 Лицензия</string>
     <string name="drag_out">Длительное нажатие для изменения назначения </string>
     <string name="edit_view">2. Выдвиньте свою строку состояния и нажмите кнопку редактирования, как показано ниже, это обычно значок пера.
 
- Пользователи Samsung нажать меню с тремя точками и выберите перегруппировку.\n\n ваши фрагменты Shortcutter-ом будут показаны в низу.</string>
+ Пользователи Samsung нажать меню с тремя точками и выберите перегруппировку.\n\n ваши фрагменты Shortcutter-ом будут показаны в низу.</string>
     <string name="edit_view1">3. В редакторе вы найдете 2/3 контейнера, вы увидите новые плитки Shortcutter-а в нижнем контейнере.
 
 Чтобы добавить их, просто нажмите и удерживайте и перетащите выбранные плитки в верхний (активный) контейнер, выйдите из режима редактирования.</string>
     <string name="edit_view_note">ВАЖНОЕ ПРИМЕЧАНИЕ:
 
- Из-за ошибки в Android N вы можете попытаться добавить плитки, это можно обойти, выполнив следующее.
+ Из-за ошибки в Android N вы можете попытаться добавить плитки, это можно обойти, выполнив следующее.
 
 Удалите все плитки, которые вы не хотите видеть на вкладке Быстрые настройки плитки и возьмите свои новые плитки из верхнего доступного контейнера для плиток.
 
@@ -264,7 +259,7 @@ Usage"</string>
     <string name="failed_window_add">Не удалось добавить окно, пожалуйста, откройте приложение и убедитесь, что разрешение на экранное разрешение было предоставлено</string>
     <string name="fancy_anim">Reflow Pull-Down Animation</string>
     <string name="fancy_summary">Вкл./Выкл. анимацию ПулДаун (несовместимо с некоторыми устройствами)</string>
-    <string name="feels">Ощущается как: </string>
+    <string name="feels">Ощущается как: </string>
     <string name="file_browser">Проводник</string>
     <string name="file_summary">Запускает файл браузера по умолчанию</string>
     <string name="file_tile">"Файловый 
@@ -274,7 +269,7 @@ Usage"</string>
     <string name="filter_colour">Выберите цвет фильтра</string>
     <string name="filter_off_secure">Фильтр Экрана приостановлен: обнаружена активность</string>
     <string name="filter_tile_title">Фильтр экрана</string>
-    <string name="flash_sale">30% Off Shortcutter Premium!\nPlease select the £1.69 option in the purchase premium screen.</string>
+    <string name="flash_sale">30% Off Shortcutter Premium!\nPlease select the ?1.69 option in the purchase premium screen.</string>
     <string name="flash_summary">Переключение камеры/фонарик</string>
     <string name="flash_tile_title">Фонарик</string>
     <string name="flashlight">Фонарик</string>
@@ -288,7 +283,7 @@ Usage"</string>
     <string name="force_eng_summary">Запустите приложение на английском языке</string>
     <string name="full_title">Shortcutter Ярлыки</string>
     <string name="full_title_header">"Shortcutter
-    Ярлыки v%1$s"</string>
+    Ярлыки v%1$s"</string>
     <string name="go_premium">Покупка премиум версии</string>
     <string name="header">Удалить заголовок</string>
     <string name="headsup">Вверх</string>
@@ -309,7 +304,7 @@ Usage"</string>
     <string name="how_to">Нажмите здесь, для добавления быстрой установки плитки.
 После активации вашей выбранной плитки в приведенной ниже категории, необходимо добавить их в ваш пулДаун в редакторе быстрой настройки системы.</string>
     <string name="how_to_summary">Простой обзор как программа работает</string>
-    <string name="humidity">Влажность: </string>
+    <string name="humidity">Влажность: </string>
     <string name="iab_async_error">Ошибка покупки. Выполняется еще одна асинхронная операция.</string>
     <string name="iab_error">Пприложение Биллинг еще не поддерживается на вашем устройстве.
 
@@ -403,8 +398,8 @@ Usage"</string>
     <string name="oncharge_tile_title">Экран вкл. во время зарядки</string>
     <string name="onehand">Одной рукой (экспериментальный)</string>
     <string name="onehanded_summary">сжимает ваш дисплей в правом нижнем углу, не все приложений масштабируются правильно</string>
-    <string name="onetimefee2">£1.69</string>
-    <string name="onetimefee5">"£3.39
+    <string name="onetimefee2">?1.69</string>
+    <string name="onetimefee5">"?3.39
 (Gratuity)"</string>
     <string name="onwhilecharge_summary">Держите экран, когда заткнуто</string>
     <string name="opacity">Непрозрачность =</string>
@@ -488,7 +483,7 @@ Usage"</string>
     <string name="sc_service_sum">Услуги и возможности, предоставляемые Shortcutter</string>
     <string name="sc_services">Плитка Службы Shortcutter</string>
     <string name="scale">Шкала =</string>
-    <string name="screen_dim">Экран = </string>
+    <string name="screen_dim">Экран = </string>
     <string name="screen_filter">Фильтр экрана</string>
     <string name="screen_filter_summary">Сетчатый фильтр, чтобы уменьшить напряжение глаз (ночной режим)</string>
     <string name="screen_lock_admin">Требуется для использования \"Экран блокировки\ "Быстрой настройки</string>
@@ -526,29 +521,29 @@ Usage"</string>
     <string name="share">Поделиться</string>
     <string name="shortcutter_permissions_camera">Этот переключатель требует доступа к камере.
 
- Для этого приложение требует разрешения камеры.
+ Для этого приложение требует разрешения камеры.
 
- Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса.</string>
+ Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса.</string>
     <string name="shortcutter_permissions_location">Этот переключатель требует доступа к вашему местоположению.
 
- Для этого приложение должно иметь разрешение на месторазмещение.
+ Для этого приложение должно иметь разрешение на месторазмещение.
 
- Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса.</string>
+ Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса.</string>
     <string name="shortcutter_permissions_phone">Этот переключатель требует проверки состояния сети.
 
- Для этого приложение нуждается в разрешении Телефон.
+ Для этого приложение нуждается в разрешении Телефон.
 
- Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса. </string>
+ Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса. </string>
     <string name="shortcutter_permissions_storage">Эта служба требует доступа к внешнему хранилищу.
 
- Для этого приложение требует разрешения на чтение / запись.
+ Для этого приложение требует разрешения на чтение / запись.
 
- Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса.</string>
+ Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса.</string>
     <string name="shortcutter_permissions_sync">Этот переключатель требует возможности доступа к вашим настройкам синхронизации.
 
- Для этого приложение нуждается в разрешении Чтение / Запись Синхронизации.
+ Для этого приложение нуждается в разрешении Чтение / Запись Синхронизации.
 
- Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса. </string>
+ Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса. </string>
     <string name="shortcutter_premium">Shortcutter Премиум</string>
     <string name="shot_delay">Установить пользовательскую задержку скриншота</string>
     <string name="shot_delay_title">Задержка скриншота (сек.)</string>
@@ -564,7 +559,7 @@ Usage"</string>
 Шрифт"</string>
     <string name="special_perms_command">После завершения нажмите кнопку подтверждения и мы проверим доступ, если команда не удалась, повторите попытку.</string>
     <string name="special_perms_required">Требуется специальное разрешение
-        
+        
 
 Попробуйте запустить: </string>
     <string name="splash_3"> Пользовательские быстрые настройки для Android</string>
@@ -602,7 +597,7 @@ Usage"</string>
     <string name="tb_tile_text_tint">Цвет шрифта</string>
     <string name="tb_tile_tint">Оттенок цвета плитки</string>
     <string name="tb_tiles">Панель</string>
-    <string name="temp">Текущая температура: </string>
+    <string name="temp">Текущая температура: </string>
     <string name="thanks_for_support">Спасибо за поддержку :)</string>
     <string name="thankyou">Спасибо за поддержку!</string>
     <string name="thankyoumultiple">Обнаружена Лицензия! 
@@ -652,36 +647,36 @@ Usage"</string>
     <string name="wifi_hotspot_summary">ВКЛ/ВЫКЛ WiFi HotSpot</string>
     <string name="wifi_summary">ВКЛ/ВЫКЛ WiFi</string>
     <string name="wifi_toggled">WiFi включен</string>
-    <string name="wrap">Set to: wrap contents</string>
-    <string name="xda">XDA Developers</string>
+    <string name="wrap">Значение: перенос содержимого</string>
+    <string name="xda">XDA Разработчики</string>
     <string name="xiaomi">Ваше устройство требует, чтобы приложения получали разрешения автозапуска, без этого службы Shortcutter будут закрыты.
 
 Нажмите Продолжить и нажмите Далее и включите автозапуск для Shortcutter.</string>
     <string name="yes">Да</string>
     <string name="yes_pro">ПЕРЕЙТИ на ПРЕМИУМ</string>
-    <string name="disable_change">Disable or change assignment?</string>
-    <string name="change">Change</string>
-    <string name="haptic">Haptic Feedback</string>
-    <string name="haptic_summary">Toggle Haptic Feeback on/off</string>
-    <string name="disable_screen_off">Disable on Screen Off</string>
-    <string name="unknown_sources">Allow Unknown Sources</string>
-    <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
-    <string name="cast">Cast</string>
-    <string name="cast_summary">Launches the Screen Cast device list</string>
-    <string name="horizontal_scale">Horizontal Scale</string>
-    <string name="vertical_scale">Vertical Scale</string>
-    <string name="submit_icons">Submit your own icons using the Email feeback option</string>
-    <string name="premium">Premium</string>
-    <string name="free">FREE</string>
-    <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
-    <string name="force_refresh">Force Refresh</string>
+    <string name="disable_change">Отключить или изменить назначения?</string> 
+	<string name="change">Изменения</string>
+	<string name="haptic">Обратная тактильная связь</string> 
+	<string name="haptic_summary">Саветы вкл/выкл</string> 
+	<string name="disable_screen_off">Отключить на экране</string> 
+	<string name="unknown_sources">Разрешить неизвестные источники</string>
+	<string name="unknownsource_tile_summary">Разрешить установку приложений из неизвестных источниках</string>
+	<string name="cast">Роли</string> 
+	<string name="cast_summary">Открывает список устройств</string>
+	<string name="horizontal_scale">Масштаб по горизонтали</string>
+	<string name="vertical_scale">Масштаб по вертикали</string>
+	<string name="submit_icons">Представить ваши собственные иконки по электронной почте</string>
+	<string name="premium">Премиум</string> 
+	<string name="free">Бесплатно</string> 
+	<string name="refresh_summary">Силы обновить Shortcutter быстрой настройки плитки (которые будут использоваться, если плитка зависанию)</string>
+	<string name="force_refresh">Обновить силы</string>    
     <string name="vpn">VPN</string>
-    <string name="vpn_summary">Opens VPN Settings</string>
-    <string name="compass">Compass</string>
-    <string name="updating">Updating</string>
-    <string name="select_default_immersive_mode">Select Mode</string>
-    <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
-    <string name="pip">Picture In Picture</string>
-    <string name="pip_sum">Launch Picture In Picture on current app</string>
+    <string name="vpn_summary">Открывает настройки VPN</string> 
+	<string name="compass">Компас</string>
+	<string name="updating">Обновление</string> 
+	<string name="select_default_immersive_mode">Выберите режим</string>
+	<string name="select_default_immersive_mode_summary">Выберите режим погружения по умолчанию</string>
+	<string name="pip">Картинка в картинке</string>
+	<string name="pip_sum">Запуск картинка в картинке на текущее приложение</string> 
 
 </resources>
