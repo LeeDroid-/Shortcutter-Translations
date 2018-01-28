@@ -271,7 +271,7 @@
         \n(Kullanım aralığını Sekme Ayarlarından değiştirebilirsiniz)</string>
     <string name="data_tile_title">Veri Kullanımı</string>
     <string name="failed_data_usage">Veri kullanımı bilgileri başlatılamadı</string>
-    <string name="how_to">"Hızlı Ayar Sekmelerini ekleme kılavuzu için Buraya Tıklayın.\n\nAşağıdaki kategorilerde seçtiğiniz sekmeleri etkinleştirdikten sonra, bunları sistem hızlı ayarlar Düzenleyicisi'ndeki aşağı çekmeye eklemeniz gerekir."</string>
+    <string name="how_to">"Hızlı Ayar Sekmelerini ekleme kılavuzu için Buraya Tıklayın.\nAşağıdaki kategorilerde seçtiğiniz sekmeleri etkinleştirdikten sonra, bunları sistem hızlı ayarlar Düzenleyicisi'ndeki aşağı çekmeye eklemeniz gerekir."</string>
     <string name="adding_qs_tiles">Hızlı Ayar Sekmeleri Eklemek</string>
     <string name="addtiles_title">Hızlı Ayar Sekmeleri Ekleme Kılavuzu</string>
     <string name="select_tiles"><![CDATA[1. Shortcutter \"Aşağı Çekme Sekme Ayarları\"na gidin & Hızlı Ayar Sekmeleri seçiminizi yapın.]]></string>
@@ -529,7 +529,7 @@
     <string name="expose_activity_summary">Ana ekranınızdan veya uygulama menüsünden bu geçişlere erişmek için ek simgeler oluşturun.\n\nBu aynı zamanda HTC Edge Sense, İkinci Ekranlar &amp; Tasker gibi diğer uygulamalara haritalama geçişleri de sağlar.</string>
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">Aç/Kapat WiFi</string>
-    <string name="wifi_hotspot_summary">Aç/Kapat WiFi İnternet Paylaşımı)</string>
+    <string name="wifi_hotspot_summary">Aç/Kapat WiFi İnternet Paylaşımı</string>
     <string name="wifi_toggled">WiFi Açıldı</string>
     <string name="hotspot_tile">WiFi İnternet Paylaşımı</string>
     <string name="to_be_toggled">Eklemek istediklerinizi seçin.</string>
@@ -660,15 +660,15 @@
     <string name="select_default_immersive_mode_summary">Varsayılan immersive modu yanıtını seçin</string>
     <string name="pip">Resim içinde Resim</string>
     <string name="pip_sum">Geçerli uygulamada Resim İçinde Resim\'i başlat</string>
-    <string name="shortcuts">wake,corners,screenRecord,screenShot</string>
-    <string name="sc_power_menu">Powered By ©Shortcutter</string>
-    <string name="apm_tile_title">APM</string>
-    <string name="sidebar_tb">Sidebar</string>
-    <string name="auto_start_rec">/Toolbox</string>
-    <string name="apmreboot_list">Auto Start Recording</string>
-    <string name="apm_list">Reboot,Reboot Recovery,Reboot Download,Reboot Bootloader,Hot Reboot,Reboot Safe Mode</string>
-    <string name="recording">Power Off,Reboot Menu,Airplane Mode,Screenshot,Flashlight,Settings</string>
-    <string name="change_theme">Recording Screen</string>
-    <string name="light_theme">Light/Dark Theme</string>
-    <string name="dark_theme">Light Theme Set</string>
+    <string name="shortcuts" translatable="false">wake,corners,screenRecord,screenShot</string>
+    <string name="sc_power_menu">©Shortcutter tarafından güçlendirildi</string>
+    <string name="apm_tile_title" translatable="false">APM</string>
+    <string name="sidebar_tb">Kenar çubuğu\n/Araç kutusu</string>
+    <string name="auto_start_rec">Otomatik Kayıt Başlat</string>
+    <string name="apmreboot_list" translatable="false">Reboot,Reboot Recovery,Reboot Download,Reboot Bootloader,Hot Reboot,Reboot Safe Mode</string>
+    <string name="apm_list" translatable="false">Power Off,Reboot Menu,Airplane Mode,Screenshot,Flashlight,Settings</string>
+    <string name="recording">Ekran Kaydı</string>
+    <string name="change_theme">Aydınlık/Karanlık Tema</string>
+    <string name="light_theme">Aydınlık Tema Ayarlandı</string>
+    <string name="dark_theme">Karanlık Tema Ayarlandı</string>
 </resources>
