@@ -54,7 +54,6 @@
     <string name="CustomTile28">Benutzerdef. Kachel 28</string>
     <string name="CustomTile29">Benutzerdef. Kachel 29</string>
     <string name="CustomTile30">Benutzerdef. Kachel 30</string>
-    <string name="Reboot">Neu starten</string>
     <string name="Screen_timeout">Bildschirm Auszeit</string>
     <string name="alarm_tile">Nächster Alarm</string>
     <string name="need_dnd">Keine Berechtigungen, bitte erlaube dem Shortcutter, DND zu überschreiben.</string>
@@ -103,7 +102,6 @@
     <string name="screenshot">Bildschirmfoto</string>
     <string name="stop_recording">Aufnahme Stop</string>
     <string name="start_recording">Aufnahme Start</string>
-    <string name="screen_recorder">Bildschirm Rekorder</string>
     <string name="show_toggle">Schalter anzeigen</string>
     <string name="close">Schließen</string>
     <string name="record_audio">Audioaufnahme</string>
@@ -127,8 +125,6 @@
     <string name="no">Nein</string>
     <string name="settings_license">LIZENZ</string>
     <string name="no_licence">Keine Lizenz erkannt</string>
-    <string name="shortcutter_premium">Shortcutter Premium</string>
-    <string name="logo">Logo</string>
     <string name="old_licene">Premium Schlüssel erkannt</string>
     <string name="tweaks_key">LeeDrOiD Tweaks Schlüssel erkannt
         \nPremium Eigenschaften aktiviert</string>
@@ -381,7 +377,6 @@
     <string name="mob_data">Mobile
         \nDaten</string>
     <string name="mob_dat_sum">Schaltet Mobile Daten An / Aus</string>
-    <string name="toolbox">Werkzeugkasten</string>
     <string name="wake_active">Bildschirm Aufwachen aktiv</string>
     <string name="floating_toolbox">Aktiviere die Sidebar / Werkzeugkasten</string>
     <string name="float_summary">Öffnet die Sidebar durch Wischen über den Auslösebalken oder den schwebenden Werkzeugkasten über ein schwebendes Symbol.</string>
@@ -461,11 +456,9 @@
     <string name="info_toggles">Informationskacheln</string>
     <string name="sc_services">Shortcutter Dienste Kacheln</string>
     <string name="weather">Wetter Info</string>
-    <string name="tap_close">Berühren um zu schließen</string>
     <string name="weather_desc">Öffnet ein Popup Fenster mit aktuellen Wetterinformationen</string>
     <string name="location">Standortaktualisierung</string>
-    <string name="condition">Bedingungen&#160;</string>
-    <string name="temp">Aktuelle Temperatur:&#160;</string>
+    <string name="temp">Temperatur:&#160;</string>
     <string name="feels">Gefühlt wie:&#160;</string>
     <string name="dewp">Taupunkt:&#160;</string>
     <string name="weather_celsius">Temperatur Einheit</string>
@@ -669,4 +662,11 @@
     <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
     <string name="pip">Picture In Picture</string>
     <string name="pip_sum">Launch Picture In Picture on current app</string>
+    <string name="sidebar_tb">Sidebar/Toolbox</string>
+    <string name="recording">Recording Screen</string>
+    <string name="sc_power_menu">Powered By ©Shortcutter</string>
+    <string name="light_theme">Light Theme Set</string>
+    <string name="change_theme">Light/Dark Theme</string>
+    <string name="dark_theme">Dark Theme Set</string>
+    <string name="auto_start_rec">Auto Start Recording</string>
 </resources>

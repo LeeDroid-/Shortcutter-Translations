@@ -53,7 +53,6 @@
     <string name="CustomTile28">Mosaico personalizado 28</string>
     <string name="CustomTile29">Mosaico personalizado 29</string>
     <string name="CustomTile30">Mosaico personalizado 30</string>
-    <string name="Reboot">Reiniciar</string>
     <string name="ring_mode">Modo de Toque</string>
     <string name="Screen_timeout">Tempo de Suspensão</string>
     <string name="alarm_tile">Próximo Alarme</string>
@@ -117,8 +116,6 @@
     <string name="no">Não</string>
     <string name="settings_license">LICENÇA</string>
     <string name="no_licence">Nenhuma Licença Encontrada</string>
-    <string name="shortcutter_premium">Shortcutter Premium</string>
-    <string name="logo">Logo</string>
     <string name="old_licene">Chave Premium detetada</string>
     <string name="tweaks_key">Chave Ajustes LeeDrOiD detetada\n Funcionalidades Premium ativadas</string>
     <string name="all_prices_subject_to_tax_vat">Todos os preços incluem Impostos/IVA*\n\nComprar Shortcutter Premium retira a notificação a cada 50 cliques e ativa Mosaicos de Configurações Rápidas e funcionalidades da app adicionais.</string>
@@ -306,7 +303,6 @@
     <string name="overlay_required">Permissão Sobrepor a outras aplicações necessária</string>
     <string name="mob_data">Dados\nMóveis</string>
     <string name="mob_dat_sum">Ligar/desligar dados móveis</string>
-    <string name="toolbox">Caixa de Ferramentas</string>
     <string name="wake_active">Manter Ecrã Ligado Ativo</string>
     <string name="floating_toolbox">Ativar BarraLateral/Caixa de Ferramentas</string>
     <string name="float_summary">BarraLateral deslizante ou painel de acesso rápido flutuante</string>
@@ -382,11 +378,9 @@
     <string name="info_toggles">Mosaicos de Informação</string>
     <string name="sc_services">Mosaicos de Serviço Shortcutter</string>
     <string name="weather">Informação Metereológica</string>
-    <string name="tap_close">Toque para fechar</string>
     <string name="weather_desc">Abre uma janela com o estado do tempo atual</string>
     <string name="location">A Atualizar Localização</string>
-    <string name="condition">Estado:&#160;</string>
-    <string name="temp">Temperatura Atual:&#160;</string>
+    <string name="temp">Temperatura:&#160;</string>
     <string name="feels">Sensação Térmica:&#160;</string>
     <string name="dewp">Ponto de orvalho:&#160;</string>
     <string name="weather_celsius">Unidade de Temperatura</string>
@@ -534,7 +528,6 @@
     <string name="corners__scale_set">Escala de Cantos&#160;=&#160; %1$d%%</string>
     <string name="misc_cat">Expôr Controlos no Ecrã Inicial</string>
     <string name="transparency">Transparência</string>
-    <string name="screen_recorder">Gravador de Ecrã</string>
     <string name="scale">Escala =&#160;</string>
     <string name="cp_head">TOQUE NO CENTRO PARA CONFIRMAR OU RETROCEDER PARA CONCELAR</string>
     <string name="apply">Aplicar</string>
@@ -590,4 +583,11 @@
     <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
     <string name="pip">Picture In Picture</string>
     <string name="pip_sum">Launch Picture In Picture on current app</string>
+    <string name="sidebar_tb">Sidebar/Toolbox</string>
+    <string name="recording">Recording Screen</string>
+    <string name="sc_power_menu">Powered By ©Shortcutter</string>
+    <string name="light_theme">Light Theme Set</string>
+    <string name="change_theme">Light/Dark Theme</string>
+    <string name="dark_theme">Dark Theme Set</string>
+    <string name="auto_start_rec">Auto Start Recording</string>
 </resources>
