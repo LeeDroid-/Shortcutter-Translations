@@ -54,7 +54,6 @@
     <string name="CustomTile28">Özel Döşeme 28</string>
     <string name="CustomTile29">Özel Döşeme 29</string>
     <string name="CustomTile30">Özel Döşeme 30</string>
-    <string name="Reboot">Yeniden Başlatma</string>
     <string name="ring_mode">Zil Sesi Modu</string>
     <string name="Screen_timeout">Uyku</string>
     <string name="alarm_tile">Sonraki Alarm</string>
@@ -106,7 +105,6 @@
     <string name="screenshot">Ekran Görüntüsü</string>
     <string name="stop_recording"> Kaydı Durdur</string>
     <string name="start_recording"> Kaydı Başlat</string>
-    <string name="screen_recorder">Ekran Kaydedici</string>
     <string name="show_toggle">Geçişi Göster</string>
     <string name="close">Kapat</string>
     <string name="record_audio">Sesi Kaydet</string>
@@ -130,8 +128,6 @@
     <string name="no">Hayır</string>
     <string name="settings_license">LİSANS</string>
     <string name="no_licence">Lisans Bulunamadı</string>
-    <string name="shortcutter_premium">Shortcutter Premium</string>
-    <string name="logo">Logo</string>
     <string name="old_licene">Premium Lisans Bulundu</string>
     <string name="tweaks_key">LeeDrOiD Tweaks key bulundu
         \n Premium özellikleri etkinleştirildi</string>
@@ -382,7 +378,6 @@
     <string name="mob_data">Mobil
         \nVeri</string>
     <string name="mob_dat_sum">Mobil veriyi aç/kapat</string>
-    <string name="toolbox">Araç Kutusu</string>
     <string name="wake_active">Uyanık Kal Açık</string>
     <string name="floating_toolbox">Yan Menü/Araç kutusunu etkinleştir</string>
     <string name="float_summary">Yan menü kaydırma ile ya da yüzen simgeye dokunularak açılabilir.</string>
@@ -462,11 +457,9 @@
     <string name="info_toggles">Bilgi Sekmeleri</string>
     <string name="sc_services">Shortcutter Hizmet Sekmeleri</string>
     <string name="weather">Hava Durumu</string>
-    <string name="tap_close">Kapatmak için dokunun</string>
     <string name="weather_desc">Anlık hava durumunu bildiren bir pencere açar</string>
     <string name="location">Konum Güncelleniyor</string>
-    <string name="condition">Durum:&#160;</string>
-    <string name="temp">Mevcut Sıcaklık:&#160;</string>
+    <string name="temp">Sıcaklık:&#160;</string>
     <string name="feels">Hissedilen:&#160;</string>
     <string name="dewp">Çiğ düşme sıcaklığı:&#160;</string>
     <string name="weather_celsius">Sıcaklık Birimi</string>
@@ -667,4 +660,15 @@
     <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
     <string name="pip">Picture In Picture</string>
     <string name="pip_sum">Launch Picture In Picture on current app</string>
+    <string name="shortcuts">wake,corners,screenRecord,screenShot</string>
+    <string name="sc_power_menu">Powered By ©Shortcutter</string>
+    <string name="apm_tile_title">APM</string>
+    <string name="sidebar_tb">Sidebar</string>
+    <string name="auto_start_rec">/Toolbox</string>
+    <string name="apmreboot_list">Auto Start Recording</string>
+    <string name="apm_list">Reboot,Reboot Recovery,Reboot Download,Reboot Bootloader,Hot Reboot,Reboot Safe Mode</string>
+    <string name="recording">Power Off,Reboot Menu,Airplane Mode,Screenshot,Flashlight,Settings</string>
+    <string name="change_theme">Recording Screen</string>
+    <string name="light_theme">Light/Dark Theme</string>
+    <string name="dark_theme">Light Theme Set</string>
 </resources>

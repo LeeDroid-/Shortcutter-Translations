@@ -35,24 +35,18 @@
     <string name="Immersive">Режим захвата</string>
     <string name="NetMode">Сетевой режим</string>
     <string name="Off">Выкл</string>
-    <string name="Reboot">Перезагрузка</string>
     <string name="Screen_timeout">Экрана ожидания</string>
     <string name="acc_access">Доступ</string>
     <string name="acc_needed">Требуется доступ</string>
-    <string name="acc_needed_corners">"This overlay requires Accessibility access to:
- • Detect secure activities.
-If a secure activity is detected, this overlay will automatically stop.
-Click proceed, go to Shortcutter &amp; enable the service.
+    <string name="acc_needed_corners">"Этот оверлей требует разрешение доступа к:
+ Обнаружить разрешение.
+Если нет разрешения, тогда программа автоматически остановит этот оверлей.
+Нажмите кнопку продолжить, перейдите на Shortcutter и включите службу.
 "</string>
-    <string name="acc_needed_long">"Shortcutter requires Accessibility access to toggle 
-• Recent Apps 
-• Power Menu 
-• Split Screen 
-• Detect Activities 
- - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted. 
-Click proceed, go to Shortcutter &amp; enable the service.
+    <string name="acc_needed_long">"Shortcutter требует специальных разрешений доступа для переключения последние приложений, меню питания, разделения экрана - необходимые для сетчатого фильтр и для углов экрана, эти службы будут остановлены, предоставить разрешения. 
+Нажмите кнопку продолжить, перейдите на Shortcutter и включите службу.
 "</string>
-    <string name="acc_summary">Usage: Recent Apps, Power Menu, Split Screen, Expand Notifications &amp; Quick Settings, Screen Filter &amp; Rounded Corners</string>
+    <string name="acc_summary">Использование: Последние Приложения, меню Питание, Разделение экрана, развернутые уведомления &amp; Быстрой настройки, сетчатый фильтр &amp; Закругленные углы</string>
     <string name="accessibility_description">"Allows shortcutter to perform the following accessibility actions 
 • Toggle Split Screen 
 • Toggle Recent Apps 
@@ -141,7 +135,6 @@ Click proceed, go to Shortcutter &amp; enable the service.
     <string name="click_disable">"% 
  Нажмите на плитку, чтобы отключить"</string>
     <string name="close">Закрыть</string>
-    <string name="condition">Условие: </string>
     <string name="conf_sel">Подтвердить выбор</string>
     <string name="config_serv">Еще</string>
     <string name="confirm">ПРИНЯТЬ</string>
@@ -349,7 +342,6 @@ Usage"</string>
     <string name="lock_screen">Экран блокировки</string>
     <string name="lock_screen_title">Экран блокировки</string>
     <string name="lock_sum">Блокировка экрана</string>
-    <string name="logo">Логотип</string>
     <string name="manage_tiles">Управление Плитками</string>
     <string name="manual_secure_summary">Использование: расположение режим переключения, захватывающий режим, АБР, Heads Up, монохромный, роуминг данных, окружающего дисплей, на Wile зарядки и энергосбережение - (ПК не требуется)</string>
     <string name="manualbright">Ручная яркость</string>
@@ -492,7 +484,6 @@ Usage"</string>
     <string name="screen_filter">Фильтр экрана</string>
     <string name="screen_filter_summary">Сетчатый фильтр, чтобы уменьшить напряжение глаз (ночной режим)</string>
     <string name="screen_lock_admin">Требуется для использования \"Экран блокировки\ "Быстрой настройки</string>
-    <string name="screen_recorder">Запись Экрана</string>
     <string name="screen_timeout">Таймаут</string>
     <string name="screenre_cat">Запись Экрана и Скриншот</string>
     <string name="screenrecord_summary">Плитка, чтобы записывать все на экране вашего устройства</string>
@@ -549,7 +540,6 @@ Usage"</string>
  Для этого приложение нуждается в разрешении Чтение / Запись Синхронизации.
 
  Пожалуйста, нажмите Продолжить и предоставьте разрешение при появлении запроса. </string>
-    <string name="shortcutter_premium">Shortcutter Премиум</string>
     <string name="shot_delay">Установить пользовательскую задержку скриншота</string>
     <string name="shot_delay_title">Задержка скриншота (сек.)</string>
     <string name="show_notif">Показать активное уведомление</string>
@@ -593,7 +583,6 @@ Usage"</string>
 Нажмите Продолжить и вы попадете на соответствующий экран.</string>
     <string name="system_toggle_summary">Требуется совместимость с вашей прошивкой</string>
     <string name="system_toggles">Системные плитки</string>
-    <string name="tap_close">Чтобы закрыть</string>
     <string name="tb_background">Цвет фона</string>
     <string name="tb_columns_summary">Текущий = столбцы %s</string>
     <string name="tb_columns_title">Столбцы панели инструментов</string>
@@ -602,7 +591,7 @@ Usage"</string>
     <string name="tb_tile_text_tint">Цвет шрифта</string>
     <string name="tb_tile_tint">Оттенок цвета плитки</string>
     <string name="tb_tiles">Панель</string>
-    <string name="temp">Текущая температура: </string>
+    <string name="temp">Tемпература: </string>
     <string name="thanks_for_support">Спасибо за поддержку :)</string>
     <string name="thankyou">Спасибо за поддержку!</string>
     <string name="thankyoumultiple">Обнаружена Лицензия! 
@@ -615,7 +604,6 @@ Usage"</string>
     <string name="to_be_toggled">Выбрать записи</string>
     <string name="toggle">Тригер</string>
     <string name="togglenfc">Тригер NFC</string>
-    <string name="toolbox">Панель инструментов</string>
     <string name="toolbox_label">Панель инструментов</string>
     <string name="touch_and_swipe">Боковая панель открывается, когда провели
 (вверх, вниз или внутрь)»</string>
@@ -652,36 +640,43 @@ Usage"</string>
     <string name="wifi_hotspot_summary">ВКЛ/ВЫКЛ WiFi HotSpot</string>
     <string name="wifi_summary">ВКЛ/ВЫКЛ WiFi</string>
     <string name="wifi_toggled">WiFi включен</string>
-    <string name="wrap">Set to: wrap contents</string>
-    <string name="xda">XDA Developers</string>
+    <string name="wrap">Значение: перенос содержимого</string>
+    <string name="xda">XDA Разработчики</string>
     <string name="xiaomi">Ваше устройство требует, чтобы приложения получали разрешения автозапуска, без этого службы Shortcutter будут закрыты.
 
 Нажмите Продолжить и нажмите Далее и включите автозапуск для Shortcutter.</string>
     <string name="yes">Да</string>
     <string name="yes_pro">ПЕРЕЙТИ на ПРЕМИУМ</string>
-    <string name="disable_change">Disable or change assignment?</string>
-    <string name="change">Change</string>
-    <string name="haptic">Haptic Feedback</string>
-    <string name="haptic_summary">Toggle Haptic Feeback on/off</string>
-    <string name="disable_screen_off">Disable on Screen Off</string>
-    <string name="unknown_sources">Allow Unknown Sources</string>
-    <string name="unknownsource_tile_summary">Allow Unknown Sources / Installation of non market apps</string>
-    <string name="cast">Cast</string>
-    <string name="cast_summary">Launches the Screen Cast device list</string>
-    <string name="horizontal_scale">Horizontal Scale</string>
-    <string name="vertical_scale">Vertical Scale</string>
-    <string name="submit_icons">Submit your own icons using the Email feeback option</string>
-    <string name="premium">Premium</string>
-    <string name="free">FREE</string>
-    <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
-    <string name="force_refresh">Force Refresh</string>
+    <string name="disable_change">Отключить или изменить назначения?</string> 
+	<string name="change">Изменения</string>
+	<string name="haptic">Обратная тактильная связь</string> 
+	<string name="haptic_summary">Саветы вкл/выкл</string> 
+	<string name="disable_screen_off">Отключить на экране</string> 
+	<string name="unknown_sources">Разрешить неизвестные источники</string>
+	<string name="unknownsource_tile_summary">Разрешить установку приложений из неизвестных источниках</string>
+	<string name="cast">Роли</string> 
+	<string name="cast_summary">Открывает список устройств</string>
+	<string name="horizontal_scale">Масштаб по горизонтали</string>
+	<string name="vertical_scale">Масштаб по вертикали</string>
+	<string name="submit_icons">Представить ваши собственные иконки по электронной почте</string>
+	<string name="premium">Премиум</string> 
+	<string name="free">Бесплатно</string> 
+	<string name="refresh_summary">Силы обновить Shortcutter быстрой настройки плитки (которые будут использоваться, если плитка зависанию)</string>
+	<string name="force_refresh">Обновить силы</string>    
     <string name="vpn">VPN</string>
-    <string name="vpn_summary">Opens VPN Settings</string>
-    <string name="compass">Compass</string>
-    <string name="updating">Updating</string>
-    <string name="select_default_immersive_mode">Select Mode</string>
-    <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
-    <string name="pip">Picture In Picture</string>
-    <string name="pip_sum">Launch Picture In Picture on current app</string>
+    <string name="vpn_summary">Открывает настройки VPN</string> 
+	<string name="compass">Компас</string>
+	<string name="updating">Обновление</string> 
+	<string name="select_default_immersive_mode">Выберите режим</string>
+	<string name="select_default_immersive_mode_summary">Выберите режим погружения по умолчанию</string>
+	<string name="pip">Картинка в картинке</string>
+	<string name="pip_sum">Запуск картинка в картинке на текущее приложение</string> 
+    <string name="sidebar_tb">Sidebar/Toolbox</string>
+    <string name="recording">Recording Screen</string>
+    <string name="sc_power_menu">Powered By ©Shortcutter</string>
+    <string name="light_theme">Light Theme Set</string>
+    <string name="change_theme">Light/Dark Theme</string>
+    <string name="dark_theme">Dark Theme Set</string>
+    <string name="auto_start_rec">Auto Start Recording</string>
 
 </resources>

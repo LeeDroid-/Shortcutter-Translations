@@ -90,12 +90,4 @@
         <item>2</item>
         <item>3</item>
     </string-array>
-    <string-array name="reboot_list">
-        <item>Reboot</item>
-        <item>Reboot Recovery</item>
-        <item>Reboot Download</item>
-        <item>Reboot Bootloader</item>
-        <item>Hot Reboot</item>
-        <item>Reboot Safe Mode</item>
-    </string-array>
 </resources>

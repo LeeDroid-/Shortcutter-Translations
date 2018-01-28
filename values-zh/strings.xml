@@ -54,7 +54,6 @@
     <string name="CustomTile28">自定义瓷贴 28</string>
     <string name="CustomTile29">自定义瓷贴 29</string>
     <string name="CustomTile30">自定义瓷贴 30</string>
-    <string name="Reboot">重新启动</string>
     <string name="ring_mode">情景模式</string>
     <string name="Screen_timeout">屏幕超时</string>
     <string name="alarm_tile">下一个闹钟</string>
@@ -105,7 +104,6 @@
     <string name="screenshot">截屏</string>
     <string name="stop_recording">停止录制</string>
     <string name="start_recording">开始录制</string>
-    <string name="screen_recorder">屏幕录制</string>
     <string name="show_toggle">显示开关</string>
     <string name="close">关闭</string>
     <string name="record_audio">录音</string>
@@ -129,8 +127,6 @@
     <string name="no">否</string>
     <string name="settings_license">许可证</string>
     <string name="no_licence">未检测到许可证</string>
-    <string name="shortcutter_premium">Shortcutter 付费版</string>
-    <string name="logo">徽标</string>
     <string name="old_licene">检测到付费版密钥</string>
     <string name="tweaks_key">检测到 LeeDrOiD Tweaks 密钥
         \n 付费版功能已激活</string>
@@ -381,7 +377,6 @@
     <string name="overlay_required">需要系统叠加层权限</string>
     <string name="mob_data">移动数据</string>
     <string name="mob_dat_sum">打开/关闭移动数据</string>
-    <string name="toolbox">工具箱</string>
     <string name="wake_active">屏幕唤醒使用中</string>
     <string name="floating_toolbox">启用侧栏/工具箱</string>
     <string name="float_summary">侧栏可通过滑动手势触发或者悬浮图标显示的悬浮工具箱打开。</string>
@@ -461,10 +456,8 @@
     <string name="info_toggles">信息瓷贴</string>
     <string name="sc_services">Shortcutter 服务瓷贴</string>
     <string name="weather">天气信息</string>
-    <string name="tap_close">触摸以关闭</string>
     <string name="weather_desc">启动包含当前天气信息的弹窗</string>
     <string name="location">位置更新</string>
-    <string name="condition">状况:&#160;</string>
     <string name="temp">当前温度:&#160;</string>
     <string name="feels">体感温度:&#160;</string>
     <string name="dewp">露点:&#160;</string>
@@ -666,4 +659,11 @@
     <string name="select_default_immersive_mode_summary">选择默认沉浸模式响应</string>
     <string name="pip">画中画</string>
     <string name="pip_sum">在当前应用上启动画中画模式</string>
+    <string name="sidebar_tb">Sidebar/Toolbox</string>
+    <string name="recording">Recording Screen</string>
+    <string name="sc_power_menu">Powered By ©Shortcutter</string>
+    <string name="light_theme">Light Theme Set</string>
+    <string name="change_theme">Light/Dark Theme</string>
+    <string name="dark_theme">Dark Theme Set</string>
+    <string name="auto_start_rec">Auto Start Recording</string>
 </resources>
