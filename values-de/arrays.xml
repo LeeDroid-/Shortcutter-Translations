@@ -79,7 +79,7 @@
         <item>Shell-Befehl</item>
     </string-array>
     <string-array name="immersive_mode_entries">
-        <item>Volle Einbettung</item>
+        <item>Vollbild</item>
         <item>Statusleiste ausblenden</item>
         <item>Navigationsleiste ausblenden</item>
         <item>Zeige Betriebsartwahltaste</item>
