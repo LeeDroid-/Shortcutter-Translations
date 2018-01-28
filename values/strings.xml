@@ -54,7 +54,6 @@
     <string name="CustomTile28">Custom Tile 28</string>
     <string name="CustomTile29">Custom Tile 29</string>
     <string name="CustomTile30">Custom Tile 30</string>
-    <string name="Reboot">Reboot Menu</string>
     <string name="ring_mode">Ring Mode</string>
     <string name="Screen_timeout">Screen Timeout</string>
     <string name="alarm_tile">Next Alarm</string>
@@ -105,7 +104,6 @@
     <string name="screenshot">Screenshot</string>
     <string name="stop_recording">Stop Recording</string>
     <string name="start_recording">Start Recording</string>
-    <string name="screen_recorder">Screen Recorder</string>
     <string name="show_toggle">Show Toggle</string>
     <string name="close">Close</string>
     <string name="record_audio">Record Audio</string>
@@ -129,8 +127,6 @@
     <string name="no">No</string>
     <string name="settings_license">LICENSE</string>
     <string name="no_licence">No Licence Detected</string>
-    <string name="shortcutter_premium">Shortcutter Premium</string>
-    <string name="logo">Logo</string>
     <string name="old_licene">Premium key detected</string>
     <string name="tweaks_key">LeeDrOiD Tweaks key detected
         \n Premium features activated</string>
@@ -176,8 +172,8 @@
     <string name="location_tile_title">Location Mode</string>
     <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">Displays available &amp; total RAM, with a shortcut to go to RAM information</string>
-    <string name="reboot_summary">Opens an advanced reboot options dialog</string>
-    <string name="reboot_tile_title">Reboot Menu</string>
+    <string name="reboot_summary">Opens an advanced (Root) power menu</string>
+    <string name="reboot_tile_title">Advanced Power Menu</string>
     <string name="ringmode_tile_title">Ring Mode</string>
     <string name="ringmode_summary">Toggle Ring Mode Ring/Vibrate/Silent</string>
     <string name="screenrecord_summary">A tile to record everything on your devices screen</string>
@@ -392,7 +388,6 @@
     <string name="overlay_required">System overlay permissions required</string>
     <string name="mob_data">Mobile Data</string>
     <string name="mob_dat_sum">Toggle mobile data on/off</string>
-    <string name="toolbox">Toolbox</string>
     <string name="wake_active">Screen Wake Active</string>
     <string name="floating_toolbox">Enable The Sidebar/Toolbox</string>
     <string name="float_summary">A Sidebar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
@@ -474,11 +469,9 @@
     <string name="sc_services">Shortcutter Service Tiles</string>
     <string name="google_awareness_key" translatable="false">AIzaSyA_csQZU5riDuzEu43rSQEx9xVtHdaWeQA</string>
     <string name="weather">Weather Info</string>
-    <string name="tap_close">Touch to close</string>
     <string name="weather_desc">Launches a popup with current weather information</string>
     <string name="location">Location Updating</string>
-    <string name="condition">Condition:&#160;</string>
-    <string name="temp">Current Temperature:&#160;</string>
+    <string name="temp">Temperature:&#160;</string>
     <string name="feels">Feels Like:&#160;</string>
     <string name="dewp">Dew point:&#160;</string>
     <string name="weather_celsius">Temperature Unit</string>
@@ -627,7 +620,7 @@
     <string name="bt_summary">Enable/Disable Bluetooth</string>
     <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
     <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
-    <string name="cp_head">Tap CENTER to confirm or BACK to cancel</string>
+    <string name="cp_head">Tap CENTER to confirm</string>
     <string name="transparency">Transparency</string>
     <string name="apply">Apply</string>
     <string name="scale">Scale =&#160;</string>
@@ -645,7 +638,7 @@
     <string name="trig_alpha">Trigger Opacity</string>
     <string name="problem">Got a problem or feature request\? \n Mail me first :)</string>
     <string name="opacity">Opacity =</string>
-    <string name="onehand">One Handed (Experimental)</string>
+    <string name="onehand">One Handed Mode</string>
     <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
     <string name="enter_shell_command">Shell Command</string>
     <string name="drag_out">Long press to change assignment</string>
@@ -683,4 +676,15 @@
     <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
     <string name="pip">Picture In Picture</string>
     <string name="pip_sum">Launch Picture In Picture on current app</string>
+    <string name="shortcuts" translatable="false">wake,corners,screenRecord,screenShot</string>
+    <string name="sc_power_menu">Powered By ©Shortcutter</string>
+    <string name="apm_tile_title" translatable="false">APM</string>
+    <string name="sidebar_tb">Sidebar\n/Toolbox</string>
+    <string name="auto_start_rec">Auto Start Recording</string>
+    <string name="apmreboot_list" translatable="false">Reboot,Reboot Recovery,Reboot Download,Reboot Bootloader,Hot Reboot,Reboot Safe Mode</string>
+    <string name="apm_list" translatable="false">Power Off,Reboot Menu,Airplane Mode,Screenshot,Flashlight,Settings</string>
+    <string name="recording">Recording Screen</string>
+    <string name="change_theme">Light/Dark Theme</string>
+    <string name="light_theme">Light Theme Set</string>
+    <string name="dark_theme">Dark Theme Set</string>
 </resources>

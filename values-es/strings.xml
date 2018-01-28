@@ -54,7 +54,6 @@
     <string name="CustomTile28">Personalizado 28</string>
     <string name="CustomTile29">Personalizado 29</string>
     <string name="CustomTile30">Personalizado 30</string>
-    <string name="Reboot">Reinicio</string>
     <string name="ring_mode">Modo de sonido</string>
     <string name="Screen_timeout">Tiempo de espera de pantalla</string>
     <string name="alarm_tile">Siguiente alarma</string>
@@ -105,7 +104,6 @@
     <string name="screenshot">Captura de pantalla</string>
     <string name="stop_recording">Detener grabación</string>
     <string name="start_recording">Iniciar grabación</string>
-    <string name="screen_recorder">Grabadora de pantalla</string>
     <string name="show_toggle">Mostrar opción</string>
     <string name="close">Cerrar</string>
     <string name="record_audio">Grabar sonido</string>
@@ -129,8 +127,6 @@
     <string name="no">No</string>
     <string name="settings_license">LICENCIA</string>
     <string name="no_licence">No tienes licencia</string>
-    <string name="shortcutter_premium">Shortcutter Premium</string>
-    <string name="logo">Logotipo</string>
     <string name="old_licene">Se ha detectado una clave premium</string>
     <string name="tweaks_key">Se ha detectado una clave de LeeDrOiD
         \n Características premium activadas</string>
@@ -382,7 +378,6 @@
     <string name="overlay_required">Se necesitan permisos de interfaz del sistema</string>
     <string name="mob_data">Datos móviles</string>
     <string name="mob_dat_sum">Activar/Desactivar datos móviles</string>
-    <string name="toolbox">Caja de herramientas</string>
     <string name="wake_active">Pantalla encendida</string>
     <string name="floating_toolbox">Activar esta caja de herramientas/lateral</string>
     <string name="float_summary">Se abre una barra lateral deslizando o una caja de herramientas con un icono flotante.</string>
@@ -462,11 +457,9 @@
     <string name="info_toggles">Apartados de información</string>
     <string name="sc_services">Apartados de servicio de Shortcutter</string>
     <string name="weather">Información del tiempo</string>
-    <string name="tap_close">Toca para cerrar</string>
     <string name="weather_desc">Lanza una ventana emergente con información del tiempo</string>
     <string name="location">Actualizando ubicación</string>
-    <string name="condition">Condición:&#160;</string>
-    <string name="temp">Temperatura actual:&#160;</string>
+    <string name="temp">Temperatura:&#160;</string>
     <string name="feels">Sensación térmica:&#160;</string>
     <string name="dewp">Punto de rocío:&#160;</string>
     <string name="weather_celsius">Unidad de temperatura</string>
@@ -667,4 +660,12 @@
     <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
     <string name="pip">Picture In Picture</string>
     <string name="pip_sum">Launch Picture In Picture on current app</string>
+    <string name="sidebar_tb">Sidebar</string>
+    <string name="recording">/Toolbox</string>
+    <string name="sc_power_menu">Recording Screen</string>
+    <string name="light_theme">Powered By ©Shortcutter</string>
+    <string name="change_theme">Light Theme Set</string>
+    <string name="dark_theme">Light/Dark Theme</string>
+    <string name="auto_start_rec">Dark Theme Set</string>
+    <string name="apm_tile_title">Auto Start Recording</string>
 </resources>
