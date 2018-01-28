@@ -79,10 +79,10 @@
         <item>Kabuk Komutu</item>
     </string-array>
     <string-array name="immersive_mode_entries">
-        <item>Full Immersive</item>
-        <item>Hide Status Bar</item>
-        <item>Hide Nav Bar</item>
-        <item>Show Mode Selector</item>
+        <item>Tam Immersive</item>
+        <item>Durum Çubuğunu Gizle</item>
+        <item>Gezinti Çubuğunu Gizle</item>
+        <item>Mod Seçici\'yi göster</item>
     </string-array>
     <string-array name="immersive_mode_values">
         <item>0</item>
