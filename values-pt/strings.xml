@@ -151,8 +151,8 @@
     <string name="location_tile_title">Mosaico Modo de Localização</string>
     <string name="ram_tile_title">Mosaico RAM</string>
     <string name="ram_summary">Mostra RAM disponível e total com atalho para informações de RAM</string>
-    <string name="reboot_summary">Reinicia o aparelho</string>
-    <string name="reboot_tile_title">Mosaico Reiniciar</string>
+    <string name="reboot_summary">Opens an advanced (Root) power menu</string>
+    <string name="reboot_tile_title">Advanced Power Menu</string>
     <string name="ringmode_tile_title">Mosaico Modo de Toque</string>
     <string name="ringmode_summary">Alternar Modo de Toque Tocar/Vibrar/Silêncio</string>
     <string name="screenrecord_summary">Mosaico que grava tudo no ecrã do aparelho</string>
@@ -237,7 +237,6 @@
     <string name="failed_data_usage">Falha ao abrir informação de utilização de dados</string>
     <string name="how_to">Clique aqui para um guia simple de como adicionar Mosaicos de Configuração Rápida.</string>
     <string name="addtiles_title">Como Adicionar Mosaicos CR</string>
-    <string name="adding_qs_tiles">Adicionar Mosaicos CR</string>
     <string name="select_tiles"><![CDATA[1. Em Shortcutter abra o separador \"Desliz para Baixo\" & selecione os Mosaicos CR.]]></string>
     <string name="edit_view"><![CDATA[2. Puxe a barra e estado & toque no botão de editar como se vê em baixo, normalmente um ícone de caneta.\n\n Utilizadores de Samsung devem tocar no botão de 3 pontos e selecionar Ordem dos botões.\n\n verá os mosaicos Shortcutter no fundo da lista.]]></string>
     <string name="edit_view1">3. Na Vista Editar verá 2 ou 3 secções, os novo mosaicos Shortcutter estarão na de baixo.\n\nPara os adicionar, simplesmente toque sobre e arraste os mosaicos que escolher para a secção de cima (Ativos) e saia da Vista Editar.</string>
@@ -294,7 +293,6 @@
     <string name="volUp">Volume +</string>
     <string name="volDown">Volume -</string>
     <string name="cur_vol">Volume Arual = </string>
-    <string name="click_disable">%\n Clique no título para desativar</string>
     <string name="pause">Pausar\nMúsica</string>
     <string name="play">Tocar\nMúsica</string>
     <string name="play_pause">Tocar/Pausar Música</string>
@@ -393,7 +391,6 @@
     <string name="current_location">Localização Atual</string>
     <string name="dev_loc_mode">Modo de Localização:&#160;%1$s</string>
     <string name="mylocation_summary">Mostra a localização atual com opções de mostrar em mapa ou partilhar</string>
-    <string name="loading_map">A Carregar Mapa...</string>
     <string name="swipe_out">Deslizar para fora para ignorar</string>
     <string name="choose_ring_entries">Opções de Modo de Toque (Mínimo de 2)</string>
     <string name="qs_head_title">Mosaicos CR de Cabeçalho</string>
@@ -570,7 +567,6 @@
     <string name="cast_summary">Abre a lista de dispositivos para Trasmitir Ecrã</string>
     <string name="horizontal_scale">Escala Horizontal</string>
     <string name="vertical_scale">Escala Vertical</string>
-    <string name="submit_icons">Enviar os seus próprios ícones usando a aopção de  feeback por email</string>
     <string name="premium">Premium</string>
     <string name="free">GRÁTIS</string>
     <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
@@ -590,4 +586,15 @@
     <string name="change_theme">Light/Dark Theme</string>
     <string name="dark_theme">Dark Theme Set</string>
     <string name="auto_start_rec">Auto Start Recording</string>
+    <string name="cust_app_root">Assign Applications, Activities, Shortcuts, Web Links & Shell Commands.</string>
+    <string name="cust_app_pref_root">Enable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
+    <string name="send_report">Assign Applications, Activities, Shortcuts, Web Links & Shell Commands.</string>
+    <string name="close_app">Send Crash</string>
+    <string name="oops_error">Report</string>
+    <string name="rooted">Clear</string>
+    <string name="change_log_title">Error</string>
+    <string name="ok">Oops.. looks like something went wrong & Shortcutter Crashed!</string>
+    <string name="notification_blocker_sum">Sorry for the inconvenience.</string>
+    <string name="notif_access">Your device appears to be rooted!</string>
+    <string name="confirmation_dialog">Show Confirmation dialog</string>
 </resources>

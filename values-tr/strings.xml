@@ -174,8 +174,8 @@
     <string name="location_tile_title">Konum Modu</string>
     <string name="ram_tile_title">Bellek</string>
     <string name="ram_summary">"Kullanılabilir ve toplam RAM'i, RAM bilgilerine gitmek için bir kısayol kullanarak görüntüler"</string>
-    <string name="reboot_summary">Cihazınızı yeniden başlatır</string>
-    <string name="reboot_tile_title">Yeniden Başlat</string>
+    <string name="reboot_summary">Opens an advanced (Root) power menu</string>
+    <string name="reboot_tile_title">Advanced Power Menu</string>
     <string name="ringmode_tile_title">Zil Sesi Modu</string>
     <string name="ringmode_summary">Zil Sesi Sesli/Titreşim/Sessiz</string>
     <string name="screenrecord_summary">Cihazınızın ekranındaki her şeyi kaydetmek için bir sekme</string>
@@ -271,8 +271,7 @@
         \n(Kullanım aralığını Sekme Ayarlarından değiştirebilirsiniz)</string>
     <string name="data_tile_title">Veri Kullanımı</string>
     <string name="failed_data_usage">Veri kullanımı bilgileri başlatılamadı</string>
-    <string name="how_to">"Hızlı Ayar Sekmelerini ekleme kılavuzu için Buraya Tıklayın.\nAşağıdaki kategorilerde seçtiğiniz sekmeleri etkinleştirdikten sonra, bunları sistem hızlı ayarlar Düzenleyicisi'ndeki aşağı çekmeye eklemeniz gerekir."</string>
-    <string name="adding_qs_tiles">Hızlı Ayar Sekmeleri Eklemek</string>
+    <string name="how_to">"Hızlı Ayar Sekmelerini ekleme kılavuzu için Buraya Tıklayın.\n\nAşağıdaki kategorilerde seçtiğiniz sekmeleri etkinleştirdikten sonra, bunları sistem hızlı ayarlar Düzenleyicisi'ndeki aşağı çekmeye eklemeniz gerekir."</string>
     <string name="addtiles_title">Hızlı Ayar Sekmeleri Ekleme Kılavuzu</string>
     <string name="select_tiles"><![CDATA[1. Shortcutter \"Aşağı Çekme Sekme Ayarları\"na gidin & Hızlı Ayar Sekmeleri seçiminizi yapın.]]></string>
     <string name="edit_view"><![CDATA[2. Durum çubuğunuzu aşağı çekin ve aşağıda görüldüğü gibi düzenleme düğmesine basın, bu genellikle bir kalem simgesidir.
@@ -361,8 +360,6 @@
     <string name="volUp">Ses +</string>
     <string name="volDown">Ses -</string>
     <string name="cur_vol">Şu anki ses = </string>
-    <string name="click_disable">%
-        \n Kapatmak için sekmeye tıklayın</string>
     <string name="pause">Müziği
         \nDuraklat</string>
     <string name="play">Müzik
@@ -472,7 +469,6 @@
     <string name="current_location">Mevcut Konum</string>
     <string name="dev_loc_mode">Konum Modu:&#160;%1$s</string>
     <string name="mylocation_summary">Haritaları görüntülemek veya paylaşmak için seçeneklerle birlikte, geçerli konumu görüntüler</string>
-    <string name="loading_map">Harita yükleniyor....</string>
     <string name="swipe_out">Çıkmak için kaydırın</string>
     <string name="choose_ring_entries">Zil Sesi Modu (En az 2)</string>
     <string name="qs_head_title">Hızlı Ayarlar Başlık Sekmeleri</string>
@@ -647,7 +643,6 @@
     <string name="cast_summary">Ekran Yayınlama cihaz listesini açar</string>
     <string name="horizontal_scale">Yatay Ölçek</string>
     <string name="vertical_scale">Dikey Ölçek</string>
-    <string name="submit_icons">Geribildirim gönder seçeneğini kullanarak kendi simgelerinizi gönderin</string>
     <string name="premium">Premium</string>
     <string name="free">ÜCRETSİZ</string>
     <string name="refresh_summary">Shortcutter Hızlı Ayarlar Sekmelerini yenilemeye zorla (Sekmeler yanıt vermezse kullanılacaktır)</string>
@@ -665,10 +660,20 @@
     <string name="apm_tile_title" translatable="false">APM</string>
     <string name="sidebar_tb">Kenar çubuğu\n/Araç kutusu</string>
     <string name="auto_start_rec">Otomatik Kayıt Başlat</string>
-    <string name="apmreboot_list" translatable="false">Reboot,Reboot Recovery,Reboot Download,Reboot Bootloader,Hot Reboot,Reboot Safe Mode</string>
-    <string name="apm_list" translatable="false">Power Off,Reboot Menu,Airplane Mode,Screenshot,Flashlight,Settings</string>
+    <string name="apmreboot_list">Auto Start Recording</string>
     <string name="recording">Ekran Kaydı</string>
     <string name="change_theme">Aydınlık/Karanlık Tema</string>
     <string name="light_theme">Aydınlık Tema Ayarlandı</string>
     <string name="dark_theme">Karanlık Tema Ayarlandı</string>
+    <string name="cust_app_root">Assign Applications, Activities, Shortcuts, Web Links & Shell Commands.</string>
+    <string name="cust_app_pref_root">Enable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
+    <string name="send_report">Assign Applications, Activities, Shortcuts, Web Links & Shell Commands.</string>
+    <string name="close_app">Send Crash</string>
+    <string name="oops_error">Report</string>
+    <string name="rooted">Clear</string>
+    <string name="change_log_title">Error</string>
+    <string name="ok">Oops.. looks like something went wrong & Shortcutter Crashed!</string>
+    <string name="notification_blocker_sum">Sorry for the inconvenience.</string>
+    <string name="notif_access">Your device appears to be rooted!</string>
+    <string name="confirmation_dialog">Show Confirmation dialog</string>
 </resources>

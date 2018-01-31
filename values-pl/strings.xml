@@ -172,8 +172,8 @@
     <string name="location_tile_title">Tryb Lokalizacji</string>
     <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">Wyświetla dostępną i całkowitą ilość RAM. Za pomocą skrótu przejdziesz do informacji o pamięci RAM</string>
-    <string name="reboot_summary">Restartuje Twoje urządzenie</string>
-    <string name="reboot_tile_title">Restart</string>
+    <string name="reboot_summary">Opens an advanced (Root) power menu</string>
+    <string name="reboot_tile_title">Advanced Power Menu</string>
     <string name="ringmode_tile_title">Tryb Dzwonka</string>
     <string name="ringmode_summary">Przełącz Tryb Dzwonka Dzwonek/Wibracja/Cichy</string>
     <string name="screenrecord_summary">Płytka która pozwala nagrywać wszystko, co jest na ekranie urządzenia</string>
@@ -270,7 +270,6 @@
     <string name="failed_data_usage">Nie udało się uruchomić informacje o wykorzystaniu danych</string>
     <string name="how_to">Prosty przewodnik jak dodawać płytki Shortcutter do szybkich ustawień.</string>
     <string name="addtiles_title">Jak Dodawać Płytki QS</string>
-    <string name="adding_qs_tiles">Dodawanie Płytek QS</string>
     <string name="select_tiles"><![CDATA[1. Idź do zakładki w Shortcutter \"Płytki QS\" & wybierz swoje Płytki QS.]]></string>
     <string name="edit_view"><![CDATA[2. Pociągnij w dół pasek stanu, a następnie naciśnij przycisk Edytuj, aby dodać płytki do ustawień (Zazwyczaj ikona pióra).]]></string>
 
@@ -359,8 +358,6 @@
     <string name="volUp">Głośność +</string>
     <string name="volDown">Głośność -</string>
     <string name="cur_vol">Aktualna Głośność =&#160;</string>
-    <string name="click_disable">%
-	    \n Kliknij płytkę, aby wyłączyć</string>
     <string name="pause">Pauza
 	    \nMuzyki</string>
     <string name="play">Włącz
@@ -470,7 +467,6 @@
     <string name="current_location">Aktualna Lokalizacja</string>
     <string name="dev_loc_mode">Tryb Lokalizacji:&#160;%1$s</string>
     <string name="mylocation_summary">Wyświetla bieżącą lokalizację, z możliwością wyświetlania na mapach lub udostępniania</string>
-    <string name="loading_map">Ładowanie Map....</string>
     <string name="swipe_out">Przesuń, aby odrzucić</string>
     <string name="choose_ring_entries">Wybierz pozycję trybu dzwonka (minimum 2)</string>
     <string name="qs_head_title">Płytka Nagłówka QS</string>
@@ -645,7 +641,6 @@
     <string name="cast_summary">Uruchamia listę urządzeń do Przesyłania ekranu</string>
     <string name="horizontal_scale">Skalowanie Poziome</string>
     <string name="vertical_scale">Skalowanie Pionowe</string>
-    <string name="submit_icons">Prześlij własne ikony za pomocą opcji Zgłaszanie Błędów za pośrednictwem poczty e-mail</string>
     <string name="premium">Premium</string>
     <string name="free">FREE</string>
     <string name="refresh_summary">Wymuś odświeżenie Płytek Shortcutter Quick Settings (jeśli płytki przestały odpowiadać)</string>
@@ -665,4 +660,15 @@
     <string name="change_theme">Light/Dark Theme</string>
     <string name="dark_theme">Dark Theme Set</string>
     <string name="auto_start_rec">Auto Start Recording</string>
+    <string name="cust_app_root">Assign Applications, Activities, Shortcuts, Web Links & Shell Commands.</string>
+    <string name="cust_app_pref_root">Enable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
+    <string name="send_report">Assign Applications, Activities, Shortcuts, Web Links & Shell Commands.</string>
+    <string name="close_app">Send Crash</string>
+    <string name="oops_error">Report</string>
+    <string name="rooted">Clear</string>
+    <string name="change_log_title">Error</string>
+    <string name="ok">Oops.. looks like something went wrong & Shortcutter Crashed!</string>
+    <string name="notification_blocker_sum">Sorry for the inconvenience.</string>
+    <string name="notif_access">Your device appears to be rooted!</string>
+    <string name="confirmation_dialog">Show Confirmation dialog</string>
 </resources>

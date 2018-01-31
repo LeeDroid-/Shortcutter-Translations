@@ -173,8 +173,8 @@
     <string name="location_tile_title">Modo de ubicación</string>
     <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">Muestra la RAM total y disponible en un atajo</string>
-    <string name="reboot_summary">Reinicia tu dispositivo</string>
-    <string name="reboot_tile_title">Reiniciar</string>
+    <string name="reboot_summary">Opens an advanced (Root) power menu</string>
+    <string name="reboot_tile_title">Advanced Power Menu</string>
     <string name="ringmode_tile_title">Modo de sonido</string>
     <string name="ringmode_summary">Activar/Desactivar sonido/vibración/silencio</string>
     <string name="screenrecord_summary">Un apartado para grabar la pantalla del dispositivo</string>
@@ -272,7 +272,6 @@
     <string name="failed_data_usage">Error al mostrar información de uso</string>
     <string name="how_to">Haz clic aquí para ver una guía de añadir apartados de ajustes rápidos.\n\nUna vez hayas activado los apartados elegidos, tendrás que añadirlos al despliegue en el editor de ajustes rápidos del sistema.</string>
     <string name="addtiles_title">Cómo añadir apartados QS: Guía</string>
-    <string name="adding_qs_tiles">Añadir apartados QS</string>
     <string name="select_tiles"><![CDATA[1. Ve a la pestaña \"Desplegable\" en Shortcutter y selecciona tus apartados QS.]]></string>
     <string name="edit_view"><![CDATA[2. Despliega tu barra de estado y edita los botones.
     \n\n En Samsung hay que pulsar en el menú de 3 puntos y seleccionar "Distribución".\n\n se mostrarán los botones de Shortcutter al final.]]></string>
@@ -361,8 +360,6 @@
     <string name="volUp">Vol +</string>
     <string name="volDown">Vol -</string>
     <string name="cur_vol">Volumen actual =&#160;</string>
-    <string name="click_disable">%
-        \n Haz clic en el apartado para desactivar</string>
     <string name="pause">Pausar
         \nmúsica</string>
     <string name="play">Reproducir
@@ -472,7 +469,6 @@
     <string name="current_location">Ubicación actual</string>
     <string name="dev_loc_mode">Modo ubicación:&#160; %1$d</string>
     <string name="mylocation_summary">Muestra ubicación actual, con opciones de ver en el mapa y compartirlo</string>
-    <string name="loading_map">Cargando mapa...</string>
     <string name="swipe_out">Desliza para rechazar</string>
     <string name="choose_ring_entries">Entradas de modo sonido (2 mínimo)</string>
     <string name="qs_head_title">Apartados de encabezado QS</string>
@@ -647,7 +643,6 @@
     <string name="cast_summary">Launches the Screen Cast device list</string>
     <string name="horizontal_scale">Horizontal Scale</string>
     <string name="vertical_scale">Vertical Scale</string>
-    <string name="submit_icons">Submit your own icons using the Email feeback option</string>
     <string name="premium">Premium</string>
     <string name="free">FREE</string>
     <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
@@ -668,4 +663,15 @@
     <string name="dark_theme">Light/Dark Theme</string>
     <string name="auto_start_rec">Dark Theme Set</string>
     <string name="apm_tile_title">Auto Start Recording</string>
+    <string name="cust_app_root">Assign Applications, Activities, Shortcuts, Web Links & Shell Commands.</string>
+    <string name="cust_app_pref_root">Enable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
+    <string name="send_report">Assign Applications, Activities, Shortcuts, Web Links & Shell Commands.</string>
+    <string name="close_app">Send Crash</string>
+    <string name="oops_error">Report</string>
+    <string name="rooted">Clear</string>
+    <string name="change_log_title">Error</string>
+    <string name="ok">Oops.. looks like something went wrong & Shortcutter Crashed!</string>
+    <string name="notification_blocker_sum">Sorry for the inconvenience.</string>
+    <string name="notif_access">Your device appears to be rooted!</string>
+    <string name="confirmation_dialog">Show Confirmation dialog</string>
 </resources>

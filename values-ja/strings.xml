@@ -172,8 +172,8 @@
     <string name="location_tile_title">ロケーションモード</string>
     <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">Displays available &amp; total RAM, with a shortcut to go to RAM information</string>
-    <string name="reboot_summary">デバイスを再起動します</string>
-    <string name="reboot_tile_title">再起動</string>
+    <string name="reboot_summary">Opens an advanced (Root) power menu</string>
+    <string name="reboot_tile_title">Advanced Power Menu</string>
     <string name="ringmode_tile_title">通知モード</string>
     <string name="ringmode_summary">Toggle Ring Mode Ring/Vibrate/Silent</string>
     <string name="screenrecord_summary">A tile to record everything on your devices screen</string>
@@ -271,7 +271,6 @@
     <string name="failed_data_usage">データ使用量情報の起動に失敗しました</string>
     <string name="how_to">Click Here for A guide to adding Quick Setting Tiles.\n\nOnce you have enabled your chosen tiles in the categories below, you need to add them to your pull-down in the system quick settings editor.</string>
     <string name="addtiles_title">How To Add QS Tiles - Guide</string>
-    <string name="adding_qs_tiles">Adding QS Tiles</string>
     <string name="select_tiles">
     <![CDATA[1. Go to the Shortcutter \"Pull-Down\" tab & make your QS Tile selections.]]>
   </string>
@@ -366,8 +365,6 @@
     <string name="volUp">Vol +</string>
     <string name="volDown">Vol -</string>
     <string name="cur_vol">Current Volume = </string>
-    <string name="click_disable">%
-        \n Click the tile to disable</string>
     <string name="pause">Pause
         \nMusic</string>
     <string name="play">Play
@@ -479,7 +476,6 @@
     <string name="current_location">Current Location</string>
     <string name="dev_loc_mode">Location Mode:  %1$s</string>
     <string name="mylocation_summary">Displays current location, with options to view in maps or share</string>
-    <string name="loading_map">Loading Map....</string>
     <string name="swipe_out">Swipe out to dismiss</string>
     <string name="choose_ring_entries">Ring Mode Entries (2 Minimum)</string>
     <string name="qs_head_title">QS Header Tiles</string>
@@ -663,7 +659,6 @@
     <string name="cast_summary">Screen Castデバイスを表示します</string>
     <string name="horizontal_scale">Horizontal Scale</string>
     <string name="vertical_scale">Vertical Scale</string>
-    <string name="submit_icons">Submit your own icons using the Email feeback option</string>
     <string name="premium">Premium</string>
     <string name="free">FREE</string>
     <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
@@ -683,4 +678,15 @@
     <string name="change_theme">Light/Dark Theme</string>
     <string name="dark_theme">Dark Theme Set</string>
     <string name="auto_start_rec">Auto Start Recording</string>
+    <string name="cust_app_root">Assign Applications, Activities, Shortcuts, Web Links & Shell Commands.</string>
+    <string name="cust_app_pref_root">Enable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
+    <string name="send_report">Assign Applications, Activities, Shortcuts, Web Links & Shell Commands.</string>
+    <string name="close_app">Send Crash</string>
+    <string name="oops_error">Report</string>
+    <string name="rooted">Clear</string>
+    <string name="change_log_title">Error</string>
+    <string name="ok">Oops.. looks like something went wrong & Shortcutter Crashed!</string>
+    <string name="notification_blocker_sum">Sorry for the inconvenience.</string>
+    <string name="notif_access">Your device appears to be rooted!</string>
+    <string name="confirmation_dialog">Show Confirmation dialog</string>
 </resources>

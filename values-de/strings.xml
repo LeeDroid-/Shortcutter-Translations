@@ -171,8 +171,8 @@
     <string name="location_tile_title">Standortmodus</string>
     <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">Anzeigen verfügbar &amp; gesamter RAM, mit einer Verknüpfung zur RAM Information</string>
-    <string name="reboot_summary">Startet dein Gerät neu</string>
-    <string name="reboot_tile_title">Neu starten</string>
+    <string name="reboot_summary">Opens an advanced (Root) power menu</string>
+    <string name="reboot_tile_title">Advanced Power Menu</string>
     <string name="ringmode_tile_title">Klingelmodus</string>
     <string name="ringmode_summary">Klingelmodus umschalten zwischen Klingeln/Vibrieren/Stumm</string>
     <string name="screenrecord_summary">Eine Kachel, um alles auf Ihrem Gerätebildschirm aufzuzeichnen</string>
@@ -270,7 +270,6 @@
     <string name="failed_data_usage">Datenverbrauchsinformation schlug fehl</string>
     <string name="how_to">Klicke hier für eine einfache Anleitung um Shortcutter QS-Kacheln hinzuzufügen.</string>
     <string name="addtiles_title">Wie fügt man QS-Kacheln hinzu? - Anleitung</string>
-    <string name="adding_qs_tiles">QS-Kacheln hinzufügen</string>
     <string name="select_tiles"><![CDATA[1. Gehe zum Shortcutter \"Pull-Down\" Tabulator & wähle deine QS-Kacheln aus.]]></string>
     <string name="edit_view"><![CDATA[2. Ziehe die Statusleiste herunter und klicke auf die Schaltfläche "Bearbeiten", wie du unten gesehen hast. Dies ist normalerweise ein Stift-Symbol.
     	\n\nSamsung Benutzer wählen das
@@ -359,8 +358,6 @@
     <string name="volUp">Lautstärke +</string>
     <string name="volDown">Lautstärke -</string>
     <string name="cur_vol">Aktuelle Lautstärke = </string>
-    <string name="click_disable">%
-        \nKlicke die Kachel zum Deaktivieren</string>
     <string name="pause">Pause
         \nMusik</string>
     <string name="play">Abspielen
@@ -471,7 +468,6 @@
     <string name="current_location">Aktueller Standort</string>
     <string name="dev_loc_mode">Standortmodus:&#160; %1$s</string>
     <string name="mylocation_summary">Zeigt aktuellen Standort mit Optionen zur Ansicht in Maps oder zum Teilen</string>
-    <string name="loading_map">Lädt Karte....</string>
     <string name="swipe_out">Wische heraus um zu verbergen</string>
     <string name="choose_ring_entries">Klingelmodus Einträge\n(2 minimum)</string>
     <string name="qs_head_title">Anzahl Kacheln</string>
@@ -649,7 +645,6 @@
     <string name="cast_summary">Zeigt die Geräteliste zur Bildschirmübertragung an</string>
     <string name="horizontal_scale">Horizontale Skalierung</string>
     <string name="vertical_scale">Vertikale Skalierung</string>
-    <string name="submit_icons">Eigene Icons mit der E-Mail-Feeback-Option senden</string>
     <string name="premium">Premium</string>
     <string name="free">FREE</string>
     <string name="refresh_summary">Aktualisierung der Shortcutter Quick Settings Kacheln erzwingen (Zu verwenden, wenn die Kacheln nicht mehr ansprechen)</string>
@@ -669,4 +664,15 @@
     <string name="change_theme">Hell/Dunkel Thema</string>
     <string name="dark_theme">Dunkles Thema aktiv</string>
     <string name="auto_start_rec">Auto Start Aufnahme</string>
+    <string name="cust_app_root">Assign Applications, Activities, Shortcuts, Web Links & Shell Commands.</string>
+    <string name="cust_app_pref_root">Enable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
+    <string name="send_report">Assign Applications, Activities, Shortcuts, Web Links & Shell Commands.</string>
+    <string name="close_app">Send Crash</string>
+    <string name="oops_error">Report</string>
+    <string name="rooted">Clear</string>
+    <string name="change_log_title">Error</string>
+    <string name="ok">Oops.. looks like something went wrong & Shortcutter Crashed!</string>
+    <string name="notification_blocker_sum">Sorry for the inconvenience.</string>
+    <string name="notif_access">Your device appears to be rooted!</string>
+    <string name="confirmation_dialog">Show Confirmation dialog</string>
 </resources>

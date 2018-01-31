@@ -172,8 +172,8 @@
     <string name="location_tile_title">位置模式</string>
     <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">显示可用 &amp; 全部 RAM, 通过快捷方式查看 RAM 信息</string>
-    <string name="reboot_summary">重新启动你的设备</string>
-    <string name="reboot_tile_title">重新启动</string>
+    <string name="reboot_summary">Opens an advanced (Root) power menu</string>
+    <string name="reboot_tile_title">Advanced Power Menu</string>
     <string name="ringmode_tile_title">情景模式</string>
     <string name="ringmode_summary">开关情景模式响铃/振动/静音</string>
     <string name="screenrecord_summary">一个可在你的设备屏幕上录制内容的瓷贴</string>
@@ -271,7 +271,6 @@
     <string name="failed_data_usage">启动流量使用情况信息失败</string>
     <string name="how_to">点击此处查看添加快捷设置瓷贴的向导。\n\n一旦你在以下类别中选择要启用的瓷贴，你需要在系统快捷设置编辑器中添加这些瓷贴到下拉面板。</string>
     <string name="addtiles_title">如何添加快捷设置瓷贴 - 向导</string>
-    <string name="adding_qs_tiles">添加快捷设置瓷贴</string>
     <string name="select_tiles"><![CDATA[1. 前往 Shortcutter 的 \"下拉\" 标签 & 选择你的快捷设置瓷贴。]]></string>
     <string name="edit_view"><![CDATA[2. 下拉你的状态栏 & 点击如下所示的编辑按钮，通常显示为钢笔图标。
     \n\n 三星用户点击三个点菜单 & 选择重新排列。\n\n 你的 Shortcutter 瓷贴会在下视图中显示。]]></string>
@@ -360,8 +359,6 @@
     <string name="volUp">音量 +</string>
     <string name="volDown">音量 -</string>
     <string name="cur_vol">当前音量 =&#160;</string>
-    <string name="click_disable">%
-        \n 点击瓷贴以停用</string>
     <string name="pause">暂停
         \n音乐</string>
     <string name="play">播放
@@ -471,7 +468,6 @@
     <string name="current_location">当前位置</string>
     <string name="dev_loc_mode">位置模式:&#160; %1$s</string>
     <string name="mylocation_summary">显示当前位置，附有在地图上查看或分享的选项。</string>
-    <string name="loading_map">正在加载地图....</string>
     <string name="swipe_out">滑出以关闭</string>
     <string name="choose_ring_entries">情景模式条目 (最少 2 条)</string>
     <string name="qs_head_title">快捷设置标题瓷贴</string>
@@ -646,7 +642,6 @@
     <string name="cast_summary">启动屏幕投射设备列表</string>
     <string name="horizontal_scale">水平缩放</string>
     <string name="vertical_scale">垂直缩放</string>
-    <string name="submit_icons">使用 Email 反馈选项提交你自己的图标</string>
     <string name="premium">付费版</string>
     <string name="free">免费版</string>
     <string name="refresh_summary">强制刷新 Shortcutter 快捷设置瓷贴 (如果瓷贴没有响应时使用此项)</string>
@@ -666,4 +661,16 @@
     <string name="change_theme">Light/Dark Theme</string>
     <string name="dark_theme">Dark Theme Set</string>
     <string name="auto_start_rec">Auto Start Recording</string>
+    <string name="cust_app_root">Assign Applications, Activities, Shortcuts, Web Links & Shell Commands. Enable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
+    <string name="cust_app_pref_root">Assign Applications, Activities, Shortcuts, Web Links & Shell Commands.</string>
+    <string name="send_report">Send Crash Report</string>
+    <string name="close_app">Clear Error</string>
+    <string name="oops_error">Oops.. looks like something went wrong & Shortcutter Crashed!  Sorry for the inconvenience.</string>
+    <string name="rooted">Your device appears to be rooted!  Would you like to enable all root features now?</string>
+    <string name="change_log_title">Recent Changes</string>
+    <string name="ok">Ok</string>
+    <string name="notification_blocker">Notification Blocker</string>
+    <string name="notification_blocker_sum">Hide Oreo running in background notification</string>
+    <string name="notif_access">To block notifications we need to enable a Notification Listener.\n\nThis listener will only listen for notifications from the android system, any notification containing "running in the background" will be removed.\n\n Please click proceed & enable Shortcutters Notification Blocker.</string>
+    <string name="confirmation_dialog">Show Confirmation dialog</string>
 </resources>

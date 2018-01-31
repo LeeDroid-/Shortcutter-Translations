@@ -62,7 +62,6 @@
     <string name="adbtile">ADB</string>
     <string name="add_event">Добавить событие</string>
     <string name="add_event_summary">Добавление событие календаря</string>
-    <string name="adding_qs_tiles">Добавление Плитки</string>
     <string name="additonal_perms_req">Требуются дополнительные разрешения</string>
     <string name="addtiles_title">Руководоство - как добавить Плитку</string>
     <string name="admin_access">Доступ администратора</string>
@@ -132,8 +131,6 @@
     <string name="choose_ring_entries">Звук в режиме записи (минимум 2)</string>
     <string name="choose_steps">Выберите яркость пресет шаги</string>
     <string name="clear_schedule">Очистка планировщика автояркости</string>
-    <string name="click_disable">"% 
- Нажмите на плитку, чтобы отключить"</string>
     <string name="close">Закрыть</string>
     <string name="conf_sel">Подтвердить выбор</string>
     <string name="config_serv">Еще</string>
@@ -332,7 +329,6 @@ Usage"</string>
     <string name="left_position">Текущей позиция слева</string>
     <string name="lightmode">Ночной Режим</string>
     <string name="like_facebook">Facebook</string>
-    <string name="loading_map">Загрузка карты...</string>
     <string name="location">Местоположение</string>
     <string name="locationMode">Режим Местоположение</string>
     <string name="location_not_found">Местоположение не найдено</string>
@@ -447,8 +443,8 @@ Usage"</string>
     <string name="ram_summary">Отображает доступную и общую оперативную память, с ярлыком для перехода к информации о RAM</string>
     <string name="ram_tile_title">ОЗУ</string>
     <string name="rate_app">Поделиться программой</string>
-    <string name="reboot_summary">Перезагрузка устройства</string>
-    <string name="reboot_tile_title">Перезагрузка</string>
+    <string name="reboot_summary">Opens an advanced (Root) power menu</string>
+    <string name="reboot_tile_title">Advanced Power Menu</string>
     <string name="recentapps">Последние приложения</string>
     <string name="recents_sum">Открывает экран Последние приложения</string>
     <string name="record_audio">Запись аудио</string>
@@ -647,30 +643,29 @@ Usage"</string>
 Нажмите Продолжить и нажмите Далее и включите автозапуск для Shortcutter.</string>
     <string name="yes">Да</string>
     <string name="yes_pro">ПЕРЕЙТИ на ПРЕМИУМ</string>
-    <string name="disable_change">Отключить или изменить назначения?</string> 
-	<string name="change">Изменения</string>
-	<string name="haptic">Обратная тактильная связь</string> 
-	<string name="haptic_summary">Саветы вкл/выкл</string> 
-	<string name="disable_screen_off">Отключить на экране</string> 
-	<string name="unknown_sources">Разрешить неизвестные источники</string>
-	<string name="unknownsource_tile_summary">Разрешить установку приложений из неизвестных источниках</string>
-	<string name="cast">Роли</string> 
-	<string name="cast_summary">Открывает список устройств</string>
-	<string name="horizontal_scale">Масштаб по горизонтали</string>
-	<string name="vertical_scale">Масштаб по вертикали</string>
-	<string name="submit_icons">Представить ваши собственные иконки по электронной почте</string>
-	<string name="premium">Премиум</string> 
-	<string name="free">Бесплатно</string> 
-	<string name="refresh_summary">Силы обновить Shortcutter быстрой настройки плитки (которые будут использоваться, если плитка зависанию)</string>
-	<string name="force_refresh">Обновить силы</string>    
+    <string name="disable_change">Отключить или изменить назначения?</string>
+    <string name="change">Изменения</string>
+    <string name="haptic">Обратная тактильная связь</string>
+    <string name="haptic_summary">Саветы вкл/выкл</string>
+    <string name="disable_screen_off">Отключить на экране</string>
+    <string name="unknown_sources">Разрешить неизвестные источники</string>
+    <string name="unknownsource_tile_summary">Разрешить установку приложений из неизвестных источниках</string>
+    <string name="cast">Роли</string>
+    <string name="cast_summary">Открывает список устройств</string>
+    <string name="horizontal_scale">Масштаб по горизонтали</string>
+    <string name="vertical_scale">Масштаб по вертикали</string>
+    <string name="premium">Премиум</string>
+    <string name="free">Бесплатно</string>
+    <string name="refresh_summary">Силы обновить Shortcutter быстрой настройки плитки (которые будут использоваться, если плитка зависанию)</string>
+    <string name="force_refresh">Обновить силы</string>
     <string name="vpn">VPN</string>
-    <string name="vpn_summary">Открывает настройки VPN</string> 
-	<string name="compass">Компас</string>
-	<string name="updating">Обновление</string> 
-	<string name="select_default_immersive_mode">Выберите режим</string>
-	<string name="select_default_immersive_mode_summary">Выберите режим погружения по умолчанию</string>
-	<string name="pip">Картинка в картинке</string>
-	<string name="pip_sum">Запуск картинка в картинке на текущее приложение</string> 
+    <string name="vpn_summary">Открывает настройки VPN</string>
+    <string name="compass">Компас</string>
+    <string name="updating">Обновление</string>
+    <string name="select_default_immersive_mode">Выберите режим</string>
+    <string name="select_default_immersive_mode_summary">Выберите режим погружения по умолчанию</string>
+    <string name="pip">Картинка в картинке</string>
+    <string name="pip_sum">Запуск картинка в картинке на текущее приложение</string>
     <string name="sidebar_tb">Sidebar/Toolbox</string>
     <string name="recording">Recording Screen</string>
     <string name="sc_power_menu">Powered By ©Shortcutter</string>
@@ -678,5 +673,16 @@ Usage"</string>
     <string name="change_theme">Light/Dark Theme</string>
     <string name="dark_theme">Dark Theme Set</string>
     <string name="auto_start_rec">Auto Start Recording</string>
+    <string name="cust_app_root">Assign Applications, Activities, Shortcuts, Web Links & Shell Commands.</string>
+    <string name="cust_app_pref_root">Enable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
+    <string name="send_report">Assign Applications, Activities, Shortcuts, Web Links & Shell Commands.</string>
+    <string name="close_app">Send Crash</string>
+    <string name="oops_error">Report</string>
+    <string name="rooted">Clear</string>
+    <string name="change_log_title">Error</string>
+    <string name="ok">Oops.. looks like something went wrong & Shortcutter Crashed!</string>
+    <string name="notification_blocker_sum">Sorry for the inconvenience.</string>
+    <string name="notif_access">Your device appears to be rooted!</string>
+    <string name="confirmation_dialog">Show Confirmation dialog</string>
 
 </resources>
