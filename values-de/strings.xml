@@ -664,16 +664,16 @@
     <string name="change_theme">Hell/Dunkel Thema</string>
     <string name="dark_theme">Dunkles Thema aktiv</string>
     <string name="auto_start_rec">Auto Start Recording</string>
-    <string name="cust_app_root">Assign Applications, Activities, Shortcuts, Web Links &amp; Shell Commands. Enable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
-    <string name="cust_app_pref_root">Assign Applications, Activities, Shortcuts, Web Links &amp; Shell Commands.</string>
-    <string name="send_report">Send Crash Report</string>
-    <string name="close_app">Clear Error</string>
-    <string name="oops_error">Oops.. looks like something went wrong &amp; Shortcutter Crashed!  Sorry for the inconvenience.</string>
-    <string name="rooted">Your device appears to be rooted!  Would you like to enable all root features now?</string>
-    <string name="change_log_title">Recent Changes</string>
+    <string name="cust_app_root">Weise Anwendungen, Aktivitäten, Verknüpfungen, Weblinks und Shell-Befehle zu. Aktiviere die Kacheln hier, und klicke dann auf die Kachel, um die gewünschte Anwendung, Aktivität oder Verknüpfung zuzuweisen.</string>
+    <string name="cust_app_pref_root">Weise Anwendungen, Aktivitäten, Verknüpfungen, Weblinks und Shell-Befehle zu.</string>
+    <string name="send_report">Absturzbericht senden</string>
+    <string name="close_app">Fehler löschen</string>
+    <string name="oops_error">Oops... sieht aus, als wäre etwas schief gelaufen und Shortcutter abgestürzt! Entschuldige die Unannehmlichkeiten.</string>
+    <string name="rooted">Dein Gerät scheint gerootet zu sein! Möchtest du alle Root-Features jetzt aktivieren?</string>
+    <string name="change_log_title">Letzte Änderungen</string>
     <string name="ok">Ok</string>
-    <string name="notification_blocker">Notification Blocker</string>
-    <string name="notification_blocker_sum">Hide Oreo running in background notification</string>
-    <string name="notif_access">To block notifications we need to enable a Notification Listener.\n\nThis listener will only listen for notifications from the android system, any notification containing "running in the background" will be removed.\n\n Please click proceed &amp; enable Shortcutters Notification Blocker.</string>
-    <string name="confirmation_dialog">Show Confirmation dialog</string>
+    <string name="notification_blocker">Benachrichtigungsblocker</string>
+    <string name="notification_blocker_sum">Oreo ausblenden, das in der Hintergrundbenachrichtigung läuft</string>
+    <string name="notif_access">To block notifications we need to enable a Notification Listener.\n\n Dieser Listener lauscht nur auf Benachrichtigungen aus dem Android-System, alle Benachrichtigungen, die "im Hintergrund laufen" enthalten, werden entfernt.\n\n Bitte klicke auf Fortfahren und aktiviere den Shortcutters Notification Blocker.</string>
+    <string name="confirmation_dialog">Bestätigungsdialog anzeigen</string>
 </resources>
