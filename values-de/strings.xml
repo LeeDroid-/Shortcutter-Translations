@@ -674,6 +674,6 @@
     <string name="ok">Ok</string>
     <string name="notification_blocker">Benachrichtigungsblocker</string>
     <string name="notification_blocker_sum">Oreo ausblenden, das in der Hintergrundbenachrichtigung läuft</string>
-    <string name="notif_access">To block notifications we need to enable a Notification Listener.\n\n Dieser Listener lauscht nur auf Benachrichtigungen aus dem Android-System, alle Benachrichtigungen, die "im Hintergrund laufen" enthalten, werden entfernt.\n\n Bitte klicke auf Fortfahren und aktiviere den Shortcutters Notification Blocker.</string>
+    <string name="notif_access">Um Benachrichtigungen zu blockieren, müssen wir einen Notification Listener aktivieren.\n\n Dieser Listener lauscht nur auf Benachrichtigungen aus dem Android-System, alle Benachrichtigungen, die "im Hintergrund laufen" enthalten, werden entfernt.\n\n Bitte klicke auf Fortfahren und aktiviere den Shortcutters Notification Blocker.</string>
     <string name="confirmation_dialog">Bestätigungsdialog anzeigen</string>
 </resources>
