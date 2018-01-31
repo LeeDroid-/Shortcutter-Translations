@@ -54,7 +54,6 @@
     <string name="CustomTile28">Custom Tile 28</string>
     <string name="CustomTile29">Custom Tile 29</string>
     <string name="CustomTile30">Custom Tile 30</string>
-    <string name="Reboot">Reboot Menu</string>
     <string name="ring_mode">Ring Mode</string>
     <string name="Screen_timeout">Screen Timeout</string>
     <string name="alarm_tile">Next Alarm</string>
@@ -105,7 +104,6 @@
     <string name="screenshot">Screenshot</string>
     <string name="stop_recording">Stop Recording</string>
     <string name="start_recording">Start Recording</string>
-    <string name="screen_recorder">Screen Recorder</string>
     <string name="show_toggle">Show Toggle</string>
     <string name="close">Close</string>
     <string name="record_audio">Record Audio</string>
@@ -129,8 +127,6 @@
     <string name="no">No</string>
     <string name="settings_license">LICENSE</string>
     <string name="no_licence">No Licence Detected</string>
-    <string name="shortcutter_premium">Shortcutter Premium</string>
-    <string name="logo">Logo</string>
     <string name="old_licene">Premium key detected</string>
     <string name="tweaks_key">LeeDrOiD Tweaks key detected
         \n Premium features activated</string>
@@ -176,8 +172,8 @@
     <string name="location_tile_title">Location Mode</string>
     <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">Displays available &amp; total RAM, with a shortcut to go to RAM information</string>
-    <string name="reboot_summary">Opens an advanced reboot options dialog</string>
-    <string name="reboot_tile_title">Reboot Menu</string>
+    <string name="reboot_summary">Opens an advanced (Root) power menu</string>
+    <string name="reboot_tile_title">Advanced Power Menu</string>
     <string name="ringmode_tile_title">Ring Mode</string>
     <string name="ringmode_summary">Toggle Ring Mode Ring/Vibrate/Silent</string>
     <string name="screenrecord_summary">A tile to record everything on your devices screen</string>
@@ -275,7 +271,6 @@
     <string name="failed_data_usage">Failed to launch data usage information</string>
     <string name="how_to">Click Here for A guide to adding Quick Setting Tiles.\n\nOnce you have enabled your chosen tiles in the categories below, you need to add them to your pull-down in the system quick settings editor.</string>
     <string name="addtiles_title">How To Add QS Tiles - Guide</string>
-    <string name="adding_qs_tiles">Adding QS Tiles</string>
     <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Pull-Down\" tab & make your QS Tile selections.]]></string>
     <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below, this is usually a pen icon.
     \n\n Samsung users hit the 3 dot menu & select rearrange.\n\n Your Shortcutter tiles will show in the bottom view.]]></string>
@@ -317,7 +312,7 @@
         \n\nHave you considered showing your support &amp; going Premium?
         \n\nThis notification will show every 50 tile clicks in the Free version.</string>
     <string name="screenre_cat"><![CDATA[Screen Record & Capture]]></string>
-    <string name="choose_entries">Location Mode Entries (2 Minimum)</string>
+    <string name="choose_entries">Location Mode Entries\n(2 Minimum)</string>
     <string name="conf_sel">Confirm Selection</string>
     <string name="recentapps">Recent Apps</string>
     <string name="settings_system_required">Write System Settings permission required - Toggle to enable</string>
@@ -363,9 +358,7 @@
     <string name="inear_summary">Routes all audio through your device earpiece</string>
     <string name="volUp">Vol +</string>
     <string name="volDown">Vol -</string>
-    <string name="cur_vol">Current Volume =&#160;</string>
-    <string name="click_disable">%
-        \n Click the tile to disable</string>
+    <string name="cur_vol">Current in ear Volume =</string>
     <string name="pause">Pause
         \nMusic</string>
     <string name="play">Play
@@ -381,7 +374,6 @@
     <string name="overlay_required">System overlay permissions required</string>
     <string name="mob_data">Mobile Data</string>
     <string name="mob_dat_sum">Toggle mobile data on/off</string>
-    <string name="toolbox">Toolbox</string>
     <string name="wake_active">Screen Wake Active</string>
     <string name="floating_toolbox">Enable The Sidebar/Toolbox</string>
     <string name="float_summary">A Sidebar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
@@ -443,7 +435,7 @@
     <string name="corners_scale_summary">Adjust the screen corner radius</string>
     <string name="corner_colour">Select Corner Colour</string>
     <string name="how_it_works">How It works</string>
-    <string name="how_it_works1">Shortcutter offers several different options to access an array of shortcuts, settings &amp; services.</string>
+    <string name="how_it_works1">Shortcutter offers several different options to access a vast array of shortcuts, settings &amp; services in an instant.</string>
     <string name="how_it_works2">\u2022 Via your Quick Settings Pull-Down</string>
     <string name="how_it_works3">\u2022 Via the fully customisable, always on top, Shortcutter Swipe out Sidebar.</string>
     <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!</string>
@@ -461,11 +453,9 @@
     <string name="info_toggles">Information Tiles</string>
     <string name="sc_services">Shortcutter Service Tiles</string>
     <string name="weather">Weather Info</string>
-    <string name="tap_close">Touch to close</string>
     <string name="weather_desc">Launches a popup with current weather information</string>
     <string name="location">Location Updating</string>
-    <string name="condition">Condition:&#160;</string>
-    <string name="temp">Current Temperature:&#160;</string>
+    <string name="temp">Temperature:&#160;</string>
     <string name="feels">Feels Like:&#160;</string>
     <string name="dewp">Dew point:&#160;</string>
     <string name="weather_celsius">Temperature Unit</string>
@@ -476,11 +466,10 @@
     <string name="maps_link">View On Maps</string>
     <string name="refresh">Refresh</string>
     <string name="current_location">Current Location</string>
-    <string name="dev_loc_mode">Location Mode:&#160; %1$s</string>
+    <string name="dev_loc_mode">Location Mode:&#160; </string>
     <string name="mylocation_summary">Displays current location, with options to view in maps or share</string>
-    <string name="loading_map">Loading Map....</string>
     <string name="swipe_out">Swipe out to dismiss</string>
-    <string name="choose_ring_entries">Ring Mode Entries (2 Minimum)</string>
+    <string name="choose_ring_entries">Ring Mode Entries\n(2 Minimum)</string>
     <string name="qs_head_title">QS Header Tiles</string>
     <string name="acc_needed_corners">This overlay requires Accessibility access to:
         \n\n \u2022 Detect secure activities.
@@ -491,7 +480,7 @@
     <string name="corners_off_secure">Screen Corners suspended:
         \nSecure activity detected</string>
     <string name="launch_loc">Launches Settings \> Location/n(if no settings secure access)</string>
-    <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Quick Settings v%1$s </string>
+    <string name="full_title_header">Shortcutter\nQuick Settings v%1$s </string>
     <string name="nigh_light">Night Light</string>
     <string name="brightness">Screen Brightness</string>
     <string name="nightlight_summary">Provides an always on Nightlight &amp; clock display, plus a button to switch to Desk Clock Mode</string>
@@ -540,17 +529,19 @@
     <string name="hotspot_tile">WiFi Hotspot</string>
     <string name="to_be_toggled">Choose entries to be toggled.</string>
     <string name="swipe_out_close">Swipe left/right to close</string>
-    <string name="obscure_back"><![CDATA[Dim Behind & Detect Outside Touches]]></string>
+    <string name="obscure_back">Dim background &amp; collapse when touched outside or button pressed.</string>
     <string name="notif_led">Notification LED</string>
     <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
     <string name="system_toggle_summary">Subject to OS/manufacturer compatibility</string>
-    <string name="experimental_settings">Experimental Features</string>
+    <string name="experimental_settings">Bonus &amp; Experimental Features</string>
     <string name="sys_setting_tiles">Quick Settings tiles to toggle system settings</string>
     <string name="system_actions">Tiles to toggle/launch system actions</string>
     <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
     <string name="sc_service_sum"><![CDATA[Services & features provided by Shortcutter]]></string>
-    <string name="cust_app">Tiles that you can assign Applications, Activities, Shortcuts, Web Links &amp; Shell Commands (ROOT) to.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
-    <string name="cust_app_pref">Tiles that you can assign Applications, Activities, Shortcuts &amp; Web Links &amp; Shell Commands (ROOT) to.</string>
+    <string name="cust_app">Assign Applications, Activities, Shortcuts &amp; Web Links.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
+    <string name="cust_app_root">Assign Applications, Activities, Shortcuts, Web Links &amp; Shell Commands.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
+    <string name="cust_app_pref">Assign Applications, Activities, Shortcuts &amp; Web Links.</string>
+    <string name="cust_app_pref_root">Assign Applications, Activities, Shortcuts, Web Links &amp; Shell Commands.</string>
     <string name="cust_sb">Customise the look, feel &amp; behaviour of the Sidebar or ToolBox</string>
     <string name="behaviour">Change the behaviour of Tiles</string>
     <string name="perms_now">These will be requested when enabling services.</string>
@@ -612,7 +603,7 @@
     <string name="bt_summary">Enable/Disable Bluetooth</string>
     <string name="went_wrong">Something went wrong, please try again. If this issue persists, please contact me with your device details.</string>
     <string name="cont_and_phone"><![CDATA[Something went wrong, have you granted Contacts & Phone permissions?]]></string>
-    <string name="cp_head">Tap CENTER to confirm or BACK to cancel</string>
+    <string name="cp_head">Tap CENTER to confirm</string>
     <string name="transparency">Transparency</string>
     <string name="apply">Apply</string>
     <string name="scale">Scale =&#160;</string>
@@ -630,7 +621,7 @@
     <string name="trig_alpha">Trigger Opacity</string>
     <string name="problem">Got a problem or feature request\? \n Mail me first :)</string>
     <string name="opacity">Opacity =</string>
-    <string name="onehand">One Handed (Experimental)</string>
+    <string name="onehand">One Handed Mode</string>
     <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
     <string name="enter_shell_command">Shell Command</string>
     <string name="drag_out">Long press to change assignment</string>
@@ -654,7 +645,6 @@
     <string name="cast_summary">Launches the Screen Cast device list</string>
     <string name="horizontal_scale">Horizontal Scale</string>
     <string name="vertical_scale">Vertical Scale</string>
-    <string name="submit_icons">Submit your own icons using the Email feeback option</string>
     <string name="premium">Premium</string>
     <string name="free">FREE</string>
     <string name="refresh_summary">Force refresh Shortcutter Quick Settings Tiles (To be used if tiles become unresponsive)</string>
@@ -668,4 +658,55 @@
     <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
     <string name="pip">Picture In Picture</string>
     <string name="pip_sum">Launch Picture In Picture on current app</string>
+    <string name="shortcuts" translatable="false">wake,corners,screenRecord,screenShot</string>
+    <string name="sc_power_menu">Powered By ©Shortcutter</string>
+    <string name="apm_tile_title" translatable="false">APM</string>
+    <string name="sidebar_tb">Sidebar\n/Toolbox</string>
+    <string name="auto_start_rec">Auto Start Recording</string>
+    <string name="apmreboot_list" translatable="false">Reboot,Reboot Recovery,Reboot Download,Reboot Bootloader,Hot Reboot,Reboot Safe Mode</string>
+    <string name="apm_list" translatable="false">Power Off,Reboot Menu,Airplane Mode,Screenshot,Flashlight,Settings</string>
+    <string name="recording">Recording Screen</string>
+    <string name="change_theme">Light/Dark Theme</string>
+    <string name="light_theme">Light Theme Set</string>
+    <string name="dark_theme">Dark Theme Set</string>
+    <string name="send_report">Send Crash\nReport</string>
+    <string name="close_app">Clear\nError</string>
+    <string name="oops_error">Oops.. looks like something went wrong &amp; Shortcutter Crashed!\n\n\Sorry for the inconvenience.</string>
+    <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
+    <string name="change_log_title">Recent Changes</string>
+    <string name="change_log" translatable="false">Change Log:
+        \n\nV5.0.7:
+        \n\u2022 Add action confirmation to APM (Optional)
+        \n\u2022 New Seek Dialogs
+        \n\u2022 Fix crash when trimming custom app icon.
+        \n\u2022 Fix crash in Weather service/provider.
+        \n\u2022 Fix crash in Screen Recorder when video profile not available on device.
+        \n\u2022 Bonus feature - hide Oreo running in background notification.
+        \n\nV5.0.6:
+        \n\u2022 Dim Background now collapses SideBar/Toolbox on key press.
+        \n\u2022 Dim Background enabled as default.
+        \n\u2022 Improve APM dimensions.
+        \n\u2022 Show change log when app updated.
+        \n\nV5.0.5:
+        \n\u2022 Fix layout bug in main app when theme set.
+        \n\u2022 Fix crash in icon back selection.
+        \n\u2022 Fix crash in screen recorder.
+        \n\u2022 Fix SideBar/Toolbox crash when bad icon resource used.
+        \n\nV5.0.0 - V5.0.4:
+        \n\u2022 Screenshot countdown moved to notification.
+        \n\u2022 Layout fidelity fix-ups.
+        \n\u2022 Dialog colour corrections.
+        \n\u2022 Full application re-design.
+        \n\u2022 Dark / Light Themes.
+        \n\u2022 New Card Layout.
+        \n\u2022 New dialogues.
+        \n\u2022 New crash catcher with feedback button.
+        \n\u2022 Improve colour picker.
+        \n\u2022 Increase pull-down custom icon count.
+    </string>
+    <string name="ok">Ok</string>
+    <string name="notification_blocker">Notification Blocker</string>
+    <string name="notification_blocker_sum">Hide Oreo running in background notification</string>
+    <string name="notif_access"><![CDATA[To block notifications we need to enable a Notification Listener.\\n\\nThis listener will only listen for notifications from the android system, any notification containing \"running in the background\" will be removed.\\n\\n Please click proceed & enable Shortcutters Notification Blocker.]]></string>
+    <string name="confirmation_dialog">Show Confirmation dialog</string>
 </resources>
