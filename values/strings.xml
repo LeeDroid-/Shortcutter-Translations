@@ -690,7 +690,13 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nV5.0.7:
+        \n\nV5.1.0:
+        \n\u2022 In app dialogue styling.
+        \n\u2022 Bug fixes.
+        \n\u2022 Fix text being cut off in SideBar.
+        \n\u2022 Data Usage Tile option - show total usage.
+        \n\u2022 Data Usage Tile now shows in MB if less than 1GB used.
+        \n\nV5.0.7 - 5.0.9 - Beta:
         \n\u2022 Add action confirmation to APM (Optional)
         \n\u2022 New Seek Dialogs
         \n\u2022 Fix crash when trimming custom app icon.
@@ -724,4 +730,8 @@
     <string name="notification_blocker_sum">Hide Oreo running in background notification</string>
     <string name="notif_access"><![CDATA[To block notifications we need to enable a Notification Listener.\\n\\nThis listener will only listen for notifications from the android system, any notification containing \"running in the background\" will be removed.\\n\\n Please click proceed & enable Shortcutters Notification Blocker.]]></string>
     <string name="confirmation_dialog">Show Confirmation dialog</string>
+    <string name="join_beta">Join Beta</string>
+    <string name="reboot_menu">Reboot Menu</string>
+    <string name="total_usage">Show Total Usage</string>
+    <string name="total_usage_sum">Show total data usage or split by Up\/Down</string>
 </resources>

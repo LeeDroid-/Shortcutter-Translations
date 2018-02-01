@@ -690,4 +690,8 @@
     <string name="notification_blocker_sum">Hide Oreo running in background notification</string>
     <string name="notif_access">To block notifications we need to enable a Notification Listener.\n\nThis listener will only listen for notifications from the android system, any notification containing "running in the background" will be removed.\n\n Please click proceed &amp; enable Shortcutters Notification Blocker.</string>
     <string name="confirmation_dialog">Show Confirmation dialog</string>
+    <string name="join_beta">Join Beta</string>
+    <string name="reboot_menu">Reboot Menu</string>
+    <string name="total_usage">Show Total Usage</string>
+    <string name="total_usage_sum">Show total data usage or split by Up/Down</string>
 </resources>
