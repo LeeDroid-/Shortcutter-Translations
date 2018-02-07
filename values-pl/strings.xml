@@ -674,6 +674,6 @@
     <string name="join_beta">Dołącz do Bety</string>
     <string name="reboot_menu">Menu Restartu</string>
     <string name="total_usage">Pokaż Całe Użycie</string>
-    <string name="total_usage_sum">Pokaż całeu życie lub podziel na Wysyłanie/Pobieranie</string>
+    <string name="total_usage_sum">Pokaż całe użycie lub podziel na Wysyłanie/Pobieranie</string>
     <string name="notif_access">Aby zablokować powiadomienia, musimy włączyć Nasłuchiwanie Powiadomień.\\n\\nNasłuchiwacz będzie nasłuchiwał tylko powiadomień z systemu Android, wszelkie powiadomienia zawierające \\\"działające w tle \\\"zostaną usunięte.\\n\\n Kliknij Kontynuuj aby włączyć  Shortcutters Blokowanie Powiadomień.</string>
 </resources>
