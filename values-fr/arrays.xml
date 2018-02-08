@@ -2,9 +2,9 @@
 <resources>
     <string-array name="location_mode_entries">
         <item>Off</item>
-        <item>Device Only</item>
-        <item>Battery Saving</item>
-        <item>High Accuracy</item>
+        <item>Appareil uniquement</item>
+        <item>Économie de batterie</item>
+        <item>Haute précision</item>
     </string-array>
     <string-array name="location_mode_values">
         <item>0</item>
@@ -13,9 +13,9 @@
         <item>3</item>
     </string-array>
     <string-array name="ring_mode_entries">
-        <item>Silent</item>
-        <item>Vibrate</item>
-        <item>Ring</item>
+        <item>Silencieux</item>
+        <item>Vibreur</item>
+        <item>Sonnerie</item>
     </string-array>
     <string-array name="ring_mode_values">
         <item>0</item>
@@ -23,9 +23,9 @@
         <item>2</item>
     </string-array>
     <string-array name="sidebar_tmb_entries">
-        <item>Top</item>
-        <item>Center</item>
-        <item>Bottom</item>
+        <item>Haut</item>
+        <item>Centre</item>
+        <item>Bas</item>
     </string-array>
     <string-array name="sidebar_tmb_values">
         <item>0</item>
@@ -35,7 +35,7 @@
     <string-array name="tb_columns_entries">
         <item>2</item>
         <item>3</item>
-        <item>4 (Default)</item>
+        <item>4 (Défaut)</item>
         <item>5</item>
     </string-array>
     <string-array name="tb_columns_values">
@@ -46,7 +46,7 @@
     </string-array>
     <string-array name="sb_columns_entries">
         <item>1</item>
-        <item>2 (Default)</item>
+        <item>2 (Défaut)</item>
         <item>3</item>
         <item>4</item>
         <item>5</item>
@@ -67,23 +67,23 @@
     </string-array>
     <string-array name="cust_tile_choice">
         <item>Application</item>
-        <item>Activity (Advanced)</item>
-        <item>Shortcut</item>
-        <item>Web Link</item>
+        <item>Activité (Avancé)</item>
+        <item>Raccourci</item>
+        <item>Lien Web</item>
     </string-array>
     <string-array name="cust_tile_choice_root">
         <item>Application</item>
-        <item>Activity (Advanced)</item>
-        <item>Shortcut</item>
-        <item>Web Link</item>
-        <item>Shell Command</item>
+        <item>Activité (Avancé)</item>
+        <item>Raccourci</item>
+        <item>Lien Web</item>
+        <item>Ligne de Commande</item>
     </string-array>
     <string-array name="immersive_mode_entries">
-        <item>Full Immersive</item>
-        <item>Hide Status Bar</item>
-        <item>Hide Nav Bar</item>
-        <item>Show Mode Selector</item>
-        <item>Per App</item>
+        <item>Immersif total</item>
+        <item>Masquer Barre d'état</item>
+        <item>Masquer Barre de navigation</item>
+        <item>Afficher le sélecteur</item>
+        <item>Par Appli</item>
     </string-array>
     <string-array name="immersive_mode_values">
         <item>0</item>
@@ -93,9 +93,9 @@
         <item>4</item>
     </string-array>
     <string-array name="orientation_mode_entries">
-        <item>Auto Rotate</item>
+        <item>Rotation Auto</item>
         <item>Portrait</item>
-        <item>Landscape</item>
+        <item>Paysage</item>
     </string-array>
     <string-array name="orientation_mode_values">
         <item>0</item>
