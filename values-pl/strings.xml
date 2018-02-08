@@ -676,4 +676,23 @@
     <string name="total_usage">Pokaż Całe Użycie</string>
     <string name="total_usage_sum">Pokaż całe użycie lub podziel na Wysyłanie/Pobieranie</string>
     <string name="notif_access">Aby zablokować powiadomienia, musimy włączyć Nasłuchiwanie Powiadomień.\\n\\nNasłuchiwacz będzie nasłuchiwał tylko powiadomień z systemu Android, wszelkie powiadomienia zawierające \\\"działające w tle \\\"zostaną usunięte.\\n\\n Kliknij Kontynuuj aby włączyć  Shortcutters Blokowanie Powiadomień.</string>
+    <string name="confirmation_dialog_sum">Show an action confirmation dialog in the advanced power menu</string>
+    <string name="left_sum">Set one handed mode to the left</string>
+    <string name="wake_show_notif">Screen Wake Active Notification</string>
+    <string name="bonus_features">Bonus Features</string>
+    <string name="trigger_scale">Trigger Scale</string>
+    <string name="hide_with_statusbar_sum">Trigger becomes invisible when the status bar is hidden. i.e when in full screen video</string>
+    <string name="hide_with_statusbar">Hide With StatusBar</string>
+    <string name="choose_orientation_entries">Orientation Mode Entries (2 Minimum)</string>
+    <string name="speaker_audio">Speaker Audio</string>
+    <string name="speaker_audio_sum">Force audio to speakerphone (BETA - uses call stream quality)</string>
+    <string name="launch_act">Activity Launcher</string>
+    <string name="stopwatch_title">Stopwatch</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="all_apps">App Launcher</string>
+    <string name="all_apps_summary">Shortcutters searchable &amp; filterable app drawer</string>
+    <string name="stopwatch_summary">A handy stopwatch</string>
+    <string name="select_apps">Select Applications</string>
+    <string name="immersive_apps">Launch immersive mode in certain applications</string>
 </resources>

@@ -309,7 +309,7 @@
         \n\nHave you considered showing your support &amp; going Premium?
         \n\nThis notification will show every 50 tile clicks in the Free version.</string>
     <string name="screenre_cat"><![CDATA[Screen Record & Capture]]></string>
-    <string name="choose_entries">Location Mode Entries\n(2 Minimum)</string>
+    <string name="choose_entries">Location Mode Entries (2 Minimum)</string>
     <string name="conf_sel">Confirm Selection</string>
     <string name="recentapps">Recent Apps</string>
     <string name="settings_system_required">Write System Settings permission required - Toggle to enable</string>
@@ -343,7 +343,7 @@
         \n\nPlease press proceed &amp; enable Admin rights to use this Shortcut.\n\n</string>
     <string name="lock_sum">Locks your screen</string>
     <string name="immersive_active">Immersive Mode Active</string>
-    <string name="select_time">Please select a time in mm:ss</string>
+    <string name="select_time">Please select a time in hh:mm:ss</string>
     <string name="search_tile">Web Search</string>
     <string name="search_summary">Opens Google Search</string>
     <string name="voice_search_tile">Voice Command</string>
@@ -455,7 +455,7 @@
     <string name="temp">Temperature:&#160;</string>
     <string name="feels">Feels Like:&#160;</string>
     <string name="dewp">Dew point:&#160;</string>
-    <string name="weather_celsius">Temperature Unit</string>
+    <string name="weather_celsius">Weather Temperature Unit</string>
     <string name="celsius">Celsius</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="humidity">Humidity:&#160;</string>
@@ -466,7 +466,7 @@
     <string name="dev_loc_mode">Location Mode:&#160; </string>
     <string name="mylocation_summary">Displays current location, with options to view in maps or share</string>
     <string name="swipe_out">Swipe out to dismiss</string>
-    <string name="choose_ring_entries">Ring Mode Entries\n(2 Minimum)</string>
+    <string name="choose_ring_entries">Ring Mode Entries (2 Minimum)</string>
     <string name="qs_head_title">QS Header Tiles</string>
     <string name="acc_needed_corners">This overlay requires Accessibility access to:
         \n\n \u2022 Detect secure activities.
@@ -515,7 +515,7 @@
     <string name="install_shortcut">Install\nShortcut</string>
     <string name="select_shortcut">Select A Shortcut To Install</string>
     <string name="header">Remove Header</string>
-    <string name="review">\n Don\'t forget to leave a rocking review in the Play Store!</string>
+    <string name="review">Don\'t forget to leave a rocking review in the Play Store!</string>
     <string name="enjoying">Enjoying Shortcutter?</string>
     <string name="counter">Counter\n+1</string>
     <string name="expose_activity_summary">Create additional icons to access these toggle\'s from your home screen or app drawer.\n\nThis also enables mapping toggles to other app\'s such as HTC Edge Sense, Second Displays &amp; Tasker.</string>
@@ -530,7 +530,7 @@
     <string name="notif_led">Notification LED</string>
     <string name="notif_led_summary">Toggle the devices notification LED on/off\n(Manufacturer dependent)</string>
     <string name="system_toggle_summary">Subject to OS/manufacturer compatibility</string>
-    <string name="experimental_settings">Bonus &amp; Experimental Features</string>
+    <string name="experimental_settings">Experimental Features</string>
     <string name="sys_setting_tiles">Quick Settings tiles to toggle system settings</string>
     <string name="system_actions">Tiles to toggle/launch system actions</string>
     <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
@@ -589,7 +589,7 @@
     <string name="mute_media_summary">Mute your media volume</string>
     <string name="system_perms_message_touches">This option requires the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
         \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
-    <string name="lock_root">Use ROOT Method</string>
+    <string name="lock_root">ROOT Screen Lock Method</string>
     <string name="root_lock_sum">Sends a POWER key event using shell</string>
     <string name="choose_activity">Choose Activity</string>
     <string name="exp_notif">Expand Notifications</string>
@@ -622,7 +622,7 @@
     <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
     <string name="enter_shell_command">Shell Command</string>
     <string name="drag_out">Long press to change assignment</string>
-    <string name="left_hand_mode">Left Handed Mode</string>
+    <string name="left_hand_mode">One Handed Mode - Left</string>
     <string name="ime_method">IME Selector</string>
     <string name="wrap">Set to: Wrap contents</string>
     <string name="fill">Set to: Fill vertically</string>
@@ -671,39 +671,32 @@
     <string name="oops_error">Oops.. looks like something went wrong &amp; Shortcutter Crashed!\n\n\Sorry for the inconvenience.</string>
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
-    <string name="change_log" translatable="false">Change Log:
-        \n\nV5.0.7:
-        \n\u2022 Add action confirmation to APM (Optional)
-        \n\u2022 New Seek Dialogs
-        \n\u2022 Fix crash when trimming custom app icon.
-        \n\u2022 Fix crash in Weather service/provider.
-        \n\u2022 Fix crash in Screen Recorder when video profile not available on device.
-        \n\u2022 Bonus feature - hide Oreo running in background notification.
-        \n\nV5.0.6:
-        \n\u2022 Dim Background now collapses SideBar/Toolbox on key press.
-        \n\u2022 Dim Background enabled as default.
-        \n\u2022 Improve APM dimensions.
-        \n\u2022 Show change log when app updated.
-        \n\nV5.0.5:
-        \n\u2022 Fix layout bug in main app when theme set.
-        \n\u2022 Fix crash in icon back selection.
-        \n\u2022 Fix crash in screen recorder.
-        \n\u2022 Fix SideBar/Toolbox crash when bad icon resource used.
-        \n\nV5.0.0 - V5.0.4:
-        \n\u2022 Screenshot countdown moved to notification.
-        \n\u2022 Layout fidelity fix-ups.
-        \n\u2022 Dialog colour corrections.
-        \n\u2022 Full application re-design.
-        \n\u2022 Dark / Light Themes.
-        \n\u2022 New Card Layout.
-        \n\u2022 New dialogues.
-        \n\u2022 New crash catcher with feedback button.
-        \n\u2022 Improve colour picker.
-        \n\u2022 Increase pull-down custom icon count.
-    </string>
     <string name="ok">Ok</string>
-    <string name="notification_blocker">Notification Blocker</string>
+    <string name="notification_blocker">Oreo Notification Blocker</string>
     <string name="notification_blocker_sum">Hide Oreo running in background notification</string>
-    <string name="notif_access"><![CDATA[To block notifications we need to enable a Notification Listener.\\n\\nThis listener will only listen for notifications from the android system, any notification containing \"running in the background\" will be removed.\\n\\n Please click proceed & enable Shortcutters Notification Blocker.]]></string>
-    <string name="confirmation_dialog">Show Confirmation dialog</string>
+    <string name="notif_access">To block notifications we need to enable a Notification Listener.\n\nThis listener will only listen for notifications from the android system, any notification containing \"running in the background\" will be removed.\n\n Please click proceed &amp; enable Shortcutters Notification Blocker.</string>
+    <string name="confirmation_dialog">APM Confirmation dialog</string>
+    <string name="confirmation_dialog_sum">Show an action confirmation dialog in the advanced power menu</string>
+    <string name="join_beta">Join Beta</string>
+    <string name="reboot_menu">Reboot Menu</string>
+    <string name="total_usage">Show Total Usage</string>
+    <string name="left_sum">Set one handed mode to the left</string>
+    <string name="total_usage_sum">Show total data usage or split by Up\/Down</string>
+    <string name="wake_show_notif">Screen Wake Active Notification</string>
+    <string name="bonus_features">Bonus Features</string>
+    <string name="trigger_scale">Trigger Scale</string>
+    <string name="hide_with_statusbar_sum">Trigger becomes invisible when the status bar is hidden. i.e when in full screen video</string>
+    <string name="hide_with_statusbar">Hide With StatusBar</string>
+    <string name="choose_orientation_entries">Orientation Mode Entries (2 Minimum)</string>
+    <string name="speaker_audio">Speaker Audio</string>
+    <string name="speaker_audio_sum">Force audio to speakerphone (BETA - uses call stream quality)</string>
+    <string name="launch_act">Activity Launcher</string>
+    <string name="stopwatch_title">Stopwatch</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="all_apps">App Launcher</string>
+    <string name="all_apps_summary">Shortcutters searchable &amp; filterable app drawer</string>
+    <string name="stopwatch_summary">A handy stopwatch</string>
+    <string name="select_apps">Select Applications</string>
+    <string name="immersive_apps">Launch immersive mode in certain applications</string>
 </resources>

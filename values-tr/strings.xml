@@ -660,8 +660,7 @@
     <string name="apm_tile_title" translatable="false">APM</string>
     <string name="sidebar_tb">Kenar çubuğu\n/Araç kutusu</string>
     <string name="auto_start_rec">Otomatik Kayıt Başlat</string>
-    <string name="apmreboot_list">Reboot,Reboot Recovery,Reboot Download,Reboot Bootloader,Hot Reboot,Reboot Safe Mode</string>
-    <string name="apm_list" translatable="false">Power Off,Reboot Menu,Airplane Mode,Screenshot,Flashlight,Settings</string
+    <string name="apmreboot_list">Auto Start Recording</string>
     <string name="recording">Ekran Kaydı</string>
     <string name="change_theme">Aydınlık/Karanlık Tema</string>
     <string name="light_theme">Aydınlık Tema Ayarlandı</string>
@@ -682,4 +681,23 @@
     <string name="total_usage">Toplam Kullanımı Göster</string>
     <string name="total_usage_sum">Toplam veri kullanımını göster veya Yukarı/Aşağı böl</string>
     <string name="notif_access">Bildirimleri engellemek için bir Bildirim Dinleyicisi etkinleştirmeliyiz.\\n\\nBu dinleyici yalnızca android sisteminden gelen bildirimleri dinleyecek, \\\"arkaplanda çalışıyor\\\" içeren herhangi bir bildirimi kaldıracaktır.\\n\\n Lütfen devam edin &amp; Shortcutter Bildirim Engelleyicisi\'ni etkinleştirin.</string>
+    <string name="confirmation_dialog_sum">Show an action confirmation dialog in the advanced power menu</string>
+    <string name="left_sum">Set one handed mode to the left</string>
+    <string name="wake_show_notif">Screen Wake Active Notification</string>
+    <string name="bonus_features">Bonus Features</string>
+    <string name="trigger_scale">Trigger Scale</string>
+    <string name="hide_with_statusbar_sum">Trigger becomes invisible when the status bar is hidden. i.e when in full screen video</string>
+    <string name="hide_with_statusbar">Hide With StatusBar</string>
+    <string name="choose_orientation_entries">Orientation Mode Entries (2 Minimum)</string>
+    <string name="speaker_audio">Speaker Audio</string>
+    <string name="speaker_audio_sum">Force audio to speakerphone (BETA - uses call stream quality)</string>
+    <string name="launch_act">Activity Launcher</string>
+    <string name="stopwatch_title">Stopwatch</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="all_apps">App Launcher</string>
+    <string name="all_apps_summary">Shortcutters searchable &amp; filterable app drawer</string>
+    <string name="stopwatch_summary">A handy stopwatch</string>
+    <string name="select_apps">Select Applications</string>
+    <string name="immersive_apps">Launch immersive mode in certain applications</string>
 </resources>

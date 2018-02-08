@@ -66,36 +66,40 @@
         <item>QVGA</item>
     </string-array>
     <string-array name="cust_tile_choice">
-        <item>Applicazione</item>
-        <item>Activity (Avanzato)</item>
-        <item>Scorciatoia</item>
-        <item>Sito Web</item>
+        <item>Application</item>
+        <item>Activity (Advanced)</item>
+        <item>Shortcut</item>
+        <item>Web Link</item>
     </string-array>
     <string-array name="cust_tile_choice_root">
-        <item>Applicazione</item>
-        <item>Activity (Avanzato)</item>
-        <item>Scorciatoia</item>
-        <item>Sito Web</item>
-        <item>Comando Shell</item>
+        <item>Application</item>
+        <item>Activity (Advanced)</item>
+        <item>Shortcut</item>
+        <item>Web Link</item>
+        <item>Shell Command</item>
     </string-array>
     <string-array name="immersive_mode_entries">
         <item>Full Immersive</item>
         <item>Hide Status Bar</item>
         <item>Hide Nav Bar</item>
         <item>Show Mode Selector</item>
+        <item>Per App</item>
     </string-array>
     <string-array name="immersive_mode_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
+        <item>4</item>
     </string-array>
-    <string-array name="reboot_list">
-        <item>Reboot</item>
-        <item>Reboot Recovery</item>
-        <item>Reboot Download</item>
-        <item>Reboot Bootloader</item>
-        <item>Hot Reboot</item>
-        <item>Reboot Safe Mode</item>
+    <string-array name="orientation_mode_entries">
+        <item>Auto Rotate</item>
+        <item>Portrait</item>
+        <item>Landscape</item>
+    </string-array>
+    <string-array name="orientation_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>
