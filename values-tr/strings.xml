@@ -660,25 +660,26 @@
     <string name="apm_tile_title" translatable="false">APM</string>
     <string name="sidebar_tb">Kenar çubuğu\n/Araç kutusu</string>
     <string name="auto_start_rec">Otomatik Kayıt Başlat</string>
-    <string name="apmreboot_list">Auto Start Recording</string>
+    <string name="apmreboot_list">Reboot,Reboot Recovery,Reboot Download,Reboot Bootloader,Hot Reboot,Reboot Safe Mode</string>
+    <string name="apm_list" translatable="false">Power Off,Reboot Menu,Airplane Mode,Screenshot,Flashlight,Settings</string
     <string name="recording">Ekran Kaydı</string>
     <string name="change_theme">Aydınlık/Karanlık Tema</string>
     <string name="light_theme">Aydınlık Tema Ayarlandı</string>
     <string name="dark_theme">Karanlık Tema Ayarlandı</string>
-    <string name="cust_app_root">Assign Applications, Activities, Shortcuts, Web Links &amp; Shell Commands. Enable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
-    <string name="cust_app_pref_root">Assign Applications, Activities, Shortcuts, Web Links &amp; Shell Commands.</string>
-    <string name="send_report">Send Crash Report</string>
-    <string name="close_app">Clear Error</string>
-    <string name="oops_error">Oops.. looks like something went wrong &amp; Shortcutter Crashed!  Sorry for the inconvenience.</string>
-    <string name="rooted">Your device appears to be rooted!  Would you like to enable all root features now?</string>
-    <string name="change_log_title">Recent Changes</string>
-    <string name="ok">Ok</string>
-    <string name="notification_blocker">Notification Blocker</string>
-    <string name="notification_blocker_sum">Hide Oreo running in background notification</string>
-    <string name="confirmation_dialog">Show Confirmation dialog</string>
-    <string name="join_beta">Join Beta</string>
-    <string name="reboot_menu">Reboot Menu</string>
-    <string name="total_usage">Show Total Usage</string>
-    <string name="total_usage_sum">Show total data usage or split by Up/Down</string>
-    <string name="notif_access">To block notifications we need to enable a Notification Listener.\\n\\nThis listener will only listen for notifications from the android system, any notification containing \\\"running in the background\\\" will be removed.\\n\\n Please click proceed &amp; enable Shortcutters Notification Blocker.</string>
+    <string name="cust_app_root">Uygulamalar, Etkinlikler, Kısayollar, Web Bağlantıları &amp; Kabuk Komutları ata. Burada sekmeleri etkinleştirin, ardından seçtiğiniz uygulamayı, etkinliği veya kısayolu atamak için sekmeye tıklayın.</string>
+    <string name="cust_app_pref_root">Uygulamalar, Etkinlikler, Kısayollar, Web Bağlantıları &amp; Kabuk Komutları ata.</string>
+    <string name="send_report">Hata Raporu Gönder</string>
+    <string name="close_app">Hatayı Temizle</string>
+    <string name="oops_error">Olamaz.. bir şeyler ters gitti &amp; Shortcutter Çöktü!  Rahatsızlıktan dolayı özür dileriz.</string>
+    <string name="rooted">Cihazınız rootlu gibi görünüyor! Tüm root özelliklerini şimdi etkinleştirmek ister misiniz?</string>
+    <string name="change_log_title">Son Değişiklikler</string>
+    <string name="ok">Tamam</string>
+    <string name="notification_blocker">Bildirim Engelleyici</string>
+    <string name="notification_blocker_sum">Arka plan bildiriminde çalışan Oreo\'yu gizle</string>
+    <string name="confirmation_dialog">Onay kutusunu göster</string>
+    <string name="join_beta">Beta\'ya Katıl</string>
+    <string name="reboot_menu">Yeniden Başlatma Menüsü</string>
+    <string name="total_usage">Toplam Kullanımı Göster</string>
+    <string name="total_usage_sum">Toplam veri kullanımını göster veya Yukarı/Aşağı böl</string>
+    <string name="notif_access">Bildirimleri engellemek için bir Bildirim Dinleyicisi etkinleştirmeliyiz.\\n\\nBu dinleyici yalnızca android sisteminden gelen bildirimleri dinleyecek, \\\"arkaplanda çalışıyor\\\" içeren herhangi bir bildirimi kaldıracaktır.\\n\\n Lütfen devam edin &amp; Shortcutter Bildirim Engelleyicisi\'ni etkinleştirin.</string>
 </resources>
