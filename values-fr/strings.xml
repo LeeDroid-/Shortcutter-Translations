@@ -268,139 +268,135 @@
         \n(Paramétrez le cycle dans les Réglages de la tuile)</string>
     <string name="data_tile_title">Données</string>
     <string name="failed_data_usage">Échec du lancement des informations d'Utilisation des Données</string>
-    <string name="how_to">Click Here for A guide to adding Quick Setting Tiles.\n\nOnce you have enabled your chosen tiles in the categories below, you need to add them to your pull-down in the system quick settings editor.</string>
-    <string name="addtiles_title">How To Add QS Tiles - Guide</string>
-    <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Pull-Down\" tab & make your QS Tile selections.]]></string>
-    <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below, this is usually a pen icon.
-    \n\n Samsung users hit the 3 dot menu & select rearrange.\n\n Your Shortcutter tiles will show in the bottom view.]]></string>
-    <string name="edit_view1">3. In the Edit View you will find 2/3 containers, you will see your new Shortcutter tiles in the bottom container.
-        \n\nTo add them, simply long press &amp; drag your chosen tiles up to the top (Active) container &amp; exit the Edit View.</string>
-    <string name="edit_view_note">IMPORTANT NOTE:
-        \n\n Due to a bug in Android N, you may struggle to add tiles, this can be worked around by doing the following.
-        \n\nRemove any tiles you do not want in the \"Pull-Down\" tab &amp; take your new tiles from the TOP of the available tiles container.
-        \n\nUnfortunately this is not something I can fix as it has nothing to do with the app.</string>
-    <string name="small">Font
-        \nSmall</string>
-    <string name="large">Font
-        \nLarge</string>
-    <string name="fontscale">Font
-        \nSize</string>
-    <string name="defaultsize">Font
-        \nDefault</string>
-    <string name="largest">Font
-        \nLargest</string>
-    <string name="fontscale_sum">Toggle system font size</string>
-    <string name="font_scale_title">Font Scale</string>
-    <string name="power_saver">Power Saver</string>
-    <string name="power_save_summary">Toggle Power Saving mode</string>
-    <string name="prem_only_message">This feature is only available in the Premium version of Shortcutter.
-        \n\nPlease click GO PREMIUM now to enable the following features:
-        \n\n \u2022 Additional Custom Tiles
-        \n \u2022 Additional Custom URL Tiles
-        \n \u2022 Screen Recording &amp; Capture
-        \n \u2022 Additional in-app configuration options
-        \n \u2022 &amp; Remove the 50 tile click notification</string>
-    <string name="no_thanks">No Thanks</string>
-    <string name="add_event">Add Event</string>
-    <string name="add_event_summary">Add A Calendar Event</string>
-    <string name="location_not_found">Location settings activity not found</string>
-    <string name="power_not_found">Power settings activity not found</string>
-    <string name="nfc_not_found">NFC settings activity not found</string>
-    <string name="consider_prem">Shortcutter FREE</string>
-    <string name="consider_prem1">Thats 50 Shortcutter clicks!
-        \n\nHave you considered showing your support &amp; going Premium?
-        \n\nThis notification will show every 50 tile clicks in the Free version.</string>
-    <string name="screenre_cat"><![CDATA[Screen Record & Capture]]></string>
-    <string name="choose_entries">Location Mode Entries (2 Minimum)</string>
-    <string name="conf_sel">Confirm Selection</string>
-    <string name="recentapps">Recent Apps</string>
-    <string name="settings_system_required">Write System Settings permission required - Toggle to enable</string>
-    <string name="usage_access_required">Usage Access permissions required - Toggle to enable</string>
-    <string name="dnd_required">Do Not Distrurb access required - Toggle to enable</string>
-    <string name="accessibility_description">Allows shortcutter to perform the following accessibility actions
-        \n\n\u2022 Toggle Split Screen
-        \n\u2022 Toggle Recent Apps
-        \n\u2022 Show Power Menu
-        \n\u2022 Expand Notifications &amp; Quick Settings
-        \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.</string>
+    <string name="how_to">Cliquez ici pour afficher un guide sur la procedure d'ajout de tuiles de Réglages Rapides.\n\nAprès avoir activé les tuiles de votre choix dans les catégories ci-dessous, vous devez les ajouter à votre menu Réglages Rapides via son éditeur inclus.</string>
+    <string name="addtiles_title">Ajouter des tuiles - Guide</string>
+    <string name="select_tiles"><![CDATA[1. Rendez-vous sur l'onglet \"Menu Déroulant\" de Shortcutter & choisissez vos tuiles de Réglages Rapides.]]></string>
+    <string name="edit_view"><![CDATA[2. Tirez vers le bas sur votre barre d'état & touchez le bouton édition comme montré ci-dessous, celui-ci est généralement une icône en forme de crayon.
+    \n\n Utilisateurs Samsung, touchez le menu 3 points & sélectionnez réarranger.\n\n Vos tuiles Shortcutter seront affichées dans la partie basse.]]></string>
+    <string name="edit_view1">3. Dans le mode Édition vous trouverez 2/3 sections, vous verrez vos tuiles Shortcutter dans la section du bas.
+        \n\nTPour les ajouter, restez appuyé &amp; glissez la tuile de votre choix vers la section du haut (Tuiles Actives) &amp; quittez le mode Édition.</string>
+    <string name="edit_view_note">REMARQUE IMPORTANTE:
+        \n\n À cause d'un bug avec Android N, vous pourriez avoir des difficultés à ajouter des tuiles, cela peut être contourné ainsi :
+        \n\nRetirez toutes les tuiles que vous n'utilisez pas dans l'onglet \"Menu Déroulant\" &amp; prenez vos nouvelles tuiles du HAUT de la section tuiles disponibles.
+        \n\nCe n'est malheureusement pas quelque chose que je peux réparer car cela n'a rien à voir avec Shortcutter.</string>
+    <string name="small">Petit</string>
+    <string name="large">Grand</string>
+    <string name="fontscale">Taille
+        \nde Police</string>
+    <string name="defaultsize">Par défaut</string>
+    <string name="largest">Très grand</string>
+    <string name="fontscale_sum">Changer la taille des Polices Système</string>
+    <string name="font_scale_title">Échelle des Polices</string>
+    <string name="power_saver">Économie d'énergie</string>
+    <string name="power_save_summary">Activer/désactiver le mode Économie d'énergie</string>
+    <string name="prem_only_message">Cette fonctionnalité n'est disponible qu'avec la version Premium de Shortcutter.
+        \n\nVeuillez cliquer sur PASSER PREMIUM pour activer les fonctionnalités suivantes:
+        \n\n \u2022 Tuiles perso supplémentaires
+        \n \u2022 Tuiles URL perso supplémentaires
+        \n \u2022 Enregistrement Écran &amp; Capture
+        \n \u2022 Réglages supplémentaires dans l'appli
+        \n \u2022 &amp; Retirer la notification des 50 clics</string>
+    <string name="no_thanks">Non merci</string>
+    <string name="add_event">Ajouter Évènement</string>
+    <string name="add_event_summary">Ajoute un évènement au calendrier</string>
+    <string name="location_not_found">Activité de Réglage de Localisation non trouvée</string>
+    <string name="power_not_found">Activité de Réglage d'alimentation non trouvée</string>
+    <string name="nfc_not_found">Activité de Réglages du NFC non trouvée</string>
+    <string name="consider_prem">Shortcutter GRATUIT</string>
+    <string name="consider_prem1">Cela fait 50 clics Shortcutter !
+        \n\nAvez-vous pensé à montrer votre support &amp; passer Premium?
+        \n\nCette notification apparaîtra tous les 50 clics sur des tuiles dans la version gratuite.</string>
+    <string name="screenre_cat"><![CDATA[Enregistrement Écran & Capture]]></string>
+    <string name="choose_entries">Entrées Mode Localisation (2 Minimum)</string>
+    <string name="conf_sel">Confirmer la Sélection</string>
+    <string name="recentapps">Applis récentes</string>
+    <string name="settings_system_required">Permission d'accès aux Réglages Système requise - Touchez pour to activer</string>
+    <string name="usage_access_required">Permission d'accès aux statistiques d'utilisation requise - Touchez pour to activer</string>
+    <string name="dnd_required">Accès à Ne Pas Déranger requis - Touchez pour to activer</string>
+    <string name="accessibility_description">Autorise shortcutter à effectuer les actions d'accessibilité suivantes
+        \n\n\u2022 Activer le partage d'écran
+        \n\u2022 Afficher les applis récentes
+        \n\u2022 Afficher le Menu Redémarrage
+        \n\u2022 Révéler les Notifications &amp; Réglages Rapides
+        \n\u2022 Détecter les Activités - Requis pour le filtre d'écran &amp; les Coins Arrondis, ces services seront stoppés lors de l'installation d'applications &amp; et des demandes de permissions.</string>
     <string name="power_dialog">Power Dialog</string>
-    <string name="split_screen">Multi Window</string>
-    <string name="lock_screen">Lock
-        \nScreen</string>
-    <string name="screen_lock_admin">Required to use the \"Lock Screen\" Quick Settings Tile</string>
-    <string name="acc_needed">Accessibility access required</string>
-    <string name="recents_sum">Opens the recent apps screen</string>
-    <string name="acc_needed_long">Shortcutter requires Accessibility access to toggle
-        \n\n\u2022 Recent Apps
-        \n\u2022 Power Menu
-        \n\u2022 Split Screen
-        \n\u2022 Detect Activities
-        \n - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
-        \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
-    <string name="split_sum">Toggle Split Screen / Multi Window Mode</string>
-    <string name="power_sum">Open the power menu</string>
-    <string name="admin_needed">Admin rights required</string>
-    <string name="admin_needed_long">Shortcutter requires Admin privileges to:\n\n
-        \u2022Lock your device screen
-        \n\nPlease press proceed &amp; enable Admin rights to use this Shortcut.\n\n</string>
-    <string name="lock_sum">Locks your screen</string>
-    <string name="immersive_active">Immersive Mode Active</string>
-    <string name="select_time">Please select a time in hh:mm:ss</string>
-    <string name="search_tile">Web Search</string>
-    <string name="search_summary">Opens Google Search</string>
-    <string name="voice_search_tile">Voice Command</string>
-    <string name="voicesearch_sum">Launch Google Assistant</string>
-    <string name="inear_audio">In Ear Audio</string>
-    <string name="disable">Disable</string>
-    <string name="inear_audio_active">In Ear Audio Active</string>
-    <string name="show_notif">Show Active Notification</string>
-    <string name="inear_summary">Routes all audio through your device earpiece</string>
+    <string name="split_screen">Mode Multitâche</string>
+    <string name="lock_screen">Verrouiller
+        \nÉcran</string>
+    <string name="screen_lock_admin">Requis pour utiliser la tuile \"Verrouiller\"</string>
+    <string name="acc_needed">Accès aux paramètres d'Accessibilité requis</string>
+    <string name="recents_sum">Ouvre la liste d'applis récentes</string>
+    <string name="acc_needed_long">Shortcutter nécessite l'accès aux Paramètres d'Accessibilité pour :
+        \n\n\u2022 Applis Récentes
+        \n\u2022 Menu Redémarrer
+        \n\u2022 Partage d'écran
+        \n\u2022 Détecter Activités
+        \n - Nécessaire pour le Filtre d'Écran &amp; les Coins Arrondis, ces services seront stoppés lors de l'installation d'applications &amp; et des demandes de permissions.
+        \n\nCliquez sur continuer, chosissez Shortcutter &amp; activez le service.\n\n</string>
+    <string name="split_sum">Active le Partage d'Écran / Mode Multitâche</string>
+    <string name="power_sum">Ouvre le Menu de redémarrage</string>
+    <string name="admin_needed">Droits Administrateur requis</string>
+    <string name="admin_needed_long">Shortcutter nécessite les privilèges Administrteur pour :\n\n
+        \u2022Verrouiller l'écran
+        \n\nCliquez sur continuer &amp; ativez les droits Administrateur pour utiliser ce raccourci.\n\n</string>
+    <string name="lock_sum">Verrouille votre écran</string>
+    <string name="immersive_active">Mode Immersif actif</string>
+    <string name="select_time">Veuillez sélectionner une heure en hh:mm:ss</string>
+    <string name="search_tile">Recherche Web</string>
+    <string name="search_summary">Ouvre la Recherche Google</string>
+    <string name="voice_search_tile">Commande Vocale</string>
+    <string name="voicesearch_sum">Lance l'Assistant Google</string>
+    <string name="inear_audio">Audio écouteur</string>
+    <string name="disable">Désactiver</string>
+    <string name="inear_audio_active">Audio écouteur Actif</string>
+    <string name="show_notif">Afficher notification permanente</string>
+    <string name="inear_summary">Redirige tout l'audio vers l'écouteur de votre appareil</string>
     <string name="volUp">Vol +</string>
     <string name="volDown">Vol -</string>
-    <string name="cur_vol">Current in ear Volume =</string>
+    <string name="cur_vol">Volume écouteur actuel =</string>
     <string name="pause">Pause
-        \nMusic</string>
-    <string name="play">Play
-        \nMusic</string>
-    <string name="play_pause">Play/Pause Music</string>
-    <string name="play_pause_sum">Play &amp; Pause music</string>
-    <string name="overlay_needed"><![CDATA[Several Shortcutter services require the Draw System Overlay permission to run, these include:\n
-    \n\u2022 Sidebar/Floating Toolbox
-    \n\u2022 Screen Filter/Night Mode
-    \n\u2022 Rounded Corners
-    \n\u2022 Network Mode Dialogs
-    \n\nPlease click proceed & grant the required permission.\n]]></string>
-    <string name="overlay_required">System overlay permissions required</string>
-    <string name="mob_data">Mobile Data</string>
-    <string name="mob_dat_sum">Toggle mobile data on/off</string>
-    <string name="wake_active">Screen Wake Active</string>
-    <string name="floating_toolbox">Enable The Sidebar/Toolbox</string>
-    <string name="float_summary">A Sidebar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
-    <string name="tb_tiles">Sidebar</string>
-    <string name="email_feedback">Email Feedback/Ask A Question</string>
-    <string name="submit_review">Leave A Review</string>
-    <string name="rate_app">Rate The App</string>
-    <string name="yes_pro">GO PREMIUM</string>
-    <string name="file_browser">File Browser</string>
-    <string name="power_menu">Power Menu</string>
-    <string name="new_message_title">New SMS</string>
-    <string name="new_tweet_title">New Tweet</string>
-    <string name="counter_tile_title">Clicker</string>
+        \nMusique</string>
+    <string name="play">Lecture
+        \nMusique</string>
+    <string name="play_pause">Lecture/Pause Musique</string>
+    <string name="play_pause_sum">Lecture &amp; Pause de la musique</string>
+    <string name="overlay_needed"><![CDATA[Plusieurs services Shortcutter nécessitent la permission de s'afficher au dessus du reste pour fonctionner, ceux-ci incluent :\n
+    \n\u2022 Barre Latérale/Boîte à outils flottante
+    \n\u2022 Filtre d'Écran/Mode Nuit
+    \n\u2022 Coins arrondis
+    \n\u2022 Dialogues de Mode Réseau
+    \n\nVeuillez cliquer sur continuer & accorder la permission.\n]]></string>
+    <string name="overlay_required">Permission de Superposition requise</string>
+    <string name="mob_data">Données Mobiles</string>
+    <string name="mob_dat_sum">Active/Désactive les données mobiles</string>
+    <string name="wake_active">Insomnie active</string>
+    <string name="floating_toolbox">Active la Barre Latérale/Boîte à outils</string>
+    <string name="float_summary">Une barre latérale ouverte par glissement, ou une Boîte à outils flottante avec une icône flottante.</string>
+    <string name="tb_tiles">Barre Latérale</string>
+    <string name="email_feedback">Retour par e-mail/Poser une question</string>
+    <string name="submit_review">Laisser un Avis</string>
+    <string name="rate_app">Noter l'appli</string>
+    <string name="yes_pro">PASSER PREMIUM</string>
+    <string name="file_browser">Explorateur de Fichers</string>
+    <string name="power_menu">Menu Power</string>
+    <string name="new_message_title">Nouveau SMS</string>
+    <string name="new_tweet_title">Nouveau Tweet</string>
+    <string name="counter_tile_title">Compteur</string>
     <string name="toggle">Toggle</string>
-    <string name="toolbox_label">Toolbox</string>
-    <string name="app_picker">Select An Application</string>
-    <string name="custom_app_tiles">Custom Tiles</string>
-    <string name="swipe_up">Swipe up from the bottom to dismiss</string>
-    <string name="lock_screen_title">Lock Screen</string>
-    <string name="auto_rotate">Auto
-        \nRotate</string>
+    <string name="toolbox_label">Boîte à Outils</string>
+    <string name="app_picker">Sélectionner une Application</string>
+    <string name="custom_app_tiles">Tuiles Perso</string>
+    <string name="swipe_up">Glisser depuis le bas pour cacher</string>
+    <string name="lock_screen_title">Écran de Verrouillage</string>
+    <string name="auto_rotate">Rotation
+        \nAuto</string>
     <string name="portrait">Portrait</string>
-    <string name="landscape">Landscape</string>
-    <string name="orientation_mode">Screen Rotation</string>
-    <string name="orient_summary">Toggle Screen Rotation</string>
-    <string name="counter_reset">Reset counter to 0?</string>
-    <string name="data_roaming">Data Roaming</string>
-    <string name="dataroam_summary">Toggle Data Roaming</string>
+    <string name="landscape">Paysage</string>
+    <string name="orientation_mode">Rotation d'écran</string>
+    <string name="orient_summary">Active/Désactive la Rotation d'écran</string>
+    <string name="counter_reset">Réinitialiser le compteur à 0 ?</string>
+    <string name="data_roaming">Itinérance de Données</string>
+    <string name="dataroam_summary">Active/Désactive l'itinérance de données</string>
     <string name="quick_tiles_title">Change Number Of Tiles In Collapsed View</string>
     <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed Pull-Down.
         \nThis MOD is manufacturer dependent.</string>
