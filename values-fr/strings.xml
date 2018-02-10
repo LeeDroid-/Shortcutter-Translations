@@ -4,170 +4,170 @@
     <string name="cancel">Annuler</string>
     <string name="autosync">Synchronisation Auto</string>
     <string name="locationMode">Mode Localisation</string>
-    <string name="HeadsUp">Heads Up</string>
-    <string name="no_perms">No Permissions</string>
+    <string name="HeadsUp">Notifications flottantes</string>
+    <string name="no_perms">Aucune permission</string>
     <string name="Off">Off</string>
-    <string name="device_only">Device Only</string>
-    <string name="battery_saving">Battery Saving</string>
-    <string name="high_accuracy">High Accuracy</string>
-    <string name="special_perms_command">Once complete, click confirm &amp; we will test access, if the command failed, try again.</string>
-    <string name="special_perms_required">"Special permission required
-        \n\nTry running: "</string>
-    <string name="wifi_call">Wi-Fi Calling</string>
+    <string name="device_only">Appareil seulement</string>
+    <string name="battery_saving">Économie de batterie</string>
+    <string name="high_accuracy">Haute précision</string>
+    <string name="special_perms_command">Une fois cela fait, veuillez cliquer sur confirmer &amp; nous testerons l'accès, si la commande échoue, veuillez réessayer.</string>
+    <string name="special_perms_required">"Permissions spéciales requises
+        \n\nVeuillez lancer: "</string>
+    <string name="wifi_call">Appels Wi-Fi</string>
     <string name="adb">ADB</string>
-    <string name="NetMode">Network Mode</string>
-    <string name="haptic">Haptic Feedback</string>
-    <string name="root_required1">Root access required to complete</string>
-    <string name="select_net_mode">Select Network Mode</string>
-    <string name="exit">Exit</string>
-    <string name="root_access">Root Features</string>
-    <string name="enable_root_features">Enable Root Features</string>
-    <string name="root_features_enabled">Root Features Enabled</string>
+    <string name="NetMode">Mode Réseau</string>
+    <string name="haptic">Retour Haptique</string>
+    <string name="root_required1">Accès Root requis pour continuer</string>
+    <string name="select_net_mode">Selectionner Mode Réseau</string>
+    <string name="exit">Quitter</string>
+    <string name="root_access">Fonctionnalités Root</string>
+    <string name="enable_root_features">Activer Fonctionnalités Root</string>
+    <string name="root_features_enabled">Fonctionnalités Root activées</string>
     <string name="appicon">AppIcon</string>
-    <string name="CustomTile1">Custom Tile 1</string>
-    <string name="CustomTile2">Custom Tile 2</string>
-    <string name="CustomTile4">Custom Tile 4</string>
-    <string name="CustomTile3">Custom Tile 3</string>
-    <string name="CustomTile5">Custom Tile 5</string>
-    <string name="CustomTile6">Custom Tile 6</string>
-    <string name="CustomTile7">Custom Tile 7</string>
-    <string name="CustomTile8">Custom Tile 8</string>
-    <string name="CustomTile9">Custom Tile 9</string>
-    <string name="CustomTile10">Custom Tile 10</string>
-    <string name="CustomTile11">Custom Tile 11</string>
-    <string name="CustomTile12">Custom Tile 12</string>
-    <string name="CustomTile13">Custom Tile 13</string>
-    <string name="CustomTile14">Custom Tile 14</string>
-    <string name="CustomTile15">Custom Tile 15</string>
-    <string name="CustomTile16">Custom Tile 16</string>
-    <string name="CustomTile17">Custom Tile 17</string>
-    <string name="CustomTile18">Custom Tile 18</string>
-    <string name="CustomTile19">Custom Tile 19</string>
-    <string name="CustomTile20">Custom Tile 20</string>
-    <string name="CustomTile21">Custom Tile 21</string>
-    <string name="CustomTile22">Custom Tile 22</string>
-    <string name="CustomTile23">Custom Tile 23</string>
-    <string name="CustomTile24">Custom Tile 24</string>
-    <string name="CustomTile25">Custom Tile 25</string>
-    <string name="CustomTile26">Custom Tile 26</string>
-    <string name="CustomTile27">Custom Tile 27</string>
-    <string name="CustomTile28">Custom Tile 28</string>
-    <string name="CustomTile29">Custom Tile 29</string>
-    <string name="CustomTile30">Custom Tile 30</string>
-    <string name="ring_mode">Ring Mode</string>
-    <string name="Screen_timeout">Screen Timeout</string>
-    <string name="alarm_tile">Next Alarm</string>
-    <string name="need_dnd">No Permissions, please allow shortcutter to override DND</string>
-    <string name="next_alarm">Next Alarm
+    <string name="CustomTile1">Tuile Perso 1</string>
+    <string name="CustomTile2">Tuile Perso 2</string>
+    <string name="CustomTile4">Tuile Perso 4</string>
+    <string name="CustomTile3">Tuile Perso 3</string>
+    <string name="CustomTile5">Tuile Perso 5</string>
+    <string name="CustomTile6">Tuile Perso 6</string>
+    <string name="CustomTile7">Tuile Perso 7</string>
+    <string name="CustomTile8">Tuile Perso 8</string>
+    <string name="CustomTile9">Tuile Perso 9</string>
+    <string name="CustomTile10">Tuile Perso 10</string>
+    <string name="CustomTile11">Tuile Perso 11</string>
+    <string name="CustomTile12">Tuile Perso 12</string>
+    <string name="CustomTile13">Tuile Perso 13</string>
+    <string name="CustomTile14">Tuile Perso 14</string>
+    <string name="CustomTile15">Tuile Perso 15</string>
+    <string name="CustomTile16">Tuile Perso 16</string>
+    <string name="CustomTile17">Tuile Perso 17</string>
+    <string name="CustomTile18">Tuile Perso 18</string>
+    <string name="CustomTile19">Tuile Perso 19</string>
+    <string name="CustomTile20">Tuile Perso 20</string>
+    <string name="CustomTile21">Tuile Perso 21</string>
+    <string name="CustomTile22">Tuile Perso 22</string>
+    <string name="CustomTile23">Tuile Perso 23</string>
+    <string name="CustomTile24">Tuile Perso 24</string>
+    <string name="CustomTile25">Tuile Perso 25</string>
+    <string name="CustomTile26">Tuile Perso 26</string>
+    <string name="CustomTile27">Tuile Perso 27</string>
+    <string name="CustomTile28">Tuile Perso 28</string>
+    <string name="CustomTile29">Tuile Perso 29</string>
+    <string name="CustomTile30">Tuile Perso 30</string>
+    <string name="ring_mode">Mode Sonnerie</string>
+    <string name="Screen_timeout">Délai Extinction écran</string>
+    <string name="alarm_tile">Prochaine Alarme</string>
+    <string name="need_dnd">Permission manquante, veuillez autoriser Shortcutter à outrepasser NPD</string>
+    <string name="next_alarm">Prochaine Alarme
         \n</string>
-    <string name="vibrate">Vibrate</string>
-    <string name="ring">Ring</string>
-    <string name="silent">Silent</string>
-    <string name="screen_timeout">Timeout</string>
-    <string name="additonal_perms_req">Additional Permissions Required</string>
-    <string name="notification_policy_message">Some shortcuts require the ability to modify notification settings, as we cannot request these permissions in the normal fasion, you will need to enable them.
-        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
-    <string name="proceed">Proceed</string>
-    <string name="system_perms_message">Some tiles require the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
-        \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
-    <string name="press_back">Press back to return once enabled.</string>
-    <string name="credits">Credits</string>
-    <string name="full_title">Shortcutter Quick Settings</string>
-    <string name="thanks_for_support">"Thanks for your support!  :)"</string>
+    <string name="vibrate">Vibreur</string>
+    <string name="ring">Sonnerie</string>
+    <string name="silent">Silence</string>
+    <string name="screen_timeout">Délai</string>
+    <string name="additonal_perms_req">Permissions supplémentaires requises</string>
+    <string name="notification_policy_message">Certains raccourcis nécessitent de modifier les réglages de notification, mais comme nous ne pouvons pas demander cette permission via la manière classique, vous devez les activer manuellement.
+        \n\nCliquez sur continuer &amp; nous vous dirigerons vers l'écran correspondant.\n</string>
+    <string name="proceed">Continuer</string>
+    <string name="system_perms_message">Certaines tuiles nécessitent de pouvoir modifier les paramètres système, mais comme nous ne pouvons pas demander cette permission via la manière classique, vous devez les activer manuellement.
+        \n\nCliquez sur continuer &amp; nous vous dirigerons vers l'écran correspondant.\n</string>
+    <string name="press_back">Appuyez sur Retour une fois la permission activée.</string>
+    <string name="credits">Crédits</string>
+    <string name="full_title">Shortcutter Réglages Rapides</string>
+    <string name="thanks_for_support">"Merci pour votre support !  :)"</string>
     <string name="premuim">Shortcutter Premium</string>
-    <string name="confirm_disable_root">You are about to disable all ROOT features, this will remove any QS tiles that require ROOT access.
-        \n\nDo you want to proceed?</string>
-    <string name="please_confirm">Please Confirm</string>
-    <string name="nothing_selected">Nothing Selected</string>
-    <string name="selected">"Selected: "</string>
-    <string name="camera">Camera</string>
-    <string name="flashlight">Flashlight</string>
-    <string name="ambient_display">Doze Display</string>
-    <string name="root_available">Your device appears to be rooted.
-        \n Toggle me for more QS Tiles!</string>
-    <string name="available_in_prem1">Limited features &amp; a notification every 50 clicks.</string>
-    <string name="available_in_prem3">Go Premium now &amp; show your support!</string>
-    <string name="ad_supported">Shortcutter FREE</string>
-    <string name="disabled">Disabled</string>
-    <string name="enabled">Enabled</string>
-    <string name="splash_3">Custom Quick Settings for Android</string>
-    <string name="by_leedroid">Created By LeeDrOiD</string>
-    <string name="welcome_to_shortcutter">Welcome To</string>
-    <string name="Immersive">Immersive Mode</string>
-    <string name="manual_secure_summary">Usage: Location Mode Toggle, Immersive Mode, ADB, Heads Up, Monochrome, Data Roaming, Ambient Display, On Wile Chargin &amp; Power Save - (A PC is required)</string>
-    <string name="secure_access">Settings Secure Access</string>
-    <string name="action_required">Action Required</string>
-    <string name="settings_secure_instruct">You can manually grant Shortcutter access to Settings Secure, allowing more control over the system.
-        \n\nFrom your PC go to www.leedroid.co.uk/SettingsSecureGuide &amp; follow the instructions.
+    <string name="confirm_disable_root">Vous êtes sur le point de désactiver toutes les fonctionnalités Root, ceci supprimera toute tuile nécessitant l'accès Root.
+        \n\nVoulez-vous continuer?</string>
+    <string name="please_confirm">Veuillez confirmer</string>
+    <string name="nothing_selected">Aucune sélection</string>
+    <string name="selected">"Sélectionné: "</string>
+    <string name="camera">Appareil Photo</string>
+    <string name="flashlight">Lampe Torche</string>
+    <string name="ambient_display">Ambient Display</string>
+    <string name="root_available">Votre appareil semble être rooté.
+        \n Activez moi pour plus de tuiles !</string>
+    <string name="available_in_prem1">Fonctionnalités limitées &amp; et une notification tous les 50 clics.</string>
+    <string name="available_in_prem3">Passez Premium &amp; et supportez nous !</string>
+    <string name="ad_supported">Shortcutter GRATUIT</string>
+    <string name="disabled">Désactivé</string>
+    <string name="enabled">Activé</string>
+    <string name="splash_3">Réglages Rapides personnalisés pour Android</string>
+    <string name="by_leedroid">Créé par LeeDrOiD</string>
+    <string name="welcome_to_shortcutter">Bienvenue sur</string>
+    <string name="Immersive">Mode Immersif</string>
+    <string name="manual_secure_summary">Utilisation: Mode Localisation, Mode Immersif, ADB, Notifications flottantes, Monochrome, Itinérance de données, Ambient Display, Écran actif en chargement &amp; Économie d'énergie - (Un PC est requis)</string>
+    <string name="secure_access">Accès Réglages Sécurisés</string>
+    <string name="action_required">Action Requise</string>
+    <string name="settings_secure_instruct">Vous pouvez autoriser manuellement Shortcutter à accéder aux Réglages Sécurisés, permettant ainsi un plus grand contrôle de votre appareil.
+        \n\nDepuis votre PC rendez vous sur www.leedroid.co.uk/SettingsSecureGuide &amp; et suivez les instructions.
         \n\n</string>
-    <string name="confirm">CONFIRM</string>
-    <string name="screenshot">Screenshot</string>
-    <string name="stop_recording">Stop Recording</string>
-    <string name="start_recording">Start Recording</string>
-    <string name="show_toggle">Show Toggle</string>
-    <string name="close">Close</string>
-    <string name="record_audio">Record Audio</string>
-    <string name="show_touches">Show Touches</string>
-    <string name="subscription_error">Your device does not support subscriptions.</string>
-    <string name="iab_async_error">Error launching purchase flow. Another async operation in progress.</string>
-    <string name="onetimefee2">£1.69</string>
-    <string name="onetimefee5">£3.39
-        \n(Gratuity)</string>
-    <string name="donation2">£1.69 License</string>
-    <string name="donation5">£3.39 License</string>
-    <string name="donation10">£9.60 License</string>
-    <string name="detected">Detected</string>
-    <string name="yes">Yes</string>
-    <string name="subscription">Or a Subscription</string>
-    <string name="thankyoumultiple">Multiple licenses detected!
-        \nThank\'s for your support!</string>
-    <string name="thankyou">Thank\'s for your support!</string>
-    <string name="iab_error">In App Billing is not supported on your device yet.
-        \n\nWould you like to purchase a Premium key via the play store?</string>
-    <string name="no">No</string>
-    <string name="settings_license">LICENSE</string>
-    <string name="no_licence">No Licence Detected</string>
-    <string name="old_licene">Premium key detected</string>
-    <string name="tweaks_key">LeeDrOiD Tweaks key detected
-        \n Premium features activated</string>
-    <string name="all_prices_subject_to_tax_vat">All prices include Tax/VAT*
-        \n\nPurchasing Shortcutter Premium will remove the 50 click notification &amp; enable additional Quick Settings tiles &amp; app features.</string>
+    <string name="confirm">CONFIRMER</string>
+    <string name="screenshot">Capture d'écran</string>
+    <string name="stop_recording">Arrêter enregistrement</string>
+    <string name="start_recording">Démarrer enregistrement</string>
+    <string name="show_toggle">Afficher interrupteur</string>
+    <string name="close">Fermer</string>
+    <string name="record_audio">Enregistrement Audio</string>
+    <string name="show_touches">Afficher le toucher</string>
+    <string name="subscription_error">Votre appareil ne supporte pas les souscriptions.</string>
+    <string name="iab_async_error">Erreur du lancement de la séquence d'achat. Une autre opération asynchrone est en cours.</string>
+    <string name="onetimefee2">1,89€</string>
+    <string name="onetimefee5">3,89€
+        \n(Pourboire)</string>
+    <string name="donation2">Licence à 1,89€</string>
+    <string name="donation5">Licence à 3,89€</string>
+    <string name="donation10">Licence à 10,89€</string>
+    <string name="detected">Détecté</string>
+    <string name="yes">Oui</string>
+    <string name="subscription">Ou une souscripton</string>
+    <string name="thankyoumultiple">Pusieurs licences détéctées !
+        \nMerci pour votre support !</string>
+    <string name="thankyou">Merci pour votre support !</string>
+    <string name="iab_error">Les achats intra-application ne sont pas encore supportés par votre appareil.
+        \n\nDésirez-vous acheter une clef Premium sur le Play Store ?</string>
+    <string name="no">Non</string>
+    <string name="settings_license">LICENCE</string>
+    <string name="no_licence">Pas de licence détectée</string>
+    <string name="old_licene">Clef Premium détectée</string>
+    <string name="tweaks_key">Clef LeeDrOiD Tweaks détectée
+        \n Fonctionnalités Premium déverrouillées</string>
+    <string name="all_prices_subject_to_tax_vat">Tous les prix incluent les Taxes/TVA*
+        \n\nL'achat de Shortcutter Premium retire la notification des 50 clics &amp; déverrouille des tuiles de Réglages Rapides additionnelles &amp; des fonctionnalités de l'appli.</string>
     <string name="amin">amin</string>
-    <string name="allofthe">Either of the below options will grant you premium access, the choice is yours :)</string>
-    <string name="volumeui">Volume
-        \nPanel</string>
-    <string name="manualbright">Manual
-        \nBrightness</string>
-    <string name="autobrightness">Auto
-        \nBrightness</string>
-    <string name="brightpreset">Brightness
-        \nPreset</string>
-    <string name="qbright_lev">Brightness
+    <string name="allofthe">N'importe quelle option ci-dessous vous offrira l'accès premium, vous avez le choix :)</string>
+    <string name="volumeui">Panneau
+        \nVollume</string>
+    <string name="manualbright">Luminosité
+        \nManuelle</string>
+    <string name="autobrightness">Luminosité
+        \nAuto</string>
+    <string name="brightpreset">Paliers de
+        \nLuminosité</string>
+    <string name="qbright_lev">Luminosité
         \n%1$d%%</string>
-    <string name="noalarm">No Alarms</string>
-    <string name="availableram">Available
-        \nRAM</string>
-    <string name="network_mode">Network Mode</string>
-    <string name="network_mode_summary">Network Band selection</string>
-    <string name="adb_summary">Toggle the Android Debug Bridge</string>
+    <string name="noalarm"Aucune alarme</string>
+    <string name="availableram">RAM
+        \ndisponible</string>
+    <string name="network_mode">Mode Réseau</string>
+    <string name="network_mode_summary">Sélection Bande de Fréquence</string>
+    <string name="adb_summary">Activer/Désactiver l'Android Debug Bridge</string>
     <string name="adbtile">ADB</string>
-    <string name="alarm_summary">Show next alarm, click opens alarms</string>
-    <string name="alarm_tile_title">Next Alarm</string>
-    <string name="ambien_summary">Ambient / Doze display</string>
+    <string name="alarm_summary">Affiche la prochaine alarme, cliquer ouvre les alarmes</string>
+    <string name="alarm_tile_title">Prochaine Alarme</string>
+    <string name="ambien_summary">Ambient Display (Affichage écran éteint)</string>
     <string name="ambient_tile_title">Ambient Display</string>
-    <string name="autobrightness_summary">Auto Brightness On/Off</string>
-    <string name="autobrightness_tile_title">Auto Brightness</string>
-    <string name="brightnesspreset_summary">Toggle through brightness steps
-        \n(Define steps in Tile Settings)</string>
-    <string name="brightnesspreset_tile_title">Brightness Preset</string>
-    <string name="camera_summary">Launches the default camera app</string>
-    <string name="camera_tile_title">Camera</string>
-    <string name="haptic_summary">Toggle Haptic Feeback on/off</string>
-    <string name="headsup_summary">Toggle Heads Up notifications</string>
-    <string name="headsup">Heads Up</string>
-    <string name="immersive_summary">Hide the status &amp; navigation bars</string>
-    <string name="immersive_tile_title">Immersive
-        \nMode</string>
+    <string name="autobrightness_summary">Luminosité Auto On/Off</string>
+    <string name="autobrightness_tile_title">Luminosité Auto</string>
+    <string name="brightnesspreset_summary">Cycle entre des paliers de luminosité
+        \n(Définissez-en les valeurs dans les Réglages de la tuile)</string>
+    <string name="brightnesspreset_tile_title">Paliers de Luminosité</string>
+    <string name="camera_summary">Lance l'Appareil Photo par défaut</string>
+    <string name="camera_tile_title">Appareil Photo</string>
+    <string name="haptic_summary">Retour Haptique On/Off</string>
+    <string name="headsup_summary">Active/Désactive les notifications en fenêtre flottante (si écran déverrouillé)</string>
+    <string name="headsup">Notifications Flottantes</string>
+    <string name="immersive_summary">Masque la barre d'état &amp; et la barre de navigation</string>
+    <string name="immersive_tile_title">Mode
+        \nImmersif</string>
     <string name="location_summary">Toggle location mode Off/GPS/Battery Saving/Hight Accuracy</string>
     <string name="location_tile_title">Location Mode</string>
     <string name="ram_tile_title">RAM</string>
