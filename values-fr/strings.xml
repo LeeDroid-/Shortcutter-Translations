@@ -168,107 +168,106 @@
     <string name="immersive_summary">Masque la barre d'état &amp; et la barre de navigation</string>
     <string name="immersive_tile_title">Mode
         \nImmersif</string>
-    <string name="location_summary">Toggle location mode Off/GPS/Battery Saving/Hight Accuracy</string>
-    <string name="location_tile_title">Location Mode</string>
+    <string name="location_summary">Cycle entre les modes de Localisation: Off/GPS/Économie de Batterie/Haute Précision</string>
+    <string name="location_tile_title">Mode de Localisation</string>
     <string name="ram_tile_title">RAM</string>
-    <string name="ram_summary">Displays available &amp; total RAM, with a shortcut to go to RAM information</string>
-    <string name="reboot_summary">Opens an advanced (Root) power menu</string>
-    <string name="reboot_tile_title">Advanced Power Menu</string>
-    <string name="ringmode_tile_title">Ring Mode</string>
-    <string name="ringmode_summary">Toggle Ring Mode Ring/Vibrate/Silent</string>
-    <string name="screenrecord_summary">A tile to record everything on your devices screen</string>
-    <string name="screenrecord_tile_title">Screen Record</string>
-    <string name="screenshot_summary">Takes a still image of your device screen</string>
-    <string name="screenshot_tile_title">Screenshot</string>
-    <string name="sync_tile_title">Auto Sync</string>
-    <string name="sync_summary">Enable / Disable Auto Sync</string>
-    <string name="timeout_summary">Toggle screen timeout value</string>
-    <string name="timeout_tile_title">Screen Timeout</string>
-    <string name="volumeui_tile_title">Volume Panel</string>
-    <string name="volumeui_summary">A tile to display the volume panel</string>
-    <string name="wake_summary">Keeps your device screen awake</string>
-    <string name="wake_tile_title">Screen Wake</string>
-    <string name="tuner_summary">Launch the hidden SystemUI Tuner
-        \nFunctionality is Manufacturer dependent</string>
+    <string name="ram_summary">Affiche les quantités de RAM disponible &amp; totale, avec un raccourci vers les informations RAM</string>
+    <string name="reboot_summary">Ouvre un menu de redémarrage avancé (Root)</string>
+    <string name="reboot_tile_title">Menu Redémarrage Avancé</string>
+    <string name="ringmode_tile_title">Mode Sonnerie</string>
+    <string name="ringmode_summary">Cycle entre les modes Sonnerie/Vibreur/Silence</string>
+    <string name="screenrecord_summary">Une tuile pour enregistrer tout l'affichage de votre appareil en vidéo</string>
+    <string name="screenrecord_tile_title">Enregistrer Écran</string>
+    <string name="screenshot_summary">Prend une capture d'écran de votre appareil</string>
+    <string name="screenshot_tile_title">Capture d'écran</string>
+    <string name="sync_tile_title">Synchro Auto</string>
+    <string name="sync_summary">Active / Désactive la Synchronisation Auto</string>
+    <string name="timeout_summary">Change le délai avant extinction de l'écran</string>
+    <string name="timeout_tile_title">Délai Écran</string>
+    <string name="volumeui_tile_title">Panneau Volume</string>
+    <string name="volumeui_summary">Une tuile pour afficher le panneau de contrôle du volume</string>
+    <string name="wake_summary">Désactive le verrouillage et maintient l'écran allumé</string>
+    <string name="wake_tile_title">Insomnie</string>
+    <string name="tuner_summary">Lance les réglages masqués SystemUI Tuner
+        \nLes fonctionnalités incluses sont spécifiques à votre constructeur</string>
     <string name="tuner_tile_title">SystemUI Tuner</string>
-    <string name="prem_only">Premium Only</string>
-    <string name="settings_secure_needed">Settings Secure access required</string>
-    <string name="flash_summary">Toggle the camera flashlight</string>
-    <string name="flash_tile_title">Flashlight</string>
-    <string name="no_flash">No Flashlight Detected</string>
-    <string name="battery_summary">Monitor your battery level</string>
-    <string name="battery_tile_title">Battery</string>
-    <string name="on_while_charge">On When
-        \nCharging</string>
-    <string name="onwhilecharge_summary">Keep screen on when plugged in</string>
-    <string name="oncharge_tile_title">Screen On While Charging</string>
-    <string name="countdown">Countdown</string>
-    <string name="new_message">New
+    <string name="prem_only">Premium Seulement</string>
+    <string name="settings_secure_needed">Accès Réglages Sécurisés requis</string>
+    <string name="flash_summary">Allume/Éteint la lampe torche</string>
+    <string name="flash_tile_title">Lampe Torche</string>
+    <string name="no_flash">Aucune lampe n'est détectée</string>
+    <string name="battery_summary">Surveillez votre niveau de batterie</string>
+    <string name="battery_tile_title">Batterie</string>
+    <string name="on_while_charge">Allumé en
+        \nChargement</string>
+    <string name="onwhilecharge_summary">Maintient l'écran allumé pendant le chargement</string>
+    <string name="oncharge_tile_title">Écran allumé en chargement</string>
+    <string name="countdown">Décompte</string>
+    <string name="new_message">Nouveau
         \nMessage</string>
-    <string name="cap_store_title">Screen Capture Storage</string>
-    <string name="choose_location">Choose Location</string>
-    <string name="new_message_summary">Send a new SMS with 1 click</string>
-    <string name="count_down">Counting Down</string>
-    <string name="remaining">Remaining:</string>
-    <string name="time_up">Time is up!</string>
-    <string name="countdown_timer">Countdown Timer</string>
-    <string name="set">Set</string>
-    <string name="countdown_desc">A countdown timer tile</string>
-    <string name="choose_steps">Select Brightness Preset Steps</string>
-    <string name="preset_steps">Brightness Preset Steps</string>
-    <string name="currently">Currently set to %1$d steps</string>
-    <string name="current_shot">Currently set to %1$d seconds</string>
-    <string name="current_dice">Currently set to %1$d</string>
-    <string name="permissions_not_granted">You dont appear to have granted Shortcutter the correct permissions, have you launched the app?</string>
-    <string name="counter_tile">Clicker
-        \nTile</string>
-    <string name="counter_summary">A tile that counts clicks</string>
-    <string name="reset_counter">Reset Clicker Tile</string>
-    <string name="cur_val">Current value = %1$d </string>
-    <string name="Dice">Dice</string>
-    <string name="dice_desc">Generates a random number
-        \n(Change range in Tile Settings)</string>
-    <string name="auto_step">Auto Brightness Step</string>
-    <string name="file_tile">File
-        \nBrowser</string>
-    <string name="file_summary">Launches default file browser</string>
-    <string name="new_tweet">New
+    <string name="cap_store_title">Enregistrement des Captures</string>
+    <string name="choose_location">Choisir Emplacement</string>
+    <string name="new_message_summary">Composez un SMS en un clic</string>
+    <string name="count_down">Décompte</string>
+    <string name="remaining">Restant :</string>
+    <string name="time_up">Temps écoulé !</string>
+    <string name="countdown_timer">Décompte</string>
+    <string name="set">Définir</string>
+    <string name="countdown_desc">Une tuile faisant un décompte</string>
+    <string name="choose_steps">Sélectionner les paliers de luminosité</string>
+    <string name="preset_steps">Paliers de Luminosité</string>
+    <string name="currently">Actuellement défini sur %1$d paliers</string>
+    <string name="current_shot">Actuellement défini sur %1$d secondes</string>
+    <string name="current_dice">Actuellement défini sur %1$d</string>
+    <string name="permissions_not_granted">Il ne semble pas que vous ayiez accordé à Shortcutter les permissions nécessaires, avez-vous relancé l'appli ?</string>
+    <string name="counter_tile">Compteur</string>
+    <string name="counter_summary">Une tuile qui compte les clics</string>
+    <string name="reset_counter">Réinitialiser le Compteur</string>
+    <string name="cur_val">Valeur actuelle = %1$d </string>
+    <string name="Dice">Dé</string>
+    <string name="dice_desc">Génère un nombre aléatoire
+        \n(Définissez l'intervalle dans les Réglages de la tuile)</string>
+    <string name="auto_step">Palier Luminosité Auto</string>
+    <string name="file_tile">Explorateur
+        \nde Fichiers</string>
+    <string name="file_summary">Lance l'explorateur de fichiers par défaut</string>
+    <string name="new_tweet">Nouveau
         \nTweet</string>
-    <string name="not_installed">Application not installed</string>
-    <string name="new_tweet_summary">Send a new Tweet</string>
-    <string name="shot_delay">Set custom Screenshot delay</string>
-    <string name="shot_delay_title">Screenshot Delay (Seconds)</string>
-    <string name="newemail">New
-        \nEmail</string>
-    <string name="newemailsum">Send a new email</string>
-    <string name="emailtitle">New Email</string>
-    <string name="stay_in_the_loop">Social Media/Contact</string>
-    <string name="follow_me">Follow Me On Twitter</string>
-    <string name="like_facebook">Like My Facebook Page</string>
-    <string name="home">Home</string>
-    <string name="dice_desc_range">Select a custom number range for the Dice Tile</string>
-    <string name="dice_tile_range">Dice Tile Range</string>
-    <string name="togglenfc">NFC
-        \nToggle</string>
+    <string name="not_installed">Application non installée</string>
+    <string name="new_tweet_summary">Composez un nouveau Tweet</string>
+    <string name="shot_delay">Définissez un délai personnalisé pour la capture d'écran</string>
+    <string name="shot_delay_title">Délai Capture (Secondes)</string>
+    <string name="newemail">Nouvel
+        \nE-mail</string>
+    <string name="newemailsum">Composez un nouvel e-mail</string>
+    <string name="emailtitle">Nouvel e-mail</string>
+    <string name="stay_in_the_loop">Réseaux Sociaux/Contact</string>
+    <string name="follow_me">Suivez moi sur Twitter</string>
+    <string name="like_facebook">Likez ma page Facebook</string>
+    <string name="home">Accueil</string>
+    <string name="dice_desc_range">Sélectionnez un intervalle personnalisé pour la tuile Dé</string>
+    <string name="dice_tile_range">Intervalle tuile Dé</string>
+    <string name="togglenfc">Connectivité
+        \nNFC</string>
     <string name="nfctile">NFC</string>
-    <string name="nfctilesum">Toggle NFC on/off</string>
-    <string name="app_open">This application must run once prior to using any tiles or services
-        \n\nPlease pay attention to the dialogs</string>
-    <string name="alert">Shortcutter Alert</string>
-    <string name="go_premium">Purchase Premium</string>
-    <string name="another_purchase">For users that want to show additional support, both purchase options can be used.</string>
-    <string name="datausage">Data
-        \nUsage</string>
-    <string name="data_usage_perms">Shortcutter needs permission to access Data Usage history.
-        \n\nPlease click proceed, select Shortcutter &amp; enable usage access.\n\n</string>
-    <string name="reset_day">Reset on the %1$d day of each month</string>
-    <string name="select_day">Select Data Reset Day</string>
-    <string name="data_cycle_reset">Data Usage Cycle</string>
-    <string name="data_cycle_summary">Select the day of the month to measure data from (Usually your billing date)</string>
-    <string name="data_tile_summary">Shows Mobile Data Usage
-        \n(Change cycle in Tile Settings)</string>
-    <string name="data_tile_title">Data Usage</string>
-    <string name="failed_data_usage">Failed to launch data usage information</string>
+    <string name="nfctilesum">Active/Désactive le NFC</string>
+    <string name="app_open">Cette application doit être lancée une première fois avant de pouvoir utiliser les tuiles ou les services
+        \n\nVeuillez prêter attention aux dialogues</string>
+    <string name="alert">Alerte Shortcutter</string>
+    <string name="go_premium">Acheter Premium</string>
+    <string name="another_purchase">Pour les utilisateurs désirant offir un soutien supplémentaire, les deux options d'achat peuvent être utilisées.</string>
+    <string name="datausage">Utilisation
+        \ndes Données</string>
+    <string name="data_usage_perms">Shortcutter a besoin de la permission d'accès à l'historique de L'Utilisation des Données.
+        \n\nVeuillez cliquer sur continuer, sélectionner Shortcutter &amp; activer l'accès.\n\n</string>
+    <string name="reset_day">Réinitialiser au %1$d de chaque mois</string>
+    <string name="select_day">Sélectionner le jour de réinitialisation</string>
+    <string name="data_cycle_reset">Cycle Utilisation Données</string>
+    <string name="data_cycle_summary">Sélectionnez le jour du mois à partir duquel mesurer la consommation (généralement votre date de facturation)</string>
+    <string name="data_tile_summary">Affiche la quantité de données utilisée
+        \n(Paramétrez le cycle dans les Réglages de la tuile)</string>
+    <string name="data_tile_title">Données</string>
+    <string name="failed_data_usage">Échec du lancement des informations d'Utilisation des Données</string>
     <string name="how_to">Click Here for A guide to adding Quick Setting Tiles.\n\nOnce you have enabled your chosen tiles in the categories below, you need to add them to your pull-down in the system quick settings editor.</string>
     <string name="addtiles_title">How To Add QS Tiles - Guide</string>
     <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Pull-Down\" tab & make your QS Tile selections.]]></string>
