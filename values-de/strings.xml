@@ -192,7 +192,7 @@
     <string name="tuner_tile_title">SystemUI Tuner Kachel</string>
     <string name="prem_only">Nur Premium</string>
     <string name="settings_secure_needed">Einstellungen sicherer Zugang erforderlich</string>
-    <string name="flash_summary">Schaltet Kamera Taschenlampe</string>
+    <string name="flash_summary">Schalte Kamera Taschenlampe</string>
     <string name="flash_tile_title">Taschenlampe</string>
     <string name="no_flash">Keine Taschenlampe gefunden</string>
     <string name="battery_summary">Überwacht deinen Akku</string>
@@ -293,7 +293,7 @@
     <string name="fontscale_sum">Schalte die Systemschriftartgröße um</string>
     <string name="font_scale_title">Schriftgröße</string>
     <string name="power_saver">Energiesparer</string>
-    <string name="power_save_summary">Schaltet Energiesparmodus</string>
+    <string name="power_save_summary">Schalte Energiesparmodus</string>
     <string name="prem_only_message">Diese Funktion ist nur in der Premiumversion von Shortcutter verfügbar.
         \n\nBitte klicke jetzt auf GO PREMIUM um die folgenden Funtionen zu aktivieren:
         \n\n \u2022 Zusätzliche benutzerdef. Kacheln
@@ -319,8 +319,8 @@
     <string name="usage_access_required">Zugangberechtigung zur Benutzung erforderlich - schalte zum Aktivieren</string>
     <string name="dnd_required">NICHT STÖREN Zugang erforderlich - schalte zum Aktivieren</string>
     <string name="accessibility_description">Erlaubt Shortcutter die folgende Zugangsaktion durchzuführen
-        \n\n\u2022 Schaltet geteilter Bildschirm
-        \n\u2022 Schaltet vorherige Apps
+        \n\n\u2022 Schalte geteilter Bildschirm
+        \n\u2022 Schalte vorherige Apps
         \n\u2022 Zeigt Startmenü
         \n\u2022 Ermitteln von Aktivitäten - Erforderlich für Bildschirmfilter &amp; Bildschirmecken, diese Dienste werden gestoppt wenn Apps installiert werden &amp; Berechtigungen werden gewährt.</string>
     <string name="power_dialog">Neustart Dialog</string>
@@ -332,13 +332,13 @@
     <string name="recents_sum">Öffnet Bildschirm mit letzten Apps</string>
     <string name="acc_needed_long">Shortcutter benötigt Zugang zum Schalten
         \n\n\u2022 Letzte Apps
-        \n\u2022 Power Menü
+        \n\u2022 Power-Menü
         \n\u2022 Geteilter Bildschirm
         \n\u2022 Erkennt Aktivität
         \n - Benötigt für Bildschirmfilter &amp; Bildschirmecken - diese Dienste werden beendet wenn Apps installiert werden &amp; Berechtigungen werden gewährt.
         \n\nKlicke fortfahren, gehe zu Shortcutter &amp; aktiviere den Dienst.\n\n</string>
-    <string name="split_sum">Schaltet geteilter Bildschirm / Mehrfachfenster Modus</string>
-    <string name="power_sum">Öffnet das Power Menü</string>
+    <string name="split_sum">Schalte geteilter Bildschirm / Mehrfachfenster Modus</string>
+    <string name="power_sum">Öffnet das Power-Menü</string>
     <string name="admin_needed">Adminrechte erforderlich</string>
     <string name="admin_needed_long">Shortcutter benötigt Adminrechte für:\n\n
         \u2022Gerätebildschirm sperren
@@ -373,7 +373,7 @@
     <string name="overlay_required">Benötigt Berechtigung für überlagerte Systemeinblendung</string>
     <string name="mob_data">Mobile
         \nDaten</string>
-    <string name="mob_dat_sum">Schaltet Mobile Daten An / Aus</string>
+    <string name="mob_dat_sum">Schalte Mobile Daten An / Aus</string>
     <string name="wake_active">Bildschirm Aufwachen aktiv</string>
     <string name="floating_toolbox">Aktiviere die Sidebar / Werkzeugkasten</string>
     <string name="float_summary">Öffnet die Sidebar durch Wischen über den Auslösebalken oder den schwebenden Werkzeugkasten über ein schwebendes Symbol.</string>
@@ -383,7 +383,7 @@
     <string name="rate_app">Bewerte die App</string>
     <string name="yes_pro">HOL DIR PREMIUM</string>
     <string name="file_browser">Dateimanager</string>
-    <string name="power_menu">Power Menü</string>
+    <string name="power_menu">Power-Menü</string>
     <string name="new_message_title">Neue SMS</string>
     <string name="new_tweet_title">Neuer Tweet</string>
     <string name="counter_tile_title">Zähler</string>
@@ -398,10 +398,10 @@
     <string name="portrait">Portrait</string>
     <string name="landscape">Querformat</string>
     <string name="orientation_mode">Bildschirmrotation</string>
-    <string name="orient_summary">Schaltet Bildschirmrotation</string>
+    <string name="orient_summary">Schalte Bildschirmrotation</string>
     <string name="counter_reset">Zähler auf "0" zurücksetzen?</string>
     <string name="data_roaming">Datenroaming</string>
-    <string name="dataroam_summary">Schaltet Datenroaming</string>
+    <string name="dataroam_summary">Schalte Datenroaming</string>
     <string name="quick_tiles_title">Ändere die Zahl der Kacheln in eingeklappter Statusleiste</string>
     <string name="manufact_depend">Passe die Zahl der angezeigten QS-Kacheln im eingeklappten Pull-Down Menü an.
         \nDiese Anpassung ist herstellerabhängig.</string>
@@ -496,7 +496,7 @@
     <string name="usage_access">Datenverbrauch</string>
     <string name="settings_system_summary">Verwendung: Helligkeit, Schriftgröße, haptische Rückmeldung &amp; Bildschirm Auszeit</string>
     <string name="overlay_summary">Verwendung: Schwebende(r) Sidebar / Werkzeugkasten, Bilschirmfilter &amp; abgerundete Ecken</string>
-    <string name="acc_summary">Verwendung: Letzte Apps, Power Menü, geteilter Bildschirm, Bilschirmfilter &amp; abgerundete Ecken</string>
+    <string name="acc_summary">Verwendung: Letzte Apps, Power-Menü, geteilter Bildschirm, Bilschirmfilter &amp; abgerundete Ecken</string>
     <string name="dnd_summary">Verwendung: Klingelmodus</string>
     <string name="usage_summary">Verwendung: Datenverbrauchs Kachel</string>
     <string name="actual_tiles">Aktuelle Kacheln =&#160; %1$d </string>
@@ -531,7 +531,7 @@
     <string name="swipe_out_close">Wische links / rechts um zu schließen</string>
     <string name="obscure_back"><![CDATA[Hintergrund regeln & Berührungen von außen erkennen]]></string>
     <string name="notif_led">Benachrichtigungs LED</string>
-    <string name="notif_led_summary">Schaltet die LED Benachrichtigung des Gerätes An / Aus\n(herstellerabhängig)</string>
+    <string name="notif_led_summary">Schalte die LED Benachrichtigung des Gerätes An / Aus\n(herstellerabhängig)</string>
     <string name="system_toggle_summary">Gemäß der OS/Hersteller Kompatibilität</string>
     <string name="experimental_settings">Experimentelle Funktionen</string>
     <string name="sys_setting_tiles">QS-Kacheln zum Schalten der Systemeinstellungen</string>
@@ -675,28 +675,28 @@
     <string name="notification_blocker">Benachrichtigungsblocker</string>
     <string name="notification_blocker_sum">Oreo ausblenden, das in der Hintergrundbenachrichtigung läuft</string>
     <string name="confirmation_dialog">Bestätigungsdialog anzeigen</string>
-    <string name="join_beta">Join Beta</string>
-    <string name="reboot_menu">Reboot Menu</string>
-    <string name="total_usage">Show Total Usage</string>
-    <string name="total_usage_sum">Show total data usage or split by Up/Down</string>
-    <string name="notif_access">To block notifications we need to enable a Notification Listener.\\n\\nThis listener will only listen for notifications from the android system, any notification containing \\\"running in the background\\\" will be removed.\\n\\n Please click proceed &amp; enable Shortcutters Notification Blocker.</string>
-    <string name="confirmation_dialog_sum">Show an action confirmation dialog in the advanced power menu</string>
-    <string name="left_sum">Set one handed mode to the left</string>
+    <string name="join_beta">Beta beitreten</string>
+    <string name="reboot_menu">Neustart Menü</string>
+    <string name="total_usage">Gesamtverbrauch anzeigen</string>
+    <string name="total_usage_sum">Zeige gesamten Datenverbrauch oder teile auf nach Up/Down</string>
+    <string name="notif_access">Um Benachrichtigungen zu blockieren musst du einen Benachrichtigungsempfänger aktivieren.\\n\\nDieser Empfänger wird nur auf Benachrichtigungen aus dem Androidsystem hören. Jede Mitteilung die Folgendes enthält \\\"läuft im Hintergrund\\\" wird entfernt.\\n\\n Bitte klicke auf weiter &amp; aktiviere Shortcutters Benachrichtigungs Blockierer.</string>
+    <string name="confirmation_dialog_sum">Zeigt einen Bestätigungsdialog für Aktionen im erweiterten Power-Menü an.</string>
+    <string name="left_sum">Einhandmodus nach links umstellen</string>
     <string name="wake_show_notif">Screen Wake Active Notification</string>
-    <string name="bonus_features">Bonus Features</string>
+    <string name="bonus_features">Bonusfunktionen</string>
     <string name="trigger_scale">Trigger Scale</string>
-    <string name="hide_with_statusbar_sum">Trigger becomes invisible when the status bar is hidden. i.e when in full screen video</string>
-    <string name="hide_with_statusbar">Hide With StatusBar</string>
-    <string name="choose_orientation_entries">Orientation Mode Entries (2 Minimum)</string>
-    <string name="speaker_audio">Speaker Audio</string>
-    <string name="speaker_audio_sum">Force audio to speakerphone (BETA - uses call stream quality)</string>
-    <string name="launch_act">Activity Launcher</string>
-    <string name="stopwatch_title">Stopwatch</string>
+    <string name="hide_with_statusbar_sum">Auslösebalken wird unsichtbar wenn die Statusleiste ausgeblendet ist.. z.B. bei Videos im Vollbild.</string>
+    <string name="hide_with_statusbar">Ausblenden mit Statusbar</string>
+    <string name="choose_orientation_entries">Einträge im Orientierungsmodus (2 minimum)</string>
+    <string name="speaker_audio">Lautsprecher Audio</string>
+    <string name="speaker_audio_sum">Audio zum Freisprechen zwingen (BETA - nutzt die Qualität des Anrufstroms)</string>
+    <string name="launch_act">Aktivitätsstarter</string>
+    <string name="stopwatch_title">Stoppuhr</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>
-    <string name="all_apps">App Launcher</string>
-    <string name="all_apps_summary">Shortcutters searchable &amp; filterable app drawer</string>
-    <string name="stopwatch_summary">A handy stopwatch</string>
-    <string name="select_apps">Select Applications</string>
-    <string name="immersive_apps">Launch immersive mode in certain applications</string>
+    <string name="all_apps">App Starter</string>
+    <string name="all_apps_summary">Shortcutters durchsuchbare &amp; filterbare App-Übersicht</string>
+    <string name="stopwatch_summary">Eine handliche Stoppuhr</string>
+    <string name="select_apps">Wähle Anwendungen</string>
+    <string name="immersive_apps">Vollbildmodus in bestimmten Anwendungen starten</string>
 </resources>
