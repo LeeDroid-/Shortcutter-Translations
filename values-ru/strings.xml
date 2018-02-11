@@ -448,8 +448,6 @@ Usage"</string>
     <string name="recentapps">Последние приложения</string>
     <string name="recents_sum">Открывает экран Последние приложения</string>
     <string name="record_audio">Запись аудио</string>
-    <string name="refresh">Обновить</string>
-    <string name="remaining">Осталось:</string>
     <string name="reset_alarms">Вы уверены, что вы хотите очистить ваш сетчатый фильтр графики?</string>
     <string name="reset_conf">Вы уверены, что вы хотите сбросить все настройки цвета?</string>
     <string name="reset_counter">Плитка Сброс</string>
@@ -720,7 +718,6 @@ Usage"</string>
     <string name="data_speed_sum">Shows a notification with up/down data speed</string>
     <string name="upload">Upload:</string>
     <string name="download">Download:</string>
-    <string name="awaiting_connection">Awaiting Connection</string>
     <string name="total">Total Used</string>
     <string name="data_speed_total">Data Speed - Total Usage</string>
     <string name="data_speed_total_sum">Show total data usage since the service started.</string>

@@ -185,7 +185,6 @@
     <string name="choose_location">Escolher Localização</string>
     <string name="new_message_summary">Envia uma nova SMS com 1 clique</string>
     <string name="count_down">A Contar</string>
-    <string name="remaining">Falta:</string>
     <string name="time_up">Acabou o empo!</string>
     <string name="countdown_timer">Temporizador decrescente</string>
     <string name="set">Programar</string>
@@ -387,7 +386,6 @@
     <string name="humidity">Humidade:&#160;</string>
     <string name="mylocation">A Minha Localização</string>
     <string name="maps_link">Mostrar em Mapa</string>
-    <string name="refresh">Atualizar</string>
     <string name="current_location">Localização Atual</string>
     <string name="dev_loc_mode">Modo de Localização:&#160;%1$s</string>
     <string name="mylocation_summary">Mostra a localização atual com opções de mostrar em mapa ou partilhar</string>
@@ -633,7 +631,6 @@
     <string name="data_speed_sum">Shows a notification with up/down data speed</string>
     <string name="upload">Upload:</string>
     <string name="download">Download:</string>
-    <string name="awaiting_connection">Awaiting Connection</string>
     <string name="total">Total Used</string>
     <string name="data_speed_total">Data Speed - Total Usage</string>
     <string name="data_speed_total_sum">Show total data usage since the service started.</string>

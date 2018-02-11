@@ -209,7 +209,6 @@
     <string name="choose_location">Wybierz lokalizację</string>
     <string name="new_message_summary">Wyślij SMS po 1 kliknięciu</string>
     <string name="count_down">Odliczaj w Dół</string>
-    <string name="remaining">Pozostało:</string>
     <string name="time_up">Czas minął!</string>
     <string name="countdown_timer">Odliczanie</string>
     <string name="set">Ustaw</string>
@@ -463,7 +462,6 @@
     <string name="humidity">Wilgotność:&#160;</string>
     <string name="mylocation">Moja Lokalizacja</string>
     <string name="maps_link">Zobacz na Mapie</string>
-    <string name="refresh">Odśwież</string>
     <string name="current_location">Aktualna Lokalizacja</string>
     <string name="dev_loc_mode">Tryb Lokalizacji:&#160;%1$s</string>
     <string name="mylocation_summary">Wyświetla bieżącą lokalizację, z możliwością wyświetlania na mapach lub udostępniania</string>
@@ -707,7 +705,6 @@
     <string name="data_speed_sum">Pokaż powiadomienie z prędkością danych wysył/pobier</string>
     <string name="upload">Wysyłanie:</string>
     <string name="download">Pobieranie:</string>
-    <string name="awaiting_connection">Oczekiwanie na Połączenie</string>
     <string name="total">Całe Użycie</string>
     <string name="data_speed_total">Prędkość Danych- Całe Użycie</string>
     <string name="data_speed_total_sum">Pokaż całkowite zużycie danych od momentu uruchomienia usługi.</string>

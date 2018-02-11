@@ -209,7 +209,6 @@
     <string name="choose_location">选择位置</string>
     <string name="new_message_summary">一键发送新短信</string>
     <string name="count_down">正在倒计时</string>
-    <string name="remaining">剩余:</string>
     <string name="time_up">时间到!</string>
     <string name="countdown_timer">倒计时计时器</string>
     <string name="set">设定</string>
@@ -464,7 +463,6 @@
     <string name="humidity">湿度:&#160;</string>
     <string name="mylocation">我的位置</string>
     <string name="maps_link">在地图上查看</string>
-    <string name="refresh">刷新</string>
     <string name="current_location">当前位置</string>
     <string name="dev_loc_mode">位置模式:&#160; %1$s</string>
     <string name="mylocation_summary">显示当前位置，附有在地图上查看或分享的选项。</string>
@@ -708,7 +706,6 @@
     <string name="data_speed_sum">Shows a notification with up/down data speed</string>
     <string name="upload">Upload:</string>
     <string name="download">Download:</string>
-    <string name="awaiting_connection">Awaiting Connection</string>
     <string name="total">Total Used:</string>
     <string name="data_speed_total">Total Used:</string>
     <string name="data_speed_total_sum">Show total data usage since the service started.</string>

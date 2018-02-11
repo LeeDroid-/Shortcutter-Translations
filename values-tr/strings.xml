@@ -211,7 +211,6 @@
     <string name="choose_location">Klasör Seç</string>
     <string name="new_message_summary">Bir tıkla yeni bir SMS gönder</string>
     <string name="count_down">Geri Sayım Başladı</string>
-    <string name="remaining">Kalan:</string>
     <string name="time_up">Zaman doldu!</string>
     <string name="countdown_timer">Geri Sayım Saati</string>
     <string name="set">Ayarla</string>
@@ -465,7 +464,6 @@
     <string name="humidity">Nem:&#160;</string>
     <string name="mylocation">Konumum</string>
     <string name="maps_link">Haritada Göster</string>
-    <string name="refresh">Yenile</string>
     <string name="current_location">Mevcut Konum</string>
     <string name="dev_loc_mode">Konum Modu:&#160;%1$s</string>
     <string name="mylocation_summary">Haritaları görüntülemek veya paylaşmak için seçeneklerle birlikte, geçerli konumu görüntüler</string>
@@ -712,7 +710,6 @@
     <string name="data_speed_sum">Shows a notification with up/down data speed</string>
     <string name="upload">Upload:</string>
     <string name="download">Download:</string>
-    <string name="awaiting_connection">Awaiting Connection</string>
     <string name="total">Total Used</string>
     <string name="data_speed_total">Data Speed - Total Usage</string>
     <string name="data_speed_total_sum">Show total data usage since the service started.</string>

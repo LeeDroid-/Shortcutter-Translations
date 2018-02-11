@@ -209,7 +209,6 @@
     <string name="choose_location">Choose Location</string>
     <string name="new_message_summary">Send a new SMS with 1 click</string>
     <string name="count_down">Counting Down</string>
-    <string name="remaining">Remaining:</string>
     <string name="time_up">Time is up!</string>
     <string name="countdown_timer">Countdown Timer</string>
     <string name="set">Set</string>
@@ -477,7 +476,6 @@
     <string name="humidity">Humidity:&#160;</string>
     <string name="mylocation">My Location</string>
     <string name="maps_link">View On Maps</string>
-    <string name="refresh">Refresh</string>
     <string name="current_location">Current Location</string>
     <string name="maps_api" translatable="false">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
     <string name="dev_loc_mode">Location Mode:&#160; </string>
@@ -818,7 +816,6 @@
     <string name="data_speed_sum">Shows a notification with up/down data speed</string>
     <string name="upload">Upload:</string>
     <string name="download">Download:</string>
-    <string name="awaiting_connection">Awaiting Connection</string>
     <string name="total">Total Used:</string>
     <string name="data_speed_total">Data Speed - Total Usage</string>
     <string name="data_speed_total_sum">Show total data usage since the service started.</string>
