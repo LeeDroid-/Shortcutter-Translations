@@ -682,9 +682,9 @@
     <string name="notif_access">Um Benachrichtigungen zu blockieren musst du einen Benachrichtigungsempfänger aktivieren.\\n\\nDieser Empfänger wird nur auf Benachrichtigungen aus dem Androidsystem hören. Jede Mitteilung die Folgendes enthält \\\"läuft im Hintergrund\\\" wird entfernt.\\n\\n Bitte klicke auf weiter &amp; aktiviere Shortcutters Benachrichtigungs Blockierer.</string>
     <string name="confirmation_dialog_sum">Zeigt einen Bestätigungsdialog für Aktionen im erweiterten Power-Menü an.</string>
     <string name="left_sum">Einhandmodus nach links umstellen</string>
-    <string name="wake_show_notif">Screen Wake Active Notification</string>
+    <string name="wake_show_notif">Bildschirmwach Benachrichtigung aktiv</string>
     <string name="bonus_features">Bonusfunktionen</string>
-    <string name="trigger_scale">Trigger Scale</string>
+    <string name="trigger_scale">Auslöserskalierung</string>
     <string name="hide_with_statusbar_sum">Auslösebalken wird unsichtbar wenn die Statusleiste ausgeblendet ist.. z.B. bei Videos im Vollbild.</string>
     <string name="hide_with_statusbar">Ausblenden mit Statusbar</string>
     <string name="choose_orientation_entries">Einträge im Orientierungsmodus (2 minimum)</string>
