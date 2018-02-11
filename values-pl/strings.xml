@@ -700,7 +700,7 @@
     <string name="quick_reminder_sum">Dodaje przypięte przypomnienie do rozwijanego menu powiadomień</string>
     <string name="dismiss">Odrzuć</string>
     <string name="newRem">Nowe Przypomnienie</string>
-    <string name="sticky">Przyklejone Powiadomienie</string>
+    <string name="sticky">Przyklej Powiadomienie</string>
     <string name="data_speed">Prędkość Danych</string>
     <string name="data_speed_sum">Pokaż powiadomienie z prędkością danych wysył/pobier</string>
     <string name="upload">Wysyłanie:</string>
