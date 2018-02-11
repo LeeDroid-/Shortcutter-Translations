@@ -689,6 +689,7 @@
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
         \n\nv5.2.0 Beta - V5.2.4:
+        \n\u2022 Layout &amp; translation corrections.
         \n\u2022 Make trigger invisible when hiding, do not remove.
         \n\u2022 Add Data Speed service &amp; Tiles.
         \n\u2022 Fix crash in screen record.
@@ -820,4 +821,8 @@
     <string name="data_speed_total">Data Speed - Total Usage</string>
     <string name="data_speed_total_sum">Show total data usage since the service started.</string>
     <string name="vert_pos">Current Position %s</string>
+    <string name="remind_max">Reminder (400 Max)</string>
+    <string name="tile_max">Title (32 Max)</string>
+    <string name="not_in_db">Not in settings DB</string>
+    <string name="contact_me">Contact me directly, I aim to reply within 7 days</string>
 </resources>

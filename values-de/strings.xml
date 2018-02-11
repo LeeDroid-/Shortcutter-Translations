@@ -713,4 +713,8 @@
     <string name="data_speed_total">Datengeschwindigkeit - Gesamtnutzung</string>
     <string name="data_speed_total_sum">Zeigt die gesamte Datennutzung seit Start des Dienstes an.</string>
     <string name="vert_pos">Aktuelle Position %s</string>
+    <string name="remind_max">Reminder (400 Max)</string>
+    <string name="tile_max">Title (32 Max)</string>
+    <string name="not_in_db">Not in settings DB</string>
+    <string name="contact_me">Contact me directly, I aim to reply within 7 days</string>
 </resources>
