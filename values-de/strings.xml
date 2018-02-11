@@ -708,7 +708,7 @@
     <string name="newRem">Neue Erinnerung</string>
     <string name="sticky">Haftnotiz</string>
     <string name="data_speed">Datengeschwindigkeit</string>
-    <string name="data_speed_sum">Zeigt Benachrichtigung mit up/down Datengeschwindigkeit an.</string>
+    <string name="data_speed_sum">Zeigt Benachrichtigung mit Up/Down Datengeschwindigkeit an.</string>
     <string name="upload">Upload:</string>
     <string name="download">Download:</string>
     <string name="awaiting_connection">Wartende Verbindung</string>
