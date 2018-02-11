@@ -676,7 +676,7 @@
     <string name="notif_access">Aby zablokować powiadomienia, musimy włączyć Nasłuchiwanie Powiadomień.\\n\\nNasłuchiwacz będzie nasłuchiwał tylko powiadomień z systemu Android, wszelkie powiadomienia zawierające \\\"działające w tle \\\"zostaną usunięte.\\n\\n Kliknij Kontynuuj aby włączyć  Shortcutters Blokowanie Powiadomień.</string>
     <string name="confirmation_dialog_sum">Pokaż okna dialogowego z potwierdzeniem akcji w menu Zaawansowanym Menu Zasilania</string>
     <string name="left_sum">Ustaw tryb ręczny po lewej</string>
-    <string name="wake_show_notif">Wybuź Ekran przy Aktywnym Powiadomieniu</string>
+    <string name="wake_show_notif">Wybudź Ekran przy Aktywnym Powiadomieniu</string>
     <string name="bonus_features">Funkcja Bonusowa</string>
     <string name="trigger_scale">Skala Wyzwalania</string>
     <string name="hide_with_statusbar_sum">Wyzwalacz staje się niewidoczny, gdy pasek stanu jest ukryty. czyli w trybie pełnoekranowym wideo</string>
