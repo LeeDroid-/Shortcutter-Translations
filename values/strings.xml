@@ -85,9 +85,9 @@
     <string name="ambient_display">Doze Display</string>
     <string name="root_available">Your device appears to be rooted.
         \n Toggle me for more QS Tiles!</string>
-    <string name="available_in_prem1">Limited features &amp; a notification every 50 clicks.</string>
+    <string name="available_in_prem1">Unlock all features &amp; remove the 50 click notification.</string>
     <string name="available_in_prem3">Go Premium now &amp; show your support!</string>
-    <string name="ad_supported">Shortcutter FREE</string>
+    <string name="ad_supported">Unlock Premium</string>
     <string name="disabled">Disabled</string>
     <string name="enabled">Enabled</string>
     <string name="splash_3">Custom Quick Settings for Android</string>
@@ -690,11 +690,26 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nV5.1.5 - 5.1.6 - Beta:
-        \n\u2022 Per App Immersive Mode
+        \n\nv5.2.0 Beta - V5.2.4:
+        \n\u2022 Make trigger invisible when hiding, do not remove.
+        \n\u2022 Add Data Speed service &amp; Tiles.
+        \n\u2022 Fix crash in screen record.
+        \n\u2022 Add request enable location in Weather &amp; My Location.
+        \n\u2022 Add Share &amp; refresh buttons to Weather.
+        \n\u2022 Add Notification Log Tiles.
+        \n\u2022 Add Quick Reminder feature &amp; tiles.
+        \n\u2022 Apply accent color to notifications.
+        \n\u2022 Fix launching app launcher from desktop.
+        \n\u2022 Fix crash on some devices when enabling sidebar.
+        \n\nV5.1.9:
+        \n\u2022 Fix critical error in Weather Service when Google API Server unavailable.
+        \n\u2022 Add New Map to My Location view.
+        \n\u2022 Add ClipBoard Editor &amp; Tiles.
+        \n\u2022 Add Per App Immersive Mode &amp; app selector (Premium).
         \n\u2022 App &amp; Activity selection now uses Activity icon where available.
         \n\u2022 Add App Launcher/Folder &amp; Quick tiles (Premium).
         \n\u2022 Bug fixes.
+        \n\u2022 Translation updates.
         \n\nV5.1.4:
         \n\u2022 Roll back activity loading method.
         \n\u2022 Add Stopwatch &amp; Tiles.
@@ -791,4 +806,21 @@
     <string name="stopwatch_summary">A handy stopwatch</string>
     <string name="select_apps">Select Applications</string>
     <string name="immersive_apps">Launch immersive mode in certain applications</string>
+    <string name="clipboard">Clipboard Editor</string>
+    <string name="notif_log">Notification Log</string>
+    <string name="notif_log_sum">Opens the system Notification Log</string>
+    <string name="quick_reminder">Quick Reminder</string>
+    <string name="quick_reminder_sum">Adds a pinned notification reminder to your pull-down</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="newRem">New Reminder</string>
+    <string name="sticky">Sticky Notification</string>
+    <string name="data_speed">Data Speed</string>
+    <string name="data_speed_sum">Shows a notification with up/down data speed</string>
+    <string name="upload">Upload:</string>
+    <string name="download">Download:</string>
+    <string name="awaiting_connection">Awaiting Connection</string>
+    <string name="total">Total Used:</string>
+    <string name="data_speed_total">Data Speed - Total Usage</string>
+    <string name="data_speed_total_sum">Show total data usage since the service started.</string>
+    <string name="vert_pos">Current Position %s</string>
 </resources>

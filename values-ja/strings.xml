@@ -713,4 +713,21 @@
     <string name="stopwatch_summary">A handy stopwatch</string>
     <string name="select_apps">Select Applications</string>
     <string name="immersive_apps">Launch immersive mode in certain applications</string>
+    <string name="clipboard">Clipboard Editor</string>
+    <string name="notif_log">Notification Log</string>
+    <string name="notif_log_sum">Opens the system Notification Log</string>
+    <string name="quick_reminder">Quick Reminder</string>
+    <string name="quick_reminder_sum">Adds a pinned notification reminder to your pull-down</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="newRem">New Reminder</string>
+    <string name="sticky">Sticky Notification</string>
+    <string name="data_speed">Data Speed</string>
+    <string name="data_speed_sum">Shows a notification with up/down data speed</string>
+    <string name="upload">Upload:</string>
+    <string name="download">Download:</string>
+    <string name="awaiting_connection">Awaiting Connection</string>
+    <string name="total">Total Used</string>
+    <string name="data_speed_total">Data Speed - Total Usage</string>
+    <string name="data_speed_total_sum">Show total data usage since the service started.</string>
+    <string name="vert_pos">Current Position %s</string>
 </resources>
