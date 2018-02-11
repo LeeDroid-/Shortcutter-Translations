@@ -79,11 +79,11 @@
         <item>Shell Command</item>
     </string-array>
     <string-array name="immersive_mode_entries">
-        <item>Full Immersive</item>
-        <item>Hide Status Bar</item>
-        <item>Hide Nav Bar</item>
-        <item>Show Mode Selector</item>
-        <item>Per App</item>
+        <item>Pełny Ekran</item>
+        <item>Ukryj Pasek Stanu</item>
+        <item>Ukryj Pasek Nawigacyjny</item>
+        <item>Pokaż Tryb Wyboru</item>
+        <item>Przez Aplikację</item>
     </string-array>
     <string-array name="immersive_mode_values">
         <item>0</item>
@@ -93,9 +93,9 @@
         <item>4</item>
     </string-array>
     <string-array name="orientation_mode_entries">
-        <item>Auto Rotate</item>
-        <item>Portrait</item>
-        <item>Landscape</item>
+        <item>Auto Rotacja</item>
+        <item>Portret</item>
+        <item>Poziomo</item>
     </string-array>
     <string-array name="orientation_mode_values">
         <item>0</item>
