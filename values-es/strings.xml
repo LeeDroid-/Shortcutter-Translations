@@ -715,4 +715,8 @@
     <string name="tile_max">Title (32 Max)</string>
     <string name="not_in_db">Not in settings DB</string>
     <string name="contact_me">Contact me directly, I aim to reply within 7 days</string>
+    <string name="immersive_full">Full Immersive</string>
+    <string name="hide_statusbar">Hide Status Bar</string>
+    <string name="hide_navbar">Hide Nav Bar</string>
+    <string name="per_app_immersive">PerApp Immersive</string>
 </resources>

@@ -209,7 +209,6 @@
     <string name="choose_location">Choose Location</string>
     <string name="new_message_summary">Send a new SMS with 1 click</string>
     <string name="count_down">Counting Down</string>
-    <string name="remaining">Remaining:</string>
     <string name="time_up">Time is up!</string>
     <string name="countdown_timer">Countdown Timer</string>
     <string name="set">Set</string>
@@ -464,7 +463,6 @@
     <string name="humidity">Humidity:&#160;</string>
     <string name="mylocation">My Location</string>
     <string name="maps_link">View On Maps</string>
-    <string name="refresh">Refresh</string>
     <string name="current_location">Current Location</string>
     <string name="dev_loc_mode">Location Mode:&#160; </string>
     <string name="mylocation_summary">Displays current location, with options to view in maps or share</string>
@@ -714,9 +712,16 @@
     <string name="data_speed_sum">Shows a notification with up/down data speed</string>
     <string name="upload">Upload:</string>
     <string name="download">Download:</string>
-    <string name="awaiting_connection">Awaiting Connection</string>
     <string name="total">Total Used:</string>
     <string name="data_speed_total">Data Speed - Total Usage</string>
     <string name="data_speed_total_sum">Show total data usage since the service started.</string>
     <string name="vert_pos">Current Position %s</string>
+    <string name="remind_max">Reminder (400 Max)</string>
+    <string name="tile_max">Title (32 Max)</string>
+    <string name="not_in_db">Not in settings DB</string>
+    <string name="contact_me">Contact me directly, I aim to reply within 7 days</string>
+    <string name="immersive_full">Full Immersive</string>
+    <string name="hide_statusbar">Hide Status Bar</string>
+    <string name="hide_navbar">Hide Nav Bar</string>
+    <string name="per_app_immersive">PerApp Immersive</string>
 </resources>
