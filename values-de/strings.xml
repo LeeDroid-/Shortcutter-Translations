@@ -709,9 +709,9 @@
     <string name="data_speed_sum">Zeigt Benachrichtigung mit Up/Down Datengeschwindigkeit an.</string>
     <string name="upload">Upload:</string>
     <string name="download">Download:</string>
-    <string name="total">Gesamtverbrauch</string>
+    <string name="total">Total Since Boot:</string>
     <string name="data_speed_total">Datengeschwindigkeit - Gesamtnutzung</string>
-    <string name="data_speed_total_sum">Zeigt die gesamte Datennutzung seit Start des Dienstes an.</string>
+    <string name="data_speed_total_sum">Show total data usage since last boot.</string>
     <string name="vert_pos">Aktuelle Position %s</string>
     <string name="remind_max">Reminder (400 Max)</string>
     <string name="tile_max">Title (32 Max)</string>

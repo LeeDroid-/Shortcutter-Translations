@@ -714,9 +714,9 @@
     <string name="data_speed_sum">Pokaż powiadomienie z prędkością danych wysył/pobier</string>
     <string name="upload">Wysyłanie:</string>
     <string name="download">Pobieranie:</string>
-    <string name="total">Całe Użycie</string>
+    <string name="total">całkowita od rozruchu:</string>
     <string name="data_speed_total">Prędkość Danych- Całe Użycie</string>
-    <string name="data_speed_total_sum">Pokaż całkowite zużycie danych od momentu uruchomienia usługi.</string>
+    <string name="data_speed_total_sum">Pokaż całkowite zużycie danych od ostatniego uruchomienia.</string>
     <string name="vert_pos">Aktualna Pozycja %s</string>
     <string name="remind_max">Przypomnienie (400 Max)</string>
     <string name="tile_max">Nazwa (32 Max)</string>
