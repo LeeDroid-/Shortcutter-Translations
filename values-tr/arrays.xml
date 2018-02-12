@@ -83,7 +83,7 @@
         <item>Durum Çubuğunu Gizle</item>
         <item>Gezinti Çubuğunu Gizle</item>
         <item>Mod Seçici\'yi göster</item>
-        <item>Per App</item>
+        <item>Uygulama Başına</item>
     </string-array>
     <string-array name="immersive_mode_values">
         <item>0</item>
@@ -93,9 +93,9 @@
         <item>4</item>
     </string-array>
     <string-array name="orientation_mode_entries">
-        <item>Auto Rotate</item>
-        <item>Portrait</item>
-        <item>Landscape</item>
+        <item>Otomatik Döndür</item>
+        <item>Dikey</item>
+        <item>Yatay</item>
     </string-array>
     <string-array name="orientation_mode_values">
         <item>0</item>
