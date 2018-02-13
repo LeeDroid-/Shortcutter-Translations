@@ -76,14 +76,14 @@
         <item>Aktywność (Zaawansowane)</item>
         <item>Skrót</item>
         <item>Strony internetowe</item>
-        <item>Shell Command</item>
+        <item>Linia Komend</item>
     </string-array>
     <string-array name="immersive_mode_entries">
         <item>Pełny Ekran</item>
         <item>Ukryj Pasek Stanu</item>
         <item>Ukryj Pasek Nawigacyjny</item>
         <item>Pokaż Tryb Wyboru</item>
-        <item>Przez Aplikację</item>
+        <item>Tylko Aplikacja</item>
     </string-array>
     <string-array name="immersive_mode_values">
         <item>0</item>
