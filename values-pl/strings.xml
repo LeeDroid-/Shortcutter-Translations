@@ -456,18 +456,18 @@
     <string name="weather">Pogoda</string>
     <string name="weather_desc">Uruchamia pop-up z aktualnymi informacjami o pogodzie</string>
     <string name="location">Aktualizacja Lokalizacji</string>
-    <string name="temp">Temperatura: </string>
+    <string name="temp">Temperatura: &#160;</string>
     <string name="feels">Samopoczucie #160;</string>
-    <string name="dewp">Punkt rosy: </string>
+    <string name="dewp">Punkt rosy: &#160;</string>
     <string name="weather_celsius">Jednostka Temperatury</string>
     <string name="celsius">Celcjusza</string>
     <string name="fahrenheit">Fahrenheit</string>
-    <string name="humidity">Wilgotność: </string>
+    <string name="humidity">Wilgotność: &#160;</string>
     <string name="mylocation">Moja Lokalizacja</string>
     <string name="maps_link">Zobacz na Mapie</string>
     <string name="current_location">Aktualna Lokalizacja</string>
 
-    <string name="dev_loc_mode">Tryb Lokalizacji: %1$s</string>
+    <string name="dev_loc_mode">Tryb Lokalizacji: &#160;</string>
     <string name="mylocation_summary">Wyświetla bieżącą lokalizację, z możliwością wyświetlania na mapach lub udostępniania</string>
     <string name="swipe_out">Przesuń, aby odrzucić</string>
     <string name="choose_ring_entries">Wybierz tryby dzwonka (minimum 2)</string>
