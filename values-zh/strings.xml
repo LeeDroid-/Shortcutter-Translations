@@ -718,4 +718,5 @@
     <string name="hide_statusbar">Hide Status Bar</string>
     <string name="hide_navbar">Hide Nav Bar</string>
     <string name="per_app_immersive">PerApp Immersive</string>
+    <string name="mob_since_boot">Total Mobile Since Boot:</string>
 </resources>

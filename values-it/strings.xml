@@ -85,9 +85,9 @@
     <string name="reboot_now">Riavvia ora?</string>
     <string name="root_available">Il tuo device sembra rootato.
         \n Premimi per maggiori QS Tiles!</string>
-    <string name="available_in_prem1">Features limitata &amp; una notifica ogni 50 clicks.</string>
-    <string name="available_in_prem3">Diventa Premium ora &amp; mostra il tuo supporto!</string>
-    <string name="ad_supported">Shortcutter Gratis</string>
+    <string name="available_in_prem1">Unlock all features &amp; remove the 50 click notification.</string>
+    <string name="available_in_prem3">Go Premium now &amp; show your support!</string>
+    <string name="ad_supported">Unlock Premium</string>
     <string name="disabled">Disabilitato</string>
     <string name="enabled">Abilitato</string>
     <string name="splash_3">Custom Quick Settings per Android</string>
@@ -710,9 +710,9 @@
     <string name="data_speed_sum">Shows a notification with up/down data speed</string>
     <string name="upload">Upload:</string>
     <string name="download">Download:</string>
-    <string name="total">Total Used:</string>
+    <string name="total">Total Since Boot:</string>
     <string name="data_speed_total">Data Speed - Total Usage</string>
-    <string name="data_speed_total_sum">Show total data usage since the service started.</string>
+    <string name="data_speed_total_sum">Show total data usage since last boot.</string>
     <string name="vert_pos">Current Position %s</string>
     <string name="remind_max">Reminder (400 Max)</string>
     <string name="tile_max">Title (32 Max)</string>
@@ -722,4 +722,5 @@
     <string name="hide_statusbar">Hide Status Bar</string>
     <string name="hide_navbar">Hide Nav Bar</string>
     <string name="per_app_immersive">PerApp Immersive</string>
+    <string name="mob_since_boot">Total Mobile Since Boot:</string>
 </resources>

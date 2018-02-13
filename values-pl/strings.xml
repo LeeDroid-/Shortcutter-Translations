@@ -726,4 +726,5 @@
     <string name="hide_statusbar">Ukryj Pasek Stanu</string>
     <string name="hide_navbar">Ukryj Pasek Nawigacyjny</string>
     <string name="per_app_immersive">Pełny Ekran Tylko Aplikacja</string>
+    <string name="mob_since_boot">Total Mobile Since Boot:</string>
 </resources>

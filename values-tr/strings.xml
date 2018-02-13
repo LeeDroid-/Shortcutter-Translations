@@ -658,7 +658,6 @@
     <string name="apm_tile_title" translatable="false">APM</string>
     <string name="sidebar_tb">Kenar çubuğu\n/Araç kutusu</string>
     <string name="auto_start_rec">Otomatik Kayıt Başlat</string>
-    <string name="apmreboot_list" translatable="false">Reboot,Reboot Recovery,Reboot Download,Reboot Bootloader,Hot Reboot,Reboot Safe Mode</string>
     <string name="recording">Ekran Kaydı</string>
     <string name="change_theme">Aydınlık/Karanlık Tema</string>
     <string name="light_theme">Aydınlık Tema Ayarlandı</string>
@@ -722,4 +721,5 @@
     <string name="hide_statusbar">Durum Çubuğunu Gizle</string>
     <string name="hide_navbar">Gezinme Çubuğunu Gizle</string>
     <string name="per_app_immersive">Uygulama Başına Immersive</string>
+    <string name="mob_since_boot">Total Mobile Since Boot:</string>
 </resources>

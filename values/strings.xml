@@ -688,14 +688,14 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv5.2.5:
+        \n\nv5.2.5 Beta - V5.2.6:
         \n\u2022 Fix Per App Immersive selections not always applying first time.
         \n\u2022 Do not reset immersive Per App selections when changing mode.
-        \n\u2022 Polish translation updates.
+        \n\u2022 Polish &amp; Turkish translation updates.
         \n\u2022 Fix reminder icon colour.
-        \n\u2022 Bug fixes
-        \n\u2022 Fix Data Speed total usage resetting when killed/restarted.
+        \n\u2022 Fix Data Speed total usage - now shows total usage since last boot.
         \n\u2022 Remove Dice tile animation on Oreo as no longer supported.
+        \n\u2022 Bug fixes.
         \n\nv5.2.0 Beta - V5.2.4:
         \n\u2022 Enable Per App Immersive Mode selection.
         \n\u2022 Layout &amp; translation corrections.
@@ -838,4 +838,5 @@
     <string name="hide_statusbar">Hide Status Bar</string>
     <string name="hide_navbar">Hide Nav Bar</string>
     <string name="per_app_immersive">PerApp Immersive</string>
+    <string name="mob_since_boot">Total Mobile Since Boot:</string>
 </resources>
