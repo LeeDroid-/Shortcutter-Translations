@@ -422,7 +422,7 @@
     <string name="screen_filter">Tryb Nocny</string>
     <string name="screen_filter_summary">Nakładka filtra ekranu (Tryb Nocny)</string>
     <string name="reset_filter">Resetuj Filtr Kolorów</string>
-    <string name="sideber_tmb_title">Pozycja Paska</string>
+    <string name="sideber_tmb_title">Pozycja Paska Bocznego</string>
     <string name="tb_columns_title">Kolumny Toolbox</string>
     <string name="tb_columns_summary">Aktualnie = %s kolumny</string>
     <string name="sb_columns_title">Kolumny Paska Bocznego</string>
@@ -470,7 +470,7 @@
     <string name="dev_loc_mode">Tryb Lokalizacji: %1$s</string>
     <string name="mylocation_summary">Wyświetla bieżącą lokalizację, z możliwością wyświetlania na mapach lub udostępniania</string>
     <string name="swipe_out">Przesuń, aby odrzucić</string>
-    <string name="choose_ring_entries">Wybierz tryby dzwonka (minimum 2)</string>
+    <string name="choose_ring_entries">Wybierz Tryby Dzwonka (minimum 2)</string>
     <string name="qs_head_title">Płytka Nagłówka QS</string>
     <string name="acc_needed_corners">Ta nakładka wymaga dostępu do Ułatwień Dostępu:
         \n\n \u2022 Wykrywanie aktualnych aktywności.
@@ -558,7 +558,7 @@
     <string name="launch_power">Uruchamia Ustawienia \&gt; Zasilanie\n(jeśli nie ma ustawień bezpiecznego dostępu)</string>
     <string name="admin_access">Dostęp Administaratora</string>
     <string name="admin_summary">Użycie: Blokada Ekranu</string>
-    <string name="tb_tile_alpha">Wyłącz Przezroczystość Płytek</string>
+    <string name="tb_tile_alpha">Wyłącz Przeźroczystość Płytek</string>
     <string name="hide_tb_labels">Ukryj Etykiety Tekstowe</string>
     <string name="hidden">Ukryj</string>
     <string name="visible">Widoczność</string>
@@ -605,7 +605,7 @@
     <string name="bt_summary">Włącz/Wyłącz Bluetooth</string>
     <string name="went_wrong">Coś jest nie tak, spróbuj jeszcze raz. Jeśli ten problem będzie się powtarzał, prosimy o kontakt z danymi urządzenia.</string>
     <string name="cont_and_phone"><![CDATA[Coś poszło nie tak, czy masz uprawnienia dla Kontaktów i Telefonu?]]></string>
-    <string name="cp_head">Doyknij w CENTRUM potwierdzając lub WSTECZ,aby anulować</string>
+    <string name="cp_head">Dotknij w CENTRUM potwierdzając lub WSTECZ, aby anulować</string>
     <string name="transparency">Przeźroczystość</string>
     <string name="apply">Zastosuj</string>
     <string name="scale">Skala = </string>
@@ -690,7 +690,7 @@
     <string name="trigger_scale">Skala Wyzwalania</string>
     <string name="hide_with_statusbar_sum">Wyzwalacz staje się niewidoczny, gdy pasek stanu jest ukryty. czyli w trybie pełnoekranowym wideo</string>
     <string name="hide_with_statusbar">Ukryj za pomocą Paska Stanu</string>
-    <string name="choose_orientation_entries">Wybierz tryby orientacji (2 Minimum)</string>
+    <string name="choose_orientation_entries">Wybierz Tryby Orientacji (2 Minimum)</string>
     <string name="speaker_audio">Głośnik Audio</string>
     <string name="speaker_audio_sum">Wymuś dźwięk w zestawie głośnomówiącym (BETA - korzysta z jakości strumienia wywoławczego)</string>
     <string name="launch_act">Aktywny Launcher</string>
@@ -715,7 +715,7 @@
     <string name="upload">Wysyłanie:</string>
     <string name="download">Pobieranie:</string>
     <string name="total">całkowita od rozruchu:</string>
-    <string name="data_speed_total">Prędkość Danych- Całe Użycie</string>
+    <string name="data_speed_total">Prędkość Danych - Całe Użycie</string>
     <string name="data_speed_total_sum">Pokaż całkowite zużycie danych od ostatniego uruchomienia.</string>
     <string name="vert_pos">Aktualna Pozycja %s</string>
     <string name="remind_max">Przypomnienie (400 Max)</string>
