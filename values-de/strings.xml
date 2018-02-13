@@ -721,5 +721,8 @@
     <string name="hide_statusbar">Hide Status Bar</string>
     <string name="hide_navbar">Hide Nav Bar</string>
     <string name="per_app_immersive">PerApp Immersive</string>
-    <string name="mob_since_boot">Total Mobile Since Boot:</string>
+    <string name="mob_since_boot">Mobile Since Boot:</string>
+    <string name="icon_back_tint">Background Icon Tint/Filter</string>
+    <string name="icon_back_tint_sum">Apply a color filter to the custom icon.</string>
+    <string name="icon_back_tint_remove">Remove Icon Background Tint.</string>
 </resources>

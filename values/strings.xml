@@ -574,7 +574,7 @@
     <string name="hidden">Hidden</string>
     <string name="visible">Visible</string>
     <string name="icon_picker">Icon Picker</string>
-    <string name="custom_icon">Tile Icon Background</string>
+    <string name="custom_icon">Icon Background</string>
     <string name="cust_icon_summary">Select a custom icon background</string>
     <string name="manage_tiles">Manage tiles</string>
     <string name="enable_tiles">Enable/Disable Quick Settings Pull-Down Tiles.</string>
@@ -688,7 +688,8 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv5.2.5 Beta - V5.2.6:
+        \n\nv5.2.5 Beta - V5.2.7:
+        \n\u2022 Add option to tint custom sidebar icon backgrounds.
         \n\u2022 Fix Per App Immersive selections not always applying first time.
         \n\u2022 Do not reset immersive Per App selections when changing mode.
         \n\u2022 Polish &amp; Turkish translation updates.
@@ -838,5 +839,8 @@
     <string name="hide_statusbar">Hide Status Bar</string>
     <string name="hide_navbar">Hide Nav Bar</string>
     <string name="per_app_immersive">PerApp Immersive</string>
-    <string name="mob_since_boot">Total Mobile Since Boot:</string>
+    <string name="mob_since_boot">Mobile Since Boot:</string>
+    <string name="icon_back_tint">Background Icon Tint/Filter</string>
+    <string name="icon_back_tint_sum">Apply a color filter to the custom icon.</string>
+    <string name="icon_back_tint_remove">Remove Icon Background Tint.</string>
 </resources>

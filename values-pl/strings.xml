@@ -470,7 +470,7 @@
     <string name="dev_loc_mode">Tryb Lokalizacji: %1$s</string>
     <string name="mylocation_summary">Wyświetla bieżącą lokalizację, z możliwością wyświetlania na mapach lub udostępniania</string>
     <string name="swipe_out">Przesuń, aby odrzucić</string>
-    <string name="choose_ring_entries">Wybierz Tryby Dzwonka (minimum 2)</string>
+    <string name="choose_ring_entries">Wybierz tryby dzwonka (minimum 2)</string>
     <string name="qs_head_title">Płytka Nagłówka QS</string>
     <string name="acc_needed_corners">Ta nakładka wymaga dostępu do Ułatwień Dostępu:
         \n\n \u2022 Wykrywanie aktualnych aktywności.
@@ -726,5 +726,8 @@
     <string name="hide_statusbar">Ukryj Pasek Stanu</string>
     <string name="hide_navbar">Ukryj Pasek Nawigacyjny</string>
     <string name="per_app_immersive">Pełny Ekran Tylko Aplikacja</string>
-    <string name="mob_since_boot">Total Mobile Since Boot:</string>
+    <string name="mob_since_boot">Mobile Since Boot:</string>
+    <string name="icon_back_tint">Background Icon Tint/Filter</string>
+    <string name="icon_back_tint_sum">Apply a color filter to the custom icon.</string>
+    <string name="icon_back_tint_remove">Remove Icon Background Tint.</string>
 </resources>
