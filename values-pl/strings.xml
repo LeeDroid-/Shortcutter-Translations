@@ -726,5 +726,5 @@
     <string name="per_app_immersive">Pełny Ekran Tylko Aplikacja</string>
     <string name="mob_since_boot">Od Momentu Uruchomienia:</string>
     <string name="icon_back_tint">Tło Ikon Odcień/Filtr</string>
-    <string name="padding">Padding:</string>
+    <string name="padding">Wielkość Środka:</string>
 </resources>
