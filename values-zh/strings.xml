@@ -556,8 +556,6 @@
     <string name="hidden">隐藏</string>
     <string name="visible">可见</string>
     <string name="icon_picker">图标选择</string>
-    <string name="custom_icon">瓷贴图标背景</string>
-    <string name="cust_icon_summary">选择自定义图标背景</string>
     <string name="manage_tiles">管理瓷贴</string>
     <string name="enable_tiles">启用/停用快捷设置下拉面板瓷贴。</string>
     <string name="qs_tiles">下拉</string>
@@ -720,6 +718,5 @@
     <string name="per_app_immersive">PerApp Immersive</string>
     <string name="mob_since_boot">Mobile Since Boot:</string>
     <string name="icon_back_tint">Background Icon Tint/Filter</string>
-    <string name="icon_back_tint_sum">Apply a color filter to the custom icon.</string>
-    <string name="icon_back_tint_remove">Remove Icon Background Tint.</string>
+    <string name="padding">Padding:</string>
 </resources>

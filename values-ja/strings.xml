@@ -571,8 +571,6 @@
     <string name="hidden">Hidden</string>
     <string name="visible">Visible</string>
     <string name="icon_picker">アイコンピッカー</string>
-    <string name="custom_icon">タイルアイコンの背景</string>
-    <string name="cust_icon_summary">カスタムアイコンの背景を選択する</string>
     <string name="manage_tiles">管理タイル</string>
     <string name="enable_tiles">有効/無効 クイック設定プルダウンタイル。</string>
     <string name="qs_tiles">Pull-Down</string>
@@ -737,6 +735,5 @@
     <string name="per_app_immersive">PerApp Immersive</string>
     <string name="mob_since_boot">Mobile Since Boot:</string>
     <string name="icon_back_tint">Background Icon Tint/Filter</string>
-    <string name="icon_back_tint_sum">Apply a color filter to the custom icon.</string>
-    <string name="icon_back_tint_remove">Remove Icon Background Tint.</string>
+    <string name="padding">Padding:</string>
 </resources>

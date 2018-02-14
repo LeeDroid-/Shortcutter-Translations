@@ -557,8 +557,6 @@
     <string name="hidden">Oculto</string>
     <string name="visible">Visible</string>
     <string name="icon_picker">Selector de iconos</string>
-    <string name="custom_icon">Fondo de iconos</string>
-    <string name="cust_icon_summary">Elige un fondo personalizado</string>
     <string name="manage_tiles">Administrar apartados</string>
     <string name="enable_tiles">Activar/Desactivar ajustes rápidos de menú desplegable.</string>
     <string name="qs_tiles">Desplegable</string>
@@ -721,6 +719,5 @@
     <string name="per_app_immersive">PerApp Immersive</string>
     <string name="mob_since_boot">Mobile Since Boot:</string>
     <string name="icon_back_tint">Background Icon Tint/Filter</string>
-    <string name="icon_back_tint_sum">Apply a color filter to the custom icon.</string>
-    <string name="icon_back_tint_remove">Remove Icon Background Tint.</string>
+    <string name="padding">Padding:</string>
 </resources>

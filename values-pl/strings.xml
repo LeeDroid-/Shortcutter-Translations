@@ -563,8 +563,6 @@
     <string name="hidden">Ukryj</string>
     <string name="visible">Widoczność</string>
     <string name="icon_picker">Próbnik Ikon</string>
-    <string name="custom_icon">Tło Ikon Płytek</string>
-    <string name="cust_icon_summary">Wybierz własne tło ikon</string>
     <string name="manage_tiles">Menadżer Płytek</string>
     <string name="enable_tiles">Włącz/Wyłącz Płytki Szybkich Ustawień</string>
     <string name="qs_tiles">Płytki QS</string>
@@ -728,6 +726,5 @@
     <string name="per_app_immersive">Pełny Ekran Tylko Aplikacja</string>
     <string name="mob_since_boot">Od Momentu Uruchomienia:</string>
     <string name="icon_back_tint">Tło Ikon Odcień/Filtr</string>
-    <string name="icon_back_tint_sum">Zastosuj filtr kolorów dla własnej ikony.</string>
-    <string name="icon_back_tint_remove">Usuń Odcień Tła Ikony.</string>
+    <string name="padding">Padding:</string>
 </resources>

@@ -411,7 +411,7 @@
     <string name="left_position">Current Position Left</string>
     <string name="tb_background">Background Colour</string>
     <string name="create_calendar_event">New Event</string>
-    <string name="tb_tile_tint">Tile Tint Colour</string>
+    <string name="tb_tile_tint">Icon Colour</string>
     <string name="tb_tile_text_tint">Font Colour</string>
     <string name="tb_reset_tint">Reset Preferences</string>
     <string name="reset_conf">Are you sure you want to reset all colour preferences?</string>
@@ -558,9 +558,7 @@
     <string name="hide_tb_labels">Hide Text Labels</string>
     <string name="hidden">Hidden</string>
     <string name="visible">Visible</string>
-    <string name="icon_picker">Icon Picker</string>
-    <string name="custom_icon">Tile Icon Background</string>
-    <string name="cust_icon_summary">Select a custom icon background</string>
+    <string name="icon_picker">Icon Designer</string>
     <string name="manage_tiles">Manage tiles</string>
     <string name="enable_tiles">Enable/Disable Quick Settings Pull-Down Tiles.</string>
     <string name="qs_tiles">Pull-Down</string>
@@ -724,5 +722,7 @@
     <string name="hide_statusbar">Hide Status Bar</string>
     <string name="hide_navbar">Hide Nav Bar</string>
     <string name="per_app_immersive">PerApp Immersive</string>
-    <string name="mob_since_boot">Total Mobile Since Boot:</string>
+    <string name="mob_since_boot">Mobile Since Boot:</string>
+    <string name="icon_back_tint">Background Tint</string>
+    <string name="padding">Padding:</string>
 </resources>

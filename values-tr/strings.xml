@@ -556,8 +556,6 @@
     <string name="hidden">Gizli</string>
     <string name="visible">Görünür</string>
     <string name="icon_picker">Simge Seçici</string>
-    <string name="custom_icon">Sekme Simgesi Arkaplanı</string>
-    <string name="cust_icon_summary">Özel bir simge arka planı seçin</string>
     <string name="manage_tiles">Sekmeleri yönet</string>
     <string name="enable_tiles">Aşağı Çekme Hızlı Ayarlar Sekmelerini Aç/Kapat</string>
     <string name="qs_tiles">Aşağı Çekme</string>
@@ -722,6 +720,5 @@
     <string name="per_app_immersive">Uygulama Başına Immersive</string>
     <string name="mob_since_boot">Açılıştan Beri Mobil:</string>
     <string name="icon_back_tint">Arkaplan Simgesi Renk Tonu/Filtre</string>
-    <string name="icon_back_tint_sum">Özel simgeye bir renk filtresi uygula.</string>
-    <string name="icon_back_tint_remove">Simge Arkaplan Rengini Kaldır.</string>
+    <string name="padding">Padding:</string>
 </resources>

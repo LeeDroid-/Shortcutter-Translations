@@ -478,8 +478,6 @@
     <string name="hidden">Escondido</string>
     <string name="visible">Visível</string>
     <string name="icon_picker">Escolher Ícones</string>
-    <string name="custom_icon">Fundo de Ícones de Mosaicos</string>
-    <string name="cust_icon_summary">Selecione um fundo de ícone personalizado</string>
     <string name="manage_tiles">Gerir mosaicos</string>
     <string name="enable_tiles">Ativar/Desativar Mosaicos de Configurações Rápidas</string>
     <string name="qs_tiles">Desliz para Baixo</string>
@@ -645,6 +643,5 @@
     <string name="per_app_immersive">PerApp Immersive</string>
     <string name="mob_since_boot">Mobile Since Boot:</string>
     <string name="icon_back_tint">Background Icon Tint/Filter</string>
-    <string name="icon_back_tint_sum">Apply a color filter to the custom icon.</string>
-    <string name="icon_back_tint_remove">Remove Icon Background Tint.</string>
+    <string name="padding">Padding:</string>
 </resources>
