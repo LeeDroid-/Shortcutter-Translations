@@ -457,7 +457,7 @@
     <string name="weather_desc">Uruchamia pop-up z aktualnymi informacjami o pogodzie</string>
     <string name="location">Aktualizacja Lokalizacji</string>
     <string name="temp">Temperatura: &#160;</string>
-    <string name="feels">Samopoczucie #160;</string>
+    <string name="feels">Samopoczucie &#160;</string>
     <string name="dewp">Punkt rosy: &#160;</string>
     <string name="weather_celsius">Jednostka Temperatury</string>
     <string name="celsius">Celcjusza</string>
@@ -470,7 +470,7 @@
     <string name="dev_loc_mode">Tryb Lokalizacji: &#160;</string>
     <string name="mylocation_summary">Wyświetla bieżącą lokalizację, z możliwością wyświetlania na mapach lub udostępniania</string>
     <string name="swipe_out">Przesuń, aby odrzucić</string>
-    <string name="choose_ring_entries">Wybierz tryby dzwonka (minimum 2)</string>
+    <string name="choose_ring_entries">Wybierz Tryby Dzwonka (minimum 2)</string>
     <string name="qs_head_title">Płytka Nagłówka QS</string>
     <string name="acc_needed_corners">Ta nakładka wymaga dostępu do Ułatwień Dostępu:
         \n\n \u2022 Wykrywanie aktualnych aktywności.
