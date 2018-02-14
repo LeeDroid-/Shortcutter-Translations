@@ -64,7 +64,7 @@
     <string name="ring">Sesli</string>
     <string name="silent">Sessiz</string>
     <string name="screen_timeout">Uyku Zamanlayıcısı</string>
-    <string name="additonal_perms_req">İlave İzinler Gerekli</string>
+    <string name="additonal_perms_req">Ek İzinler Gerekli</string>
     <string name="notification_policy_message">Bazı sekmeler bildirim ayarlarını değiştirmeyi gerektirir. Program için bu izni ancak siz verebilirsiniz.
         \n\nGerekli izinlerin verilebileceği ayarlara ulaşmak için tıklayın.\n</string>
     <string name="proceed">Devam et</string>
@@ -94,8 +94,7 @@
     <string name="by_leedroid">LeeDrOiD tarafından yapıldı</string>
     <string name="welcome_to_shortcutter">Hoş geldiniz!</string>
     <string name="Immersive">Tam Ekran</string>
-    <string name="manual_secure_summary"> Daha fazla sekme etkinleştirmek istiyorsanız, cihazınıza Shortcutter uygulamasının cihaz ayarlarını değiştirebilme iznini vermeniz gerekmektedir.
-        \n(Bu işlem BİLGİSAYAR &amp; ile yapılır)</string>
+    <string name="manual_secure_summary">Kullanım: Konum Modu Değiştirme, Immersive Modu, ADB, Üst Bildirim, Tek Renk, Veri Dolaşımı, Ortam Ekranı, Şarj Edilirken &amp; Güç Tasarrufu Yaparken Açık- (PC gerekir)</string>
     <string name="secure_access">Güvenli Erişim Ayarı</string>
     <string name="action_required">Bir işlem yapmanız gerekli</string>
     <string name="settings_secure_instruct">"Shortcutter'a, sistem üzerinde daha çok kontrol sahibi olabilmesi için gerekli izinleri verebilirsiniz.
@@ -183,7 +182,7 @@
     <string name="screenshot_summary">Cihaz ekranınızın hareketsiz görüntüsünü alır</string>
     <string name="screenshot_tile_title">Ekran Görüntüsü</string>
     <string name="sync_tile_title">Otomatik Senkronizasyon</string>
-    <string name="sync_summary">Aç / Kapat Oto Senk</string>
+    <string name="sync_summary">Otomatik Senkronizasyonu Aç/Kapat</string>
     <string name="timeout_summary">Uykuya geçis süresi</string>
     <string name="timeout_tile_title">Uyku</string>
     <string name="volumeui_tile_title">Ses Paneli</string>
@@ -292,7 +291,7 @@
     <string name="largest">Yazı Tipi
         \nEn Büyük</string>
     <string name="fontscale_sum">Sistem yazı tipi boyutunu değiştir</string>
-    <string name="font_scale_title">Yazı tipi Ölçeği</string>
+    <string name="font_scale_title">Yazı Tipi Ölçeği</string>
     <string name="power_saver">Güç Tasarrufu</string>
     <string name="power_save_summary">Güç Tasarrufu modunu Aç/Kapat</string>
     <string name="prem_only_message">"Bu özellik sadece Shortcutter'ın Premium sürümünde bulunur.
@@ -313,7 +312,7 @@
         \n\nPremium alarak biraz destek olmayı düşünür müydün?
         \n\nBu bildirim, Ücretsiz sürümdeki her 50. sekme tıklamasında görünür.</string>
     <string name="screenre_cat"><![CDATA[Ekran Kaydı & Yakalama]]></string>
-    <string name="choose_entries">Konum Modu Girişleri (En az 2)</string>
+    <string name="choose_entries">Konum Modu Öğeleri (En az 2)</string>
     <string name="conf_sel">Seçimi Onayla</string>
     <string name="recentapps">Son Uygulamalar</string>
     <string name="settings_system_required">Sistem Ayarlarına Yazma izni gerekli - Etkinleştirmek için Tıklayın</string>
@@ -325,7 +324,7 @@
         \n\u2022 Güç Menüsünü Göster
         \n\u2022 Bildirimleri &amp; Hızlı Ayarları Genişlet
         \n\u2022 Etkinlikleri Algıla - Ekran filtresi ve ekran köşelerinde gerekli olan bu hizmetler, uygulamalar yüklendiğinde ve izinler verildiğinde durdurulur.</string>
-    <string name="power_dialog">Güç Bildirimi</string>
+    <string name="power_dialog">Güç Menüsü</string>
     <string name="split_screen">Çoklu Pencere</string>
     <string name="lock_screen">Ekran
         \nKilidi</string>
@@ -657,7 +656,7 @@
     <string name="sc_power_menu">©Shortcutter tarafından güçlendirildi</string>
     <string name="apm_tile_title" translatable="false">APM</string>
     <string name="sidebar_tb">Kenar çubuğu\n/Araç kutusu</string>
-    <string name="auto_start_rec">Otomatik Kayıt Başlat</string>
+    <string name="auto_start_rec">Kaydı Otomatik Başlat</string>
     <string name="recording">Ekran Kaydı</string>
     <string name="change_theme">Aydınlık/Karanlık Tema</string>
     <string name="light_theme">Aydınlık Tema Ayarlandı</string>
@@ -721,8 +720,8 @@
     <string name="hide_statusbar">Durum Çubuğunu Gizle</string>
     <string name="hide_navbar">Gezinme Çubuğunu Gizle</string>
     <string name="per_app_immersive">Uygulama Başına Immersive</string>
-    <string name="mob_since_boot">Mobile Since Boot:</string>
-    <string name="icon_back_tint">Background Icon Tint/Filter</string>
-    <string name="icon_back_tint_sum">Apply a color filter to the custom icon.</string>
-    <string name="icon_back_tint_remove">Remove Icon Background Tint.</string>
+    <string name="mob_since_boot">Açılıştan Beri Mobil:</string>
+    <string name="icon_back_tint">Arkaplan Simgesi Renk Tonu/Filtre</string>
+    <string name="icon_back_tint_sum">Özel simgeye bir renk filtresi uygula.</string>
+    <string name="icon_back_tint_remove">Simge Arkaplan Rengini Kaldır.</string>
 </resources>
