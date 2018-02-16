@@ -546,7 +546,7 @@
     <string name="xiaomi">Cihazınız, uygulamaların otomatik başlatma izinleri almasını gerektiriyor. Shortcutter arkaplan hizmetleri bu etkinleştirilmemişse sonlandırılacaktır.\n\nLütfen Devam et\'e tıklayın &amp; Shortcutter için otomatik başlat iznini etkinleştirin.</string>
     <string name="bat_opt"><![CDATA[Shortcutter arkaplanda çalışan hizmetler çalıştırır, bazı durumlarda (pil tasarrufu, RAM dolması vb.)sistem bazı arkaplan hizmetlerini kapatır, bu nedenle shortcutter için pil ayarlarından, pil optimizasyonunu kapatmanız tavsiye edilir.\n\nUmarım uygulamayı beğenirsiniz!]]></string>
     <string name="failed_window_add">Pencere ekleme başarısız, lütfen uygulamayı açın ve ekran üzerine yazma iznini verdiğinize emin olun</string>
-    <string name="monochrome">S&amp;B</string>
+    <string name="monochrome">Siyah&amp;Beyaz</string>
     <string name="monochrome_summary">Görüntü ayarlarını siyah ve beyaz (Monochrome) olarak değiştir</string>
     <string name="launch_power">Ayarlar \> Güç\'ü başlatır\n(herhangi bir ayar erişimi güvenli değilse)</string>
     <string name="admin_access">Yönetici Erişimi</string>
@@ -720,5 +720,5 @@
     <string name="per_app_immersive">Uygulama Başına Immersive</string>
     <string name="mob_since_boot">Açılıştan Beri Mobil:</string>
     <string name="icon_back_tint">Arkaplan Simgesi Renk Tonu/Filtre</string>
-    <string name="padding">Padding:</string>
+    <string name="padding">Dolgu:</string>
 </resources>
