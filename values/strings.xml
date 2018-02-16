@@ -686,7 +686,13 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv5.2.5 Beta - V5.2.8:
+        \n\nv5.2.5 Beta - V5.3.3:
+        \n\u2022 Add option to randomise Icon &amp; Label colours.
+        \n\u2022 Accessibility improvements (Suspend services).
+        \n\u2022 Android 6 bug fixes
+        \n\u2022 Add SideBar Icon spacing options.
+        \n\u2022 Improve SideBar icon spacing &amp; sizing logic.
+        \n\u2022 Request call permissions when assigning contact shortcut.
         \n\u2020 SideBar performance enhancements and layout adjustments.
         \n\u2022 Add new SideBar icon designer.
         \n\u2022 Fix Per App Immersive selections not always applying first time.
@@ -841,4 +847,7 @@
     <string name="mob_since_boot">Mobile Since Boot:</string>
     <string name="icon_back_tint">Background Tint</string>
     <string name="padding">Padding:</string>
+    <string name="icon_spacing">Horizontal Spacing</string>
+    <string name="vertical_spacing">Vertical Spacing</string>
+    <string name="random_colour">Random Colour</string>
 </resources>

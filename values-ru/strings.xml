@@ -731,4 +731,7 @@ Usage"</string>
     <string name="mob_since_boot">Mobile Since Boot:</string>
     <string name="icon_back_tint">Background Icon Tint/Filter</string>
     <string name="padding">Padding:</string>
+    <string name="icon_spacing">Horizontal Spacing</string>
+    <string name="vertical_spacing">Vertical Spacing</string>
+    <string name="random_colour">Random Colour</string>
 </resources>
