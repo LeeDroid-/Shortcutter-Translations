@@ -725,4 +725,6 @@
     <string name="icon_spacing">Horizontal Spacing</string>
     <string name="vertical_spacing">Vertical Spacing</string>
     <string name="random_colour">Random Colour</string>
+    <string name="performance_warn">Adding too many tiles may cause performance issues</string>
+    <string name="without_acc">Running without Shortcutter accessibility services, overlays will block secure buttons</string>
 </resources>
