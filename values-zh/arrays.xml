@@ -79,11 +79,11 @@
         <item>Shell 命令</item>
     </string-array>
     <string-array name="immersive_mode_entries">
-        <item>Full Immersive</item>
-        <item>Hide Status Bar</item>
-        <item>Hide Nav Bar</item>
-        <item>Show Mode Selector</item>
-        <item>Per App</item>
+        <item>完全沉浸</item>
+        <item>隐藏状态栏</item>
+        <item>隐藏导航栏</item>
+        <item>显示模式选择器</item>
+        <item>逐个 App</item>
     </string-array>
     <string-array name="immersive_mode_values">
         <item>0</item>
@@ -93,9 +93,9 @@
         <item>4</item>
     </string-array>
     <string-array name="orientation_mode_entries">
-        <item>Auto Rotate</item>
-        <item>Portrait</item>
-        <item>Landscape</item>
+        <item>自动旋转</item>
+        <item>竖向</item>
+        <item>横向</item>
     </string-array>
     <string-array name="orientation_mode_values">
         <item>0</item>
