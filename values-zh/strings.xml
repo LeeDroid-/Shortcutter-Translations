@@ -680,7 +680,7 @@
     <string name="trigger_scale">触发范围</string>
     <string name="hide_with_statusbar_sum">当状态栏隐藏时，触发区会越发不可见，例如全屏模式下观看视频</string>
     <string name="hide_with_statusbar">同时隐藏状态栏</string>
-    <string name="choose_orientation_entries">方向模式条目 (至少 2 项)</string>
+    <string name="choose_orientation_entries">方向模式条目 (最少 2 条)</string>
     <string name="speaker_audio">扬声器音频</string>
     <string name="speaker_audio_sum">强制播放扬声器音频 (BETA - 使用通话音质)</string>
     <string name="launch_act">活动项启动器</string>
