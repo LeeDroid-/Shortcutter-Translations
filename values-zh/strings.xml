@@ -172,8 +172,8 @@
     <string name="location_tile_title">位置模式</string>
     <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">显示可用 &amp; 全部 RAM, 通过快捷方式查看 RAM 信息</string>
-    <string name="reboot_summary">Opens an advanced (Root) power menu</string>
-    <string name="reboot_tile_title">Advanced Power Menu</string>
+    <string name="reboot_summary">打开高级 (Root) 电源菜单</string>
+    <string name="reboot_tile_title">高级电源菜单</string>
     <string name="ringmode_tile_title">情景模式</string>
     <string name="ringmode_summary">开关情景模式响铃/振动/静音</string>
     <string name="screenrecord_summary">一个可在你的设备屏幕上录制内容的瓷贴</string>
@@ -364,7 +364,7 @@
         \n音乐</string>
     <string name="play_pause">播放/暂停音乐</string>
     <string name="play_pause_sum">播放 &amp; 暂停音乐</string>
-    <string name="overlay_needed"><![CDATA[Several若干 Shortcutter 服务需要绘制系统叠加层权限才能运行, 其中包括:\n
+    <string name="overlay_needed"><![CDATA[若干 Shortcutter 服务需要绘制系统叠加层权限才能运行, 其中包括:\n
     \n\u2022 侧栏/悬浮工具箱
     \n\u2022 屏幕过滤/夜间模式
     \n\u2022 屏幕圆角
@@ -438,7 +438,7 @@
     <string name="how_it_works2">\u2022 通过你的快捷设置下拉面板</string>
     <string name="how_it_works3">\u2022 通过 Shortcutter 滑出式侧栏或者悬浮工具箱</string>
     <string name="how_it_works4">\u2022 通过你的应用抽屉 &amp; 主屏幕的显式开关，也可以允许启用映射到 HTC Edge Sense、Second Displays、Tasker &amp; 更多！</string>
-    <string name="attention">请参阅标签 2 的如何添加瓷贴向导。</string>
+    <string name="attention">见标签 2 的如何添加瓷贴向导。</string>
     <string name="config_serv">设置</string>
     <string name="screenshot_root">使用 Root 截屏方法</string>
     <string name="screenshot_root_summary">使用系统截屏二进制进行截图</string>
