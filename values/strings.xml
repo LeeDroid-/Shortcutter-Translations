@@ -686,6 +686,13 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
+        \n\nv5.4.4:
+        \n\u2022 Fix toggle toast colours.
+        \n\nv5.3.9 Beta - v5.4.3:
+        \n\u2022 SideBar header icons and text now scaled with contents.
+        \n\u2022 Major code rewrite and optimisation in SideBar grid items.
+        \n\u2022 Remove requirement to reload SideBar grid array when expanding.
+        \n\u2022 Clipboard Editor active/inactive state (contains text).
         \n\nv5.2.5 Beta - V5.3.8:
         \n\u2022 Show toast message when running overlays without accessibility.
         \n\u2022 Fix premium only icons.

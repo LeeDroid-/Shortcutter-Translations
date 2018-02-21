@@ -715,7 +715,7 @@
     <string name="immersive_full">完全沉浸</string>
     <string name="hide_statusbar">隐藏状态栏</string>
     <string name="hide_navbar">隐藏导航栏</string>
-    <string name="per_app_immersive">逐个 App 沉浸/string>
+    <string name="per_app_immersive">逐个 App 沉浸</string>
     <string name="mob_since_boot">自开机以来已用移动数据:</string>
     <string name="icon_back_tint">背景图标上色/过滤</string>
     <string name="padding">填充:</string>

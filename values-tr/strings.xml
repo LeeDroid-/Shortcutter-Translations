@@ -650,9 +650,7 @@
     <string name="select_default_immersive_mode_summary">Varsayılan immersive modu yanıtını seçin</string>
     <string name="pip">Resim içinde Resim</string>
     <string name="pip_sum">Geçerli uygulamada Resim İçinde Resim\'i başlat</string>
-    <string name="shortcuts" translatable="false">wake,corners,screenRecord,screenShot</string>
     <string name="sc_power_menu">©Shortcutter tarafından güçlendirildi</string>
-    <string name="apm_tile_title" translatable="false">APM</string>
     <string name="sidebar_tb">Kenar çubuğu\n/Araç kutusu</string>
     <string name="auto_start_rec">Kaydı Otomatik Başlat</string>
     <string name="recording">Ekran Kaydı</string>
