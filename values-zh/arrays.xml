@@ -35,7 +35,7 @@
     <string-array name="tb_columns_entries">
         <item>2</item>
         <item>3</item>
-        <item>4 (Default)</item>
+        <item>4 (默认)</item>
         <item>5</item>
     </string-array>
     <string-array name="tb_columns_values">
