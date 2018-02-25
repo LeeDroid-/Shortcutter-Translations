@@ -719,9 +719,9 @@
     <string name="mob_since_boot">Açılıştan Beri Mobil:</string>
     <string name="icon_back_tint">Arkaplan Simgesi Renk Tonu/Filtre</string>
     <string name="padding">Dolgu:</string>
-    <string name="icon_spacing">Horizontal Spacing</string>
-    <string name="vertical_spacing">Vertical Spacing</string>
-    <string name="random_colour">Random Colour</string>
-    <string name="performance_warn">Adding too many tiles may cause performance issues</string>
-    <string name="without_acc">Running without Shortcutter accessibility services, overlays will block secure buttons</string>
+    <string name="icon_spacing">Yatay Aralık</string>
+    <string name="vertical_spacing">Dikey Aralık</string>
+    <string name="random_colour">Rastgele Renk</string>
+    <string name="performance_warn">Çok fazla sekme eklemek performans sorunlarına neden olabilir</string>
+    <string name="without_acc">Shortcutter erişilebilirlik hizmetleri olmadan çalışırken, yer paylaşımları güvenli düğmeleri engelleyecektir</string>
 </resources>
