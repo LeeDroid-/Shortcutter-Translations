@@ -457,7 +457,7 @@
     <string name="weather_desc">Uruchamia pop-up z aktualnymi informacjami o pogodzie</string>
     <string name="location">Aktualizacja Lokalizacji</string>
     <string name="temp">Temperatura: &#160;</string>
-    <string name="feels">Samopoczucie &#160;</string>
+    <string name="feels">Odczuwalna &#160;</string>
     <string name="dewp">Punkt rosy: &#160;</string>
     <string name="weather_celsius">Jednostka Temperatury</string>
     <string name="celsius">Celcjusza</string>
@@ -482,7 +482,7 @@
         \nWykryto aktywność zabezpieczoną</string>
     <string name="launch_loc">Uruchamia Ustawienia - Lokalizacja</string>
     <string name="full_title_header">Shortcutter\n    Quick Settings v%1$s</string>
-    <string name="nigh_light">Nocna Lampka</string>
+    <string name="nigh_light">Lampka Nocna</string>
     <string name="brightness">Jasność Ekranu</string>
     <string name="nightlight_summary">Wyświetla zawsze na wyświetlaczu w nocny zegar, a także przycisk, aby szybko przełączać się na Tryb Zegara Biurkowego</string>
     <string name="deskmode">Tryb\nZegara Nocnego</string>
