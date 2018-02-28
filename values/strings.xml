@@ -294,8 +294,7 @@
         \nSmall</string>
     <string name="large">Font
         \nLarge</string>
-    <string name="fontscale">Font
-        \nSize</string>
+    <string name="fontscale">Font Size</string>
     <string name="defaultsize">Font
         \nDefault</string>
     <string name="largest">Font
@@ -401,7 +400,6 @@
     <string name="toolbox_label">Toolbox</string>
     <string name="app_picker">Select An Application</string>
     <string name="custom_app_tiles">Custom Tiles</string>
-    <string name="swipe_up">Swipe up from the bottom to dismiss</string>
     <string name="lock_screen_title">Lock Screen</string>
     <string name="auto_rotate">Auto
         \nRotate</string>
@@ -571,9 +569,7 @@
     <string name="admin_summary">Usage: Screen Lock</string>
     <string name="tb_tile_alpha">Off Tile Transparency</string>
     <string name="hide_tb_labels">Hide Text Labels</string>
-    <string name="hidden">Hidden</string>
-    <string name="visible">Visible</string>
-    <string name="icon_picker">Icon Designer</string>
+    <string name="icon_picker">SideBar/ToolBox Designer</string>
     <string name="manage_tiles">Manage tiles</string>
     <string name="enable_tiles">Enable/Disable Quick Settings Pull-Down Tiles.</string>
     <string name="qs_tiles">Pull-Down</string>
@@ -591,8 +587,6 @@
     <string name="delete">Delete</string>
     <string name="view">View</string>
     <string name="trigger">Trigger</string>
-    <string name="tile_icons">Tiles/Icons</string>
-    <string name="labels">Tile Labels</string>
     <string name="icon_scale">Icon Scale</string>
     <string name="flash_sale">30% Off Shortcutter Premium!\nPlease select the £1.69 option in the purchase premium screen.</string>
     <string name="sale">Shortcutter Flash Sale</string>
@@ -676,6 +670,7 @@
     <string name="auto_start_rec">Auto Start Recording</string>
     <string name="apmreboot_list" translatable="false">Reboot,Reboot Recovery,Reboot Download,Reboot Bootloader,Hot Reboot,Reboot Safe Mode</string>
     <string name="apm_list" translatable="false">Power Off,Reboot Menu,Airplane Mode,Screenshot,Flashlight,Settings</string>
+    <string name="apm_list_tight" translatable="false">Power Off,Reboot Menu,Airplane Mode,Flashlight,Settings</string>
     <string name="recording">Recording Screen</string>
     <string name="change_theme">Light/Dark Theme</string>
     <string name="light_theme">Light Theme Set</string>
@@ -686,8 +681,27 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
+        \n\nv5.4.8:
+        \n\u2022 Make QuickReminder notification icon optional.
+        \n\u2022 Fix custom tile 1 not being removed.
+        \n\u2022 Translation Updates.
+        \n\u2022 Add Play Store My Apps tile.
+        \n\u2022 Root screen shot method improved.
+        \n\u2022 Fix memory leak.
+        \n\nv5.4.6 - v5.4.7:
+        \n\u2022 Translation Updates.
+        \n\u2022 New SideBar/ToolBox designer with preview.
+        \n\u2022 Improve sizing logic.
+        \n\u2022 SideBar/ToolBox style application fixes.
+        \n\nv5.4.5:
+        \n\u2022 Major sidebar speed improvements.
+        \n\u2022 Fix colours in nightlight\/desk clock.
+        \n\u2022 App draw search now uses starts with.
+        \n\u2022 Remove screenshot from APM if non premium.
+        \n\u2022 Update welcome screen shots.
         \n\nv5.4.4:
         \n\u2022 Fix toggle toast colours.
+        \n\u2022 Update Chinese, Polish &amp; German translations.
         \n\nv5.3.9 Beta - v5.4.3:
         \n\u2022 SideBar header icons and text now scaled with contents.
         \n\u2022 Major code rewrite and optimisation in SideBar grid items.
@@ -854,11 +868,16 @@
     <string name="hide_navbar">Hide Nav Bar</string>
     <string name="per_app_immersive">PerApp Immersive</string>
     <string name="mob_since_boot">Mobile Since Boot:</string>
-    <string name="icon_back_tint">Background Tint</string>
-    <string name="padding">Padding:</string>
+    <string name="icon_back_tint">Icon Shape Tint</string>
+    <string name="padding">Icon Padding :</string>
     <string name="icon_spacing">Horizontal Spacing</string>
     <string name="vertical_spacing">Vertical Spacing</string>
     <string name="random_colour">Random Colour</string>
     <string name="performance_warn">Adding too many tiles may cause performance issues</string>
     <string name="without_acc">Running without Shortcutter accessibility services, overlays will block secure buttons</string>
+    <string name="shape_texture">Icon Shape/Texture</string>
+    <string name="offmode">Off Mode</string>
+    <string name="show_icon">StatusBar Icon</string>
+    <string name="my_play_apps">My Play Apps</string>
+    <string name="my_play_apps_sum">Directly opens the Play Store My Apps section</string>
 </resources>

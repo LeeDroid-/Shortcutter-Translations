@@ -317,7 +317,6 @@
     <string name="toolbox_label">Caixa de Ferramentas</string>
     <string name="app_picker">Selecionar Uma Aplicação</string>
     <string name="custom_app_tiles">Mosaicos de App Personalizada</string>
-    <string name="swipe_up">Deslize de baixo para cima para ignorar</string>
     <string name="lock_screen_title">Bloquear o Ecrã</string>
     <string name="auto_rotate">Rotação\nAutomática</string>
     <string name="portrait">Retrato</string>
@@ -475,8 +474,6 @@
     <string name="admin_summary">Uso: Bloqueio de Ecrã</string>
     <string name="tb_tile_alpha">Transparência de Mosaicos</string>
     <string name="hide_tb_labels">Esconder Legendas</string>
-    <string name="hidden">Escondido</string>
-    <string name="visible">Visível</string>
     <string name="icon_picker">Escolher Ícones</string>
     <string name="manage_tiles">Gerir mosaicos</string>
     <string name="enable_tiles">Ativar/Desativar Mosaicos de Configurações Rápidas</string>
@@ -495,8 +492,6 @@
     <string name="delete">Apagar</string>
     <string name="view">Ver</string>
     <string name="trigger">Deteção</string>
-    <string name="tile_icons">Mosaico/Ícones</string>
-    <string name="labels">Legendas de Ícones</string>
     <string name="icon_scale">Escala de Ícones</string>
     <string name="flash_sale">30% de desconto no Shortcutter Premium!\nPor favor selecione a opção de 1.93€ no ecrã de compra premium.</string>
     <string name="sale">Saldos Shortcutter</string>
@@ -649,4 +644,7 @@
     <string name="random_colour">Cor Aleatória</string>
     <string name="performance_warn">Adicionar demasiados mosaicos pode causar problemas de desempenho</string>
     <string name="without_acc">A correr sem serviço de acessibilidade Shortcutter, sobreposições vão bloquear alguns botões seguros</string>
+    <string name="shape_texture">Icon Shape/Texture</string>
+    <string name="offmode">Off Mode</string>
+    <string name="show_icon">StatusBar Icon</string>
 </resources>

@@ -390,7 +390,6 @@
     <string name="toolbox_label">Werkzeugkasten</string>
     <string name="app_picker">Wähle eine Applikation</string>
     <string name="custom_app_tiles">Benutzerdef. Kacheln</string>
-    <string name="swipe_up">Wische von unten nach oben zum Ausblenden</string>
     <string name="lock_screen_title">Sperrbildschirm</string>
     <string name="auto_rotate">Auto
         \nRotation</string>
@@ -554,8 +553,6 @@
     <string name="admin_summary">Verwendung: Bildschirmsperre</string>
     <string name="tb_tile_alpha">Transparenz der inaktiven Kacheln</string>
     <string name="hide_tb_labels">Beschriftungen verbergen</string>
-    <string name="hidden">Versteckt</string>
-    <string name="visible">Sichtbar</string>
     <string name="icon_picker">Symbol Auswahl</string>
     <string name="manage_tiles">Kachelverwaltung</string>
     <string name="enable_tiles">Aktiviere / Deaktiviere QS-Kacheln im Pull-Down Menü</string>
@@ -574,8 +571,6 @@
     <string name="delete">Lösche</string>
     <string name="view">Ansehen</string>
     <string name="trigger">Auslösebalken</string>
-    <string name="tile_icons">Kacheln / Symbole</string>
-    <string name="labels">Kachelbeschriftung</string>
     <string name="icon_scale">Symbolgröße</string>
     <string name="flash_sale">30% Rabatt auf Shortcutter Premium!\nBitte wähle die £1.89 in der Premiumkaufoption.</string>
     <string name="sale">Shortcutter Blitz Verkauf</string>
@@ -727,4 +722,7 @@
     <string name="random_colour">Zufällige Farbe</string>
     <string name="performance_warn">Hinzufügen von zu vielen Kacheln kann zu Leistungsproblemen führen.</string>
     <string name="without_acc">Ohne Shortcutter-Eingabedienste werden Sicherheitsschaltflächen durch Überlagerung geblockt.</string>
+    <string name="shape_texture">Icon Shape/Texture</string>
+    <string name="offmode">Off Mode</string>
+    <string name="show_icon">StatusBar Icon</string>
 </resources>

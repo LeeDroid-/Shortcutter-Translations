@@ -390,7 +390,6 @@
     <string name="toolbox_label">Araç Kutusu</string>
     <string name="app_picker">Bir Uygulama Seçin</string>
     <string name="custom_app_tiles">Özel Sekmeler</string>
-    <string name="swipe_up">Kapatmak için aşağıdan yukarıya doğru kaydırın</string>
     <string name="lock_screen_title">Ekran Kilidi</string>
     <string name="auto_rotate">Otomatik
         \nDöndür</string>
@@ -553,8 +552,6 @@
     <string name="admin_summary">Kullanım: Ekran Kilidi</string>
     <string name="tb_tile_alpha">Sekme Şeffaflığı kapalı</string>
     <string name="hide_tb_labels">Metin Etiketlerini gizle</string>
-    <string name="hidden">Gizli</string>
-    <string name="visible">Görünür</string>
     <string name="icon_picker">Simge Seçici</string>
     <string name="manage_tiles">Sekmeleri yönet</string>
     <string name="enable_tiles">Aşağı Çekme Hızlı Ayarlar Sekmelerini Aç/Kapat</string>
@@ -573,8 +570,6 @@
     <string name="delete">Sil</string>
     <string name="view">Göster</string>
     <string name="trigger">Tetikle</string>
-    <string name="tile_icons">Sekmeler/Simgeler</string>
-    <string name="labels">Sekme Etiketleri</string>
     <string name="icon_scale">Simge Boyutu</string>
     <string name="flash_sale">Shortcutter Premium\'dan% 30 indirim!\nLütfen, premium satın alma ekranında £1.69 seçeneğini seçin.</string>
     <string name="sale">Shortcutter Büyük İndirim</string>
@@ -724,4 +719,7 @@
     <string name="random_colour">Rastgele Renk</string>
     <string name="performance_warn">Çok fazla sekme eklemek performans sorunlarına neden olabilir</string>
     <string name="without_acc">Shortcutter erişilebilirlik hizmetleri olmadan çalışırken, yer paylaşımları güvenli düğmeleri engelleyecektir</string>
+    <string name="shape_texture">Icon Shape/Texture</string>
+    <string name="offmode">Off Mode</string>
+    <string name="show_icon">StatusBar Icon</string>
 </resources>

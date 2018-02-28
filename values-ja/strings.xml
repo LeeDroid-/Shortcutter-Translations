@@ -398,7 +398,6 @@
     <string name="toolbox_label">Toolbox</string>
     <string name="app_picker">アプリケーションを選択</string>
     <string name="custom_app_tiles">カスタムタイル</string>
-    <string name="swipe_up">下から上にスワイプして閉じます</string>
     <string name="lock_screen_title">ロック画面</string>
     <string name="auto_rotate">Auto
         \nRotate</string>
@@ -568,8 +567,6 @@
     <string name="admin_summary">Usage: Screen Lock</string>
     <string name="tb_tile_alpha">タイルの透明度をオフにする</string>
     <string name="hide_tb_labels">テキストラベルを隠す</string>
-    <string name="hidden">Hidden</string>
-    <string name="visible">Visible</string>
     <string name="icon_picker">アイコンピッカー</string>
     <string name="manage_tiles">管理タイル</string>
     <string name="enable_tiles">有効/無効 クイック設定プルダウンタイル。</string>
@@ -588,8 +585,6 @@
     <string name="delete">消去</string>
     <string name="view">ビュー</string>
     <string name="trigger">トリガー</string>
-    <string name="tile_icons">Tiles/Icons</string>
-    <string name="labels">タイルラベル</string>
     <string name="icon_scale">アイコンサイズ</string>
     <string name="flash_sale">10% Off Shortcutter Premium!\nPlease select the ﾂ｣1.89 option in the purchase premium screen.</string>
     <string name="sale">Shortcutter Flash Sale</string>
@@ -741,4 +736,7 @@
     <string name="random_colour">Random Colour</string>
     <string name="performance_warn">Adding too many tiles may cause performance issues</string>
     <string name="without_acc">Running without Shortcutter accessibility services, overlays will block secure buttons</string>
+    <string name="shape_texture">Icon Shape/Texture</string>
+    <string name="offmode">Off Mode</string>
+    <string name="show_icon">StatusBar Icon</string>
 </resources>

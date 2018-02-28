@@ -390,7 +390,6 @@
     <string name="toolbox_label">Toolbox</string>
     <string name="app_picker">Wybierz Aplikacje</string>
     <string name="custom_app_tiles">Własna Płytka Aplikacji</string>
-    <string name="swipe_up">Przesuń palcem od dołu, aby go zwolnić</string>
     <string name="lock_screen_title">Blokada Ekranu</string>
     <string name="auto_rotate">Auto
 	    \nRotacja</string>
@@ -560,8 +559,6 @@
     <string name="admin_summary">Użycie: Blokada Ekranu</string>
     <string name="tb_tile_alpha">Wyłącz Przeźroczystość Płytek</string>
     <string name="hide_tb_labels">Ukryj Etykiety Tekstowe</string>
-    <string name="hidden">Ukryj</string>
-    <string name="visible">Widoczność</string>
     <string name="icon_picker">Próbnik Ikon</string>
     <string name="manage_tiles">Menadżer Płytek</string>
     <string name="enable_tiles">Włącz/Wyłącz Płytki Szybkich Ustawień</string>
@@ -580,8 +577,6 @@
     <string name="delete">Usuń</string>
     <string name="view">Pokaż</string>
     <string name="trigger">Wyzwalacz</string>
-    <string name="tile_icons">Płytki/Ikony</string>
-    <string name="labels">Etykiety Płytek</string>
     <string name="icon_scale">Skalowanie Ikon</string>
     <string name="flash_sale">30% zniżkę na Shortcutter Premium!\nWybierz opcję ? 1.69 na ekranie premium.</string>
     <string name="sale">Wyprzedaż Shortcutter</string>
@@ -732,4 +727,7 @@
     <string name="random_colour">Losowy Kolor</string>
     <string name="performance_warn">Dodanie zbyt wielu płytek może spowodować problemy z wydajnością</string>
     <string name="without_acc">Działa bez usług ułatwień dostępu Shortcutter, nakładka blokuje bezpieczne przyciski</string>
+    <string name="shape_texture">Icon Shape/Texture</string>
+    <string name="offmode">Off Mode</string>
+    <string name="show_icon">StatusBar Icon</string>
 </resources>

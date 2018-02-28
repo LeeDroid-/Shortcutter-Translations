@@ -390,7 +390,6 @@
     <string name="toolbox_label">工具箱</string>
     <string name="app_picker">选择应用程序</string>
     <string name="custom_app_tiles">自定义瓷贴</string>
-    <string name="swipe_up">从底部上滑以关闭</string>
     <string name="lock_screen_title">锁定屏幕</string>
     <string name="auto_rotate">自动
         \n旋转</string>
@@ -553,8 +552,6 @@
     <string name="admin_summary">用途: 屏幕锁定</string>
     <string name="tb_tile_alpha">关闭瓷贴透明度</string>
     <string name="hide_tb_labels">隐藏文本标签</string>
-    <string name="hidden">隐藏</string>
-    <string name="visible">可见</string>
     <string name="icon_picker">图标选择</string>
     <string name="manage_tiles">管理瓷贴</string>
     <string name="enable_tiles">启用/停用快捷设置下拉面板瓷贴。</string>
@@ -573,8 +570,6 @@
     <string name="delete">删除</string>
     <string name="view">查看</string>
     <string name="trigger">触发</string>
-    <string name="tile_icons">瓷贴/图标</string>
-    <string name="labels">瓷贴标注</string>
     <string name="icon_scale">图标缩放</string>
     <string name="flash_sale">Shortcutter 付费版现正9折!\n请在购买付费版界面选择 £1.69 选项。</string>
     <string name="sale">Shortcutter 闪光灯缩放</string>
@@ -724,4 +719,7 @@
     <string name="random_colour">随机颜色</string>
     <string name="performance_warn">添加过多瓷贴可能会导致性能问题</string>
     <string name="without_acc">无需 Shortcutter 辅助服务即可运行，叠加层将遮盖安全按钮。</string>
+    <string name="shape_texture">Icon Shape/Texture</string>
+    <string name="offmode">Off Mode</string>
+    <string name="show_icon">StatusBar Icon</string>
 </resources>

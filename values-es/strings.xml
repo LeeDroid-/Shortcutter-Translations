@@ -391,7 +391,6 @@
     <string name="toolbox_label">Caja de herramientas</string>
     <string name="app_picker">Seleccionar una aplicación</string>
     <string name="custom_app_tiles">Apartados personalizados</string>
-    <string name="swipe_up">Desliza de abajo a arriba para rechazar</string>
     <string name="lock_screen_title">Bloquear pantalla</string>
     <string name="auto_rotate">Rotación
         \nautomática</string>
@@ -554,8 +553,6 @@
     <string name="admin_summary">Uso: Bloqueo de pantalla</string>
     <string name="tb_tile_alpha">Transparencia de botones</string>
     <string name="hide_tb_labels">Ocultar etiquetas</string>
-    <string name="hidden">Oculto</string>
-    <string name="visible">Visible</string>
     <string name="icon_picker">Selector de iconos</string>
     <string name="manage_tiles">Administrar apartados</string>
     <string name="enable_tiles">Activar/Desactivar ajustes rápidos de menú desplegable.</string>
@@ -574,8 +571,6 @@
     <string name="delete">Eliminar</string>
     <string name="view">Ver</string>
     <string name="trigger">Registrar</string>
-    <string name="tile_icons">Botones/Iconos</string>
-    <string name="labels">Etiquetas</string>
     <string name="icon_scale">Tamaño</string>
     <string name="flash_sale">30% de descuento en Shortcutter premium.!\nSelecciona la opción de pago de 1.93€.</string>
     <string name="sale">Oferta de Shortcutter</string>
@@ -725,4 +720,7 @@
     <string name="random_colour">Random Colour</string>
     <string name="performance_warn">Adding too many tiles may cause performance issues</string>
     <string name="without_acc">Running without Shortcutter accessibility services, overlays will block secure buttons</string>
+    <string name="shape_texture">Icon Shape/Texture</string>
+    <string name="offmode">Off Mode</string>
+    <string name="show_icon">StatusBar Icon</string>
 </resources>
