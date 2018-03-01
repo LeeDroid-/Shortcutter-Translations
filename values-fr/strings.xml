@@ -397,22 +397,22 @@
     <string name="counter_reset">Réinitialiser le compteur à 0 ?</string>
     <string name="data_roaming">Itinérance de Données</string>
     <string name="dataroam_summary">Active/Désactive l'itinérance de données</string>
-    <string name="quick_tiles_title">Change Number Of Tiles In Collapsed View</string>
-    <string name="manufact_depend">Customise the number of QS tiles shown in the collapsed Pull-Down.
-        \nThis MOD is manufacturer dependent.</string>
-    <string name="sidebar">Sidebar or Floating Toolbox</string>
-    <string name="sidebar_summary">Choose between the Swipe Out Sidebar or Floating Toolbox.</string>
-    <string name="sidebar_pos">Horizontal Trigger Position</string>
+    <string name="quick_tiles_title">Change le nombre de tuiles dans la vue réduite</string>
+    <string name="manufact_depend">Personnalisez le nombre de tuiles de Réglages Rapides qui s'affichent dans la vue réduite.
+        \nCette modification est dépendante de votre appareil.</string>
+    <string name="sidebar">Barre latérale ou Boîte à Outils flottante</string>
+    <string name="sidebar_summary">Choisissez entre la Barre Latérale ou la Boîte à Outils flottante.</string>
+    <string name="sidebar_pos">Position Déclencheur Horizontal</string>
     <string name="right">Current Position Right</string>
     <string name="left_position">Current Position Left</string>
-    <string name="tb_background">Background Colour</string>
-    <string name="create_calendar_event">New Event</string>
-    <string name="tb_tile_tint">Tile Tint Colour</string>
-    <string name="tb_tile_text_tint">Font Colour</string>
-    <string name="tb_reset_tint">Reset Preferences</string>
-    <string name="reset_conf">Are you sure you want to reset all colour preferences?</string>
-    <string name="trigger_colour_title">Trigger Colour / Transparency</string>
-    <string name="filter_active">Screen Filter Active</string>
+    <string name="tb_background">Couleur du fond</string>
+    <string name="create_calendar_event">Nouvel Évènement</string>
+    <string name="tb_tile_tint">Teinte des tuiles</string>
+    <string name="tb_tile_text_tint">Couleur du texte</string>
+    <string name="tb_reset_tint">Réinitialiser les Préférences</string>
+    <string name="reset_conf">Êtes-vous sûr(e) de vouloir réinitialiser toutes les couleurs ?</string>
+    <string name="trigger_colour_title">Couleur du déclencheur / Transparence</string>
+    <string name="filter_active">Filtre d'écran Actif</string>
     <string name="filter_colour">Select Filter Colour</string>
     <string name="filter_tile_title">Screen Filter</string>
     <string name="screen_filter">Screen Filter</string>
