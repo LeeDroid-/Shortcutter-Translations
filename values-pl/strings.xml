@@ -730,8 +730,8 @@
     <string name="shape_texture">Ikona Kształt/Tekstura</string>
     <string name="offmode">Wył Tryb</string>
     <string name="show_icon">Ikony Paska Stanu</string>
-    <string name="my_play_apps">My Play Apps</string>
-    <string name="my_play_apps_sum">Directly opens the Play Store My Apps section</string>
-    <string name="choose_timeout_entries">Screen Timeout Entries (2 Minimum)</string>
-    <string name="invert">Invert Colours</string>
+    <string name="my_play_apps"Moje Aplikacje w Sklepie Play</string>
+    <string name="my_play_apps_sum">Bezpośrednio otwiera sekcję Sklep Play Moje aplikacje</string>
+    <string name="choose_timeout_entries">Wybierz Czas Wyłączenia Ekranu (2 Minimum)</string>
+    <string name="invert">Odwrócone Kolory</string>
 </resources>
