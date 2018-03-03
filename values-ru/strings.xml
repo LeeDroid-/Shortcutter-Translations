@@ -664,12 +664,10 @@
     <string name="dark_theme">Темная Тема</string>
     <string name="auto_start_rec">Автоматическое начало записи</string>
     <string name="cust_app_root"> Назначить приложения, действия, ярлыки, веб-ссылки и Команды оболочки. Включите здесь фрагменты, затем нажмите на плитку, чтобы назначить выбранное приложение, действие или ярлык.</string>
-    <string name="cust_app_pref_root">Назначить приложения, действия, ярлыки, веб-ссылки и Команды оболочки.</ String>
+    <string name="cust_app_pref_root">Назначить приложения, действия, ярлыки, веб-ссылки и Команды оболочки.</string>
     <string name="send_report">Отправлять отчет об ошибке</string>
     <string name="close_app">Очистить лог ошибки</string>
-    <string name="oops_error">К сожалению ... похоже, что что-то пошло не так и Извините за неудобства. </ String><![CDATA[
-    
-    ]]>
+    <string name="oops_error">К сожалению ... похоже, что что-то пошло не так и Извините за неудобства. </string>
     <string name="change_log_title">Недавние изменения</string>
     <string name="ok">Ok</string>
     <string name="notification_blocker">Уведомления всплывающих окон</string>
