@@ -727,7 +727,7 @@
     <string name="random_colour">Losowy Kolor</string>
     <string name="performance_warn">Dodanie zbyt wielu płytek może spowodować problemy z wydajnością</string>
     <string name="without_acc">Działa bez usług ułatwień dostępu Shortcutter, nakładka blokuje bezpieczne przyciski</string>
-    <string name="shape_texture">Icon Shape/Texture</string>
-    <string name="offmode">Off Mode</string>
-    <string name="show_icon">StatusBar Icon</string>
+    <string name="shape_texture">Ikona Kształt/Tekstura</string>
+    <string name="offmode">Wył Tryb</string>
+    <string name="show_icon">Ikony Paska Stanu</string>
 </resources>
