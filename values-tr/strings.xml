@@ -719,7 +719,7 @@
     <string name="random_colour">Rastgele Renk</string>
     <string name="performance_warn">Çok fazla sekme eklemek performans sorunlarına neden olabilir</string>
     <string name="without_acc">Shortcutter erişilebilirlik hizmetleri olmadan çalışırken, yer paylaşımları güvenli düğmeleri engelleyecektir</string>
-    <string name="shape_texture">Icon Shape/Texture</string>
-    <string name="offmode">Off Mode</string>
-    <string name="show_icon">StatusBar Icon</string>
+    <string name="shape_texture">Simge Şekli/Dokusu</string>
+    <string name="offmode">Kapalı Modu</string>
+    <string name="show_icon">Durum Çubuğu Simgesi</string>
 </resources>
