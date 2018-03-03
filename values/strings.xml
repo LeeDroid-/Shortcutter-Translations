@@ -681,7 +681,20 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv5.4.8:
+        \n\nv5.5.4 - v5.5.5 - Beta:
+        \n\u2022 Translation updates.
+        \n\u2022 Enable drag - drop rearrange in APM.
+        \n\u2022 Accessibility auto re-enable if app has Settings Secure or ROOT access.
+        \n\u2022 Add Invert Colours tile (Settings Secure Required)
+        \n\nv5.4.8 - V5.5.3:
+        \n\u2022 Correct tab highlights when opening to specific tabs.
+        \n\u2022 Header icon size corrections.
+        \n\u2022 Add +/- buttons to Icon Designer seek bars.
+        \n\u2022 All Seek bar +/- buttons now implement long click repeat.
+        \n\u2022 Fix random color option.
+        \n\u2022 Fix custom tiles not refreshing when changed.
+        \n\u2022 Add ability to select Screen Timeout values.
+        \n\u2022 Improve multi toggle methods.
         \n\u2022 Make QuickReminder notification icon optional.
         \n\u2022 Fix custom tile 1 not being removed.
         \n\u2022 Translation Updates.
@@ -880,4 +893,6 @@
     <string name="show_icon">StatusBar Icon</string>
     <string name="my_play_apps">My Play Apps</string>
     <string name="my_play_apps_sum">Directly opens the Play Store My Apps section</string>
+    <string name="choose_timeout_entries">Screen Timeout Entries (2 Minimum)</string>
+    <string name="invert">Invert Colours</string>
 </resources>

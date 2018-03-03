@@ -663,12 +663,13 @@
     <string name="change_theme">Свет/темно тема</string>
     <string name="dark_theme">Темная Тема</string>
     <string name="auto_start_rec">Автоматическое начало записи</string>
-    <string name = "cust_app_root"> Назначить приложения, действия, ярлыки, веб-ссылки и amp; Команды оболочки. Включите здесь фрагменты, затем нажмите на плитку, чтобы назначить выбранное приложение, действие или ярлык. </ String>
-    <string name = "cust_app_pref_root"> Назначить приложения, действия, ярлыки, веб-ссылки и amp; Команды оболочки. </ String>
+    <string name="cust_app_root"> Назначить приложения, действия, ярлыки, веб-ссылки и Команды оболочки. Включите здесь фрагменты, затем нажмите на плитку, чтобы назначить выбранное приложение, действие или ярлык.</string>
+    <string name="cust_app_pref_root">Назначить приложения, действия, ярлыки, веб-ссылки и Команды оболочки.</ String>
     <string name="send_report">Отправлять отчет об ошибке</string>
     <string name="close_app">Очистить лог ошибки</string>
-    <string name="oops_error">К сожалению ... похоже, что что-то пошло не так & amp; Извините за неудобства. </ String>
-     <string name = "roototed"> Ваше устройство, похоже, рутированно! Вы хотите включить все функции root сейчас?</string>
+    <string name="oops_error">К сожалению ... похоже, что что-то пошло не так и Извините за неудобства. </ String><![CDATA[
+    
+    ]]>
     <string name="change_log_title">Недавние изменения</string>
     <string name="ok">Ok</string>
     <string name="notification_blocker">Уведомления всплывающих окон</string>
@@ -678,7 +679,7 @@
     <string name="reboot_menu">Меню Перезагрузки</string>
     <string name="total_usage">Показать общее использование</string>
     <string name="total_usage_sum">Показать использование всех данных или разделить вверх/вниз</string>
-    <string name="notif_access">Чтобы блокировать уведомления нам нужно включить прослушиватель уведомлений.\\n\\nЭтот слушатель будет не только слушать уведомления из системы Android, но и любое уведомление, содержащее \\\"запущенное в фоне\\\" или удаленные.\\n\\n Пожалуйста, нажмите &amp; включите блокировщик уведомлений.</string>
+    <string name="notif_access">Чтобы блокировать уведомления нам нужно включить прослушиватель уведомлений.\n\nЭтот слушатель будет не только слушать уведомления из системы Android, но и любое уведомление, содержащее \"запущенное в фоне\" или удаленные.\n\n Пожалуйста, нажмите &amp; включите блокировщик уведомлений.</string>
     <string name="confirmation_dialog_sum">Показать диалоговое окно подтверждения действий в меню Расширенное меню</string> 
 	<string name="left_sum">Режим одной рукой слева</string> 
 	<string name="wake_show_notif">Экран Звонок активные уведомления</string> 
@@ -733,4 +734,9 @@
     <string name="shape_texture">Значок формы/текстуры</string> 
     <string name="offmode">Выкл. режим</string> 
     <string name="show_icon">Иконки в Статусбаре</string>
+    <string name="rooted">Your device appears to be rooted!</string>
+    <string name="my_play_apps_sum">Directly opens the Play Store My Apps section</string>
+    <string name="choose_timeout_entries">Screen Timeout Entries (2 Minimum)</string>
+    <string name="invert">Invert Colours</string>
+    <string name="my_play_apps">My Play Apps</string>
 </resources>

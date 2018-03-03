@@ -730,4 +730,8 @@
     <string name="shape_texture">Icon Shape/Texture</string>
     <string name="offmode">Off Mode</string>
     <string name="show_icon">StatusBar Icon</string>
+    <string name="my_play_apps">My Play Apps</string>
+    <string name="my_play_apps_sum">Directly opens the Play Store My Apps section</string>
+    <string name="choose_timeout_entries">Screen Timeout Entries (2 Minimum)</string>
+    <string name="invert">Invert Colours</string>
 </resources>
