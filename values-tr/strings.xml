@@ -722,8 +722,8 @@
     <string name="shape_texture">Simge Şekli/Dokusu</string>
     <string name="offmode">Kapalı Modu</string>
     <string name="show_icon">Durum Çubuğu Simgesi</string>
-    <string name="my_play_apps">My Play Apps</string>
-    <string name="my_play_apps_sum">Directly opens the Play Store My Apps section</string>
-    <string name="choose_timeout_entries">Screen Timeout Entries (2 Minimum)</string>
-    <string name="invert">Invert Colours</string>
+    <string name="my_play_apps">Play Uygulamalarım</string>
+    <string name="my_play_apps_sum">Doğrudan Play Store Uygulamalarım bölümünü açar</string>
+    <string name="choose_timeout_entries">Ekran Zaman Aşımı Öğeleri (En az 2)</string>
+    <string name="invert">Renkleri Ters Çevir</string>
 </resources>
