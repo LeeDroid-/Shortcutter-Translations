@@ -726,4 +726,18 @@
     <string name="my_play_apps_sum">Doğrudan Play Store Uygulamalarım bölümünü açar</string>
     <string name="choose_timeout_entries">Ekran Zaman Aşımı Öğeleri (En az 2)</string>
     <string name="invert">Renkleri Ters Çevir</string>
+    <string name="edit">Edit</string>
+    <string name="notifs_off">Shortcutter notifications are disabled.  Click here to go to settings and re-enable them.</string>
+    <string name="click_anim">Click Animation</string>
+    <string name="backup_restore">Backup/Restore</string>
+    <string name="restore">Restore Settings</string>
+    <string name="backup">Backup Settings</string>
+    <string name="last_backup">Last backup:</string>
+    <string name="no_backup">No backup found at</string>
+    <string name="loc">Location =</string>
+    <string name="save_loc">Save Location</string>
+    <string name="export">Export</string>
+    <string name="no_storage_perms">No Storage Permissions</string>
+    <string name="store_perm_backup">Storage permissions required for backup &amp; restore.</string>
+    <string name="export_sum">Send your configuration file to Google Drive, DropBox or similar cloud storage to restore later</string>
 </resources>

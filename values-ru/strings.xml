@@ -664,7 +664,8 @@
     <string name="dark_theme">Темная Тема</string>
     <string name="auto_start_rec">Автоматическое начало записи</string>
     <string name="cust_app_root"> Назначить приложения, действия, ярлыки, веб-ссылки и Команды оболочки. Включите здесь фрагменты, затем нажмите на плитку, чтобы назначить выбранное приложение, действие или ярлык.</string>
-    <string name="cust_app_pref_root">Назначить приложения, действия, ярлыки, веб-ссылки и Команды оболочки.</string>
+       
+    <string name="cust_app_pref_root">Назначить приложения, действия, ярлыки, веб-ссылки и Команды оболочки.</string>
     <string name="send_report">Отправлять отчет об ошибке</string>
     <string name="close_app">Очистить лог ошибки</string>
     <string name="oops_error">К сожалению ... похоже, что что-то пошло не так и Извините за неудобства. </string>
@@ -678,16 +679,16 @@
     <string name="total_usage">Показать общее использование</string>
     <string name="total_usage_sum">Показать использование всех данных или разделить вверх/вниз</string>
     <string name="notif_access">Чтобы блокировать уведомления нам нужно включить прослушиватель уведомлений.\n\nЭтот слушатель будет не только слушать уведомления из системы Android, но и любое уведомление, содержащее \"запущенное в фоне\" или удаленные.\n\n Пожалуйста, нажмите &amp; включите блокировщик уведомлений.</string>
-    <string name="confirmation_dialog_sum">Показать диалоговое окно подтверждения действий в меню Расширенное меню</string> 
-	<string name="left_sum">Режим одной рукой слева</string> 
-	<string name="wake_show_notif">Экран Звонок активные уведомления</string> 
-	<string name="bonus_features">Бонусные возможности</string> 
-	<string name="trigger_scale">Шкала Триггер</string>
-	<string name="hide_with_statusbar_sum">Триггер становится невидимым, когда строка состояния скрыта. т.е. когда активен полный экран видео</string> 
-	<string name="hide_with_statusbar">Скрыть в Статусбаре</string> 
-	<string name="choose_orientation_entries">Ориентация режима записи (минимум 2)</string> 
-	<string name="speaker_audio">Динамик аудио</string>
-	<string name="speaker_audio_sum">Сила звука для громкой связи (бета - функция)</string>
+    <string name="confirmation_dialog_sum">Показать диалоговое окно подтверждения действий в меню Расширенное меню</string>
+    <string name="left_sum">Режим одной рукой слева</string>
+    <string name="wake_show_notif">Экран Звонок активные уведомления</string>
+    <string name="bonus_features">Бонусные возможности</string>
+    <string name="trigger_scale">Шкала Триггер</string>
+    <string name="hide_with_statusbar_sum">Триггер становится невидимым, когда строка состояния скрыта. т.е. когда активен полный экран видео</string>
+    <string name="hide_with_statusbar">Скрыть в Статусбаре</string>
+    <string name="choose_orientation_entries">Ориентация режима записи (минимум 2)</string>
+    <string name="speaker_audio">Динамик аудио</string>
+    <string name="speaker_audio_sum">Сила звука для громкой связи (бета - функция)</string>
     <string name="launch_act">Activity Лаунчера</string>
     <string name="stopwatch_title">Секундомер</string>
     <string name="start">Старт</string>
@@ -729,12 +730,26 @@
     <string name="random_colour">Случайный цвет</string>
     <string name="performance_warn">Добавление слишком много плиток может вызвать проблемы с производительностью</string>
     <string name="without_acc">Работает без программы Shortcutter, оверлеи будут блокироваться</string>
-    <string name="shape_texture">Значок формы/текстуры</string> 
-    <string name="offmode">Выкл. режим</string> 
+    <string name="shape_texture">Значок формы/текстуры</string>
+    <string name="offmode">Выкл. режим</string>
     <string name="show_icon">Иконки в Статусбаре</string>
     <string name="rooted">Устройство имеет ROOT!</string> 
     <string name="my_play_apps_sum">Открывает раздел с моими приложениями</string> 
     <string name="choose_timeout_entries">Экран ожидания записей (минимум 2)</string>
     <string name="invert">Инвертировать цвета</string>
     <string name="my_play_apps">Мои Приложения</string>
+    <string name="edit">Edit</string>
+    <string name="notifs_off">Shortcutter notifications are disabled.  Click here to go to settings and re-enable them.</string>
+    <string name="click_anim">Click Animation</string>
+    <string name="backup_restore">Backup/Restore</string>
+    <string name="restore">Restore Settings</string>
+    <string name="backup">Backup Settings</string>
+    <string name="last_backup">Last backup:</string>
+    <string name="no_backup">No backup found at</string>
+    <string name="loc">Location =</string>
+    <string name="save_loc">Save Location</string>
+    <string name="export">Export</string>
+    <string name="no_storage_perms">No Storage Permissions</string>
+    <string name="store_perm_backup">Storage permissions required for backup &amp; restore.</string>
+    <string name="export_sum">Send your configuration file to Google Drive, DropBox or similar cloud storage to restore later</string>
 </resources>
