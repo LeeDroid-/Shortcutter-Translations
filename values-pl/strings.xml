@@ -559,7 +559,7 @@
     <string name="admin_summary">Użycie: Blokada Ekranu</string>
     <string name="tb_tile_alpha">Wyłącz Przeźroczystość Płytek</string>
     <string name="hide_tb_labels">Ukryj Etykiety Tekstowe</string>
-    <string name="icon_picker">Próbnik Ikon</string>
+    <string name="icon_picker">Projektowanie Ikon</string>
     <string name="manage_tiles">Menadżer Płytek</string>
     <string name="enable_tiles">Włącz/Wyłącz Płytki Szybkich Ustawień</string>
     <string name="qs_tiles">Płytki QS</string>
@@ -730,8 +730,8 @@
     <string name="shape_texture">Ikona Kształt/Tekstura</string>
     <string name="offmode">Wył Tryb</string>
     <string name="show_icon">Ikony Paska Stanu</string>
-    <string name="my_play_apps"Moje Aplikacje w Sklepie Play</string>
-    <string name="my_play_apps_sum">Bezpośrednio otwiera sekcję Sklep Play Moje aplikacje</string>
+    <string name="my_play_apps"Moje Aplikacje</string>
+    <string name="my_play_apps_sum">Otwiera sekcję Moje Aplikacje w Sklepie Play</string>
     <string name="choose_timeout_entries">Wybierz Czas Wyłączenia Ekranu (2 Minimum)</string>
     <string name="invert">Odwrócone Kolory</string>
 </resources>
