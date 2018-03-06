@@ -47,12 +47,12 @@
 Нажмите кнопку продолжить, перейдите на Shortcutter и включите службу.
 "</string>
     <string name="acc_summary">Использование: Последние Приложения, меню Питание, Разделение экрана, развернутые уведомления &amp; Быстрой настройки, сетчатый фильтр &amp; Закругленные углы</string>
-    <string name="accessibility_description">"Allows shortcutter to perform the following accessibility actions 
-• Toggle Split Screen 
-• Toggle Recent Apps 
-• Show Power Menu 
-• Expand Notifications &amp; Quick Settings 
-• Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted."</string>
+    <string name="accessibility_description">"Позволяет Shortcutter выполненять следующих действия 
+• Разделение экрана 
+• Недавние приложения 
+• Показать меню питания 
+• Расширенные уведомления &amp; Быстрые настройки 
+• Обнаруживать деятельность - необходимые для сетчатого фильтра &amp; Углы экрана. Эти службы будут остановлены, когда приложения установлены &amp; разрешения необходимо предоставить."</string>
     <string name="action_required">Необходимые действия</string>
     <string name="action_toggles">Плитки действий</string>
     <string name="actual_tiles">Плитки действий = %1$d</string>
@@ -732,9 +732,9 @@
     <string name="shape_texture">Значок формы/текстуры</string> 
     <string name="offmode">Выкл. режим</string> 
     <string name="show_icon">Иконки в Статусбаре</string>
-    <string name="rooted">Your device appears to be rooted!</string>
-    <string name="my_play_apps_sum">Directly opens the Play Store My Apps section</string>
-    <string name="choose_timeout_entries">Screen Timeout Entries (2 Minimum)</string>
-    <string name="invert">Invert Colours</string>
-    <string name="my_play_apps">My Play Apps</string>
+    <string name="rooted">Устройство имеет ROOT!</string> 
+    <string name="my_play_apps_sum">Открывает раздел с моими приложениями</string> 
+    <string name="choose_timeout_entries">Экран ожидания записей (минимум 2)</string>
+    <string name="invert">Инвертировать цвета</string>
+    <string name="my_play_apps">Мои Приложения</string>
 </resources>
