@@ -529,7 +529,7 @@
     <string name="hotspot_tile">WiFi Hotspot</string>
     <string name="to_be_toggled">Wybierz pozycje do przełączenia.</string>
     <string name="swipe_out_close">Przesuń, aby zamknąć</string>
-    <string name="obscure_back">Ciemne tło &amp; zwiń po dotknięciu na zewnątrz lub naciśnięciu przycisku.&gt;</string>
+    <string name="obscure_back">Ciemne tło &amp; zwiń po dotknięciu na zewnątrz lub naciśnięciu przycisku.</string>
     <string name="notif_led">Powiadomienia LED</string>
     <string name="notif_led_summary">Włączanie / wyłączanie powiadomień LED \\ n (zależne od producenta)</string>
     <string name="system_toggle_summary">Z zastrzeżeniem zgodności OS/producent</string>
