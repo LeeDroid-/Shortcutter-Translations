@@ -607,7 +607,7 @@
     <string name="samsung_note">Samsung kullanıcıları için önemli uyarı</string>
     <string name="battery_opt">Samsung kullanıcıları, ekran kilidi (uyku) modunun ardından telefonlarının donduğunu gözlemlemişlerdir.\nBu sorunu gidermek için, lütfen Shortcutter\'ı cihaz ayarlarındaki pil optimizasyonlarından hariç tutun.</string>
     <string name="trig_alpha">Tetik Saydamlığı.</string>
-    <string name="problem">Problemleriniz ve önerileriniz mi var\? \n Hemen e-posta atın :)</string>
+    <string name="problem">Bir sorun veya özellik isteğiniz mi var\? \n Önce bana e-posta atın :)</string>
     <string name="opacity">Saydamlık =</string>
     <string name="onehand">Tek El (Deneysel)</string>
     <string name="onehanded_summary">Ekranınızı sağ alt köşeye küçültür, tüm uygulamalar doğru şekilde ölçeklendirilmez</string>
@@ -726,18 +726,18 @@
     <string name="my_play_apps_sum">Doğrudan Play Store Uygulamalarım bölümünü açar</string>
     <string name="choose_timeout_entries">Ekran Zaman Aşımı Öğeleri (En az 2)</string>
     <string name="invert">Renkleri Ters Çevir</string>
-    <string name="edit">Edit</string>
-    <string name="notifs_off">Shortcutter notifications are disabled.  Click here to go to settings and re-enable them.</string>
-    <string name="click_anim">Click Animation</string>
-    <string name="backup_restore">Backup/Restore</string>
-    <string name="restore">Restore Settings</string>
-    <string name="backup">Backup Settings</string>
-    <string name="last_backup">Last backup:</string>
-    <string name="no_backup">No backup found at</string>
-    <string name="loc">Location =</string>
-    <string name="save_loc">Save Location</string>
-    <string name="export">Export</string>
-    <string name="no_storage_perms">No Storage Permissions</string>
-    <string name="store_perm_backup">Storage permissions required for backup &amp; restore.</string>
-    <string name="export_sum">Send your configuration file to Google Drive, DropBox or similar cloud storage to restore later</string>
+    <string name="edit">Düzenle</string>
+    <string name="notifs_off">Shortcutter bildirimleri devre dışı bırakıldı.  Ayarlar'a gidip yeniden etkinleştirmek için buraya tıklayın.</string>
+    <string name="click_anim">Tıklama Animasyonu</string>
+    <string name="backup_restore">Yedekle/Geri Yükle</string>
+    <string name="restore">Ayarları Geri Yükle</string>
+    <string name="backup">Ayarları Yedekle</string>
+    <string name="last_backup">Son yedek:</string>
+    <string name="no_backup">Yedek bulunamadı:</string>
+    <string name="loc">Konum =</string>
+    <string name="save_loc">Kayıt Konumu</string>
+    <string name="export">Dışa Aktar</string>
+    <string name="no_storage_perms">Depolama İzni Yok</string>
+    <string name="store_perm_backup">Yedekleme &amp; geri yükleme için depolama izni gerekli.</string>
+    <string name="export_sum">Daha sonra geri yüklemek için yapılandırma dosyanızı Google Drive'a, DropBox'a veya benzeri bir bulut depolama alanına gönderin</string>
 </resources>
