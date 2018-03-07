@@ -734,18 +734,18 @@
     <string name="my_play_apps_sum">Otwiera sekcję Moje Aplikacje w Sklepie Play</string>
     <string name="choose_timeout_entries">Wybierz Czas Wyłączenia Ekranu (2 Minimum)</string>
     <string name="invert">Odwrócone Kolory</string>
-    <string name="edit">Edit</string>
-    <string name="notifs_off">Shortcutter notifications are disabled.  Click here to go to settings and re-enable them.</string>
-    <string name="click_anim">Click Animation</string>
-    <string name="backup_restore">Backup/Restore</string>
-    <string name="restore">Restore Settings</string>
-    <string name="backup">Backup Settings</string>
-    <string name="last_backup">Last backup:</string>
-    <string name="no_backup">No backup found at</string>
-    <string name="loc">Location =</string>
-    <string name="save_loc">Save Location</string>
-    <string name="export">Export</string>
-    <string name="no_storage_perms">No Storage Permissions</string>
-    <string name="store_perm_backup">Storage permissions required for backup &amp; restore.</string>
-    <string name="export_sum">Send your configuration file to Google Drive, DropBox or similar cloud storage to restore later</string>
+    <string name="edit">Edytuj</string>
+    <string name="notifs_off">Powiadomienia Shortcutter są wyłączone. Kliknij tutaj, aby przejść do ustawień i ponownie je włączyć.</string>
+    <string name="click_anim">Kliknij Animację</string>
+    <string name="backup_restore">Kopia/Przywracanie</string>
+    <string name="restore">Ustawienia Przywracania</string>
+    <string name="backup">Ustawienia Kopii</string>
+    <string name="last_backup">Ostatnia Kopia:</string>
+    <string name="no_backup">Nie znaleziono kopii</string>
+    <string name="loc">Lokalizacja =</string>
+    <string name="save_loc">Zapisz Lokalizację</string>
+    <string name="export">Eksportuj</string>
+    <string name="no_storage_perms">Brak Uprawnień do Zapisu Na Karcie</string>
+    <string name="store_perm_backup">Wymagane uprawienia do zapisu na karcie dla kopii &amp; przywracania.</string>
+    <string name="export_sum">Wyślij plik konfiguracyjny na Dysk Google, Dropbox lub podobne miejsce w chmurze, aby je później przywrócić</string>
 </resources>
