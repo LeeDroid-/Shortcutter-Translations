@@ -738,12 +738,12 @@
     <string name="notifs_off">Powiadomienia Shortcutter są wyłączone. Kliknij tutaj, aby przejść do ustawień i ponownie je włączyć.</string>
     <string name="click_anim">Kliknij Animację</string>
     <string name="backup_restore">Kopia/Przywracanie</string>
-    <string name="restore">Ustawienia Przywracania</string>
-    <string name="backup">Ustawienia Kopii</string>
+    <string name="restore">Przywróć Ustawienia</string>
+    <string name="backup">Kopia Ustawień</string>
     <string name="last_backup">Ostatnia Kopia:</string>
     <string name="no_backup">Nie znaleziono kopii</string>
     <string name="loc">Lokalizacja =</string>
-    <string name="save_loc">Zapisz Lokalizację</string>
+    <string name="save_loc">Wybierz Lokalizację</string>
     <string name="export">Eksportuj</string>
     <string name="no_storage_perms">Brak Uprawnień do Zapisu Na Karcie</string>
     <string name="store_perm_backup">Wymagane uprawienia do zapisu na karcie dla kopii &amp; przywracania.</string>
