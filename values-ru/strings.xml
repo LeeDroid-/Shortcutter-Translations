@@ -733,23 +733,23 @@
     <string name="shape_texture">Значок формы/текстуры</string>
     <string name="offmode">Выкл. режим</string>
     <string name="show_icon">Иконки в Статусбаре</string>
-    <string name="rooted">Устройство имеет ROOT!</string> 
-    <string name="my_play_apps_sum">Открывает раздел с моими приложениями</string> 
+    <string name="rooted">Устройство имеет ROOT!</string>
+    <string name="my_play_apps_sum">Открывает раздел с моими приложениями</string>
     <string name="choose_timeout_entries">Экран ожидания записей (минимум 2)</string>
     <string name="invert">Инвертировать цвета</string>
     <string name="my_play_apps">Мои Приложения</string>
     <string name="edit">Правка</string>
     <string name="notifs_off">Shortcutter уведомления будут отключены.  Нажмите здесь, чтобы перейти в настройки и повторно включить их.</string>
     <string name="click_anim">Нажмите кнопку анимации</string>
-	<string name="backup_restore">Резервное копирование и восстановление</string> 
-	<string name="restore">Восстановить параметры</string>
-	<string name="backup">Параметры резервного копирования</string>
-	<string name="last_backup">Последнее резервное копирование:</string>
-	<string name="no_backup">Резервная копия не найдена</string> 
-	<string name="loc">Расположение =</string>
-	<string name="save_loc">Сохранение местоположения</string>
-	<string name="export">Экспорт</string>
-	<string name="no_storage_perms">Нет разрешения для хранения</string>    
+    <string name="backup_restore">Резервное копирование и восстановление</string>
+    <string name="restore">Восстановить параметры</string>
+    <string name="backup">Параметры резервного копирования</string>
+    <string name="last_backup">Последнее резервное копирование:</string>
+    <string name="no_backup">Резервная копия не найдена</string>
+    <string name="loc">Расположение =</string>
+    <string name="save_loc">Сохранение местоположения</string>
+    <string name="export">Экспорт</string>
+    <string name="no_storage_perms">Нет разрешения для хранения</string>
     <string name="store_perm_backup">Разрешение для Хранения, необходимые для резервного копирования &amp; восстановления.</string>
     <string name="export_sum">Отправить ваш конфигурационный файл на диск Google, DropBox или аналогичное облако для хранения и последующего восстановления?</string>
 </resources>

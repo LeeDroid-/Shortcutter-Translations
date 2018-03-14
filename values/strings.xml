@@ -681,7 +681,7 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv5.5.8 - v5.6.1 - Beta:
+        \n\nv5.5.8 - v5.6.2 - Beta:
         \n\u2022 Add Backup/Restore to file.
         \n\u2022 Add Edit button to quick reminders.
         \n\u2022 Check if notifications enabled for Shortcutter where required.
