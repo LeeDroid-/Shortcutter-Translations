@@ -719,25 +719,25 @@
     <string name="random_colour">随机颜色</string>
     <string name="performance_warn">添加过多瓷贴可能会导致性能问题</string>
     <string name="without_acc">无需 Shortcutter 辅助服务即可运行，叠加层将遮盖安全按钮。</string>
-    <string name="shape_texture">Icon Shape/Texture</string>
+    <string name="shape_texture">图标形状/纹理</string>
     <string name="offmode">Off Mode</string>
-    <string name="show_icon">StatusBar Icon</string>
-    <string name="my_play_apps">My Play Apps</string>
-    <string name="my_play_apps_sum">Directly opens the Play Store My Apps section</string>
-    <string name="choose_timeout_entries">Screen Timeout Entries (2 Minimum)</string>
-    <string name="invert">Invert Colours</string>
-    <string name="edit">Edit</string>
-    <string name="notifs_off">Shortcutter notifications are disabled.  Click here to go to settings and re-enable them.</string>
-    <string name="click_anim">Click Animation</string>
-    <string name="backup_restore">Backup/Restore</string>
-    <string name="restore">Restore Settings</string>
-    <string name="backup">Backup Settings</string>
-    <string name="last_backup">Last backup:</string>
-    <string name="no_backup">No backup found at:</string>
-    <string name="loc">Location =</string>
-    <string name="save_loc">Save Location</string>
-    <string name="export">Export</string>
-    <string name="no_storage_perms">No Storage Permissions</string>
-    <string name="store_perm_backup">Storage permissions required for backup &amp; restore.</string>
-    <string name="export_sum">Send your configuration file to Google Drive, DropBox or similar cloud storage to restore later</string>
+    <string name="show_icon">状态栏图标</string>
+    <string name="my_play_apps">我在 Play 上的 App</string>
+    <string name="my_play_apps_sum">直接打开 Play 商店的「我的应用」部分</string>
+    <string name="choose_timeout_entries">屏幕超时条目 (至少 2 条)</string>
+    <string name="invert">反色模式</string>
+    <string name="edit">编辑</string>
+    <string name="notifs_off">Shortcutter 通知已停用。 点击此处前往设置并重新启用。</string>
+    <string name="click_anim">点按动画</string>
+    <string name="backup_restore">备份/还原</string>
+    <string name="restore">还原设置</string>
+    <string name="backup">备份设置</string>
+    <string name="last_backup">上次备份:</string>
+    <string name="no_backup">未发现备份:</string>
+    <string name="loc">位置 =</string>
+    <string name="save_loc">保存位置</string>
+    <string name="export">导出</string>
+    <string name="no_storage_perms">没有存储权限</string>
+    <string name="store_perm_backup">需要存储权限才能进行备份 &amp; 还原操作。</string>
+    <string name="export_sum">将你的配置文件发送到 Google Drive、DropBox 或类似的云存储以便日后还原。</string>
 </resources>
