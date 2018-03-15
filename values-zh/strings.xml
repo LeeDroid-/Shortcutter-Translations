@@ -720,7 +720,7 @@
     <string name="performance_warn">添加过多瓷贴可能会导致性能问题</string>
     <string name="without_acc">无需 Shortcutter 辅助服务即可运行，叠加层将遮盖安全按钮。</string>
     <string name="shape_texture">图标形状/纹理</string>
-    <string name="offmode">Off Mode</string>
+    <string name="offmode">关闭模式</string>
     <string name="show_icon">状态栏图标</string>
     <string name="my_play_apps">我在 Play 上的 App</string>
     <string name="my_play_apps_sum">直接打开 Play 商店的「我的应用」部分</string>
