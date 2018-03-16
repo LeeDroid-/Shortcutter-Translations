@@ -73,7 +73,7 @@
     <string name="press_back">Naciśnij przycisk Wstecz, aby powrócić po włączeniu.</string>
     <string name="credits">Podziękowania</string>
     <string name="full_title">Shortcutter Quick Settings</string>
-    <string name="thanks_for_support">"  Dzięki za twoje wsparcie!  :)"</string>
+    <string name="thanks_for_support">"  Dzięki za wsparcie! :)"</string>
     <string name="premuim">Shortcutter Premium</string>
     <string name="confirm_disable_root">Za chwilę wyłączysz wszystkie funkcje administratora, spowoduje to usunięcie wszelkich płytek QS, które wymagają dostępu do roota.
 	    \n\nCzy chcesz kontynuować?</string>
@@ -159,7 +159,7 @@
     <string name="autobrightness_tile_title">Auto Jasność</string>
     <string name="brightnesspreset_summary">Przełącz kroki jasności
         \n(Zdefiniuj kroki w Ustawieniach Płytki)</string>
-    <string name="brightnesspreset_tile_title">Płytka Ustawienia Jasności</string>
+    <string name="brightnesspreset_tile_title">Ustawienia Jasności</string>
     <string name="camera_summary">Uruchamia domyślną aplikację aparatu</string>
     <string name="camera_tile_title">Aparat</string>
     <string name="haptic_summary">Przełącz Potwierdzenie Wibracją wł/wył</string>
@@ -172,8 +172,8 @@
     <string name="location_tile_title">Tryb Lokalizacji</string>
     <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">Wyświetla dostępną i całkowitą ilość RAM. Za pomocą skrótu przejdziesz do informacji o pamięci RAM</string>
-    <string name="reboot_summary">Opens an advanced (Root) power menu</string>
-    <string name="reboot_tile_title">Advanced Power Menu</string>
+    <string name="reboot_summary">Otwiera zaawansowane menu zasilania (root)</string>
+    <string name="reboot_tile_title">Zaawansowane Menu Zasilania</string>
     <string name="ringmode_tile_title">Tryb Dzwonka</string>
     <string name="ringmode_summary">Przełącz Tryb Dzwonka Dzwonek/Wibracja/Cichy</string>
     <string name="screenrecord_summary">Płytka która pozwala nagrywać wszystko, co jest na ekranie urządzenia</string>
@@ -290,7 +290,7 @@
     <string name="largest">Czcionka
 	    \nOlbrzymia</string>
     <string name="fontscale_sum">Przełącz rozmiar czcionki systemowej</string>
-    <string name="font_scale_title">Skalowanie czcionki</string>
+    <string name="font_scale_title">Skalowanie Czcionki</string>
     <string name="power_saver">Oszczędzanie Energii</string>
     <string name="power_save_summary">Przełącz Tryb Oszczędzania Energii</string>
     <string name="prem_only_message">Ta funkcja działa tylko na wersji Premium Shortcutter.
@@ -636,7 +636,7 @@
     <string name="disable_screen_off">Wyłącz Wł/Wył-Ekran</string>
     <string name="unknown_sources">Zezwalaj na Nieznane Źródła</string>
     <string name="unknownsource_tile_summary">Zezwalaj na nieznane źródła / Instalowanie aplikacji innych niż ze sklepu</string>
-    <string name="cast">Przesyłanie ekranu</string>
+    <string name="cast">Przesyłanie Ekranu</string>
     <string name="cast_summary">Uruchamia listę urządzeń do Przesyłania ekranu</string>
     <string name="horizontal_scale">Skalowanie Poziome</string>
     <string name="vertical_scale">Skalowanie Pionowe</string>
