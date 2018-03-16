@@ -447,7 +447,7 @@
     <string name="how_it_works1">Shortcutter offers several different options to access an array of shortcuts, settings &amp; services in an instant.</string>
     <string name="how_it_works2">\u2022 Via your Quick Settings Pull-Down</string>
     <string name="how_it_works3">\u2022 Via the fully customisable, always on top, Shortcutter Swipe out Sidebar.</string>
-    <string name="how_it_works4">\u2022 Through Exposing toggles to your app drawer &amp; home screen, which also enables mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!</string>
+    <string name="how_it_works4">\u2022 Through Exposing toggles or shortcuts to your app drawer &amp; home screen, which also enables mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!</string>
     <string name="attention">Please pay attention to the How To Add Tiles Guide in tab 2.</string>
     <string name="config_serv">Settings</string>
     <string name="screenshot_root">Use Root Screenshot Method</string>
@@ -681,7 +681,33 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv5.5.8 - v5.6.2 - Beta:
+        \n\nv5.6.9:
+        \n\u2022 Fix Quick Calendar Icon.
+        \n\u2022 Update translations.
+        \n\nv5.6.6 - v5.6.8:
+        \n\u2022 New Service/Toggle: Quick Calendar.
+        \n\u2022 Only show "Suspending overlays" 3 times.
+        \n\u2022 Update Translations.
+        \n\u2022 Add additional logic to toggles for root users.
+        \n\u2022 Improved Oreo dynamic &amp; pinned shortcut refresh logic.
+        \n\u2022 Do not show toast in dynamic shortcuts.
+        \n\u2022 Add custom colour option to dynamic shortcuts.
+        \n\nv5.6.5:
+        \n\u2022 Fix crash in restart services.
+        \n\u2022 Apply state icon tint to dynamic shortcuts.
+        \n\u2022 Remove redundant dynamic shortcuts.
+        \n\u2022 Improve brightness preset icon.
+        \n\u2022 Fix shortcut crash on Android 7.1.
+        \n\u2022 Add 10 custom tiles to launcher shortcuts selection (Oreo +)
+        \n\u2023 assign activities, web links, apps &amp; shell commands.
+        \n\nv5.6.4:
+        \n\u2022 Fix screen filter incorrectly activating after Screenshot.
+        \n\u2022 Fix advanced power menu exposed icon (Root).
+        \n\u2022 New Shortcuts for API 25 (Android 7.1) and above!
+        \n\u2022 - All in app toggles available.
+        \n\u2022 Improved toggle toast message when using shortcuts.
+        \n\u2022 Fix accessibility toggle auto re-enabling when disabled.
+        \n\nv5.5.8 - v5.6.3:
         \n\u2022 Add Backup/Restore to file.
         \n\u2022 Add Edit button to quick reminders.
         \n\u2022 Check if notifications enabled for Shortcutter where required.
@@ -689,7 +715,7 @@
         \n\u2022 Make sidebar icon animations optional (Icon Designer).
         \n\u2022 Improve suspending overlays during secure activities.
         \n\u2022 Welcome screen updates.
-        \n\u2022 Icon designer bug fixes.
+        \n\u2022 Icon designer updates.
         \n\u2022 Bug fixes.
         \n\nv5.5.7:
         \n\u2022 Do not remove tiles that require settings secure access.
@@ -924,4 +950,6 @@
     <string name="no_storage_perms">No Storage Permissions</string>
     <string name="store_perm_backup">Storage permissions required for backup &amp; restore.</string>
     <string name="export_sum">Send your configuration file to Google Drive, DropBox or similar cloud storage to restore later</string>
+    <string name="q_calendar">Quick Calendar</string>
+    <string name="q_calendar_sum">A Calendar popup with add and view options linked to your system calendar.</string>
 </resources>

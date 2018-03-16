@@ -740,4 +740,6 @@
     <string name="no_storage_perms">没有存储权限</string>
     <string name="store_perm_backup">需要存储权限才能进行备份 &amp; 还原操作。</string>
     <string name="export_sum">将你的配置文件发送到 Google Drive、DropBox 或类似的云存储以便日后还原。</string>
+    <string name="q_calendar">Quick Calendar</string>
+    <string name="q_calendar_sum">A Calendar popup with add and view options linked to your system calendar.</string>
 </resources>

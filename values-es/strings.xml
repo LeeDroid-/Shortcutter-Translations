@@ -741,4 +741,6 @@
     <string name="no_storage_perms">No Storage Permissions</string>
     <string name="store_perm_backup">Storage permissions required for backup &amp; restore.</string>
     <string name="export_sum">Send your configuration file to Google Drive, DropBox or similar cloud storage to restore later</string>
+    <string name="q_calendar">Quick Calendar</string>
+    <string name="q_calendar_sum">A Calendar popup with add and view options linked to your system calendar.</string>
 </resources>

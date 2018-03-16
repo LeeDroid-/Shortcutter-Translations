@@ -748,4 +748,6 @@
     <string name="no_storage_perms">Brak Uprawnień do Zapisu Na Karcie</string>
     <string name="store_perm_backup">Wymagane uprawienia do zapisu na karcie dla kopii &amp; przywracania.</string>
     <string name="export_sum">Wyślij ustawienia na Dysk Google, Dropbox lub inne miejsce w chmurze, aby je później przywrócić</string>
+    <string name="q_calendar">Quick Calendar</string>
+    <string name="q_calendar_sum">A Calendar popup with add and view options linked to your system calendar.</string>
 </resources>
