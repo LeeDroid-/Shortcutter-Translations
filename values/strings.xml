@@ -435,7 +435,7 @@
     <string name="tb_columns_title">Toolbox Columns</string>
     <string name="tb_columns_summary">Current = %s columns</string>
     <string name="sb_columns_title">Sidebar Columns</string>
-    <string name="design_settings">Theme &amp; Behaviour</string>
+    <string name="design_settings">Behaviour &amp; Trigger Settings</string>
     <string name="leedroid" translatable="false">www.LeeDrOiD.co.uk</string>
     <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
     <string name="corners_title">Rounded Corners</string>
@@ -528,7 +528,7 @@
     <string name="install_shortcut">Install\nShortcut</string>
     <string name="select_shortcut">Select A Shortcut To Install</string>
     <string name="header">Remove Header</string>
-    <string name="review">Don\'t forget to leave a rocking review in the Play Store!</string>
+    <string name="review">Don\'t forget to leave review in the Play Store!\n\nAny additional issues or feedback, please drop me an email :)</string>
     <string name="enjoying">Enjoying Shortcutter?</string>
     <string name="counter">Counter\n+1</string>
     <string name="expose_activity_summary">Create additional icons to access these toggle\'s from your home screen or app drawer.\n\nThis also enables mapping toggles to other app\'s such as HTC Edge Sense, Second Displays &amp; Tasker.</string>
@@ -552,7 +552,7 @@
     <string name="cust_app_root">Assign Applications, Activities, Shortcuts, Web Links &amp; Shell Commands.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
     <string name="cust_app_pref">Assign Applications, Activities, Shortcuts &amp; Web Links.</string>
     <string name="cust_app_pref_root">Assign Applications, Activities, Shortcuts, Web Links &amp; Shell Commands.</string>
-    <string name="cust_sb">Customise the look, feel &amp; behaviour of the Sidebar or ToolBox</string>
+    <string name="cust_sb">Customise the behaviour of the Sidebar/Toolbox &amp; its trigger.</string>
     <string name="behaviour">Change the behaviour of Tiles</string>
     <string name="perms_now">These permissions will be requested when enabling services that require them, they do not need to be explicitly granted.</string>
     <string name="forceEnglish">Force English</string>
@@ -569,7 +569,7 @@
     <string name="admin_summary">Usage: Screen Lock\nOnce this permission is enabled, you will need to disable it to uninstall the app.</string>
     <string name="tb_tile_alpha">Off Tile Transparency</string>
     <string name="hide_tb_labels">Hide Text Labels</string>
-    <string name="icon_picker">SideBar/ToolBox Designer</string>
+    <string name="icon_picker">SideBar/ToolBox UI Designer</string>
     <string name="manage_tiles">Manage tiles</string>
     <string name="enable_tiles">Enable/Disable Quick Settings Pull-Down Tiles.</string>
     <string name="qs_tiles">Pull-Down</string>
@@ -681,9 +681,21 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
+        \n\nvV5.7.1 - 5.7.2 - Beta:
+        \n\u2022 NEW Shortcutter Widget &amp; configuration activity!
+        \n\nv5.7.0:
+        \n\u2022 Restart Screen Filter &amp; Round Corners when toggling options.
+        \n\u2022 Enable voice input &amp; rearrange buttons in quick reminder.
+        \n\u2022 Add AirPlane Mode tile (ROOT Only).
+        \n\u2022 Add Storage Usage Tile (Available internal memory).
+        \n\u2022 Fix Crash in RestartServices.
+        \n\u2022 Performance enhancements.
         \n\nv5.6.9:
         \n\u2022 Fix Quick Calendar Icon.
         \n\u2022 Update translations.
+        \n\u2022 Re-arrange SideBar designer options.
+        \n\u2022 Welcome screen updates.
+        \n\u2022 Fix overlay blocking perms on initial setup.
         \n\nv5.6.6 - v5.6.8:
         \n\u2022 New Service/Toggle: Quick Calendar.
         \n\u2022 Only show "Suspending overlays" 3 times.
@@ -952,4 +964,14 @@
     <string name="export_sum">Send your configuration file to Google Drive, DropBox or similar cloud storage to restore later</string>
     <string name="q_calendar">Quick Calendar</string>
     <string name="q_calendar_sum">A Calendar popup with add and view options linked to your system calendar.</string>
+    <string name="overlay_serv">Overlay Services</string>
+    <string name="overlay_serv_sum">These services use system overlays, they may interfere with some applications and permissions screens.\n\nThey are in no way malicious, I have done all i can to auto disable them when secure activities are present.</string>
+    <string name="icon_picker_sum">Change the look of the sidebar &amp; its icons.</string>
+    <string name="airplane_mode">Airplane Mode</string>
+    <string name="widget">Shortcutter Widget</string>
+    <string name="storage_tile">Device Storage</string>
+    <string name="storage_sum">Shows available internal storage (Excludes system reserved)</string>
+    <string name="shortcutter">Shortcutter</string>
+    <string name="edit_widget">Edit Widget</string>
+    <string name="bar_colour">Bar Colour</string>
 </resources>

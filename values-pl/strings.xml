@@ -750,4 +750,13 @@
     <string name="export_sum">Wyślij ustawienia na Dysk Google, Dropbox lub inne miejsce w chmurze, aby je później przywrócić</string>
     <string name="q_calendar">Szybki Kalendarz</string>
     <string name="q_calendar_sum">Wyskakujące okno kalendarza z opcjami dodawania i wyświetlania powiązanymi z kalendarzem systemu.</string>
+    <string name="overlay_serv">Overlay Services</string>
+    <string name="overlay_serv_sum">These services use system overlays, they may interfere with some applications and permissions screens.</string>
+    <string name="icon_picker_sum">Change the look of the sidebar & its icons.</string>
+    <string name="airplane_mode">Airplane Mode</string>
+    <string name="widget">Shortcutter Widget</string>
+    <string name="storage_tile">Device Storage</string>
+    <string name="storage_sum">Shows available internal storage (Excludes system reserved)</string>
+    <string name="edit_widget">Edit Widget</string>
+    <string name="bar_colour">Bar Colour</string>
 </resources>

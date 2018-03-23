@@ -197,7 +197,7 @@
     <string name="deskmode">Часы</string>
     <string name="detect_touch">Нажатие и Прокрутка Тригеров</string>
     <string name="detected">Обнаружено</string>
-    <string name="dev_loc_mode">Местоположение: %1$s</string>
+    <string name="dev_loc_mode">Местоположение: &#160;</string>
     <string name="device_only">Только устройство</string>
     <string name="dewp">Точка росы: </string>
     <string name="dice_desc">Генерация случайного номера 
@@ -754,4 +754,13 @@
     <string name="export_sum">Отправить ваш конфигурационный файл на диск Google, DropBox или аналогичное облако для хранения и последующего восстановления?</string>
     <string name="q_calendar">Quick Calendar</string>
     <string name="q_calendar_sum">A Calendar popup with add and view options linked to your system calendar.</string>
+    <string name="overlay_serv">Overlay Services</string>
+    <string name="overlay_serv_sum">These services use system overlays, they may interfere with some applications and permissions screens.</string>
+    <string name="icon_picker_sum">Change the look of the sidebar & its icons.</string>
+    <string name="airplane_mode">Airplane Mode</string>
+    <string name="widget">Shortcutter Widget</string>
+    <string name="storage_tile">Device Storage</string>
+    <string name="storage_sum">Shows available internal storage (Excludes system reserved)</string>
+    <string name="edit_widget">Edit Widget</string>
+    <string name="bar_colour">Bar Colour</string>
 </resources>

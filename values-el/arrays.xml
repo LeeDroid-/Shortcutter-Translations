@@ -102,4 +102,46 @@
         <item>1</item>
         <item>2</item>
     </string-array>
+    <array name="mdcolor_500">
+        <item name="red_500" type="color">#FFe51c23</item>
+        <item name="pink_500" type="color">#FFe91e63</item>
+        <item name="purple_500" type="color">#FF9c27b0</item>
+        <item name="deep_purple_500" type="color">#FF673ab7</item>
+        <item name="indigo_500" type="color">#FF3f51b5</item>
+        <item name="blue_500" type="color">#FF5677fc</item>
+        <item name="light_blue_500" type="color">#FF03a9f4</item>
+        <item name="cyan_500" type="color">#FF00bcd4</item>
+        <item name="teal_500" type="color">#FF009688</item>
+        <item name="green_500" type="color">#FF259b24</item>
+        <item name="light_green_500" type="color">#FF8bc34a</item>
+        <item name="lime_500" type="color">#FFcddc39</item>
+        <item name="yellow_500" type="color">#FFffeb3b</item>
+        <item name="orange_500" type="color">#FFff9800</item>
+        <item name="deep_orange_500" type="color">#FFff5722</item>
+        <item name="brown_500" type="color">#FF795548</item>
+        <item name="grey_500" type="color">#FF9e9e9e</item>
+        <item name="blue_grey_500" type="color">#FF607d8b</item>
+    </array>
+    <string-array name="timeout_mode_entries">
+        <item>15s</item>
+        <item>30s</item>
+        <item>45s</item>
+        <item>1m</item>
+        <item>2m</item>
+        <item>5m</item>
+        <item>10m</item>
+        <item>30m</item>
+        <item>60m</item>
+    </string-array>
+    <string-array name="timeout_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
 </resources>

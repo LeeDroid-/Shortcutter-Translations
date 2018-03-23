@@ -742,4 +742,13 @@
     <string name="export_sum">将你的配置文件发送到 Google Drive、DropBox 或类似的云存储以便日后还原。</string>
     <string name="q_calendar">Quick Calendar</string>
     <string name="q_calendar_sum">A Calendar popup with add and view options linked to your system calendar.</string>
+    <string name="overlay_serv">Overlay Services</string>
+    <string name="overlay_serv_sum">These services use system overlays, they may interfere with some applications and permissions screens.  They are in no way malicious, I have done all i can to auto disable them when secure activities are present.</string>
+    <string name="icon_picker_sum">Change the look of the sidebar & its icons.</string>
+    <string name="airplane_mode">Airplane Mode</string>
+    <string name="widget">Shortcutter Widget</string>
+    <string name="storage_tile">Device Storage</string>
+    <string name="storage_sum">Shows available internal storage (Excludes system reserved)</string>
+    <string name="edit_widget">Edit Widget</string>
+    <string name="bar_colour">Edit Widget</string>
 </resources>
