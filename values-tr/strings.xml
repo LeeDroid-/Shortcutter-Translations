@@ -740,6 +740,6 @@
     <string name="no_storage_perms">Depolama İzni Yok</string>
     <string name="store_perm_backup">Yedekleme &amp; geri yükleme için depolama izni gerekli.</string>
     <string name="export_sum">Daha sonra geri yüklemek için yapılandırma dosyanızı Google Drive'a, DropBox'a veya benzeri bir bulut depolama alanına gönderin</string>
-    <string name="q_calendar">Quick Calendar</string>
-    <string name="q_calendar_sum">A Calendar popup with add and view options linked to your system calendar.</string>
+    <string name="q_calendar">Hızlı Takvim</string>
+    <string name="q_calendar_sum">Sistem takviminize bağlı ekleme ve görüntüleme seçenekleriyle bir açılır takvim.</string>
 </resources>
