@@ -752,8 +752,8 @@
     <string name="no_storage_perms">Нет разрешения для хранения</string>
     <string name="store_perm_backup">Разрешение для Хранения, необходимые для резервного копирования &amp; восстановления.</string>
     <string name="export_sum">Отправить ваш конфигурационный файл на диск Google, DropBox или аналогичное облако для хранения и последующего восстановления?</string>
-    <string name="q_calendar">Quick Calendar</string>
-    <string name="q_calendar_sum">A Calendar popup with add and view options linked to your system calendar.</string>
+    <string name="q_calendar">Календарь</string>
+    <string name="q_calendar_sum">Всплывающее окно Календаря с параметрами добавления и просмотра, связанными с вашим системным календарем.</string>
     <string name="overlay_serv">Overlay Services</string>
     <string name="overlay_serv_sum">These services use system overlays, they may interfere with some applications and permissions screens.</string>
     <string name="icon_picker_sum">Change the look of the sidebar & its icons.</string>
