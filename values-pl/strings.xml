@@ -559,7 +559,7 @@
     <string name="admin_summary">Użycie: Blokada Ekranu</string>
     <string name="tb_tile_alpha">Wyłącz Przeźroczystość Płytek</string>
     <string name="hide_tb_labels">Ukryj Etykiety Tekstowe</string>
-    <string name="icon_picker">Projektowanie Ikon</string>
+    <string name="icon_picker">Wygląd Paska i Ikon</string>
     <string name="manage_tiles">Menadżer Płytek</string>
     <string name="enable_tiles">Włącz/Wyłącz Płytki Szybkich Ustawień</string>
     <string name="qs_tiles">Płytki QS</string>
@@ -750,13 +750,13 @@
     <string name="export_sum">Wyślij ustawienia na Dysk Google, Dropbox lub inne miejsce w chmurze, aby je później przywrócić</string>
     <string name="q_calendar">Szybki Kalendarz</string>
     <string name="q_calendar_sum">Wyskakujące okno kalendarza z opcjami dodawania i wyświetlania powiązanymi z kalendarzem systemu.</string>
-    <string name="overlay_serv">Overlay Services</string>
-    <string name="overlay_serv_sum">These services use system overlays, they may interfere with some applications and permissions screens.</string>
-    <string name="icon_picker_sum">Change the look of the sidebar & its icons.</string>
-    <string name="airplane_mode">Airplane Mode</string>
-    <string name="widget">Shortcutter Widget</string>
-    <string name="storage_tile">Device Storage</string>
-    <string name="storage_sum">Shows available internal storage (Excludes system reserved)</string>
-    <string name="edit_widget">Edit Widget</string>
-    <string name="bar_colour">Bar Colour</string>
+    <string name="overlay_serv">Nakładka Usug</string>
+    <string name="overlay_serv_sum">Te usługi korzystają z nakładek systemowych, mogą zakłócać działanie niektórych aplikacji i uprawnień ekranu.</string>
+    <string name="icon_picker_sum">Zmień wygląd paska bocznego & ikon.</string>
+    <string name="airplane_mode">Tryb Samolotowy</string>
+    <string name="widget">Widżety Shortcutter</string>
+    <string name="storage_tile">Pamięć Urządzenia</string>
+    <string name="storage_sum">Pokazuje dostępną pamięć wewnętrzną (z wyjątkiem zastrzeżonego systemu)</string>
+    <string name="edit_widget">Edytuj Widget</string>
+    <string name="bar_colour">Kolor Paska</string>
 </resources>
