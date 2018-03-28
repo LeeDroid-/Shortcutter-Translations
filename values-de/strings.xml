@@ -433,10 +433,6 @@
     <string name="corners_scale_summary">Stellt den Bildschirmeckenradius ein</string>
     <string name="corner_colour">Wähle Eckenfarbe</string>
     <string name="how_it_works">Wie es funktioniert</string>
-    <string name="how_it_works1">Shortcutter bietet mehrere unterschiedliche Optionen an, bis zu 85 Shortcuts anzulegen, Einstellungen &amp; Dienste.</string>
-    <string name="how_it_works2">\u2022 Über dein QS Pull-Down Menü</string>
-    <string name="how_it_works3">\u2022 Über die ausklappbare Sidebar oder den schwebenden Werkzeugkasten</string>
-    <string name="how_it_works4">\u2022 Über Schalter in deiner App Übersicht &amp; Startbildschirm, welcher auch in HTC Edge Sense, Zweiter Bildschirm und Tasker zugeordnet wird &amp; vieles mehr!</string>
     <string name="attention">Bitte beachte die Anleitung im Tabulator 2, \nwie man Kacheln hinzufügt.</string>
     <string name="config_serv">Einst</string>
     <string name="screenshot_root">Benutze Root Methode für Bildschirmfoto</string>
@@ -753,5 +749,25 @@
     <string name="storage_sum">Shows available internal storage (Excludes system reserved)</string>
     <string name="edit_widget">Edit Widget</string>
     <string name="bar_colour">Bar Colour</string>
-    <string name="icon_picker_sum">Change the look of the sidebar & its icons.</string>
+    <string name="icon_picker_sum">Change the look of the sidebar &amp; its icons.</string>
+    <string name="how_it_works1">Shortcutter offers several different options to access an array of shortcuts, settings &amp; services in an instant.</string>
+    <string name="how_it_works2"><u> Via your Quick Settings Pull-Down</u>
+        \n
+        \n\u2022 Add up to 94 additional Quick Settings Tiles!
+        \n\u2022 Access shortcuts, toggles, tools &amp; services from your pull-down panel.</string>
+    <string name="how_it_works3"><u>The Shortcutter Sidebar/Floating Toolbox</u>
+        \n
+        \n\u2022 Always on top and accessible.
+        \n\u2022 Choose between a SideBar or a Floating Toolbox.
+        \n\u2022 Open with a swipe or touch of the trigger.
+        \n\u2022 Fully customisable layout, position &amp; design.
+        \n\u2022 Up to 105 different shortcuts, toggles, tools &amp; services!</string>
+    <string name="how_it_works4"><u>Launcher Shortcuts</u>
+        \n
+        \n\u2022 Expose toggles your app drawer &amp; home screen, enabling mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!
+        \n\u2022 Add up to 32  home screen shortcuts.</string>
+    <string name="how_it_works4oreo"><u>Launcher Shortcuts</u>
+        \n\n\u2022 Expose toggles your app drawer, enabling mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!
+        \n\u2022 Add up to 85 dynamic home screen shortcuts!.</string>
+    <string name="shortcutter">Shortcutter Widget (Beta)</string>
 </resources>
