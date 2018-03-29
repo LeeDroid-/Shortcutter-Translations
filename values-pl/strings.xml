@@ -433,8 +433,8 @@
     <string name="corners__scale_set">Skalowanie Narożników = %1$d%%</string>
     <string name="corners_scale_summary">Ustaw promień naroża ekranu</string>
     <string name="corner_colour">Wybierz Kolor Rogów</string>
-    <string name="how_it_works">Jak to działa</string>
-    <string name="attention">Proszę zwrócić uwagę jak dodać płytki w instrukcji w zakładce 2.</string>
+    <string name="how_it_works">Opis Aplikacji</string>
+    <string name="attention">Proszę zwrócić uwagę jak dodać płytki - instrukcja w aplikacji w zakładce Płytki QS.</string>
     <string name="config_serv">Ustawienia</string>
     <string name="screenshot_root">Użyj Metody z Rootem do Zrzutów Ekranu</string>
     <string name="screenshot_root_summary">Tworzy zrzut ekranu przy użyciu systemu</string>
@@ -482,7 +482,7 @@
     <string name="nightlight_summary">Wyświetla zawsze na wyświetlaczu w nocny zegar, a także przycisk, aby szybko przełączać się na Tryb Zegara Biurkowego</string>
     <string name="deskmode">Tryb\nZegara Nocnego</string>
     <string name="lightmode">Tryb\nLampki Nocnej</string>
-    <string name="expand_collapse">Toolbox\nExpander</string>
+    <string name="expand_collapse">Toolbox Expander</string>
     <string name="expose_toggler">Pokaż Ikonę \"Toolbox Expander\", aby otworzyć lub zamknąć Toolbox lub Pasek Boczny, mapuj do Edge Sense i dużo więcej!</string>
     <string name="permissions">Uprawnienia Aplikacji</string>
     <string name="settings_access">Zapis Ustawień Systemu</string>
@@ -544,7 +544,7 @@
     <string name="forceEnglish">Wymuś Język Angielski</string>
     <string name="force_eng_summary">Uruchom aplikację w Jezyku Angielskim</string>
     <string name="xiaomi">Twoje urządzenie wymaga, aby aplikacja uzyskała uprawnienia do automatycznego uruchamiania usługi Shortcutter w tle, inaczej usługi zostaną zamknięte, jeśli nie jest ona włączona. \n\nProsimy kliknąć pozycję Uruchom &amp; włączyć automatyczne uruchamianie Shortcutter.</string>
-    <string name="bat_opt"><![CDATA[Shortcutter  zawiera kilka usług w tle, w niektórych przypadkach Android może zabić te usługi, gdy urządzenie przechodzi w głęboki sen, aby zignorować ten problem, zaleca się wyłączenie Optymalizacji akumulatora za pomocą skrótu za pomocą opcji Ustawienia> Zasilanie. \n\nMam nadzieję, że lubisz aplikację!]]></string>
+    <string name="bat_opt"><![CDATA[Shortcutter  zawiera kilka usług w tle, w niektórych przypadkach Android może zabić te usługi, gdy urządzenie przechodzi w głęboki sen, aby zignorować ten problem, zaleca się wyłączenie Optymalizacji akumulatora za pomocą skrótu za pomocą opcji Ustawienia> Zasilanie. \n\nMam nadzieję, że polubisz aplikację!]]></string>
 
 
     <string name="failed_window_add">Nie udało się dodać okna, otwórz aplikację i upewnij się, że przyznano uprawnienia nakładki ekranu</string>
