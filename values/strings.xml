@@ -696,13 +696,26 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv5.7.4:
+        \n\nv5.7.8:
+        \n\u2022 Fix stateless tint toggle icon.
+        \n\u2022 Fix crash when setting filter auto start/stop with 12 hour time format.
+        \n\nv5.7.7:
+        \n\u2022 Fix QS Tile states in some Active Tiles.
+        \n\u2022 Translation updates.
+        \n\u2022 Stateless Tiles - Choose default active/inactive colour state.
+        \n\u2022 Night Light/Desk Clock - move to avoid screen burn.
+        \n\u2022 Improve quick reminders:
+        \n\u2022 - Randomise highlight colours.
+        \n\u2022 - Fix existing reminders being replaced.
+        \n\u2022 - Fix editing reminders when multiple reminders exist.
+        \n\nv5.7.6:
         \n\u2022 Improve "How It Works" screens.
         \n\u2022 Re-design sidebar trigger (Cleaner scaling).
         \n\u2022 Improve Screen Filter auto start/stop.
         \n\u2022 Additional launcher shortcuts.
+        \n\u2022 Fix buttons in time picker dialog.
+        \n\u2022 Fix widget crash on Android 6 &amp; 7.
         \n\u2022 UI tweaks.
-        \n\u2022 Bug fixes.
         \n\nv5.7.3:
         \n\u2022 NEW Shortcutter Widget &amp; configuration activity - BETA.
         \n\u2022 Install shortcut &amp; widget item selection now gets tile title instead of label.
@@ -1000,4 +1013,6 @@
     <string name="shortcutter">Shortcutter Widget (Beta)</string>
     <string name="edit_widget">Edit Widget</string>
     <string name="bar_colour">Bar Colour</string>
+    <string name="active_sum">Highlight tiles that have no active/inactive colour state as active (A reboot may be required).</string>
+    <string name="active_state_title">Highlight stateless tiles</string>
 </resources>

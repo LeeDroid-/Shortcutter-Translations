@@ -775,4 +775,6 @@
         \n\n\u2022 Eksponuje przełączniki w szufladzie aplikacji, umożliwiając mapowanie do HTC Edge Sense, Drugi Wyświetlacz, Taskera &amp; wiele więcej!
         \n\u2022 Dodaj do 85 dynamicznych skrótów na ekranie głównym!.</string>
     <string name="shortcutter">Widżety Shortcutter (Beta)</string>
+    <string name="active_sum">Highlight tiles that have no active/inactive state as active.</string>
+    <string name="active_state_title">Highlight stateless tiles</string>
 </resources>

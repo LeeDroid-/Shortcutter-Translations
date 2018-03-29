@@ -768,4 +768,6 @@
         \n\n\u2022 Expose toggles your app drawer, enabling mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!
         \n\u2022 Add up to 85 dynamic home screen shortcuts!.</string>
     <string name="shortcutter">Shortcutter Widget (Beta)</string>
+    <string name="active_sum">Highlight tiles that have no active/inactive state as active.</string>
+    <string name="active_state_title">Highlight stateless tiles</string>
 </resources>
