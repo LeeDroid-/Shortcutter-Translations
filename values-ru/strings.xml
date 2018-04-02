@@ -750,15 +750,15 @@
     <string name="export_sum">Отправить ваш конфигурационный файл на диск Google, DropBox или аналогичное облако для хранения и последующего восстановления?</string>
     <string name="q_calendar">Календарь</string>
     <string name="q_calendar_sum">Всплывающее окно Календаря с параметрами добавления и просмотра, связанными с вашим системным календарем.</string>
-    <string name="overlay_serv">Overlay Services</string>
-    <string name="overlay_serv_sum">These services use system overlays, they may interfere with some applications and permissions screens.</string>
-    <string name="icon_picker_sum">Change the look of the sidebar &amp; its icons.</string>
-    <string name="airplane_mode">Airplane Mode</string>
-    <string name="widget">Shortcutter Widget</string>
-    <string name="storage_tile">Device Storage</string>
-    <string name="storage_sum">Shows available internal storage (Excludes system reserved)</string>
-    <string name="edit_widget">Edit Widget</string>
-    <string name="bar_colour">Bar Colour</string>
+    <string name="overlay_serv">Служба Наложения</string> 
+    <string name="overlay_serv_sum">Эта служба используют системный оверлей, они могут вмешиваться в некоторые приложения и разрешения экранов.</string>
+    <string name="icon_picker_sum">Изменить вид боковой панели и его иконки.</string> 
+    <string name="airplane_mode">Режим полета</string>
+    <string name="widget">Виджет Shortcutter</string> 
+    <string name="storage_tile">Устройство хранения</string>
+    <string name="storage_sum">Показывает доступную внутреннюю память (исключая систему)</string> 
+    <string name="edit_widget">Редактировать виджет</string>
+    <string name="bar_colour">Цвет Бара</string>
     <string name="how_it_works1">Shortcutter offers several different options to access an array of shortcuts, settings &amp; services in an instant.</string>
     <string name="how_it_works2"><u> Via your Quick Settings Pull-Down</u>
         \n
