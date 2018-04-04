@@ -777,4 +777,7 @@
     <string name="shortcutter">Widżety Shortcutter (Beta)</string>
     <string name="active_sum">Podświetl płytki, które nie mają aktywnego/nieaktywnego stanu jako aktywne.</string>
     <string name="active_state_title">Podświetl nieaktywne płytki</string>
+    <string name="experimental_warn">This is an experimental setting, if any negative effects are seen, please toggle this switch back to its previous state.</string>
+    <string name="floating_calculator">Floating Calculator</string>
+    <string name="floating_calc_sum">A simple, always on top floating calculator</string>
 </resources>

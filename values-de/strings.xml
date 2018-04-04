@@ -772,4 +772,7 @@
     <string name="shortcutter">Shortcutter Widget (Beta)</string>
     <string name="active_sum">Highlight tiles that have no active/inactive state as active.</string>
     <string name="active_state_title">Highlight stateless tiles</string>
+    <string name="experimental_warn">This is an experimental setting, if any negative effects are seen, please toggle this switch back to its previous state.</string>
+    <string name="floating_calculator">Floating Calculator</string>
+    <string name="floating_calc_sum">A simple, always on top floating calculator</string>
 </resources>

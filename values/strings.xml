@@ -165,7 +165,7 @@
     <string name="haptic_summary">Toggle Haptic Feeback on/off</string>
     <string name="headsup_summary">Toggle Heads Up notifications</string>
     <string name="headsup">Heads Up</string>
-    <string name="immersive_summary">Hide the status &amp; navigation bars</string>
+    <string name="immersive_summary">Hide the status &amp; navigation bars\n(Manufacturer/OS support dependant)</string>
     <string name="immersive_tile_title">Immersive
         \nMode</string>
     <string name="location_summary">Toggle location mode Off/GPS/Battery Saving/Hight Accuracy</string>
@@ -696,9 +696,24 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
+        \n\nv5.8.0:
+        \n\u2022 NEW Shortcutter simple floating calculator.
+        \n\u2022 Bug Fixes.
+        \n\nv5.7.9:
+        \n\u2022 Save &amp; restore quick reminders after reboot.
+        \n\u2022 Clean-up sidebar left trigger.
+        \n\u2022 Force refresh all tiles when changing stateless tile state.
+        \n\u2022 Set all information tiles to Active state.
+        \n\u2022 Translation updates.
+        \n\u2022 Adjust custom app icon tile scaling (no cropping).
+        \n\u2022 SideBar vertical position now independent of trigger.
+        \n\u2022 Add warning when toggling experimental features.
+        \n\u2022 Bug Fixes.
         \n\nv5.7.8:
         \n\u2022 Fix stateless tint toggle icon.
         \n\u2022 Fix crash when setting filter auto start/stop with 12 hour time format.
+        \n\u2022 Fix crash in quick reminder on some devices.
+        \n\u2022 Make random colour in Quick Reminder optional.
         \n\nv5.7.7:
         \n\u2022 Fix QS Tile states in some Active Tiles.
         \n\u2022 Translation updates.
@@ -1015,4 +1030,7 @@
     <string name="bar_colour">Bar Colour</string>
     <string name="active_sum">Highlight tiles that have no active/inactive colour state as active (A reboot may be required).</string>
     <string name="active_state_title">Highlight stateless tiles</string>
+    <string name="experimental_warn">This is an experimental setting, if any negative effects are seen, please toggle this switch back to its previous state.</string>
+    <string name="floating_calculator">Floating Calculator</string>
+    <string name="floating_calc_sum">A simple, always on top floating calculator</string>
 </resources>
