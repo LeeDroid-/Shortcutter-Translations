@@ -789,4 +789,6 @@
     <string name="experimental_warn">This is an experimental setting, if any negative effects are seen, please toggle this switch back to its previous state.</string>
     <string name="floating_calculator">Floating Calculator</string>
     <string name="floating_calc_sum">A simple, always on top floating calculator</string>
+    <string name="trial_exp">Trial expired</string>
+    <string name="limited_free">Limited to 10 launches in the FREE version</string>
 </resources>
