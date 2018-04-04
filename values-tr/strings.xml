@@ -445,7 +445,7 @@
     <string name="system_toggles">Sistem Ayarı Sekmeleri</string>
     <string name="action_toggles">Eylem Sekmeleri</string>
     <string name="info_toggles">Bilgi Sekmeleri</string>
-    <string name="sc_services">Shortcutter Hizmet Sekmeleri</string>
+    <string name="sc_services">Shortcutter Micro Apps &amp; Services</string>
     <string name="weather">Hava Durumu</string>
     <string name="weather_desc">Anlık hava durumunu bildiren bir pencere açar</string>
     <string name="location">Konum Güncelleniyor</string>
@@ -750,7 +750,7 @@
     <string name="how_it_works1">Shortcutter, bir dizi kısayol, ayar &amp; hizmete anında erişmek için birkaç farklı seçenek sunar.</string>
     <string name="how_it_works2"><u> Hızlı Ayarlarınızı Aşağı Çekme yoluyla</u>
         \n
-        \n\u2022 94 adete kadar ek Hızlı Ayarlar Karesi ekleyin!
+        \n\u2022 95 adete kadar ek Hızlı Ayarlar Karesi ekleyin!
         \n\u2022 Aşağı Çekme Panelinden kısayollar, geçişler, araçlar &amp; hizmetlere erişin.</string>
     <string name="how_it_works3"><u>Shortcutter Kenar Çubuğu/Yüzen Araç Kutusu</u>
         \n
@@ -758,7 +758,7 @@
         \n\u2022 Kenar Çubuğu veya Yüzen Araç Kutusu arasında seçim yapın.
         \n\u2022 Tetikleyiciyle veya bir dokunuşla açın.
         \n\u2022 Tamamen özelleştirilebilir düzen, konum &amp; tasarım.
-        \n\u2022 105 adete kadar farklı kısayollar, geçişler, araçlar &amp; hizmetler!</string>
+        \n\u2022 106 adete kadar farklı kısayollar, geçişler, araçlar &amp; hizmetler!</string>
     <string name="how_it_works4"><u>Başlatıcı Kısayolları</u>
         \n
         \n\u2022 Uygulama menünüzü &amp; ana ekranınızı HTC Edge Sense'e, İkinci Ekranlara, Tasker'a &amp; daha fazlasına haritalamayı sağlar!

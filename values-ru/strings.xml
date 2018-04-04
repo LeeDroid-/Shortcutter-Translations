@@ -463,7 +463,7 @@
     <string name="sb_columns_title">Столбцы Боковой Панели</string>
     <string name="sb_tb_settings">Параметры панели/Toolbox</string>
     <string name="sc_service_sum">Услуги и возможности, предоставляемые Shortcutter</string>
-    <string name="sc_services">Плитка Службы Shortcutter</string>
+    <string name="sc_services">Shortcutter Micro Apps &amp; Services</string>
     <string name="scale">Шкала =</string>
     <string name="screen_dim">Экран = </string>
     <string name="screen_filter">Фильтр экрана</string>
@@ -750,19 +750,19 @@
     <string name="export_sum">Отправить ваш конфигурационный файл на диск Google, DropBox или аналогичное облако для хранения и последующего восстановления?</string>
     <string name="q_calendar">Календарь</string>
     <string name="q_calendar_sum">Всплывающее окно Календаря с параметрами добавления и просмотра, связанными с вашим системным календарем.</string>
-    <string name="overlay_serv">Служба Наложения</string> 
+    <string name="overlay_serv">Служба Наложения</string>
     <string name="overlay_serv_sum">Эта служба используют системный оверлей, они могут вмешиваться в некоторые приложения и разрешения экранов.</string>
-    <string name="icon_picker_sum">Изменить вид боковой панели и его иконки.</string> 
+    <string name="icon_picker_sum">Изменить вид боковой панели и его иконки.</string>
     <string name="airplane_mode">Режим полета</string>
-    <string name="widget">Виджет Shortcutter</string> 
+    <string name="widget">Виджет Shortcutter</string>
     <string name="storage_tile">Устройство хранения</string>
-    <string name="storage_sum">Показывает доступную внутреннюю память (исключая систему)</string> 
+    <string name="storage_sum">Показывает доступную внутреннюю память (исключая систему)</string>
     <string name="edit_widget">Редактировать виджет</string>
     <string name="bar_colour">Цвет Бара</string>
     <string name="how_it_works1">Shortcutter offers several different options to access an array of shortcuts, settings &amp; services in an instant.</string>
     <string name="how_it_works2"><u> Via your Quick Settings Pull-Down</u>
         \n
-        \n\u2022 Add up to 94 additional Quick Settings Tiles!
+        \n\u2022 Add up to 95 additional Quick Settings Tiles!
         \n\u2022 Access shortcuts, toggles, tools &amp; services from your pull-down panel.</string>
     <string name="how_it_works3"><u>The Shortcutter Sidebar/Floating Toolbox</u>
         \n
@@ -770,7 +770,7 @@
         \n\u2022 Choose between a SideBar or a Floating Toolbox.
         \n\u2022 Open with a swipe or touch of the trigger.
         \n\u2022 Fully customisable layout, position &amp; design.
-        \n\u2022 Up to 105 different shortcuts, toggles, tools &amp; services!</string>
+        \n\u2022 Up to 106 different shortcuts, toggles, tools &amp; services!</string>
     <string name="how_it_works4"><u>Launcher Shortcuts</u>
         \n
         \n\u2022 Expose toggles your app drawer &amp; home screen, enabling mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!

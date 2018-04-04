@@ -446,7 +446,7 @@
     <string name="system_toggles">Płytki Systemowe</string>
     <string name="action_toggles">Płytki Akcji</string>
     <string name="info_toggles">Płytki Informacyjne</string>
-    <string name="sc_services">Płytki Shortcutter</string>
+    <string name="sc_services">Shortcutter Micro Apps &amp; Services</string>
 
     <string name="weather">Pogoda</string>
     <string name="weather_desc">Uruchamia pop-up z aktualnymi informacjami o pogodzie</string>
@@ -758,7 +758,7 @@
     <string name="how_it_works1">Shortcutter oferuje kilka różnych opcji dostępu do szeregu skrótów, ustawień oraz usług w jednej chwili.</string>
     <string name="how_it_works2"><u> Poprzez twoje Szybkie Ustawienia Rozwijanego Panelu</u>
         \n
-        \n\u2022 Dodaj do 94 dodatkowych płytek szybkich ustawień!
+        \n\u2022 Dodaj do 95 dodatkowych płytek szybkich ustawień!
         \n\u2022 Dostęp do skrótów, przełączników, narzędzi i  usług z rozwijanego panelu.</string>
     <string name="how_it_works3"><u>Shortcutter Panel Boczny/Pływający Toolbox</u>
         \n
@@ -766,7 +766,7 @@
         \n\u2022 Wybierz między Paskiem Bocznym lub Pływającym Toolboxem.
         \n\u2022 Otwórz za pomocą przeciągnięcia lub dotknięcia wyzwalacza.
         \n\u2022 W pełni konfigurowalny układ, pozycje i wygląd.
-        \n\u2022 Do 105 różnych skrótów, przełączników, narzędzi i usług!</string>
+        \n\u2022 Do 106 różnych skrótów, przełączników, narzędzi i usług!</string>
     <string name="how_it_works4"><u>Skróty Uruchomające</u>
         \n
         \n\u2022 Eksponuje przełączniki w szufladzie aplikacji, umożliwiając mapowanie do HTC Edge Sense, Drugi Wyświetlacz, Taskera &amp; wiele więcej!
