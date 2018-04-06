@@ -400,8 +400,8 @@
     <string name="counter_reset">Sayaç  sıfırlansın mı?</string>
     <string name="data_roaming">Veri Dolaşımı</string>
     <string name="dataroam_summary">Veri Dolaşımını Aç/Kapat</string>
-    <string name="quick_tiles_title">Ufaltılmış durum çubuğu sekme sayısı</string>
-    <string name="manufact_depend">Ufaltılmış durum çubuğu sekme sayısını ayarlayın.
+    <string name="quick_tiles_title">Küçültülmüş durum çubuğu sekme sayısı</string>
+    <string name="manufact_depend">Küçültülmüş durum çubuğu sekme sayısını ayarlayın.
         \nCihaz üreticisi tarafından konulan sayı ile sınırlıdır.</string>
     <string name="sidebar">Yan Menü veya Yüzen Araç Kutusu</string>
     <string name="sidebar_summary">Yan Menü ya da Yüzen Araç Kutusunu Kaydırmak arasında seçim yapın.</string>
@@ -769,9 +769,9 @@
     <string name="shortcutter">Shortcutter Widget'ı (Beta)</string>
     <string name="active_sum">Etkin/etkin olmayan durumda etkin olmayan sekmeleri vurgula.</string>
     <string name="active_state_title">Durumsuz sekmeleri vurgula</string>
-    <string name="experimental_warn">This is an experimental setting, if any negative effects are seen, please toggle this switch back to its previous state.</string>
-    <string name="floating_calculator">Floating Calculator</string>
-    <string name="floating_calc_sum">A simple, always on top floating calculator</string>
-    <string name="trial_exp">Trial expired</string>
-    <string name="limited_free">Limited to 10 launches in the FREE version</string>
+    <string name="experimental_warn">Bu deneysel bir ayardır, herhangi bir olumsuz etki görürseniz, lütfen bu anahtarı önceki durumuna getirin.</string>
+    <string name="floating_calculator">Yüzen Hesap Makinesi</string>
+    <string name="floating_calc_sum">Basit, daima üstte yüzen hesap makinesi</string>
+    <string name="trial_exp">Deneme süresi sona erdi</string>
+    <string name="limited_free">ÜCRETSİZ sürümde 10 başlatmayla sınırlı</string>
 </resources>
