@@ -70,7 +70,7 @@
     <string name="proceed">Proceed</string>
     <string name="system_perms_message">Some tiles require the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
         \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
-    <string name="press_back">Press back to return once enabled.</string>
+    <string name="press_back">Press back to return to the app.</string>
     <string name="credits">Credits</string>
     <string name="full_title">Shortcutter Quick Settings</string>
     <string name="thanks_for_support">"Thanks for your support!  :)"</string>
@@ -85,7 +85,7 @@
     <string name="ambient_display">Doze Display</string>
     <string name="root_available">Your device appears to be rooted.
         \n Toggle me for more QS Tiles!</string>
-    <string name="available_in_prem1">Unlock all features &amp; remove the 50 click notification.</string>
+    <string name="available_in_prem1">Remove all restrictions &amp; the 50 click notification.</string>
     <string name="available_in_prem3">Go Premium now &amp; show your support!</string>
     <string name="ad_supported">Unlock Premium</string>
     <string name="disabled">Disabled</string>
@@ -118,7 +118,7 @@
     <string name="donation10">£9.60 License</string>
     <string name="detected">Detected</string>
     <string name="yes">Yes</string>
-    <string name="subscription">Or a Subscription</string>
+    <string name="subscription">Annual Subscription</string>
     <string name="thankyoumultiple">Multiple licenses detected!
         \nThank\'s for your support!</string>
     <string name="thankyou">Thank\'s for your support!</string>
@@ -131,9 +131,9 @@
     <string name="tweaks_key">LeeDrOiD Tweaks key detected
         \n Premium features activated</string>
     <string name="all_prices_subject_to_tax_vat">All prices include Tax/VAT*
-        \n\nPurchasing Shortcutter Premium will remove the 50 click notification &amp; enable additional Quick Settings tiles &amp; app features.</string>
+        \n\nPurchasing Shortcutter Premium will remove the 50 click notification &amp; unlock all app features.</string>
     <string name="amin">amin</string>
-    <string name="allofthe">Either of the below options will grant you premium access, the choice is yours :)</string>
+    <string name="allofthe">All of the below options will grant the same level of premium access.</string>
     <string name="volumeui">Volume
         \nPanel</string>
     <string name="manualbright">Manual
@@ -234,7 +234,7 @@
         \n\u2022 @Linar10 - Polish
         \n\u2022 @Nuno Nebeker - Portuguese
         \n\u2022 @Evren GüntürKün &amp; Fatih Fırıncı - Turkish
-        \n\u2022 @Eugenio M Seguin - Spanish
+        \n\u2022 @E M Seguin &amp; @guillerag - Spanish
         \n\u2022 @Majida Whale - Chinese
         \n\u2022 @Kodenma - Japanese
         \n\u2022 @Anonymous ;) - Russian
@@ -266,7 +266,7 @@
         \n\nPlease pay attention to the dialogs</string>
     <string name="alert">Shortcutter Alert</string>
     <string name="go_premium">Purchase Premium</string>
-    <string name="another_purchase">For users that want to show additional support, both purchase options can be used.</string>
+    <string name="another_purchase">For users that want to show additional support,\n all purchase options can be used.</string>
     <string name="datausage">Data
         \nUsage</string>
     <string name="data_usage_perms">Shortcutter needs permission to access Data Usage history.
@@ -498,8 +498,8 @@
     <string name="qs_head_title">QS Header Tiles</string>
     <string name="acc_needed_corners">This overlay requires Accessibility access to:
         \n\n \u2022 Detect secure activities.
-        \n\nIf a secure activity is detected, this overlay will automatically stop.
-        \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
+        \n\nIf a secure activity is detected, this overlay will be suspended.
+        \n\nPlease click proceed &amp; enable the service.\n</string>
     <string name="filter_off_secure">Screen Filter suspended:
         \nSecure activity detected</string>
     <string name="corners_off_secure">Screen Corners suspended:
@@ -575,7 +575,7 @@
     <string name="xiaomi">Your device requires applications to be granted auto start permissions, Shortcutter background services will be killed if this is not enabled.\n\nPlease click Proceed &amp; enable auto start for Shortcutter.</string>
     <string name="bat_opt"><![CDATA[Shortcutter contains several background services, none of these services are power hungry or intensive, however in some instances, Android may kill these services when the device goes into deep sleep.\n\n
     To negate this issue I would recommend disabling Battery Optimisation for Shortcutter via Settings > Power.\n\nI hope you enjoy the app!]]></string>
-    <string name="gridItems" translatable="false">customapp1TB,customapp2TB,customapp3TB,customapp4TB,alarm,ram,corners,filter,wake,counter,dice,calendar,sync,camera,email,nightlight,voicesearch,mutemedia</string>
+    <string name="gridItems" translatable="false">customapp1TB,customapp2TB,customapp3TB,customapp4TB,alarm,ram,quickcalendar,reminder,floatingcalc,stopwatch,corners,filter,wake,sync,camera,nightlight,voicesearch,mutemedia</string>
     <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
     <string name="monochrome">B&amp;W</string>
     <string name="monochrome_summary">Change the display to black and white (Monochrome)</string>
@@ -696,7 +696,30 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv5.8.1:
+        \n\nv5.9.0:
+        \n\u2022 Restart services when opening or returning to app.
+        \n\u2022 New &amp; Improved Spanish Translations!
+        \n\u2022 Fix In App Billing subscription status check.
+        \n\u2022 Billing screen improvements.
+        \n\nv5.8.9:
+        \n\u2022 Add open app option to sidebar popup menu.
+        \n\u2022 Add optional 4 day trial + annual subscription.
+        \n\nv5.8.7:
+        \n\u2022 NEW SideBar Popup Menu.
+        \n\u2022 - Long Press SideBar items to Rearrange, Remove &amp; Edit.
+        \n\u2022 Update translations.
+        \n\u2022 Fix accidental clicks when swiping sidebar closed.
+        \n\u2022 Only show too many tiles warning 4 times.
+        \n\nv5.8.4:
+        \n\u2022 Add Monochrome tile to exposed icons selection.
+        \n\u2022 Fix new event toggle when quick calendar is enabled.
+        \n\u2022 Improve method used to add/remove tiles in Sidebar.
+        \n\u2022 Do not apply icon tint to install shortcut view.
+        \n\nv5.8.3:
+        \n\u2022 Allow sharing text to Quick Reminder &amp; Clipboard Editor from other apps.
+        \n\u2022 Fix floating calculator for non premium users (Trial).
+        \n\nv5.8.0 - v5.8.2:
+        \n\u2022 Update Spanish &amp; German translations (Using DeepL).
         \n\u2022 NEW Shortcutter Floating Calculator.
         \n\u2022 App layout adjustments.
         \n\u2022 Bug Fixes.
@@ -1036,4 +1059,19 @@
     <string name="floating_calc_sum">A simple, always on top floating calculator</string>
     <string name="trial_exp">Trial expired</string>
     <string name="limited_free">Limited to 10 launches in the FREE version</string>
+    <string name="change_icon">Change Icon</string>
+    <string name="remove">Remove Tile</string>
+    <string name="rearrange">Rearrange</string>
+    <string name="trialandyearly">4 Day Trial &amp; Annual Subscription (£1.69)</string>
+    <string name="backup_summary">Backup all app data to your SD Card</string>
+    <string name="weather_unknown">Unknown</string>
+    <string name="weather_clear">Clear</string>
+    <string name="weather_cloudy">Cloudy</string>
+    <string name="weather_foggy">Foggy</string>
+    <string name="weather_hazy">Hazy</string>
+    <string name="weather_icy">Icy</string>
+    <string name="weather_rainy">Rainy</string>
+    <string name="weather_snowy">Snowy</string>
+    <string name="weather_stormy">Stormy</string>
+    <string name="weather_windy">Windy</string>
 </resources>

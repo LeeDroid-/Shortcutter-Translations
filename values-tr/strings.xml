@@ -774,4 +774,19 @@
     <string name="floating_calc_sum">Basit, daima üstte yüzen hesap makinesi</string>
     <string name="trial_exp">Deneme süresi sona erdi</string>
     <string name="limited_free">ÜCRETSİZ sürümde 10 başlatmayla sınırlı</string>
+    <string name="change_icon">Change Icon</string>
+    <string name="remove">Remove Tile</string>
+    <string name="rearrange">Rearrange</string>
+    <string name="trialandyearly">4 Day Trial &amp; Annual Subscription (£1.69)</string>
+    <string name="backup_summary">Backup all app data to your SD Card</string>
+    <string name="weather_clear">Clear</string>
+    <string name="weather_foggy">Foggy</string>
+    <string name="weather_hazy">Hazy</string>
+    <string name="weather_icy">Icy</string>
+    <string name="weather_rainy">Rainy</string>
+    <string name="weather_stormy">Stormy</string>
+    <string name="weather_unknown">Unknown</string>
+    <string name="weather_cloudy">Cloudy</string>
+    <string name="weather_snowy">Snowy</string>
+    <string name="weather_windy">Windy</string>
 </resources>

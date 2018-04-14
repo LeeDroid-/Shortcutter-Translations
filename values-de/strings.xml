@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Shortcutter</string>
     <string name="cancel">Abbrechen</string>
-    <string name="autosync">Auto Sync</string>
+    <string name="autosync">Automatische Synchronisation</string>
     <string name="locationMode">Standortmodus</string>
     <string name="HeadsUp">Hinweis</string>
     <string name="no_perms">Keine Berechtigungen</string>
@@ -73,7 +73,7 @@
     <string name="credits">Danksagung</string>
     <string name="full_title">Shortcutter Einstellungen</string>
     <string name="thanks_for_support">"   Danke für Eure Unterstützung!  :)"</string>
-    <string name="premuim">Shortcutter Premium</string>
+    <string name="premuim">Shortcutter Prämie</string>
     <string name="confirm_disable_root">Du bist dabei alle Root Funktionen zu deaktivieren, das wird jegliche QS-Kacheln entfernen die Root Zugang benötigen.
         \n\nMöchtest du fortfahren?</string>
     <string name="please_confirm">Bitte bestätigen</string>
@@ -171,15 +171,15 @@
     <string name="location_tile_title">Standortmodus</string>
     <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">Anzeigen verfügbar &amp; gesamter RAM, mit einer Verknüpfung zur RAM Information</string>
-    <string name="reboot_summary">Opens an advanced (Root) power menu</string>
-    <string name="reboot_tile_title">Advanced Power Menu</string>
+    <string name="reboot_summary">Öffnet ein erweitertes (Root-)Power-Menü.</string>
+    <string name="reboot_tile_title">Erweitertes Power-Menü</string>
     <string name="ringmode_tile_title">Klingelmodus</string>
     <string name="ringmode_summary">Klingelmodus umschalten zwischen Klingeln/Vibrieren/Stumm</string>
     <string name="screenrecord_summary">Eine Kachel, um alles auf Ihrem Gerätebildschirm aufzuzeichnen</string>
     <string name="screenrecord_tile_title">Bildschirmaufnahme</string>
     <string name="screenshot_summary">Nimmt ein Standbild deines Gerätebildschirms auf</string>
     <string name="screenshot_tile_title">Bildschirmfoto</string>
-    <string name="sync_tile_title">Auto Sync</string>
+    <string name="sync_tile_title">Automatische Synchronisation</string>
     <string name="sync_summary">Aktiviere / Deaktiviere Auto Sync</string>
     <string name="timeout_summary">Schalte Bildschirmauszeit Wert</string>
     <string name="timeout_tile_title">Bildschirmauszeit</string>
@@ -393,7 +393,7 @@
     <string name="lock_screen_title">Sperrbildschirm</string>
     <string name="auto_rotate">Auto
         \nRotation</string>
-    <string name="portrait">Portrait</string>
+    <string name="portrait">Porträt</string>
     <string name="landscape">Querformat</string>
     <string name="orientation_mode">Bildschirmrotation</string>
     <string name="orient_summary">Schalte Bildschirmrotation</string>
@@ -445,7 +445,7 @@
     <string name="system_toggles">Systemeinstellungskacheln</string>
     <string name="action_toggles">Aktionskacheln</string>
     <string name="info_toggles">Informationskacheln</string>
-    <string name="sc_services">Shortcutter Micro Apps &amp; Services</string>
+    <string name="sc_services">Shortcutter Micro Apps &amp; Dienstleistungen</string>
     <string name="weather">Wetter Info</string>
     <string name="weather_desc">Öffnet ein Popup Fenster mit aktuellen Wetterinformationen</string>
     <string name="location">Standortaktualisierung</string>
@@ -453,7 +453,7 @@
     <string name="feels">Gefühlt wie:&#160;</string>
     <string name="dewp">Taupunkt:&#160;</string>
     <string name="weather_celsius">Temperatur Einheit</string>
-    <string name="celsius">Celsius</string>
+    <string name="celsius">Centigrade</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="humidity">Feuchtigkeit:&#160;</string>
     <string name="mylocation">Mein Standort</string>
@@ -632,7 +632,7 @@
     <string name="cast_summary">Zeigt die Geräteliste zur Bildschirmübertragung an</string>
     <string name="horizontal_scale">Horizontale Skalierung</string>
     <string name="vertical_scale">Vertikale Skalierung</string>
-    <string name="premium">Premium</string>
+    <string name="premium">Prämie</string>
     <string name="free">FREE</string>
     <string name="refresh_summary">Aktualisierung der Shortcutter Quick Settings Kacheln erzwingen (Zu verwenden, wenn die Kacheln nicht mehr ansprechen)</string>
     <string name="force_refresh">Aktualisierung erzwingen</string>
@@ -650,7 +650,7 @@
     <string name="light_theme">Helles Thema aktiv</string>
     <string name="change_theme">Hell/Dunkel Thema</string>
     <string name="dark_theme">Dunkles Thema aktiv</string>
-    <string name="auto_start_rec">Auto Start Recording</string>
+    <string name="auto_start_rec">Automatischer Start der Aufzeichnung</string>
     <string name="cust_app_root">Weise Anwendungen, Aktivitäten, Verknüpfungen, Weblinks und Shell-Befehle zu. Aktiviere die Kacheln hier, und klicke dann auf die Kachel, um die gewünschte Anwendung, Aktivität oder Verknüpfung zuzuweisen.</string>
     <string name="cust_app_pref_root">Weise Anwendungen, Aktivitäten, Verknüpfungen, Weblinks und Shell-Befehle zu.</string>
     <string name="send_report">Absturzbericht senden</string>
@@ -680,7 +680,7 @@
     <string name="launch_act">Aktivitätsstarter</string>
     <string name="stopwatch_title">Stoppuhr</string>
     <string name="start">Start</string>
-    <string name="stop">Stop</string>
+    <string name="stop">Halt</string>
     <string name="all_apps">App Starter</string>
     <string name="all_apps_summary">Shortcutters durchsuchbare &amp; filterbare App-Übersicht</string>
     <string name="stopwatch_summary">Eine handliche Stoppuhr</string>
@@ -696,8 +696,8 @@
     <string name="sticky">Haftnotiz</string>
     <string name="data_speed">Datengeschwindigkeit</string>
     <string name="data_speed_sum">Zeigt Benachrichtigung mit Up/Down Datengeschwindigkeit an.</string>
-    <string name="upload">Upload:</string>
-    <string name="download">Download:</string>
+    <string name="upload">Hochladen:</string>
+    <string name="download">Herunterladen:</string>
     <string name="total">Gesamtdaten seit Start:</string>
     <string name="data_speed_total">Datengeschwindigkeit - Gesamtnutzung</string>
     <string name="data_speed_total_sum">Zeigt die Gesamtdatennutzung seit dem letzten Start an.</string>
@@ -741,40 +741,56 @@
     <string name="export_sum">Sende deine Konfigurationsdatei an Google Drive, DropBox oder einen ähnlichen Cloud-Speicher, um sie später wiederherzustellen.</string>
     <string name="q_calendar">Schneller Kalendereintrag</string>
     <string name="q_calendar_sum">Ein Kalender Popup mit Hinzufügen- und Anzeigeoptionen, die mit dem Systemkalender verknüpft sind.</string>
-    <string name="overlay_serv">Overlay Services</string>
-    <string name="overlay_serv_sum">These services use system overlays, they may interfere with some applications and permissions screens.</string>
-    <string name="airplane_mode">Airplane Mode</string>
+    <string name="overlay_serv">Overlay-Dienste</string>
+    <string name="overlay_serv_sum">Diese Dienste verwenden System-Overlays, sie können einige Anwendungen und Berechtigungsbildschirme stören.</string>
+    <string name="airplane_mode">Flugzeug-Modus</string>
     <string name="widget">Shortcutter Widget</string>
-    <string name="storage_tile">Device Storage</string>
-    <string name="storage_sum">Shows available internal storage (Excludes system reserved)</string>
-    <string name="edit_widget">Edit Widget</string>
-    <string name="bar_colour">Bar Colour</string>
-    <string name="icon_picker_sum">Change the look of the sidebar &amp; its icons.</string>
-    <string name="how_it_works1">Shortcutter offers several different options to access an array of shortcuts, settings &amp; services in an instant.</string>
-    <string name="how_it_works2"><u> Via your Quick Settings Pull-Down</u>
+    <string name="storage_tile">Geräte-Speicherung</string>
+    <string name="storage_sum">Zeigt den verfügbaren internen Speicher an (ohne Systemreservierung).</string>
+    <string name="edit_widget">Bearbeiten Widget</string>
+    <string name="bar_colour">Bar Farbe</string>
+    <string name="icon_picker_sum">Ändern Sie das Aussehen der Sidebar &amp; seine Symbole.</string>
+    <string name="how_it_works1">Shortcutter bietet verschiedene Optionen, um auf eine Reihe von Verknüpfungen, Einstellungen &amp; Dienste in einem Augenblick zuzugreifen.</string>
+    <string name="how_it_works2"><u> Über Ihre Schnell-Einstellungen Pull-Down </u>
         \n
-        \n\u2022 Add up to 95 additional Quick Settings Tiles!
-        \n\u2022 Access shortcuts, toggles, tools &amp; services from your pull-down panel.</string>
-    <string name="how_it_works3"><u>The Shortcutter Sidebar/Floating Toolbox</u>
+        \n\u2022 Addieren Sie bis zu 95 zusätzliche Quick Settings Tiles!
+        \n\u2022 Zugriff auf Abkürzungen, Umschalter, Tools &amp; Services von Ihrem Pull-Down-Panel.</string>
+    <string name="how_it_works3"><u>Der Shortcutter Sidebar/Floating Toolbox</u>
         \n
-        \n\u2022 Always on top and accessible.
-        \n\u2022 Choose between a SideBar or a Floating Toolbox.
-        \n\u2022 Open with a swipe or touch of the trigger.
-        \n\u2022 Fully customisable layout, position &amp; design.
-        \n\u2022 Up to 106 different shortcuts, toggles, tools &amp; services!</string>
-    <string name="how_it_works4"><u>Launcher Shortcuts</u>
+        Immer oben und zugänglich.
+        Wählen Sie zwischen einem SideBar oder einem Floating Toolbox.
+        Öffne es mit einem Schlag oder einer Berührung des Abzuges.
+        Vollständig anpassbares Layout, Position und Design.
+        Bis zu 106 verschiedene Abkürzungen, Umschalter, Tools &amp; Services!</string>
+    <string name="how_it_works4"><u>Launcher Abkürzungen </u>
         \n
-        \n\u2022 Expose toggles your app drawer &amp; home screen, enabling mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!
-        \n\u2022 Add up to 32  home screen shortcuts.</string>
-    <string name="how_it_works4oreo"><u>Launcher Shortcuts</u>
-        \n\n\u2022 Expose toggles your app drawer, enabling mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!
-        \n\u2022 Add up to 85 dynamic home screen shortcuts!.</string>
+        \n\u2022 Expose schaltet Ihre App-Schublade und den Startbildschirm um und ermöglicht die Zuordnung zu HTC Edge Sense, Second Displays, Tasker &amp; vieles mehr!
+        Fügen Sie bis zu 32 Startbildschirmverknüpfungen hinzu.</string>
+    <string name="how_it_works4oreo"><u>Launcher Abkürzungen </u>
+        \n
+        \n\u2022 Expose schaltet Ihre App-Schublade und den Startbildschirm um und ermöglicht die Zuordnung zu HTC Edge Sense, Second Displays, Tasker &amp; vieles mehr!
+        Fügen Sie bis zu 32 Startbildschirmverknüpfungen hinzu.</string>
     <string name="shortcutter">Shortcutter Widget (Beta)</string>
-    <string name="active_sum">Highlight tiles that have no active/inactive state as active.</string>
-    <string name="active_state_title">Highlight stateless tiles</string>
-    <string name="experimental_warn">This is an experimental setting, if any negative effects are seen, please toggle this switch back to its previous state.</string>
-    <string name="floating_calculator">Floating Calculator</string>
-    <string name="floating_calc_sum">A simple, always on top floating calculator</string>
-    <string name="trial_exp">Trial expired</string>
-    <string name="limited_free">Limited to 10 launches in the FREE version</string>
+    <string name="active_sum">Markieren Sie Kacheln, die keinen aktiven/inaktiven Zustand haben, als aktiv.</string>
+    <string name="active_state_title">Zustandslose Kacheln hervorheben</string>
+    <string name="experimental_warn">Dies ist eine experimentelle Einstellung, falls negative Effekte auftreten, schalten Sie diesen Schalter bitte wieder in den vorherigen Zustand zurück.</string>
+    <string name="floating_calculator">Schwimmender Rechner</string>
+    <string name="floating_calc_sum">Ein einfacher, immer oben schwimmender Rechner</string>
+    <string name="trial_exp">Probezeit abgelaufen</string>
+    <string name="limited_free">Limitiert auf 10 Starts in der KOSTENLOSEN Version</string>
+    <string name="change_icon">Change Icon</string>
+    <string name="remove">Remove Tile</string>
+    <string name="rearrange">Rearrange</string>
+    <string name="trialandyearly">4 Day Trial &amp; Annual Subscription (£1.69)</string>
+    <string name="backup_summary">Backup all app data to your SD Card</string>
+    <string name="weather_clear">Clear</string>
+    <string name="weather_foggy">Foggy</string>
+    <string name="weather_hazy">Hazy</string>
+    <string name="weather_icy">Icy</string>
+    <string name="weather_rainy">Rainy</string>
+    <string name="weather_stormy">Stormy</string>
+    <string name="weather_unknown">Unknown</string>
+    <string name="weather_cloudy">Cloudy</string>
+    <string name="weather_snowy">Snowy</string>
+    <string name="weather_windy">Windy</string>
 </resources>
