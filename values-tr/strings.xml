@@ -608,7 +608,6 @@
     <string name="onehand">Tek El (Deneysel)</string>
     <string name="onehanded_summary">Ekranınızı sağ alt köşeye küçültür, tüm uygulamalar doğru şekilde ölçeklendirilmez</string>
     <string name="enter_shell_command">Kabuk Komutu</string>
-    <string name="drag_out">Atamayı değiştirmek için uzun basın</string>
     <string name="left_hand_mode">Sol El Modu</string>
     <string name="ime_method">Giriş Yöntemi Seçici</string>
     <string name="wrap">Ayar: İçerikleri genişlet</string>
@@ -730,11 +729,8 @@
     <string name="backup">Ayarları Yedekle</string>
     <string name="last_backup">Son yedek:</string>
     <string name="no_backup">Yedek bulunamadı:</string>
-    <string name="loc">Konum =</string>
     <string name="save_loc">Kayıt Konumu</string>
     <string name="export">Dışa Aktar</string>
-    <string name="no_storage_perms">Depolama İzni Yok</string>
-    <string name="store_perm_backup">Yedekleme &amp; geri yükleme için depolama izni gerekli.</string>
     <string name="export_sum">Daha sonra geri yüklemek için yapılandırma dosyanızı Google Drive'a, DropBox'a veya benzeri bir bulut depolama alanına gönderin</string>
     <string name="q_calendar">Hızlı Takvim</string>
     <string name="q_calendar_sum">Sistem takviminize bağlı ekleme ve görüntüleme seçenekleriyle bir açılır takvim.</string>
@@ -742,11 +738,9 @@
     <string name="overlay_serv_sum">Bu hizmetler sistem yer paylaşımlarını kullanır, bazı uygulamalara ve izin ekranlarına müdahale edebilir.</string>
     <string name="icon_picker_sum">Kenar çubuğunun görünümünü &amp; simgelerini değiştirin.</string>
     <string name="airplane_mode">Uçak Modu</string>
-    <string name="widget">Shortcutter Widget'ı</string>
     <string name="storage_tile">Cihaz Depolama</string>
     <string name="storage_sum">Kullanılabilir dahili depolama alanını gösterir (Sisteme ayrılan hariç)</string>
     <string name="edit_widget">Widget'ı Düzenle</string>
-    <string name="bar_colour">Çubuk Rengi</string>
     <string name="how_it_works1">Shortcutter, bir dizi kısayol, ayar &amp; hizmete anında erişmek için birkaç farklı seçenek sunar.</string>
     <string name="how_it_works2"><u> Hızlı Ayarlarınızı Aşağı Çekme yoluyla</u>
         \n
@@ -774,7 +768,6 @@
     <string name="floating_calc_sum">Basit, daima üstte yüzen hesap makinesi</string>
     <string name="trial_exp">Deneme süresi sona erdi</string>
     <string name="limited_free">ÜCRETSİZ sürümde 10 başlatmayla sınırlı</string>
-    <string name="change_icon">Change Icon</string>
     <string name="remove">Remove Tile</string>
     <string name="rearrange">Rearrange</string>
     <string name="trialandyearly">4 Day Trial &amp; Annual Subscription (£1.69)</string>
@@ -789,4 +782,13 @@
     <string name="weather_cloudy">Cloudy</string>
     <string name="weather_snowy">Snowy</string>
     <string name="weather_windy">Windy</string>
+    <string name="apm_power_off">Power Off</string>
+    <string name="apm_reboot">Reboot</string>
+    <string name="apm_reb_rec">Reboot Recovery</string>
+    <string name="apm_reb_dl">Reboot Download</string>
+    <string name="apm_reb_bl">Reboot Bootloader</string>
+    <string name="apm_hot">Hot Reboot</string>
+    <string name="apm_safe">Reboot Safe Mode</string>
+    <string name="ent">Entries</string>
+    <string name="apm_root_req">Shortcutter APM Requires Root access</string>
 </resources>

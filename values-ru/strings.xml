@@ -214,7 +214,6 @@
     <string name="donation10">£9.60 Лицензия</string>
     <string name="donation2">£1.69 Лицензия</string>
     <string name="donation5">£3.39 Лицензия</string>
-    <string name="drag_out">Длительное нажатие для изменения назначения </string>
     <string name="edit_view">2. Выдвиньте свою строку состояния и нажмите кнопку редактирования, как показано ниже, это обычно значок пера.
 
  Пользователи Samsung нажать меню с тремя точками и выберите перегруппировку.\n\n ваши фрагменты Shortcutter-ом будут показаны в низу.</string>
@@ -742,11 +741,8 @@
     <string name="backup">Параметры резервного копирования</string>
     <string name="last_backup">Последнее резервное копирование:</string>
     <string name="no_backup">Резервная копия не найдена</string>
-    <string name="loc">Расположение =</string>
     <string name="save_loc">Сохранение местоположения</string>
     <string name="export">Экспорт</string>
-    <string name="no_storage_perms">Нет разрешения для хранения</string>
-    <string name="store_perm_backup">Разрешение для Хранения, необходимые для резервного копирования &amp; восстановления.</string>
     <string name="export_sum">Отправить ваш конфигурационный файл на диск Google, DropBox или аналогичное облако для хранения и последующего восстановления?</string>
     <string name="q_calendar">Календарь</string>
     <string name="q_calendar_sum">Всплывающее окно Календаря с параметрами добавления и просмотра, связанными с вашим системным календарем.</string>
@@ -754,11 +750,9 @@
     <string name="overlay_serv_sum">Эта служба используют системный оверлей, они могут вмешиваться в некоторые приложения и разрешения экранов.</string>
     <string name="icon_picker_sum">Изменить вид боковой панели и его иконки.</string>
     <string name="airplane_mode">Режим полета</string>
-    <string name="widget">Виджет Shortcutter</string>
     <string name="storage_tile">Устройство хранения</string>
     <string name="storage_sum">Показывает доступную внутреннюю память (исключая систему)</string>
     <string name="edit_widget">Редактировать виджет</string>
-    <string name="bar_colour">Цвет Бара</string>
     <string name="how_it_works1">Shortcutter offers several different options to access an array of shortcuts, settings &amp; services in an instant.</string>
     <string name="how_it_works2"><u> Via your Quick Settings Pull-Down</u>
         \n
@@ -786,7 +780,6 @@
     <string name="floating_calc_sum">A simple, always on top floating calculator</string>
     <string name="trial_exp">Trial expired</string>
     <string name="limited_free">Limited to 10 launches in the FREE version</string>
-    <string name="change_icon">Change Icon</string>
     <string name="remove">Remove Tile</string>
     <string name="rearrange">Rearrange</string>
     <string name="trialandyearly">4 Day Trial &amp; Annual Subscription (£1.69)</string>
@@ -801,4 +794,13 @@
     <string name="weather_cloudy">Cloudy</string>
     <string name="weather_snowy">Snowy</string>
     <string name="weather_windy">Windy</string>
+    <string name="apm_power_off">Power Off</string>
+    <string name="apm_reboot">Reboot</string>
+    <string name="apm_reb_rec">Reboot Recovery</string>
+    <string name="apm_reb_dl">Reboot Download</string>
+    <string name="apm_reb_bl">Reboot Bootloader</string>
+    <string name="apm_hot">Hot Reboot</string>
+    <string name="apm_safe">Reboot Safe Mode</string>
+    <string name="ent">Entries</string>
+    <string name="apm_root_req">Shortcutter APM Requires Root access</string>
 </resources>

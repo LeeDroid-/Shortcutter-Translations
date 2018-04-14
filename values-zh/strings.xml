@@ -608,7 +608,6 @@
     <string name="onehand">单手模式 (试验性)</string>
     <string name="onehanded_summary">将你的显示屏缩小到右下角，不是所有应用都能正确缩放。</string>
     <string name="enter_shell_command">Shell 命令</string>
-    <string name="drag_out">长按可变更任务</string>
     <string name="left_hand_mode">左手模式</string>
     <string name="ime_method">IME 选择器</string>
     <string name="wrap">设为: 自动换行</string>
@@ -730,11 +729,8 @@
     <string name="backup">备份设置</string>
     <string name="last_backup">上次备份:</string>
     <string name="no_backup">未发现备份:</string>
-    <string name="loc">位置 =</string>
     <string name="save_loc">保存位置</string>
     <string name="export">导出</string>
-    <string name="no_storage_perms">没有存储权限</string>
-    <string name="store_perm_backup">需要存储权限才能进行备份 &amp; 还原操作。</string>
     <string name="export_sum">将你的配置文件发送到 Google Drive、DropBox 或类似的云存储以便日后还原。</string>
     <string name="q_calendar">Quick Calendar</string>
     <string name="q_calendar_sum">A Calendar popup with add and view options linked to your system calendar.</string>
@@ -742,11 +738,9 @@
     <string name="overlay_serv_sum">These services use system overlays, they may interfere with some applications and permissions screens.  They are in no way malicious, I have done all i can to auto disable them when secure activities are present.</string>
     <string name="icon_picker_sum">Change the look of the sidebar &amp; its icons.</string>
     <string name="airplane_mode">Airplane Mode</string>
-    <string name="widget">Shortcutter Widget</string>
     <string name="storage_tile">Device Storage</string>
     <string name="storage_sum">Shows available internal storage (Excludes system reserved)</string>
     <string name="edit_widget">Edit Widget</string>
-    <string name="bar_colour">Edit Widget</string>
     <string name="shortcutter">Shortcutter</string>
     <string name="how_it_works1">Shortcutter offers several different options to access an array of shortcuts, settings &amp; services in an instant.</string>
     <string name="how_it_works2"><u> Via your Quick Settings Pull-Down</u>
@@ -774,7 +768,6 @@
     <string name="floating_calc_sum">A simple, always on top floating calculator</string>
     <string name="trial_exp">Trial expired</string>
     <string name="limited_free">Limited to 10 launches in the FREE version</string>
-    <string name="change_icon">Change Icon</string>
     <string name="remove">Remove Tile</string>
     <string name="rearrange">Rearrange</string>
     <string name="trialandyearly">4 Day Trial &amp; Annual Subscription (£1.69)</string>
@@ -789,4 +782,13 @@
     <string name="weather_cloudy">Cloudy</string>
     <string name="weather_snowy">Snowy</string>
     <string name="weather_windy">Windy</string>
+    <string name="apm_power_off">Power Off</string>
+    <string name="apm_reboot">Reboot</string>
+    <string name="apm_reb_rec">Reboot Rexovery</string>
+    <string name="apm_reb_dl">Reboot Download</string>
+    <string name="apm_reb_bl">Reboot Bootloader</string>
+    <string name="apm_hot">Hot Reboot</string>
+    <string name="apm_safe">Reboot Safe Mode</string>
+    <string name="ent">Entries</string>
+    <string name="apm_root_req">Shortcutter APM Requires Root access</string>
 </resources>

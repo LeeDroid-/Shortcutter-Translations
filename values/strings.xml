@@ -644,7 +644,6 @@
     <string name="onehand">One Handed Mode</string>
     <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
     <string name="enter_shell_command">Shell Command</string>
-    <string name="drag_out">Long press to change assignment</string>
     <string name="left_hand_mode">One Handed Mode - Left</string>
     <string name="ime_method">IME Selector</string>
     <string name="wrap">Set to: Wrap contents</string>
@@ -678,7 +677,6 @@
     <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
     <string name="pip">Picture In Picture</string>
     <string name="pip_sum">Launch Picture In Picture on current app</string>
-    <string name="shortcuts" translatable="false">wake,corners,screenRecord,screenShot</string>
     <string name="sc_power_menu">Powered By ©Shortcutter</string>
     <string name="apm_tile_title" translatable="false">APM</string>
     <string name="sidebar_tb">Sidebar\n/Toolbox</string>
@@ -1034,11 +1032,8 @@
     <string name="backup">Backup Settings</string>
     <string name="last_backup">Last backup:</string>
     <string name="no_backup">No backup found at:</string>
-    <string name="loc">Location =</string>
     <string name="save_loc">Save Location</string>
     <string name="export">Export</string>
-    <string name="no_storage_perms">No Storage Permissions</string>
-    <string name="store_perm_backup">Storage permissions required for backup &amp; restore.</string>
     <string name="export_sum">Send your configuration file to Google Drive, DropBox or similar cloud storage to restore later</string>
     <string name="q_calendar">Quick Calendar</string>
     <string name="q_calendar_sum">A Calendar popup with add and view options linked to your system calendar.</string>
@@ -1046,12 +1041,10 @@
     <string name="overlay_serv_sum">These services use system overlays, they may interfere with some applications and permissions screens.\n\nThey are in no way malicious, I have done all i can to auto disable them when secure activities are present.</string>
     <string name="icon_picker_sum">Change the look of the sidebar &amp; its icons.</string>
     <string name="airplane_mode">Airplane Mode</string>
-    <string name="widget">Shortcutter Widget</string>
     <string name="storage_tile">Device Storage</string>
     <string name="storage_sum">Shows available internal storage (Excludes system reserved)</string>
     <string name="shortcutter">Shortcutter Widget (Beta)</string>
     <string name="edit_widget">Edit Widget</string>
-    <string name="bar_colour">Bar Colour</string>
     <string name="active_sum">Highlight tiles that have no active/inactive colour state as active (A reboot may be required).</string>
     <string name="active_state_title">Highlight stateless tiles</string>
     <string name="experimental_warn">This is an experimental setting, if any negative effects are seen, please toggle this switch back to its previous state.</string>
@@ -1059,7 +1052,6 @@
     <string name="floating_calc_sum">A simple, always on top floating calculator</string>
     <string name="trial_exp">Trial expired</string>
     <string name="limited_free">Limited to 10 launches in the FREE version</string>
-    <string name="change_icon">Change Icon</string>
     <string name="remove">Remove Tile</string>
     <string name="rearrange">Rearrange</string>
     <string name="trialandyearly">4 Day Trial &amp; Annual Subscription (£1.69)</string>
@@ -1074,4 +1066,13 @@
     <string name="weather_snowy">Snowy</string>
     <string name="weather_stormy">Stormy</string>
     <string name="weather_windy">Windy</string>
+    <string name="apm_power_off">Power Off</string>
+    <string name="apm_reboot">Reboot</string>
+    <string name="apm_reb_rec">Recovery Mode</string>
+    <string name="apm_reb_dl">Download Mode</string>
+    <string name="apm_reb_bl">Bootloader</string>
+    <string name="apm_hot">Hot Reboot</string>
+    <string name="apm_safe">Safe Mode</string>
+    <string name="ent">Entries</string>
+    <string name="apm_root_req">Shortcutter APM Requires Root access</string>
 </resources>

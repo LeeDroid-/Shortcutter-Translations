@@ -615,7 +615,6 @@
     <string name="onehand">Jedną Ręką (Eksperymentalne)</string>
     <string name="onehanded_summary">Powoduje zmniejszenie wyświetlacza w prawym dolnym rogu, ale nie wszystkie aplikacje są prawidłowo skalowane</string>
     <string name="enter_shell_command">Shell Command</string>
-    <string name="drag_out">Długie naciśnięcie powoduje zmianę przypisania</string>
     <string name="left_hand_mode">Tryb Lewej Ręki</string>
     <string name="ime_method">Wybieranie IME</string>
     <string name="wrap">Ustaw na: Zawijanie Zawartości</string>
@@ -738,11 +737,8 @@
     <string name="backup">Kopia Ustawień</string>
     <string name="last_backup">Ostatnia Kopia:</string>
     <string name="no_backup">Nie znaleziono kopii</string>
-    <string name="loc">Lokalizacja =</string>
     <string name="save_loc">Wybierz Lokalizację</string>
     <string name="export">Eksportuj</string>
-    <string name="no_storage_perms">Brak Uprawnień do Zapisu Na Karcie</string>
-    <string name="store_perm_backup">Wymagane uprawienia do zapisu na karcie dla kopii &amp; przywracania.</string>
     <string name="export_sum">Wyślij ustawienia na Dysk Google, Dropbox lub inne miejsce w chmurze, aby je później przywrócić</string>
     <string name="q_calendar">Szybki Kalendarz</string>
     <string name="q_calendar_sum">Wyskakujące okno kalendarza z opcjami dodawania i wyświetlania powiązanymi z kalendarzem systemu.</string>
@@ -750,11 +746,9 @@
     <string name="overlay_serv_sum">Te usługi korzystają z nakładek systemowych, mogą zakłócać działanie niektórych aplikacji i uprawnień ekranu.</string>
     <string name="icon_picker_sum">Zmień wygląd paska bocznego &amp; ikon.</string>
     <string name="airplane_mode">Tryb Samolotowy</string>
-    <string name="widget">Widżety Shortcutter</string>
     <string name="storage_tile">Pamięć Urządzenia</string>
     <string name="storage_sum">Pokazuje dostępną pamięć wewnętrzną (z wyjątkiem zastrzeżonego systemu)</string>
     <string name="edit_widget">Edytuj Widget</string>
-    <string name="bar_colour">Kolor Paska</string>
     <string name="how_it_works1">Shortcutter oferuje kilka różnych opcji dostępu do szeregu skrótów, ustawień oraz usług w jednej chwili.</string>
     <string name="how_it_works2"><u> Poprzez twoje Szybkie Ustawienia Rozwijanego Panelu</u>
         \n
@@ -782,7 +776,6 @@
     <string name="floating_calc_sum">Prosty, zawsze dostępny na górze kalkulator pływający.</string>
     <string name="trial_exp">Próba, która wygasła</string>
     <string name="limited_free">Ograniczony do 10 startów w wersji DARMOWEJ</string>
-    <string name="change_icon">Change Icon</string>
     <string name="remove">Remove Tile</string>
     <string name="rearrange">Rearrange</string>
     <string name="trialandyearly">4 Day Trial &amp; Annual Subscription (£1.69)</string>
@@ -797,4 +790,13 @@
     <string name="weather_cloudy">Cloudy</string>
     <string name="weather_snowy">Snowy</string>
     <string name="weather_windy">Windy</string>
+    <string name="apm_power_off">Power Off</string>
+    <string name="apm_reboot">Reboot</string>
+    <string name="apm_reb_rec">Reboot Recovery</string>
+    <string name="apm_reb_dl">Reboot Download</string>
+    <string name="apm_reb_bl">Reboot Bootloader</string>
+    <string name="apm_hot">Hot Reboot</string>
+    <string name="apm_safe">Reboot Safe Mode</string>
+    <string name="ent">Entries</string>
+    <string name="apm_root_req">Shortcutter APM Requires Root access</string>
 </resources>

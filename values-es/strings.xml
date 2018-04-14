@@ -629,7 +629,6 @@
     <string name="onehand">Modo con una mano</string>
     <string name="onehanded_summary">Reduce la pantalla a la esquina inferior derecha, no todas las aplicaciones se escalan correctamente</string>
     <string name="enter_shell_command">Comando Shell</string>
-    <string name="drag_out">Mantener pulsado para cambiar la asignación</string>
     <string name="left_hand_mode">Modo con la mano izquierda</string>
     <string name="ime_method">Selector IME</string>
     <string name="wrap">Ajustar a: envolver el contenido</string>
@@ -748,11 +747,8 @@
     <string name="backup">Copia de seguridad</string>
     <string name="last_backup">Última copia de seguridad:</string>
     <string name="no_backup">No se han encontrado copias de seguridad en</string>
-    <string name="loc">Localización =</string>
     <string name="save_loc">Ubicación</string>
     <string name="export">Exportar</string>
-    <string name="no_storage_perms">Sin permisos de almacenamiento</string>
-    <string name="store_perm_backup">Permisos de almacenamiento necesarios para la copia de seguridad y restauración.</string>
     <string name="export_sum">Envía tu archivo de configuración a Google Drive, DropBox o un almacenamiento de nube similar para restaurarlo más tarde.</string>
     <string name="q_calendar">Calendario rápido</string>
     <string name="q_calendar_sum">Una ventana emergente de Calendario con opciones de ver y agregar eventos vinculados al calendario de tu sistema.</string>
@@ -760,12 +756,10 @@
     <string name="overlay_serv_sum">Estos servicios utilizan superposiciones del sistema, pueden interferir con algunas aplicaciones y permisos de pantallas.</string>
     <string name="icon_picker_sum">Cambia el aspecto de la barra lateral y sus iconos.</string>
     <string name="airplane_mode">Modo Avión</string>
-    <string name="widget">Widget Shortcutter</string>
     <string name="storage_tile">Almacenamiento del dispositivo</string>
     <string name="storage_sum">Muestra el almacenamiento interno disponible (Excluye el sistema reservado)</string>
     <string name="shortcutter">Widget Shortcutter(Beta)</string>
 	<string name="edit_widget">Editar Widget</string>
-    <string name="bar_colour">Color de la barra</string>  
     <string name="active_sum">Resalta las fichas que no tienen ningún estado activo/inactivo como activas.</string>
     <string name="active_state_title">Resaltar fichas sin estado</string>
     <string name="experimental_warn">Este es un ajuste experimental, si se observa algún efecto negativo, por favor vuelva a cambiarlo a su estado anterior.</string>
@@ -773,7 +767,6 @@
     <string name="floating_calc_sum">Una simple calculadora flotante, siempre visible</string>
     <string name="trial_exp">La prueba ha caducado</string>
     <string name="limited_free">Limitado a 10 usos en la versión GRATUITA</string>
-	<string name="change_icon">Cambiar Icono</string>
     <string name="remove">Eliminar ficha</string>
     <string name="rearrange">Reordenar</string>
     <string name="trialandyearly">4 Day Trial &amp; Annual Subscription (£1.69)</string>
@@ -789,4 +782,13 @@
     <string name="weather_cloudy">Cloudy</string>
     <string name="weather_snowy">Snowy</string>
     <string name="weather_windy">Windy</string>
+    <string name="apm_power_off">Power Off</string>
+    <string name="apm_reboot">Reboot</string>
+    <string name="apm_reb_rec">Reboot Recovery</string>
+    <string name="apm_reb_dl">Reboot Download</string>
+    <string name="apm_reb_bl">Reboot Bootloader</string>
+    <string name="apm_hot">Hot Reboot</string>
+    <string name="apm_safe">Reboot Safe Mode</string>
+    <string name="ent">Entries</string>
+    <string name="apm_root_req">Shortcutter APM Requires Root access</string>
 </resources>
