@@ -234,7 +234,7 @@
         \n\u2022 @Linar10 - Polish
         \n\u2022 @Nuno Nebeker - Portuguese
         \n\u2022 @Evren GüntürKün &amp; Fatih Fırıncı - Turkish
-        \n\u2022 @E M Seguin &amp; @guillerag - Spanish
+        \n\u2022 @guillerag &amp; @E M Seguin - Spanish
         \n\u2022 @Majida Whale - Chinese
         \n\u2022 @Kodenma - Japanese
         \n\u2022 @Anonymous ;) - Russian
@@ -694,11 +694,18 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
+        \n\nv5.9.1:
+        \n\u2022 More translation improvements.
+        \n\u2022 Add Battery \% to Night Light.
+        \n\u2022 Move SideBar Expander option to Behaviour &amp; Trigger Settings.
+        \n\u2022 Add optional text drop shadow in SideBar.
+        \n\u2022 UI Improvements.
         \n\nv5.9.0:
         \n\u2022 Restart services when opening or returning to app.
         \n\u2022 New &amp; Improved Spanish Translations!
         \n\u2022 Fix In App Billing subscription status check.
         \n\u2022 Billing screen improvements.
+        \n\u2022 Weather improvements.
         \n\nv5.8.9:
         \n\u2022 Add open app option to sidebar popup menu.
         \n\u2022 Add optional 4 day trial + annual subscription.
@@ -1075,4 +1082,12 @@
     <string name="apm_safe">Safe Mode</string>
     <string name="ent">Entries</string>
     <string name="apm_root_req">Shortcutter APM Requires Root access</string>
+    <string name="weather_overcast">Overcast</string>
+    <string name="auto_with_root">Automatically granted with ROOT</string>
+    <string name="unread_count">Unread Notifications:</string>
+    <string name="loading_apps">Loading Applications...</string>
+    <string name="loading_activities">Loading Activities...</string>
+    <string name="tiles">Tiles =</string>
+    <string name="text_shadow">Text Shadow</string>
+    <string name="now">Now?</string>
 </resources>

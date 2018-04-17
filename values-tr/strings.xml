@@ -791,4 +791,12 @@
     <string name="apm_safe">Güvenli Modda Başlat</string>
     <string name="ent">Öğeler</string>
     <string name="apm_root_req">Shortcutter APM Root erişimi gerektirir</string>
+    <string name="weather_overcast">Overcast</string>
+    <string name="auto_with_root">Automatically granted with ROOT</string>
+    <string name="unread_count">Unread Notifications:</string>
+    <string name="loading_activities">Loading Activities...</string>
+    <string name="tiles">Tiles =</string>
+    <string name="loading_apps">Loading Applications...</string>
+    <string name="text_shadow">Text Shadow</string>
+    <string name="now">Now?</string>
 </resources>

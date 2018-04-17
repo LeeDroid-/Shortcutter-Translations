@@ -6,37 +6,37 @@
         <item>Ahorro de energía</item>
         <item>Alta precisión</item>
     </string-array>
-	<string-array name="ring_mode_entries">
+    <string-array name="ring_mode_entries">
         <item>Silencio</item>
         <item>Vibración</item>
-        <item>Sonido</item>
+        <item>Normal</item>
     </string-array>
-	<string-array name="sidebar_tmb_entries">
+    <string-array name="sidebar_tmb_entries">
         <item>Arriba</item>
         <item>Centro</item>
         <item>Abajo</item>
     </string-array>
-	<string-array name="tb_columns_entries">
+    <string-array name="tb_columns_entries">
         <item>2</item>
         <item>3</item>
         <item>4 (predeterminado)</item>
         <item>5</item>
     </string-array>
-	<string-array name="sb_columns_entries">
+    <string-array name="sb_columns_entries">
         <item>1</item>
         <item>2 (predeterminado)</item>
         <item>3</item>
         <item>4</item>
         <item>5</item>
     </string-array>
-	<string-array name="vid_prof_entries">
+    <string-array name="vid_prof_entries">
         <item>1080p</item>
         <item>720p</item>
         <item>480p</item>
         <item>HIGH</item>
         <item>QVGA</item>
     </string-array>
-	<string-array name="cust_tile_choice">
+    <string-array name="cust_tile_choice">
         <item>Aplicación</item>
         <item>Actividad (avanzado)</item>
         <item>Acceso directo</item>
@@ -54,14 +54,14 @@
         <item>Ocultar barra de estado</item>
         <item>Ocultar barra de navegación</item>
         <item>Mostrar selector</item>
-	<item>Por aplicación</item>
+        <item>Por aplicación</item>
     </string-array>
-	<string-array name="orientation_mode_entries">
+    <string-array name="orientation_mode_entries">
         <item>Rotación automática</item>
         <item>Vertical</item>
         <item>Apaisado</item>
     </string-array>
-	<string-array name="timeout_mode_entries">
+    <string-array name="timeout_mode_entries">
         <item>15s</item>
         <item>30s</item>
         <item>45s</item>
