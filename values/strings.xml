@@ -110,12 +110,10 @@
     <string name="show_touches">Show Touches</string>
     <string name="subscription_error">Your device does not support subscriptions.</string>
     <string name="iab_async_error">Error launching purchase flow. Another async operation in progress.</string>
-    <string name="onetimefee2">£1.69</string>
-    <string name="onetimefee5">£3.39
-        \n(Gratuity)</string>
-    <string name="donation2">£1.69 License</string>
-    <string name="donation5">£3.39 License</string>
-    <string name="donation10">£9.60 License</string>
+    <string name="onetimefee2">Unlock</string>
+    <string name="onetimefee5">Unlock\n+(Gratuity)</string>
+    <string name="donation2">Unlock License</string>
+    <string name="donation5">Unlock + Gratuity License</string>
     <string name="detected">Detected</string>
     <string name="yes">Yes</string>
     <string name="subscription">Annual Subscription</string>
@@ -694,12 +692,16 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
+        \n\nv5.9.2:
+        \n\u2022 Fix Time format in Toolbox Header.
+        \n\u2022 Translation Updates.
         \n\nv5.9.1:
-        \n\u2022 More translation improvements.
+        \n\u2022 Translation improvements.
         \n\u2022 Add Battery \% to Night Light.
         \n\u2022 Move SideBar Expander option to Behaviour &amp; Trigger Settings.
         \n\u2022 Add optional text drop shadow in SideBar.
         \n\u2022 UI Improvements.
+        \n\u2022 Fix haptic feedback in Sidebar.
         \n\nv5.9.0:
         \n\u2022 Restart services when opening or returning to app.
         \n\u2022 New &amp; Improved Spanish Translations!
@@ -1061,7 +1063,7 @@
     <string name="limited_free">Limited to 10 launches in the FREE version</string>
     <string name="remove">Remove Tile</string>
     <string name="rearrange">Rearrange</string>
-    <string name="trialandyearly">4 Day Trial &amp; Annual Subscription (£1.69)</string>
+    <string name="trialandyearly">4 Day Trial &amp; Annual Unlock</string>
     <string name="backup_summary">Backup all app data to your SD Card</string>
     <string name="weather_unknown">Unknown</string>
     <string name="weather_clear">Clear</string>
@@ -1090,4 +1092,6 @@
     <string name="tiles">Tiles =</string>
     <string name="text_shadow">Text Shadow</string>
     <string name="now">Now?</string>
+    <string name="sel_unsel">Select/Un-Select All</string>
+    <string name="reset">Reset</string>
 </resources>

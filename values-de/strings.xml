@@ -86,7 +86,7 @@
         \nSchalt mich um für mehr QS-Kacheln!</string>
     <string name="available_in_prem1">Limitierte Funktionen &amp; eine Benachrichtigung alle 50 Klicks.</string>
     <string name="available_in_prem3">Hohle jetzt Premium &amp; zeige deine Unterstützung!</string>
-    <string name="ad_supported">Shortcutter FREE</string>
+    <string name="ad_supported">Unlock Premium</string>
     <string name="enabled">Aktiviert</string>
     <string name="splash_3">Benutzerdef. Schnelleinstellung für Android</string>
     <string name="by_leedroid">Entwickelt von LeeDrOiD</string>
@@ -108,12 +108,10 @@
     <string name="show_touches">Berührungen anzeigen</string>
     <string name="subscription_error">Dein Gerät unterstützt keine Abonnements.</string>
     <string name="iab_async_error">Fehler beim Starten des Bezahlvorgangs. Ein weiterer asynchroner Prozess ist im Gange.</string>
-    <string name="onetimefee2">1.93€</string>
-    <string name="onetimefee5">3.87€
-        \n(Trinkgeld)</string>
-    <string name="donation2">1.93€ Lizenz</string>
-    <string name="donation5">3.87€ Lizenz</string>
-    <string name="donation10">£9.60 Lizenz</string>
+    <string name="onetimefee2">Unlock</string>
+    <string name="onetimefee5">Unlock\n+(Gratuity)</string>
+    <string name="donation2">Unlock License</string>
+    <string name="donation5">Unlock + Gratuity License</string>
     <string name="detected">Erkannt</string>
     <string name="yes">Ja</string>
     <string name="subscription">Oder eine Unterstützung</string>
@@ -774,7 +772,7 @@
     <string name="limited_free">Limitiert auf 10 Starts in der KOSTENLOSEN Version</string>
     <string name="remove">Entferne Kachel</string>
     <string name="rearrange">Neu anordnen</string>
-    <string name="trialandyearly">4-tägige Testversion &amp; Jahresabonnement (£1.69)</string>
+    <string name="trialandyearly">4 Day Trial &amp; Annual Unlock</string>
     <string name="backup_summary">Sichere alle Anwendungsdaten auf deiner SD-Karte.</string>
     <string name="weather_clear">Löschen</string>
     <string name="weather_foggy">nebelig</string>
@@ -803,4 +801,6 @@
     <string name="loading_apps">Loading Applications...</string>
     <string name="text_shadow">Text Shadow</string>
     <string name="now">Now?</string>
+    <string name="sel_unsel">Select/Un-Select All</string>
+    <string name="reset">Reset</string>
 </resources>

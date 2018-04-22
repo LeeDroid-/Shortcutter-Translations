@@ -102,11 +102,10 @@
     <string name="show_touches">Mostrar Toques</string>
     <string name="subscription_error">O seu diispositivo não suporta assinaturas.</string>
     <string name="iab_async_error">Erro a lança serviço de compra. Está a decorrer outra operação.</string>
-    <string name="onetimefee2">1.93€</string>
-    <string name="onetimefee5">3.87€\n(Gorjeta)</string>
-    <string name="donation2">1.93€ Licença</string>
-    <string name="donation5">3.87€ Licença</string>
-    <string name="donation10">£9.60 Licença</string>
+    <string name="onetimefee2">Unlock</string>
+    <string name="onetimefee5">Unlock\n+(Gratuity)</string>
+    <string name="donation2">Unlock License</string>
+    <string name="donation5">Unlock + Gratuity License</string>
     <string name="detected">Detetada</string>
     <string name="yes">Sim</string>
     <string name="subscription">Ou uma Assinatura</string>
@@ -695,7 +694,7 @@
     <string name="limited_free">Limited to 10 launches in the FREE version</string>
     <string name="remove">Remove Tile</string>
     <string name="rearrange">Rearrange</string>
-    <string name="trialandyearly">4 Day Trial &amp; Annual Subscription (£1.69)</string>
+    <string name="trialandyearly">4 Day Trial &amp; Annual Unlock</string>
     <string name="backup_summary">Backup all app data to your SD Card</string>
     <string name="weather_clear">Clear</string>
     <string name="weather_foggy">Foggy</string>
@@ -724,4 +723,6 @@
     <string name="loading_apps">Loading Applications...</string>
     <string name="text_shadow">Text Shadow</string>
     <string name="now">Now?</string>
+    <string name="sel_unsel">Select/Un-Select All</string>
+    <string name="reset">Reset</string>
 </resources>

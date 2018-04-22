@@ -110,12 +110,10 @@
     <string name="show_touches">タップを表示</string>
     <string name="subscription_error">お使いの端末はサブスクリプションをサポートしていません。</string>
     <string name="iab_async_error">購入処理にエラーが発生しました。Another async operation in progress.</string>
-    <string name="onetimefee2">€1.89</string>
-    <string name="onetimefee5">€3.79
-        \n(Gratuity)</string>
-    <string name="donation2">€1.89 ライセンス</string>
-    <string name="donation5">€3.79 ライセンス</string>
-    <string name="donation10">€9.60 ライセンス</string>
+    <string name="onetimefee2">Unlock</string>
+    <string name="onetimefee5">Unlock\n+(Gratuity)</string>
+    <string name="donation2">Unlock License</string>
+    <string name="donation5">Unlock + Gratuity License</string>
     <string name="detected">検出された</string>
     <string name="yes">Yes</string>
     <string name="subscription">Or a Subscription</string>
@@ -787,7 +785,7 @@
     <string name="limited_free">Limited to 10 launches in the FREE version</string>
     <string name="remove">Remove Tile</string>
     <string name="rearrange">Rearrange</string>
-    <string name="trialandyearly">4 Day Trial &amp; Annual Subscription (£1.69)</string>
+    <string name="trialandyearly">4 Day Trial &amp; Annual Unlock</string>
     <string name="backup_summary">Backup all app data to your SD Card</string>
     <string name="weather_clear">Clear</string>
     <string name="weather_foggy">Foggy</string>
@@ -816,4 +814,6 @@
     <string name="loading_apps">Loading Applications...</string>
     <string name="text_shadow">Text Shadow</string>
     <string name="now">Now?</string>
+    <string name="sel_unsel">Select/Un-Select All</string>
+    <string name="reset">Reset</string>
 </resources>

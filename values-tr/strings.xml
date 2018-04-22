@@ -110,12 +110,10 @@
     <string name="show_touches">Dokunmaları Göster</string>
     <string name="subscription_error">Cihazınız abonelikleri desteklemiyor.</string>
     <string name="iab_async_error">Satın alma işlemi, başka bir işlem yapılmakta olduğundan, başlatılamadı.</string>
-    <string name="onetimefee2">£1.89</string>
-    <string name="onetimefee5">£3.79
-        \n(Hediye)</string>
-    <string name="donation2">£1.89 Lisans</string>
-    <string name="donation5">£3.79 Lisans</string>
-    <string name="donation10">£9.60 Lisans</string>
+    <string name="onetimefee2">Unlock</string>
+    <string name="onetimefee5">Unlock\n+(Gratuity)</string>
+    <string name="donation2">Unlock License</string>
+    <string name="donation5">Unlock + Gratuity License</string>
     <string name="detected">Algılandı</string>
     <string name="yes">Evet</string>
     <string name="subscription">Veya Abonelik</string>
@@ -770,7 +768,7 @@
     <string name="limited_free">ÜCRETSİZ sürümde 10 başlatmayla sınırlı</string>
     <string name="remove">Sekmeyi Kaldır</string>
     <string name="rearrange">Yeniden düzenle</string>
-    <string name="trialandyearly">4 Gün Deneme &amp; Yıllık Abonelik (£1.69)</string>
+    <string name="trialandyearly">4 Day Trial &amp; Annual Unlock</string>
     <string name="backup_summary">Tüm uygulama verilerini SD Kartınıza yedekleyin</string>
     <string name="weather_clear">Açık</string>
     <string name="weather_foggy">Sisli</string>
@@ -799,4 +797,6 @@
     <string name="loading_apps">Loading Applications...</string>
     <string name="text_shadow">Text Shadow</string>
     <string name="now">Now?</string>
+    <string name="sel_unsel">Select/Un-Select All</string>
+    <string name="reset">Reset</string>
 </resources>

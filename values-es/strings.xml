@@ -66,10 +66,10 @@
     <string name="screen_timeout">Tiempo de espera</string>
     <string name="additonal_perms_req">Necesitas permisos adicionales</string>
     <string name="notification_policy_message">Algunos accesos directos requieren la habilidad de modificar los ajustes de notificaciones, debido a que no tenemos estos permisos, tendrás que activarlos.
-        \n\nHaz clic en continuar y se te llevará a la pantalla adecuada.\n</string>
+        \n\nPulsa en continuar y se te llevará a la pantalla adecuada.\n</string>
     <string name="proceed">Continuar</string>
     <string name="system_perms_message">Algunas fichas pueden modificar ajustes del sistema, debido a que no tenemos estos permisos, tendrás que activarlos.
-        \n\nHaz clic en continuar y se te llevará a la pantalla adecuada.\n</string>
+        \n\nPulsa en continuar y se te llevará a la pantalla adecuada.\n</string>
     <string name="press_back">Pulsa el botón de atrás una vez activado.</string>
     <string name="credits">Créditos</string>
     <string name="full_title">Ajustes rápidos Shortcutter</string>
@@ -108,14 +108,12 @@
     <string name="close">Cerrar</string>
     <string name="record_audio">Grabar audio</string>
     <string name="show_touches">Mostrar toques</string>
-    <string name="subscription_error">Tu dispositivo no es compatible con las suscripciones.</string>
+    <string name="subscription_error">Tu dispositivo no admite suscripciones.</string>
     <string name="iab_async_error">Error al realizar la compra. Hay otra operación en progreso.</string>
-    <string name="onetimefee2">1.99€</string>
-    <string name="onetimefee5">3.89€
-        \n(Donación)</string>
-    <string name="donation2">Licencia de 1.99€</string>
-    <string name="donation5">Licencia de 3.89€</string>
-    <string name="donation10">Licencia de 10\'67€</string>
+    <string name="onetimefee2">Unlock</string>
+    <string name="onetimefee5">Unlock\n+(Gratuity)</string>
+    <string name="donation2">Unlock License</string>
+    <string name="donation5">Unlock + Gratuity License</string>
     <string name="detected">Detectado</string>
     <string name="yes">Sí</string>
     <string name="subscription">O una suscripción</string>
@@ -220,14 +218,14 @@
     <string name="current_dice">Actualmente en %1$d</string>
     <string name="permissions_not_granted">Parece que Shortcutter no tiene los permisos necesarios, ¿has iniciado la aplicación?</string>
     <string name="counter_tile">Ficha de
-        \nde pulsaciones</string>
+        \npulsaciones</string>
     <string name="counter_summary">Una ficha que cuenta las pulsaciones</string>
     <string name="reset_counter">Reiniciar contador de pulsaciones</string>
     <string name="cur_val">Valor actual = %1$d </string>
     <string name="Dice">Dado</string>
     <string name="dice_desc">Genera un número aleatorio
         \n(modifícalo en los ajustes de las fichas)</string>
-    <string name="auto_step">Paso de brillo automático</string>
+    <string name="auto_step">Pasos de brillo automático</string>
     <string name="file_tile">Explorador
         \nde archivos</string>
     <string name="file_summary">Inicia el explorador predeterminado</string>
@@ -270,15 +268,15 @@
     <string name="failed_data_usage">Error al mostrar información de uso</string>
     <string name="how_to">Presiona aquí para ver una guía de como añadir fichas a los ajustes rápidos.\n\nUna vez hayas activado las fichas, tendrás que añadirlas al panel desplegable desde el editor de ajustes rápidos del sistema.</string>
     <string name="addtiles_title">Cómo añadir fichas: Guía</string>
-    <string name="select_tiles"><![CDATA[1. Ve a la pestaña \"Desplegable\" en Shortcutter y selecciona tus fichas]]></string>
+    <string name="select_tiles"><![CDATA[1. Ve a la pestaña \"Panel Desplegable\" en Shortcutter y selecciona tus fichas]]></string>
     <string name="edit_view"><![CDATA[2. Despliega tu barra de estado y edita los botones.
     \n\n En Samsung hay que pulsar en el menú de 3 puntos y seleccionar "Distribución".\n\n se mostrarán los botones de Shortcutter al final.]]></string>
     <string name="edit_view1">3. En la vista de edición encontrarás 2/3 paneles, verás tus nuevas fichas de Shortcutter en el panel inferior.
         \n\nPara añadirlas, mantén y arrastra las fichas a la zona de arriba (la zona activa) y sal del editor.</string>
     <string name="edit_view_note">NOTA IMPORTANTE:
         \n\n Debido a un fallo en Android N, puedes tener dificultades para añadir fichas, pero se puede solucionar haciendo lo siguiente.
-        \n\nElimina todos las fichas que no quieras en la pestaña de \"Ajustes rápidos\" y toma los nuevos de la parte superior de los disponibles.
-        \n\nPor desgracia, esto no es algo que pueda solucionar yo, ya que no tiene nada que ver con la aplicación.</string>
+        \n\nElimina todos las fichas que no quieras en el panel de \"Ajustes rápidos\" y toma los nuevos disponibles de la parte superior.
+        \n\nPor desgracia, esto no es algo que yo pueda solucionar, ya que no tiene nada que ver con la aplicación.</string>
     <string name="small">Fuente
         \npequeña</string>
     <string name="large">Fuente
@@ -287,7 +285,7 @@
     <string name="defaultsize">Fuente
         \npredeterminada</string>
     <string name="largest">Fuente
-        \ngigante</string>
+        \nmayor</string>
     <string name="fontscale_sum">Tamaño de fuente del sistema</string>
     <string name="font_scale_title">Tamaño de fuente</string>
     <string name="power_saver">Ahorro de energía</string>
@@ -313,7 +311,7 @@
     <string name="choose_entries">Entradas del modo ubicación (2 mínimo)</string>
     <string name="conf_sel">Confirmar selección</string>
     <string name="recentapps">Aplicaciones recientes</string>
-    <string name="settings_system_required">Necesitas permisos para modificar ajustes del sistema: Pulsa para activar</string>
+    <string name="settings_system_required">Necesitas permisos para modificar los ajustes del sistema: Pulsa para activar</string>
     <string name="usage_access_required">Necesitas permisos de acceso: Pulsa para activar</string>
     <string name="dnd_required">Necesitas permisos de No molestar: Pulsa para activar</string>
     <string name="accessibility_description">Permite que Shortcutter realice las siguientes acciones de accesibilidad
@@ -335,7 +333,7 @@
         \n\u2022 Pantalla dividida
         \n\u2022 Detectar actividades
         \n - Se necesita filtro de pantalla y esquinas, estos servicios se detendrán cuando las aplicaciones se instalen y los permisos se concedan.
-        \n\nHaz clic para proceder o dirígete a Shortcutter y activa el servicio.\n\n</string>
+        \n\nPulsa para proceder o dirígete a Shortcutter y activa el servicio.\n\n</string>
     <string name="split_sum">Activar/Desactivar pantalla dividida/modo multiventana.</string>
     <string name="power_sum">Abrir el menú de apagado</string>
     <string name="admin_needed">Necesitas permisos de administrador</string>
@@ -344,7 +342,7 @@
         \n\nPresiona en continuar y activa los permisos de administrador para usar este acceso directo.\n\n</string>
     <string name="lock_sum">Bloquea tu pantalla</string>
     <string name="immersive_active">Modo inmersivo activado</string>
-    <string name="select_time">Por favor seleccione una hora en hh:mm:ss</string>
+    <string name="select_time">Por favor selecciona una hora en hh:mm:ss</string>
     <string name="search_tile">Búsqueda web</string>
     <string name="search_summary">Abre Google</string>
     <string name="voice_search_tile">Comando de voz</string>
@@ -352,7 +350,7 @@
     <string name="inear_audio">Sonido In Ear</string>
     <string name="disable">Desactivar</string>
     <string name="inear_audio_active">Sonido In Ear activado</string>
-    <string name="show_notif">Mostrar notificación activa</string>
+    <string name="show_notif">Mostrar notificación al activar</string>
     <string name="inear_summary">Dirige todo el sonido al auricular del dispositivo</string>
     <string name="volUp">Vol +</string>
     <string name="volDown">Vol -</string>
@@ -375,7 +373,7 @@
     <string name="wake_active">Pantalla encendida</string>
     <string name="floating_toolbox">Activar caja de herramientas/barra lateral</string>
     <string name="float_summary">Se abre una barra lateral deslizando o una caja de herramientas flotante mediante un icono flotante.</string>
-    <string name="tb_tiles">Barra lateral</string>
+    <string name="tb_tiles">Barra  lateral</string>
     <string name="email_feedback">Enviar comentarios/preguntas</string>
     <string name="submit_review">Deja un análisis</string>
     <string name="rate_app">Valora la aplicación</string>
@@ -400,11 +398,11 @@
     <string name="data_roaming">Roaming de datos</string>
     <string name="dataroam_summary">Activar/Desactivar Roaming</string>
     <string name="quick_tiles_title">Cambiar número de fichas en vista compacta</string>
-    <string name="manufact_depend">Personaliza el número de fichas que se muestran en la vista compacta del menú desplegable de los ajustes rápidos.
+    <string name="manufact_depend">Personaliza el número de fichas que se muestran en la vista compacta del panel desplegable de los ajustes rápidos.
         \nEste modo depende del fabricante.</string>
     <string name="sidebar">Barra lateral o caja de herramientas flotante</string>
     <string name="sidebar_summary">Elige entre una barra lateral o una caja de herramientas flotante.</string>
-    <string name="sidebar_pos">Barra lateral izquierda / derecha</string>
+    <string name="sidebar_pos">Posición lateral barra</string>
     <string name="right">Posición actual derecha</string>
     <string name="left_position">Posición actual izquierda</string>
     <string name="tb_background">Color de fondo</string>
@@ -413,14 +411,14 @@
     <string name="tb_tile_text_tint">Color de la fuente</string>
     <string name="tb_reset_tint">Reiniciar preferencias</string>
     <string name="reset_conf">¿Seguro que quiere reiniciar todas las preferencias de color?</string>
-    <string name="trigger_colour_title">Color de Activación / Transparencia</string>
+    <string name="trigger_colour_title">Color/Transparencia del activador</string>
     <string name="filter_active">Filtro de pantalla activado</string>
     <string name="filter_colour">Seleccionar color del filtro</string>
     <string name="filter_tile_title">Filtro de pantalla</string>
     <string name="screen_filter">Filtro de pantalla</string>
     <string name="screen_filter_summary">Un filtro de pantalla para proteger los ojos durante la noche (modo nocturno)</string>
     <string name="reset_filter">Reiniciar color del filtro</string>
-    <string name="sideber_tmb_title">Posición vertical</string>
+    <string name="sideber_tmb_title">Posición vertical barra</string>
     <string name="tb_columns_title">Columnas de caja de herramientas</string>
     <string name="tb_columns_summary">Actualmente = %s columnas</string>
     <string name="sb_columns_title">Columnas en barra lateral</string>
@@ -433,7 +431,7 @@
     <string name="corner_colour">Selecciona el color de la esquina</string>
     <string name="how_it_works">¿Cómo funciona?</string>
     <string name="how_it_works1">Shortcutter ofrece varias opciones para acceder a una serie de accesos directos, configuración y servicios en un instante.</string>
-    <string name="how_it_works2"><u> A través de su menú desplegable de Ajustes Rápidos</u>
+    <string name="how_it_works2"><u> A través de tu panel desplegable de Ajustes Rápidos</u>
         \n
         \n\u2022 ¡Permite añadir hasta 95 fichas adicionales a los ajustes rápidos!
         \n\u2022 Acceso a accesos directos, botones, herramientas y servicios desde tu panel desplegable.</string>
@@ -549,8 +547,8 @@
     <string name="system_actions">Fichas para acciones del sistema</string>
     <string name="info_tiles_sum">Fichas que proporcionan y enlazan información útil del sistema</string>
     <string name="sc_service_sum">Servicios y características proporcionadas por Shortcutter</string>
-    <string name="cust_app">Asignar aplicaciones, actividades, accesos directos y enlaces web. Habilitar las fichas aquí, a continuación, haga clic en la ficha para asignar la aplicación, actividad o acceso directo elegido.</string>
-    <string name="cust_app_root">Asignar aplicaciones, actividades, accesos directos, enlaces web y comandos shell. Habilitar las fichas aquí, a continuación, haga clic en la ficha para asignar la aplicación, actividad o acceso directo elegido.</string>
+    <string name="cust_app">Asignar aplicaciones, actividades, accesos directos y enlaces web. Habilitar las fichas aquí, a continuación, pulsa en la ficha para asignar la aplicación, actividad o acceso directo elegido.</string>
+    <string name="cust_app_root">Asignar aplicaciones, actividades, accesos directos, enlaces web y comandos shell. Habilitar las fichas aquí, a continuación, pulsa en la ficha para asignar la aplicación, actividad o acceso directo elegido.</string>
     <string name="cust_app_pref">Asignar aplicaciones, actividades, accesos directos y enlaces web</string>
     <string name="cust_app_pref_root">Asignar aplicaciones, actividades, accesos directos, enlaces web y comandos shell.</string>
     <string name="cust_sb">Personaliza el aspecto y comportamiento de tu barra lateral o caja de herramientas.</string>
@@ -571,8 +569,8 @@
     <string name="hide_tb_labels">Ocultar etiquetas</string>
     <string name="icon_picker">Diseño caja/barra lateral</string>
     <string name="manage_tiles">Administrar fichas</string>
-    <string name="enable_tiles">Activar/Desactivar ajustes rápidos del menú desplegable.</string>
-    <string name="qs_tiles">Panel desplegable</string>
+    <string name="enable_tiles">Activar/Desactivar ajustes rápidos del panel desplegable.</string>
+    <string name="qs_tiles">Panel  desplegable</string>
     <string name="custom_tiles">Fichas personalizadas</string>
     <string name="sb_tb_settings">Ajustes de caja/barra lateral</string>
     <string name="design_sb_settings">Configurar caja/barra lateral</string>
@@ -586,7 +584,7 @@
     <string name="share">Compartir</string>
     <string name="delete">Eliminar</string>
     <string name="view">Ver</string>
-    <string name="trigger">Activar</string>
+    <string name="trigger">Activador</string>
     <string name="icon_scale">Tamaño</string>
     <string name="flash_sale">30% de descuento en Shortcutter Premium.!\nSelecciona la opción de pago de 1.93€.</string>
     <string name="sale">Oferta de Shortcutter</string>
@@ -595,14 +593,14 @@
     <string name="screen_dim">Oscurecer pantalla =&#160;</string>
     <string name="mute_media">Silenciar</string>
     <string name="mute_media_summary">Silencia tu multimedia</string>
-    <string name="system_perms_message_touches">Esta opción requiere la habilidad de modificar los ajustes del sistema, debido a que no tenemos estos permisos, tendrás que activarlos.
-        \n\nPresiona en continuar y se te llevará a la pantalla adecuada.\n</string>
+    <string name="system_perms_message_touches">Esta opción necesita permisos para modificar los ajustes del sistema, debido a que no tenemos estos permisos, tendrás que activarlos.
+        \n\nPresiona en continuar y se te llevará a la pantalla correspondiente.\n</string>
     <string name="lock_root">Modo de bloqueo de pantalla root</string>
     <string name="root_lock_sum">Envía un evento al botón de encendido con shell</string>
     <string name="choose_activity">Elegir actividad</string>
     <string name="exp_notif">Expandir notificaciones</string>
     <string name="quick_settings">Expandir Ajustes rápidos</string>
-    <string name="exp_notif_sum">Expande las notificaciones del menú desplegable</string>
+    <string name="exp_notif_sum">Expande las notificaciones del panel desplegable</string>
     <string name="qs_sum">Expande los ajustes rápidos</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bt_summary">Activar/Desactivar Bluetooth</string>
@@ -631,16 +629,16 @@
     <string name="enter_shell_command">Comando shell</string>
     <string name="left_hand_mode">Modo con la mano izquierda</string>
     <string name="ime_method">Selector teclado</string>
-    <string name="wrap">Ajustar a: envolver el contenido</string>
-    <string name="fill">Ajustar a: Rellenar verticalmente</string>
-    <string name="height">Rellenar el contenido de la pantalla/envoltura</string>
+    <string name="wrap">Establecido en: Envolver el contenido</string>
+    <string name="fill">Establecido en: Rellenar verticalmente</string>
+    <string name="height">Rellenar pantalla/Envolver el contenido</string>
     <string name="ime_summary">Cambio en uso del método de entrada</string>
     <string name="auto_start">Tiempo de inicio automático</string>
     <string name="auto_stop">Tiempo de parada automática</string>
     <string name="clear_schedule">Borrar Horarios</string>
     <string name="reset_alarms">¿Está seguro de que deseas borrar tus horarios del filtro de pantalla?</string>
     <string name="tile_name">Nombre de la ficha (Auto si está en blanco)</string>
-    <string name="disable_change">¿Desactivar o modificar la asignación?</string>
+    <string name="disable_change">¿Desactivar o cambiar la asignación?</string>
     <string name="change">Cambiar</string>
     <string name="disable_screen_off">Desactivar con pantalla apagada</string>
     <string name="unknown_sources">Permitir fuentes desconocidas</string>
@@ -661,7 +659,7 @@
     <string name="pip">Picture In Picture</string>
     <string name="pip_sum">Iniciar Picture In Picture en la aplicación actual</string>
     <string name="sc_power_menu">Powered by ©Shortcutter</string>
-    <string name="sidebar_tb">Barra lateral/n\Caja de herramientas</string>
+    <string name="sidebar_tb">Barra lateral\nCaja de herramientas</string>
     <string name="auto_start_rec">Grabación automática</string>
     <string name="recording">Pantalla de grabación</string>
     <string name="change_theme">Tema Claro/Oscuro</string>
@@ -685,8 +683,8 @@
     <string name="total_usage_sum">Mostrar el uso total de datos Subida/Descarga</string>
     <string name="wake_show_notif">Notificación al activar pantalla</string>
     <string name="bonus_features">Características adicionales</string>
-    <string name="trigger_scale">Idicador escala</string>
-    <string name="hide_with_statusbar_sum">El indicador se vuelve invisible cuando la barra de estado está oculta. es decir, cuando está en el vídeo a pantalla completa</string>
+    <string name="trigger_scale">Escala del activador</string>
+    <string name="hide_with_statusbar_sum">El activador se vuelve invisible cuando la barra de estado está oculta.</string>
     <string name="hide_with_statusbar">Ocultar con la barra de estado</string>
     <string name="choose_orientation_entries">Entradas del modo rotación (2 mínimo)</string>
     <string name="speaker_audio">Audio del altavoz</string>
@@ -706,7 +704,7 @@
     <string name="quick_reminder">Recordatorio rápido</string>
     <string name="quick_reminder_sum">Añade un recordatorio a tu panel desplegable mediante una notificación</string>
     <string name="dismiss">Descartar</string>
-    <string name="newRem">Nuevo recordatorio</string>
+    <string name="newRem">Nuevo</string>
     <string name="sticky">Notificación persistente</string>
     <string name="data_speed">Velocidad de datos</string>
     <string name="data_speed_sum">Muestra una notificación con la velocidad de subida/bajada de los datos</string>
@@ -716,7 +714,7 @@
     <string name="data_speed_total">Velocidad de datos - Uso total</string>
     <string name="data_speed_total_sum">Muestra el uso total de datos desde el último inicio.</string>
     <string name="vert_pos">Posición actual %s</string>
-    <string name="remind_max">Recordatorio (400 máximo)</string>
+    <string name="remind_max">Recordatorio (400 Máx)</string>
     <string name="tile_max">Título (32 Máx)</string>
     <string name="not_in_db">No en ajustes DB</string>
     <string name="contact_me">Contáctame directamente, te responderé en un plazo de 7 días</string>
@@ -737,7 +735,7 @@
     <string name="show_icon">Icono de la barra de estado</string>
     <string name="my_play_apps">Mis aplicaciones y juegos</string>
     <string name="my_play_apps_sum">Abre directamente mis aplicaciones y juegos en Play Store</string>
-    <string name="choose_timeout_entries">Entradas de tiempo de espera en pantalla (2 mínimo)</string>
+    <string name="choose_timeout_entries">Entradas de tiempo espera pantalla (2 mínimo)</string>
     <string name="invert">Invertir colores</string>
     <string name="edit">Editar</string>
     <string name="notifs_off">Las notificaciones de Shortcutter están deshabilitadas. Presiona aquí para ir a la configuración y volver a habilitarlas.</string>
@@ -764,12 +762,12 @@
     <string name="active_state_title">Resaltar fichas sin estado</string>
     <string name="experimental_warn">Este es un ajuste experimental, si se observa algún efecto negativo, por favor vuelve a cambiarlo a su estado anterior.</string>
     <string name="floating_calculator">Calculadora flotante</string>
-    <string name="floating_calc_sum">Una simple calculadora flotante, siempre visible</string>
+    <string name="floating_calc_sum">Una sencilla calculadora flotante, siempre visible</string>
     <string name="trial_exp">La prueba ha caducado</string>
     <string name="limited_free">Limitado a 10 usos en la versión GRATUITA</string>
     <string name="remove">Eliminar ficha</string>
     <string name="rearrange">Reordenar</string>
-    <string name="trialandyearly">4 días de prueba y suscripción anual (1.99€)</string>
+    <string name="trialandyearly">4 Day Trial &amp; Annual Unlock</string>
     <string name="backup_summary">Copia de seguridad de todos los datos de la aplicación en la tarjeta SD</string>
     <string name="premium">Premium</string>
     <string name="weather_clear">Despejado</string>
@@ -797,6 +795,8 @@
     <string name="loading_activities">Cargando Actividades...</string>
     <string name="tiles">Fichas =</string>
     <string name="loading_apps">Cargando Aplicaciones...</string>
-    <string name="text_shadow">Sombra del texto</string>
+    <string name="text_shadow">Sombra en texto</string>
     <string name="now">Ahora?</string>
+    <string name="sel_unsel">Select/Un-Select All</string>
+    <string name="reset">Reset</string>
 </resources>

@@ -110,12 +110,10 @@
     <string name="show_touches">Pokaż Dotknięcia</string>
     <string name="subscription_error">Twoje urządzenie nie wspiera subskrypcji.</string>
     <string name="iab_async_error">Błąd uruchomienia zakupu. Kolejna próba synchronizacji zakupu w toku.</string>
-    <string name="onetimefee2">1.69 f</string>
-    <string name="onetimefee5">3.39 f
-	    \n(Napiwek)</string>
-    <string name="donation2">Licencja 1.69 f</string>
-    <string name="donation5">Licencja 3.39 f</string>
-    <string name="donation10">Licencja 9.60 f</string>
+    <string name="onetimefee2">Unlock</string>
+    <string name="onetimefee5">Unlock\n+(Gratuity)</string>
+    <string name="donation2">Unlock License</string>
+    <string name="donation5">Unlock + Gratuity License</string>
     <string name="detected">Wykryto</string>
     <string name="yes">Tak</string>
     <string name="subscription">Subskrybcja</string>
@@ -778,7 +776,7 @@
     <string name="limited_free">Ograniczony do 10 startów w wersji DARMOWEJ</string>
     <string name="remove">Usuń Płytki</string>
     <string name="rearrange">Zmiana kolejności</string>
-    <string name="trialandyearly">4 Dni Trial &amp; Subskrypcja Roczna (£1.69)</string>
+    <string name="trialandyearly">4 Day Trial &amp; Annual Unlock</string>
     <string name="backup_summary">Tworzenie kopii zapasowych wszystkich danych aplikacji na kartę SD</string>
     <string name="weather_clear">Czyste niebo</string>
     <string name="weather_foggy">Zamglenia</string>
@@ -807,4 +805,6 @@
     <string name="loading_apps">Loading Applications...</string>
     <string name="text_shadow">Text Shadow</string>
     <string name="now">Now?</string>
+    <string name="sel_unsel">Select/Un-Select All</string>
+    <string name="reset">Reset</string>
 </resources>

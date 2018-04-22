@@ -211,9 +211,6 @@
     <string name="dnd_access">Не беспокоить</string>
     <string name="dnd_required">Неразрешен доступ - Включить, чтобы включить</string>
     <string name="dnd_summary">Использование: Режим звонка</string>
-    <string name="donation10">£9.60 Лицензия</string>
-    <string name="donation2">£1.69 Лицензия</string>
-    <string name="donation5">£3.39 Лицензия</string>
     <string name="edit_view">2. Выдвиньте свою строку состояния и нажмите кнопку редактирования, как показано ниже, это обычно значок пера.
 
  Пользователи Samsung нажать меню с тремя точками и выберите перегруппировку.\n\n ваши фрагменты Shortcutter-ом будут показаны в низу.</string>
@@ -381,9 +378,10 @@
     <string name="oncharge_tile_title">Экран вкл. во время зарядки</string>
     <string name="onehand">Одной рукой (экспериментальный)</string>
     <string name="onehanded_summary">сжимает ваш дисплей в правом нижнем углу, не все приложений масштабируются правильно</string>
-    <string name="onetimefee2">£1.69</string>
-    <string name="onetimefee5">"£3.39
-(Gratuity)"</string>
+    <string name="onetimefee2">Unlock</string>
+    <string name="onetimefee5">Unlock\n+(Gratuity)</string>
+    <string name="donation2">Unlock License</string>
+    <string name="donation5">Unlock + Gratuity License</string>
     <string name="onwhilecharge_summary">Держите экран, когда заткнуто</string>
     <string name="opacity">Непрозрачность =</string>
     <string name="orient_summary">Переключатель поворота экрана</string>
@@ -776,33 +774,33 @@
     <string name="active_sum">Highlight tiles that have no active/inactive state as active.</string>
     <string name="active_state_title">Highlight stateless tiles</string>
     <string name="experimental_warn">Это экспериментальная установка, если рассматривать любые негативные последствия, пожалуйста этот переключатель обратно в предыдущее состояние.</string>
-    <string name="floating_calculator">Плавающий калькулятор</string> 
-    <string name="floating_calc_sum">Простой, всегда на виду плавающий калькулятор</string> 
+    <string name="floating_calculator">Плавающий калькулятор</string>
+    <string name="floating_calc_sum">Простой, всегда на виду плавающий калькулятор</string>
     <string name="trial_exp">Триал истек</string>
-    <string name="limited_free">Ограничение 10 запусков в бесплатной версии</string> 
-    <string name="remove">Удалить плитки</string> 
+    <string name="limited_free">Ограничение 10 запусков в бесплатной версии</string>
+    <string name="remove">Удалить плитки</string>
     <string name="rearrange">Изменить</string>
-    <string name="trialandyearly">4 Дня Триал &amp; Годовая подписка (£1.69)</string>
+    <string name="trialandyearly">4 Day Trial &amp; Annual Unlock</string>
     <string name="backup_summary">Резервное копирование всех данных приложения на карту SD</string>
-	<string name="weather_clear">Ясно</string>
-	<string name="weather_foggy">Туман</string>
-	<string name="weather_hazy">Туманно</string> 
-	<string name="weather_icy">Гололед</string>
-	<string name="weather_rainy">Дождь</string>
-	<string name="weather_stormy">Буря</string>
-	<string name="weather_unknown">Неизвестно</string>
-	<string name="weather_cloudy">Облачно</string> 
-	<string name="weather_snowy">Снег</string>
-	<string name="weather_windy">Ветер</string> 
-	<string name="apm_power_off">Отключение питания</string>
-	<string name="apm_reboot">Перезагрузка</string>
-	<string name="apm_reb_rec">Перезагрузка в рекавери</string> 
-	<string name="apm_reb_dl">Перезагрузка</string>
-	<string name="apm_reb_bl">Перезагрузка в загрузчик</string>
-	<string name="apm_hot">Горячая перезагрузка</string>
-	<string name="apm_safe">Перезагрузка в безопасном режиме</string>
-	<string name="ent">Записи</string> 
-	<string name="apm_root_req">Доступ с правами Root требует Shortcutter APM</string>
+    <string name="weather_clear">Ясно</string>
+    <string name="weather_foggy">Туман</string>
+    <string name="weather_hazy">Туманно</string>
+    <string name="weather_icy">Гололед</string>
+    <string name="weather_rainy">Дождь</string>
+    <string name="weather_stormy">Буря</string>
+    <string name="weather_unknown">Неизвестно</string>
+    <string name="weather_cloudy">Облачно</string>
+    <string name="weather_snowy">Снег</string>
+    <string name="weather_windy">Ветер</string>
+    <string name="apm_power_off">Отключение питания</string>
+    <string name="apm_reboot">Перезагрузка</string>
+    <string name="apm_reb_rec">Перезагрузка в рекавери</string>
+    <string name="apm_reb_dl">Перезагрузка</string>
+    <string name="apm_reb_bl">Перезагрузка в загрузчик</string>
+    <string name="apm_hot">Горячая перезагрузка</string>
+    <string name="apm_safe">Перезагрузка в безопасном режиме</string>
+    <string name="ent">Записи</string>
+    <string name="apm_root_req">Доступ с правами Root требует Shortcutter APM</string>
     <string name="weather_overcast">Overcast</string>
     <string name="auto_with_root">Automatically granted with ROOT</string>
     <string name="unread_count">Unread Notifications:</string>
@@ -811,4 +809,6 @@
     <string name="loading_apps">Loading Applications...</string>
     <string name="text_shadow">Text Shadow</string>
     <string name="now">Now?</string>
+    <string name="sel_unsel">Select/Un-Select All</string>
+    <string name="reset">Reset</string>
 </resources>
