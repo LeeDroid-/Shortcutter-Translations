@@ -799,12 +799,12 @@
     <string name="apm_root_req">Shortcutter APM Wymaga dostępu do Roota</string>
     <string name="weather_overcast">nadmuchiwany</string>
     <string name="auto_with_root">Automatycznie przyznawane z ROOT.</string>
-    <string name="unread_count">Unread Notifications:</string>
-    <string name="loading_activities">Loading Activities...</string>
-    <string name="tiles">Tiles =</string>
-    <string name="loading_apps">Loading Applications...</string>
-    <string name="text_shadow">Text Shadow</string>
-    <string name="now">Now?</string>
-    <string name="sel_unsel">Select/Un-Select All</string>
+    <string name="unread_count">Nieprzeczytane Powiadomienia:</string>
+    <string name="loading_activities">Ładowanie Działań...</string>
+    <string name="tiles">Płytki =</string>
+    <string name="loading_apps">ŁAdowanie Aplikacji...</string>
+    <string name="text_shadow">Cień Tekstu</string>
+    <string name="now">Teraz?</string>
+    <string name="sel_unsel">Wybierz/Odznacz Wszystko</string>
     <string name="reset">Reset</string>
 </resources>
