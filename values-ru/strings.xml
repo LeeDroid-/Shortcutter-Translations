@@ -801,14 +801,14 @@
     <string name="apm_safe">Перезагрузка в безопасном режиме</string>
     <string name="ent">Записи</string>
     <string name="apm_root_req">Доступ с правами Root требует Shortcutter APM</string>
-    <string name="weather_overcast">Overcast</string>
-    <string name="auto_with_root">Automatically granted with ROOT</string>
-    <string name="unread_count">Unread Notifications:</string>
-    <string name="loading_activities">Loading Activities...</string>
-    <string name="tiles">Tiles =</string>
-    <string name="loading_apps">Loading Applications...</string>
-    <string name="text_shadow">Text Shadow</string>
-    <string name="now">Now?</string>
-    <string name="sel_unsel">Select/Un-Select All</string>
-    <string name="reset">Reset</string>
+    <string name="weather_overcast">Пасмурно</string>
+    <string name="auto_with_root">Автоматически предоставляются с ROOT</string> 
+	<string name="unread_count">Непрочитанные уведомления:</string>
+	<string name="loading_activities">Загрузка активити...</string> 
+	<string name="tiles">Плитка =</string> 
+	<string name="loading_apps">Загрузка приложений...</string>
+	<string name="text_shadow">Тень текста</string> 
+	<string name="now">Сейчас?</string>
+	<string name="sel_unsel">Выберите/Отменить все</string>
+	<string name="reset">Сброс</string>
 </resources>
