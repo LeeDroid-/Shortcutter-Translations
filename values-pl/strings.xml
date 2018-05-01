@@ -807,4 +807,8 @@
     <string name="now">Teraz?</string>
     <string name="sel_unsel">Wybierz/Odznacz Wszystko</string>
     <string name="reset">Reset</string>
+    <string name="mono">Mono Audio</string>
+    <string name="mono_summary">Switch headset from Stereo to Mono audio</string>
+    <string name="sidebar_tile">Sidebar Quick Tile</string>
+    <string name="sidebar_tile_sum">Add a tile to Enable/Disable the Sidebar to your Quick Settings Pull-down</string>
 </resources>

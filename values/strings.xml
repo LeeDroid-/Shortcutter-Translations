@@ -128,7 +128,7 @@
     <string name="old_licene">Premium key detected</string>
     <string name="tweaks_key">LeeDrOiD Tweaks key detected
         \n Premium features activated</string>
-    <string name="all_prices_subject_to_tax_vat">All prices include Tax/VAT*
+    <string name="all_prices_subject_to_tax_vat">
         \n\nPurchasing Shortcutter Premium will remove the 50 click notification &amp; unlock all app features.</string>
     <string name="amin">amin</string>
     <string name="allofthe">All of the below options will grant the same level of premium access.</string>
@@ -677,7 +677,7 @@
     <string name="pip_sum">Launch Picture In Picture on current app</string>
     <string name="sc_power_menu">Powered By ©Shortcutter</string>
     <string name="apm_tile_title" translatable="false">APM</string>
-    <string name="sidebar_tb">Sidebar\n/Toolbox</string>
+    <string name="sidebar_tb">Sidebar\nToggle</string>
     <string name="auto_start_rec">Auto Start Recording</string>
     <string name="apmreboot_list" translatable="false">Reboot,Reboot Recovery,Reboot Download,Reboot Bootloader,Hot Reboot,Reboot Safe Mode</string>
     <string name="apm_list" translatable="false">Power Off,Reboot Menu,Airplane Mode,Screenshot,Flashlight,Settings</string>
@@ -692,9 +692,24 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
+        \n\nv5.9.4:
+        \n\u2022 Add option to enable/disable vibration in sidebar/toolbox.
+        \n\u2022 Fix crash in floating calculator when decimal is the first character clicked.
+        \n\u2022 Fix icon highlight in Sidebar QS Toggle.
+        \n\u2022 SideBar Designer - add off tile colour option.
+        \n\u2022 Sidebar Designer layout adjustments.
+        \n\nv5.9.3:
+        \n\u2022 Add optional Sidebar On/Off QS Toggle &amp; Launcher Shortcut.
+        \n\u2022 Fix crash in Mono Audio Toggle.
+        \n\u2022 Sidebar default dimension tweaks.
+        \n\u2022 Screen corners notification off as default.
         \n\nv5.9.2:
         \n\u2022 Fix Time format in Toolbox Header.
+        \n\u2022 Add Mono Audio Tile (ROOT).
         \n\u2022 Translation Updates.
+        \n\u2022 Add search to install shortcut view (Oreo).
+        \n\u2022 Bug Fixes.
+        \n\u2022 Welcome &amp; Billing screen adjustments.
         \n\nv5.9.1:
         \n\u2022 Translation improvements.
         \n\u2022 Add Battery \% to Night Light.
@@ -1094,4 +1109,8 @@
     <string name="now">Now?</string>
     <string name="sel_unsel">Select/Un-Select All</string>
     <string name="reset">Reset</string>
+    <string name="mono">Mono Audio</string>
+    <string name="mono_summary">Switch headset from Stereo to Mono audio</string>
+    <string name="sidebar_tile">Sidebar Quick Tile</string>
+    <string name="sidebar_tile_sum">Add a tile to Enable/Disable the Sidebar to your Quick Settings Pull-down</string>
 </resources>

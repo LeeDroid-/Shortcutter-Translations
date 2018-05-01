@@ -110,11 +110,11 @@
     <string name="show_touches">Mostrar toques</string>
     <string name="subscription_error">Tu dispositivo no admite suscripciones.</string>
     <string name="iab_async_error">Error al realizar la compra. Hay otra operación en progreso.</string>
-    <string name="onetimefee2">Unlock</string>
-    <string name="onetimefee5">Unlock\n+(Gratuity)</string>
-    <string name="donation2">Unlock License</string>
-    <string name="donation5">Unlock + Gratuity License</string>
-    <string name="detected">Detectado</string>
+    <string name="onetimefee2">Desbloquear</string>
+    <string name="onetimefee5">Desbloquear\n+(Donación)</string>
+    <string name="donation2">Licencia de desbloqueo</string>
+    <string name="donation5">Desbloqueo + Licencia Gratuita</string>
+    <string name="detected">detectada</string>
     <string name="yes">Sí</string>
     <string name="subscription">O una suscripción</string>
     <string name="thankyoumultiple">¡Se han detectado varias licencias!
@@ -211,8 +211,8 @@
     <string name="countdown_timer">Temporizador de cuenta atrás</string>
     <string name="set">Establecer</string>
     <string name="countdown_desc">Una ficha de cuenta atrás</string>
-    <string name="choose_steps">Seleccionar pasos de brillo predeterminados</string>
-    <string name="preset_steps">Pasos de brillo predeterminados</string>
+    <string name="choose_steps">Seleccionar pasos de brillo predeterminado</string>
+    <string name="preset_steps">Pasos de brillo predeterminado</string>
     <string name="currently">Actualmente en %1$d pasos</string>
     <string name="current_shot">Actualmente en %1$d segundos</string>
     <string name="current_dice">Actualmente en %1$d</string>
@@ -270,7 +270,7 @@
     <string name="addtiles_title">Cómo añadir fichas: Guía</string>
     <string name="select_tiles"><![CDATA[1. Ve a la pestaña \"Panel Desplegable\" en Shortcutter y selecciona tus fichas]]></string>
     <string name="edit_view"><![CDATA[2. Despliega tu barra de estado y edita los botones.
-    \n\n En Samsung hay que pulsar en el menú de 3 puntos y seleccionar "Distribución".\n\n se mostrarán los botones de Shortcutter al final.]]></string>
+    \n\n En Samsung hay que pulsar en el menú de 3 puntos y seleccionar \"Reordenar botones\".\n\n Se mostrarán las fichas de Shortcutter al final.]]></string>
     <string name="edit_view1">3. En la vista de edición encontrarás 2/3 paneles, verás tus nuevas fichas de Shortcutter en el panel inferior.
         \n\nPara añadirlas, mantén y arrastra las fichas a la zona de arriba (la zona activa) y sal del editor.</string>
     <string name="edit_view_note">NOTA IMPORTANTE:
@@ -308,7 +308,7 @@
         \n\n¿Te has pensado apoyarnos haciéndote Premium?
         \n\nEsta notificación se mostrará en la versión gratuita cada 50 pulsaciones realizadas en las fichas.</string>
     <string name="screenre_cat"><![CDATA[Grabación y captura de pantalla]]></string>
-    <string name="choose_entries">Entradas del modo ubicación (2 mínimo)</string>
+    <string name="choose_entries">Entradas modo ubicación (2 Mín.)</string>
     <string name="conf_sel">Confirmar selección</string>
     <string name="recentapps">Aplicaciones recientes</string>
     <string name="settings_system_required">Necesitas permisos para modificar los ajustes del sistema: Pulsa para activar</string>
@@ -373,7 +373,7 @@
     <string name="wake_active">Pantalla encendida</string>
     <string name="floating_toolbox">Activar caja de herramientas/barra lateral</string>
     <string name="float_summary">Se abre una barra lateral deslizando o una caja de herramientas flotante mediante un icono flotante.</string>
-    <string name="tb_tiles">Barra  lateral</string>
+    <string name="tb_tiles">Barra lateral</string>
     <string name="email_feedback">Enviar comentarios/preguntas</string>
     <string name="submit_review">Deja un análisis</string>
     <string name="rate_app">Valora la aplicación</string>
@@ -478,7 +478,7 @@
     <string name="dev_loc_mode">Modo ubicación:&#160; </string>
     <string name="mylocation_summary">Muestra la ubicación actual, con opciones de ver en el mapa y compartirla</string>
     <string name="swipe_out">Desliza para rechazar</string>
-    <string name="choose_ring_entries">Entradas del perfil de sonido (2 mínimo)</string>
+    <string name="choose_ring_entries">Entradas perfil de sonido (2 Mín.)</string>
     <string name="qs_head_title">Fichas en cabecera</string>
     <string name="acc_needed_corners">Esta interfaz necesita accesibilidad para:
         \n\n \u2022 Detectar actividades seguras.
@@ -570,7 +570,7 @@
     <string name="icon_picker">Diseño caja/barra lateral</string>
     <string name="manage_tiles">Administrar fichas</string>
     <string name="enable_tiles">Activar/Desactivar ajustes rápidos del panel desplegable.</string>
-    <string name="qs_tiles">Panel  desplegable</string>
+    <string name="qs_tiles">Panel desplegable</string>
     <string name="custom_tiles">Fichas personalizadas</string>
     <string name="sb_tb_settings">Ajustes de caja/barra lateral</string>
     <string name="design_sb_settings">Configurar caja/barra lateral</string>
@@ -606,7 +606,7 @@
     <string name="bt_summary">Activar/Desactivar Bluetooth</string>
     <string name="went_wrong">Algo ha salido mal, vuelve a intentarlo. Si este fallo continúa, ponte en contacto conmigo y dame los detalles de tu dispositivo.</string>
     <string name="cont_and_phone"><![CDATA[Algo ha salido mal, ¿has concedido permisos a Contactos y Teléfono?]]></string>
-    <string name="cp_head">PULSA EN EL CENTRO PARA CONFIRMAR O ATRÁS PARA CANCELAR</string>
+    <string name="cp_head">Pulsa en el CENTRO para confirmar</string>
     <string name="transparency">Transparencia</string>
     <string name="apply">Aplicar</string>
     <string name="scale">Escala =&#160;</string>
@@ -645,8 +645,8 @@
     <string name="unknownsource_tile_summary">Permitir fuentes desconocidas / Instalación de aplicaciones no comerciales</string>
     <string name="cast">Enviar pantalla o audio</string>
     <string name="cast_summary">Muestra la lista de dispositivos disponibles</string>
-    <string name="horizontal_scale">Escala horizontal</string>
-    <string name="vertical_scale">Escala Vertical</string>
+    <string name="horizontal_scale">Escalado horizontal</string>
+    <string name="vertical_scale">Escalado Vertical</string>
     <string name="free">GRATIS</string>
     <string name="refresh_summary">Forzar refresco de las fichas de los ajustes rápidos\n(Se utilizará si las fichas no responden)</string>
     <string name="force_refresh">Forzar refresco</string>
@@ -686,7 +686,7 @@
     <string name="trigger_scale">Escala del activador</string>
     <string name="hide_with_statusbar_sum">El activador se vuelve invisible cuando la barra de estado está oculta.</string>
     <string name="hide_with_statusbar">Ocultar con la barra de estado</string>
-    <string name="choose_orientation_entries">Entradas del modo rotación (2 mínimo)</string>
+    <string name="choose_orientation_entries">Entradas modo rotación (2 Mín.)</string>
     <string name="speaker_audio">Audio del altavoz</string>
     <string name="speaker_audio_sum">Forzar audio al altavoz (BETA - utiliza la calidad stream de las llamadas)</string>
     <string name="launch_act">Actividades</string>
@@ -714,8 +714,8 @@
     <string name="data_speed_total">Velocidad de datos - Uso total</string>
     <string name="data_speed_total_sum">Muestra el uso total de datos desde el último inicio.</string>
     <string name="vert_pos">Posición actual %s</string>
-    <string name="remind_max">Recordatorio (400 Máx)</string>
-    <string name="tile_max">Título (32 Máx)</string>
+    <string name="remind_max">Recordatorio (400 Máx.)</string>
+    <string name="tile_max">Título (32 Máx.)</string>
     <string name="not_in_db">No en ajustes DB</string>
     <string name="contact_me">Contáctame directamente, te responderé en un plazo de 7 días</string>
     <string name="immersive_full">Inmersivo completo</string>
@@ -735,7 +735,7 @@
     <string name="show_icon">Icono de la barra de estado</string>
     <string name="my_play_apps">Mis aplicaciones y juegos</string>
     <string name="my_play_apps_sum">Abre directamente mis aplicaciones y juegos en Play Store</string>
-    <string name="choose_timeout_entries">Entradas de tiempo espera pantalla (2 mínimo)</string>
+    <string name="choose_timeout_entries">Entradas tiempo espera pantalla (2 Mín.)</string>
     <string name="invert">Invertir colores</string>
     <string name="edit">Editar</string>
     <string name="notifs_off">Las notificaciones de Shortcutter están deshabilitadas. Presiona aquí para ir a la configuración y volver a habilitarlas.</string>
@@ -767,7 +767,7 @@
     <string name="limited_free">Limitado a 10 usos en la versión GRATUITA</string>
     <string name="remove">Eliminar ficha</string>
     <string name="rearrange">Reordenar</string>
-    <string name="trialandyearly">4 Day Trial &amp; Annual Unlock</string>
+    <string name="trialandyearly">4 días de prueba y desbloqueo anual</string>
     <string name="backup_summary">Copia de seguridad de todos los datos de la aplicación en la tarjeta SD</string>
     <string name="premium">Premium</string>
     <string name="weather_clear">Despejado</string>
@@ -797,6 +797,10 @@
     <string name="loading_apps">Cargando Aplicaciones...</string>
     <string name="text_shadow">Sombra en texto</string>
     <string name="now">Ahora?</string>
-    <string name="sel_unsel">Select/Un-Select All</string>
-    <string name="reset">Reset</string>
+    <string name="sel_unsel">Seleccionar/Deseleccionar todo</string>
+    <string name="reset">Reiniciar</string>
+    <string name="mono">Audio Mono</string>
+    <string name="mono_summary">Cambiar los auriculares de audio estéreo a mono</string>
+    <string name="sidebar_tile">Sidebar Quick Tile</string>
+    <string name="sidebar_tile_sum">Add a tile to Enable/Disable the Sidebar to your Quick Settings Pull-down</string>
 </resources>
