@@ -789,18 +789,18 @@
     <string name="apm_safe">Güvenli Modda Başlat</string>
     <string name="ent">Öğeler</string>
     <string name="apm_root_req">Shortcutter APM Root erişimi gerektirir</string>
-    <string name="weather_overcast">Overcast</string>
-    <string name="auto_with_root">Automatically granted with ROOT</string>
-    <string name="unread_count">Unread Notifications:</string>
-    <string name="loading_activities">Loading Activities...</string>
-    <string name="tiles">Tiles =</string>
-    <string name="loading_apps">Loading Applications...</string>
-    <string name="text_shadow">Text Shadow</string>
-    <string name="now">Now?</string>
-    <string name="sel_unsel">Select/Un-Select All</string>
-    <string name="reset">Reset</string>
-    <string name="mono">Mono Audio</string>
-    <string name="mono_summary">Switch headset from Stereo to Mono audio</string>
-    <string name="sidebar_tile">Sidebar Quick Tile</string>
-    <string name="sidebar_tile_sum">Add a tile to Enable/Disable the Sidebar to your Quick Settings Pull-down</string>
+    <string name="weather_overcast">Bulutlu</string>
+    <string name="auto_with_root">ROOT ile otomatik izin verildi</string>
+    <string name="unread_count">Okunmamış Bildirimler:</string>
+    <string name="loading_activities">Etkinlikler Yükleniyor...</string>
+    <string name="tiles">Sekmeler =</string>
+    <string name="loading_apps">Uygulamalar Yükleniyor...</string>
+    <string name="text_shadow">Metin Gölgesi</string>
+    <string name="now">Şimdi?</string>
+    <string name="sel_unsel">Seç/Tümünü Seç-Kaldır</string>
+    <string name="reset">Sıfırla</string>
+    <string name="mono">Mono Ses</string>
+    <string name="mono_summary">Kulaklık setini Stereodan mono sese getir</string>
+    <string name="sidebar_tile">Yan Menü Hızlı Sekme</string>
+    <string name="sidebar_tile_sum">Aşağı çekmenize Yan Menüyü Etkinleştirmek/Devre dışı bırakmak için bir sekme ekleyin</string>
 </resources>
