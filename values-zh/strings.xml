@@ -730,18 +730,18 @@
     <string name="save_loc">保存位置</string>
     <string name="export">导出</string>
     <string name="export_sum">将你的配置文件发送到 Google Drive、DropBox 或类似的云存储以便日后还原。</string>
-    <string name="q_calendar">Quick Calendar</string>
+    <string name="q_calendar">快捷日历</string>
     <string name="q_calendar_sum">A Calendar popup with add and view options linked to your system calendar.</string>
     <string name="overlay_serv">Overlay Services</string>
     <string name="overlay_serv_sum">These services use system overlays, they may interfere with some applications and permissions screens.  They are in no way malicious, I have done all i can to auto disable them when secure activities are present.</string>
-    <string name="icon_picker_sum">Change the look of the sidebar &amp; its icons.</string>
-    <string name="airplane_mode">Airplane Mode</string>
-    <string name="storage_tile">Device Storage</string>
+    <string name="icon_picker_sum">更改侧栏及其图标的外观</string>
+    <string name="airplane_mode">飞行模式</string>
+    <string name="storage_tile">设备存储空间</string>
     <string name="storage_sum">Shows available internal storage (Excludes system reserved)</string>
-    <string name="edit_widget">Edit Widget</string>
+    <string name="edit_widget">编辑小部件</string>
     <string name="shortcutter">Shortcutter</string>
     <string name="how_it_works1">Shortcutter offers several different options to access an array of shortcuts, settings &amp; services in an instant.</string>
-    <string name="how_it_works2"><u> Via your Quick Settings Pull-Down</u>
+    <string name="how_it_works2"><u> 透过你的快速设置下拉菜单</u>
         \n
         \n\u2022 Add up to 95 additional Quick Settings Tiles!
         \n\u2022 Access shortcuts, toggles, tools &amp; services from your pull-down panel.</string>
@@ -790,17 +790,17 @@
     <string name="ent">Entries</string>
     <string name="apm_root_req">Shortcutter APM Requires Root access</string>
     <string name="weather_overcast">Overcast</string>
-    <string name="auto_with_root">Automatically granted with ROOT</string>
-    <string name="unread_count">Unread Notifications:</string>
-    <string name="loading_activities">Loading Activities...</string>
-    <string name="tiles">Tiles =</string>
-    <string name="loading_apps">Loading Applications...</string>
-    <string name="text_shadow">Text Shadow</string>
-    <string name="now">Now?</string>
-    <string name="sel_unsel">Select/Un-Select All</string>
-    <string name="reset">Reset</string>
+    <string name="auto_with_root">自动使用 ROOT 授予权限</string>
+    <string name="unread_count">未读通知数:</string>
+    <string name="loading_activities">正在加载活动项...</string>
+    <string name="tiles">瓷贴数 =</string>
+    <string name="loading_apps">正在加载应用程序...</string>
+    <string name="text_shadow">文字阴影</string>
+    <string name="now">现在？</string>
+    <string name="sel_unsel">全选/取消全选</string>
+    <string name="reset">重置</string>
     <string name="mono">Mono Audio</string>
     <string name="mono_summary">Switch headset from Stereo to Mono audio</string>
-    <string name="sidebar_tile">Sidebar Quick Tile</string>
-    <string name="sidebar_tile_sum">Add a tile to Enable/Disable the Sidebar to your Quick Settings Pull-down</string>
+    <string name="sidebar_tile">侧栏快速瓷贴</string>
+    <string name="sidebar_tile_sum">添加「启用/停用侧栏」瓷贴到你的快速设置下拉菜单</string>
 </resources>
