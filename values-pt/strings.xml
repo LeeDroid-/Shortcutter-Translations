@@ -729,4 +729,7 @@
     <string name="mono_summary">Switch headset from Stereo to Mono audio</string>
     <string name="sidebar_tile">Sidebar Quick Tile</string>
     <string name="sidebar_tile_sum">Add a tile to Enable/Disable the Sidebar to your Quick Settings Pull-down</string>
+    <string name="dark_widget">Shortcutter Dark Widget</string>
+    <string name="light_widget">Shortcutter Light Widget</string>
+    <string name="no_access">Shortcutter does not appear to have access to the chosen storage location, please select a new one.</string>
 </resources>

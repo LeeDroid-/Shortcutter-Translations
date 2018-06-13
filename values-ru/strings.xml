@@ -802,17 +802,20 @@
     <string name="ent">Записи</string>
     <string name="apm_root_req">Доступ с правами Root требует Shortcutter APM</string>
     <string name="weather_overcast">Пасмурно</string>
-    <string name="auto_with_root">Автоматически предоставляются с ROOT</string> 
+    <string name="auto_with_root">Автоматически предоставляются с ROOT</string>
     <string name="unread_count">Непрочитанные уведомления:</string>
-    <string name="loading_activities">Загрузка активити...</string> 
-<string name="tiles">Плитка =</string> 
-<string name="loading_apps">Загрузка приложений...</string>
-<string name="text_shadow">Тень текста</string> 
-<string name="now">Сейчас?</string>
-<string name="sel_unsel">Выберите/Отменить все</string>
-<string name="reset">Сброс</string>
-<string name="mono">Моно аудио</string> 
-<string name="mono_summary">Переключатель гарнитура аудио от стерео в моно режим</string>
-<string name="sidebar_tile">Плитки быстрого доступа в Боковой панели</string> 
-<string name="sidebar_tile_sum">Добавить плитку, чтобы включить/выключить боковую панель для быстрой настройки в выпадающем меню</string>
+    <string name="loading_activities">Загрузка активити...</string>
+    <string name="tiles">Плитка =</string>
+    <string name="loading_apps">Загрузка приложений...</string>
+    <string name="text_shadow">Тень текста</string>
+    <string name="now">Сейчас?</string>
+    <string name="sel_unsel">Выберите/Отменить все</string>
+    <string name="reset">Сброс</string>
+    <string name="mono">Моно аудио</string>
+    <string name="mono_summary">Переключатель гарнитура аудио от стерео в моно режим</string>
+    <string name="sidebar_tile">Плитки быстрого доступа в Боковой панели</string>
+    <string name="sidebar_tile_sum">Добавить плитку, чтобы включить/выключить боковую панель для быстрой настройки в выпадающем меню</string>
+    <string name="dark_widget">Shortcutter Dark Widget</string>
+    <string name="light_widget">Shortcutter Light Widget</string>
+    <string name="no_access">Shortcutter does not appear to have access to the chosen storage location, please select a new one.</string>
 </resources>

@@ -811,4 +811,7 @@
     <string name="mono_summary">Przełącz zestaw słuchawkowy z trybu stereo na dźwięk mono</string>
     <string name="sidebar_tile">Pasek Boczny</string>
     <string name="sidebar_tile_sum">Dodaje płytkę do rozwijanego menu Szybkie ustawienia, aby szybko włączyć/wyłączyć pasek boczny</string>
+    <string name="dark_widget">Shortcutter Ciemny widżet</string>
+    <string name="light_widget">Shortcutter Widżet światła</string>
+    <string name="no_access">Skrót nie wydaje się mieć dostępu do wybranej lokalizacji, należy wybrać nową.</string>
 </resources>

@@ -801,6 +801,9 @@
     <string name="reset">Reiniciar</string>
     <string name="mono">Audio Mono</string>
     <string name="mono_summary">Cambiar los auriculares de audio estéreo a mono</string>
-    <string name="sidebar_tile">Sidebar Quick Tile</string>
-    <string name="sidebar_tile_sum">Add a tile to Enable/Disable the Sidebar to your Quick Settings Pull-down</string>
+    <string name="sidebar_tile">Ficha barra lateral</string>
+    <string name="sidebar_tile_sum">Agregar una ficha para habilitar/deshabilitar la barra lateral en el panel desplegable de los ajustes rápidos</string>
+    <string name="dark_widget">Shortcutter Widget Oscuro</string>
+    <string name="light_widget">Shortcutter Widget ligero</string>
+    <string name="no_access">El acceso directo no parece tener acceso a la ubicación de almacenamiento elegida, seleccione una nueva.</string>
 </resources>

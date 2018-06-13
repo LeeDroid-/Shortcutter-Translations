@@ -1,4 +1,4 @@
-version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Shortcutter</string>
     <string name="cancel">取消</string>
@@ -803,4 +803,7 @@ version="1.0" encoding="utf-8"?>
     <string name="mono_summary">将耳机从立体声切换到单声道音频</string>
     <string name="sidebar_tile">侧栏快速瓷贴</string>
     <string name="sidebar_tile_sum">添加「启用/停用侧栏」瓷贴到你的快速设置下拉菜单</string>
+    <string name="dark_widget">Shortcutter Dark Widget</string>
+    <string name="light_widget">Shortcutter Light Widget</string>
+    <string name="no_access">Shortcutter does not appear to have access to the chosen storage location, please select a new one.</string>
 </resources>

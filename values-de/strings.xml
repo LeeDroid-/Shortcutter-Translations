@@ -795,16 +795,19 @@
     <string name="apm_root_req">Shortcutter APM benötigt Root-Zugriff</string>
     <string name="weather_overcast">Bedeckt</string>
     <string name="auto_with_root">Automatisch gewährt mit ROOT</string>
-    <string name="unread_count">Unread Notifications:</string>
-    <string name="loading_activities">Loading Activities...</string>
-    <string name="tiles">Tiles =</string>
-    <string name="loading_apps">Loading Applications...</string>
-    <string name="text_shadow">Text Shadow</string>
-    <string name="now">Now?</string>
-    <string name="sel_unsel">Select/Un-Select All</string>
-    <string name="reset">Reset</string>
-    <string name="mono">Mono Audio</string>
-    <string name="mono_summary">Switch headset from Stereo to Mono audio</string>
-    <string name="sidebar_tile">Sidebar Quick Tile</string>
-    <string name="sidebar_tile_sum">Add a tile to Enable/Disable the Sidebar to your Quick Settings Pull-down</string>
+    <string name="unread_count">Ungelesene Benachrichtigungen:</string>
+    <string name="loading_activities">Aktivitäten laden....</string>
+    <string name="tiles">Fliesen =</string>
+    <string name="loading_apps">Anwendungen laden....</string>
+    <string name="text_shadow">Textschatten</string>
+    <string name="now">Jetzt?</string>
+    <string name="sel_unsel">Alle auswählen/entmarkieren</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="mono">Mono-Audio</string>
+    <string name="mono_summary">Umschalten des Headsets von Stereo auf Mono-Audio</string>
+    <string name="sidebar_tile">Seitenleiste Quick Tile</string>
+    <string name="sidebar_tile_sum">Fügen Sie eine Kachel zum Aktivieren/Deaktivieren der Sidebar zu Ihrem Quick Settings Pulldown hinzu.</string>
+    <string name="dark_widget">Shortcutter Dark Widget</string>
+    <string name="light_widget">Shortcutter Light Widget</string>
+    <string name="no_access">Shortcutter scheint keinen Zugriff auf den gewählten Speicherort zu haben, bitte wählen Sie einen neuen aus.</string>
 </resources>

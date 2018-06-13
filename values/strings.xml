@@ -190,7 +190,7 @@
         \nFunctionality is Manufacturer dependent</string>
     <string name="tuner_tile_title">SystemUI Tuner</string>
     <string name="prem_only">Premium Only</string>
-    <string name="settings_secure_needed">Settings Secure access required</string>
+    <string name="settings_secure_needed">Settings Secure access required, go to \"Manage Permissioms\"</string>
     <string name="flash_summary">Toggle the camera flashlight</string>
     <string name="flash_tile_title">Flashlight</string>
     <string name="no_flash">No Flashlight Detected</string>
@@ -692,12 +692,31 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv5.9.4:
+        \n\nv6.0.0:
+        \n\u2022 Widget layout improvements.
+        \n\u2022 Bug fixes.
+        \n\u2022 Update all dependencies, target API &amp; build tools version.
+        \n\u2022 Translation updates.
+        \n\u2022 End of Android 6.0 support.
+        \n\nv5.9.9:
+        \n\u2022 Fix overlay windows failing to add.
+        \n\nv5.9.8:
+        \n\u2022 Translation updates.
+        \n\u2022 Increase max pull-down header tiles to 12.
+        \n\u2022 Improve widget re-sizing &amp; scaling.
+        \n\u2022 Fix custom tiles in Widget.
+        \n\u2022 New Dark widget option.
+        \n\u2022 Upgrade to latest Google Play Services.
+        \n\u2022 Disable notification blocker on unsupported devices.
+        \n\nv5.9.6:
+        \n\u2022 Fix crash in Oreo notification blocker.
+        \n\nv5.9.5:
         \n\u2022 Add option to enable/disable vibration in sidebar/toolbox.
         \n\u2022 Fix crash in floating calculator when decimal is the first character clicked.
         \n\u2022 Fix icon highlight in Sidebar QS Toggle.
         \n\u2022 SideBar Designer - add off tile colour option.
         \n\u2022 Sidebar Designer layout adjustments.
+        \n\u2022 Translation Updates.
         \n\nv5.9.3:
         \n\u2022 Add optional Sidebar On/Off QS Toggle &amp; Launcher Shortcut.
         \n\u2022 Fix crash in Mono Audio Toggle.
@@ -1113,4 +1132,7 @@
     <string name="mono_summary">Switch headset from Stereo to Mono audio</string>
     <string name="sidebar_tile">Sidebar Quick Tile</string>
     <string name="sidebar_tile_sum">Add a tile to Enable/Disable the Sidebar to your Quick Settings Pull-down</string>
+    <string name="dark_widget">Shortcutter Dark Widget</string>
+    <string name="light_widget">Shortcutter Light Widget</string>
+    <string name="no_access">Shortcutter does not appear to have access to the chosen storage location, please select a new one.</string>
 </resources>
