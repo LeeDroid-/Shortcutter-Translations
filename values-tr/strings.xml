@@ -803,7 +803,7 @@
     <string name="mono_summary">Kulaklık setini Stereodan mono sese getir</string>
     <string name="sidebar_tile">Yan Menü Hızlı Sekme</string>
     <string name="sidebar_tile_sum">Aşağı çekmenize Yan Menüyü Etkinleştirmek/Devre dışı bırakmak için bir sekme ekleyin</string>
-    <string name="dark_widget">Shortcutter Dark Widget</string>
-    <string name="light_widget">Shortcutter Light Widget</string>
-    <string name="no_access">Shortcutter does not appear to have access to the chosen storage location, please select a new one.</string>
+    <string name="dark_widget">Shortcutter Karanlık Widget</string>
+    <string name="light_widget">Shortcutter Aydınlık Widget</string>
+    <string name="no_access">Shortcutter'ın seçilen depolama konumuna erişimi yok gibi görünüyor, lütfen yeni bir tane seçin.</string>
 </resources>
