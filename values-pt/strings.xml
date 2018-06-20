@@ -453,7 +453,6 @@
     <string name="system_actions">Mosaicos de alterar/ativar ações de sistema</string>
     <string name="info_tiles_sum">Mosaicos com informações úteis de sistema</string>
     <string name="sc_service_sum"><![CDATA[Serviços & funções oferecidas por Shortcutter]]></string>
-    <string name="cust_app">Mosaicos que pode ligar a Aplicações, Atividades &amp; Atalhos.\nAtive os mosaicos aqui, depois cique no mosaico para definir a aplicação, atividade ou atalho escolhido.</string>
     <string name="cust_sb">Personalizar o aspeto &amp; comportamento da BarraLateral ou Caixa de Ferramentas</string>
     <string name="behaviour">Mudar o comportamento dos Mosaicos</string>
     <string name="perms_now">Permissões necessárias para mosaicos &amp; funções específicas</string>
@@ -558,7 +557,6 @@
     <string name="force_refresh">Forçar Atualização</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">Abre Definições de VPN</string>
-    <string name="compass">Bússula</string>
     <string name="updating">A atualixar</string>
     <string name="select_default_immersive_mode">Selecionar Modo</string>
     <string name="select_default_immersive_mode_summary">Selecionar resposta por defeito do modo imersivo</string>
@@ -570,7 +568,6 @@
     <string name="light_theme">Tema Claro Selecionado</string>
     <string name="change_theme">Tema Claro/Escuro</string>
     <string name="dark_theme">Tema Escuro Selecionado</string>
-    <string name="cust_app_root">Associar Aplicações, Actividades, Atalhos, Links Web &amp; Comandos de Shell. Ative os mosicos aqui,depois clique no mosaico para associar a aplicação, atividade ou atalho.</string>
     <string name="auto_start_rec">Iniciar Gravação Automaticamente</string>
     <string name="cust_app_pref_root">Associar Aplicações, Actividades, Atalhos, Links Web &amp; Comandos de Shell.</string>
     <string name="send_report">Enviar Relarório de Falha</string>
@@ -684,7 +681,6 @@
     <string name="how_it_works4oreo"><u>Launcher Shortcuts</u>
         \n\n\u2022 Expose toggles your app drawer, enabling mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!
         \n\u2022 Add up to 85 dynamic home screen shortcuts!.</string>
-    <string name="shortcutter">Shortcutter Widget (Beta)</string>
     <string name="active_sum">Highlight tiles that have no active/inactive state as active.</string>
     <string name="active_state_title">Highlight stateless tiles</string>
     <string name="experimental_warn">This is an experimental setting, if any negative effects are seen, please toggle this switch back to its previous state.</string>
@@ -732,4 +728,8 @@
     <string name="dark_widget">Shortcutter Dark Widget</string>
     <string name="light_widget">Shortcutter Light Widget</string>
     <string name="no_access">Shortcutter does not appear to have access to the chosen storage location, please select a new one.</string>
+    <string name="lp_drag"><![CDATA[Long press & drag, then click any tile to exit edit mode]]></string>
+    <string name="additionaloptions">Additional Unlock Options</string>
+    <string name="locked_sum">Pull-Down QS Tiles will long vibrate if device is locked.</string>
+    <string name="locked_tiles">Lock Pull-Down Tiles</string>
 </resources>

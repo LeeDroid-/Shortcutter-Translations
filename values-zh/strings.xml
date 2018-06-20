@@ -10,7 +10,7 @@
     <string name="device_only">仅限设备</string>
     <string name="battery_saving">省电模式</string>
     <string name="high_accuracy">高精确度</string>
-    <string name="special_perms_command">一旦完成，点击确认 & 我们会测试访问，如果命令失败，再试一次。</string>
+    <string name="special_perms_command">一旦完成，点击确认 &amp; 我们会测试访问，如果命令失败，再试一次。</string>
     <string name="special_perms_required">"需要特殊权限
         \n\n尝试运行: "</string>
     <string name="wifi_call">Wi-Fi 通话</string>
@@ -66,10 +66,10 @@
     <string name="screen_timeout">超时</string>
     <string name="additonal_perms_req">需要额外权限</string>
     <string name="notification_policy_message">一些快捷方式需要能够修改通知设置，我们无法通过常规的方式请求这些权限，你需要手动启用这些权限。
-        \n\n点击继续 & 你将前往相关界面。\n</string>
+        \n\n点击继续 &amp; 你将前往相关界面。\n</string>
     <string name="proceed">继续</string>
     <string name="system_perms_message">一些瓷贴需要能够写入系统设置，我们无法通过常规的方式请求这些权限，你需要手动启用这些权限。
-        \n\n点击继续 & 你将前往相关界面。\n</string>
+        \n\n点击继续 &amp; 你将前往相关界面。\n</string>
     <string name="press_back">一旦启用，点按返回键以返回</string>
     <string name="credits">致谢名单</string>
     <string name="full_title">Shortcutter 快捷设置</string>
@@ -85,8 +85,8 @@
     <string name="ambient_display">打盹(环境)显示</string>
     <string name="root_available">你的设备似乎已经 Root 。
         \n 点我查看更多快捷设置瓷贴!</string>
-    <string name="available_in_prem1">限制功能 & 每点击 50 次显示一条通知</string>
-    <string name="available_in_prem3">立即获取付费版 & 展示你的支持!</string>
+    <string name="available_in_prem1">限制功能 &amp; 每点击 50 次显示一条通知</string>
+    <string name="available_in_prem3">立即获取付费版 &amp; 展示你的支持!</string>
     <string name="ad_supported">Shortcutter 免费版</string>
     <string name="disabled">已停用</string>
     <string name="enabled">已启用</string>
@@ -94,11 +94,11 @@
     <string name="by_leedroid">创建者: LeeDrOiD</string>
     <string name="welcome_to_shortcutter">欢迎使用</string>
     <string name="Immersive">沉浸模式</string>
-    <string name="manual_secure_summary">用途: 位置模式开关、沉浸模式、ADB、浮动通知、Monochrome、数据漫游、环境显示、充电时屏幕常亮 & 省电模式 - (需要一台 PC )</string>
+    <string name="manual_secure_summary">用途: 位置模式开关、沉浸模式、ADB、浮动通知、Monochrome、数据漫游、环境显示、充电时屏幕常亮 &amp; 省电模式 - (需要一台 PC )</string>
     <string name="secure_access">安全设置访问</string>
     <string name="action_required">需要操作</string>
     <string name="settings_secure_instruct">你可以手动授予 Shortcutter 安全设置权限，允许在系统上进行更多控制。
-        \n\n在你的 PC 上，前往 www.leedroid.co.uk/SettingsSecureGuide & 遵循操作指南。
+        \n\n在你的 PC 上，前往 www.leedroid.co.uk/SettingsSecureGuide &amp; 遵循操作指南。
         \n\n</string>
     <string name="confirm">确认</string>
     <string name="screenshot">截屏</string>
@@ -129,7 +129,7 @@
     <string name="tweaks_key">检测到 LeeDrOiD Tweaks 密钥
         \n 付费版功能已激活</string>
     <string name="all_prices_subject_to_tax_vat">所有价格均包含 税金/增值税*
-        \n\n购买 Shortcutter 付费版会移除 50 次点击通知 & 启用额外快捷设置瓷贴 & 应用功能</string>
+        \n\n购买 Shortcutter 付费版会移除 50 次点击通知 &amp; 启用额外快捷设置瓷贴 &amp; 应用功能</string>
     <string name="amin">管理员</string>
     <string name="allofthe">以下选项均会授予你付费访问，选择权在你的手上 :)</string>
     <string name="volumeui">音量
@@ -163,13 +163,13 @@
     <string name="haptic_summary">打开/关闭触觉反馈</string>
     <string name="headsup_summary">打开/关闭浮动通知</string>
     <string name="headsup">浮动通知</string>
-    <string name="immersive_summary">隐藏状态 & 导航栏</string>
+    <string name="immersive_summary">隐藏状态 &amp; 导航栏</string>
     <string name="immersive_tile_title">沉浸
         \n模式</string>
     <string name="location_summary">关闭位置模式/GPS/省电模式/高精确度</string>
     <string name="location_tile_title">位置模式</string>
     <string name="ram_tile_title">RAM</string>
-    <string name="ram_summary">显示可用 & 全部 RAM, 通过快捷方式查看 RAM 信息</string>
+    <string name="ram_summary">显示可用 &amp; 全部 RAM, 通过快捷方式查看 RAM 信息</string>
     <string name="reboot_summary">打开高级 (Root) 电源菜单</string>
     <string name="reboot_tile_title">高级电源菜单</string>
     <string name="ringmode_tile_title">情景模式</string>
@@ -257,7 +257,7 @@
     <string name="datausage">流量
         \n使用情况</string>
     <string name="data_usage_perms">Shortcutter 需要权限才能访问流量使用情况历史。
-        \n\n请点击继续, 选择 Shortcutter & 启用使用情况访问。\n\n</string>
+        \n\n请点击继续, 选择 Shortcutter &amp; 启用使用情况访问。\n\n</string>
     <string name="reset_day">在每月的第 %1$d 天月结</string>
     <string name="select_day">选择流量月结日</string>
     <string name="data_cycle_reset">流量使用周期</string>
@@ -268,14 +268,14 @@
     <string name="failed_data_usage">启动流量使用情况信息失败</string>
     <string name="how_to">点击此处查看添加快捷设置瓷贴的向导。\n\n一旦你在以下类别中选择要启用的瓷贴，你需要在系统快捷设置编辑器中添加这些瓷贴到下拉面板。</string>
     <string name="addtiles_title">如何添加快捷设置瓷贴 - 向导</string>
-    <string name="select_tiles"><![CDATA[1. 前往 Shortcutter 的 \"下拉\" 标签 & 选择你的快捷设置瓷贴。]]></string>
-    <string name="edit_view"><![CDATA[2. 下拉你的状态栏 & 点击如下所示的编辑按钮，通常显示为钢笔图标。
-    \n\n 三星用户点击三个点菜单 & 选择重新排列。\n\n 你的 Shortcutter 瓷贴会在下视图中显示。]]></string>
+    <string name="select_tiles"><![CDATA[1. 前往 Shortcutter 的 \"下拉\" 标签 &amp; 选择你的快捷设置瓷贴。]]></string>
+    <string name="edit_view"><![CDATA[2. 下拉你的状态栏 &amp; 点击如下所示的编辑按钮，通常显示为钢笔图标。
+    \n\n 三星用户点击三个点菜单 &amp; 选择重新排列。\n\n 你的 Shortcutter 瓷贴会在下视图中显示。]]></string>
     <string name="edit_view1">3. 在编辑视图中，你会找到 2/3 容器，你将会在底部容器中看到新的 Shortcutter 瓷贴。
-        \n\n要添加这些瓷贴，只需长按 & 拖曳选中的瓷贴到顶部(现用的)容器 & 退出编辑视图。</string>
+        \n\n要添加这些瓷贴，只需长按 &amp; 拖曳选中的瓷贴到顶部(现用的)容器 &amp; 退出编辑视图。</string>
     <string name="edit_view_note">重要提醒:
         \n\n 由于 Android N 的 Bug，在添加瓷贴时会显得困难，进行如下操作可以暂时解决这个问题。
-        \n\n在 \"快捷设置瓷贴\" 标签移除不想要的瓷贴 & 从可用瓷贴容器的上方移走你的新瓷贴。
+        \n\n在 \"快捷设置瓷贴\" 标签移除不想要的瓷贴 &amp; 从可用瓷贴容器的上方移走你的新瓷贴。
         \n\n不幸的是，我未能修复这个问题，使用这个应用也无济于事。</string>
     <string name="small">字体
         \n小</string>
@@ -295,9 +295,9 @@
         \n\n请立即点击获取付费版以启用以下功能:
         \n\n \u2022 额外自定义瓷贴
         \n \u2022 额外自定义链接瓷贴
-        \n \u2022 屏幕录制 & 捕获
+        \n \u2022 屏幕录制 &amp; 捕获
         \n \u2022 额外应用内配置选项
-        \n \u2022 & 移除50次瓷贴点击通知</string>
+        \n \u2022 &amp; 移除50次瓷贴点击通知</string>
     <string name="no_thanks">不，谢谢</string>
     <string name="add_event">添加事件</string>
     <string name="add_event_summary">添加日历事件</string>
@@ -306,9 +306,9 @@
     <string name="nfc_not_found">未找到 NFC 设置活动项</string>
     <string name="consider_prem">Shortcutter 免费版</string>
     <string name="consider_prem1">已达 50 次 Shortcutter 点击!
-        \n\n是否考虑展示你的支持 & 获取付费版？
+        \n\n是否考虑展示你的支持 &amp; 获取付费版？
         \n\n在免费版中，每点击瓷贴 50 次会显示这条通知。</string>
-    <string name="screenre_cat"><![CDATA[屏幕录制 & 捕获]]></string>
+    <string name="screenre_cat"><![CDATA[屏幕录制 &amp; 捕获]]></string>
     <string name="choose_entries">位置模式条目 (最少 2 条)</string>
     <string name="conf_sel">确认选择</string>
     <string name="recentapps">最近应用</string>
@@ -319,8 +319,8 @@
         \n\n\u2022 开关分屏
         \n\u2022 开关最近应用
         \n\u2022 显示电源菜单
-        \n\u2022 展开通知 & 快捷设置
-        \n\u2022 检测活动项 - 用于屏幕过滤 & 屏幕圆角，这些服务将会在安装应用 & 授予权限时停止。</string>
+        \n\u2022 展开通知 &amp; 快捷设置
+        \n\u2022 检测活动项 - 用于屏幕过滤 &amp; 屏幕圆角，这些服务将会在安装应用 &amp; 授予权限时停止。</string>
     <string name="power_dialog">电源对话框</string>
     <string name="split_screen">多窗口</string>
     <string name="lock_screen">锁定
@@ -333,14 +333,14 @@
         \n\u2022 电源菜单
         \n\u2022 分屏
         \n\u2022 检测活动项
-        \n - 用于屏幕过滤 & 屏幕圆角，这些服务将会在安装应用 & 授予权限时停止。
-        \n\n点击继续, 前往 Shortcutter & 启用服务。\n\n</string>
+        \n - 用于屏幕过滤 &amp; 屏幕圆角，这些服务将会在安装应用 &amp; 授予权限时停止。
+        \n\n点击继续, 前往 Shortcutter &amp; 启用服务。\n\n</string>
     <string name="split_sum">开关分屏 / 多窗口模式</string>
     <string name="power_sum">打开电源菜单</string>
     <string name="admin_needed">需要管理员权限</string>
     <string name="admin_needed_long">Shortcutter 需要管理员特权用于:\n\n
         \u2022锁定你的设备屏幕
-        \n\n请点按继续 & 启用管理员权限以使用这个快捷方式。\n\n</string>
+        \n\n请点按继续 &amp; 启用管理员权限以使用这个快捷方式。\n\n</string>
     <string name="lock_sum">锁定你的屏幕</string>
     <string name="immersive_active">正在使用沉浸模式</string>
     <string name="select_time">请选择 mm:ss 的时间格式</string>
@@ -361,13 +361,13 @@
     <string name="play">播放
         \n音乐</string>
     <string name="play_pause">播放/暂停音乐</string>
-    <string name="play_pause_sum">播放 & 暂停音乐</string>
+    <string name="play_pause_sum">播放 &amp; 暂停音乐</string>
     <string name="overlay_needed"><![CDATA[若干 Shortcutter 服务需要绘制系统叠加层权限才能运行, 其中包括:\n
     \n\u2022 侧栏/悬浮工具箱
     \n\u2022 屏幕过滤/夜间模式
     \n\u2022 屏幕圆角
     \n\u2022 网络模式对话框
-    \n\n请点击继续 & 授予所需权限。\n]]></string>
+    \n\n请点击继续 &amp; 授予所需权限。\n]]></string>
     <string name="overlay_required">需要系统叠加层权限</string>
     <string name="mob_data">移动数据</string>
     <string name="mob_dat_sum">打开/关闭移动数据</string>
@@ -423,7 +423,7 @@
     <string name="tb_columns_title">工具箱栏位</string>
     <string name="tb_columns_summary">当前 = %s 栏</string>
     <string name="sb_columns_title">侧栏栏位</string>
-    <string name="design_settings">主题 & 行为</string>
+    <string name="design_settings">主题 &amp; 行为</string>
     <string name="corners_summary">使用叠加层给予圆角屏幕的幻觉体验</string>
     <string name="corners_title">圆角</string>
     <string name="corners__scale_title">屏幕圆角缩放</string>
@@ -443,7 +443,7 @@
     <string name="system_toggles">系统设置瓷贴</string>
     <string name="action_toggles">操作瓷贴</string>
     <string name="info_toggles">信息瓷贴</string>
-    <string name="sc_services">Shortcutter Micro Apps & Services</string>
+    <string name="sc_services">Shortcutter Micro Apps &amp; Services</string>
     <string name="weather">天气信息</string>
     <string name="weather_desc">启动包含当前天气信息的弹窗</string>
     <string name="location">位置更新</string>
@@ -465,7 +465,7 @@
     <string name="acc_needed_corners">这个叠加层需要无障碍访问用于:
         \n\n \u2022 检测安全活动项。
         \n\n如果检测到安全活动项，将自动停止这个叠加层。
-        \n\n点击继续，前往 Shortcutter & 启用服务。\n\n</string>
+        \n\n点击继续，前往 Shortcutter &amp; 启用服务。\n\n</string>
     <string name="filter_off_secure">屏幕过滤已延缓:
         \n检测到安全活动项</string>
     <string name="corners_off_secure">屏幕圆角已延缓:
@@ -474,7 +474,7 @@
     <string name="full_title_header">Shortcutter\n    快捷设置 v%1$s </string>
     <string name="nigh_light">夜光模式</string>
     <string name="brightness">屏幕亮度</string>
-    <string name="nightlight_summary">提供一个始终亮屏的夜光 & 时钟显示，增加一个切换桌面时钟模式的按钮</string>
+    <string name="nightlight_summary">提供一个始终亮屏的夜光 &amp; 时钟显示，增加一个切换桌面时钟模式的按钮</string>
     <string name="deskmode">桌面时钟\n模式</string>
     <string name="lightmode">夜光\n模式</string>
     <string name="expand_collapse">侧栏展开</string>
@@ -485,34 +485,34 @@
     <string name="acc_access">无障碍访问</string>
     <string name="dnd_access">勿扰模式访问</string>
     <string name="usage_access">流量使用情况</string>
-    <string name="settings_system_summary">用途: 亮度、字体缩放、触觉反馈 & 显示超时</string>
-    <string name="overlay_summary">用途: 悬浮侧栏/工具箱、屏幕过滤 & 圆角</string>
-    <string name="acc_summary">用途: 最近应用、电源菜单、分屏、展开通知 & 快捷设置、屏幕过滤 & 圆角</string>
+    <string name="settings_system_summary">用途: 亮度、字体缩放、触觉反馈 &amp; 显示超时</string>
+    <string name="overlay_summary">用途: 悬浮侧栏/工具箱、屏幕过滤 &amp; 圆角</string>
+    <string name="acc_summary">用途: 最近应用、电源菜单、分屏、展开通知 &amp; 快捷设置、屏幕过滤 &amp; 圆角</string>
     <string name="dnd_summary">用途: 情景模式</string>
     <string name="usage_summary">用途: 流量使用情况瓷贴</string>
     <string name="actual_tiles">实际瓷贴数 =  %1$d个</string>
     <string name="shortcutter_permissions_phone">这个开关需要能够检查网络状态。\n\n
     为了做到这样，应用需要电话权限。\n\n
-    请点击继续 & 提示时授予权限。</string>
+    请点击继续 &amp; 提示时授予权限。</string>
     <string name="shortcutter_permissions_storage">这个服务需要能够访问外部存储。\n\n
     为了做到这样，应用需要读取/写入存储权限。\n\n
-    请点击继续 & 提示时授予权限。</string>
+    请点击继续 &amp; 提示时授予权限。</string>
     <string name="shortcutter_permissions_camera">这个开关需要能够访问相机(闪光灯)。\n\n
     为了做到这样，应用需要相机权限。\n\n
-    请点击继续 & 提示时授予权限。</string>
+    请点击继续 &amp; 提示时授予权限。</string>
     <string name="shortcutter_permissions_sync">这个开关需要能够访问你的同步设置。\n\n
     为了做到这样，应用需要读取/写入同步权限。\n\n
-    请点击继续 & 提示时授予权限。</string>
+    请点击继续 &amp; 提示时授予权限。</string>
     <string name="shortcutter_permissions_location">这个开关需要能够访问你的位置。\n\n
     为了做到这样，应用需要位置权限。\n\n
-    请点击继续 & 提示时授予权限。</string>
+    请点击继续 &amp; 提示时授予权限。</string>
     <string name="install_shortcut">安装\n快捷方式</string>
     <string name="select_shortcut">选择要安装的快捷方式</string>
     <string name="header">移除标题</string>
     <string name="review">\n 不要忘了在 Play 商店留下评论!</string>
     <string name="enjoying">喜欢 Shortcutter 吗？</string>
     <string name="counter">计数器\n+1</string>
-    <string name="expose_activity_summary">创建额外图标以便从你的主屏幕或者应用抽屉访问这些开关。\n\n这也会启用映射开关到其他如 HTC Edge Sense、Second Displays & Tasker 的应用。</string>
+    <string name="expose_activity_summary">创建额外图标以便从你的主屏幕或者应用抽屉访问这些开关。\n\n这也会启用映射开关到其他如 HTC Edge Sense、Second Displays &amp; Tasker 的应用。</string>
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">启用/停用 WiFi</string>
     <string name="wifi_hotspot_summary">启用/停用 WiFi 热点</string>
@@ -520,26 +520,25 @@
     <string name="hotspot_tile">WiFi 热点</string>
     <string name="to_be_toggled">选择要开关的条目。</string>
     <string name="swipe_out_close">向左/右滑动以关闭</string>
-    <string name="obscure_back"><![CDATA[Dim Behind & 检测外部触摸]]></string>
+    <string name="obscure_back"><![CDATA[Dim Behind &amp; 检测外部触摸]]></string>
     <string name="notif_led">通知呼吸灯</string>
     <string name="notif_led_summary">打开/关闭设备的通知呼吸灯\n(依赖于制造商)</string>
     <string name="system_toggle_summary">受制于 OS/制造商的兼容性</string>
     <string name="experimental_settings">试验性功能</string>
     <string name="sys_setting_tiles">开关系统设置的快捷设置瓷贴</string>
     <string name="system_actions">开关/启动系统操作的瓷贴</string>
-    <string name="info_tiles_sum">提供 & 链接到系统有用信息的瓷贴</string>
-    <string name="sc_service_sum"><![CDATA[服务 & 功能由 Shortcutter 提供]]></string>
-    <string name="cust_app">你可以将应用程序、活动项、快捷方式 & 网页链接 & Shell 命令 (ROOT) 分配于瓷贴\n在这里启用瓷贴，然后点击瓷贴以分配你选中的应用、活动项或者快捷方式。</string>
-    <string name="cust_app_pref">你可以将应用程序、活动项、快捷方式 & 网页链接 & Shell 命令 (ROOT) 分配于瓷贴</string>
-    <string name="cust_sb">自定义侧栏或工具箱的外观、感觉 & 行为</string>
+    <string name="info_tiles_sum">提供 &amp; 链接到系统有用信息的瓷贴</string>
+    <string name="sc_service_sum"><![CDATA[服务 &amp; 功能由 Shortcutter 提供]]></string>
+    <string name="cust_app_pref">你可以将应用程序、活动项、快捷方式 &amp; 网页链接 &amp; Shell 命令 (ROOT) 分配于瓷贴</string>
+    <string name="cust_sb">自定义侧栏或工具箱的外观、感觉 &amp; 行为</string>
     <string name="behaviour">变更瓷贴的行为</string>
     <string name="perms_now">启用服务时需要请求这些权限。</string>
     <string name="forceEnglish">强制使用英文</string>
     <string name="force_eng_summary">将应用语言切换成英文</string>
-    <string name="xiaomi">你的设备需要授予应用程序的自启权限，如果未启用这个权限， Shortcutter 的后台服务将会被终止。\n\n请点击继续 & 启用 Shortcutter 的自启权限。</string>
+    <string name="xiaomi">你的设备需要授予应用程序的自启权限，如果未启用这个权限， Shortcutter 的后台服务将会被终止。\n\n请点击继续 &amp; 启用 Shortcutter 的自启权限。</string>
     <string name="bat_opt"><![CDATA[Shortcutter 包含若干后台服务，在某些情况下，Android 可能会在设备进入休眠时终止这些服务，要防止这个问题的发生，我推荐通过设置 > 电源停用对 Shortcutter 的电池优化。\n\n我喜欢你能喜欢这个应用!]]></string>
     <string name="failed_window_add">添加窗口失败，请打开应用并确保已经授予屏幕叠加层权限</string>
-    <string name="monochrome">黑&白</string>
+    <string name="monochrome">黑 &amp; 白</string>
     <string name="monochrome_summary">变更显示屏为黑白色(单色)</string>
     <string name="launch_power">启动设置 \> 电源\n(如果没有安全设置访问)</string>
     <string name="admin_access">管理员访问</string>
@@ -554,7 +553,7 @@
     <string name="sb_tb_settings">侧栏/工具箱设置</string>
     <string name="design_sb_settings">配置你的 Shortcutter 侧栏/工具箱</string>
     <string name="enable_tiles_tb">启用/停用侧栏瓷贴</string>
-    <string name="detect_touch">触摸 & 滑动触发器</string>
+    <string name="detect_touch">触摸 &amp; 滑动触发器</string>
     <string name="touch_and_swipe">当触摸触发器或者向(上方、下方或内部)\n滑动时打开侧栏</string>
     <string name="swipe_only">当向(上方、下方或内部)\n滑动时打开侧栏</string>
     <string name="hide_header_sum">侧栏/工具箱标题已移除</string>
@@ -573,7 +572,7 @@
     <string name="mute_media">静音媒体</string>
     <string name="mute_media_summary">静音你的媒体音量</string>
     <string name="system_perms_message_touches">这个选项需要能够写入系统设置，我们无法通过正常方式请求这些权限，你需要手动启用这些权限。
-        \n\n点击继续 & 你将前往相关界面。\n</string>
+        \n\n点击继续 &amp; 你将前往相关界面。\n</string>
     <string name="lock_root">使用 ROOT 方法</string>
     <string name="root_lock_sum">使用 shell 命令发送 POWER (电源)键事件</string>
     <string name="choose_activity">选择活动项</string>
@@ -584,7 +583,7 @@
     <string name="bluetooth">蓝牙</string>
     <string name="bt_summary">启用/停用蓝牙</string>
     <string name="went_wrong">发生一些错误，请重试。如问题仍然存在，请附上你的设备详情与我联系。</string>
-    <string name="cont_and_phone"><![CDATA[发生一些错误，你是否有授予联系人 & 电话权限？]]></string>
+    <string name="cont_and_phone"><![CDATA[发生一些错误，你是否有授予联系人 &amp; 电话权限？]]></string>
     <string name="cp_head">轻触中间以确认或者返回以取消</string>
     <string name="transparency">透明度</string>
     <string name="apply">应用</string>
@@ -632,7 +631,6 @@
     <string name="force_refresh">强制刷新</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">打开 VPN 设置</string>
-    <string name="compass">电子罗盘</string>
     <string name="updating">更新中</string>
     <string name="select_default_immersive_mode">选择模式</string>
     <string name="select_default_immersive_mode_summary">选择默认沉浸模式响应</string>
@@ -645,11 +643,10 @@
     <string name="change_theme">亮色/暗色主题</string>
     <string name="dark_theme">设为暗色主题</string>
     <string name="auto_start_rec">自动开始录制</string>
-    <string name="cust_app_root">分配应用程序、活动项、快捷方式、Web 链接 & Shell 命令。在此启用瓷贴，然后点击瓷贴以分配你所选择的 App、活动项或快捷方式。</string>
-    <string name="cust_app_pref_root">分配应用程序、活动项、快捷方式、Web 链接 & Shell 命令。</string>
+    <string name="cust_app_pref_root">分配应用程序、活动项、快捷方式、Web 链接 &amp; Shell 命令。</string>
     <string name="send_report">发送崩溃报告</string>
     <string name="close_app">纠错</string>
-    <string name="oops_error">噢.. 似乎发生了点错误 & Shortcutter 崩溃了！ 对此造成不便，深感歉意。</string>
+    <string name="oops_error">噢.. 似乎发生了点错误 &amp; Shortcutter 崩溃了！ 对此造成不便，深感歉意。</string>
     <string name="rooted">你的设备似乎已经 Root！是否要立即启用所有 Root 功能？</string>
     <string name="change_log_title">最近变更</string>
     <string name="ok">好的</string>
@@ -660,7 +657,7 @@
     <string name="reboot_menu">重启菜单</string>
     <string name="total_usage">显示总用量</string>
     <string name="total_usage_sum">显示数据总用量或按「上/下载」方式分割显示Up/Down</string>
-    <string name="notif_access">为拦截通知，我们需要启用「通知监听器」。\\n\\n这个监听器将仅监听 Android 系统的通知，任何包含 \\\"在后台运行中\\\" 的通知将被移除。\\n\\n 请点击继续 & 启用 Shortcutters 通知拦截器。</string>
+    <string name="notif_access">为拦截通知，我们需要启用「通知监听器」。\\n\\n这个监听器将仅监听 Android 系统的通知，任何包含 \\\"在后台运行中\\\" 的通知将被移除。\\n\\n 请点击继续 &amp; 启用 Shortcutters 通知拦截器。</string>
     <string name="confirmation_dialog_sum">在高级电源菜单中显示操作确认框</string>
     <string name="left_sum">将单手模式设为左侧</string>
     <string name="wake_show_notif">屏幕唤醒活跃通知</string>
@@ -676,7 +673,7 @@
     <string name="start">开始</string>
     <string name="stop">停止</string>
     <string name="all_apps">App 启动器</string>
-    <string name="all_apps_summary">Shortcutters 可搜索 & 可过滤 App 抽屉</string>
+    <string name="all_apps_summary">Shortcutters 可搜索 &amp; 可过滤 App 抽屉</string>
     <string name="stopwatch_summary">便捷式秒表</string>
     <string name="select_apps">选择应用程序</string>
     <string name="immersive_apps">於某个应用程序中启动沉浸模式</string>
@@ -739,25 +736,24 @@
     <string name="storage_tile">设备存储空间</string>
     <string name="storage_sum">Shows available internal storage (Excludes system reserved)</string>
     <string name="edit_widget">编辑小部件</string>
-    <string name="shortcutter">Shortcutter</string>
-    <string name="how_it_works1">Shortcutter 提供若干个不同的选项能让你在一瞬间即可访问大量快捷方式、设置 & 服务。</string>
+    <string name="how_it_works1">Shortcutter 提供若干个不同的选项能让你在一瞬间即可访问大量快捷方式、设置 &amp; 服务。</string>
     <string name="how_it_works2"><u> 透过你的快速设置下拉菜单</u>
         \n
         \n\u2022 最多可添加 95 个额外的快捷设置瓷贴！
-        \n\u2022 从你的下拉面板中访问快捷方式、开关、工具 & 服务。</string>
+        \n\u2022 从你的下拉面板中访问快捷方式、开关、工具 &amp; 服务。</string>
     <string name="how_it_works3"><u>Shortcutter 侧栏/悬浮工具箱</u>
         \n
         \n\u2022 始终位于顶部并且可访问。
         \n\u2022 在侧栏或悬浮工具箱之间选择。
         \n\u2022 通过滑动或触按触发器打开。
-        \n\u2022 完全可自定义布局、位置 & 设计。
-        \n\u2022 多达 106 个不同的快捷方式、开关、工具 & 服务！</string>
+        \n\u2022 完全可自定义布局、位置 &amp; 设计。
+        \n\u2022 多达 106 个不同的快捷方式、开关、工具 &amp; 服务！</string>
     <string name="how_it_works4"><u>启动器快捷方式</u>
         \n
-        \n\u2022 显示你的 App 侧滑菜单 & 主屏幕的开关，启用映射到 HTC Edge Sense、Second Displays、Tasker & 更多！
+        \n\u2022 显示你的 App 侧滑菜单 &amp; 主屏幕的开关，启用映射到 HTC Edge Sense、Second Displays、Tasker &amp; 更多！
         \n\u2022 最多可添加 32 个主屏幕快捷方式。</string>
     <string name="how_it_works4oreo"><u>启动器快捷方式</u>
-        \n\n\u2022 显示你的 App 侧滑菜单 & 主屏幕的开关，启用映射到 HTC Edge Sense、Second Displays、Tasker & 更多！
+        \n\n\u2022 显示你的 App 侧滑菜单 &amp; 主屏幕的开关，启用映射到 HTC Edge Sense、Second Displays、Tasker &amp; 更多！
         \n\u2022 最多可添加 85 个动态主屏幕快捷方式！</string>
     <string name="active_sum">突出显示不活跃/未启用但活跃的瓷贴。</string>
     <string name="active_state_title">突出显示无状态的瓷贴</string>
@@ -768,7 +764,7 @@
     <string name="limited_free">免费版中有 10 个启动项的限制</string>
     <string name="remove">移除瓷贴</string>
     <string name="rearrange">重新排列</string>
-    <string name="trialandyearly">试用 4 天 & 年度订阅 (£1.69)</string>
+    <string name="trialandyearly">试用 4 天 &amp; 年度订阅 (£1.69)</string>
     <string name="backup_summary">备份所有 App 数据到你的 SD 卡</string>
     <string name="weather_clear">晴朗</string>
     <string name="weather_foggy">雾天</string>
@@ -806,4 +802,8 @@
     <string name="dark_widget">Shortcutter Dark Widget</string>
     <string name="light_widget">Shortcutter Light Widget</string>
     <string name="no_access">Shortcutter does not appear to have access to the chosen storage location, please select a new one.</string>
+    <string name="lp_drag"><![CDATA[Long press & drag, then click any tile to exit edit mode]]></string>
+    <string name="additionaloptions">Additional Unlock Options</string>
+    <string name="locked_sum">Pull-Down QS Tiles will long vibrate if device is locked.</string>
+    <string name="locked_tiles">Lock Pull-Down Tiles</string>
 </resources>

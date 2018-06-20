@@ -57,7 +57,7 @@
     <string name="Screen_timeout">Bildschirm Auszeit</string>
     <string name="alarm_tile">Nächster Alarm</string>
     <string name="need_dnd">Keine Berechtigungen, bitte erlaube dem Shortcutter, DND zu überschreiben.</string>
-    <string name="next_alarm">Nächster Alarm
+    <string name="next_alarm">Alarm
         \n</string>
     <string name="vibrate">Vibrieren</string>
     <string name="ring">Klingeln</string>
@@ -529,8 +529,6 @@
     <string name="system_actions">Kacheln zum Schalten / Starten von Systemaktionen</string>
     <string name="info_tiles_sum">Kacheln &amp; Verlinkungen zu nützlichen Systeminformationen</string>
     <string name="sc_service_sum"><![CDATA[Dienste & Funktionen zur Verfügung gestellt von Shortcutter]]></string>
-    <string name="cust_app">Kacheln, denen du Applikationen, Aktivitäten &amp; Shortcuts zuordnen kannst.
-		Aktiviere hier die Kacheln und klicke dann die Kachel, der du deine App, Aktivität oder Shortcut zuordnest.</string>
     <string name="cust_app_pref">Kacheln, denen du Applikationen, Aktivitäten &amp; Shortcuts zuordnen kannst.</string>
     <string name="cust_sb">Passe das Aussehen, die Bedienbarkeit und das Verhalten der Sidebar oder des Werkzeugkastens an</string>
     <string name="behaviour">Ändere das Verhalten der Kacheln</string>
@@ -635,7 +633,6 @@
     <string name="force_refresh">Aktualisierung erzwingen</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">Öffnet VPN Einstellungen</string>
-    <string name="compass">Kompass</string>
     <string name="updating">aktualisiert</string>
     <string name="select_default_immersive_mode">Wähle Art</string>
     <string name="select_default_immersive_mode_summary">Wähle Standardaktion im Vollbildmodus</string>
@@ -648,7 +645,6 @@
     <string name="change_theme">Hell/Dunkel Thema</string>
     <string name="dark_theme">Dunkles Thema aktiv</string>
     <string name="auto_start_rec">Automatischer Start der Aufzeichnung</string>
-    <string name="cust_app_root">Weise Anwendungen, Aktivitäten, Verknüpfungen, Weblinks und Shell-Befehle zu. Aktiviere die Kacheln hier, und klicke dann auf die Kachel, um die gewünschte Anwendung, Aktivität oder Verknüpfung zuzuweisen.</string>
     <string name="cust_app_pref_root">Weise Anwendungen, Aktivitäten, Verknüpfungen, Weblinks und Shell-Befehle zu.</string>
     <string name="send_report">Absturzbericht senden</string>
     <string name="close_app">Fehler löschen</string>
@@ -762,7 +758,6 @@
         \n
         \n\u2022 Expose schaltet Ihre App-Schublade und den Startbildschirm um und ermöglicht die Zuordnung zu HTC Edge Sense, Second Displays, Tasker &amp; vieles mehr!
         Fügen Sie bis zu 32 Startbildschirmverknüpfungen hinzu.</string>
-    <string name="shortcutter">Shortcutter Widget (Beta)</string>
     <string name="active_sum">Markiere Kacheln, die keinen aktiven/inaktiven Zustand haben, als aktiv.</string>
     <string name="active_state_title">Zustandslose Kacheln hervorheben</string>
     <string name="experimental_warn">Dies ist eine experimentelle Einstellung, falls negative Effekte auftreten, schalte diesen Schalter bitte wieder in den vorherigen Zustand zurück.</string>
@@ -810,4 +805,8 @@
     <string name="dark_widget">Shortcutter Dark Widget</string>
     <string name="light_widget">Shortcutter Light Widget</string>
     <string name="no_access">Shortcutter scheint keinen Zugriff auf den gewählten Speicherort zu haben, bitte wählen Sie einen neuen aus.</string>
+    <string name="lp_drag">Lange drücken Sie &amp; ziehen, dann klicken Sie auf eine beliebige Kachel, um den Bearbeitungsmodus zu verlassen.</string>
+    <string name="additionaloptions">Zusätzliche Entsperroptionen</string>
+    <string name="locked_sum">Pull-Down QS Fliesen vibrieren lange, wenn das Gerät verriegelt ist.</string>
+    <string name="locked_tiles">Lock Pull-Down-Fliesen</string>
 </resources>

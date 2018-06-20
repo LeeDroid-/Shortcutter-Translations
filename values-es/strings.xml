@@ -90,12 +90,12 @@
     <string name="ad_supported">Desbloquear Premium</string>
     <string name="disabled">Desactivado</string>
     <string name="enabled">Activado</string>
-    <string name="splash_3">Personalizar ajustes rápidos para Android</string>
+    <string name="splash_3">Ajustes rápidos para Android personalizados</string>
     <string name="by_leedroid">Creado por LeeDrOiD</string>
     <string name="welcome_to_shortcutter">Bienvenidos a</string>
     <string name="Immersive">Modo inmersivo</string>
     <string name="manual_secure_summary">Usos: Modo ubicación, modo inmersivo, ADB, notificaciones, monocromático, roaming de datos, visualización ambiental, ahorro de energía mientras carga (PC necesario).</string>
-    <string name="secure_access">Ajustes acceso de seguridad</string>
+    <string name="secure_access">Ajustes acceso seguro</string>
     <string name="action_required">Acción necesaria</string>
     <string name="settings_secure_instruct">Puedes conceder acceso a Shortcutter a los ajustes de seguridad manualmente, dándole más control sobre el sistema.
         \n\nDesde tu PC dirígete a www.leedroid.co.uk/SettingsSecureGuide y sigue las instrucciones.
@@ -361,7 +361,7 @@
         \nmúsica</string>
     <string name="play_pause">Pausar/Reproducir música</string>
     <string name="play_pause_sum">Pausar y reproducir música</string>
-    <string name="overlay_needed"><![CDATA[Hay varios servicios de Shortcutter que necesitan los permisos de interfaz del sistema para ejecutarse, lo que incluye:\n
+    <string name="overlay_needed"><![CDATA[Hay varios servicios de Shortcutter que necesitan permisos de interfaz del sistema para ejecutarse, lo que incluye:\n
     \n\u2022 Caja de herramientas flotante/barra lateral
     \n\u2022 Filtro de pantalla/Modo noche
     \n\u2022 Esquinas redondeadas
@@ -547,8 +547,6 @@
     <string name="system_actions">Fichas para acciones del sistema</string>
     <string name="info_tiles_sum">Fichas que proporcionan y enlazan información útil del sistema</string>
     <string name="sc_service_sum">Servicios y características proporcionadas por Shortcutter</string>
-    <string name="cust_app">Asignar aplicaciones, actividades, accesos directos y enlaces web. Habilitar las fichas aquí, a continuación, pulsa en la ficha para asignar la aplicación, actividad o acceso directo elegido.</string>
-    <string name="cust_app_root">Asignar aplicaciones, actividades, accesos directos, enlaces web y comandos shell. Habilitar las fichas aquí, a continuación, pulsa en la ficha para asignar la aplicación, actividad o acceso directo elegido.</string>
     <string name="cust_app_pref">Asignar aplicaciones, actividades, accesos directos y enlaces web</string>
     <string name="cust_app_pref_root">Asignar aplicaciones, actividades, accesos directos, enlaces web y comandos shell.</string>
     <string name="cust_sb">Personaliza el aspecto y comportamiento de tu barra lateral o caja de herramientas.</string>
@@ -557,7 +555,7 @@
     <string name="forceEnglish">Forzar inglés</string>
     <string name="force_eng_summary">Inicia la aplicación en inglés</string>
     <string name="xiaomi">Tu dispositivo necesita conceder a algunas aplicaciones el permiso de autoinicio, los servicios en segundo plano de Shortcutter se cerrarán si no está activado.\n\nPor favor, presiona en continuar y activa el autoinicio de Shortcutter.</string>
-    <string name="bat_opt"><![CDATA[Shortcutter contiene varios servicios en segundo plano y, en ocasiones, Android puede detener estos servicios cuando se apaga la pantalla del dispositivo,
+    <string name="bat_opt"><![CDATA[Shortcutter contiene varios servicios en segundo plano, ninguno de estos servicios tiene un consumo de energía excesivo, sin embargo, en algunos casos, Android puede impedir el funcionamiento de estos servicios cuando el dispositivo entre en el modo \"deep sleep\",
 	para evitarlo te recomendaría que desactivases la optimización de batería para Shortcutter en Ajustes > Batería.\n\n¡Espero que disfrutes de la aplicación!]]></string>
     <string name="failed_window_add">Error al añadir una ventana, abre la aplicación y asegúrate de que se han concedido los permisos de interfaz de la pantalla.</string>
     <string name="monochrome">Blanco y Negro</string>
@@ -652,7 +650,6 @@
     <string name="force_refresh">Forzar refresco</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">Abre la configuración de VPN</string>
-    <string name="compass">Brújula</string>
     <string name="updating">Actualizando</string>
     <string name="select_default_immersive_mode">Seleccionar modo</string>
     <string name="select_default_immersive_mode_summary">Seleccionar la respuesta predeterminada del modo inmersivo</string>
@@ -756,7 +753,6 @@
     <string name="airplane_mode">Modo Avión</string>
     <string name="storage_tile">Almacenamiento del dispositivo</string>
     <string name="storage_sum">Muestra el almacenamiento interno disponible (Excluye el sistema reservado)</string>
-    <string name="shortcutter">Shortcutter Widget (Beta)</string>
     <string name="edit_widget">Editar Widget</string>
     <string name="active_sum">Resalta las fichas que no tienen ningún estado activo/inactivo como activas.</string>
     <string name="active_state_title">Resaltar fichas sin estado</string>
@@ -806,4 +802,8 @@
     <string name="dark_widget">Shortcutter Widget Oscuro</string>
     <string name="light_widget">Shortcutter Widget ligero</string>
     <string name="no_access">El acceso directo no parece tener acceso a la ubicación de almacenamiento elegida, seleccione una nueva.</string>
+    <string name="lp_drag">Long presiona y arrastra, luego haz clic en cualquier azulejo para salir del modo de edición.</string>
+    <string name="additionaloptions">Opciones de desbloqueo adicionales</string>
+    <string name="locked_sum">Las baldosas QS desplegables vibrarán durante mucho tiempo si el dispositivo está bloqueado.</string>
+    <string name="locked_tiles">Bloquear baldosas desplegables</string>
 </resources>

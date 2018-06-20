@@ -86,8 +86,8 @@
     <string name="root_available">Your device appears to be rooted.
         \n Toggle me for more QS Tiles!</string>
     <string name="available_in_prem1">Remove all restrictions &amp; the 50 click notification.</string>
-    <string name="available_in_prem3">Go Premium now &amp; show your support!</string>
-    <string name="ad_supported">Unlock Premium</string>
+    <string name="available_in_prem3">Go Premium now &amp; show your support.</string>
+    <string name="ad_supported">Unlock Premium Features!</string>
     <string name="disabled">Disabled</string>
     <string name="enabled">Enabled</string>
     <string name="splash_3">Custom Quick Settings for Android</string>
@@ -110,10 +110,10 @@
     <string name="show_touches">Show Touches</string>
     <string name="subscription_error">Your device does not support subscriptions.</string>
     <string name="iab_async_error">Error launching purchase flow. Another async operation in progress.</string>
-    <string name="onetimefee2">Unlock</string>
-    <string name="onetimefee5">Unlock\n+(Gratuity)</string>
+    <string name="onetimefee2">Full\nUnlock</string>
+    <string name="onetimefee5">Full Unlock\n+(Donation)</string>
     <string name="donation2">Unlock License</string>
-    <string name="donation5">Unlock + Gratuity License</string>
+    <string name="donation5">Unlock + Donation License</string>
     <string name="detected">Detected</string>
     <string name="yes">Yes</string>
     <string name="subscription">Annual Subscription</string>
@@ -131,7 +131,7 @@
     <string name="all_prices_subject_to_tax_vat">
         \n\nPurchasing Shortcutter Premium will remove the 50 click notification &amp; unlock all app features.</string>
     <string name="amin">amin</string>
-    <string name="allofthe">All of the below options will grant the same level of premium access.</string>
+    <string name="allofthe">All of the below options will unlock all premium features.</string>
     <string name="volumeui">Volume
         \nPanel</string>
     <string name="manualbright">Manual
@@ -433,7 +433,7 @@
     <string name="tb_columns_title">Toolbox Columns</string>
     <string name="tb_columns_summary">Current = %s columns</string>
     <string name="sb_columns_title">Sidebar Columns</string>
-    <string name="design_settings">Behaviour &amp; Trigger Settings</string>
+    <string name="design_settings">Behaviour &amp; Settings</string>
     <string name="leedroid" translatable="false">www.LeeDrOiD.co.uk</string>
     <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
     <string name="corners_title">Rounded Corners</string>
@@ -453,14 +453,15 @@
         \n\u2022 Choose between a SideBar or a Floating Toolbox.
         \n\u2022 Open with a swipe or touch of the trigger.
         \n\u2022 Fully customisable layout, position &amp; design.
-        \n\u2022 Up to 106 different shortcuts, toggles, tools &amp; services!</string>
+        \n\u2022 Up to 116 different shortcuts, toggles, tools &amp; services!</string>
     <string name="how_it_works4"><u>Launcher Shortcuts</u>
         \n
         \n\u2022 Expose toggles your app drawer &amp; home screen, enabling mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!
         \n\u2022 Add up to 32  home screen shortcuts.</string>
     <string name="how_it_works4oreo"><u>Launcher Shortcuts</u>
         \n\n\u2022 Expose toggles your app drawer, enabling mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!
-        \n\u2022 Add up to 85 dynamic home screen shortcuts!.</string>
+        \n\u2022 Add up to 85 dynamic home screen shortcuts!
+        \n\nTo add a launcher shortcut:\n Long press your home screen, go to shortcuts and select Shortcutter Shortcut\'s.</string>
     <string name="attention">\nPlease pay attention to the How To Add Tiles Guide in tab 2.</string>
     <string name="config_serv">Settings</string>
     <string name="screenshot_root">Use Root Screenshot Method</string>
@@ -538,7 +539,7 @@
     <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
     In order to do this the app needs the Location permission.\n\n
     Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="install_shortcut">Install\nShortcut</string>
+    <string name="install_shortcut">Shortcutter Shortcut\'s</string>
     <string name="select_shortcut">Select A Shortcut To Install</string>
     <string name="header">Remove Header</string>
     <string name="review">Don\'t forget to leave review in the Play Store!\n\nAny additional issues or feedback, please drop me an email :)</string>
@@ -561,8 +562,6 @@
     <string name="system_actions">Tiles to toggle/launch system actions</string>
     <string name="info_tiles_sum">Tiles that provide &amp; link to useful system information</string>
     <string name="sc_service_sum">Services, \"Micro Apps\" &amp; features provided by Shortcutter</string>
-    <string name="cust_app">Assign Applications, Activities, Shortcuts &amp; Web Links.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
-    <string name="cust_app_root">Assign Applications, Activities, Shortcuts, Web Links &amp; Shell Commands.\nEnable the tiles here, then click the tile to assign your chosen app, activity or shortcut.</string>
     <string name="cust_app_pref">Assign Applications, Activities, Shortcuts &amp; Web Links.</string>
     <string name="cust_app_pref_root">Assign Applications, Activities, Shortcuts, Web Links &amp; Shell Commands.</string>
     <string name="cust_sb">Customise the behaviour of the Sidebar/Toolbox &amp; its trigger.</string>
@@ -599,7 +598,7 @@
     <string name="share">Share</string>
     <string name="delete">Delete</string>
     <string name="view">View</string>
-    <string name="trigger">Trigger</string>
+    <string name="trigger">Trigger Settings</string>
     <string name="icon_scale">Icon Scale</string>
     <string name="flash_sale">30% Off Shortcutter Premium!\nPlease select the £1.69 option in the purchase premium screen.</string>
     <string name="sale">Shortcutter Flash Sale</string>
@@ -653,7 +652,7 @@
     <string name="clear_schedule">Clear Schedules</string>
     <string name="reset_alarms">Are you sure you want to clear your Screen Filter schedules?</string>
     <string name="tile_name">Tile Name (Auto if blank)</string>
-    <string name="disable_change">Disable or change assignment?</string>
+    <string name="disable_change">Disable, change assignment or rename tile?</string>
     <string name="change">Change</string>
     <string name="disable_screen_off">Disable On-Screen OFF</string>
     <string name="unknown_sources">Allow Unknown Sources</string>
@@ -669,7 +668,6 @@
     <string name="add_tiles_url" translatable="false">https://youtu.be/JhbGPtRn56c</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">Opens VPN Settings</string>
-    <string name="compass">Compass</string>
     <string name="updating">Updating</string>
     <string name="select_default_immersive_mode">Select Mode</string>
     <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
@@ -692,11 +690,25 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv6.0.0:
+        \n\nvV6.0.6 - V6.0.8:
+        \n\u2022 Fix Sidebar edit mode animation when scrolling.
+        \n\u2022 Add option to lock Shortcutter pull-down tiles when device locked.
+        \n\u2022 App UI adjustments.
+        \n\u2022 Fix saving backups, screen shots &amp; recordings to external storage.
+        \n\nv6.0.2 - V6.0.5:
+        \n\u2022 Fix crash in Oreo notification blocker.
+        \n\u2022 Fix Popup Menu being cut off in sidebar.
+        \n\u2022 In app layout tweaks.
+        \n\u2022 Shortcut installation improvements.
+        \n\u2022 Translation updates.
+        \n\u2022 Add option to rename custom tiles.
+        \n\u2022 Bug Fixes.
+        \n\nv6.0.1:
         \n\u2022 Widget layout improvements.
         \n\u2022 Bug fixes.
         \n\u2022 Update all dependencies, target API &amp; build tools version.
         \n\u2022 Translation updates.
+        \n\u2022 Increase SideBar custom tiles to 40!
         \n\u2022 End of Android 6.0 support.
         \n\nv5.9.9:
         \n\u2022 Fix overlay windows failing to add.
@@ -1086,7 +1098,6 @@
     <string name="airplane_mode">Airplane Mode</string>
     <string name="storage_tile">Device Storage</string>
     <string name="storage_sum">Shows available internal storage (Excludes system reserved)</string>
-    <string name="shortcutter">Shortcutter Widget (Beta)</string>
     <string name="edit_widget">Edit Widget</string>
     <string name="active_sum">Highlight tiles that have no active/inactive colour state as active (A reboot may be required).</string>
     <string name="active_state_title">Highlight stateless tiles</string>
@@ -1097,7 +1108,7 @@
     <string name="limited_free">Limited to 10 launches in the FREE version</string>
     <string name="remove">Remove Tile</string>
     <string name="rearrange">Rearrange</string>
-    <string name="trialandyearly">4 Day Trial &amp; Annual Unlock</string>
+    <string name="trialandyearly">4 Day Trial &amp; Annual Subscription</string>
     <string name="backup_summary">Backup all app data to your SD Card</string>
     <string name="weather_unknown">Unknown</string>
     <string name="weather_clear">Clear</string>
@@ -1135,4 +1146,11 @@
     <string name="dark_widget">Shortcutter Dark Widget</string>
     <string name="light_widget">Shortcutter Light Widget</string>
     <string name="no_access">Shortcutter does not appear to have access to the chosen storage location, please select a new one.</string>
+    <string name="lp_drag"><![CDATA[Long press & drag, then click any tile to exit edit mode]]></string>
+    <string name="rename">Rename</string>
+    <string name="new_label">Enter New Label</string>
+    <string name="additionaloptions">Additional Unlock Options</string>
+    <string name="sync_all">Sync All</string>
+    <string name="locked_sum">Pull-Down QS Tiles will long vibrate if device is locked.</string>
+    <string name="locked_tiles">Lock Pull-Down Tiles</string>
 </resources>
