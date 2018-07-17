@@ -678,6 +678,7 @@
     <string name="select_apps">Uygulamaları Seç</string>
     <string name="immersive_apps">Belirli uygulamalarda immersive modu başlat</string>
     <string name="clipboard">Pano Düzenleyici</string>
+    <string name="clipboard_sin">Pano:</string>
     <string name="notif_log">Bildirim Günlüğü</string>
     <string name="notif_log_sum">Sistem Bildirim Günlüğünü açar</string>
     <string name="quick_reminder">Hızlı Hatırlatıcı</string>
@@ -717,7 +718,7 @@
     <string name="choose_timeout_entries">Ekran Zaman Aşımı Öğeleri (En az 2)</string>
     <string name="invert">Renkleri Ters Çevir</string>
     <string name="edit">Düzenle</string>
-    <string name="notifs_off">Shortcutter bildirimleri devre dışı bırakıldı.  Ayarlar'a gidip yeniden etkinleştirmek için buraya tıklayın.</string>
+    <string name="notifs_off">Shortcutter bildirimleri devre dışı bırakıldı.  Ayarlar\'a gidip yeniden etkinleştirmek için buraya tıklayın.</string>
     <string name="click_anim">Tıklama Animasyonu</string>
     <string name="backup_restore">Yedekle/Geri Yükle</string>
     <string name="restore">Ayarları Geri Yükle</string>
@@ -726,7 +727,7 @@
     <string name="no_backup">Yedek bulunamadı:</string>
     <string name="save_loc">Kayıt Konumu</string>
     <string name="export">Dışa Aktar</string>
-    <string name="export_sum">Daha sonra geri yüklemek için yapılandırma dosyanızı Google Drive'a, DropBox'a veya benzeri bir bulut depolama alanına gönderin</string>
+    <string name="export_sum">Daha sonra geri yüklemek için yapılandırma dosyanızı Google Drive\'a, DropBox'a veya benzeri bir bulut depolama alanına gönderin</string>
     <string name="q_calendar">Hızlı Takvim</string>
     <string name="q_calendar_sum">Sistem takviminize bağlı ekleme ve görüntüleme seçenekleriyle bir açılır takvim.</string>
     <string name="overlay_serv">Yer Paylaşımlı Hizmetler</string>
@@ -735,7 +736,7 @@
     <string name="airplane_mode">Uçak Modu</string>
     <string name="storage_tile">Cihaz Depolama</string>
     <string name="storage_sum">Kullanılabilir dahili depolama alanını gösterir (Sisteme ayrılan hariç)</string>
-    <string name="edit_widget">Widget'ı Düzenle</string>
+    <string name="edit_widget">Widget\'ı Düzenle</string>
     <string name="how_it_works1">Shortcutter, bir dizi kısayol, ayar &amp; hizmete anında erişmek için birkaç farklı seçenek sunar.</string>
     <string name="how_it_works2"><u> Hızlı Ayarlarınızı Aşağı Çekme yoluyla</u>
         \n
@@ -750,10 +751,10 @@
         \n\u2022 106 adete kadar farklı kısayollar, geçişler, araçlar &amp; hizmetler!</string>
     <string name="how_it_works4"><u>Başlatıcı Kısayolları</u>
         \n
-        \n\u2022 Uygulama menünüzü &amp; ana ekranınızı HTC Edge Sense'e, İkinci Ekranlara, Tasker'a &amp; daha fazlasına haritalamayı sağlar!
+        \n\u2022 Uygulama menünüzü &amp; ana ekranınızı HTC Edge Sense\'e, İkinci Ekranlara, Tasker\'a &amp; daha fazlasına haritalamayı sağlar!
         \n\u2022 32 adete kadar ana ekran kısayolu ekleyin.</string>
     <string name="how_it_works4oreo"><u>Başlatıcı Kısayolları</u>
-        \n\n\u2022 Uygulama menünüzü HTC Edge Sense'e, İkinci Ekranlara, Tasker'a &amp; daha fazlasına haritalamayı sağlar!
+        \n\n\u2022 Uygulama menünüzü HTC Edge Sense\'e, İkinci Ekranlara, Tasker\'a &amp; daha fazlasına haritalamayı sağlar!
         \n\u2022 85 adete kadar dinamik ana ekran kısayolu ekleyin!</string>
     <string name="active_sum">Etkin/etkin olmayan durumda etkin olmayan sekmeleri vurgula.</string>
     <string name="active_state_title">Durumsuz sekmeleri vurgula</string>
@@ -815,9 +816,23 @@
     <string name="sidebar_tile_sum">Aşağı çekmenize Yan Menüyü Etkinleştirmek/Devre dışı bırakmak için bir sekme ekleyin</string>
     <string name="dark_widget">Shortcutter Karanlık Widget</string>
     <string name="light_widget">Shortcutter Aydınlık Widget</string>
-    <string name="no_access">Shortcutter'ın seçilen depolama konumuna erişimi yok gibi görünüyor, lütfen yeni bir tane seçin.</string>
+    <string name="no_access">Shortcutter\'ın seçilen depolama konumuna erişimi yok gibi görünüyor, lütfen yeni bir tane seçin.</string>
     <string name="lp_drag"><![CDATA[Long press & drag, then click any tile to exit edit mode]]></string>
     <string name="additionaloptions">Additional Unlock Options</string>
     <string name="locked_sum">Pull-Down QS Tiles will long vibrate if device is locked.</string>
     <string name="locked_tiles">Lock Pull-Down Tiles</string>
+    <string name="rename">Rename</string>
+    <string name="new_label">Enter New Label</string>
+    <string name="sync_all">Sync All</string>
+    <string name="glob_settings">Global Settings</string>
+    <string name="app_settings">App Settings</string>
+    <string name="go_to_settings">Action Now</string>
+    <string name="clipboard_contents">Clipboard Contents:</string>
+    <string name="sc_opt">Shortcutter is being optimised by the system.\nClick here for more information.</string>
+    <string name="launcher">Launcher</string>
+    <string name="add_home_icon">Auto add to Home Screen.</string>
+    <string name="add_home_icon_sum">Add an icon to the home screen as well as the app drawer.</string>
+    <string name="shortcutter_notification">Shortcutter Notification Channel</string>
+    <string name="ore_shorts">Click here to install Oreo dynamic state launcher shortcut\'s only.</string>
+    <string name="pinned_shorts">Pinned Shortcuts.</string>
 </resources>

@@ -806,4 +806,19 @@
     <string name="additionaloptions">Additional Unlock Options</string>
     <string name="locked_sum">Pull-Down QS Tiles will long vibrate if device is locked.</string>
     <string name="locked_tiles">Lock Pull-Down Tiles</string>
+    <string name="rename">Rename</string>
+    <string name="new_label">Enter New Label</string>
+    <string name="sync_all">Sync All</string>
+    <string name="glob_settings">Global Settings</string>
+    <string name="app_settings">App Settings</string>
+    <string name="go_to_settings">Action Now</string>
+    <string name="clipboard_contents">Clipboard Contents:</string>
+    <string name="sc_opt">Shortcutter is being optimised by the system.\nClick here for more information.</string>
+    <string name="clipboard_sin">Clipboard:</string>
+    <string name="launcher">Launcher</string>
+    <string name="add_home_icon">Auto add to Home Screen.</string>
+    <string name="add_home_icon_sum">Add an icon to the home screen as well as the app drawer.</string>
+    <string name="shortcutter_notification">Shortcutter Notification Channel</string>
+    <string name="ore_shorts">Click here to install Oreo dynamic state launcher shortcut\'s only.</string>
+    <string name="pinned_shorts">Pinned Shortcuts.</string>
 </resources>

@@ -686,6 +686,7 @@
     <string name="select_apps">Wybierz Aplikacje</string>
     <string name="immersive_apps">Uruchom tryb immersyjny w niektórych aplikacjach</string>
     <string name="clipboard">Edytor Schowka</string>
+    <string name="clipboard_sin">Schowek:</string>
     <string name="notif_log">Log Powiadomień</string>
     <string name="notif_log_sum">Otwiera systemowy log powiadomień</string>
     <string name="quick_reminder">Szybkie Przypomnienie</string>
@@ -814,4 +815,18 @@
     <string name="additionaloptions">Dodatkowe opcje odblokowywania</string>
     <string name="locked_sum">Płytki QS wciągane będą wibrować przez długi czas, jeśli urządzenie jest zablokowane.</string>
     <string name="locked_tiles">Płytki blokady wciskane</string>
+    <string name="rename">Zmieniać nazwę</string>
+    <string name="new_label">Wprowadź nową etykietę</string>
+    <string name="sync_all">Synchronizacja Wszystkie</string>
+    <string name="glob_settings">Ustawienia globalne</string>
+    <string name="app_settings">Aplikacje Ustawienia</string>
+    <string name="go_to_settings">Działanie Teraz</string>
+    <string name="clipboard_contents">Zawartość schowka:</string>
+    <string name="launcher">Launcher</string>
+    <string name="add_home_icon">Auto add to Home Screen.</string>
+    <string name="add_home_icon_sum">Dodaj ikonę do ekranu głównego oraz szufladę aplikacji.</string>
+    <string name="sc_opt">Shortcutter jest zoptymalizowany przez system.\nClick pod tym adresem, aby uzyskać więcej informacji.</string>
+    <string name="shortcutter_notification">Shortcutter Kanał zgłoszeniowy</string>
+    <string name="ore_shorts">Kliknij tutaj, aby zainstalować tylko skrót do dynamicznej state launcher\'a Oreo..</string>
+    <string name="pinned_shorts">Skróty przegubowe.</string>
 </resources>

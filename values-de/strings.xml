@@ -680,6 +680,7 @@
     <string name="select_apps">Wähle Anwendungen</string>
     <string name="immersive_apps">Vollbildmodus in bestimmten Anwendungen starten</string>
     <string name="clipboard">Zwischenablage-Editor</string>
+    <string name="clipboard_sin">Zwischenablage:</string>
     <string name="notif_log">Benachrichtigungsprotokoll</string>
     <string name="notif_log_sum">Öffnet das Systembenachrichtigungsprotokoll</string>
     <string name="quick_reminder">Schnelle Erinnerung</string>
@@ -809,4 +810,18 @@
     <string name="additionaloptions">Zusätzliche Entsperroptionen</string>
     <string name="locked_sum">Pull-Down QS Fliesen vibrieren lange, wenn das Gerät verriegelt ist.</string>
     <string name="locked_tiles">Lock Pull-Down-Fliesen</string>
+    <string name="rename">Umbenennen</string>
+    <string name="new_label">Neues Etikett eingeben</string>
+    <string name="sync_all">Alle synchronisieren</string>
+    <string name="glob_settings">Globale Einstellungen</string>
+    <string name="app_settings">App-Einstellungen</string>
+    <string name="go_to_settings">Jetzt handeln</string>
+    <string name="clipboard_contents">Clipboard Contents:</string>
+    <string name="launcher">Trägerrakete</string>
+    <string name="add_home_icon">Automatisches Hinzufügen zum Startbildschirm.</string>
+    <string name="add_home_icon_sum">Fügen Sie dem Startbildschirm sowie der App-Schublade ein Symbol hinzu.</string>
+    <string name="sc_opt">Der Shortcutter wird vom System optimiert.  Klicken Sie hier für weitere Informationen.</string>
+    <string name="shortcutter_notification">Shortcutter-Benachrichtigungskanal</string>
+    <string name="ore_shorts">Klicken Sie hier, um nur Oreo Dynamic State Launcher Shortcuts zu installieren.</string>
+    <string name="pinned_shorts">Festgesteckte Shortcuts.</string>
 </resources>
