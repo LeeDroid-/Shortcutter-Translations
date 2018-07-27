@@ -801,7 +801,7 @@
        
     <string name="text_shadow">Metin Gölgesi</string>
        
-    <string name="now">Şimdi?</string>
+    <string name="now">Şimdi mi?</string>
        
     <string name="sel_unsel">Seç/Tümünü Seç-Kaldır</string>
        
@@ -817,22 +817,22 @@
     <string name="dark_widget">Shortcutter Karanlık Widget</string>
     <string name="light_widget">Shortcutter Aydınlık Widget</string>
     <string name="no_access">Shortcutter\'ın seçilen depolama konumuna erişimi yok gibi görünüyor, lütfen yeni bir tane seçin.</string>
-    <string name="lp_drag"><![CDATA[Long press & drag, then click any tile to exit edit mode]]></string>
-    <string name="additionaloptions">Additional Unlock Options</string>
-    <string name="locked_sum">Pull-Down QS Tiles will long vibrate if device is locked.</string>
-    <string name="locked_tiles">Lock Pull-Down Tiles</string>
-    <string name="rename">Rename</string>
-    <string name="new_label">Enter New Label</string>
-    <string name="sync_all">Sync All</string>
-    <string name="glob_settings">Global Settings</string>
-    <string name="app_settings">App Settings</string>
-    <string name="go_to_settings">Action Now</string>
-    <string name="clipboard_contents">Clipboard Contents:</string>
-    <string name="sc_opt">Shortcutter is being optimised by the system.\nClick here for more information.</string>
-    <string name="launcher">Launcher</string>
-    <string name="add_home_icon">Auto add to Home Screen.</string>
-    <string name="add_home_icon_sum">Add an icon to the home screen as well as the app drawer.</string>
-    <string name="shortcutter_notification">Shortcutter Notification Channel</string>
-    <string name="ore_shorts">Click here to install Oreo dynamic state launcher shortcut\'s only.</string>
-    <string name="pinned_shorts">Pinned Shortcuts.</string>
+    <string name="lp_drag"><![CDATA[Uzun basın ve sürükleyin, ardından düzenleme modundan çıkmak için herhangi bir sekmeye tıklayın]]></string>
+    <string name="additionaloptions">Ek Kilit Açma Seçenekleri</string>
+    <string name="locked_sum">Cihaz kilitlendiğinde Aşağı Çekme Hızlı Ayar Sekmeleri uzun süre titrer.</string>
+    <string name="locked_tiles">Aşağı Çekme Sekmelerini Kilitle</string>
+    <string name="rename">Yeniden adlandır</string>
+    <string name="new_label">Yeni Ad Gir</string>
+    <string name="sync_all">Tümünü Senkronize Et</string>
+    <string name="glob_settings">Genel Ayarlar</string>
+    <string name="app_settings">Uygulama Ayarları</string>
+    <string name="go_to_settings">Şimdi Git</string>
+    <string name="clipboard_contents">Pano İçerikleri:</string>
+    <string name="sc_opt">Shortcutter sistem tarafından optimize ediliyor.\nDaha fazla bilgi için buraya tıklayın.</string>
+    <string name="launcher">Başlatıcı</string>
+    <string name="add_home_icon">Ana Ekrana otomatik ekle.</string>
+    <string name="add_home_icon_sum">Ana ekranın yanı sıra uygulama çekmecesine bir simge ekle.</string>
+    <string name="shortcutter_notification">Shortcutter Bildirim Kanalı</string>
+    <string name="ore_shorts">Sadece Oreo dinamik durum başlatıcısı kısayollarını yüklemek için buraya tıklayın.</string>
+    <string name="pinned_shorts">Sabitlenmiş Kısayollar.</string>
 </resources>
