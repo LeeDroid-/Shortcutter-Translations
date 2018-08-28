@@ -5,12 +5,16 @@
         <item>Activity (расширенный)</item>
         <item>Ярлык</item>
         <item>Web ссылка</item>
+        <item>Direct Dial</item>
+        <item>Direct Message</item>
     </string-array>
     <string-array name="cust_tile_choice_root">
         <item>Приложение</item>
         <item>Activity (расширенный)</item>
         <item>Ярлык</item>
         <item>Web ссылка</item>
+        <item>Direct Dial</item>
+        <item>Direct Message</item>
         <item>Команда оболочки</item>
     </string-array>
     <string-array name="location_mode_entries">
@@ -83,11 +87,13 @@
         <item>Hide Status Bar</item>
         <item>Hide Nav Bar</item>
         <item>Show Mode Selector</item>
+        <item>Per App</item>
     </string-array>
     <string-array name="immersive_mode_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
+        <item>4</item>
     </string-array>
 </resources>

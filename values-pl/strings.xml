@@ -457,7 +457,6 @@
     <string name="fahrenheit">Fahrenheit</string>
     <string name="humidity">Wilgotność: &#160;</string>
     <string name="mylocation">Moja Lokalizacja</string>
-    <string name="maps_link">Zobacz na Mapie</string>
     <string name="current_location">Aktualna Lokalizacja</string>
 
     <string name="dev_loc_mode">Tryb Lokalizacji: &#160;</string>
@@ -519,7 +518,6 @@
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">Włączone/Wyłączone WiFi</string>
     <string name="wifi_hotspot_summary">Włacz/Wyłącz HotSpot WiFi</string>
-    <string name="wifi_toggled">WiFi Przełączone</string>
     <string name="hotspot_tile">WiFi Hotspot</string>
     <string name="to_be_toggled">Wybierz pozycje do przełączenia.</string>
     <string name="swipe_out_close">Przesuń, aby zamknąć</string>
@@ -601,7 +599,6 @@
     <string name="round_corners">Zaokrąglone Rogi</string>
     <string name="create_shortcut">Utwórz Skrót</string>
     <string name="enter_url">Wprowadź adres internetowy lub wyszukiwane hasło</string>
-    <string name="search_if_invalid">Jeśli adres URL nie jest prawidłowy, zostanie wykonane wyszukiwanie google</string>
     <string name="choose_function">Wybierz funkcję</string>
     <string name="samsung_note">Ważna uwaga dla użytkowników Samsunga</string>
     <string name="battery_opt">Jeśli używasz urządzenia firmy Samsung, po przejściu w stan uśpienia może wystąpić brak reakcji na dotknięcie płytki.</string>
@@ -760,7 +757,7 @@
     <string name="how_it_works4"><u>Skróty Uruchomające</u>
         \n
         \n\u2022 Eksponuje przełączniki w szufladzie aplikacji, umożliwiając mapowanie do HTC Edge Sense, Drugi Wyświetlacz, Taskera &amp; wiele więcej!
-        \n\u2022 Dodaj do 32 skrótów na ekranie głównym!</string>
+        \n\u2022 Dodaj do 67 skrótów na ekranie głównym!</string>
     <string name="how_it_works4oreo"><u>króty Uruchomające</u>
         \n\n\u2022 Eksponuje przełączniki w szufladzie aplikacji, umożliwiając mapowanie do HTC Edge Sense, Drugi Wyświetlacz, Taskera &amp; wiele więcej!
         \n\u2022 Dodaj do 85 dynamicznych skrótów na ekranie głównym!.</string>
@@ -821,7 +818,6 @@
     <string name="glob_settings">Ustawienia globalne</string>
     <string name="app_settings">Aplikacje Ustawienia</string>
     <string name="go_to_settings">Działanie Teraz</string>
-    <string name="clipboard_contents">Zawartość schowka:</string>
     <string name="launcher">Launcher</string>
     <string name="add_home_icon">Auto add to Home Screen.</string>
     <string name="add_home_icon_sum">Dodaj ikonę do ekranu głównego oraz szufladę aplikacji.</string>
@@ -829,4 +825,17 @@
     <string name="shortcutter_notification">Shortcutter Kanał zgłoszeniowy</string>
     <string name="ore_shorts">Kliknij tutaj, aby zainstalować tylko skrót do dynamicznej state launcher\'a Oreo..</string>
     <string name="pinned_shorts">Skróty przegubowe.</string>
+    <string name="back">Back</string>
+    <string name="home_sum">Emulates the home button</string>
+    <string name="back_sum">Emulates the back button</string>
+    <string name="apm_intercept">Override System Power Menu</string>
+    <string name="apm_intercept_sum">Shortcutters advanced power menu will replace the system power menu.</string>
+    <string name="app_ino_sets"><![CDATA[App Information, Settings & Backup]]></string>
+    <string name="man_qs">Manage Quick Settings Pull-Down Tiles</string>
+    <string name="launcher_shorts"><![CDATA[Launcher Shortcut\'s & Icon\'s]]></string>
+    <string name="shortcut_sets">Shortcut Specific Settings</string>
+    <string name="also_standalone">Your trial has now expired.</string>
+    <string name="standalone">Standalone</string>
+    <string name="label">Label</string>
+    <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
 </resources>

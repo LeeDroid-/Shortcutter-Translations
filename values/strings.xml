@@ -336,7 +336,7 @@
     <string name="lock_screen">Lock Screen</string>
     <string name="screen_lock_admin">Required to use the \"Lock Screen\" Quick Settings Tile</string>
     <string name="acc_needed">Accessibility access required</string>
-    <string name="recents_sum">Opens the recent apps screen</string>
+    <string name="recents_sum">Emulates the recent apps button.</string>
     <string name="acc_needed_long">Shortcutter requires Accessibility access to toggle
         \n\n\u2022 Recent Apps
         \n\u2022 Power Menu
@@ -371,7 +371,7 @@
         \nMusic</string>
     <string name="play_pause">Play/Pause Music</string>
     <string name="play_pause_sum">Play &amp; Pause music</string>
-    <string name="overlay_needed"><![CDATA[Several Shortcutter services require the Draw System Overlay permission to run, these include:\n
+    <string name="overlay_needed"><![CDATA[Several Shortcutter services require the "Draw System Overlay" permission to run, these include:\n
     \n\u2022 Sidebar/Floating Toolbox
     \n\u2022 Screen Filter/Night Mode
     \n\u2022 Rounded Corners
@@ -398,10 +398,9 @@
     <string name="app_picker">Select An Application</string>
     <string name="custom_app_tiles">Custom Tiles</string>
     <string name="lock_screen_title">Lock Screen</string>
-    <string name="auto_rotate">Auto
-        \nRotate</string>
-    <string name="portrait">Portrait</string>
-    <string name="landscape">Landscape</string>
+    <string name="auto_rotate">Auto Rotate</string>
+    <string name="portrait">0\u00B0</string>
+    <string name="landscape">90\u00B0</string>
     <string name="orientation_mode">Screen Rotation</string>
     <string name="orient_summary">Toggle Screen Rotation</string>
     <string name="counter_reset">Reset counter to 0?</string>
@@ -455,7 +454,7 @@
         \n\u2022 Up to 116 different shortcuts, toggles, tools &amp; services!</string>
     <string name="how_it_works4"><u>3. Exposed Icons/Launcher Shortcuts</u>
         \n
-        \n\u2022 Add up to 46 Exposed Icons (little apps) to your app drawer &amp; home screen, this also enables mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!</string>
+        \n\u2022 Add up to 67 Exposed Icons (little apps) to your app drawer &amp; home screen, this also enables mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!</string>
     <string name="how_it_works4oreo"><u>4. Home Launcher Shortcuts</u>
         \n
         \n\u2022 Add up to 85 dynamic home screen shortcuts!
@@ -485,7 +484,6 @@
     <string name="fahrenheit">Fahrenheit</string>
     <string name="humidity">Humidity:&#160;</string>
     <string name="mylocation">My Location</string>
-    <string name="maps_link">View On Maps</string>
     <string name="current_location">Current Location</string>
     <string name="maps_api" translatable="false">AIzaSyC2kDHTXa9yaOHHxcKqU2PV3aKGmjpwndk</string>
     <string name="dev_loc_mode">Location Mode:&#160; </string>
@@ -547,7 +545,6 @@
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">Enable/Disable WiFi</string>
     <string name="wifi_hotspot_summary">Enable/Disable WiFi HotSpot</string>
-    <string name="wifi_toggled">WiFi Toggled</string>
     <string name="hotspot_tile">WiFi Hotspot</string>
     <string name="to_be_toggled">Choose entries to be toggled.</string>
     <string name="swipe_out_close">Swipe left/right to close</string>
@@ -631,7 +628,6 @@
     <string name="round_corners">Rounded Corners</string>
     <string name="create_shortcut">Create a Shortcut</string>
     <string name="enter_url">Enter a Web URL or search term</string>
-    <string name="search_if_invalid">If the URL is not valid, a google search will be performed</string>
     <string name="choose_function">Choose Function</string>
     <string name="samsung_note">Important note for Samsung users</string>
     <string name="battery_opt">As you are using a Samsung device, you may experience tiles becoming unresponsive after being dormant.\nTo rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
@@ -673,7 +669,7 @@
     <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
     <string name="pip">Picture In Picture</string>
     <string name="pip_sum">Launch Picture In Picture on current app</string>
-    <string name="sc_power_menu">Powered By ©Shortcutter</string>
+    <string name="sc_power_menu">\u0020 Powered By\n©Shortcutter</string>
     <string name="apm_tile_title" translatable="false">APM</string>
     <string name="sidebar_tb">Sidebar\nToggle</string>
     <string name="auto_start_rec">Auto Start Recording</string>
@@ -690,12 +686,75 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv6.2.9:
-        \n\u2022 Suspend overlays when creating new facebook post\'s.
+        \n\nv6.5.5:
+        \n\u2022 Add reverse landscape to orientation toggle.
+        \n\u2022 Improve data speed notification layout.
+        \n\u2022 Accessibility service bug fix.
+        \n\u2022 Fix keyboard closing when writing Facebook status with overlays.
+        \n\nv6.5.4:
+        \n\u2022 Increase shortcut custom tiles to 20.
+        \n\u2022 Add Direct Dial to custom tiles.
+        \n\u2022 Add Direct SMS to custom tiles.
+        \n\nv6.5.1:
+        \n\u2022 Fix colour picker dialog.
+        \n\u2022 Layout corrections.
+        \n\nv6.5.0:
+        \n\u2022 Fix custom tile URL dialog.
+        \n\u2022 Fix frozen screen when dismissing custom tile dialogs.
+        \n\nv6.4.9:
+        \n\u2022 Fix opening standard power menu.
+        \n\u2022 Icon changes.
+        \n\u2022 Fix crash in ScreenShot tile on Android 9.
+        \n\u2022 fix screen shot &amp; record QS tiles in trial.
+        \n\nv6.4.8:
+        \n\u2022 Add Reverse Portrait to Orientation toggle.
+        \n\u2022 Code optimisations.
+        \n\u2022 Updated premium restrictions.
+        \n\u2022 Do not show dialog when intercepted by premium only.
+        \n\nv6.4.7:
+        \n\u2022 Target &amp; Build on API 28 (Android Pie).
+        \n\u2022 Update dependencies.
+        \n\u2022 Fix wakelock timeout in Night Light.
+        \n\u2022 Fix SideBar trigger scale on Android 9 (Pie).
+        \n\u2022 Layout corrections.
+        \n\nv6.4.6:
+        \n\u2022 Adjust floating calculator icon size.
+        \n\u2022 New broadcast listener.
+        \n\u2022 Re-enable option to hide icon in Quick Reminder.
+        \n\u2022 Always show picker when sending text.
+        \n\u2022 Add option to override system power menu with APM.
+        \n\u2022 Fix crash in restart speed service.
+        \n\nv6.4.4:
+        \n\u2022 Fix crash in background execution (Oreo).
+        \n\u2022 Fix back &amp; recent\'s icons.
+        \n\u2022 Improve custom icon "choose function" screen.
+        \n\u2022 Fix crash in Android 8+ restart services.
+        \n\u2022 Fix restarting services in Android 7.0.
+        \n\u2022 Correct launcher icons in Android 7.0.
+        \n\u2022 Efficiency improvements.
+        \n\u2022 Translation updates.
+        \n\nv6.4.1:
+        \n\u2022 Fix Screenshot delay/countdown notification.
+        \n\u2022 Do not add whitespace to quick reminder when cleared.
+        \n\u2022 Fix sharing text to Clipboard Editor &amp; Quick Reminder.
+        \n\u2022 Translation updates.
+        \n\u2022 Do not bug about accessibility if auto enable available.
+        \n\u2022 Fix sharing text from Clipboard &amp; Quick Reminder.
+        \n\nv6.3.7:
+        \n\u2022 Clean-up excessive resources (reduce apk size by 3mb)
+        \n\u2022 Improved welcome pages &amp; transitions.
+        \n\u2022 Improved how to add tiles guide &amp; transitions.
+        \n\u2022 Re-add ROOT screenshot method (Now send\'s key combo - manufacturer dependant).
+        \n\u2022 Fix countdown timer alerting on tick.
+        \n\u2022 Add Back &amp; Home button actions (Accessibility service).
+        \n\nv6.3.1:
+        \n\u2022 Suspend overlays when creating new Facebook post\'s.
         \n\u2022 Add Oreo pinned shortcuts option to Launcher tab.
         \n\u2022 Layout adjustments &amp; icon corrections.
-        \n\u2022 Add all toggles to exposed system settings shortcuts.
-        \n\u2022 Exposed launcher toast now shows state.
+        \n\u2022 Add all toggles to Launcher system settings shortcuts.
+        \n\u2022 Exposed launcher toast now shows toggle state.
+        \n\u2022 Fix countdown timer alarm.
+        \n\u2022 Fix screen timeout toggle sticking on some devices.
         \n\nv6.2.8:
         \n\u2022 Fix crash in Screen Filter when rotating screen.
         \n\nv6.2.7:
@@ -1150,7 +1209,7 @@
     <string name="q_calendar">Quick Calendar</string>
     <string name="q_calendar_sum">A Calendar popup with add and view options linked to your system calendar.</string>
     <string name="overlay_serv">Overlay Services</string>
-    <string name="overlay_serv_sum">These services use system overlays, they may interfere with some applications and permissions screens.\n\nThey are in no way malicious, I have done all i can to auto disable them when secure activities are present.</string>
+    <string name="overlay_serv_sum">These services use system overlays, they may interfere with some applications and permissions screens. I have done all i can to auto disable them when secure activities are present.</string>
     <string name="icon_picker_sum">Change the look of the sidebar &amp; its icons.</string>
     <string name="airplane_mode">Airplane Mode</string>
     <string name="storage_tile">Device Storage</string>
@@ -1220,4 +1279,19 @@
     <string name="sc_opt">Shortcutter is being optimised by the system.\n\nClick here for more information.</string>
     <string name="ore_shorts">Click here to install Oreo dynamic state launcher shortcut\'s only.</string>
     <string name="pinned_shorts">Pinned Shortcuts.</string>
+    <string name="back">Back</string>
+    <string name="home_sum">Emulates the home button.</string>
+    <string name="back_sum">Emulates the back button.</string>
+    <string name="apm_intercept">Override System Power Menu</string>
+    <string name="apm_intercept_sum">Shortcutters advanced power menu will replace the system power menu.</string>
+    <string name="rev_portn" translatable="false">180\u00B0</string>
+    <string name="also_standalone">"Your trial has now expired.           To continue using this service, please upgrade to premium.           Alternatively you can purchase this as a more enhanced Standalone app from the play store. "</string>
+    <string name="standalone">Standalone</string>
+    <string name="label">Label</string>
+    <string name="rev_land" translatable="false">270\u00B0</string>
+    <string name="app_ino_sets"><![CDATA[App Information, Settings & Backup]]></string>
+    <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
+    <string name="man_qs">Manage Quick Settings Pull-Down Tiles</string>
+    <string name="launcher_shorts"><![CDATA[Launcher Shortcut\'s & Icon\'s]]></string>
+    <string name="shortcut_sets">Shortcut Specific Settings</string>
 </resources>

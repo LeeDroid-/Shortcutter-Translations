@@ -319,7 +319,7 @@
         \n\u2022 Aplicaciones recientes
         \n\u2022 Mostrar menú de apagado
         \n\u2022 Notificaciones y ajustes rápidos
-        \n\u2022 Detectar actividades: Se necesita filtro de pantalla y esquinas, estos servicios se detendrán cuando las aplicaciones se instalen y los permisos se concedan.</string>
+        \n\u2022 Detectar actividades: Necesario para el filtro y esquinas de pantalla, estos servicios se detendrán cuando se instalen las aplicaciones y se otorguen los permisos.</string>
     <string name="power_dialog">Menú de apagado</string>
     <string name="split_screen">Multiventana</string>
     <string name="lock_screen">Bloqueo de
@@ -332,12 +332,12 @@
         \n\u2022 Menú de apagado
         \n\u2022 Pantalla dividida
         \n\u2022 Detectar actividades
-        \n - Se necesita filtro de pantalla y esquinas, estos servicios se detendrán cuando las aplicaciones se instalen y los permisos se concedan.
-        \n\nPulsa para proceder o dirígete a Shortcutter y activa el servicio.\n\n</string>
+        \n - Necesario para el filtro y esquinas de pantalla, estos servicios se detendrán cuando se instalen las aplicaciones y se otorguen los permisos.
+        \n\nPulsa en continuar, ve a Shortcutter y activa el servicio.\n\n</string>
     <string name="split_sum">Activar/Desactivar pantalla dividida/modo multiventana.</string>
     <string name="power_sum">Abrir el menú de apagado</string>
     <string name="admin_needed">Necesitas permisos de administrador</string>
-    <string name="admin_needed_long">Shortcutter necesita privilegios de administrador para:\n\n
+    <string name="admin_needed_long">Shortcutter necesita permisos de administrador para:\n\n
         \u2022Bloquear la pantalla de tu dispositivo
         \n\nPresiona en continuar y activa los permisos de administrador para usar este acceso directo.\n\n</string>
     <string name="lock_sum">Bloquea tu pantalla</string>
@@ -429,7 +429,7 @@
     <string name="corners__scale_set">Tamaño de la esquina&#160;=&#160; %1$d%%</string>
     <string name="corners_scale_summary">Ajusta el radio de la esquina</string>
     <string name="corner_colour">Selecciona el color de la esquina</string>
-    <string name="how_it_works">¿Cómo funciona?</string>
+    <string name="how_it_works">Cómo funciona</string>
     <string name="how_it_works1">Shortcutter ofrece varias opciones para acceder a una serie de accesos directos, configuración y servicios en un instante.</string>
     <string name="how_it_works2"><u> A través de tu panel desplegable de Ajustes Rápidos</u>
         \n
@@ -445,7 +445,7 @@
     <string name="how_it_works4"><u>Accesos directos Launcher</u>
         \n     
         \n\u2022 Crea iconos adicionales para acceder a estos botones desde tu pantalla de inicio o el cajón de aplicaciones. Esto también activa el mapeado de otras aplicaciones como HTC Edge Sense, Second Displays y Tasker.
-        \n\u2022 Agregar hasta 32 accesos directos a la pantalla de inicio.</string>
+        \n\u2022 Agregar hasta 67 accesos directos a la pantalla de inicio.</string>
     <string name="how_it_works4oreo"><u>Accesos directos Launcher</u>
         \n\n\u2022 Crea iconos adicionales para acceder a estos botones desde tu cajón de aplicaciones. Esto también activa el mapeado de otras aplicaciones como HTC Edge Sense, Second Displays y Tasker.
         \n\u2022 Añade hasta 85 accesos directos dinámicos a la pantalla de inicio.</string>
@@ -473,7 +473,6 @@
     <string name="fahrenheit">Fahrenheit</string>
     <string name="humidity">Humedad:&#160;</string>
     <string name="mylocation">Mi ubicación</string>
-    <string name="maps_link">Ver en mapa</string>
     <string name="current_location">Ubicación actual</string>
     <string name="dev_loc_mode">Modo ubicación:&#160; </string>
     <string name="mylocation_summary">Muestra la ubicación actual, con opciones de ver en el mapa y compartirla</string>
@@ -534,7 +533,6 @@
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">Activar/Desactivar WiFi</string>
     <string name="wifi_hotspot_summary">Activar/Desactivar puntos WiFi</string>
-    <string name="wifi_toggled">Activar/Desactivar WiFi</string>
     <string name="hotspot_tile">Puntos WiFi</string>
     <string name="to_be_toggled">Elige entradas para Activar/Desactivar</string>
     <string name="swipe_out_close">Desliza a un lado para cerrar</string>
@@ -615,10 +613,9 @@
     <string name="round_corners">Esquinas redondeadas</string>
     <string name="create_shortcut">Crear un acceso directo</string>
     <string name="enter_url">Introduce una URL o busca un término</string>
-    <string name="search_if_invalid">Si la URL no es válida, busca en Google</string>
     <string name="choose_function">Elegir función</string>
-    <string name="samsung_note">Nota importante para los usuarios de Samsung</string>
-    <string name="battery_opt">Debido a que estáis utilizando un dispositivo Samsung, podéis experimentar fallos con los botones.\nPara solucionarlo, debes excluir Shortcutter de la optimización de batería en los ajustes del sistema.</string>
+    <string name="samsung_note">Importante para los usuarios de Samsung</string>
+    <string name="battery_opt">Al utilizar un dispositivo Samsung, es posible que las fichas no respondan después de estar inactivas.\nPara solucionarlo, debéis excluir Shortcutter de la optimización de batería en los ajustes del sistema.</string>
     <string name="trig_alpha">Opacidad</string>
     <string name="problem">¿Tienes un problema o quieres sugerir algo? \n Envíame un correo :)</string>
     <string name="opacity">Opacidad =</string>
@@ -800,8 +797,8 @@
     <string name="mono_summary">Cambiar los auriculares de audio estéreo a mono</string>
     <string name="sidebar_tile">Ficha barra lateral</string>
     <string name="sidebar_tile_sum">Agregar una ficha para habilitar/deshabilitar la barra lateral en el panel desplegable de los ajustes rápidos</string>
-    <string name="dark_widget">Widget de Shortcutter Oscuro</string>
-    <string name="light_widget">Widget de Shortcutter Claro</string>
+    <string name="dark_widget">Widget Oscuro</string>
+    <string name="light_widget">Widget Claro</string>
     <string name="no_access">Shortcutter parece no tener acceso a la ubicación de almacenamiento elegida, selecciona una nueva.</string>
     <string name="lp_drag"><![CDATA[Presiona y arrastra, luego haz clic en cualquier ficha para salir del modo de edición.]]></string>
     <string name="rename">Renombrar</string>
@@ -815,9 +812,22 @@
     <string name="go_to_settings">Aplicar ahora</string>
     <string name="shortcutter_notification">Canal de notificación Shortcutter</string>
     <string name="launcher">Launcher</string>
-    <string name="add_home_icon">Auto add to Home Screen.</string>
-    <string name="add_home_icon_sum">Add an icon to the home screen as well as the app drawer.</string>
+    <string name="add_home_icon">Agregar automáticamente a la pantalla de inicio</string>
+    <string name="add_home_icon_sum">Añade un icono a la pantalla de inicio y al cajón de aplicaciones.</string>
     <string name="sc_opt">El sistema está optimizando Shortcutter.\n\nPresiona aquí para más información.</string>
-    <string name="ore_shorts">Click here to install Oreo dynamic state launcher shortcut\'s only.</string>
-    <string name="pinned_shorts">Pinned Shortcuts.</string>
+    <string name="ore_shorts">Presiona aquí para instalar accesos directos dinámicos a la pantalla de Inicio.</string>
+    <string name="pinned_shorts">Accesos directos</string>
+    <string name="back">Atrás</string>
+    <string name="home_sum">Emula el botón de Inicio</string>
+    <string name="back_sum">Emula el botón Atrás</string>
+    <string name="apm_intercept">Sustituir menú de apagado del sistema</string>
+    <string name="apm_intercept_sum">Los accesos directos del menú de apagado avanzado reemplazarán el menú de apagado del sistema.</string>
+    <string name="app_ino_sets"><![CDATA[App Information, Settings & Backup]]></string>
+    <string name="man_qs">Manage Quick Settings Pull-Down Tiles</string>
+    <string name="launcher_shorts"><![CDATA[Launcher Shortcut\'s & Icon\'s]]></string>
+    <string name="shortcut_sets">Shortcut Specific Settings</string>
+    <string name="standalone">Standalone</string>
+    <string name="also_standalone">Your trial has now expired.</string>
+    <string name="label">Label</string>
+    <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
 </resources>

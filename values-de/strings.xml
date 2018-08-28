@@ -455,7 +455,6 @@
     <string name="fahrenheit">Fahrenheit</string>
     <string name="humidity">Feuchtigkeit:&#160;</string>
     <string name="mylocation">Mein Standort</string>
-    <string name="maps_link">In Maps anzeigen</string>
     <string name="current_location">Aktueller Standort</string>
     <string name="dev_loc_mode">Standortmodus:&#160; %1$s</string>
     <string name="mylocation_summary">Zeigt aktuellen Standort mit Optionen zur Ansicht in Maps oder zum Teilen</string>
@@ -516,7 +515,6 @@
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">Aktiviere / Deaktiviere WiFi</string>
     <string name="wifi_hotspot_summary">Aktiviere / Deaktiviere WiFi HotSpot</string>
-    <string name="wifi_toggled">WiFi umgeschaltet</string>
     <string name="hotspot_tile">WiFi Hotspot</string>
     <string name="to_be_toggled">Wählen die zu schaltenden Einträge aus.</string>
     <string name="swipe_out_close">Wische links / rechts um zu schließen</string>
@@ -596,7 +594,6 @@
     <string name="how_to_summary">Ein einfacher Überblick über das, was die App bietet</string>
     <string name="round_corners">Abgerundete Ecken</string>
     <string name="run_without">Weiter ohne</string>
-    <string name="search_if_invalid">Wenn die URL nicht gültig ist, wird eine Google-Suche durchgeführt</string>
     <string name="xda">XDA Entwickler Thread</string>
     <string name="choose_function">Wähle Funktion</string>
     <string name="samsung_note">Wichtiger Hinweis für Samsung Nutzer</string>
@@ -754,7 +751,7 @@
     <string name="how_it_works4"><u>Launcher Abkürzungen </u>
         \n
         \n\u2022 Expose schaltet Ihre App-Schublade und den Startbildschirm um und ermöglicht die Zuordnung zu HTC Edge Sense, Second Displays, Tasker &amp; vieles mehr!
-        Fügen Sie bis zu 32 Startbildschirmverknüpfungen hinzu.</string>
+        Fügen Sie bis zu 67 Startbildschirmverknüpfungen hinzu.</string>
     <string name="how_it_works4oreo"><u>Launcher Abkürzungen </u>
         \n
         \n\u2022 Expose schaltet Ihre App-Schublade und den Startbildschirm um und ermöglicht die Zuordnung zu HTC Edge Sense, Second Displays, Tasker &amp; vieles mehr!
@@ -816,7 +813,6 @@
     <string name="glob_settings">Globale Einstellungen</string>
     <string name="app_settings">App-Einstellungen</string>
     <string name="go_to_settings">Jetzt handeln</string>
-    <string name="clipboard_contents">Clipboard Contents:</string>
     <string name="launcher">Trägerrakete</string>
     <string name="add_home_icon">Automatisches Hinzufügen zum Startbildschirm.</string>
     <string name="add_home_icon_sum">Fügen Sie dem Startbildschirm sowie der App-Schublade ein Symbol hinzu.</string>
@@ -824,4 +820,17 @@
     <string name="shortcutter_notification">Shortcutter-Benachrichtigungskanal</string>
     <string name="ore_shorts">Klicken Sie hier, um nur Oreo Dynamic State Launcher Shortcuts zu installieren.</string>
     <string name="pinned_shorts">Festgesteckte Shortcuts.</string>
+    <string name="back">Back</string>
+    <string name="home_sum">Emulates the home button</string>
+    <string name="back_sum">Emulates the back button</string>
+    <string name="apm_intercept">Override System Power Menu</string>
+    <string name="apm_intercept_sum">Shortcutters advanced power menu will replace the system power menu.</string>
+    <string name="app_ino_sets"><![CDATA[App Information, Settings & Backup]]></string>
+    <string name="man_qs">Manage Quick Settings Pull-Down Tiles</string>
+    <string name="shortcut_sets">Shortcut Specific Settings</string>
+    <string name="also_standalone">Your trial has now expired.</string>
+    <string name="standalone">Standalone</string>
+    <string name="label">Label</string>
+    <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
+    <string name="launcher_shorts"><![CDATA[Launcher Shortcut\'s & Icon\'s]]></string>
 </resources>

@@ -455,7 +455,6 @@
     <string name="fahrenheit">Fahrenhayt</string>
     <string name="humidity">Nem:&#160;</string>
     <string name="mylocation">Konumum</string>
-    <string name="maps_link">Haritada Göster</string>
     <string name="current_location">Mevcut Konum</string>
     <string name="dev_loc_mode">Konum Modu:&#160;%1$s</string>
     <string name="mylocation_summary">Haritaları görüntülemek veya paylaşmak için seçeneklerle birlikte, geçerli konumu görüntüler</string>
@@ -516,7 +515,6 @@
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">WiFi\'yi Aç/Kapat</string>
     <string name="wifi_hotspot_summary">WiFi İnternet Paylaşımını Aç/Kapat</string>
-    <string name="wifi_toggled">WiFi Açıldı</string>
     <string name="hotspot_tile">WiFi İnternet Paylaşımı</string>
     <string name="to_be_toggled">Eklemek istediklerinizi seçin.</string>
     <string name="swipe_out_close">Kapatmak için sola/sağa kaydırın</string>
@@ -594,7 +592,6 @@
     <string name="how_to_summary">Uygulamanın neler yapabileceğinin özeti</string>
     <string name="round_corners">Yuvarlatılmış Köşeler</string>
     <string name="run_without">Olmadan Devam et</string>
-    <string name="search_if_invalid">Geçersiz bir adres girildiyse, google araması başlatılır.</string>
     <string name="xda">XDA Geliştiricileri Konusu</string>
     <string name="choose_function">İşlev Seç</string>
     <string name="samsung_note">Samsung kullanıcıları için önemli uyarı</string>
@@ -727,7 +724,7 @@
     <string name="no_backup">Yedek bulunamadı:</string>
     <string name="save_loc">Kayıt Konumu</string>
     <string name="export">Dışa Aktar</string>
-    <string name="export_sum">Daha sonra geri yüklemek için yapılandırma dosyanızı Google Drive\'a, DropBox'a veya benzeri bir bulut depolama alanına gönderin</string>
+    <string name="export_sum">Daha sonra geri yüklemek için yapılandırma dosyanızı Google Drive\'a, DropBox\'a veya benzeri bir bulut depolama alanına gönderin</string>
     <string name="q_calendar">Hızlı Takvim</string>
     <string name="q_calendar_sum">Sistem takviminize bağlı ekleme ve görüntüleme seçenekleriyle bir açılır takvim.</string>
     <string name="overlay_serv">Yer Paylaşımlı Hizmetler</string>
@@ -752,7 +749,7 @@
     <string name="how_it_works4"><u>Başlatıcı Kısayolları</u>
         \n
         \n\u2022 Uygulama menünüzü &amp; ana ekranınızı HTC Edge Sense\'e, İkinci Ekranlara, Tasker\'a &amp; daha fazlasına haritalamayı sağlar!
-        \n\u2022 32 adete kadar ana ekran kısayolu ekleyin.</string>
+        \n\u2022 67 adete kadar ana ekran kısayolu ekleyin.</string>
     <string name="how_it_works4oreo"><u>Başlatıcı Kısayolları</u>
         \n\n\u2022 Uygulama menünüzü HTC Edge Sense\'e, İkinci Ekranlara, Tasker\'a &amp; daha fazlasına haritalamayı sağlar!
         \n\u2022 85 adete kadar dinamik ana ekran kısayolu ekleyin!</string>
@@ -786,33 +783,19 @@
     <string name="apm_safe">Güvenli Modda Başlat</string>
     <string name="ent">Öğeler</string>
     <string name="apm_root_req">Shortcutter APM Root erişimi gerektirir</string>
-       
     <string name="weather_overcast">Bulutlu</string>
-       
     <string name="auto_with_root">ROOT ile otomatik izin verildi</string>
-       
     <string name="unread_count">Okunmamış Bildirimler:</string>
-       
     <string name="loading_activities">Etkinlikler Yükleniyor...</string>
-       
     <string name="tiles">Sekmeler =</string>
-       
     <string name="loading_apps">Uygulamalar Yükleniyor...</string>
-       
     <string name="text_shadow">Metin Gölgesi</string>
-       
     <string name="now">Şimdi mi?</string>
-       
     <string name="sel_unsel">Seç/Tümünü Seç-Kaldır</string>
-       
     <string name="reset">Sıfırla</string>
-       
     <string name="mono">Mono Ses</string>
-       
     <string name="mono_summary">Kulaklık setini Stereodan mono sese getir</string>
-       
     <string name="sidebar_tile">Yan Menü Hızlı Sekme</string>
-       
     <string name="sidebar_tile_sum">Aşağı çekmenize Yan Menüyü Etkinleştirmek/Devre dışı bırakmak için bir sekme ekleyin</string>
     <string name="dark_widget">Shortcutter Karanlık Widget</string>
     <string name="light_widget">Shortcutter Aydınlık Widget</string>
@@ -827,7 +810,6 @@
     <string name="glob_settings">Genel Ayarlar</string>
     <string name="app_settings">Uygulama Ayarları</string>
     <string name="go_to_settings">Şimdi Git</string>
-    <string name="clipboard_contents">Pano İçerikleri:</string>
     <string name="sc_opt">Shortcutter sistem tarafından optimize ediliyor.\nDaha fazla bilgi için buraya tıklayın.</string>
     <string name="launcher">Başlatıcı</string>
     <string name="add_home_icon">Ana Ekrana otomatik ekle.</string>
@@ -835,4 +817,17 @@
     <string name="shortcutter_notification">Shortcutter Bildirim Kanalı</string>
     <string name="ore_shorts">Sadece Oreo dinamik durum başlatıcısı kısayollarını yüklemek için buraya tıklayın.</string>
     <string name="pinned_shorts">Sabitlenmiş Kısayollar.</string>
+    <string name="back">Back</string>
+    <string name="home_sum">Emulates the back button</string>
+    <string name="back_sum">Emulates the back button</string>
+    <string name="apm_intercept">Override System Power Menu</string>
+    <string name="apm_intercept_sum">Shortcutters advanced power menu will replace the system power menu.</string>
+    <string name="app_ino_sets"><![CDATA[App Information, Settings & Backup]]></string>
+    <string name="man_qs">Manage Quick Settings Pull-Down Tiles</string>
+    <string name="launcher_shorts"><![CDATA[Launcher Shortcut\'s & Icon\'s]]></string>
+    <string name="shortcut_sets">Shortcut Specific Settings</string>
+    <string name="also_standalone">Your trial has now expired.</string>
+    <string name="standalone">Standalone</string>
+    <string name="label">Label</string>
+    <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
 </resources>

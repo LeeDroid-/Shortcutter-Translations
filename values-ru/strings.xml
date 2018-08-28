@@ -328,7 +328,6 @@
     <string name="manualbright">Ручная яркость</string>
     <string name="manufact_depend">Настроить количество Плиток QS в свернутом ПулДауне.
 Этот мод работает не во всех прошивках.</string>
-    <string name="maps_link">Вид на карте</string>
     <string name="misc_cat">Иконки в Лаунчере</string>
     <string name="misc_tiles_cat">Прочие Параметры</string>
     <string name="mob_dat_sum">Мобильные данные вкл./выкл.</string>
@@ -473,7 +472,6 @@
     <string name="screenshot_root_summary">Производит снимок с использованием двоичной системы screencap</string>
     <string name="screenshot_summary">Принимает неподвижное изображение экрана вашего устройства</string>
     <string name="screenshot_tile_title">Скриншот</string>
-    <string name="search_if_invalid">Если URL-адрес не является допустимым, будет выполняться поиск в google</string>
     <string name="search_summary">Поиск Google</string>
     <string name="search_tile">Веб-поиск</string>
     <string name="secure_access">Параметры безопасного доступа</string>
@@ -616,7 +614,6 @@
     <string name="wifi_call">Wi-Fi вызов</string>
     <string name="wifi_hotspot_summary">ВКЛ/ВЫКЛ WiFi HotSpot</string>
     <string name="wifi_summary">ВКЛ/ВЫКЛ WiFi</string>
-    <string name="wifi_toggled">WiFi включен</string>
     <string name="wrap">Значение: перенос содержимого</string>
     <string name="xda">XDA Разработчики</string>
     <string name="xiaomi">Ваше устройство требует, чтобы приложения получали разрешения автозапуска, без этого службы Shortcutter будут закрыты.
@@ -764,7 +761,7 @@
     <string name="how_it_works4"><u>Launcher Shortcuts</u>
         \n
         \n\u2022 Expose toggles your app drawer &amp; home screen, enabling mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!
-        \n\u2022 Add up to 32  home screen shortcuts.</string>
+        \n\u2022 Add up to 67  home screen shortcuts.</string>
     <string name="how_it_works4oreo"><u>Launcher Shortcuts</u>
         \n\n\u2022 Expose toggles your app drawer, enabling mapping to HTC Edge Sense, Second Displays, Tasker &amp; much more!
         \n\u2022 Add up to 85 dynamic home screen shortcuts!.</string>
@@ -816,21 +813,33 @@
     <string name="light_widget">Shortcutter Светлый Виджет</string>
     <string name="no_access">Shortcutter не имеет доступ достаточных прав к расположению места хранения, пожалуйста, выберите ...</string>
     <string name="lp_drag"><![CDATA[Долго нажмите & перетащите, а затем щелкните в любой плитку, чтобы выйти из режима редактирования]]></string>
-    <string name="additionaloptions">Дополнительные параметры разблокировки</string> 
-	<string name="locked_sum">Плитка QS pull-Down долго будет вибрировать, если устройство заблокировано.</string> 
-	<string name="locked_tiles">Pull-Down плитка блокировки</string>    
-    <string name="rename">Переименование</string> 
-	<string name="new_label">Введите новую метку</string> 
-	<string name="sync_all">Синхронизировать все</string> 
-	<string name="glob_settings">Глобальные параметры</string>
-	<string name="app_settings">Параметры приложения</string> 
-	<string name="go_to_settings">Действовать сейчас</string>
-	<string name="clipboard_contents">Содержимое буфера обмена:</string>    
+    <string name="additionaloptions">Дополнительные параметры разблокировки</string>
+    <string name="locked_sum">Плитка QS pull-Down долго будет вибрировать, если устройство заблокировано.</string>
+    <string name="locked_tiles">Pull-Down плитка блокировки</string>
+    <string name="rename">Переименование</string>
+    <string name="new_label">Введите новую метку</string>
+    <string name="sync_all">Синхронизировать все</string>
+    <string name="glob_settings">Глобальные параметры</string>
+    <string name="app_settings">Параметры приложения</string>
+    <string name="go_to_settings">Действовать сейчас</string>
     <string name="sc_opt">Shortcutter в настоящее время оптимизирован под систему. \nClick получение дополнительной информации.</string>
     <string name="launcher">Лаунчер</string>
-    <string name="add_home_icon">Автодобавление на главный экран.</string> 
-	<string name="add_home_icon_sum">Добавить значок на главном экране, а также в Лаунчер.</string> 
-	<string name="shortcutter_notification">Shortcutter канал уведомлений</string> 
-	<string name="ore_shorts">Нажмите здесь, чтобы установить Oreo-динамический запуск ярлыков.</string> 
-	<string name="pinned_shorts">Закрепленные ярлыки.</string>
+    <string name="add_home_icon">Автодобавление на главный экран.</string>
+    <string name="add_home_icon_sum">Добавить значок на главном экране, а также в Лаунчер.</string>
+    <string name="shortcutter_notification">Shortcutter канал уведомлений</string>
+    <string name="ore_shorts">Нажмите здесь, чтобы установить Oreo-динамический запуск ярлыков.</string>
+    <string name="pinned_shorts">Закрепленные ярлыки.</string>
+    <string name="back">Back</string>
+    <string name="home_sum">Emulates the back button</string>
+    <string name="back_sum">Emulates the back button</string>
+    <string name="apm_intercept">Override System Power Menu</string>
+    <string name="apm_intercept_sum">Shortcutters advanced power menu will replace the system power menu.</string>
+    <string name="app_ino_sets"><![CDATA[App Information, Settings & Backup]]></string>
+    <string name="man_qs">Manage Quick Settings Pull-Down Tiles</string>
+    <string name="launcher_shorts"><![CDATA[Launcher Shortcut\'s & Icon\'s]]></string>
+    <string name="shortcut_sets">Shortcut Specific Settings</string>
+    <string name="also_standalone">Your trial has now expired.</string>
+    <string name="standalone">Standalone</string>
+    <string name="label">Label</string>
+    <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
 </resources>

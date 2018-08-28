@@ -70,12 +70,16 @@
         <item>Activity (Advanced)</item>
         <item>Shortcut</item>
         <item>Web Link</item>
+        <item>Direct Dial</item>
+        <item>Direct Message</item>
     </string-array>
     <string-array name="cust_tile_choice_root">
         <item>Application</item>
         <item>Activity (Advanced)</item>
         <item>Shortcut</item>
         <item>Web Link</item>
+        <item>Direct Dial</item>
+        <item>Direct Message</item>
         <item>Shell Command</item>
     </string-array>
     <string-array name="immersive_mode_entries">
@@ -93,35 +97,39 @@
         <item>4</item>
     </string-array>
     <string-array name="orientation_mode_entries">
-        <item>Auto Rotate</item>
-        <item>Portrait</item>
-        <item>Landscape</item>
+        <item>@string/auto_rotate</item>
+        <item>0\u00B0</item>
+        <item>90\u00B0</item>
+        <item>180\u00B0</item>
+        <item>270\u00B0</item>
     </string-array>
     <string-array name="orientation_mode_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+        <item>3</item>
+        <item>4</item>
     </string-array>
     <array name="mdcolor_500">
-        <item name="red_500" type="color">#f44336</item>
-        <item name="pink_500" type="color">#E91E63</item>
-        <item name="purple_500" type="color">#9C27B0</item>
-        <item name="deep_purple_500" type="color">#673AB7</item>
-        <item name="indigo_500" type="color">#3F51B5</item>
-        <item name="blue_500" type="color">#2196F3</item>
-        <item name="light_blue_500" type="color">#03A9F4</item>
-        <item name="cyan_500" type="color">#00BCD4</item>
-        <item name="teal_500" type="color">#009688</item>
-        <item name="green_500" type="color">#4CAF50</item>
-        <item name="light_green_500" type="color">#8BC34A</item>
-        <item name="lime_500" type="color">#CDDC39</item>
-        <item name="yellow_500" type="color">#FFEB3B</item>
-        <item name="amber_500" type="color">#FFC107</item>
-        <item name="orange_500" type="color">#FF9800</item>
-        <item name="deep_orange_500" type="color">#FF5722</item>
-        <item name="brown_500" type="color">#795548</item>
-        <item name="grey_500" type="color">#9E9E9E</item>
-        <item name="blue_grey_500" type="color">#607D8B</item>
+        <item>#f44336</item>
+        <item>#E91E63</item>
+        <item>#9C27B0</item>
+        <item>#673AB7</item>
+        <item>#3F51B5</item>
+        <item>#2196F3</item>
+        <item>#03A9F4</item>
+        <item>#00BCD4</item>
+        <item>#009688</item>
+        <item>#4CAF50</item>
+        <item>#8BC34A</item>
+        <item>#CDDC39</item>
+        <item>#FFEB3B</item>
+        <item>#FFC107</item>
+        <item>#FF9800</item>
+        <item>#FF5722</item>
+        <item>#795548</item>
+        <item>#9E9E9E</item>
+        <item>#607D8B</item>
     </array>
     <string-array name="timeout_mode_entries">
         <item>15s</item>

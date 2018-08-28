@@ -455,7 +455,6 @@
     <string name="fahrenheit">华氏度</string>
     <string name="humidity">湿度: </string>
     <string name="mylocation">我的位置</string>
-    <string name="maps_link">在地图上查看</string>
     <string name="current_location">当前位置</string>
     <string name="dev_loc_mode">位置模式:  %1$s</string>
     <string name="mylocation_summary">显示当前位置，附有在地图上查看或分享的选项。</string>
@@ -516,7 +515,6 @@
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">启用/停用 WiFi</string>
     <string name="wifi_hotspot_summary">启用/停用 WiFi 热点</string>
-    <string name="wifi_toggled">WiFi 开关</string>
     <string name="hotspot_tile">WiFi 热点</string>
     <string name="to_be_toggled">选择要开关的条目。</string>
     <string name="swipe_out_close">向左/右滑动以关闭</string>
@@ -595,7 +593,6 @@
     <string name="round_corners">圆角</string>
     <string name="create_shortcut">创建快捷方式</string>
     <string name="enter_url">输入网页链接或者搜索关键词</string>
-    <string name="search_if_invalid">如果链接无效，将执行 Google 搜索</string>
     <string name="choose_function">选择功能</string>
     <string name="samsung_note">对三星用户的重要提醒</string>
     <string name="battery_opt">你正在使用的是三星设备，你可能会遇到休眠后瓷贴变得没有响应的情况。\n要解决这个问题，请在设备设置中将 Shortcutter 从电池优化中排除。</string>
@@ -751,7 +748,7 @@
     <string name="how_it_works4"><u>启动器快捷方式</u>
         \n
         \n\u2022 显示你的 App 侧滑菜单 &amp; 主屏幕的开关，启用映射到 HTC Edge Sense、Second Displays、Tasker &amp; 更多！
-        \n\u2022 最多可添加 32 个主屏幕快捷方式。</string>
+        \n\u2022 最多可添加 67 个主屏幕快捷方式。</string>
     <string name="how_it_works4oreo"><u>启动器快捷方式</u>
         \n\n\u2022 显示你的 App 侧滑菜单 &amp; 主屏幕的开关，启用映射到 HTC Edge Sense、Second Displays、Tasker &amp; 更多！
         \n\u2022 最多可添加 85 个动态主屏幕快捷方式！</string>
@@ -812,7 +809,6 @@
     <string name="glob_settings">Global Settings</string>
     <string name="app_settings">App Settings</string>
     <string name="go_to_settings">Action Now</string>
-    <string name="clipboard_contents">Clipboard Contents:</string>
     <string name="sc_opt">Shortcutter is being optimised by the system.\nClick here for more information.</string>
     <string name="clipboard_sin">Clipboard:</string>
     <string name="launcher">Launcher</string>
@@ -821,4 +817,17 @@
     <string name="shortcutter_notification">Shortcutter Notification Channel</string>
     <string name="ore_shorts">Click here to install Oreo dynamic state launcher shortcut\'s only.</string>
     <string name="pinned_shorts">Pinned Shortcuts.</string>
+    <string name="back">Back</string>
+    <string name="home_sum">Emulates the back button</string>
+    <string name="back_sum">Emulates the back button</string>
+    <string name="apm_intercept">Override System Power Menu</string>
+    <string name="apm_intercept_sum">Shortcutters advanced power menu will replace the system power menu.</string>
+    <string name="also_standalone">"Your trial has now expired.           To continue using this service, please upgrade to premium.           Alternatively you can purchase this as a more enhanced Standalone app from the play store. "</string>
+    <string name="standalone">Standalone</string>
+    <string name="label">Label</string>
+    <string name="app_ino_sets"><![CDATA[App Information, Settings & Backup]]></string>
+    <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
+    <string name="man_qs">Manage Quick Settings Pull-Down Tiles</string>
+    <string name="launcher_shorts"><![CDATA[Launcher Shortcut\'s & Icon\'s]]></string>
+    <string name="shortcut_sets">Shortcut Specific Settings</string>
 </resources>

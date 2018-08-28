@@ -70,12 +70,16 @@
         <item>Etkinlik (Gelişmiş)</item>
         <item>Kısayol</item>
         <item>İnternet Bağlantısı</item>
+        <item>Direct Dial</item>
+        <item>Direct Message</item>
     </string-array>
     <string-array name="cust_tile_choice_root">
         <item>Uygulama</item>
         <item>Etkinlik (Gelişmiş)</item>
         <item>Kısayol</item>
         <item>İnternet Bağlantısı</item>
+        <item>Direct Dial</item>
+        <item>Direct Message</item>
         <item>Kabuk Komutu</item>
     </string-array>
     <string-array name="immersive_mode_entries">
@@ -91,15 +95,5 @@
         <item>2</item>
         <item>3</item>
         <item>4</item>
-    </string-array>
-    <string-array name="orientation_mode_entries">
-        <item>Otomatik Döndür</item>
-        <item>Dikey</item>
-        <item>Yatay</item>
-    </string-array>
-    <string-array name="orientation_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>

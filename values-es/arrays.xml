@@ -41,12 +41,16 @@
         <item>Actividad (avanzado)</item>
         <item>Acceso directo</item>
         <item>Enlace web</item>
+        <item>Direct Dial</item>
+        <item>Direct Message</item>
     </string-array>
     <string-array name="cust_tile_choice_root">
         <item>Aplicación</item>
         <item>Actividad (avanzado)</item>
         <item>Acceso directo</item>
         <item>Enlace web</item>
+        <item>Direct Dial</item>
+        <item>Direct Message</item>
         <item>Comando Shell</item>
     </string-array>
     <string-array name="immersive_mode_entries">
@@ -55,11 +59,6 @@
         <item>Ocultar barra de navegación</item>
         <item>Mostrar selector</item>
         <item>Por aplicación</item>
-    </string-array>
-    <string-array name="orientation_mode_entries">
-        <item>Rotación automática</item>
-        <item>Vertical</item>
-        <item>Apaisado</item>
     </string-array>
     <string-array name="timeout_mode_entries">
         <item>15s</item>
