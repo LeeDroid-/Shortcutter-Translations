@@ -830,4 +830,7 @@
     <string name="man_qs">Manage Quick Settings Pull-Down Tiles</string>
     <string name="launcher_shorts"><![CDATA[Launcher Shortcut\'s & Icon\'s]]></string>
     <string name="shortcut_sets">Shortcut Specific Settings</string>
+    <string name="special_tiles">Advanced Access Tiles</string>
+    <string name="special_tiles_sum">Tiles that require either ROOT or Settings Secure access.</string>
+    <string name="lock_orient">Lock Orientation</string>
 </resources>

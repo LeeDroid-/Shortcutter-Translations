@@ -655,7 +655,7 @@
     <string name="cust_app_pref_root">Назначить приложения, действия, ярлыки, веб-ссылки и Команды оболочки.</string>
     <string name="send_report">Отправлять отчет об ошибке</string>
     <string name="close_app">Очистить лог ошибки</string>
-    <string name="oops_error">К сожалению ... похоже, что что-то пошло не так и Извините за неудобства. </string>
+    <string name="oops_error">К сожалению … похоже, что что-то пошло не так и Извините за неудобства. </string>
     <string name="change_log_title">Недавние изменения</string>
     <string name="ok">Ok</string>
     <string name="notification_blocker">Уведомления всплывающих окон</string>
@@ -798,9 +798,9 @@
     <string name="weather_overcast">Пасмурно</string>
     <string name="auto_with_root">Автоматически предоставляются с ROOT</string>
     <string name="unread_count">Непрочитанные уведомления:</string>
-    <string name="loading_activities">Загрузка активити...</string>
+    <string name="loading_activities">Загрузка активити…</string>
     <string name="tiles">Плитка =</string>
-    <string name="loading_apps">Загрузка приложений...</string>
+    <string name="loading_apps">Загрузка приложений…</string>
     <string name="text_shadow">Тень текста</string>
     <string name="now">Сейчас?</string>
     <string name="sel_unsel">Выберите/Отменить все</string>
@@ -811,7 +811,7 @@
     <string name="sidebar_tile_sum">Добавить плитку, чтобы включить/выключить боковую панель для быстрой настройки в выпадающем меню</string>
     <string name="dark_widget">Shortcutter Темный Виджет</string>
     <string name="light_widget">Shortcutter Светлый Виджет</string>
-    <string name="no_access">Shortcutter не имеет доступ достаточных прав к расположению места хранения, пожалуйста, выберите ...</string>
+    <string name="no_access">Shortcutter не имеет доступ достаточных прав к расположению места хранения, пожалуйста, выберите …</string>
     <string name="lp_drag"><![CDATA[Долго нажмите & перетащите, а затем щелкните в любой плитку, чтобы выйти из режима редактирования]]></string>
     <string name="additionaloptions">Дополнительные параметры разблокировки</string>
     <string name="locked_sum">Плитка QS pull-Down долго будет вибрировать, если устройство заблокировано.</string>
@@ -842,4 +842,7 @@
     <string name="standalone">Standalone</string>
     <string name="label">Label</string>
     <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
+    <string name="special_tiles">Advanced Access Tiles</string>
+    <string name="special_tiles_sum">Tiles that require either ROOT or Settings Secure access.</string>
+    <string name="lock_orient">Lock Orientation</string>
 </resources>

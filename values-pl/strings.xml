@@ -838,4 +838,7 @@
     <string name="standalone">Standalone</string>
     <string name="label">Label</string>
     <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
+    <string name="special_tiles">Advanced Access Tiles</string>
+    <string name="special_tiles_sum">Tiles that require either ROOT or Settings Secure access.</string>
+    <string name="lock_orient">Lock Orientation</string>
 </resources>

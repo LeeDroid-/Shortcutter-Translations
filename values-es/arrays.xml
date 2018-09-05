@@ -41,16 +41,16 @@
         <item>Actividad (avanzado)</item>
         <item>Acceso directo</item>
         <item>Enlace web</item>
-        <item>Direct Dial</item>
-        <item>Direct Message</item>
+        <item>Marcación directa</item>
+        <item>Mensaje directo</item>
     </string-array>
     <string-array name="cust_tile_choice_root">
         <item>Aplicación</item>
         <item>Actividad (avanzado)</item>
         <item>Acceso directo</item>
         <item>Enlace web</item>
-        <item>Direct Dial</item>
-        <item>Direct Message</item>
+        <item>Marcación directa</item>
+        <item>Mensaje directo</item>
         <item>Comando Shell</item>
     </string-array>
     <string-array name="immersive_mode_entries">

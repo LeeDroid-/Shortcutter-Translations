@@ -10,7 +10,7 @@
     <string name="device_only">Device Only</string>
     <string name="battery_saving">Battery Saving</string>
     <string name="high_accuracy">High Accuracy</string>
-    <string name="special_perms_command">Once complete, click confirm &amp; we will test access, if the command failed, try again.</string>
+    <string name="special_perms_command">Once complete, click confirm &amp; we will test access, if the command fails, please try again.</string>
     <string name="special_perms_required">"Special permission required
         \n\nTry running: "</string>
     <string name="wifi_call">Wi-Fi Calling</string>
@@ -94,10 +94,10 @@
     <string name="by_leedroid">Created By Lee Bailey</string>
     <string name="welcome_to_shortcutter">Welcome To</string>
     <string name="Immersive">Immersive Mode</string>
-    <string name="manual_secure_summary">Usage: Location Mode Toggle, Immersive Mode, ADB, Heads Up, Monochrome, Data Roaming, Ambient Display, On Wile Charging &amp; Power Save - (A PC is required)</string>
+    <string name="manual_secure_summary">Enables access to \"Advanced Access Tiles\" - (A PC is required to grant this permission)</string>
     <string name="secure_access">Settings Secure Access</string>
     <string name="action_required">Action Required</string>
-    <string name="settings_secure_instruct">You can manually grant Shortcutter access to Settings Secure, allowing more control over the system.
+    <string name="settings_secure_instruct">You can manually grant Shortcutter access to Secure Settings, allowing more control over the system.
         \n\nFrom your PC go to www.leedroid.co.uk/SettingsSecureGuide &amp; follow the instructions.
         \n\n</string>
     <string name="confirm">CONFIRM</string>
@@ -163,7 +163,7 @@
     <string name="haptic_summary">Toggle Haptic Feeback on/off</string>
     <string name="headsup_summary">Toggle Heads Up notifications</string>
     <string name="headsup">Heads Up</string>
-    <string name="immersive_summary">Hide the status &amp; navigation bars\n(Manufacturer/OS support dependant)</string>
+    <string name="immersive_summary">Hide the status &amp; navigation bars\n(Manufacturer/OS support dependent)</string>
     <string name="immersive_tile_title">Immersive
         \nMode</string>
     <string name="location_summary">Toggle location mode Off/GPS/Battery Saving/High Accuracy</string>
@@ -190,7 +190,7 @@
         \nFunctionality is Manufacturer dependent</string>
     <string name="tuner_tile_title">SystemUI Tuner</string>
     <string name="prem_only">Premium Only</string>
-    <string name="settings_secure_needed">Settings Secure access required.\nGo to \"Manage Permissioms\"</string>
+    <string name="settings_secure_needed">Settings Secure access required. Go to \"Manage Permissions\" in the home tab.</string>
     <string name="flash_summary">Toggle the camera flashlight</string>
     <string name="flash_tile_title">Flashlight</string>
     <string name="no_flash">No Flashlight Detected</string>
@@ -541,7 +541,7 @@
     <string name="review">Don\'t forget to leave review in the Play Store!\n\nAny additional issues or feedback, please drop me an email :)</string>
     <string name="enjoying">Enjoying Shortcutter?</string>
     <string name="counter">Counter\n+1</string>
-    <string name="expose_activity_summary">Create additional icons to access toggle\'s from your home screen or app drawer.\n\nThis also enables mapping toggles to other app\'s, such as HTC Edge Sense, Second Displays &amp; Tasker.</string>
+    <string name="expose_activity_summary">Create additional icons to access toggle\'s from your home screen or app drawer.</string>
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">Enable/Disable WiFi</string>
     <string name="wifi_hotspot_summary">Enable/Disable WiFi HotSpot</string>
@@ -686,7 +686,20 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv6.5.5:
+        \n\nv6.6.0:
+        \n\u2022 Fix crash in long press cust tile on some devices.
+        \n\u2022 Make orientation lock optional.
+        \n\u2022 You can now toggle full immersive when Per App immersive is enabled.
+        \n\u2022 Translation updates.
+        \n\nv6.5.9:
+        \n\u2022 Orientation toggle next click after auto rotate now locks current rotation.
+        \n\u2022 Long pressing custom pull-down tile now launches function selector.
+        \n\nv6.5.8:
+        \n\u2022 Fix crash on Android 7.
+        \n\nv6.5.7:
+        \n\u2022 Move special access tiles to new tab.
+        \n\u2022 UI Adjustments.
+        \n\nv6.5.6:
         \n\u2022 Add reverse landscape to orientation toggle.
         \n\u2022 Improve data speed notification layout.
         \n\u2022 Accessibility service bug fix.
@@ -1248,8 +1261,8 @@
     <string name="weather_overcast">Overcast</string>
     <string name="auto_with_root">Automatically granted with ROOT</string>
     <string name="unread_count">Unread Notifications:</string>
-    <string name="loading_apps">Loading Applications...</string>
-    <string name="loading_activities">Loading Activities...</string>
+    <string name="loading_apps">Loading Applications…</string>
+    <string name="loading_activities">Loading Activities…</string>
     <string name="tiles">Tiles =</string>
     <string name="text_shadow">Text Shadow</string>
     <string name="now">Now?</string>
@@ -1294,4 +1307,7 @@
     <string name="man_qs">Manage Quick Settings Pull-Down Tiles</string>
     <string name="launcher_shorts"><![CDATA[Launcher Shortcut\'s & Icon\'s]]></string>
     <string name="shortcut_sets">Shortcut Specific Settings</string>
+    <string name="special_tiles">Advanced Access Tiles</string>
+    <string name="special_tiles_sum">Tiles that require either ROOT or Settings Secure access.</string>
+    <string name="lock_orient">Lock Orientation</string>
 </resources>

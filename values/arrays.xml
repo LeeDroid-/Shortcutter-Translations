@@ -98,6 +98,7 @@
     </string-array>
     <string-array name="orientation_mode_entries">
         <item>@string/auto_rotate</item>
+        <item>@string/lock_orient</item>
         <item>0\u00B0</item>
         <item>90\u00B0</item>
         <item>180\u00B0</item>
@@ -105,6 +106,7 @@
     </string-array>
     <string-array name="orientation_mode_values">
         <item>0</item>
+        <item>5</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>

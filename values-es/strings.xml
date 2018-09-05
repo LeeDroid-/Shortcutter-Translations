@@ -90,7 +90,7 @@
     <string name="ad_supported">Desbloquear Premium</string>
     <string name="disabled">Desactivado</string>
     <string name="enabled">Activado</string>
-    <string name="splash_3">Ajustes rápidos para Android personalizados</string>
+    <string name="splash_3">Ajustes rápidos personalizados para Android</string>
     <string name="by_leedroid">Creado por LeeDrOiD</string>
     <string name="welcome_to_shortcutter">Bienvenidos a</string>
     <string name="Immersive">Modo inmersivo</string>
@@ -375,7 +375,7 @@
     <string name="float_summary">Se abre una barra lateral deslizando o una caja de herramientas flotante mediante un icono flotante.</string>
     <string name="tb_tiles">Barra lateral</string>
     <string name="email_feedback">Enviar comentarios/preguntas</string>
-    <string name="submit_review">Deja un análisis</string>
+    <string name="submit_review">Deja tu opinión</string>
     <string name="rate_app">Valora la aplicación</string>
     <string name="yes_pro">HAZTE Premium</string>
     <string name="file_browser">Explorador de archivos</string>
@@ -822,12 +822,15 @@
     <string name="back_sum">Emula el botón Atrás</string>
     <string name="apm_intercept">Sustituir menú de apagado del sistema</string>
     <string name="apm_intercept_sum">Los accesos directos del menú de apagado avanzado reemplazarán el menú de apagado del sistema.</string>
-    <string name="app_ino_sets"><![CDATA[App Information, Settings & Backup]]></string>
-    <string name="man_qs">Manage Quick Settings Pull-Down Tiles</string>
-    <string name="launcher_shorts"><![CDATA[Launcher Shortcut\'s & Icon\'s]]></string>
-    <string name="shortcut_sets">Shortcut Specific Settings</string>
-    <string name="standalone">Standalone</string>
-    <string name="also_standalone">Your trial has now expired.</string>
-    <string name="label">Label</string>
-    <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
+    <string name="app_ino_sets"><![CDATA[Información, Ajustes y Copias de seguridad]]></string>
+    <string name="man_qs">Administrar fichas en Panel desplegable</string>
+    <string name="launcher_shorts"><![CDATA[Accesos directos e iconos del Launcher]]></string>
+    <string name="shortcut_sets">Ajustes específicos</string>
+    <string name="standalone">Independiente</string>
+    <string name="also_standalone">Su versión de prueba ha caducado.</string>
+    <string name="label">Etiqueta</string>
+    <string name="conf_sb"><![CDATA[Configurar barra lateral y sus accesos directos]]></string>
+    <string name="special_tiles">Fichas de acceso avanzado</string>
+    <string name="special_tiles_sum">Fichas que requieren ROOT o ajustes de acceso seguro.</string>
+    <string name="lock_orient">Bloquear Orientación</string>
 </resources>
