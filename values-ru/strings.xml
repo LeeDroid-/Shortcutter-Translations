@@ -375,10 +375,10 @@
     <string name="oncharge_tile_title">Экран вкл. во время зарядки</string>
     <string name="onehand">Одной рукой (экспериментальный)</string>
     <string name="onehanded_summary">сжимает ваш дисплей в правом нижнем углу, не все приложений масштабируются правильно</string>
-    <string name="onetimefee2">Unlock</string>
-    <string name="onetimefee5">Unlock\n+(Gratuity)</string>
-    <string name="donation2">Unlock License</string>
-    <string name="donation5">Unlock + Gratuity License</string>
+    <string name="onetimefee2">Разблокировать</string>
+    <string name="onetimefee5">Разблокировать\n+(Gratuity)</string>
+    <string name="donation2">Разблокировать License</string>
+    <string name="donation5">Разблокировать + Gratuity License</string>
     <string name="onwhilecharge_summary">Держите экран, когда заткнуто</string>
     <string name="opacity">Непрозрачность =</string>
     <string name="orient_summary">Переключатель поворота экрана</string>
@@ -835,7 +835,7 @@
 	<string name="apm_intercept">Переопределить меню питания системы</string>    
     <string name="apm_intercept_sum">Shortcutters заменит меню питания системы.</string>
     <string name="app_ino_sets"><![CDATA[Информация приложения, параметры и резервное копирование]]></string>
-    <string name="man_qs">Управлять быстрой настройкой плитки Пул-Даун</string>
+    <string name="man_qs">Управлять быстрой настройкой плитки ПулДаун</string>
     <string name="launcher_shorts"><![CDATA[Ярлыки для запуска\'ов и Иконки\'ок]]></string>
     <string name="shortcut_sets">Параметры ярлыка</string> 
 	<string name="also_standalone">Истек срок действия демо.</string> 
