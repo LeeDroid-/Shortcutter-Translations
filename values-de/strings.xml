@@ -451,7 +451,7 @@
     <string name="feels">Gefühlt wie:&#160;</string>
     <string name="dewp">Taupunkt:&#160;</string>
     <string name="weather_celsius">Temperatur Einheit</string>
-    <string name="celsius">Centigrade</string>
+    <string name="celsius">Grad Celsius</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="humidity">Feuchtigkeit:&#160;</string>
     <string name="mylocation">Mein Standort</string>
