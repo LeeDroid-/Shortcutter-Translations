@@ -637,7 +637,6 @@
     <string name="pip_sum">Starte Bild in Bild in aktueller App</string>
     <string name="sidebar_tb">Sidebar/Werkzeugkasten</string>
     <string name="recording">Aufnahmebildschirm</string>
-    <string name="sc_power_menu">Unterstützt durch ©Shortcutter</string>
     <string name="light_theme">Helles Thema aktiv</string>
     <string name="change_theme">Hell/Dunkel Thema</string>
     <string name="dark_theme">Dunkles Thema aktiv</string>
@@ -827,13 +826,17 @@
     <string name="apm_intercept_sum">Shortcutters erweitertes Power-Menü ersetzt das System Power-Menü.</string>
     <string name="app_ino_sets"><![CDATA[App-Informationen, Einstellungen & Backup]]></string>
     <string name="man_qs">Verwalten von Schnelleinstellungs Pull-Down-Kacheln</string>
-    <string name="conf_sb"><![CDATA[Konfiguriere die Seitenleiste & ihre Verknüpfungen.]]></string>
-    <string name="launcher_shorts"><![CDATA[Launcher Schnelleinstellungen & Symbole]]></string>
     <string name="shortcut_sets">Shortcut spezifische Einstellungen</string>
     <string name="also_standalone">Ihre Testversion ist nun abgelaufen.</string>
     <string name="standalone">Standalone</string>
     <string name="label">Label</string>
+    <string name="conf_sb"><![CDATA[Konfiguriere die Seitenleiste & ihre Verknüpfungen.]]></string>
+    <string name="launcher_shorts"><![CDATA[Launcher Schnelleinstellungen & Symbole]]></string>
     <string name="special_tiles">Erweiterte Zugriffskacheln</string>
     <string name="special_tiles_sum">Kacheln die entweder ROOT oder sicheren Zugriff erfordern.</string>
     <string name="lock_orient">Sperrt Ausrichtung</string>
+    <string name="transparent_widget">Shortcutter Glass Widget</string>
+    <string name="manage_entries">Manage Entries</string>
+    <string name="open_app">Launch Shortcutter</string>
+    <string name="auto_start_sum">Auto start screen recording when hitting the toggle.</string>
 </resources>

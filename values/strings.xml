@@ -669,7 +669,6 @@
     <string name="select_default_immersive_mode_summary">Select default immersive mode response</string>
     <string name="pip">Picture In Picture</string>
     <string name="pip_sum">Launch Picture In Picture on current app</string>
-    <string name="sc_power_menu">\u0020 Powered By\n©Shortcutter</string>
     <string name="apm_tile_title" translatable="false">APM</string>
     <string name="sidebar_tb">Sidebar\nToggle</string>
     <string name="auto_start_rec">Auto Start Recording</string>
@@ -686,6 +685,28 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
+        \n\nv6.6.5:
+        \n\u2022 Adjust 3 dot menu in APM to fix mis-hits.
+        \n\u2022 APM add confirmation dialog toggle to menu.
+        \n\u2022 Improve screen off detection.
+        \n\nv6.6.4:
+        \n\u2022 APM layout adjustments.
+        \n\u2022 Add Auto Start Recording option to settings tab.
+        \n\u2022 Fix crash in screen record if storage dir not set.
+        \n\u2022 Add Show Touches Tile.
+        \n\u2022 Improve screen off detection - Wake Service.
+        \n\nv6.6.3:
+        \n\u2022 Fix Screen Timeout exposed icon toggle.
+        \n\u2022 Add strike through to state toast\'s.
+        \n\u2022 Fix Haptic launcher toggle.
+        \n\u2022 Add toast when toggling shortcuts.
+        \n\u2022 Add Transparent widget.
+        \n\nv6.6.2:
+        \n\u2022 Update Russian &amp; Portuguese translations.
+        \n\u2022 Fix back button in sidebar when dim behind enabled.
+        \n\u2022 Rearrange Advanced Power Menu (ROOT).
+        \n\nv6.6.1:
+        \n\u2022 Fix orientation options &amp; toggle.
         \n\nv6.6.0:
         \n\u2022 Fix crash in long press cust tile on some devices.
         \n\u2022 Make orientation lock optional.
@@ -1144,7 +1165,7 @@
     <string name="notification_blocker">Oreo Notification Blocker</string>
     <string name="notification_blocker_sum">Hide the Oreo running in background notification for all apps.</string>
     <string name="notif_access">To block notifications we need to enable a Notification Listener.\n\nThis listener will only listen for notifications from the android system, any notification containing \"running in the background\" will be removed.\n\n Please click proceed &amp; enable Shortcutters Notification Blocker.</string>
-    <string name="confirmation_dialog">APM Confirmation dialog</string>
+    <string name="confirmation_dialog">Confirmation Dialog</string>
     <string name="confirmation_dialog_sum">Show an action confirmation dialog in the advanced power menu</string>
     <string name="join_beta">Join Beta</string>
     <string name="reboot_menu">Reboot Menu</string>
@@ -1287,7 +1308,7 @@
     <string name="glob_settings">Global Settings</string>
     <string name="shortcutter_notification">Shortcutter Notification Channel</string>
     <string name="launcher">Launcher</string>
-    <string name="add_home_icon">Auto add to Home Screen.</string>
+    <string name="add_home_icon">Auto Add To Home Screen.</string>
     <string name="add_home_icon_sum">Add an icon to the home screen as well as the app drawer.</string>
     <string name="sc_opt">Shortcutter is being optimised by the system.\n\nClick here for more information.</string>
     <string name="ore_shorts">Click here to install Oreo dynamic state launcher shortcut\'s only.</string>
@@ -1298,7 +1319,9 @@
     <string name="apm_intercept">Override System Power Menu</string>
     <string name="apm_intercept_sum">Shortcutters advanced power menu will replace the system power menu.</string>
     <string name="rev_portn" translatable="false">180\u00B0</string>
-    <string name="also_standalone">"Your trial has now expired.           To continue using this service, please upgrade to premium.           Alternatively you can purchase this as a more enhanced Standalone app from the play store. "</string>
+    <string name="also_standalone">"Your trial has now expired.
+        To continue using this service, please upgrade to premium.
+        Alternatively you can purchase this as a more enhanced Standalone app from the play store. "</string>
     <string name="standalone">Standalone</string>
     <string name="label">Label</string>
     <string name="rev_land" translatable="false">270\u00B0</string>
@@ -1310,4 +1333,8 @@
     <string name="special_tiles">Advanced Access Tiles</string>
     <string name="special_tiles_sum">Tiles that require either ROOT or Settings Secure access.</string>
     <string name="lock_orient">Lock Orientation</string>
+    <string name="transparent_widget">Shortcutter Glass Widget</string>
+    <string name="manage_entries">Manage Entries</string>
+    <string name="open_app">Launch Shortcutter</string>
+    <string name="auto_start_sum">Auto start screen recording when hitting the toggle.</string>
 </resources>

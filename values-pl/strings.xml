@@ -640,7 +640,6 @@
     <string name="select_default_immersive_mode_summary">Wybierz domyślną odpowiedź trybu pełnoekranowego</string>
     <string name="pip">Obraz w Obrazie</string>
     <string name="pip_sum">Uruchom Obraz w Obrazie w bieżącej aplikacji</string>
-    <string name="sc_power_menu">Powered By ©Shortcutter</string>
     <string name="sidebar_tb">Pasek Boczny/Toolbox</string>
     <string name="auto_start_rec">Auto Start Nagrywania</string>
     <string name="recording">Nagrywanie Ekranu</string>
@@ -841,4 +840,8 @@
     <string name="special_tiles">Advanced Access Tiles</string>
     <string name="special_tiles_sum">Tiles that require either ROOT or Settings Secure access.</string>
     <string name="lock_orient">Lock Orientation</string>
+    <string name="transparent_widget">Shortcutter Glass Widget</string>
+    <string name="manage_entries">Manage Entries</string>
+    <string name="open_app">Launch Shortcutter</string>
+    <string name="auto_start_sum">Auto start screen recording when hitting the toggle.</string>
 </resources>

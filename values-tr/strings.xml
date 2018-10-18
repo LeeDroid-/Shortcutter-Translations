@@ -633,7 +633,6 @@
     <string name="select_default_immersive_mode_summary">Varsayılan immersive modu yanıtını seçin</string>
     <string name="pip">Resim içinde Resim</string>
     <string name="pip_sum">Geçerli uygulamada Resim İçinde Resim\'i başlat</string>
-    <string name="sc_power_menu">©Shortcutter tarafından güçlendirildi</string>
     <string name="sidebar_tb">Kenar çubuğu\n/Araç kutusu</string>
     <string name="auto_start_rec">Kaydı Otomatik Başlat</string>
     <string name="recording">Ekran Kaydı</string>
@@ -833,4 +832,8 @@
     <string name="special_tiles">Advanced Access Tiles</string>
     <string name="special_tiles_sum">Tiles that require either ROOT or Settings Secure access.</string>
     <string name="lock_orient">Lock Orientation</string>
+    <string name="transparent_widget">Shortcutter Glass Widget</string>
+    <string name="manage_entries">Manage Entries</string>
+    <string name="open_app">Launch Shortcutter</string>
+    <string name="auto_start_sum">Auto start screen recording when hitting the toggle.</string>
 </resources>

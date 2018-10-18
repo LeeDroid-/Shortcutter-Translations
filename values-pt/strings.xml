@@ -379,7 +379,6 @@
     <string name="fahrenheit">Fahrenheit</string>
     <string name="humidity">Humidade:&#160;</string>
     <string name="mylocation">A Minha Localização</string>
-    <string name="maps_link">Mostrar em Mapa</string>
     <string name="current_location">Localização Atual</string>
     <string name="dev_loc_mode">Modo de Localização:&#160;%1$s</string>
     <string name="mylocation_summary">Mostra a localização atual com opções de mostrar em mapa ou partilhar</string>
@@ -440,7 +439,6 @@
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">Liga/Desliga WiFi</string>
     <string name="wifi_hotspot_summary">Liga/Desliga Zona WiFi Portátil</string>
-    <string name="wifi_toggled">WiFi Ligado/Desligado</string>
     <string name="hotspot_tile">Zona WiFi</string>
     <string name="to_be_toggled">Escolha ações para controlar.</string>
     <string name="swipe_out_close">Deslize para a esquerdadireita para fechar</string>
@@ -519,7 +517,6 @@
     <string name="how_to_summary">Uma simples apresentação do que a app afoerece</string>
     <string name="round_corners">Cantos Arredondados</string>
     <string name="run_without">Continuar Sem</string>
-    <string name="search_if_invalid">Se a URL não for válida, será feita uma pesquisa no Google</string>
     <string name="xda">Tópico XDA Developers</string>
     <string name="choose_function">Escolha a função</string>
     <string name="cust_app_pref">Mosaicos que pode ligar a Aplicações, Atividades, Atalhos &amp; Ligações Web..</string>
@@ -564,7 +561,6 @@
     <string name="pip_sum">Iniciar Imagem-na-Imagem para a aplicação atual</string>
     <string name="sidebar_tb">BarraLateral/Caixa de Ferramentas</string>
     <string name="recording">A Gravar Ecrã</string>
-    <string name="sc_power_menu">Oferecido por ©Shortcutter</string>
     <string name="light_theme">Tema Claro Selecionado</string>
     <string name="change_theme">Tema Claro/Escuro</string>
     <string name="dark_theme">Tema Escuro Selecionado</string>
@@ -687,7 +683,7 @@
     <string name="floating_calculator">Calculadora Flutuante</string>
     <string name="floating_calc_sum">Uma calculadora simples flutuante, sempre por cima</string>
     <string name="trial_exp">Período experimental terminado</string>
-    <string name="limited_free">Limitado a a iniciações na versão GRÁTIS</string>
+    <string name="limited_free">Limitado a iniciações na versão GRÁTIS</string>
     <string name="remove">Remover Mosaico</string>
     <string name="rearrange">Reorganizar</string>
     <string name="trialandyearly">Período Experimental de 4 Dias &amp; Acesso Anual</string>
@@ -714,9 +710,9 @@
     <string name="weather_overcast">Encoberto</string>
     <string name="auto_with_root">Concedido automaticamente com ROOT</string>
     <string name="unread_count">Notificações não lidas:</string>
-    <string name="loading_activities">A Carregar Atividades...</string>
+    <string name="loading_activities">A Carregar Atividades…</string>
     <string name="tiles">Mosaicos =</string>
-    <string name="loading_apps">A Carregar Aplicações...</string>
+    <string name="loading_apps">A Carregar Aplicações…</string>
     <string name="text_shadow">Sombra de Texto</string>
     <string name="now">Agora?</string>
     <string name="sel_unsel">Seleciconar/Descilecionar Tudo</string>
@@ -732,4 +728,7 @@
     <string name="additionaloptions">Opções de Desbloqueio Adicionais</string>
     <string name="locked_sum">Mosaicos de DR vibram se o aparelho estiver boqueado.</string>
     <string name="locked_tiles">Bloquear Lock Mosaicos de DR</string>
+    <string name="transparent_widget">Shortcutter Glass Widget</string>
+    <string name="manage_entries">Manage Entries</string>
+    <string name="open_app">Launch Shortcutter</string>
 </resources>

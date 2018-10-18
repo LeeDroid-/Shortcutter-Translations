@@ -635,7 +635,6 @@
     <string name="pip_sum">在当前应用上启动画中画模式</string>
     <string name="sidebar_tb">侧栏/工具箱</string>
     <string name="recording">录屏</string>
-    <string name="sc_power_menu">Powered By ©Shortcutter</string>
     <string name="light_theme">设为亮色主题</string>
     <string name="change_theme">亮色/暗色主题</string>
     <string name="dark_theme">设为暗色主题</string>
@@ -833,4 +832,8 @@
     <string name="special_tiles">Advanced Access Tiles</string>
     <string name="special_tiles_sum">Tiles that require either ROOT or Settings Secure access.</string>
     <string name="lock_orient">Lock Orientation</string>
+    <string name="transparent_widget">Shortcutter Glass Widget</string>
+    <string name="manage_entries">Manage Entries</string>
+    <string name="open_app">Launch Shortcutter</string>
+    <string name="auto_start_sum">Auto start screen recording when hitting the toggle.</string>
 </resources>

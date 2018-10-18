@@ -70,12 +70,16 @@
         <item>Activity (Advanced)</item>
         <item>Shortcut</item>
         <item>Web Link</item>
+        <item>Direct Dial</item>
+        <item>Direct Message</item>
     </string-array>
     <string-array name="cust_tile_choice_root">
         <item>Application</item>
         <item>Activity (Advanced)</item>
         <item>Shortcut</item>
         <item>Web Link</item>
+        <item>Direct Dial</item>
+        <item>Direct Message</item>
         <item>Shell Command</item>
     </string-array>
     <string-array name="immersive_mode_entries">
@@ -92,14 +96,26 @@
         <item>3</item>
         <item>4</item>
     </string-array>
-    <string-array name="orientation_mode_entries">
-        <item>Auto Rotate</item>
-        <item>Portrait</item>
-        <item>Landscape</item>
+    <string-array name="timeout_mode_entries">
+        <item>15s</item>
+        <item>30s</item>
+        <item>45s</item>
+        <item>1m</item>
+        <item>2m</item>
+        <item>5m</item>
+        <item>10m</item>
+        <item>30m</item>
+        <item>60m</item>
     </string-array>
-    <string-array name="orientation_mode_values">
+    <string-array name="timeout_mode_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
     </string-array>
 </resources>

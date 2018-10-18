@@ -652,7 +652,6 @@
     <string name="select_default_immersive_mode_summary">Seleccionar la respuesta predeterminada del modo inmersivo</string>
     <string name="pip">Picture In Picture</string>
     <string name="pip_sum">Iniciar Picture In Picture en la aplicación actual</string>
-    <string name="sc_power_menu">Powered by ©Shortcutter</string>
     <string name="sidebar_tb">Barra lateral\nCaja de herramientas</string>
     <string name="auto_start_rec">Grabación automática</string>
     <string name="recording">Pantalla de grabación</string>
@@ -833,4 +832,8 @@
     <string name="special_tiles">Fichas de acceso avanzado</string>
     <string name="special_tiles_sum">Fichas que requieren ROOT o ajustes de acceso seguro.</string>
     <string name="lock_orient">Bloquear Orientación</string>
+    <string name="transparent_widget">Widget Transparente</string>
+    <string name="manage_entries">Administrar entradas</string>
+    <string name="open_app">Iniciar Shortcutter</string>
+    <string name="auto_start_sum">Iniciar automáticamente la grabación de pantalla al presionar el botón.</string>
 </resources>
