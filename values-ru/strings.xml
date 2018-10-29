@@ -844,8 +844,8 @@
     <string name="special_tiles">Расширенный доступ плитки</string>
     <string name="special_tiles_sum">Плитки, которые требуют ROOT или настройки безопасного доступа.</string>
     <string name="lock_orient">Ориентации экрана блокировки</string>
-    <string name="transparent_widget">Shortcutter Glass Widget</string>
-    <string name="manage_entries">Manage Entries</string>
-    <string name="open_app">Launch Shortcutter</string>
-    <string name="auto_start_sum">Auto start screen recording when hitting the toggle.</string>
+    <string name="transparent_widget">Прозрачность Виджета Shortcutter</string> 
+<string name="manage_entries">Управление записями</string>
+ <string name="open_app">Запуск Shortcutter</string>
+ <string name="auto_start_sum">Автоматический старт записи при переключении плитки.</string>
 </resources>
