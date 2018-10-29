@@ -70,20 +70,20 @@
         <item>Etkinlik (Gelişmiş)</item>
         <item>Kısayol</item>
         <item>İnternet Bağlantısı</item>
-        <item>Direct Dial</item>
-        <item>Direct Message</item>
+        <item>Doğrudan Arama</item>
+        <item>Doğrudan Mesaj</item>
     </string-array>
     <string-array name="cust_tile_choice_root">
         <item>Uygulama</item>
         <item>Etkinlik (Gelişmiş)</item>
         <item>Kısayol</item>
         <item>İnternet Bağlantısı</item>
-        <item>Direct Dial</item>
-        <item>Direct Message</item>
+        <item>Doğrudan Arama</item>
+        <item>Doğrudan Mesaj</item>
         <item>Kabuk Komutu</item>
     </string-array>
     <string-array name="immersive_mode_entries">
-        <item>Tam Immersive</item>
+        <item>Hepsini Gizle</item>
         <item>Durum Çubuğunu Gizle</item>
         <item>Gezinti Çubuğunu Gizle</item>
         <item>Mod Seçici\'yi göster</item>
