@@ -87,7 +87,7 @@
         <item>Durum Çubuğunu Gizle</item>
         <item>Gezinti Çubuğunu Gizle</item>
         <item>Mod Seçici\'yi göster</item>
-        <item>Uygulama Başına</item>
+        <item>Uygulamaya Göre</item>
     </string-array>
     <string-array name="immersive_mode_values">
         <item>0</item>
