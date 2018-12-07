@@ -727,8 +727,8 @@
     <string name="lp_drag"><![CDATA[Toque & segure & arrastr, depois clique em qualquer mosaico para sair do modo de edição]]></string>
     <string name="additionaloptions">Opções de Desbloqueio Adicionais</string>
     <string name="locked_sum">Mosaicos de DR vibram se o aparelho estiver boqueado.</string>
-    <string name="locked_tiles">Bloquear Lock Mosaicos de DR</string>
+    <string name="locked_tiles">Bloquear Mosaicos de DR</string>
     <string name="transparent_widget">Shortcutter Glass Widget</string>
-    <string name="manage_entries">Manage Entries</string>
-    <string name="open_app">Launch Shortcutter</string>
+    <string name="manage_entries">Gerir Entradas</string>
+    <string name="open_app">Iniciar Shortcutter</string>
 </resources>
