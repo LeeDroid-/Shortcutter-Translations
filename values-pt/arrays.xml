@@ -66,28 +66,28 @@
         <item>QVGA</item>
     </string-array>
     <string-array name="cust_tile_choice">
-        <item>Application</item>
-        <item>Activity (Advanced)</item>
-        <item>Shortcut</item>
-        <item>Web Link</item>
-        <item>Direct Dial</item>
-        <item>Direct Message</item>
+        <item>Aplicação</item>
+        <item>Atividade (Avançado)</item>
+        <item>Atalho</item>
+        <item>Link Web</item>
+        <item>Ligação Direta</item>
+        <item>Memsagem Direta</item>
     </string-array>
     <string-array name="cust_tile_choice_root">
-        <item>Application</item>
-        <item>Activity (Advanced)</item>
-        <item>Shortcut</item>
-        <item>Web Link</item>
-        <item>Direct Dial</item>
-        <item>Direct Message</item>
-        <item>Shell Command</item>
+        <item>Aplicação</item>
+        <item>Atividade (Avançado)</item>
+        <item>Atalho</item>
+        <item>Link Web</item>
+        <item>Ligação Direta</item>
+        <item>Memsagem Direta</item>
+        <item>Comando Shell</item>
     </string-array>
     <string-array name="immersive_mode_entries">
-        <item>Full Immersive</item>
-        <item>Hide Status Bar</item>
-        <item>Hide Nav Bar</item>
-        <item>Show Mode Selector</item>
-        <item>Per App</item>
+        <item>Imerssão Total</item>
+        <item>Esconder Barra de Estado</item>
+        <item>Esconder Barra de Navegação</item>
+        <item>Mostrar Seletor de Modo</item>
+        <item>Por App</item>
     </string-array>
     <string-array name="immersive_mode_values">
         <item>0</item>
