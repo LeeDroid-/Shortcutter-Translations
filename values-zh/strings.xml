@@ -126,8 +126,6 @@
     <string name="settings_license">许可证</string>
     <string name="no_licence">未检测到许可证</string>
     <string name="old_licene">检测到付费版密钥</string>
-    <string name="tweaks_key">检测到 LeeDrOiD Tweaks 密钥
-        \n 付费版功能已激活</string>
     <string name="all_prices_subject_to_tax_vat">所有价格均包含 税金/增值税*
         \n\n购买 Shortcutter 付费版会移除 50 次点击通知 &amp; 启用额外快捷设置瓷贴 &amp; 应用功能</string>
     <string name="amin">管理员</string>
@@ -836,4 +834,6 @@
     <string name="manage_entries">Manage Entries</string>
     <string name="open_app">Launch Shortcutter</string>
     <string name="auto_start_sum">Auto start screen recording when hitting the toggle.</string>
+    <string name="share_men_sum">Enable/Disable items in the share menu.</string>
+    <string name="share_menu">Share Menu</string>
 </resources>

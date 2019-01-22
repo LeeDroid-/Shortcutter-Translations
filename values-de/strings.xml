@@ -124,8 +124,6 @@
     <string name="settings_license">LIZENZ</string>
     <string name="no_licence">Keine Lizenz erkannt</string>
     <string name="old_licene">Premium Schlüssel erkannt</string>
-    <string name="tweaks_key">LeeDrOiD Tweaks Schlüssel erkannt
-        \nPremium Eigenschaften aktiviert</string>
     <string name="all_prices_subject_to_tax_vat">Alle Preise inklusive Steuern
         \n\nDer Kauf von Shortcutter Premium wird die 50-Klick-Benachrichtigung entfernen &amp; aktiviert zusätzliche QS-Kacheln &amp; App Eigenschaften.</string>
     <string name="amin">amin</string>
@@ -836,7 +834,9 @@
     <string name="special_tiles_sum">Kacheln die entweder ROOT oder sicheren Zugriff erfordern.</string>
     <string name="lock_orient">Sperrt Ausrichtung</string>
     <string name="transparent_widget">Shortcutter Glass Widget</string>
-    <string name="manage_entries">Manage Entries</string>
-    <string name="open_app">Launch Shortcutter</string>
-    <string name="auto_start_sum">Auto start screen recording when hitting the toggle.</string>
+    <string name="manage_entries">Einträge verwalten</string>
+    <string name="open_app">Start Shortcutter</string>
+    <string name="auto_start_sum">Automatische Bildschirmaufnahme beim Drücken des Kippschalters.</string>
+    <string name="share_men_sum">Enable/Disable items in the share menu.</string>
+    <string name="share_menu">Share Menu</string>
 </resources>

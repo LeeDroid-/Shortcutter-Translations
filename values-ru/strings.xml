@@ -589,7 +589,6 @@
     <string name="trigger_colour_title">Цвет Триггера</string>
     <string name="tuner_summary">Запуск скрытые функции SystemUI, зависит от прошивки</string>
     <string name="tuner_tile_title">SystemUI</string>
-    <string name="tweaks_key">Обнаружен ключ для премиум-функций</string>
     <string name="usage_access">Использование данных</string>
     <string name="usage_access_required">Использование Разрешения доступа - Переключить для включения</string>
     <string name="usage_summary">Использование: Плитка использования данных</string>
@@ -844,8 +843,10 @@
     <string name="special_tiles">Расширенный доступ плитки</string>
     <string name="special_tiles_sum">Плитки, которые требуют ROOT или настройки безопасного доступа.</string>
     <string name="lock_orient">Ориентации экрана блокировки</string>
-    <string name="transparent_widget">Прозрачность Виджета Shortcutter</string> 
-<string name="manage_entries">Управление записями</string>
- <string name="open_app">Запуск Shortcutter</string>
- <string name="auto_start_sum">Автоматический старт записи при переключении плитки.</string>
+    <string name="transparent_widget">Прозрачность Виджета Shortcutter</string>
+    <string name="manage_entries">Управление записями</string>
+    <string name="open_app">Запуск Shortcutter</string>
+    <string name="auto_start_sum">Автоматический старт записи при переключении плитки.</string>
+    <string name="share_men_sum">Enable/Disable items in the share menu.</string>
+    <string name="share_menu">Share Menu</string>
 </resources>

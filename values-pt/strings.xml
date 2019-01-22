@@ -116,7 +116,6 @@
     <string name="settings_license">LICENÇA</string>
     <string name="no_licence">Nenhuma Licença Encontrada</string>
     <string name="old_licene">Chave Premium detetada</string>
-    <string name="tweaks_key">Chave Ajustes LeeDrOiD detetada\n Funcionalidades Premium ativadas</string>
     <string name="all_prices_subject_to_tax_vat">Todos os preços incluem Impostos/IVA*\n\nComprar Shortcutter Premium retira a notificação a cada 50 cliques e ativa Mosaicos de Configurações Rápidas e funcionalidades da app adicionais.</string>
     <string name="amin">amin</string>
     <string name="allofthe">Qualquer das opções abaixo dá acesso premium, a escolha é sua :)</string>
@@ -731,4 +730,6 @@
     <string name="transparent_widget">Shortcutter Glass Widget</string>
     <string name="manage_entries">Gerir Entradas</string>
     <string name="open_app">Iniciar Shortcutter</string>
+    <string name="share_men_sum">Enable/Disable items in the share menu.</string>
+    <string name="share_menu">Share Menu</string>
 </resources>

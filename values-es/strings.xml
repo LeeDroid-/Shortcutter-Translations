@@ -126,8 +126,6 @@
     <string name="settings_license">LICENCIA</string>
     <string name="no_licence">No tienes licencia</string>
     <string name="old_licene">Se ha detectado una clave Premium</string>
-    <string name="tweaks_key">Se ha detectado una clave de LeeDrOiD
-        \n Características Premium activadas</string>
     <string name="all_prices_subject_to_tax_vat">Todos los precios incluyen IVA*
         \n\nAl comprar Shortcutter Premium se eliminarán las notificaciones al realizar 50 pulsaciones y se activarán las características y fichas adicionales en los ajustes rápidos.</string>
     <string name="amin">amin</string>
@@ -836,4 +834,6 @@
     <string name="manage_entries">Administrar entradas</string>
     <string name="open_app">Iniciar Shortcutter</string>
     <string name="auto_start_sum">Iniciar automáticamente la grabación de pantalla al presionar el botón.</string>
+    <string name="share_men_sum">Enable/Disable items in the share menu.</string>
+    <string name="share_menu">Share Menu</string>
 </resources>

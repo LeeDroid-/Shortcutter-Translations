@@ -126,8 +126,6 @@
     <string name="settings_license">LİSANS</string>
     <string name="no_licence">Lisans Bulunamadı</string>
     <string name="old_licene">Premium Lisans Bulundu</string>
-    <string name="tweaks_key">LeeDrOiD Tweaks key bulundu
-        \n Ücretli özellikler etkinleştirildi</string>
     <string name="all_prices_subject_to_tax_vat">Fiyatlara KDV Dahildir*
         \n\nShortcutter Premium Lisansı satın almak 50 tıklama bildirimini kaldıracak, ilave sekmeler ve uygulamanın ekstra özelliklerini kullanabilmenizi sağlayacaktır.</string>
     <string name="amin">olur</string>
@@ -835,4 +833,6 @@
     <string name="manage_entries">Öğeleri Yönet</string>
     <string name="open_app">Shortcutter\'ı Başlat</string>
     <string name="auto_start_sum">Tetikleyiciye basıldığında otomatik olarak ekranı kaydetmeye başla.</string>
+    <string name="share_men_sum">Enable/Disable items in the share menu.</string>
+    <string name="share_menu">Share Menu</string>
 </resources>

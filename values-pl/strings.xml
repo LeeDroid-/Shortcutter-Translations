@@ -126,8 +126,6 @@
     <string name="settings_license">LICENCJA</string>
     <string name="no_licence">Nie Wykryto Licencji</string>
     <string name="old_licene">Wykryto stary styl klucza premium</string>
-    <string name="tweaks_key">Wykryto klucz LeeDrOiD Tweaks
-	    \n funkcje Premium aktywowane</string>
     <string name="all_prices_subject_to_tax_vat">Wszystkie zakupy zawierają VAT*
 	     \n\nKupienie Shortcutter Premium usuwa limit 50 kliknięć oraz daje dostęp do większej ilości płytek i funkcji aplikacji.</string>
     <string name="amin">amin</string>
@@ -844,4 +842,6 @@
     <string name="manage_entries">Zarządzaj Wpisami</string>
     <string name="open_app">Uruchom Shortcutter</string>
     <string name="auto_start_sum">Automatyczne uruchamianie nagrywania ekranu po naciśnięciu przełącznika.</string>
+    <string name="share_men_sum">Enable/Disable items in the share menu.</string>
+    <string name="share_menu">Share Menu</string>
 </resources>

@@ -126,10 +126,8 @@
     <string name="settings_license">LICENSE</string>
     <string name="no_licence">No Licence Detected</string>
     <string name="old_licene">Premium key detected</string>
-    <string name="tweaks_key">LeeDrOiD Tweaks key detected
-        \n Premium features activated</string>
     <string name="all_prices_subject_to_tax_vat">
-        \n\nPurchasing Shortcutter Premium will remove the 50 click notification &amp; unlock all app features.</string>
+        \n\nPurchasing Shortcutter Premium will permanently unlock all app features.</string>
     <string name="amin">amin</string>
     <string name="allofthe">Both of the below options will unlock all premium features, select one &amp; enjoy the full power of Shortcutter!</string>
     <string name="volumeui">Volume
@@ -685,10 +683,21 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
+        \n\nv6.6.7:
+        \n\u2022 Translation Updates.
+        \n\u2022 Disable Floating Calc service when toggled off.
+        \n\u2022 Add toggle to enable/disable Share Menu items.
+        \n\nv6.6.6:
+        \n\u2022 Translation Updates.
+        \n\u2022 Code Clean-up.
+        \n\u2022 Update support libraries.
         \n\nv6.6.5:
         \n\u2022 Adjust 3 dot menu in APM to fix mis-hits.
         \n\u2022 APM add confirmation dialog toggle to menu.
         \n\u2022 Improve screen off detection.
+        \n\u2022 Fix time not updating in floating toolbox/sidebar.
+        \n\u2022 Translation updates.
+        \n\u2022 Fix crash on Redmi devices.
         \n\nv6.6.4:
         \n\u2022 APM layout adjustments.
         \n\u2022 Add Auto Start Recording option to settings tab.
@@ -1337,4 +1346,7 @@
     <string name="manage_entries">Manage Entries</string>
     <string name="open_app">Launch Shortcutter</string>
     <string name="auto_start_sum">Auto start screen recording when hitting the toggle.</string>
+    <string name="immersive_off">Immersive Off</string>
+    <string name="share_men_sum">Enable/Disable items in the share menu.</string>
+    <string name="share_menu">Share Menu</string>
 </resources>
