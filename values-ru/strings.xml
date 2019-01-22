@@ -847,6 +847,6 @@
     <string name="manage_entries">Управление записями</string>
     <string name="open_app">Запуск Shortcutter</string>
     <string name="auto_start_sum">Автоматический старт записи при переключении плитки.</string>
-    <string name="share_men_sum">Enable/Disable items in the share menu.</string>
-    <string name="share_menu">Share Menu</string>
+    <string name="share_men_sum">Вкл/Откл элементы в меню Экспорт.</string>
+    <string name="share_menu">Меню Экспорт</string>
 </resources>
