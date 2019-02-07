@@ -110,10 +110,10 @@
     <string name="show_touches">Pokaż Dotknięcia</string>
     <string name="subscription_error">Twoje urządzenie nie wspiera subskrypcji.</string>
     <string name="iab_async_error">Błąd uruchomienia zakupu. Kolejna próba synchronizacji zakupu w toku.</string>
-    <string name="onetimefee2">Unlock</string>
-    <string name="onetimefee5">Unlock\n+(Gratuity)</string>
-    <string name="donation2">Unlock License</string>
-    <string name="donation5">Unlock + Gratuity License</string>
+    <string name="onetimefee2">Odblokuj</string>
+    <string name="onetimefee5">Unlock\n+(Napiwek)</string>
+    <string name="donation2">Odblokuj Licencję</string>
+    <string name="donation5">Odblokuj + Napiwek Licencja</string>
     <string name="detected">Wykryto</string>
     <string name="yes">Tak</string>
     <string name="subscription">Subskrybcja</string>
@@ -842,6 +842,6 @@
     <string name="manage_entries">Zarządzaj Wpisami</string>
     <string name="open_app">Uruchom Shortcutter</string>
     <string name="auto_start_sum">Automatyczne uruchamianie nagrywania ekranu po naciśnięciu przełącznika.</string>
-    <string name="share_men_sum">Enable/Disable items in the share menu.</string>
-    <string name="share_menu">Share Menu</string>
+    <string name="share_men_sum">Włącz/Wyłącz elementy w menu udostępniania.</string>
+    <string name="share_menu">Udostępnij Menu</string>
 </resources>
