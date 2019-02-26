@@ -442,7 +442,7 @@
     <string name="system_toggles">Płytki Systemowe</string>
     <string name="action_toggles">Płytki Akcji</string>
     <string name="info_toggles">Płytki Informacyjne</string>
-    <string name="sc_services">Shortcutter Micro Apps &amp; Services</string>
+    <string name="sc_services">Shortcutter Micro Aplikacje &amp; Usługi</string>
 
     <string name="weather">Pogoda</string>
     <string name="weather_desc">Uruchamia pop-up z aktualnymi informacjami o pogodzie</string>
@@ -767,7 +767,7 @@
     <string name="limited_free">Ograniczony do 10 startów w wersji DARMOWEJ</string>
     <string name="remove">Usuń Płytki</string>
     <string name="rearrange">Zmiana kolejności</string>
-    <string name="trialandyearly">4 Day Trial &amp; Annual Unlock</string>
+    <string name="trialandyearly">4 Dni Trial &amp; Odblokowanie roczne</string>
     <string name="backup_summary">Tworzenie kopii zapasowych wszystkich danych aplikacji na kartę SD</string>
     <string name="weather_clear">Czyste niebo</string>
     <string name="weather_foggy">Zamglenia</string>
