@@ -730,6 +730,6 @@
     <string name="transparent_widget">Shortcutter Glass Widget</string>
     <string name="manage_entries">Gerir Entradas</string>
     <string name="open_app">Iniciar Shortcutter</string>
-    <string name="share_men_sum">Enable/Disable items in the share menu.</string>
-    <string name="share_menu">Share Menu</string>
+    <string name="share_men_sum">Ativar/Desativar items no menu partilha.</string>
+    <string name="share_menu">Menu Partilha</string>
 </resources>
