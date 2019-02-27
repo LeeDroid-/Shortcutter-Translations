@@ -238,7 +238,7 @@
         \nE-posta</string>
     <string name="newemailsum">Yeni e-posta gönder</string>
     <string name="emailtitle">Yeni E-posta</string>
-    <string name="stay_in_the_loop">Sosyal Medya/Kişi</string>
+    <string name="stay_in_the_loop">Sosyal Medya/İletişim</string>
     <string name="follow_me">Beni Twitter\'da Takip Et</string>
     <string name="like_facebook">Facebook Sayfamı Beğen</string>
     <string name="home">Ana Ekran</string>
@@ -611,7 +611,7 @@
     <string name="clear_schedule">Zamanlamaları Temizle</string>
     <string name="reset_alarms">Ekran Filtresi zamanlamalarınızı silmek istediğinizden emin misiniz?</string>
     <string name="tile_name">Sekme Adı (Boşsa otomatik)</string>
-    <string name="disable_change">>Sekmeyi kapat, değiştir veya yeniden adlandır?</string>
+    <string name="disable_change">Sekmeyi kapat, değiştir veya yeniden adlandır!</string>
     <string name="change">Değiştir</string>
     <string name="disable_screen_off">Ekran Kapandığında Kapat</string>
     <string name="unknown_sources">Bilinmeyen Kaynaklara İzin Ver</string>
@@ -833,6 +833,6 @@
     <string name="manage_entries">Öğeleri Yönet</string>
     <string name="open_app">Shortcutter\'ı Başlat</string>
     <string name="auto_start_sum">Tetikleyiciye basıldığında otomatik olarak ekranı kaydetmeye başla.</string>
-    <string name="share_men_sum">Enable/Disable items in the share menu.</string>
-    <string name="share_menu">Share Menu</string>
+    <string name="share_men_sum">Paylaş menüsündeki öğeleri Etkinleştir/Devre Dışı Bırak.</string>
+    <string name="share_menu">Paylaş Menüsü</string>
 </resources>
