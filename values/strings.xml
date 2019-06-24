@@ -85,9 +85,8 @@
     <string name="ambient_display">Doze Display</string>
     <string name="root_available">Your device appears to be rooted.
         \n Toggle me for more QS Tiles!</string>
-    <string name="available_in_prem1">Remove all restrictions &amp; the 50 click notification.</string>
-    <string name="available_in_prem3">CLICK HERE to go premium &amp; show your support.</string>
-    <string name="ad_supported">Upgrade To Shortcutter Premium!</string>
+    <string name="available_in_prem1">UNRESTRICTED USAGE &amp; NO PROMPTS</string>
+    <string name="ad_supported">CLICK HERE TO UNLOCK ALL FEATURES!</string>
     <string name="disabled">Disabled</string>
     <string name="enabled">Enabled</string>
     <string name="splash_3">Custom Quick Settings for Android</string>
@@ -98,7 +97,7 @@
     <string name="secure_access">Settings Secure Access</string>
     <string name="action_required">Action Required</string>
     <string name="settings_secure_instruct">You can manually grant Shortcutter access to Secure Settings, allowing more control over the system.
-        \n\nFrom your PC go to www.leedroid.co.uk/SettingsSecureGuide &amp; follow the instructions.
+        \n\nFrom your PC go to www.leedroid.co.uk/\#SettingsSecureGuide &amp; follow the instructions.
         \n\n</string>
     <string name="confirm">CONFIRM</string>
     <string name="screenshot">Screenshot</string>
@@ -262,7 +261,7 @@
         \n\nPlease pay attention to the dialogs</string>
     <string name="alert">Shortcutter Alert</string>
     <string name="go_premium">Purchase Premium</string>
-    <string name="another_purchase">For users that want to show additional support, both purchase options can be used.</string>
+    <string name="another_purchase">Select purchase option below.</string>
     <string name="datausage">Data
         \nUsage</string>
     <string name="data_usage_perms">Shortcutter needs permission to access Data Usage history.
@@ -278,7 +277,7 @@
     <string name="how_to">Click Here for A guide to adding Quick Setting Tiles.\n\nOnce you have enabled your chosen tiles in the categories below, you need to add them to your pull-down in the system quick settings editor.</string>
     <string name="addtiles_title">How To Add QS Tiles - Guide</string>
     <string name="select_tiles"><![CDATA[1. Go to the Shortcutter \"Pull-Down\" tab & make your QS Tile selections.]]></string>
-    <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below.]]></string>
+    <string name="edit_view"><![CDATA[2. Pull down your status bar & hit the edit button as seen below \n(Long press any tile & hit "Button Order" on some devices).]]></string>
     <string name="edit_view1">3. In the Edit View you will find 2/3 containers, all of your Shortcutter tiles are in the bottom container.
         \n\nTo add them, simply long press &amp; drag your chosen tiles up to the top (Active) container &amp; exit the Edit View.</string>
     <string name="edit_view_note">IMPORTANT NOTICE:
@@ -305,7 +304,7 @@
         \n \u2022 Additional Custom URL Tiles
         \n \u2022 Screen Recording &amp; Capture
         \n \u2022 Additional in-app configuration options
-        \n \u2022 &amp; Remove the 50 tile click notification</string>
+        \n \u2022 &amp; Remove the 60 tile click notification</string>
     <string name="no_thanks">No Thanks</string>
     <string name="add_event">Add Event</string>
     <string name="add_event_summary">Add A Calendar Event</string>
@@ -313,9 +312,9 @@
     <string name="power_not_found">Power settings activity not found</string>
     <string name="nfc_not_found">NFC settings activity not found</string>
     <string name="consider_prem">Shortcutter FREE</string>
-    <string name="consider_prem1">Thats 50 Shortcutter clicks!
+    <string name="consider_prem1">Thats 60 Shortcutter clicks!
         \n\nHave you considered showing your support &amp; going Premium?
-        \n\nThis notification will show every 50 tile clicks in the Free version.</string>
+        \n\nThis notification will show every 60 tile clicks in the Free version.</string>
     <string name="screenre_cat"><![CDATA[Screen Record & Capture]]></string>
     <string name="choose_entries">Location Mode Entries (2 Minimum)</string>
     <string name="conf_sel">Confirm Selection</string>
@@ -427,7 +426,9 @@
     <string name="reset_filter">Reset Filter Colour</string>
     <string name="sideber_tmb_title">Vertical Position</string>
     <string name="tb_columns_title">Toolbox Columns</string>
-    <string name="tb_columns_summary">Current = %s columns</string>
+    <string name="tb_columns_summary">Current = %s Columns</string>
+    <string name="sb_rows_summary">Current = %s Rows</string>
+    <string name="sb_rows_title">Sidebar Rows</string>
     <string name="sb_columns_title">Sidebar Columns</string>
     <string name="design_settings">Behaviour &amp; Settings</string>
     <string name="leedroid" translatable="false">www.LeeDrOiD.co.uk</string>
@@ -576,7 +577,7 @@
     <string name="admin_summary">Usage: Screen Lock\nOnce this permission is enabled, you will need to disable it to uninstall the app.</string>
     <string name="tb_tile_alpha">Off Tile Transparency</string>
     <string name="hide_tb_labels">Hide Text Labels</string>
-    <string name="icon_picker">SideBar/ToolBox UI Designer</string>
+    <string name="icon_picker">SideBar/ToolBox Theme</string>
     <string name="manage_tiles">Manage tiles</string>
     <string name="enable_tiles">Enable/Disable Quick Settings Pull-Down Tiles.</string>
     <string name="qs_tiles">Pull-Down</string>
@@ -595,8 +596,6 @@
     <string name="view">View</string>
     <string name="trigger">Trigger Settings</string>
     <string name="icon_scale">Icon Scale</string>
-    <string name="flash_sale">30% Off Shortcutter Premium!\nPlease select the £1.69 option in the purchase premium screen.</string>
-    <string name="sale">Shortcutter Flash Sale</string>
     <string name="dim">Dim -</string>
     <string name="dimup">Dim +</string>
     <string name="screen_dim">Screen Dim =&#160;</string>
@@ -625,7 +624,7 @@
     <string name="ap_name">Web Address</string>
     <string name="round_corners">Rounded Corners</string>
     <string name="create_shortcut">Create a Shortcut</string>
-    <string name="enter_url">Enter a Web URL or search term</string>
+    <string name="enter_url">Enter a Web URL/Search term</string>
     <string name="choose_function">Choose Function</string>
     <string name="samsung_note">Important note for Samsung users</string>
     <string name="battery_opt">As you are using a Samsung device, you may experience tiles becoming unresponsive after being dormant.\nTo rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
@@ -671,7 +670,7 @@
     <string name="sidebar_tb">Sidebar\nToggle</string>
     <string name="auto_start_rec">Auto Start Recording</string>
     <string name="apmreboot_list" translatable="false">Reboot,Reboot Recovery,Reboot Download,Reboot Bootloader,Hot Reboot,Reboot Safe Mode</string>
-    <string name="apm_list" translatable="false">Power Off,Reboot Menu,Airplane Mode,Screenshot,Flashlight,Settings</string>
+    <string name="apm_list" translatable="false">Power Off,Reboot Menu,Restart SystemUI,Airplane Mode,Screenshot,Flashlight,Settings</string>
     <string name="apm_list_tight" translatable="false">Power Off,Reboot Menu,Airplane Mode,Flashlight,Settings</string>
     <string name="recording">Recording Screen</string>
     <string name="change_theme">Light/Dark Theme</string>
@@ -683,500 +682,66 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv6.6.7:
-        \n\u2022 Translation Updates.
-        \n\u2022 Disable Floating Calc service when toggled off.
-        \n\u2022 Add toggle to enable/disable Share Menu items.
-        \n\nv6.6.6:
-        \n\u2022 Translation Updates.
-        \n\u2022 Code Clean-up.
-        \n\u2022 Update support libraries.
-        \n\nv6.6.5:
-        \n\u2022 Adjust 3 dot menu in APM to fix mis-hits.
-        \n\u2022 APM add confirmation dialog toggle to menu.
-        \n\u2022 Improve screen off detection.
-        \n\u2022 Fix time not updating in floating toolbox/sidebar.
-        \n\u2022 Translation updates.
-        \n\u2022 Fix crash on Redmi devices.
-        \n\nv6.6.4:
-        \n\u2022 APM layout adjustments.
-        \n\u2022 Add Auto Start Recording option to settings tab.
-        \n\u2022 Fix crash in screen record if storage dir not set.
-        \n\u2022 Add Show Touches Tile.
-        \n\u2022 Improve screen off detection - Wake Service.
-        \n\nv6.6.3:
-        \n\u2022 Fix Screen Timeout exposed icon toggle.
-        \n\u2022 Add strike through to state toast\'s.
-        \n\u2022 Fix Haptic launcher toggle.
-        \n\u2022 Add toast when toggling shortcuts.
-        \n\u2022 Add Transparent widget.
-        \n\nv6.6.2:
-        \n\u2022 Update Russian &amp; Portuguese translations.
-        \n\u2022 Fix back button in sidebar when dim behind enabled.
-        \n\u2022 Rearrange Advanced Power Menu (ROOT).
-        \n\nv6.6.1:
-        \n\u2022 Fix orientation options &amp; toggle.
-        \n\nv6.6.0:
-        \n\u2022 Fix crash in long press cust tile on some devices.
-        \n\u2022 Make orientation lock optional.
-        \n\u2022 You can now toggle full immersive when Per App immersive is enabled.
-        \n\u2022 Translation updates.
-        \n\nv6.5.9:
-        \n\u2022 Orientation toggle next click after auto rotate now locks current rotation.
-        \n\u2022 Long pressing custom pull-down tile now launches function selector.
-        \n\nv6.5.8:
-        \n\u2022 Fix crash on Android 7.
-        \n\nv6.5.7:
-        \n\u2022 Move special access tiles to new tab.
-        \n\u2022 UI Adjustments.
-        \n\nv6.5.6:
-        \n\u2022 Add reverse landscape to orientation toggle.
-        \n\u2022 Improve data speed notification layout.
-        \n\u2022 Accessibility service bug fix.
-        \n\u2022 Fix keyboard closing when writing Facebook status with overlays.
-        \n\nv6.5.4:
-        \n\u2022 Increase shortcut custom tiles to 20.
-        \n\u2022 Add Direct Dial to custom tiles.
-        \n\u2022 Add Direct SMS to custom tiles.
-        \n\nv6.5.1:
-        \n\u2022 Fix colour picker dialog.
-        \n\u2022 Layout corrections.
-        \n\nv6.5.0:
-        \n\u2022 Fix custom tile URL dialog.
-        \n\u2022 Fix frozen screen when dismissing custom tile dialogs.
-        \n\nv6.4.9:
-        \n\u2022 Fix opening standard power menu.
-        \n\u2022 Icon changes.
-        \n\u2022 Fix crash in ScreenShot tile on Android 9.
-        \n\u2022 fix screen shot &amp; record QS tiles in trial.
-        \n\nv6.4.8:
-        \n\u2022 Add Reverse Portrait to Orientation toggle.
-        \n\u2022 Code optimisations.
-        \n\u2022 Updated premium restrictions.
-        \n\u2022 Do not show dialog when intercepted by premium only.
-        \n\nv6.4.7:
-        \n\u2022 Target &amp; Build on API 28 (Android Pie).
-        \n\u2022 Update dependencies.
-        \n\u2022 Fix wakelock timeout in Night Light.
-        \n\u2022 Fix SideBar trigger scale on Android 9 (Pie).
-        \n\u2022 Layout corrections.
-        \n\nv6.4.6:
-        \n\u2022 Adjust floating calculator icon size.
-        \n\u2022 New broadcast listener.
-        \n\u2022 Re-enable option to hide icon in Quick Reminder.
-        \n\u2022 Always show picker when sending text.
-        \n\u2022 Add option to override system power menu with APM.
-        \n\u2022 Fix crash in restart speed service.
-        \n\nv6.4.4:
-        \n\u2022 Fix crash in background execution (Oreo).
-        \n\u2022 Fix back &amp; recent\'s icons.
-        \n\u2022 Improve custom icon "choose function" screen.
-        \n\u2022 Fix crash in Android 8+ restart services.
-        \n\u2022 Fix restarting services in Android 7.0.
-        \n\u2022 Correct launcher icons in Android 7.0.
-        \n\u2022 Efficiency improvements.
-        \n\u2022 Translation updates.
-        \n\nv6.4.1:
-        \n\u2022 Fix Screenshot delay/countdown notification.
-        \n\u2022 Do not add whitespace to quick reminder when cleared.
-        \n\u2022 Fix sharing text to Clipboard Editor &amp; Quick Reminder.
-        \n\u2022 Translation updates.
-        \n\u2022 Do not bug about accessibility if auto enable available.
-        \n\u2022 Fix sharing text from Clipboard &amp; Quick Reminder.
-        \n\nv6.3.7:
-        \n\u2022 Clean-up excessive resources (reduce apk size by 3mb)
-        \n\u2022 Improved welcome pages &amp; transitions.
-        \n\u2022 Improved how to add tiles guide &amp; transitions.
-        \n\u2022 Re-add ROOT screenshot method (Now send\'s key combo - manufacturer dependant).
-        \n\u2022 Fix countdown timer alerting on tick.
-        \n\u2022 Add Back &amp; Home button actions (Accessibility service).
-        \n\nv6.3.1:
-        \n\u2022 Suspend overlays when creating new Facebook post\'s.
-        \n\u2022 Add Oreo pinned shortcuts option to Launcher tab.
-        \n\u2022 Layout adjustments &amp; icon corrections.
-        \n\u2022 Add all toggles to Launcher system settings shortcuts.
-        \n\u2022 Exposed launcher toast now shows toggle state.
-        \n\u2022 Fix countdown timer alarm.
-        \n\u2022 Fix screen timeout toggle sticking on some devices.
-        \n\nv6.2.8:
-        \n\u2022 Fix crash in Screen Filter when rotating screen.
-        \n\nv6.2.7:
-        \n\u2022 Remove new subscription option.
-        \n\u2022 Add battery optimisation warning.
-        \n\u2022 Move Exposed Icons to new "Launcher" tab.
-        \n\u2022 Add option to install exposed icons as shortcuts.
-        \n\u2022 Improve tab header sizing.
-        \n\u2022 Add more shortcuts to "Exposed Icons" selection.
-        \n\nv6.2.0:
-        \n\u2022 Exposed Icons now use Adaptive Icons.
-        \n\u2022 Add Orientation toggle to Exposed Icons.
-        \n\u2022 Remove Root Screenshot method.
-        \n\u2022 Notification channel fixes.
-        \n\u2022 Improve widget refreshing.
-        \n\u2022 Improve Clipboard Editor layout.
-        \n\u2022 Improve Quick Reminder layout.
-        \n\u2022 Improve Quick Calendar layout.
-        \n\u2022 Improve My Location layout.
-        \n\u2022 Improve Weather layout.
-        \n\u2022 Remove hide icon in Quick Reminder (Oreo).
-        \n\u2022 Remove Japanese &amp; Portuguese translations (no support).
-        \n\u2022 Restrict Quick Reminder &amp; Clipboard editor to 20 launches (Free Version).
-        \n\u2022 Allow 10 launch preview on Screenshot &amp; Screen Record.
-        \n\nv6.1.8:
-        \n\u2022 Add (ROOT) Network Mode Tile to Widgets, Shortcuts &amp; Sidebar options.
-        \n\u2022 Disable icon notification badges in supported launchers.
-        \n\u2022 Fix background services crashing on Android 8.1+
-        \n\u2022 Introduce Job scheduler.
-        \n\u2022 Performance improvements.
-        \n\u2022 Bug Fixes.
-        \n\nv6.1.7:
-        \n\u2022 Bump target SDK to 27 (Oreo).
-        \n\u2022 Introduce Oreo notification channels.
-        \n\u2022 Use Oreo compliant windows in Oreo+.
-        \n\nv6.1.4:
-        \n\u2022 Additional memory usage improvements.
-        \n\u2022 In-app UI adjustments.
-        \n\u2022 Updated Splash/How It works screens.
-        \n\u2022 Add note/dialog on Battery Optimisation.
+        \n\nv6.8.5:
+        \n\u2022 Android 8 &amp; 9 Updates &amp; improvements.
+        \n\u2022 Stability Improvements.
         \n\u2022 Bug fixes.
-        \n\nv6.1.2:
-        \n\u2022 Crash Fix.
-        \n\u2022 Vastly improve refreshing of services.
-        \n\u2022 Improved memory usage.
-        \n\nv6.0.9:
-        \n\u2022 Fix critical error experienced when restoring data on some devices.
-        \n\u2022 Fix crash when toggling widgets/shortcuts.
-        \n\u2022 Reduce log output.
-        \n\u2022 Fix Play/Pause button/tile in Oreo.
-        \n\nvV6.0.6 - V6.0.8:
-        \n\u2022 Fix Sidebar edit mode animation when scrolling.
-        \n\u2022 Add option to lock Shortcutter pull-down tiles when device locked.
-        \n\u2022 App UI adjustments.
-        \n\u2022 Fix saving backups, screen shots &amp; recordings to external storage.
-        \n\nv6.0.2 - V6.0.5:
-        \n\u2022 Fix crash in Oreo notification blocker.
-        \n\u2022 Fix Popup Menu being cut off in sidebar.
-        \n\u2022 In app layout tweaks.
-        \n\u2022 Shortcut installation improvements.
-        \n\u2022 Translation updates.
-        \n\u2022 Add option to rename custom tiles.
+        \n\u2022 Sidebar designer updates.
+        \n\u2022 Increase Widget custom tiles to 20 (Premium)
+        \n\nv6.8.3:
+        \n\u2022 Fix crash when WiFi SSID is unavailable.
+        \n\u2022 Fix bug in Screen Shot.
+        \n\u2022 Use contact photo if available for Direct Dial &amp; Message.
+        \n\u2022 Fix Start foreground in Wake Service.
+        \n\u2022 Bug fixes in Round Corners &amp; Screen Filter services.
+        \n\nv6.8.2:
+        \n\u2022 Update Get SSID method for WiFi tile.
+        \n\u2022 Align Sidebar context menu items with sidebar position.
+        \n\u2022 Re-add \"App Settings\" to sidebar context menu.
+        \n\u2022 Fix app Launcher items not in cache.
+        \n\u2022 Optimise resources.
+        \n\nv6.8.1:
+        \n\u2022 Improve restart services and optimise for Android 8 &amp; 9.
+        \n\u2022 QS Tile guide updates.
+        \n\u2022 Click confirmation improvements.
         \n\u2022 Bug Fixes.
-        \n\nv6.0.1:
-        \n\u2022 Widget layout improvements.
-        \n\u2022 Bug fixes.
-        \n\u2022 Update all dependencies, target API &amp; build tools version.
-        \n\u2022 Translation updates.
-        \n\u2022 Increase SideBar custom tiles to 40!
-        \n\u2022 End of Android 6.0 support.
-        \n\nv5.9.9:
-        \n\u2022 Fix overlay windows failing to add.
-        \n\nv5.9.8:
-        \n\u2022 Translation updates.
-        \n\u2022 Increase max pull-down header tiles to 12.
-        \n\u2022 Improve widget re-sizing &amp; scaling.
-        \n\u2022 Fix custom tiles in Widget.
-        \n\u2022 New Dark widget option.
-        \n\u2022 Upgrade to latest Google Play Services.
-        \n\u2022 Disable notification blocker on unsupported devices.
-        \n\nv5.9.6:
-        \n\u2022 Fix crash in Oreo notification blocker.
-        \n\nv5.9.5:
-        \n\u2022 Add option to enable/disable vibration in sidebar/toolbox.
-        \n\u2022 Fix crash in floating calculator when decimal is the first character clicked.
-        \n\u2022 Fix icon highlight in Sidebar QS Toggle.
-        \n\u2022 SideBar Designer - add off tile colour option.
-        \n\u2022 Sidebar Designer layout adjustments.
-        \n\u2022 Translation Updates.
-        \n\nv5.9.3:
-        \n\u2022 Add optional Sidebar On/Off QS Toggle &amp; Launcher Shortcut.
-        \n\u2022 Fix crash in Mono Audio Toggle.
-        \n\u2022 Sidebar default dimension tweaks.
-        \n\u2022 Screen corners notification off as default.
-        \n\nv5.9.2:
-        \n\u2022 Fix Time format in Toolbox Header.
-        \n\u2022 Add Mono Audio Tile (ROOT).
-        \n\u2022 Translation Updates.
-        \n\u2022 Add search to install shortcut view (Oreo).
+        \n\nv6.8.0:
+        \n\u2022 Fix URL encoding on custom tile web links.
+        \n\u2022 Correct SideBar context menu positioning.
+        \n\u2022 Save App Launcher items to Shared Prefs.
+        \n\u2022 Instant App Launcher loading (Second Launch).
+        \n\u2022 Improve per-app immersive selector.
+        \n\u2022 UI Updates.
+        \n\u2022 Bug fixes
+        \n\nv6.7.9:
+        \n\u2022 Add side Bar BOTTOM Option.
+        \n\u2022 Add independent trigger right/left option.
+        \n\u2022 60 click text corrections.
+        \n\u2022 Fix link to Settings Secure Guide.
+        \n\u2022 APM &amp; Dialog Improvements.
+        \n\u2022 Move APM Options to APM.
+        \n\u2022 Fix crash in Speed Service Stop.
+        \n\u2022 Add option to stop screen record on screen off.
+        \n\u2022 Fix crash in colour picker.
+        \n\nv6.7.8:
+        \n\u2022 Fix sidebar not closing on back/click outside - Android 9.
+        \n\u2022 Add message when Screen Shot/Record fails due to Storage.
+        \n\u2022 Fix screen record loop if storage is invalid.
+        \n\u2022 Add Restart SystemUI to APM.
+        \n\nv6.7.6:
+        \n\u2022 Improve default sidebar theme.
+        \n\u2022 Remove header from App Launcher.
+        \n\u2022 Fix Floating Calc fail to disable.
+        \n\u2022 Premium notification after 60 clicks.
+        \n\u2022 Add HTC Glove Mode Tile.
+        \n\u2022 Update build tools version.
         \n\u2022 Bug Fixes.
-        \n\u2022 Welcome &amp; Billing screen adjustments.
-        \n\nv5.9.1:
-        \n\u2022 Translation improvements.
-        \n\u2022 Add Battery \% to Night Light.
-        \n\u2022 Move SideBar Expander option to Behaviour &amp; Trigger Settings.
-        \n\u2022 Add optional text drop shadow in SideBar.
-        \n\u2022 UI Improvements.
-        \n\u2022 Fix haptic feedback in Sidebar.
-        \n\nv5.9.0:
-        \n\u2022 Restart services when opening or returning to app.
-        \n\u2022 New &amp; Improved Spanish Translations!
-        \n\u2022 Fix In App Billing subscription status check.
-        \n\u2022 Billing screen improvements.
-        \n\u2022 Weather improvements.
-        \n\nv5.8.9:
-        \n\u2022 Add open app option to sidebar popup menu.
-        \n\u2022 Add optional 4 day trial + annual subscription.
-        \n\nv5.8.7:
-        \n\u2022 NEW SideBar Popup Menu.
-        \n\u2022 - Long Press SideBar items to Rearrange, Remove &amp; Edit.
-        \n\u2022 Update translations.
-        \n\u2022 Fix accidental clicks when swiping sidebar closed.
-        \n\u2022 Only show too many tiles warning 4 times.
-        \n\nv5.8.4:
-        \n\u2022 Add Monochrome tile to exposed icons selection.
-        \n\u2022 Fix new event toggle when quick calendar is enabled.
-        \n\u2022 Improve method used to add/remove tiles in Sidebar.
-        \n\u2022 Do not apply icon tint to install shortcut view.
-        \n\nv5.8.3:
-        \n\u2022 Allow sharing text to Quick Reminder &amp; Clipboard Editor from other apps.
-        \n\u2022 Fix floating calculator for non premium users (Trial).
-        \n\nv5.8.0 - v5.8.2:
-        \n\u2022 Update Spanish &amp; German translations (Using DeepL).
-        \n\u2022 NEW Shortcutter Floating Calculator.
-        \n\u2022 App layout adjustments.
-        \n\u2022 Bug Fixes.
-        \n\nv5.7.9:
-        \n\u2022 Save &amp; restore quick reminders after reboot.
-        \n\u2022 Clean-up sidebar left trigger.
-        \n\u2022 Force refresh all tiles when changing stateless tile state.
-        \n\u2022 Set all information tiles to Active state.
-        \n\u2022 Translation updates.
-        \n\u2022 Adjust custom app icon tile scaling (no cropping).
-        \n\u2022 SideBar vertical position now independent of trigger.
-        \n\u2022 Add warning when toggling experimental features.
-        \n\u2022 Bug Fixes.
-        \n\nv5.7.8:
-        \n\u2022 Fix stateless tint toggle icon.
-        \n\u2022 Fix crash when setting filter auto start/stop with 12 hour time format.
-        \n\u2022 Fix crash in quick reminder on some devices.
-        \n\u2022 Make random colour in Quick Reminder optional.
-        \n\nv5.7.7:
-        \n\u2022 Fix QS Tile states in some Active Tiles.
-        \n\u2022 Translation updates.
-        \n\u2022 Stateless Tiles - Choose default active/inactive colour state.
-        \n\u2022 Night Light/Desk Clock - move to avoid screen burn.
-        \n\u2022 Improve quick reminders:
-        \n\u2022 - Randomise highlight colours.
-        \n\u2022 - Fix existing reminders being replaced.
-        \n\u2022 - Fix editing reminders when multiple reminders exist.
-        \n\nv5.7.6:
-        \n\u2022 Improve "How It Works" screens.
-        \n\u2022 Re-design sidebar trigger (Cleaner scaling).
-        \n\u2022 Improve Screen Filter auto start/stop.
-        \n\u2022 Additional launcher shortcuts.
-        \n\u2022 Fix buttons in time picker dialog.
-        \n\u2022 Fix widget crash on Android 6 &amp; 7.
-        \n\u2022 UI tweaks.
-        \n\nv5.7.3:
-        \n\u2022 NEW Shortcutter Widget &amp; configuration activity - BETA.
-        \n\u2022 Install shortcut &amp; widget item selection now gets tile title instead of label.
-        \n\u2022 Translation updates.
-        \n\u2022 Add optional exposed launcher icons for Quick Reminder, Quick Calendar &amp; Clipboard Editor.
-        \n\u2022 Fix using enter button for new line in quick reminder.
-        \n\nv5.7.0:
-        \n\u2022 Restart Screen Filter &amp; Round Corners when toggling options.
-        \n\u2022 Enable voice input &amp; rearrange buttons in quick reminder.
-        \n\u2022 Add AirPlane Mode tile (ROOT Only).
-        \n\u2022 Add Storage Usage Tile (Available internal memory).
-        \n\u2022 Fix Crash in RestartServices.
-        \n\u2022 Performance enhancements.
-        \n\nv5.6.9:
-        \n\u2022 Fix Quick Calendar Icon.
-        \n\u2022 Update translations.
-        \n\u2022 Re-arrange SideBar designer options.
-        \n\u2022 Welcome screen updates.
-        \n\u2022 Fix overlay blocking perms on initial setup.
-        \n\nv5.6.6 - v5.6.8:
-        \n\u2022 New Service/Toggle: Quick Calendar.
-        \n\u2022 Only show "Suspending overlays" 3 times.
-        \n\u2022 Update Translations.
-        \n\u2022 Add additional logic to toggles for root users.
-        \n\u2022 Improved Oreo dynamic &amp; pinned shortcut refresh logic.
-        \n\u2022 Do not show toast in dynamic shortcuts.
-        \n\u2022 Add custom colour option to dynamic shortcuts.
-        \n\nv5.6.5:
-        \n\u2022 Fix crash in restart services.
-        \n\u2022 Apply state icon tint to dynamic shortcuts.
-        \n\u2022 Remove redundant dynamic shortcuts.
-        \n\u2022 Improve brightness preset icon.
-        \n\u2022 Fix shortcut crash on Android 7.1.
-        \n\u2022 Add 10 custom tiles to launcher shortcuts selection (Oreo +)
-        \n\u2023 assign activities, web links, apps &amp; shell commands.
-        \n\nv5.6.4:
-        \n\u2022 Fix screen filter incorrectly activating after Screenshot.
-        \n\u2022 Fix advanced power menu exposed icon (Root).
-        \n\u2022 New Shortcuts for API 25 (Android 7.1) and above!
-        \n\u2022 - All in app toggles available.
-        \n\u2022 Improved toggle toast message when using shortcuts.
-        \n\u2022 Fix accessibility toggle auto re-enabling when disabled.
-        \n\nv5.5.8 - v5.6.3:
-        \n\u2022 Add Backup/Restore to file.
-        \n\u2022 Add Edit button to quick reminders.
-        \n\u2022 Check if notifications enabled for Shortcutter where required.
-        \n\u2022 If settings secure enabled - attempt auto re-enable Accessibility instead of showing dialog.
-        \n\u2022 Make sidebar icon animations optional (Icon Designer).
-        \n\u2022 Improve suspending overlays during secure activities.
-        \n\u2022 Welcome screen updates.
-        \n\u2022 Icon designer updates.
-        \n\u2022 Bug fixes.
-        \n\nv5.5.7:
-        \n\u2022 Do not remove tiles that require settings secure access.
-        \n\u2022 Translation Updates.
-        \n\u2022 Bug Fixes.
-        \n\nv5.5.4 - v5.5.6:
-        \n\u2022 Fix bug when setting per app immersive mode.
-        \n\u2022 Translation updates.
-        \n\u2022 Enable drag - drop rearrange in APM.
-        \n\u2022 Accessibility auto re-enable if app has Settings Secure or ROOT access.
-        \n\u2022 Add Invert Colours tile (Settings Secure Required)
-        \n\nv5.4.8 - V5.5.3:
-        \n\u2022 Correct tab highlights when opening to specific tabs.
-        \n\u2022 Header icon size corrections.
-        \n\u2022 Add +/- buttons to Icon Designer seek bars.
-        \n\u2022 All Seek bar +/- buttons now implement long click repeat.
-        \n\u2022 Fix random color option.
-        \n\u2022 Fix custom tiles not refreshing when changed.
-        \n\u2022 Add ability to select Screen Timeout values.
-        \n\u2022 Improve multi toggle methods.
-        \n\u2022 Make QuickReminder notification icon optional.
-        \n\u2022 Fix custom tile 1 not being removed.
-        \n\u2022 Translation Updates.
-        \n\u2022 Add Play Store My Apps tile.
-        \n\u2022 Root screen shot method improved.
-        \n\u2022 Fix memory leak.
-        \n\nv5.4.6 - v5.4.7:
-        \n\u2022 Translation Updates.
-        \n\u2022 New SideBar/ToolBox designer with preview.
-        \n\u2022 Improve sizing logic.
-        \n\u2022 SideBar/ToolBox style application fixes.
-        \n\nv5.4.5:
-        \n\u2022 Major sidebar speed improvements.
-        \n\u2022 Fix colours in nightlight\/desk clock.
-        \n\u2022 App draw search now uses starts with.
-        \n\u2022 Remove screenshot from APM if non premium.
-        \n\u2022 Update welcome screen shots.
-        \n\nv5.4.4:
-        \n\u2022 Fix toggle toast colours.
-        \n\u2022 Update Chinese, Polish &amp; German translations.
-        \n\nv5.3.9 Beta - v5.4.3:
-        \n\u2022 SideBar header icons and text now scaled with contents.
-        \n\u2022 Major code rewrite and optimisation in SideBar grid items.
-        \n\u2022 Remove requirement to reload SideBar grid array when expanding.
-        \n\u2022 Clipboard Editor active/inactive state (contains text).
-        \n\nv5.2.5 Beta - V5.3.8:
-        \n\u2022 Show toast message when running overlays without accessibility.
-        \n\u2022 Fix premium only icons.
-        \n\u2022 Show warning when user has an excessive number of tiles enabled.
-        \n\u2022 Add option to randomise Icon &amp; Label colours.
-        \n\u2022 Accessibility improvements (Suspend services).
-        \n\u2022 Android 6 bug fixes.
-        \n\u2022 Add SideBar Icon spacing options.
-        \n\u2022 Improve SideBar icon spacing &amp; sizing logic.
-        \n\u2022 Request call permissions when assigning contact shortcut.
-        \n\u2020 SideBar performance enhancements and layout adjustments.
-        \n\u2022 Add new SideBar icon designer.
-        \n\u2022 Fix Per App Immersive selections not always applying first time.
-        \n\u2022 Do not reset immersive Per App selections when changing mode.
-        \n\u2022 Polish &amp; Turkish translation updates.
-        \n\u2022 Fix reminder icon colour.
-        \n\u2022 Fix Data Speed total usage - now shows total usage since last boot.
-        \n\u2022 Remove Dice tile animation on Oreo as no longer supported.
-        \n\nv5.2.0 Beta - V5.2.4:
-        \n\u2022 Enable Per App Immersive Mode selection.
-        \n\u2022 Layout &amp; translation corrections.
-        \n\u2022 Make trigger invisible when hiding, do not remove.
-        \n\u2022 Add Data Speed service &amp; Tiles.
-        \n\u2022 Fix crash in screen record.
-        \n\u2022 Add request enable location in Weather &amp; My Location.
-        \n\u2022 Add Share &amp; refresh buttons to Weather.
-        \n\u2022 Add Notification Log Tiles.
-        \n\u2022 Add Quick Reminder feature &amp; tiles.
-        \n\u2022 Apply accent color to notifications.
-        \n\u2022 Fix launching app launcher from desktop.
-        \n\u2022 Fix crash on some devices when enabling sidebar.
-        \n\nV5.1.9:
-        \n\u2022 Fix critical error in Weather Service when Google API Server unavailable.
-        \n\u2022 Add New Map to My Location view.
-        \n\u2022 Add ClipBoard Editor &amp; Tiles.
-        \n\u2022 Add Per App Immersive Mode &amp; app selector (Premium).
-        \n\u2022 App &amp; Activity selection now uses Activity icon where available.
-        \n\u2022 Add App Launcher/Folder &amp; Quick tiles (Premium).
-        \n\u2022 Bug fixes.
-        \n\u2022 Translation updates.
-        \n\nV5.1.4:
-        \n\u2022 Roll back activity loading method.
-        \n\u2022 Add Stopwatch &amp; Tiles.
-        \n\u2022 Fix window background flicker on some activities.
-        \n\u2022 Add device details to feedback email.
-        \n\u2022 Enable exposing activity launcher.
-        \n\u2022 Fix shell command case.
-        \n\u2022 Countdown status bar icon shows remaining time hh\/mm or mm\/ss.
-        \n\u2022 Fix Countdown calculation.
-        \n\u2022 Add force audio to speakers tile (Phone quality only) - BETA.
-        \n\u2022 Bug Fixes.
-        \n\nV5.1.3:
-        \n\u2022 Add search to App &amp; Activity Picker\'s
-        \n\u2022 Activity Picker - load more activities
-        \n\u2022 Improve Sidebar drag &amp; drop.
-        \n\u2022 Hide trigger with StatusBar off as default.
-        \n\u2022 Improve Countdown Tile &amp; add to SideBar options.
-        \n\u2022 Fix crash in screen record when MediaRecorder is not available.
-        \n\nV5.1.2:
-        \n\u2022 Screen record &amp; capture now creates additional requests if denied.
-        \n\u2022 Screen record &amp; capture bug fixes.
-        \n\u2022 Add option to hide SideBar\/Toolbox trigger with status bar (i.e when in full screen video)
-        \n\u2022 Adjust touch zones &amp; improve APM, Weather &amp; My Location.
-        \n\u2022 Add option to change values toggled in Orientation tile.
-        \n\nV5.1.1:
-        \n\u2022 Reorganise Settings tab.
-        \n\u2022 Add Bonus Features section to Home tab.
-        \n\u2022 Card layout corrections.
-        \n\u2022 Enable (ROOT) One Handed Mode in SideBar.
-        \n\u2022 Dialog corrections.
-        \n\u2022 NFC toggle use ROOT if available.
-        \n\u2022 Fix SideBar PIP (ROOT) Tile.
-        \n\u2022 Floating Toolbox trigger now scalable.
-        \n\nV5.1.0:
-        \n\u2022 In app dialogue styling.
-        \n\u2022 Bug fixes.
-        \n\u2022 Fix text being cut off in SideBar.
-        \n\u2022 Data Usage Tile option - show total usage.
-        \n\u2022 Data Usage Tile now shows in MB if less than 1GB used.
-        \n\nV5.0.7 - 5.0.9 - Beta:
-        \n\u2022 Add action confirmation to APM (Optional)
-        \n\u2022 New Seek Dialogs
-        \n\u2022 Fix crash when trimming custom app icon.
-        \n\u2022 Fix crash in Weather service/provider.
-        \n\u2022 Fix crash in Screen Recorder when video profile not available on device.
-        \n\u2022 Bonus feature - hide Oreo running in background notification.
-        \n\nV5.0.6:
-        \n\u2022 Dim Background now collapses SideBar/Toolbox on key press.
-        \n\u2022 Dim Background enabled as default.
-        \n\u2022 Improve APM dimensions.
-        \n\u2022 Show change log when app updated.
-        \n\nV5.0.5:
-        \n\u2022 Fix layout bug in main app when theme set.
-        \n\u2022 Fix crash in icon back selection.
-        \n\u2022 Fix crash in screen recorder.
-        \n\u2022 Fix SideBar/Toolbox crash when bad icon resource used.
-        \n\nV5.0.0 - V5.0.4:
-        \n\u2022 Screenshot countdown moved to notification.
-        \n\u2022 Layout fidelity fix-ups.
-        \n\u2022 Dialog colour corrections.
-        \n\u2022 Full application re-design.
-        \n\u2022 Dark / Light Themes.
-        \n\u2022 New Card Layout.
-        \n\u2022 New dialogues.
-        \n\u2022 New crash catcher with feedback button.
-        \n\u2022 Improve colour picker.
-        \n\u2022 Increase pull-down custom icon count.
     </string>
     <string name="ok">OK</string>
-    <string name="notification_blocker">Oreo Notification Blocker</string>
-    <string name="notification_blocker_sum">Hide the Oreo running in background notification for all apps.</string>
+    <string name="notification_blocker">Notification Blocker</string>
+    <string name="notification_blocker_sum">Hide the system "Running In Background" notification for all apps.</string>
     <string name="notif_access">To block notifications we need to enable a Notification Listener.\n\nThis listener will only listen for notifications from the android system, any notification containing \"running in the background\" will be removed.\n\n Please click proceed &amp; enable Shortcutters Notification Blocker.</string>
     <string name="confirmation_dialog">Confirmation Dialog</string>
-    <string name="confirmation_dialog_sum">Show an action confirmation dialog in the advanced power menu</string>
-    <string name="join_beta">Join Beta</string>
     <string name="reboot_menu">Reboot Menu</string>
     <string name="total_usage">Show Total Usage</string>
     <string name="left_sum">Set one handed mode to the left</string>
@@ -1224,14 +789,14 @@
     <string name="hide_navbar">Hide Nav Bar</string>
     <string name="per_app_immersive">PerApp Immersive</string>
     <string name="mob_since_boot">Mobile Since Boot:</string>
-    <string name="icon_back_tint">Icon Shape Tint</string>
+    <string name="icon_back_tint">Icon Shape Colour</string>
     <string name="padding">Icon Padding :</string>
     <string name="icon_spacing">Horizontal Spacing</string>
     <string name="vertical_spacing">Vertical Spacing</string>
     <string name="random_colour">Random Colour</string>
     <string name="performance_warn">Adding too many tiles may cause performance issues</string>
     <string name="without_acc">Running without Shortcutter accessibility services, overlays will block secure buttons</string>
-    <string name="shape_texture">Icon Shape/Texture</string>
+    <string name="shape_texture">Icon Shape</string>
     <string name="offmode">Off Mode</string>
     <string name="show_icon">StatusBar Icon</string>
     <string name="my_play_apps">My Play Apps</string>
@@ -1295,8 +860,7 @@
     <string name="loading_activities">Loading Activities…</string>
     <string name="tiles">Tiles =</string>
     <string name="text_shadow">Text Shadow</string>
-    <string name="now">Now?</string>
-    <string name="sel_unsel">Select/Un-Select All</string>
+    <string name="sel_unsel">All Items</string>
     <string name="reset">Reset</string>
     <string name="mono">Mono Audio</string>
     <string name="mono_summary">Switch headset from Stereo to Mono audio</string>
@@ -1320,13 +884,12 @@
     <string name="add_home_icon">Auto Add To Home Screen.</string>
     <string name="add_home_icon_sum">Add an icon to the home screen as well as the app drawer.</string>
     <string name="sc_opt">Shortcutter is being optimised by the system.\n\nClick here for more information.</string>
-    <string name="ore_shorts">Click here to install Oreo dynamic state launcher shortcut\'s only.</string>
+    <string name="ore_shorts">Install Launcher shortcut\'s.</string>
     <string name="pinned_shorts">Pinned Shortcuts.</string>
     <string name="back">Back</string>
     <string name="home_sum">Emulates the home button.</string>
     <string name="back_sum">Emulates the back button.</string>
-    <string name="apm_intercept">Override System Power Menu</string>
-    <string name="apm_intercept_sum">Shortcutters advanced power menu will replace the system power menu.</string>
+    <string name="apm_intercept">Override System Menu</string>
     <string name="rev_portn" translatable="false">180\u00B0</string>
     <string name="also_standalone">"Your trial has now expired.
         To continue using this service, please upgrade to premium.
@@ -1334,9 +897,9 @@
     <string name="standalone">Standalone</string>
     <string name="label">Label</string>
     <string name="rev_land" translatable="false">270\u00B0</string>
-    <string name="app_ino_sets"><![CDATA[App Information, Settings & Backup]]></string>
+    <string name="app_ino_sets"><![CDATA[App Information, Setting\'s & Backup]]></string>
     <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
-    <string name="man_qs">Manage Quick Settings Pull-Down Tiles</string>
+    <string name="man_qs">Manage Quick Settings Pull-Down Tile\'s</string>
     <string name="launcher_shorts"><![CDATA[Launcher Shortcut\'s & Icon\'s]]></string>
     <string name="shortcut_sets">Shortcut Specific Settings</string>
     <string name="special_tiles">Advanced Access Tiles</string>
@@ -1349,4 +912,17 @@
     <string name="immersive_off">Immersive Off</string>
     <string name="share_men_sum">Enable/Disable items in the share menu.</string>
     <string name="share_menu">Share Menu</string>
+    <string name="price_drop">Shortcutter premium price drop, grab a bargain &amp; show your support for future development!</string>
+    <string name="drop">Shortcutter Price Drop</string>
+    <string name="shortcutter_permissions_wake">Shortcutter required the WakeLock permission to keep the screen awake.</string>
+    <string name="glove_mode">HTC Glove Mode</string>
+    <string name="rest_sysui">Restart SystemUI</string>
+    <string name="screen_off">Stop On Screen Off</string>
+    <string name="screen_off_sum">Automatically stops screen recording when the screen is switched off.</string>
+    <string name="sb_pos_title">Sidebar Position</string>
+    <string name="sb_pos_sum">Position the Sidebar Right, Left or bottom</string>
+    <string name="trigger_pos">Left/Right</string>
+    <string name="rest_services">Restarting Services</string>
+    <string name="padding_12">Padding: 12</string>
+    <string name="iconscale_12">IconScale: 12</string>
 </resources>

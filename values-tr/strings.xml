@@ -85,8 +85,7 @@
     <string name="ambient_display">Otomatik Parlaklık</string>
     <string name="root_available">Cihazınız Rootlanmış gibi görünüyor.
         \n Daha fazla sekme eklemek için etkinleştirin!</string>
-    <string name="available_in_prem1">\u2022 Sınırlı özellikler &amp; her 50 Tıklamayla ilgili bir Bildirim.</string>
-    <string name="available_in_prem3">Hemen Premium satın alın &amp; desteğinizi gösterin!</string>
+    <string name="available_in_prem1">\u2022 Sınırlı özellikler &amp; her 60 Tıklamayla ilgili bir Bildirim.</string>
     <string name="ad_supported">Shortcutter ÜCRETSİZ sürüm</string>
     <string name="disabled">Kapalı</string>
     <string name="enabled">Açık</string>
@@ -127,7 +126,7 @@
     <string name="no_licence">Lisans Bulunamadı</string>
     <string name="old_licene">Premium Lisans Bulundu</string>
     <string name="all_prices_subject_to_tax_vat">Fiyatlara KDV Dahildir*
-        \n\nShortcutter Premium Lisansı satın almak 50 tıklama bildirimini kaldıracak, ilave sekmeler ve uygulamanın ekstra özelliklerini kullanabilmenizi sağlayacaktır.</string>
+        \n\nShortcutter Premium Lisansı satın almak 60 tıklama bildirimini kaldıracak, ilave sekmeler ve uygulamanın ekstra özelliklerini kullanabilmenizi sağlayacaktır.</string>
     <string name="amin">olur</string>
     <string name="allofthe">Aşağıdaki seçeneklerden herhangi biri size premium erişimi verecek, seçim sizin :)</string>
     <string name="volumeui">Ses
@@ -296,7 +295,7 @@
         \n \u2022 Ekstra Özel URL Sekmeleri
         \n \u2022 Ekran Kaydetme &amp; Yakalama
         \n \u2022 Daha fazla uygulama içi ayarlar
-        \n \u2022 &amp; 50 tıklama bildirimini kaldırma</string>
+        \n \u2022 &amp; 60 tıklama bildirimini kaldırma</string>
     <string name="no_thanks">Hayır Teşekkürler</string>
     <string name="add_event">Etkinlik Ekle</string>
     <string name="add_event_summary">Takvime etkinlik ekle</string>
@@ -304,9 +303,9 @@
     <string name="power_not_found">Güç Ayarları etkinliği bulunamadı</string>
     <string name="nfc_not_found">NFC ayarları etkinliği bulunamadı</string>
     <string name="consider_prem">Shortcutter ÜCRETSİZ </string>
-    <string name="consider_prem1">Bu 50. tıklaman oldu!
+    <string name="consider_prem1">Bu 60. tıklaman oldu!
         \n\nPremium alarak biraz destek olmayı düşünür müydün?
-        \n\nBu bildirim, Ücretsiz sürümdeki her 50. sekme tıklamasında görünür.</string>
+        \n\nBu bildirim, Ücretsiz sürümdeki her 60. sekme tıklamasında görünür.</string>
     <string name="screenre_cat"><![CDATA[Ekran Kaydı & Yakalama]]></string>
     <string name="choose_entries">Konum Modu Öğeleri (En az 2)</string>
     <string name="conf_sel">Seçimi Onayla</string>
@@ -560,8 +559,6 @@
     <string name="view">Göster</string>
     <string name="trigger">Tetikle</string>
     <string name="icon_scale">Simge Boyutu</string>
-    <string name="flash_sale">Shortcutter Premium\'dan %30 indirim!\nLütfen, premium satın alma ekranında £1.69 seçeneğini seçin.</string>
-    <string name="sale">Shortcutter Büyük İndirim</string>
     <string name="dim">Karartma -</string>
     <string name="dimup">Karartma +</string>
     <string name="screen_dim">Ekran Karartma =&#160;</string>
@@ -647,12 +644,10 @@
     <string name="notification_blocker">Oreo Bildirim Engelleyici</string>
     <string name="notification_blocker_sum">Tüm uygulamalar için Oreo\'nun arka planda çalışıyor bildirimini gizle.</string>
     <string name="confirmation_dialog">Onay kutusunu göster</string>
-    <string name="join_beta">Beta\'ya Katıl</string>
     <string name="reboot_menu">Yeniden Başlat Menüsü</string>
     <string name="total_usage">Toplam Kullanımı Göster</string>
     <string name="total_usage_sum">Toplam veri kullanımını göster veya Yükleme/İndirme ile böl</string>
     <string name="notif_access">Bildirimleri engellemek için bir Bildirim Dinleyicisi etkinleştirmeliyiz.\n\nBu dinleyici yalnızca android sisteminden gelen bildirimleri dinleyecek, \"arka planda çalışıyor\" içeren herhangi bir bildirimi kaldıracaktır.\n\n Lütfen devam edin &amp; Shortcutter Bildirim Engelleyicisi\'ni etkinleştirin.</string>
-    <string name="confirmation_dialog_sum">Gelişmiş güç menüsünde bir eylem onayı kutusu göster</string>
     <string name="left_sum">Tek el modunu sol tarafa getir</string>
     <string name="wake_show_notif">Ekran Uyandırma Etkin Bildirimi</string>
     <string name="bonus_features">Bonus Özellikler</string>
@@ -786,7 +781,6 @@
     <string name="tiles">Sekmeler =</string>
     <string name="loading_apps">Uygulamalar Yükleniyor...</string>
     <string name="text_shadow">Metin Gölgesi</string>
-    <string name="now">Şimdi mi?</string>
     <string name="sel_unsel">Seç/Tümünü Seç-Kaldır</string>
     <string name="reset">Sıfırla</string>
     <string name="mono">Mono Ses</string>
@@ -817,7 +811,6 @@
     <string name="home_sum">Ana ekran düğmesini taklit eder</string>
     <string name="back_sum">Geri düğmesini taklit eder</string>
     <string name="apm_intercept">Sistem Menüsünü Geçersiz Kıl</string>
-    <string name="apm_intercept_sum">Shortcutter\'ın gelişmiş güç menüsü sistem güç menüsünün yerini alır.</string>
     <string name="app_ino_sets"><![CDATA[Uygulama Bilgileri, Ayarlar & Yedekle]]></string>
     <string name="man_qs">Hızlı Ayarlar Aşağı-Çekme Sekmelerini Yönet</string>
     <string name="launcher_shorts"><![CDATA[Başlatıcı Kısayolları & Simgeleri]]></string>
@@ -835,4 +828,15 @@
     <string name="auto_start_sum">Tetikleyiciye basıldığında otomatik olarak ekranı kaydetmeye başla.</string>
     <string name="share_men_sum">Paylaş menüsündeki öğeleri Etkinleştir/Devre Dışı Bırak.</string>
     <string name="share_menu">Paylaş Menüsü</string>
+    <string name="shortcutter_permissions_wake">Shortcutter required the WakeLock permission to keep the screen awake.</string>
+    <string name="glove_mode">HTC Glove Mode</string>
+    <string name="rest_sysui">Restart SystemUI</string>
+    <string name="screen_off">Stop On Screen Off</string>
+    <string name="screen_off_sum">Automatically stops screen recording when the screen is switched off.</string>
+    <string name="sb_pos_title">Sidebar Position</string>
+    <string name="sb_pos_sum">Position the Sidebar Right, Left or bottom</string>
+    <string name="trigger_pos">Left/Right</string>
+    <string name="rest_services">Restarting Services</string>
+    <string name="padding_12">Padding: 12</string>
+    <string name="iconscale_12">IconScale: 12</string>
 </resources>

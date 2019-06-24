@@ -85,8 +85,7 @@
     <string name="ambient_display">Doze</string>
     <string name="root_available">Tu dispositivo parece estar rooteado.
         \n ¡Actívame para poder tener más fichas en los Ajustes Rápidos!</string>
-    <string name="available_in_prem1">Desbloquea todas las funciones y elimina las notificaciones cada 50 pulsaciones.</string>
-    <string name="available_in_prem3">¡Hazte Premium ya y muéstranos tu apoyo!</string>
+    <string name="available_in_prem1">Desbloquea todas las funciones y elimina las notificaciones cada 60 pulsaciones.</string>
     <string name="ad_supported">Desbloquear Premium</string>
     <string name="disabled">Desactivado</string>
     <string name="enabled">Activado</string>
@@ -127,7 +126,7 @@
     <string name="no_licence">No tienes licencia</string>
     <string name="old_licene">Se ha detectado una clave Premium</string>
     <string name="all_prices_subject_to_tax_vat">Todos los precios incluyen IVA*
-        \n\nAl comprar Shortcutter Premium se eliminarán las notificaciones al realizar 50 pulsaciones y se activarán las características y fichas adicionales en los ajustes rápidos.</string>
+        \n\nAl comprar Shortcutter Premium se eliminarán las notificaciones al realizar 60 pulsaciones y se activarán las características y fichas adicionales en los ajustes rápidos.</string>
     <string name="amin">amin</string>
     <string name="allofthe">Cualquiera de las siguientes opciones te darán acceso Premium, la elección es tuya. :)</string>
     <string name="volumeui">Panel de
@@ -294,7 +293,7 @@
         \n \u2022 Más fichas URL personalizadas
         \n \u2022 Grabación y captura de pantalla
         \n \u2022 Opciones adicionales en la aplicación
-        \n \u2022 Elimina las notificaciones al realizar 50 pulsaciones</string>
+        \n \u2022 Elimina las notificaciones al realizar 60 pulsaciones</string>
     <string name="no_thanks">No gracias</string>
     <string name="add_event">Añadir evento</string>
     <string name="add_event_summary">Añade un evento al calendario</string>
@@ -302,9 +301,9 @@
     <string name="power_not_found">No hay actividad en los ajustes de batería</string>
     <string name="nfc_not_found">No hay actividad en los ajustes NFC</string>
     <string name="consider_prem">Shortcutter GRATIS</string>
-    <string name="consider_prem1">¡Has realizado 50 pulsaciones en Shortcutter!
+    <string name="consider_prem1">¡Has realizado 60 pulsaciones en Shortcutter!
         \n\n¿Te has pensado apoyarnos haciéndote Premium?
-        \n\nEsta notificación se mostrará en la versión gratuita cada 50 pulsaciones realizadas en las fichas.</string>
+        \n\nEsta notificación se mostrará en la versión gratuita cada 60 pulsaciones realizadas en las fichas.</string>
     <string name="screenre_cat"><![CDATA[Grabación y captura de pantalla]]></string>
     <string name="choose_entries">Entradas modo ubicación (2 Mín.)</string>
     <string name="conf_sel">Confirmar selección</string>
@@ -580,8 +579,6 @@
     <string name="view">Ver</string>
     <string name="trigger">Activador</string>
     <string name="icon_scale">Tamaño</string>
-    <string name="flash_sale">30% de descuento en Shortcutter Premium.!\nSelecciona la opción de pago de 1.93€.</string>
-    <string name="sale">Oferta de Shortcutter</string>
     <string name="dim">Oscurecer -</string>
     <string name="dimup">Oscurecer +</string>
     <string name="screen_dim">Oscurecer pantalla =&#160;</string>
@@ -666,8 +663,6 @@
     <string name="notification_blocker_sum">Ocultar notificaciones Oreo ejecutándose en segundo plano</string>
     <string name="notif_access">Para bloquear las notificaciones necesitamos habilitar un receptor de notificaciones.\n\nEste receptor sólo recibirá notificaciones del sistema android, cualquier notificación que contenga \"ejecutándose en segundo plano\" será eliminada.\n\n Por favor, pulsa Continuar y habilita el bloqueo de notificaciones.</string>
     <string name="confirmation_dialog">Mostrar diálogo de confirmación</string>
-    <string name="confirmation_dialog_sum">Mostrar un cuadro de confirmación en el menú de apagado avanzado</string>
-    <string name="join_beta">Únete a Beta</string>
     <string name="reboot_menu">Menú de reinicio</string>
     <string name="total_usage">Mostrar uso total</string>
     <string name="left_sum">Ajustar el modo con una mano a la izquierda</string>
@@ -787,7 +782,6 @@
     <string name="tiles">Fichas =</string>
     <string name="loading_apps">Cargando Aplicaciones...</string>
     <string name="text_shadow">Sombra en texto</string>
-    <string name="now">Ahora?</string>
     <string name="sel_unsel">Seleccionar/Deseleccionar todo</string>
     <string name="reset">Reiniciar</string>
     <string name="mono">Audio Mono</string>
@@ -818,7 +812,6 @@
     <string name="home_sum">Emula el botón de Inicio</string>
     <string name="back_sum">Emula el botón Atrás</string>
     <string name="apm_intercept">Sustituir menú de apagado del sistema</string>
-    <string name="apm_intercept_sum">Los accesos directos del menú de apagado avanzado reemplazarán el menú de apagado del sistema.</string>
     <string name="app_ino_sets"><![CDATA[Información, Ajustes y Copias de seguridad]]></string>
     <string name="man_qs">Administrar fichas en Panel desplegable</string>
     <string name="launcher_shorts"><![CDATA[Accesos directos e iconos del Launcher]]></string>
@@ -836,4 +829,15 @@
     <string name="auto_start_sum">Iniciar automáticamente la grabación de pantalla al presionar el botón.</string>
     <string name="share_men_sum">Enable/Disable items in the share menu.</string>
     <string name="share_menu">Share Menu</string>
+    <string name="shortcutter_permissions_wake">Shortcutter required the WakeLock permission to keep the screen awake.</string>
+    <string name="glove_mode">HTC Glove Mode</string>
+    <string name="rest_sysui">Restart SystemUI</string>
+    <string name="screen_off">Stop On Screen Off</string>
+    <string name="screen_off_sum">Automatically stops screen recording when the screen is switched off.</string>
+    <string name="sb_pos_title">Sidebar Position</string>
+    <string name="sb_pos_sum">Position the Sidebar Right, Left or bottom</string>
+    <string name="trigger_pos">Left/Right</string>
+    <string name="rest_services">Restarting Services</string>
+    <string name="padding_12">Padding: 12</string>
+    <string name="iconscale_12">IconScale: 12</string>
 </resources>

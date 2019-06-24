@@ -84,8 +84,7 @@
     <string name="ambient_display">Schlummer Bildschirm</string>
     <string name="root_available">Dein Gerät scheint gerootet zu sein.
         \nSchalt mich um für mehr QS-Kacheln!</string>
-    <string name="available_in_prem1">Limitierte Funktionen &amp; eine Benachrichtigung alle 50 Klicks.</string>
-    <string name="available_in_prem3">Hohle jetzt Premium &amp; zeige deine Unterstützung!</string>
+    <string name="available_in_prem1">Limitierte Funktionen &amp; eine Benachrichtigung alle 60 Klicks.</string>
     <string name="ad_supported">Unlock Premium</string>
     <string name="enabled">Aktiviert</string>
     <string name="splash_3">Benutzerdef. Schnelleinstellung für Android</string>
@@ -125,7 +124,7 @@
     <string name="no_licence">Keine Lizenz erkannt</string>
     <string name="old_licene">Premium Schlüssel erkannt</string>
     <string name="all_prices_subject_to_tax_vat">Alle Preise inklusive Steuern
-        \n\nDer Kauf von Shortcutter Premium wird die 50-Klick-Benachrichtigung entfernen &amp; aktiviert zusätzliche QS-Kacheln &amp; App Eigenschaften.</string>
+        \n\nDer Kauf von Shortcutter Premium wird die 60-Klick-Benachrichtigung entfernen &amp; aktiviert zusätzliche QS-Kacheln &amp; App Eigenschaften.</string>
     <string name="amin">amin</string>
     <string name="allofthe">Jede der unten genannten Optionen gewährt Dir Premium-Zugang, die Wahl liegt bei Dir :)</string>
     <string name="volumeui">Lautstärke
@@ -295,7 +294,7 @@
         \n \u2022 Zusätzliche benutzerdef. URL Kacheln
         \n \u2022 Bildschirmaufnahme &amp; Aufnahme
         \n \u2022 Zusätzliche In-App Konfigurationsoptionen
-        \n \u2022 &amp; Entferne die 50-Klick Kachel Benachrichtigung</string>
+        \n \u2022 &amp; Entferne die 60-Klick Kachel Benachrichtigung</string>
     <string name="no_thanks">Nein Danke</string>
     <string name="add_event">Ereignis hinzufügen</string>
     <string name="add_event_summary">Fügt ein Kalenderereignis hinzu</string>
@@ -303,9 +302,9 @@
     <string name="power_not_found">Aktivität der Energieeinstellungen nicht gefunden</string>
     <string name="nfc_not_found">Aktivität der NFC Einstellungen nicht gefunden</string>
     <string name="consider_prem">Shortcutter FREE</string>
-    <string name="consider_prem1">Das sind 50 Shortcutter Klicks!
+    <string name="consider_prem1">Das sind 60 Shortcutter Klicks!
         \n\nHast du daran gedacht deine Unterstützung zu zeigen? &amp; möchtest du Premium?
-        \n\nDiese Benachrichtigung wird alle 50 Kachel-Klicks in der Free-Version angezeigt.</string>
+        \n\nDiese Benachrichtigung wird alle 60 Kachel-Klicks in der Free-Version angezeigt.</string>
     <string name="screenre_cat"><![CDATA[Bildschirm Aufnahme & Speicherung]]></string>
     <string name="choose_entries">Standortmodus Einträge\n(2 minimum)</string>
     <string name="conf_sel">Bestätige Auswahl</string>
@@ -560,8 +559,6 @@
     <string name="view">Ansehen</string>
     <string name="trigger">Auslösebalken</string>
     <string name="icon_scale">Symbolgröße</string>
-    <string name="flash_sale">30% Rabatt auf Shortcutter Premium!\nBitte wähle die £1.89 in der Premiumkaufoption.</string>
-    <string name="sale">Shortcutter Blitz Verkauf</string>
     <string name="dim">Dimmen -</string>
     <string name="dimup">Dimmen +</string>
     <string name="screen_dim">Bildschirm dimmen =&#160;</string>
@@ -649,12 +646,10 @@
     <string name="notification_blocker">Benachrichtigungsblocker</string>
     <string name="notification_blocker_sum">Oreo ausblenden, das in der Hintergrundbenachrichtigung läuft</string>
     <string name="confirmation_dialog">Bestätigungsdialog anzeigen</string>
-    <string name="join_beta">Beta beitreten</string>
     <string name="reboot_menu">Neustart Menü</string>
     <string name="total_usage">Gesamtverbrauch anzeigen</string>
     <string name="total_usage_sum">Zeige gesamten Datenverbrauch oder teile auf nach Up/Down</string>
     <string name="notif_access">Um Benachrichtigungen zu blockieren musst du einen Benachrichtigungsempfänger aktivieren.\\n\\nDieser Empfänger wird nur auf Benachrichtigungen aus dem Androidsystem hören. Jede Mitteilung die Folgendes enthält \\\"läuft im Hintergrund\\\" wird entfernt.\\n\\n Bitte klicke auf weiter &amp; aktiviere Shortcutters Benachrichtigungs Blockierer.</string>
-    <string name="confirmation_dialog_sum">Zeigt einen Bestätigungsdialog für Aktionen im erweiterten Power-Menü an.</string>
     <string name="left_sum">Einhandmodus nach links umstellen</string>
     <string name="wake_show_notif">Bildschirmwach Benachrichtigung aktiv</string>
     <string name="bonus_features">Bonusfunktionen</string>
@@ -790,7 +785,6 @@
     <string name="tiles">Fliesen =</string>
     <string name="loading_apps">Anwendungen laden....</string>
     <string name="text_shadow">Textschatten</string>
-    <string name="now">Jetzt?</string>
     <string name="sel_unsel">Alle auswählen/entmarkieren</string>
     <string name="reset">Zurücksetzen</string>
     <string name="mono">Mono-Audio</string>
@@ -821,7 +815,6 @@
     <string name="home_sum">Erstellt die Home-Taste</string>
     <string name="back_sum">Erstellt die Zurück-Taste</string>
     <string name="apm_intercept">System Power Menu erweitern</string>
-    <string name="apm_intercept_sum">Shortcutters erweitertes Power-Menü ersetzt das System Power-Menü.</string>
     <string name="app_ino_sets"><![CDATA[App-Informationen, Einstellungen & Backup]]></string>
     <string name="man_qs">Verwalten von Schnelleinstellungs Pull-Down-Kacheln</string>
     <string name="shortcut_sets">Shortcut spezifische Einstellungen</string>
@@ -839,4 +832,15 @@
     <string name="auto_start_sum">Automatische Bildschirmaufnahme beim Drücken des Kippschalters.</string>
     <string name="share_men_sum">Enable/Disable items in the share menu.</string>
     <string name="share_menu">Share Menu</string>
+    <string name="shortcutter_permissions_wake">Shortcutter required the WakeLock permission to keep the screen awake.</string>
+    <string name="glove_mode">HTC Glove Mode</string>
+    <string name="rest_sysui">Restart SystemUI</string>
+    <string name="screen_off">Stop On Screen Off</string>
+    <string name="screen_off_sum">Automatically stops screen recording when the screen is switched off.</string>
+    <string name="sb_pos_title">Sidebar Position</string>
+    <string name="sb_pos_sum">Position the Sidebar Right, Left or bottom</string>
+    <string name="trigger_pos">Left/Right</string>
+    <string name="rest_services">Restarting Services</string>
+    <string name="padding_12">Padding: 12</string>
+    <string name="iconscale_12">IconScale: 12</string>
 </resources>

@@ -22,6 +22,16 @@
         <item>1</item>
         <item>2</item>
     </string-array>
+    <string-array name="sb_pos_entries">
+        <item>Right</item>
+        <item>Left</item>
+        <item>Bottom</item>
+    </string-array>
+    <string-array name="sb_pos_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="sidebar_tmb_entries">
         <item>Top</item>
         <item>Center</item>

@@ -79,8 +79,7 @@
     <string name="flashlight">Lanterna</string>
     <string name="ambient_display">Visualização de ambiente</string>
     <string name="root_available">Parece que o seu dispositivo tem acesso root.\n Ative para ter mais Mosaicos CR!</string>
-    <string name="available_in_prem1">\u2022 Funcionalidades limitadas &amp; Uma notificação a cada 50 cliques.</string>
-    <string name="available_in_prem3">Obtenha Premium agora &amp; mostre o seu apoio a @LeeDrOiD!</string>
+    <string name="available_in_prem1">\u2022 Funcionalidades limitadas &amp; Uma notificação a cada 60 cliques.</string>
     <string name="ad_supported">Shortcutter GRÁTIS</string>
     <string name="disabled">Desativado</string>
     <string name="enabled">Ativado</string>
@@ -116,7 +115,7 @@
     <string name="settings_license">LICENÇA</string>
     <string name="no_licence">Nenhuma Licença Encontrada</string>
     <string name="old_licene">Chave Premium detetada</string>
-    <string name="all_prices_subject_to_tax_vat">Todos os preços incluem Impostos/IVA*\n\nComprar Shortcutter Premium retira a notificação a cada 50 cliques e ativa Mosaicos de Configurações Rápidas e funcionalidades da app adicionais.</string>
+    <string name="all_prices_subject_to_tax_vat">Todos os preços incluem Impostos/IVA*\n\nComprar Shortcutter Premium retira a notificação a cada 60 cliques e ativa Mosaicos de Configurações Rápidas e funcionalidades da app adicionais.</string>
     <string name="amin">amin</string>
     <string name="allofthe">Qualquer das opções abaixo dá acesso premium, a escolha é sua :)</string>
     <string name="volumeui">Painel de\nVolume</string>
@@ -247,7 +246,7 @@
     <string name="font_scale_title">Escala de Letra</string>
     <string name="power_saver">Poupança de Energia</string>
     <string name="power_save_summary">Ativa/Desativa modo de Poupança de Energia</string>
-    <string name="prem_only_message">Esta funcionalidade só está disponível na versão Premium deShortcutter.\n\nPor favor clique Obter Premium para ativar as seguintes funcionalidaades:\n\n \u2022 Mosaicos App Personalizada adicionais\n \u2022 Mosaicos URL Personalizada adicionais\n \u2022 Gravação &amp; Captura de Ecrã\n \u2022 Opções de configuração da aplicação adicionais\n \u2022 &amp; Remover a notificação a cada 50 cliques</string>
+    <string name="prem_only_message">Esta funcionalidade só está disponível na versão Premium deShortcutter.\n\nPor favor clique Obter Premium para ativar as seguintes funcionalidaades:\n\n \u2022 Mosaicos App Personalizada adicionais\n \u2022 Mosaicos URL Personalizada adicionais\n \u2022 Gravação &amp; Captura de Ecrã\n \u2022 Opções de configuração da aplicação adicionais\n \u2022 &amp; Remover a notificação a cada 60 cliques</string>
     <string name="no_thanks">Não Obrigado</string>
     <string name="add_event">Adicionar Evento</string>
     <string name="add_event_summary">Adicionar um evento de calendário</string>
@@ -255,7 +254,7 @@
     <string name="power_not_found">Atividade de definições de bateria não encontrada</string>
     <string name="nfc_not_found">Atividade de definições de NFC não encontrada</string>
     <string name="consider_prem">Shortcutter GRÁTIS</string>
-    <string name="consider_prem1">Já foram 50 cliques de Shortcutter! \n\nJá considerou mostrar o seu apoio adquirindo Premium?\n\nEsta notificação aparece a cada 50 cliques em mosaicos na versão Grátis.</string>
+    <string name="consider_prem1">Já foram 60 cliques de Shortcutter! \n\nJá considerou mostrar o seu apoio adquirindo Premium?\n\nEsta notificação aparece a cada 60 cliques em mosaicos na versão Grátis.</string>
     <string name="screenre_cat"><![CDATA[Gravação & Captura de Ecrã]]></string>
     <string name="choose_entries">Escolha Entradas de Localização (Mínimo de 2)</string>
     <string name="conf_sel">Confirmar Seleção</string>
@@ -484,8 +483,6 @@
     <string name="view">Ver</string>
     <string name="trigger">Deteção</string>
     <string name="icon_scale">Escala de Ícones</string>
-    <string name="flash_sale">30% de desconto no Shortcutter Premium!\nPor favor selecione a opção de 1.93€ no ecrã de compra premium.</string>
-    <string name="sale">Saldos Shortcutter</string>
     <string name="dim">Escurecer -</string>
     <string name="dimup">Escurecer +</string>
     <string name="screen_dim">Escurecimento e Ecrã =&#160;</string>
@@ -574,12 +571,10 @@
     <string name="notification_blocker">Bloqueador de Notificationcões</string>
     <string name="notification_blocker_sum">Esconder notificação de aplicação em segundo plano do Oreo</string>
     <string name="confirmation_dialog">Mostrar Pedido de Confirmação</string>
-    <string name="join_beta">Aderir a Beta</string>
     <string name="reboot_menu">Menu de Reinicialização</string>
     <string name="total_usage">Mostrar Utilização Total</string>
     <string name="total_usage_sum">Mostrar utilização de dados total ou separada em UP/Download</string>
     <string name="notif_access">Para bloquear notificações temos que ativar um Notification Listener.\\n\\nEsta funcionalidade vai apenas ficar à escuta de notificações do sistema Android com o texto \\\"executada em segundo plano\\\" que serão removidas.\\n\\n Por favor clique em avançar &amp; o Bloqueador de Notificações Shortcutters.</string>
-    <string name="confirmation_dialog_sum">Mostrar uma confirmação de ação no menu de desligar avançado</string>
     <string name="left_sum">Definir modo de uma mão para a esquerda</string>
     <string name="wake_show_notif">Notificação ao Ligar Ecrã</string>
     <string name="bonus_features">Funções Bónus</string>
@@ -713,7 +708,6 @@
     <string name="tiles">Mosaicos =</string>
     <string name="loading_apps">A Carregar Aplicações…</string>
     <string name="text_shadow">Sombra de Texto</string>
-    <string name="now">Agora?</string>
     <string name="sel_unsel">Seleciconar/Descilecionar Tudo</string>
     <string name="reset">Redefinir</string>
     <string name="mono">Áudio Mono</string>
@@ -732,4 +726,50 @@
     <string name="open_app">Iniciar Shortcutter</string>
     <string name="share_men_sum">Ativar/Desativar items no menu partilha.</string>
     <string name="share_menu">Menu Partilha</string>
+    <string name="shortcutter_permissions_wake">Shortcutter required the WakeLock permission to keep the screen awake.</string>
+    <string name="trigger_pos">Left/Right</string>
+    <string name="sync_all">Sync All</string>
+    <string name="standalone">Standalone</string>
+    <string name="special_tiles_sum">Tiles that require either ROOT or Settings Secure access.</string>
+    <string name="special_tiles">Advanced Access Tiles</string>
+    <string name="shortcutter_notification">Shortcutter Notification Channel</string>
+    <string name="shortcut_sets">Shortcut Specific Settings</string>
+    <string name="screen_off_sum">Click here for more information.</string>
+    <string name="sc_opt">Shortcutter is being optimised by the system.</string>
+    <string name="sb_rows_title">Sidebar Rows</string>
+    <string name="screen_off">Stop On Screen Off</string>
+    <string name="sb_rows_summary">Current = %s Rows</string>
+    <string name="sb_pos_title">Sidebar Position</string>
+    <string name="sb_pos_sum">Position the Sidebar Right, Left or bottom</string>
+    <string name="rest_sysui">Restart SystemUI</string>
+    <string name="rest_services">Restarting Services</string>
+    <string name="rename">Rename</string>
+    <string name="price_drop">Shortcutter premium price drop, grab a bargain &amp; show your support for future development!</string>
+    <string name="pinned_shorts">Pinned Shortcuts.</string>
+    <string name="padding_12">Padding: 12</string>
+    <string name="ore_shorts">Install Launcher shortcut\'s.</string>
+    <string name="new_label">Enter New Label</string>
+    <string name="man_qs">Manage Quick Settings Pull-Down Tile\'s</string>
+    <string name="lock_orient">Lock Orientation</string>
+    <string name="launcher_shorts"><![CDATA[Launcher Shortcut\'s & Icon\'s]]></string>
+    <string name="launcher">Launcher</string>
+    <string name="add_home_icon">Auto Add To Home Screen.</string>
+    <string name="add_home_icon_sum">Add an icon to the home screen as well as the app drawer.</string>
+    <string name="also_standalone">Your trial has now expired.</string>
+    <string name="apm_intercept">Override System Menu</string>
+    <string name="app_ino_sets"><![CDATA[App Information, Setting\'s & Backup]]></string>
+    <string name="app_settings">App Settings</string>
+    <string name="auto_start_sum">Auto start screen recording when hitting the toggle.</string>
+    <string name="back">Back</string>
+    <string name="back_sum">Emulates the back button.</string>
+    <string name="clipboard_sin">Clipboard:</string>
+    <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
+    <string name="drop">Shortcutter Price Drop</string>
+    <string name="glob_settings">Global Settings</string>
+    <string name="glove_mode">HTC Glove Mode</string>
+    <string name="go_to_settings">Action Now</string>
+    <string name="home_sum">Emulates the home button.</string>
+    <string name="iconscale_12">IconScale: 12</string>
+    <string name="immersive_off">Immersive Off</string>
+    <string name="label">Label</string>
 </resources>

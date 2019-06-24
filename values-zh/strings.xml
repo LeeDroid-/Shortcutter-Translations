@@ -85,8 +85,7 @@
     <string name="ambient_display">打盹(环境)显示</string>
     <string name="root_available">你的设备似乎已经 Root 。
         \n 点我查看更多快捷设置瓷贴!</string>
-    <string name="available_in_prem1">限制功能 &amp; 每点击 50 次显示一条通知</string>
-    <string name="available_in_prem3">立即获取付费版 &amp; 展示你的支持!</string>
+    <string name="available_in_prem1">限制功能 &amp; 每点击 60 次显示一条通知</string>
     <string name="ad_supported">Shortcutter 免费版</string>
     <string name="disabled">已停用</string>
     <string name="enabled">已启用</string>
@@ -127,7 +126,7 @@
     <string name="no_licence">未检测到许可证</string>
     <string name="old_licene">检测到付费版密钥</string>
     <string name="all_prices_subject_to_tax_vat">所有价格均包含 税金/增值税*
-        \n\n购买 Shortcutter 付费版会移除 50 次点击通知 &amp; 启用额外快捷设置瓷贴 &amp; 应用功能</string>
+        \n\n购买 Shortcutter 付费版会移除 60 次点击通知 &amp; 启用额外快捷设置瓷贴 &amp; 应用功能</string>
     <string name="amin">管理员</string>
     <string name="allofthe">以下选项均会授予你付费访问，选择权在你的手上 :)</string>
     <string name="volumeui">音量
@@ -295,7 +294,7 @@
         \n \u2022 额外自定义链接瓷贴
         \n \u2022 屏幕录制 &amp; 捕获
         \n \u2022 额外应用内配置选项
-        \n \u2022 &amp; 移除50次瓷贴点击通知</string>
+        \n \u2022 &amp; 移除60次瓷贴点击通知</string>
     <string name="no_thanks">不，谢谢</string>
     <string name="add_event">添加事件</string>
     <string name="add_event_summary">添加日历事件</string>
@@ -303,9 +302,9 @@
     <string name="power_not_found">未找到电源设置活动项</string>
     <string name="nfc_not_found">未找到 NFC 设置活动项</string>
     <string name="consider_prem">Shortcutter 免费版</string>
-    <string name="consider_prem1">已达 50 次 Shortcutter 点击!
+    <string name="consider_prem1">已达 60 次 Shortcutter 点击!
         \n\n是否考虑展示你的支持 &amp; 获取付费版？
-        \n\n在免费版中，每点击瓷贴 50 次会显示这条通知。</string>
+        \n\n在免费版中，每点击瓷贴 60 次会显示这条通知。</string>
     <string name="screenre_cat"><![CDATA[屏幕录制 &amp; 捕获]]></string>
     <string name="choose_entries">位置模式条目 (最少 2 条)</string>
     <string name="conf_sel">确认选择</string>
@@ -560,8 +559,6 @@
     <string name="view">查看</string>
     <string name="trigger">触发</string>
     <string name="icon_scale">图标缩放</string>
-    <string name="flash_sale">Shortcutter 付费版现正9折!\n请在购买付费版界面选择 £1.69 选项。</string>
-    <string name="sale">Shortcutter 闪光灯缩放</string>
     <string name="dim">调暗 -</string>
     <string name="dimup">调暗 +</string>
     <string name="screen_dim">屏幕调暗 = </string>
@@ -647,12 +644,10 @@
     <string name="notification_blocker">通知拦截器</string>
     <string name="notification_blocker_sum">隐藏 Oreo 的「正在后台运行」通知</string>
     <string name="confirmation_dialog">显示确认框</string>
-    <string name="join_beta">加入 Beta 计划</string>
     <string name="reboot_menu">重启菜单</string>
     <string name="total_usage">显示总用量</string>
     <string name="total_usage_sum">显示数据总用量或按「上/下载」方式分割显示Up/Down</string>
     <string name="notif_access">为拦截通知，我们需要启用「通知监听器」。\\n\\n这个监听器将仅监听 Android 系统的通知，任何包含 \\\"在后台运行中\\\" 的通知将被移除。\\n\\n 请点击继续 &amp; 启用 Shortcutters 通知拦截器。</string>
-    <string name="confirmation_dialog_sum">在高级电源菜单中显示操作确认框</string>
     <string name="left_sum">将单手模式设为左侧</string>
     <string name="wake_show_notif">屏幕唤醒活跃通知</string>
     <string name="bonus_features">额外功能</string>
@@ -786,7 +781,6 @@
     <string name="tiles">瓷贴数 =</string>
     <string name="loading_apps">正在加载应用程序...</string>
     <string name="text_shadow">文字阴影</string>
-    <string name="now">现在？</string>
     <string name="sel_unsel">全选/取消全选</string>
     <string name="reset">重置</string>
     <string name="mono">单声道音频</string>
@@ -818,7 +812,6 @@
     <string name="home_sum">Emulates the back button</string>
     <string name="back_sum">Emulates the back button</string>
     <string name="apm_intercept">Override System Power Menu</string>
-    <string name="apm_intercept_sum">Shortcutters advanced power menu will replace the system power menu.</string>
     <string name="also_standalone">"Your trial has now expired.           To continue using this service, please upgrade to premium.           Alternatively you can purchase this as a more enhanced Standalone app from the play store. "</string>
     <string name="standalone">Standalone</string>
     <string name="label">Label</string>
@@ -836,4 +829,15 @@
     <string name="auto_start_sum">Auto start screen recording when hitting the toggle.</string>
     <string name="share_men_sum">Enable/Disable items in the share menu.</string>
     <string name="share_menu">Share Menu</string>
+    <string name="shortcutter_permissions_wake">Shortcutter required the WakeLock permission to keep the screen awake.</string>
+    <string name="glove_mode">HTC Glove Mode</string>
+    <string name="rest_sysui">Restart SystemUI</string>
+    <string name="screen_off">Stop On Screen Off</string>
+    <string name="screen_off_sum">Automatically stops screen recording when the screen is switched off.</string>
+    <string name="sb_pos_title">Sidebar Position</string>
+    <string name="sb_pos_sum">Position the Sidebar Right, Left or bottom</string>
+    <string name="trigger_pos">Left/Right</string>
+    <string name="rest_services">Restarting Services</string>
+    <string name="padding_12">Padding: 12</string>
+    <string name="iconscale_12">IconScale: 12</string>
 </resources>

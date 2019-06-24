@@ -74,7 +74,7 @@
     <string name="alarm_tile">Следующий будильник</string>
     <string name="alarm_tile_title">Следующий будильник</string>
     <string name="alert">Shortcutter Предупреждение</string>
-    <string name="all_prices_subject_to_tax_vat">Цена включают все налоги / НДС * Покупка, Shortcutter Premium удалит 50 нажатий и включит дополнительные плитки быстрой настройки и другие функции.</string>
+    <string name="all_prices_subject_to_tax_vat">Цена включают все налоги / НДС * Покупка, Shortcutter Premium удалит 60 нажатий и включит дополнительные плитки быстрой настройки и другие функции.</string>
     <string name="allofthe">Either of the below options will grant you premium access, the choice is yours :)</string>
     <string name="ambien_summary">Ambient / Режим Doze</string>
     <string name="ambient_display">Режим Doze</string>
@@ -97,9 +97,8 @@
     <string name="autobrightness_summary">Автояркость вкл/выкл</string>
     <string name="autobrightness_tile_title">Автояркость</string>
     <string name="autosync">Синхронизация</string>
-    <string name="available_in_prem1">Ограничение функций &amp; уведомление будет выходить каждые 50 кликов.</string>
-    <string name="available_in_prem3">Перейдите на Премиум сейчас &amp; показать свою поддержку!</string>
-    <string name="availableram">"Доступно 
+    <string name="available_in_prem1">Ограничение функций &amp; уведомление будет выходить каждые 60 кликов.</string>
+    <string name="availableram">"Доступно
 ОЗУ"</string>
     <string name="bat_opt">Shortcutter содержит несколько фоновых служб, в некоторых случаях, Android может закрыть эти службы, когда устройство переходит в глубокий сон, чтобы этого не произошло я бы порекомендовал отключение оптимизации батарея для Shortcutter через настройки.
 Я надеюсь, что вам понравится приложение!"</string>
@@ -139,11 +138,11 @@
 
 Вы хотите продолжить?"</string>
     <string name="consider_prem">Shortcutter Бесплатная версия</string>
-    <string name="consider_prem1">Вот 50 кликов! 
+    <string name="consider_prem1">Вот 60 кликов! 
 
 Рассматривали ли вы покупку поддержки Премиум? 
 
-Это уведомление будет показываться каждые 50 кликов в бесплатной версии.</string>
+Это уведомление будет показываться каждые 60 кликов в бесплатной версии.</string>
     <string name="cont_and_phone">Что-то пошло не так, у вас предоставлены разрешения на контакты и телефон?</string>
     <string name="corner_colour">Выберите Цвет угола</string>
     <string name="corners__scale_set">Масштаб угла = %1$d%%</string>
@@ -255,7 +254,6 @@
     <string name="filter_colour">Выберите цвет фильтра</string>
     <string name="filter_off_secure">Фильтр Экрана приостановлен: обнаружена активность</string>
     <string name="filter_tile_title">Фильтр экрана</string>
-    <string name="flash_sale">30% Off Shortcutter Premium!\nВыберите опцию ? 1.69 на экране для скидки.</string>
     <string name="flash_summary">Переключение камеры/фонарик</string>
     <string name="flash_tile_title">Фонарик</string>
     <string name="flashlight">Фонарик</string>
@@ -452,7 +450,6 @@
     <string name="root_required1">Root доступ, необходимые для завершения</string>
     <string name="round_corners">Закругленные углы</string>
     <string name="run_without">Продолжить без</string>
-    <string name="sale">Продажа Shortcutter Flash</string>
     <string name="samsung_note">Важное замечание для пользователей Samsung</string>
     <string name="sb_columns_title">Столбцы Боковой Панели</string>
     <string name="sb_tb_settings">Параметры панели/Toolbox</string>
@@ -659,12 +656,10 @@
     <string name="notification_blocker">Уведомления всплывающих окон</string>
     <string name="notification_blocker_sum">Скрыть уведомления, будет работать в фоне</string>
     <string name="confirmation_dialog">Диалоговое окно подтверждения</string>
-    <string name="join_beta">Присоединиться к Бета</string>
     <string name="reboot_menu">Меню Перезагрузки</string>
     <string name="total_usage">Показать общее использование</string>
     <string name="total_usage_sum">Показать использование всех данных или разделить вверх/вниз</string>
     <string name="notif_access">Чтобы блокировать уведомления нам нужно включить прослушиватель уведомлений.\n\nЭтот слушатель будет не только слушать уведомления из системы Android, но и любое уведомление, содержащее \"запущенное в фоне\" или удаленные.\n\n Пожалуйста, нажмите &amp; включите блокировщик уведомлений.</string>
-    <string name="confirmation_dialog_sum">Показать диалоговое окно подтверждения действий в меню Расширенное меню</string>
     <string name="left_sum">Режим одной рукой слева</string>
     <string name="wake_show_notif">Экран Звонок активные уведомления</string>
     <string name="bonus_features">Бонусные возможности</string>
@@ -800,7 +795,6 @@
     <string name="tiles">Плитка =</string>
     <string name="loading_apps">Загрузка приложений…</string>
     <string name="text_shadow">Тень текста</string>
-    <string name="now">Сейчас?</string>
     <string name="sel_unsel">Выберите/Отменить все</string>
     <string name="reset">Сброс</string>
     <string name="mono">Моно аудио</string>
@@ -831,7 +825,6 @@
     <string name="home_sum">Эмулирует кнопку Назад</string>
     <string name="back_sum">Эмулирует кнопку Назад</string>
     <string name="apm_intercept">Переопределить меню питания системы</string>
-    <string name="apm_intercept_sum">Shortcutters заменит меню питания системы.</string>
     <string name="app_ino_sets"><![CDATA[Информация приложения, параметры и резервное копирование]]></string>
     <string name="man_qs">Управлять быстрой настройкой плитки ПулДаун</string>
     <string name="launcher_shorts"><![CDATA[Ярлыки для запуска\'ов и Иконки\'ок]]></string>
@@ -849,4 +842,15 @@
     <string name="auto_start_sum">Автоматический старт записи при переключении плитки.</string>
     <string name="share_men_sum">Вкл/Откл элементы в меню Экспорт.</string>
     <string name="share_menu">Меню Экспорт</string>
+    <string name="shortcutter_permissions_wake">Shortcutter required the WakeLock permission to keep the screen awake.</string>
+    <string name="glove_mode">HTC Glove Mode</string>
+    <string name="rest_sysui">Restart SystemUI</string>
+    <string name="screen_off">Stop On Screen Off</string>
+    <string name="screen_off_sum">Automatically stops screen recording when the screen is switched off.</string>
+    <string name="sb_pos_title">Sidebar Position</string>
+    <string name="sb_pos_sum">Position the Sidebar Right, Left or bottom</string>
+    <string name="trigger_pos">Left/Right</string>
+    <string name="rest_services">Restarting Services</string>
+    <string name="padding_12">Padding: 12</string>
+    <string name="iconscale_12">IconScale: 12</string>
 </resources>

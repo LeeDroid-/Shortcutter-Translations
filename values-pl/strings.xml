@@ -85,8 +85,7 @@
     <string name="ambient_display">Wyświetlanie Doze</string>
     <string name="root_available">Twój telefon wydaje się być zrootowany.
 	    \n Przełącz do większej ilości płytek QS!</string>
-    <string name="available_in_prem1">\u2022 Funkcja z limitem &amp; Powiadomienie co 50 kliknięć.</string>
-    <string name="available_in_prem3">Użyj Wersji Premium &amp; pokaż @LeeDrOiD swoje wsparcie!</string>
+    <string name="available_in_prem1">\u2022 Funkcja z limitem &amp; Powiadomienie co 60 kliknięć.</string>
     <string name="ad_supported">Darmowa Wersja Shortcutter</string>
     <string name="disabled">Wyłączone</string>
     <string name="enabled">Włączone</string>
@@ -127,7 +126,7 @@
     <string name="no_licence">Nie Wykryto Licencji</string>
     <string name="old_licene">Wykryto stary styl klucza premium</string>
     <string name="all_prices_subject_to_tax_vat">Wszystkie zakupy zawierają VAT*
-	     \n\nKupienie Shortcutter Premium usuwa limit 50 kliknięć oraz daje dostęp do większej ilości płytek i funkcji aplikacji.</string>
+	     \n\nKupienie Shortcutter Premium usuwa limit 60 kliknięć oraz daje dostęp do większej ilości płytek i funkcji aplikacji.</string>
     <string name="amin">amin</string>
     <string name="allofthe">Wszystkie z poniższych opcji da Ci dostęp do premium,</string>
     <string name="volumeui">Panel
@@ -295,7 +294,7 @@
 		\n \u2022 Więcej Własnych Płytek Adresów URL
 		\n \u2022 Nagrywanie i Zrzuty Ekranu
 		\n \u2022 Więcej opcji konfiguracji samej aplikacji
-		\n \u2022 usunięcie powiadomienia co 50 kliknięć</string>
+		\n \u2022 usunięcie powiadomienia co 60 kliknięć</string>
     <string name="no_thanks">Nie Dziękuję</string>
     <string name="add_event">Dodaj Wydarzenie</string>
     <string name="add_event_summary">Wydarzenie w Kalendarzu</string>
@@ -303,9 +302,9 @@
     <string name="power_not_found">Ustawień zasilania nie znaleziono</string>
     <string name="nfc_not_found">Ustawienia aktywności NFC nie znaleziono</string>
     <string name="consider_prem">Shortcutter FREE</string>
-    <string name="consider_prem1">To jest 50 kliknięć Shortcutter!!
+    <string name="consider_prem1">To jest 60 kliknięć Shortcutter!!
 	   \n\nCzy chcesz okazać wsparcie i kupić konto Premium?
-	   \n\nPowiadomienie to pokaże się co 50 kliknięć w wersji darmowej.</string>
+	   \n\nPowiadomienie to pokaże się co 60 kliknięć w wersji darmowej.</string>
     <string name="screenre_cat"><![CDATA[Nagrywanie Ekranu & Zrzut Ekranu]]></string>
     <string name="choose_entries">Wybierz Tryby Pozycji (2 Minimum)</string>
     <string name="conf_sel">Potwierdź Wybór</string>
@@ -566,8 +565,6 @@
     <string name="view">Pokaż</string>
     <string name="trigger">Wyzwalacz</string>
     <string name="icon_scale">Skalowanie Ikon</string>
-    <string name="flash_sale">30% zniżkę na Shortcutter Premium!\nWybierz opcję ? 1.69 na ekranie premium.</string>
-    <string name="sale">Wyprzedaż Shortcutter</string>
     <string name="dim">Rozmiar -</string>
     <string name="dimup">Rozmiar +</string>
     <string name="screen_dim">Rozmiar Ekranu = </string>
@@ -656,8 +653,6 @@
     <string name="notification_blocker_sum">Ukryj powiadomienia działające w tle na pasku w Oreo</string>
     <string name="notif_access">Aby zablokować powiadomienia, musimy włączyć Nasłuchiwanie Powiadomień.\\n\\nNasłuchiwacz będzie nasłuchiwał tylko powiadomień z systemu Android, wszelkie powiadomienia zawierające \\\"działające w tle \\\"zostaną usunięte.\\n\\n Kliknij Kontynuuj aby włączyć  Shortcutters Blokowanie Powiadomień.</string>
     <string name="confirmation_dialog">Pokaż informację Potwierdzającą</string>
-    <string name="confirmation_dialog_sum">Pokaż okna dialogowego z potwierdzeniem akcji w menu Zaawansowanym Menu Zasilania</string>
-    <string name="join_beta">Dołącz do Bety</string>
     <string name="reboot_menu">Menu Restartu</string>
     <string name="total_usage">Pokaż Całe Użycie</string>
     <string name="left_sum">Ustaw tryb ręczny po lewej</string>
@@ -795,7 +790,6 @@
     <string name="tiles">Płytki =</string>
     <string name="loading_apps">Ładowanie Aplikacji...</string>
     <string name="text_shadow">Cień Tekstu</string>
-    <string name="now">Teraz?</string>
     <string name="sel_unsel">Wybierz/Odznacz Wszystko</string>
     <string name="reset">Reset</string>
     <string name="mono">Mono Audio</string>
@@ -826,7 +820,6 @@
     <string name="home_sum">Emuluje przycisk home</string>
     <string name="back_sum">Emuluje przycisk wstecz</string>
     <string name="apm_intercept">Override System Power Menu</string>
-    <string name="apm_intercept_sum">Menu Zaawansowane zasilania Shortcutters zastąpi menu zasilania systemu.</string>
     <string name="app_ino_sets"><![CDATA[Informacje o aplikacji, Ustawienia i Kopia Zapasowa]]></string>
     <string name="man_qs">Zarządzanie płytki Opuszczanego Menu Szybkich Ustawień</string>
     <string name="launcher_shorts"><![CDATA[Skróty i Ikony Launchera]]></string>
@@ -844,4 +837,16 @@
     <string name="auto_start_sum">Automatyczne uruchamianie nagrywania ekranu po naciśnięciu przełącznika.</string>
     <string name="share_men_sum">Włącz/Wyłącz elementy w menu udostępniania.</string>
     <string name="share_menu">Udostępnij Menu</string>
+    <string name="shortcutter_permissions_wake">Shortcutter required the WakeLock permission to keep the screen awake.</string>
+    <string name="drop">Shortcutter Price Drop</string>
+    <string name="glove_mode">HTC Glove Mode</string>
+    <string name="rest_sysui">Restart SystemUI</string>
+    <string name="screen_off">Stop On Screen Off</string>
+    <string name="screen_off_sum">Automatically stops screen recording when the screen is switched off.</string>
+    <string name="sb_pos_title">Sidebar Position</string>
+    <string name="sb_pos_sum">Position the Sidebar Right, Left or bottom</string>
+    <string name="trigger_pos">Left/Right</string>
+    <string name="rest_services">Restarting Services</string>
+    <string name="padding_12">Padding: 12</string>
+    <string name="iconscale_12">IconScale: 12</string>
 </resources>
