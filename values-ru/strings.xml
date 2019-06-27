@@ -842,15 +842,15 @@
     <string name="auto_start_sum">Автоматический старт записи при переключении плитки.</string>
     <string name="share_men_sum">Вкл/Откл элементы в меню Экспорт.</string>
     <string name="share_menu">Меню Экспорт</string>
-    <string name="shortcutter_permissions_wake">Shortcutter required the WakeLock permission to keep the screen awake.</string>
+    <string name="shortcutter_permissions_wake">Shortcutter для быстрого доступа к экрану требуется разрешение WakeLock.</string>
     <string name="glove_mode">HTC Glove Mode</string>
-    <string name="rest_sysui">Restart SystemUI</string>
-    <string name="screen_off">Stop On Screen Off</string>
-    <string name="screen_off_sum">Automatically stops screen recording when the screen is switched off.</string>
-    <string name="sb_pos_title">Sidebar Position</string>
-    <string name="sb_pos_sum">Position the Sidebar Right, Left or bottom</string>
-    <string name="trigger_pos">Left/Right</string>
-    <string name="rest_services">Restarting Services</string>
+    <string name="rest_sysui">Перегрузить SystemUI</string>
+    <string name="screen_off">Остановить при Выкл. экрана</string>
+    <string name="screen_off_sum">Автоматически останавливает запись экрана при выключении экрана.</string>
+    <string name="sb_pos_title">Положение боковой панели</string>
+    <string name="sb_pos_sum">Расположите боковую панель справа, слева или снизу</string>
+    <string name="trigger_pos">Лево/Право</string>
+    <string name="rest_services">Перезапуск Сервисов</string>
     <string name="padding_12">Padding: 12</string>
     <string name="iconscale_12">IconScale: 12</string>
 </resources>
