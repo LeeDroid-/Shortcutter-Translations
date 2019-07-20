@@ -70,16 +70,16 @@
         <item>Aktywność (Zaawansowane)</item>
         <item>Skrót</item>
         <item>Strona internetowa</item>
-        <item>Direct Dial</item>
-        <item>Direct Message</item>
+        <item>Bezpośrednie Połaczenie</item>
+        <item>Bezpośrednia Wiadomość</item>
     </string-array>
     <string-array name="cust_tile_choice_root">
         <item>Aplikacje</item>
         <item>Aktywność (Zaawansowane)</item>
         <item>Skrót</item>
         <item>Strony internetowe</item>
-        <item>Direct Dial</item>
-        <item>Direct Message</item>
+        <item>Bezpośrednie Połaczenie</item>
+        <item>Bezpośrednia Wiadomość</item>
         <item>Linia Komend</item>
     </string-array>
     <string-array name="immersive_mode_entries">
