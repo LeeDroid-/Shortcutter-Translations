@@ -127,7 +127,6 @@
     <string name="old_licene">Wykryto stary styl klucza premium</string>
     <string name="all_prices_subject_to_tax_vat">Wszystkie zakupy zawierają VAT*
 	     \n\nKupienie Shortcutter Premium usuwa limit 60 kliknięć oraz daje dostęp do większej ilości płytek i funkcji aplikacji.</string>
-    <string name="amin">amin</string>
     <string name="allofthe">Wszystkie z poniższych opcji da Ci dostęp do premium,</string>
     <string name="volumeui">Panel
 	    \nGłośności</string>
@@ -265,15 +264,6 @@
     <string name="failed_data_usage">Nie udało się uruchomić informacje o wykorzystaniu danych</string>
     <string name="how_to">Prosty przewodnik jak dodawać płytki Shortcutter do szybkich ustawień.</string>
     <string name="addtiles_title">Jak Dodawać Płytki QS</string>
-    <string name="select_tiles"><![CDATA[1. Idź do zakładki w Shortcutter \"Płytki QS\" & wybierz swoje Płytki QS.]]></string>
-    <string name="edit_view"><![CDATA[2. Pociągnij w dół pasek stanu, a następnie naciśnij przycisk Edytuj, aby dodać płytki do ustawień (Zazwyczaj ikona pióra).]]></string>
-
-    <string name="edit_view1">3. W widoku edycji znajdziecie 3 pojemniki, nowe Płytki Shortcutter są w 3 pojemniku.
-	    \n\nAby je dodać, po prostu długo naciśnij i przeciągnij wybrane płytki do górnego (aktywnego) pojemnika i zamknij widok edycji.</string>
-    <string name="edit_view_note">WAŻNA UWAGA:
-	    \n\n Z powodu błędu w Android Nougat, użytkownicy mogą mieć problemy z dodaniem płytek QS:
-		\n\nPrzeciągnij i dodaj wszystkie płytki z 2 pojemnika do aktywnego pojemnika, a następnie przeciągnij twoje płytki Shortcutter z górnej części listy do aktywnego kontenera.
-		\n\nNiestety to nie jest coś, co można naprawić, ponieważ nie ma nic wspólnego z aplikacją.</string>
     <string name="small">Czcionka
 	    \nMała</string>
     <string name="large">Czcionka
@@ -519,8 +509,6 @@
     <string name="to_be_toggled">Wybierz pozycje do przełączenia.</string>
     <string name="swipe_out_close">Przesuń, aby zamknąć</string>
     <string name="obscure_back">Ciemne tło &amp; zwiń po dotknięciu na zewnątrz lub naciśnięciu przycisku.</string>
-    <string name="notif_led">Powiadomienia LED</string>
-    <string name="notif_led_summary">Włączanie / wyłączanie powiadomień LED \\ n (zależne od producenta)</string>
     <string name="system_toggle_summary">Z zastrzeżeniem zgodności OS/producent</string>
     <string name="experimental_settings">Funkcje Eksperymentalne</string>
     <string name="sys_setting_tiles">Płytki Szybkich Ustawień, aby przełączyć ustawienia systemu</string>
@@ -570,8 +558,6 @@
     <string name="screen_dim">Rozmiar Ekranu = </string>
     <string name="mute_media">Ścisz Media</string>
     <string name="mute_media_summary">Wycisz głośność multimediów</string>
-    <string name="system_perms_message_touches">Ta opcja wymaga możliwości zapisu ustawień systemu, ponieważ nie możemy żądać tych uprawnień w normalny sposób, musisz je włączyć.
-        \nKliknij przycisk amp; zostanie wyświetlony odpowiedni ekran.\n</string>
     <string name="lock_root">Użyj Metody ROOTA</string>
     <string name="root_lock_sum">Wysyła zdarzenie klucza ZASILANIA za pomocą powłoki-shell</string>
     <string name="choose_activity">Wybierz aktywność</string>
@@ -587,7 +573,6 @@
     <string name="transparency">Przeźroczystość</string>
     <string name="apply">Zastosuj</string>
     <string name="scale">Skala = </string>
-    <string name="how_to_summary">Prosty przegląd tego, co oferuje aplikacja</string>
     <string name="run_without">Kontynuuj Bez</string>
     <string name="xda">Strona na XDA Developers</string>
     <string name="ap_name">Adres Internetowy</string>
@@ -639,8 +624,6 @@
     <string name="auto_start_rec">Auto Start Nagrywania</string>
     <string name="recording">Nagrywanie Ekranu</string>
     <string name="change_theme">Jasny/Ciemny Motyw</string>
-    <string name="light_theme">Ustaw Jasny Motyw</string>
-    <string name="dark_theme">Ustaw Ciemny Motyw</string>
     <string name="send_report">Wyślij Raport Błędu</string>
     <string name="close_app">Wyczyść Błąd</string>
     <string name="oops_error">Ups .. wygląda na to, że coś poszło nie tak i wystąpił błąd w Shortcutter! Przepraszam za niedogodności</string>
@@ -786,9 +769,9 @@
     <string name="weather_overcast">Pochmurno</string>
     <string name="auto_with_root">Automatycznie przyznawane z ROOT.</string>
     <string name="unread_count">Nieprzeczytane Powiadomienia:</string>
-    <string name="loading_activities">Ładowanie Działań...</string>
+    <string name="loading_activities">Ładowanie Działań…</string>
     <string name="tiles">Płytki =</string>
-    <string name="loading_apps">Ładowanie Aplikacji...</string>
+    <string name="loading_apps">Ładowanie Aplikacji…</string>
     <string name="text_shadow">Cień Tekstu</string>
     <string name="sel_unsel">Wybierz/Odznacz Wszystko</string>
     <string name="reset">Reset</string>
@@ -805,7 +788,6 @@
     <string name="locked_tiles">Zablokuj opuszczanie płytek w dół</string>
     <string name="rename">Zmień nazwę</string>
     <string name="new_label">Wprowadź nową etykietę</string>
-    <string name="sync_all">Synchronizuj Wszystko</string>
     <string name="glob_settings">Ustawienia globalne</string>
     <string name="app_settings">Ustawienia Aplikacji</string>
     <string name="go_to_settings">Nowe Akcje</string>
@@ -820,14 +802,10 @@
     <string name="home_sum">Emuluje przycisk home</string>
     <string name="back_sum">Emuluje przycisk wstecz</string>
     <string name="apm_intercept">Zastąp Menu Zasilania Systemu</string>
-    <string name="app_ino_sets"><![CDATA[Informacje o aplikacji, Ustawienia i Kopia Zapasowa]]></string>
-    <string name="man_qs">Zarządzanie płytkami Opuszczanego Menu Szybkich Ustawień</string>
-    <string name="launcher_shorts"><![CDATA[Skróty i Ikony Launchera]]></string>
     <string name="shortcut_sets">Specyficzne Ustawienia Shortcut</string>
     <string name="also_standalone">Twoja wersja próbna właśnie wygasła.</string>
     <string name="standalone">Niezależny</string>
     <string name="label">Etykieta</string>
-    <string name="conf_sb"><![CDATA[Skonfiguruj Pasek Boczny i Jego Skróty]]></string>
     <string name="special_tiles">Zaawansowane Płytki Dostępu</string>
     <string name="special_tiles_sum">Płytki, które wymagają uprawnień administratora lub ustawienia bezpiecznego dostępu.</string>
     <string name="lock_orient">Zablokuj Orientację</string>
@@ -838,7 +816,6 @@
     <string name="share_men_sum">Włącz/Wyłącz elementy w menu udostępniania.</string>
     <string name="share_menu">Udostępnij Menu</string>
     <string name="shortcutter_permissions_wake">Shortcutter wymaga dostępu do Wybudzenia Ekranu aby nie dopuścić do jego uśpienia.</string>
-    <string name="drop">Shortcutter Spadek Ceny</string>
     <string name="glove_mode">Tryb Rękawiczki HTC</string>
     <string name="rest_sysui">Restart SystemUI</string>
     <string name="screen_off">Wyłącz Gdy Ekran Wyłączony</string>
@@ -849,4 +826,10 @@
     <string name="rest_services">Restartowanie Usługi</string>
     <string name="padding_12">Wielkość Srodka: 12</string>
     <string name="iconscale_12">Skalowanie Ikon: 12</string>
+    <string name="subscribe">LeeDrOiD @ YouTube</string>
+    <string name="sb_rows_title">Rzędy paska bocznego</string>
+    <string name="sb_rows_summary">Prąd = %s Rzędy</string>
+    <string name="immersive_off">Immersive Off</string>
+    <string name="developer_options">Opcje dla programistów</string>
+    <string name="dev_summary">Otwiera opcje dla programistów, jeśli są włączone.</string>
 </resources>

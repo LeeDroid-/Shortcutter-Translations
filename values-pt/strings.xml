@@ -116,7 +116,6 @@
     <string name="no_licence">Nenhuma Licença Encontrada</string>
     <string name="old_licene">Chave Premium detetada</string>
     <string name="all_prices_subject_to_tax_vat">Todos os preços incluem Impostos/IVA*\n\nComprar Shortcutter Premium retira a notificação a cada 60 cliques e ativa Mosaicos de Configurações Rápidas e funcionalidades da app adicionais.</string>
-    <string name="amin">amin</string>
     <string name="allofthe">Qualquer das opções abaixo dá acesso premium, a escolha é sua :)</string>
     <string name="volumeui">Painel de\nVolume</string>
     <string name="manualbright">Brilho\nManual</string>
@@ -233,10 +232,6 @@
     <string name="failed_data_usage">Falha ao abrir informação de utilização de dados</string>
     <string name="how_to">Clique aqui para um guia simple de como adicionar Mosaicos de Configuração Rápida.</string>
     <string name="addtiles_title">Como Adicionar Mosaicos CR</string>
-    <string name="select_tiles"><![CDATA[1. Em Shortcutter abra o separador \"Desliz para Baixo\" & selecione os Mosaicos CR.]]></string>
-    <string name="edit_view"><![CDATA[2. Puxe a barra de estado & toque no botão de editar como se vê em baixo, normalmente um ícone de caneta.\n\n Utilizadores de Samsung devem tocar no botão de 3 pontos e selecionar Ordem dos botões.\n\n verá os mosaicos Shortcutter no fundo da lista.]]></string>
-    <string name="edit_view1">3. Na Vista Editar verá 2 ou 3 secções, os novo mosaicos Shortcutter estarão na de baixo.\n\nPara os adicionar, simplesmente toque sobre e arraste os mosaicos que escolher para a secção de cima (Ativos) e saia da Vista Editar.</string>
-    <string name="edit_view_note">NOTA IMPORTANTE:\n\n Devido a um bug no Android N, pode ter dificuldades a adicionar mosaicos, isto pode ser resolvido do seguinte modo.\n\nArraste e adicione todos os mosaicos da 2ª secção para a secção Ativa, depois arraste os novos Mosaicos shortcutter do cimo da lista para a secção Ativa.\n\nInfelizmente este não é um problema que possa resolver e não está relacionado com a app.</string>
     <string name="small">Letra\nPequena</string>
     <string name="large">Letra\nGrande</string>
     <string name="fontscale">Tamanho\nLetra</string>
@@ -441,8 +436,6 @@
     <string name="to_be_toggled">Escolha ações para controlar.</string>
     <string name="swipe_out_close">Deslize para a esquerdadireita para fechar</string>
     <string name="obscure_back"><![CDATA[Escurecer por Trás & Detetar Toques Exteriores]]></string>
-    <string name="notif_led">Notificações por LED</string>
-    <string name="notif_led_summary">Liga/desliga notificações pelo LED do dispositivo\n(Depende do fabricante)</string>
     <string name="system_toggle_summary">Sujeito a compatibilidade SO/fabricante</string>
     <string name="experimental_settings">Funções Experimentais</string>
     <string name="sys_setting_tiles">Mosaicos de Configurações Rápidas para alterar definições de sistema</string>
@@ -488,8 +481,6 @@
     <string name="screen_dim">Escurecimento e Ecrã =&#160;</string>
     <string name="mute_media">Silenciar Média</string>
     <string name="mute_media_summary">Silencia o volume de multimédia</string>
-    <string name="system_perms_message_touches">Esta opção precisa de poder alterar definições de sistema, como não podemos pedir esta permissão do modo normal, terá que a ativar.
-        \n\nClque continuar &amp; será levado ao ecrã relevante.\n</string>
     <string name="lock_root">Usar Método ROOT</string>
     <string name="root_lock_sum">Envia um event do botão POWER usando a linha de comandos</string>
     <string name="choose_activity">Selecionar Atividade</string>
@@ -510,7 +501,6 @@
     <string name="ap_name">Endereço Web</string>
     <string name="create_shortcut">Criar um Atalho</string>
     <string name="enter_url">Introduza uma URL WEB ou termo de pesquisa</string>
-    <string name="how_to_summary">Uma simples apresentação do que a app afoerece</string>
     <string name="round_corners">Cantos Arredondados</string>
     <string name="run_without">Continuar Sem</string>
     <string name="xda">Tópico XDA Developers</string>
@@ -557,9 +547,7 @@
     <string name="pip_sum">Iniciar Imagem-na-Imagem para a aplicação atual</string>
     <string name="sidebar_tb">BarraLateral/Caixa de Ferramentas</string>
     <string name="recording">A Gravar Ecrã</string>
-    <string name="light_theme">Tema Claro Selecionado</string>
     <string name="change_theme">Tema Claro/Escuro</string>
-    <string name="dark_theme">Tema Escuro Selecionado</string>
     <string name="auto_start_rec">Iniciar Gravação Automaticamente</string>
     <string name="cust_app_pref_root">Associar Aplicações, Actividades, Atalhos, Links Web &amp; Comandos de Shell.</string>
     <string name="send_report">Enviar Relarório de Falha</string>
@@ -728,7 +716,6 @@
     <string name="share_menu">Menu Partilha</string>
     <string name="shortcutter_permissions_wake">Shortcutter precisa de permissão WakeLock para manter o ecrã ligado.</string>
     <string name="trigger_pos">Esquerda/Direita</string>
-    <string name="sync_all">Sincronizar Tudo</string>
     <string name="standalone">Independente</string>
     <string name="special_tiles_sum">Mosaicos que precisam de acesso ROOT ou Definições Protegidas.</string>
     <string name="special_tiles">Mosaicos de Acesso Avançado</string>
@@ -744,27 +731,21 @@
     <string name="rest_sysui">Riniciar SystemUI</string>
     <string name="rest_services">a Reiniciar Serviços</string>
     <string name="rename">Mudar Nome</string>
-    <string name="price_drop">Descida de preço Shortcutter premium, aproveite o desconto &amp; mostre o seu apoio para desenvolvimento futuro!</string>
     <string name="pinned_shorts">Atalhos Favoritos.</string>
     <string name="padding_12">Preenchimento: 12</string>
     <string name="ore_shorts">Instalar atalhos de Ecrã Inicial.</string>
     <string name="new_label">Introduzir Nova Etiqueta</string>
-    <string name="man_qs">Gerir Mosaicos de Puxar para Baixo</string>
     <string name="lock_orient">Bloquear Orientação</string>
-    <string name="launcher_shorts"><![CDATA[Atalhos & Ícones de Ecrã Inicial]]></string>
     <string name="launcher">Ecrã Inicial</string>
     <string name="add_home_icon">Adicionar Automaticamente ao Ecrã Inicial.</string>
     <string name="add_home_icon_sum">Adicionar um ícone ao ecrã inicial e à lista de aplicações.</string>
     <string name="also_standalone">O seu periodo experimental terminou.</string>
     <string name="apm_intercept">Substituir Menú do Sistema</string>
-    <string name="app_ino_sets"><![CDATA[Informações da Aplicação, de Defiiniçõws & Cópia de Sefurança]]></string>
     <string name="app_settings">Defiiniçõws da Aplicação</string>
     <string name="auto_start_sum">Iniciar grabação de ecrã automaticamente quando premido o botão.</string>
     <string name="back">Retroceder</string>
     <string name="back_sum">Simula o botão de retroceder.</string>
     <string name="clipboard_sin">Área de Tranferência:</string>
-    <string name="conf_sb"><![CDATA[Configurar a BarraLateral & os seus Atalhos\'s]]></string>
-    <string name="drop">Baixa de Preço Shortcutter</string>
     <string name="glob_settings">Definições Globais</string>
     <string name="glove_mode">Modo luva HTC</string>
     <string name="go_to_settings">Avançar</string>
@@ -772,4 +753,7 @@
     <string name="iconscale_12">EscalaDeÍcones: 12</string>
     <string name="immersive_off">Imersivo Desligado</string>
     <string name="label">Etiqueta</string>
+    <string name="subscribe">LeeDrOiD @ YouTube</string>
+    <string name="developer_options">Developer Options</string>
+    <string name="dev_summary">Opens Developer Options if enabled.</string>
 </resources>

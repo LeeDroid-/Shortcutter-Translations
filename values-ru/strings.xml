@@ -79,7 +79,6 @@
     <string name="ambien_summary">Ambient / Режим Doze</string>
     <string name="ambient_display">Режим Doze</string>
     <string name="ambient_tile_title">Ambient Display</string>
-    <string name="amin">amin</string>
     <string name="another_purchase">Для пользователей, которые хотят показать дополнительную поддержку могут использоваться оба варианта покупки.</string>
     <string name="ap_name">Веб-адрес</string>
     <string name="app_name">Shortcutter</string>
@@ -208,19 +207,6 @@
     <string name="dnd_access">Не беспокоить</string>
     <string name="dnd_required">Неразрешен доступ - Включить, чтобы включить</string>
     <string name="dnd_summary">Использование: Режим звонка</string>
-    <string name="edit_view">2. Выдвиньте свою строку состояния и нажмите кнопку редактирования, как показано ниже, это обычно значок пера.
-
- Пользователи Samsung нажать меню с тремя точками и выберите перегруппировку.\n\n ваши фрагменты Shortcutter-ом будут показаны в низу.</string>
-    <string name="edit_view1">3. В редакторе вы найдете 2/3 контейнера, вы увидите новые плитки Shortcutter-а в нижнем контейнере.
-
-Чтобы добавить их, просто нажмите и удерживайте и перетащите выбранные плитки в верхний (активный) контейнер, выйдите из режима редактирования.</string>
-    <string name="edit_view_note">ВАЖНОЕ ПРИМЕЧАНИЕ:
-
- Из-за ошибки в Android N вы можете попытаться добавить плитки, это можно обойти, выполнив следующее.
-
-Удалите все плитки, которые вы не хотите видеть на вкладке Быстрые настройки плитки и возьмите свои новые плитки из верхнего доступного контейнера для плиток.
-
-К сожалению, это не то, что я могу исправить, поскольку это не имеет ничего общего с приложением</string>
     <string name="email_feedback">Email</string>
     <string name="emailtitle">Новый адрес электронной почты</string>
     <string name="enable_root_features">Включить Root функции</string>
@@ -280,9 +266,7 @@
     <string name="home">Главная</string>
     <string name="hotspot_tile">Hotspot Wi-Fi</string>
     <string name="how_it_works">Как это работает</string>
-    <string name="how_to">Нажмите здесь, для добавления быстрой установки плитки.
-После активации вашей выбранной плитки в приведенной ниже категории, необходимо добавить их в ваш пулДаун в редакторе быстрой настройки системы.</string>
-    <string name="how_to_summary">Простой обзор как программа работает</string>
+    <string name="how_to">Нажмите здесь, для добавления быстрой установки плитки.</string>
     <string name="humidity">Влажность: </string>
     <string name="iab_async_error">Ошибка покупки. Выполняется еще одна асинхронная операция.</string>
     <string name="iab_error">Пприложение Биллинг еще не поддерживается на вашем устройстве.
@@ -361,9 +345,6 @@
     <string name="noalarm">Нет сигнала</string>
     <string name="not_installed">Приложение не установлено</string>
     <string name="nothing_selected">Ничего не выбрано</string>
-    <string name="notif_led">Уведомление LED</string>
-    <string name="notif_led_summary">Уведомление LED вкл./выкл.
-(зависит от Вашей прошивки)</string>
     <string name="notification_policy_message">возможность изменять параметры уведомлений, требуется запросить разрешения, вам нужно будет включить их.
 
 Нажмите кнопку продолжить, и вы будете перемещены на соответствующий экран.</string>
@@ -475,7 +456,6 @@
     <string name="select_day">Сброс данных выберите день</string>
     <string name="select_net_mode">Выберите сетевой режим</string>
     <string name="select_shortcut">Выберите ярлык для установки</string>
-    <string name="select_tiles">1. Запуск Shortcutter \"ПулДаун\" и внесите нужные изменения для Плитки.</string>
     <string name="select_time">Пожалуйста, установите время mm:ss</string>
     <string name="selected">"Выбрано: "</string>
     <string name="set">Установить</string>
@@ -550,9 +530,6 @@
     <string name="sys_setting_tiles">Быстрые настройки для переключения системных настроек</string>
     <string name="system_actions">Плитки для переключения/запуска системных действий</string>
     <string name="system_perms_message">Для некоторых плиток требуется разрешение изменять системные настройки, так как мы не можем запросить эти разрешения обычным способом, вам нужно будет включить их вручную.
-
-Нажмите Продолжить и вы попадете на соответствующий экран.</string>
-    <string name="system_perms_message_touches">Для некоторых плиток требуется разрешение изменять системные настройки, так как мы не можем запросить эти разрешения обычным способом, вам нужно будет включить их вручную.
 
 Нажмите Продолжить и вы попадете на соответствующий экран.</string>
     <string name="system_toggle_summary">Требуется совместимость с вашей прошивкой</string>
@@ -641,9 +618,7 @@
     <string name="pip_sum">Запуск картинка в картинке на текущее приложение</string>
     <string name="sidebar_tb">Боковая панель/панель элементов</string>
     <string name="recording">Запись экрана</string>
-    <string name="light_theme">Светлая Тема</string>
     <string name="change_theme">Свет/темно тема</string>
-    <string name="dark_theme">Темная Тема</string>
     <string name="auto_start_rec">Автоматическое начало записи</string><![CDATA[
        
     ]]>
@@ -810,7 +785,6 @@
     <string name="locked_tiles">Pull-Down плитка блокировки</string>
     <string name="rename">Переименование</string>
     <string name="new_label">Введите новую метку</string>
-    <string name="sync_all">Синхронизировать все</string>
     <string name="glob_settings">Глобальные параметры</string>
     <string name="app_settings">Параметры приложения</string>
     <string name="go_to_settings">Действовать сейчас</string>
@@ -825,14 +799,10 @@
     <string name="home_sum">Эмулирует кнопку Назад</string>
     <string name="back_sum">Эмулирует кнопку Назад</string>
     <string name="apm_intercept">Переопределить меню питания системы</string>
-    <string name="app_ino_sets"><![CDATA[Информация приложения, параметры и резервное копирование]]></string>
-    <string name="man_qs">Управлять быстрой настройкой плитки ПулДаун</string>
-    <string name="launcher_shorts"><![CDATA[Ярлыки для запуска\'ов и Иконки\'ок]]></string>
     <string name="shortcut_sets">Параметры ярлыка</string>
     <string name="also_standalone">Истек срок действия демо.</string>
     <string name="standalone">Автономные</string>
     <string name="label">Значок</string>
-    <string name="conf_sb"><![CDATA[Настройка боковой панели и Ярлыков\'ов]]></string>
     <string name="special_tiles">Расширенный доступ плитки</string>
     <string name="special_tiles_sum">Плитки, которые требуют ROOT или настройки безопасного доступа.</string>
     <string name="lock_orient">Ориентации экрана блокировки</string>
@@ -853,4 +823,10 @@
     <string name="rest_services">Перезапуск Сервисов</string>
     <string name="padding_12">Padding: 12</string>
     <string name="iconscale_12">IconScale: 12</string>
+    <string name="subscribe">LeeDrOiD @ YouTube</string>
+    <string name="sb_rows_title">Sidebar Rows</string>
+    <string name="sb_rows_summary">Current = %s Rows</string>
+    <string name="immersive_off">Immersive Off</string>
+    <string name="developer_options">Developer Options</string>
+    <string name="dev_summary">Opens Developer Options if enabled.</string>
 </resources>

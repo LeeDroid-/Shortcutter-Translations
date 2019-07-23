@@ -127,7 +127,6 @@
     <string name="old_licene">Se ha detectado una clave Premium</string>
     <string name="all_prices_subject_to_tax_vat">Todos los precios incluyen IVA*
         \n\nAl comprar Shortcutter Premium se eliminarán las notificaciones al realizar 60 pulsaciones y se activarán las características y fichas adicionales en los ajustes rápidos.</string>
-    <string name="amin">amin</string>
     <string name="allofthe">Cualquiera de las siguientes opciones te darán acceso Premium, la elección es tuya. :)</string>
     <string name="volumeui">Panel de
         \nvolumen</string>
@@ -263,17 +262,8 @@
         \n(cambia el ciclo en los ajustes de las fichas)</string>
     <string name="data_tile_title">Uso de datos</string>
     <string name="failed_data_usage">Error al mostrar información de uso</string>
-    <string name="how_to">Presiona aquí para ver una guía de como añadir fichas a los ajustes rápidos.\n\nUna vez hayas activado las fichas, tendrás que añadirlas al panel desplegable desde el editor de ajustes rápidos del sistema.</string>
+    <string name="how_to">Presiona aquí para ver una guía de como añadir fichas a los ajustes rápidos.</string>
     <string name="addtiles_title">Cómo añadir fichas: Guía</string>
-    <string name="select_tiles"><![CDATA[1. Ve a la pestaña \"Panel Desplegable\" en Shortcutter y selecciona tus fichas]]></string>
-    <string name="edit_view"><![CDATA[2. Despliega tu barra de estado y edita los botones.
-    \n\n En Samsung hay que pulsar en el menú de 3 puntos y seleccionar \"Reordenar botones\".\n\n Se mostrarán las fichas de Shortcutter al final.]]></string>
-    <string name="edit_view1">3. En la vista de edición encontrarás 2/3 paneles, verás tus nuevas fichas de Shortcutter en el panel inferior.
-        \n\nPara añadirlas, mantén y arrastra las fichas a la zona de arriba (la zona activa) y sal del editor.</string>
-    <string name="edit_view_note">NOTA IMPORTANTE:
-        \n\n Debido a un fallo en Android N, puedes tener dificultades para añadir fichas, pero se puede solucionar haciendo lo siguiente.
-        \n\nElimina todos las fichas que no quieras en el panel de \"Ajustes rápidos\" y toma los nuevos disponibles de la parte superior.
-        \n\nPor desgracia, esto no es algo que yo pueda solucionar, ya que no tiene nada que ver con la aplicación.</string>
     <string name="small">Fuente
         \npequeña</string>
     <string name="large">Fuente
@@ -534,8 +524,6 @@
     <string name="to_be_toggled">Elige entradas para Activar/Desactivar</string>
     <string name="swipe_out_close">Desliza a un lado para cerrar</string>
     <string name="obscure_back">Oscurecer fondo al desplegar panel y colapsar al presionar fuera del panel o a un botón del mismo.</string>
-    <string name="notif_led">Notificación LED</string>
-    <string name="notif_led_summary">Activar/Desactivar notificaciones LED\n(depende del fabricante)</string>
     <string name="system_toggle_summary">Sujeto a compatibilidad del SO y el fabricante</string>
     <string name="experimental_settings">Características experimentales</string>
     <string name="sys_setting_tiles">Usa las fichas de los ajustes rápidos para ajustes del sistema</string>
@@ -584,8 +572,6 @@
     <string name="screen_dim">Oscurecer pantalla =&#160;</string>
     <string name="mute_media">Silenciar</string>
     <string name="mute_media_summary">Silencia tu multimedia</string>
-    <string name="system_perms_message_touches">Esta opción necesita permisos para modificar los ajustes del sistema, debido a que no tenemos estos permisos, tendrás que activarlos.
-        \n\nPresiona en continuar y se te llevará a la pantalla correspondiente.\n</string>
     <string name="lock_root">Modo de bloqueo de pantalla root</string>
     <string name="root_lock_sum">Envía un evento al botón de encendido con shell</string>
     <string name="choose_activity">Elegir actividad</string>
@@ -601,7 +587,6 @@
     <string name="transparency">Transparencia</string>
     <string name="apply">Aplicar</string>
     <string name="scale">Escala =&#160;</string>
-    <string name="how_to_summary">Un vistazo a lo que ofrece la aplicación</string>
     <string name="run_without">Continuar sin</string>
     <string name="xda">Hilo de desarrolladores en XDA</string>
     <string name="ap_name">Dirección web</string>
@@ -651,11 +636,9 @@
     <string name="auto_start_rec">Grabación automática</string>
     <string name="recording">Pantalla de grabación</string>
     <string name="change_theme">Tema Claro/Oscuro</string>
-    <string name="light_theme">Tema Claro establecido</string>
-    <string name="dark_theme">Tema Oscuro establecido</string>
     <string name="send_report">Enviar Informe de errores</string>
     <string name="close_app">Borrar error</string>
-    <string name="oops_error">Oops... parece que algo salió mal y Shortcutter se cerró!  Disculpa las molestias.</string>
+    <string name="oops_error">Oops… parece que algo salió mal y Shortcutter se cerró!  Disculpa las molestias.</string>
     <string name="rooted">¡Su dispositivo parece estar rooteado!  ¿Le gustaría habilitar todas las funciones root ahora?</string>
     <string name="change_log_title">Historial de cambios</string>
     <string name="ok">Ok</string>
@@ -778,9 +761,9 @@
     <string name="weather_overcast">Nublado</string>
     <string name="auto_with_root">Concedido automáticamente con root</string>
     <string name="unread_count">Notificaciones no leídas:</string>
-    <string name="loading_activities">Cargando Actividades...</string>
+    <string name="loading_activities">Cargando Actividades…</string>
     <string name="tiles">Fichas =</string>
-    <string name="loading_apps">Cargando Aplicaciones...</string>
+    <string name="loading_apps">Cargando Aplicaciones…</string>
     <string name="text_shadow">Sombra en texto</string>
     <string name="sel_unsel">Seleccionar/Deseleccionar todo</string>
     <string name="reset">Reiniciar</string>
@@ -794,7 +777,6 @@
     <string name="lp_drag"><![CDATA[Presiona y arrastra, luego haz clic en cualquier ficha para salir del modo de edición.]]></string>
     <string name="rename">Renombrar</string>
     <string name="new_label">Introducir nueva etiqueta</string>
-    <string name="sync_all">Sincronizar todo</string>
     <string name="additionaloptions">Opciones de desbloqueo adicionales</string>
     <string name="locked_sum">Las fichas del panel desplegable vibrarán si el dispositivo está bloqueado.</string>
     <string name="locked_tiles">Bloquear fichas</string>
@@ -812,14 +794,10 @@
     <string name="home_sum">Emula el botón de Inicio</string>
     <string name="back_sum">Emula el botón Atrás</string>
     <string name="apm_intercept">Sustituir menú de apagado del sistema</string>
-    <string name="app_ino_sets"><![CDATA[Información, Ajustes y Copias de seguridad]]></string>
-    <string name="man_qs">Administrar fichas en Panel desplegable</string>
-    <string name="launcher_shorts"><![CDATA[Accesos directos e iconos del Launcher]]></string>
     <string name="shortcut_sets">Ajustes específicos</string>
     <string name="standalone">Independiente</string>
     <string name="also_standalone">Su versión de prueba ha caducado.</string>
     <string name="label">Etiqueta</string>
-    <string name="conf_sb"><![CDATA[Configurar barra lateral y sus accesos directos]]></string>
     <string name="special_tiles">Fichas de acceso avanzado</string>
     <string name="special_tiles_sum">Fichas que requieren ROOT o ajustes de acceso seguro.</string>
     <string name="lock_orient">Bloquear Orientación</string>
@@ -827,17 +805,23 @@
     <string name="manage_entries">Administrar entradas</string>
     <string name="open_app">Iniciar Shortcutter</string>
     <string name="auto_start_sum">Iniciar automáticamente la grabación de pantalla al presionar el botón.</string>
-    <string name="share_men_sum">Enable/Disable items in the share menu.</string>
-    <string name="share_menu">Share Menu</string>
-    <string name="shortcutter_permissions_wake">Shortcutter required the WakeLock permission to keep the screen awake.</string>
-    <string name="glove_mode">HTC Glove Mode</string>
-    <string name="rest_sysui">Restart SystemUI</string>
-    <string name="screen_off">Stop On Screen Off</string>
-    <string name="screen_off_sum">Automatically stops screen recording when the screen is switched off.</string>
-    <string name="sb_pos_title">Sidebar Position</string>
-    <string name="sb_pos_sum">Position the Sidebar Right, Left or bottom</string>
-    <string name="trigger_pos">Left/Right</string>
-    <string name="rest_services">Restarting Services</string>
-    <string name="padding_12">Padding: 12</string>
-    <string name="iconscale_12">IconScale: 12</string>
+    <string name="share_men_sum">Activar/Desactivar elementos en el menú compartido.</string>
+    <string name="share_menu">Menú compartido</string>
+    <string name="shortcutter_permissions_wake">Shortcutter necesita el permiso WakeLock para mantener la pantalla activa.</string>
+    <string name="glove_mode">Modo guante</string>
+    <string name="rest_sysui">Reiniciar SystemUI</string>
+    <string name="screen_off">Detener con pantalla apagada</string>
+    <string name="screen_off_sum">Detener automáticamente la grabación de pantalla al apagar la pantalla.</string>
+    <string name="sb_pos_title">Posición barra lateral</string>
+    <string name="sb_pos_sum">Posición derecha, izquierda o inferior</string>
+    <string name="trigger_pos">Izquierda/Derecha</string>
+    <string name="rest_services">Reiniciando servicios</string>
+    <string name="padding_12">Relleno: 12</string>
+    <string name="iconscale_12">Escala iconos: 12</string>
+    <string name="subscribe">LeeDrOiD @ YouTube</string>
+    <string name="sb_rows_title">Filas de la barra lateral</string>
+    <string name="sb_rows_summary">Corriente = %s Filas</string>
+    <string name="immersive_off">Apagado por inmersión</string>
+    <string name="developer_options">Opciones para desarrolladores</string>
+    <string name="dev_summary">Abre Opciones de desarrollador si está habilitado.</string>
 </resources>

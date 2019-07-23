@@ -127,7 +127,6 @@
     <string name="old_licene">检测到付费版密钥</string>
     <string name="all_prices_subject_to_tax_vat">所有价格均包含 税金/增值税*
         \n\n购买 Shortcutter 付费版会移除 60 次点击通知 &amp; 启用额外快捷设置瓷贴 &amp; 应用功能</string>
-    <string name="amin">管理员</string>
     <string name="allofthe">以下选项均会授予你付费访问，选择权在你的手上 :)</string>
     <string name="volumeui">音量
         \n面板</string>
@@ -263,17 +262,8 @@
         \n(可在瓷贴设置中变更周期)</string>
     <string name="data_tile_title">流量使用情况</string>
     <string name="failed_data_usage">启动流量使用情况信息失败</string>
-    <string name="how_to">点击此处查看添加快捷设置瓷贴的向导。\n\n一旦你在以下类别中选择要启用的瓷贴，你需要在系统快捷设置编辑器中添加这些瓷贴到下拉面板。</string>
+    <string name="how_to">点击此处查看添加快捷设置瓷贴的向导。</string>
     <string name="addtiles_title">如何添加快捷设置瓷贴 - 向导</string>
-    <string name="select_tiles"><![CDATA[1. 前往 Shortcutter 的 \"下拉\" 标签 &amp; 选择你的快捷设置瓷贴。]]></string>
-    <string name="edit_view"><![CDATA[2. 下拉你的状态栏 &amp; 点击如下所示的编辑按钮，通常显示为钢笔图标。
-    \n\n 三星用户点击三个点菜单 &amp; 选择重新排列。\n\n 你的 Shortcutter 瓷贴会在下视图中显示。]]></string>
-    <string name="edit_view1">3. 在编辑视图中，你会找到 2/3 容器，你将会在底部容器中看到新的 Shortcutter 瓷贴。
-        \n\n要添加这些瓷贴，只需长按 &amp; 拖曳选中的瓷贴到顶部(现用的)容器 &amp; 退出编辑视图。</string>
-    <string name="edit_view_note">重要提醒:
-        \n\n 由于 Android N 的 Bug，在添加瓷贴时会显得困难，进行如下操作可以暂时解决这个问题。
-        \n\n在 \"快捷设置瓷贴\" 标签移除不想要的瓷贴 &amp; 从可用瓷贴容器的上方移走你的新瓷贴。
-        \n\n不幸的是，我未能修复这个问题，使用这个应用也无济于事。</string>
     <string name="small">字体
         \n小</string>
     <string name="large">字体
@@ -516,8 +506,6 @@
     <string name="to_be_toggled">选择要开关的条目。</string>
     <string name="swipe_out_close">向左/右滑动以关闭</string>
     <string name="obscure_back"><![CDATA[Dim Behind &amp; 检测外部触摸]]></string>
-    <string name="notif_led">通知呼吸灯</string>
-    <string name="notif_led_summary">打开/关闭设备的通知呼吸灯\n(依赖于制造商)</string>
     <string name="system_toggle_summary">受制于 OS/制造商的兼容性</string>
     <string name="experimental_settings">试验性功能</string>
     <string name="sys_setting_tiles">开关系统设置的快捷设置瓷贴</string>
@@ -564,8 +552,6 @@
     <string name="screen_dim">屏幕调暗 = </string>
     <string name="mute_media">静音媒体</string>
     <string name="mute_media_summary">静音你的媒体音量</string>
-    <string name="system_perms_message_touches">这个选项需要能够写入系统设置，我们无法通过正常方式请求这些权限，你需要手动启用这些权限。
-        \n\n点击继续 &amp; 你将前往相关界面。\n</string>
     <string name="lock_root">使用 ROOT 方法</string>
     <string name="root_lock_sum">使用 shell 命令发送 POWER (电源)键事件</string>
     <string name="choose_activity">选择活动项</string>
@@ -581,7 +567,6 @@
     <string name="transparency">透明度</string>
     <string name="apply">应用</string>
     <string name="scale">缩放 = </string>
-    <string name="how_to_summary">应用能提供的内容的简单概览</string>
     <string name="run_without">继续无需</string>
     <string name="xda">XDA 开发者原帖</string>
     <string name="ap_name">网页地址</string>
@@ -630,9 +615,7 @@
     <string name="pip_sum">在当前应用上启动画中画模式</string>
     <string name="sidebar_tb">侧栏/工具箱</string>
     <string name="recording">录屏</string>
-    <string name="light_theme">设为亮色主题</string>
     <string name="change_theme">亮色/暗色主题</string>
-    <string name="dark_theme">设为暗色主题</string>
     <string name="auto_start_rec">自动开始录制</string>
     <string name="cust_app_pref_root">分配应用程序、活动项、快捷方式、Web 链接 &amp; Shell 命令。</string>
     <string name="send_report">发送崩溃报告</string>
@@ -777,9 +760,9 @@
     <string name="weather_overcast">阴天</string>
     <string name="auto_with_root">自动使用 ROOT 授予权限</string>
     <string name="unread_count">未读通知数:</string>
-    <string name="loading_activities">正在加载活动项...</string>
+    <string name="loading_activities">正在加载活动项…</string>
     <string name="tiles">瓷贴数 =</string>
-    <string name="loading_apps">正在加载应用程序...</string>
+    <string name="loading_apps">正在加载应用程序…</string>
     <string name="text_shadow">文字阴影</string>
     <string name="sel_unsel">全选/取消全选</string>
     <string name="reset">重置</string>
@@ -796,7 +779,6 @@
     <string name="locked_tiles">Lock Pull-Down Tiles</string>
     <string name="rename">Rename</string>
     <string name="new_label">Enter New Label</string>
-    <string name="sync_all">Sync All</string>
     <string name="glob_settings">Global Settings</string>
     <string name="app_settings">App Settings</string>
     <string name="go_to_settings">Action Now</string>
@@ -815,10 +797,6 @@
     <string name="also_standalone">"Your trial has now expired.           To continue using this service, please upgrade to premium.           Alternatively you can purchase this as a more enhanced Standalone app from the play store. "</string>
     <string name="standalone">Standalone</string>
     <string name="label">Label</string>
-    <string name="app_ino_sets"><![CDATA[App Information, Settings & Backup]]></string>
-    <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
-    <string name="man_qs">Manage Quick Settings Pull-Down Tiles</string>
-    <string name="launcher_shorts"><![CDATA[Launcher Shortcut\'s & Icon\'s]]></string>
     <string name="shortcut_sets">Shortcut Specific Settings</string>
     <string name="special_tiles">Advanced Access Tiles</string>
     <string name="special_tiles_sum">Tiles that require either ROOT or Settings Secure access.</string>
@@ -840,4 +818,10 @@
     <string name="rest_services">Restarting Services</string>
     <string name="padding_12">Padding: 12</string>
     <string name="iconscale_12">IconScale: 12</string>
+    <string name="dev_summary">Opens Developer Options if enabled.</string>
+    <string name="developer_options">Developer Options</string>
+    <string name="immersive_off">Immersive Off</string>
+    <string name="sb_rows_summary">Current = %s Rows</string>
+    <string name="sb_rows_title">Sidebar Rows</string>
+    <string name="subscribe">LeeDrOiD @ YouTube</string>
 </resources>

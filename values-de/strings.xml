@@ -125,7 +125,6 @@
     <string name="old_licene">Premium Schlüssel erkannt</string>
     <string name="all_prices_subject_to_tax_vat">Alle Preise inklusive Steuern
         \n\nDer Kauf von Shortcutter Premium wird die 60-Klick-Benachrichtigung entfernen &amp; aktiviert zusätzliche QS-Kacheln &amp; App Eigenschaften.</string>
-    <string name="amin">amin</string>
     <string name="allofthe">Jede der unten genannten Optionen gewährt Dir Premium-Zugang, die Wahl liegt bei Dir :)</string>
     <string name="volumeui">Lautstärke
         \nLeiste</string>
@@ -264,16 +263,6 @@
     <string name="failed_data_usage">Datenverbrauchsinformation schlug fehl</string>
     <string name="how_to">Klicke hier für eine einfache Anleitung um Shortcutter QS-Kacheln hinzuzufügen.</string>
     <string name="addtiles_title">Wie fügt man QS-Kacheln hinzu? - Anleitung</string>
-    <string name="select_tiles"><![CDATA[1. Gehe zum Shortcutter \"Pull-Down\" Tabulator & wähle deine QS-Kacheln aus.]]></string>
-    <string name="edit_view"><![CDATA[2. Ziehe die Statusleiste herunter und klicke auf die Schaltfläche "Bearbeiten", wie du unten gesehen hast. Dies ist normalerweise ein Stift-Symbol.
-    	\n\nSamsung Benutzer wählen das
-	\n3-Punktmenü, wähle Kacheln neu anordnen.\n\n Deine Shortcutter Kacheln werden in der unteren Ansicht angezeigt.]]></string>
-    <string name="edit_view1">3. In der Bearbeitungsansicht findest du einen 3. Container, du wirst deine neuen Shortcutter Kacheln im untersten Container sehen.
-        \n\nDrücke einfach lang um sie hinzuzufügen &amp; ziehe deine ausgewählten Kacheln in den oberen aktiven Container &amp; verlasse die Bearbeitungsansicht.</string>
-    <string name="edit_view_note">WICHTIGE NOTIZ:
-        \n\nAufgrund eines Fehlers in Android Nougat, könntest du Probleme beim Hinzufügen von Kacheln bekommen, was umgangen werden kann, indem du Folgendes tust.
-        \n\nEntferne jegliche Kacheln die du nicht im QS-Kachel Tab haben willst &amp; nimm dir deine neuen Kacheln von oben aus dem verfügbaren Kachel-Container.
-        \n\nUnglücklicherweise ist das nichts was ich beheben kann, da es nichts mit der App zu tun hat.</string>
     <string name="small">Schriftart
         \nKlein</string>
     <string name="large">Schriftart
@@ -516,8 +505,6 @@
     <string name="to_be_toggled">Wählen die zu schaltenden Einträge aus.</string>
     <string name="swipe_out_close">Wische links / rechts um zu schließen</string>
     <string name="obscure_back"><![CDATA[Hintergrund regeln & Berührungen von außen erkennen]]></string>
-    <string name="notif_led">Benachrichtigungs LED</string>
-    <string name="notif_led_summary">Schalte die LED Benachrichtigung des Gerätes An / Aus\n(herstellerabhängig)</string>
     <string name="system_toggle_summary">Gemäß der OS/Hersteller Kompatibilität</string>
     <string name="experimental_settings">Experimentelle Funktionen</string>
     <string name="sys_setting_tiles">QS-Kacheln zum Schalten der Systemeinstellungen</string>
@@ -564,8 +551,6 @@
     <string name="screen_dim">Bildschirm dimmen =&#160;</string>
     <string name="mute_media">Medien stumm</string>
     <string name="mute_media_summary">Schalte Medienlaustärke stumm</string>
-    <string name="system_perms_message_touches">Diese Option erfordert die Fähigkeit, Systemeinstellungen zu schreiben, da wir diese Berechtigungen nicht auf normale Weise anfordern können, müssen Sie sie aktivieren.
-        \n\nKlicke Fortfahren &amp; du wirst auf den entsprechenden Bildschirm weitergeleitet.\n</string>
     <string name="lock_root">Benutze ROOT Methode</string>
     <string name="root_lock_sum">Sendet ein POWER Schlüsselereignis mit Shell</string>
     <string name="choose_activity">Wähle Aktivität</string>
@@ -586,7 +571,6 @@
     <string name="ap_name">Webadresse</string>
     <string name="create_shortcut">Verknüpfung erstellen</string>
     <string name="enter_url">Gib eine Web-URL oder einen Suchbegriff ein</string>
-    <string name="how_to_summary">Ein einfacher Überblick über das, was die App bietet</string>
     <string name="round_corners">Abgerundete Ecken</string>
     <string name="run_without">Weiter ohne</string>
     <string name="xda">XDA Entwickler Thread</string>
@@ -632,14 +616,12 @@
     <string name="pip_sum">Starte Bild in Bild in aktueller App</string>
     <string name="sidebar_tb">Sidebar/Werkzeugkasten</string>
     <string name="recording">Aufnahmebildschirm</string>
-    <string name="light_theme">Helles Thema aktiv</string>
     <string name="change_theme">Hell/Dunkel Thema</string>
-    <string name="dark_theme">Dunkles Thema aktiv</string>
     <string name="auto_start_rec">Automatischer Start der Aufzeichnung</string>
     <string name="cust_app_pref_root">Weise Anwendungen, Aktivitäten, Verknüpfungen, Weblinks und Shell-Befehle zu.</string>
     <string name="send_report">Absturzbericht senden</string>
     <string name="close_app">Fehler löschen</string>
-    <string name="oops_error">Oops... sieht aus, als wäre etwas schief gelaufen und Shortcutter abgestürzt! Entschuldige die Unannehmlichkeiten.</string>
+    <string name="oops_error">Oops… sieht aus, als wäre etwas schief gelaufen und Shortcutter abgestürzt! Entschuldige die Unannehmlichkeiten.</string>
     <string name="rooted">Dein Gerät scheint gerootet zu sein! Möchtest du alle Root-Features jetzt aktivieren?</string>
     <string name="change_log_title">Letzte Änderungen</string>
     <string name="ok">Ok</string>
@@ -683,7 +665,7 @@
     <string name="download">Herunterladen:</string>
     <string name="total">Gesamtdaten seit Start:</string>
     <string name="data_speed_total">Datengeschwindigkeit - Gesamtnutzung</string>
-    <string name="data_speed_total_sum">Zeigt die Gesamtdatennutzung seit dem letzten Start an.</string>
+    <string name="data_speed_total_sum">Zeigt die Gesamtdatennutzung seitdem letzten Start an.</string>
     <string name="vert_pos">Aktuelle Position %s</string>
     <string name="remind_max">Erinnerung (400 Max)</string>
     <string name="tile_max">Titel (32 Max)</string>
@@ -800,7 +782,6 @@
     <string name="locked_tiles">Lock Pull-Down-Fliesen</string>
     <string name="rename">Umbenennen</string>
     <string name="new_label">Neues Etikett eingeben</string>
-    <string name="sync_all">Alle synchronisieren</string>
     <string name="glob_settings">Globale Einstellungen</string>
     <string name="app_settings">App-Einstellungen</string>
     <string name="go_to_settings">Jetzt handeln</string>
@@ -815,32 +796,34 @@
     <string name="home_sum">Erstellt die Home-Taste</string>
     <string name="back_sum">Erstellt die Zurück-Taste</string>
     <string name="apm_intercept">System Power Menu erweitern</string>
-    <string name="app_ino_sets"><![CDATA[App-Informationen, Einstellungen & Backup]]></string>
-    <string name="man_qs">Verwalten von Schnelleinstellungs Pull-Down-Kacheln</string>
     <string name="shortcut_sets">Shortcut spezifische Einstellungen</string>
     <string name="also_standalone">Ihre Testversion ist nun abgelaufen.</string>
     <string name="standalone">Standalone</string>
     <string name="label">Label</string>
-    <string name="conf_sb"><![CDATA[Konfiguriere die Seitenleiste & ihre Verknüpfungen.]]></string>
-    <string name="launcher_shorts"><![CDATA[Launcher Schnelleinstellungen & Symbole]]></string>
     <string name="special_tiles">Erweiterte Zugriffskacheln</string>
     <string name="special_tiles_sum">Kacheln die entweder ROOT oder sicheren Zugriff erfordern.</string>
     <string name="lock_orient">Sperrt Ausrichtung</string>
     <string name="transparent_widget">Shortcutter Glass Widget</string>
     <string name="manage_entries">Einträge verwalten</string>
-    <string name="open_app">Start Shortcutter</string>
+    <string name="open_app">Starten Shortcutter</string>
     <string name="auto_start_sum">Automatische Bildschirmaufnahme beim Drücken des Kippschalters.</string>
-    <string name="share_men_sum">Enable/Disable items in the share menu.</string>
-    <string name="share_menu">Share Menu</string>
-    <string name="shortcutter_permissions_wake">Shortcutter required the WakeLock permission to keep the screen awake.</string>
-    <string name="glove_mode">HTC Glove Mode</string>
+    <string name="share_men_sum">Aktivieren/Deaktivieren von Elementen im Freigabemenü.</string>
+    <string name="share_menu">Menü Teilen</string>
+    <string name="shortcutter_permissions_wake">Shortcutter benötigt die WakeLock-Berechtigung, um den Bildschirm wach zu halten.</string>
+    <string name="glove_mode">HTC Handschuhmodus</string>
     <string name="rest_sysui">Restart SystemUI</string>
     <string name="screen_off">Stop On Screen Off</string>
-    <string name="screen_off_sum">Automatically stops screen recording when the screen is switched off.</string>
-    <string name="sb_pos_title">Sidebar Position</string>
-    <string name="sb_pos_sum">Position the Sidebar Right, Left or bottom</string>
-    <string name="trigger_pos">Left/Right</string>
-    <string name="rest_services">Restarting Services</string>
-    <string name="padding_12">Padding: 12</string>
-    <string name="iconscale_12">IconScale: 12</string>
+    <string name="screen_off_sum">Stoppt die Bildschirmaufnahme automatisch, wenn der Bildschirm ausgeschaltet wird.</string>
+    <string name="sb_pos_title">Position der Seitenleiste</string>
+    <string name="sb_pos_sum">Positionieren Sie die Seitenleiste nach rechts, links oder unten.</string>
+    <string name="trigger_pos">Links/Rechts</string>
+    <string name="rest_services">Dienste neu starten</string>
+    <string name="padding_12">Polsterung: 12</string>
+    <string name="iconscale_12">Symbol Skala: 12</string>
+    <string name="subscribe">LeeDrOiD @ YouTube</string>
+    <string name="sb_rows_title">Zeilen in der Seitenleiste</string>
+    <string name="sb_rows_summary">Strom = %s Zeilen</string>
+    <string name="immersive_off">Immersive Aus</string>
+    <string name="developer_options">Entwickler-Optionen</string>
+    <string name="dev_summary">Öffnet die Entwickleroptionen, wenn diese aktiviert sind.</string>
 </resources>
