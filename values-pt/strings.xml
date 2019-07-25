@@ -754,6 +754,6 @@
     <string name="immersive_off">Imersivo Desligado</string>
     <string name="label">Etiqueta</string>
     <string name="subscribe">LeeDrOiD @ YouTube</string>
-    <string name="developer_options">Developer Options</string>
-    <string name="dev_summary">Opens Developer Options if enabled.</string>
+    <string name="developer_options">Opções de Programador</string>
+    <string name="dev_summary">Abre Opções de Programador se estiverem activadas.</string>
 </resources>
