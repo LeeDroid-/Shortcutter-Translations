@@ -202,7 +202,7 @@
         \nMesaj</string>
     <string name="cap_store_title">Ekran Görüntüsü Klasörü</string>
     <string name="choose_location">Klasör Seç</string>
-    <string name="new_message_summary">Yeni SMS gönder</string>
+    <string name="new_message_summary">Yeni SMS gönderin</string>
     <string name="count_down">Geri Sayım Başladı</string>
     <string name="time_up">Zaman doldu!</string>
     <string name="countdown_timer">Geri Sayım Saati</string>
@@ -817,10 +817,10 @@
     <string name="rest_services">Hizmetler Yeniden Başlatılıyor</string>
     <string name="padding_12">Dolgu: 12</string>
     <string name="iconscale_12">Simge Ölçeği: 12</string>
-    <string name="subscribe">LeeDrOiD\'s YouTube</string>
-    <string name="sb_rows_title">Sidebar Rows</string>
-    <string name="sb_rows_summary">Current = %s Rows</string>
-    <string name="immersive_off">Immersive Off</string>
-    <string name="developer_options">Developer Options</string>
-    <string name="dev_summary">Opens Developer Options if enabled.</string>
+    <string name="subscribe">LeeDrOiD\'in YouTube\'u</string>
+    <string name="sb_rows_title">Kenar Çubuğu Satırları</string>
+    <string name="sb_rows_summary">Mevcut = %s Satır</string>
+    <string name="immersive_off">Immersive Kapalı</string>
+    <string name="developer_options">Geliştirici Seçenekleri</string>
+    <string name="dev_summary">Etkinse Geliştirici Seçeneklerini açar.</string>
 </resources>
