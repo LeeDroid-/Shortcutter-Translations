@@ -418,7 +418,7 @@
     <string name="corner_colour">Wähle Eckenfarbe</string>
     <string name="how_it_works">Wie es funktioniert</string>
     <string name="attention">Bitte beachte die Anleitung im Tabulator 2, \nwie man Kacheln hinzufügt.</string>
-    <string name="config_serv">Einst</string>
+    <string name="config_serv">Einstellungen</string>
     <string name="screenshot_root">Benutze Root Methode für Bildschirmfoto</string>
     <string name="screenshot_root_summary">Macht ein Bildschirmfoto indem die Systembinärdatei für Bildschirmaufnahme benutzt wird</string>
     <string name="corners_active">Bildschirmecken aktiviert</string>
