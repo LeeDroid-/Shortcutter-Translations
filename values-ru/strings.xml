@@ -245,7 +245,6 @@
     <string name="flashlight">Фонарик</string>
     <string name="float_summary">Боковая панель, открытая с помощью триггера или плавающей панели инструментов с плавающей иконкой.</string>
     <string name="floating_toolbox">Включение элементов боковой панели</string>
-    <string name="follow_me">Твиттер</string>
     <string name="font_scale_title">Масштаб шрифта</string>
     <string name="fontscale">"Размер шрифта"</string>
     <string name="fontscale_sum">Размер системного шрифта</string>
@@ -295,7 +294,6 @@
     <string name="left_hand_mode">Режим Левой руки</string>
     <string name="left_position">Текущей позиция слева</string>
     <string name="lightmode">Ночной Режим</string>
-    <string name="like_facebook">Facebook</string>
     <string name="location">Местоположение</string>
     <string name="locationMode">Режим Местоположение</string>
     <string name="location_not_found">Местоположение не найдено</string>
@@ -394,8 +392,6 @@
     <string name="premuim">Shortcutter Премиум</string>
     <string name="preset_steps">Шаг Яркости</string>
     <string name="press_back">Нажмите назад, чтобы вернуться после включения.</string>
-    <string name="problem">"Имеете проблемы?
- Напишите мне на Почту :)"</string>
     <string name="proceed">Перейти</string>
     <string name="qbright_lev">"Яркость 
 %1$d%%"</string>
@@ -516,9 +512,7 @@
     <string name="split_screen">Мульти Окна</string>
     <string name="split_sum">Разделение экрана / Мульти Окна</string>
     <string name="start_recording">Начать запись</string>
-    <string name="stay_in_the_loop">Медиа/контакты</string>
     <string name="stop_recording">Остановить запись</string>
-    <string name="submit_review">Оставить отзыв</string>
     <string name="subscription">Подписка</string>
     <string name="subscription_error">Ваше устройство не поддерживает подписку.</string>
     <string name="swipe_only">"Sidebar opens when swiped
@@ -588,7 +582,6 @@
     <string name="wifi_hotspot_summary">ВКЛ/ВЫКЛ WiFi HotSpot</string>
     <string name="wifi_summary">ВКЛ/ВЫКЛ WiFi</string>
     <string name="wrap">Значение: перенос содержимого</string>
-    <string name="xda">XDA Разработчики</string>
     <string name="xiaomi">Ваше устройство требует, чтобы приложения получали разрешения автозапуска, без этого службы Shortcutter будут закрыты.
 
 Нажмите Продолжить и нажмите Далее и включите автозапуск для Shortcutter.</string>
@@ -673,7 +666,6 @@
     <string name="remind_max">Напоминание (Макс. 400)</string>
     <string name="tile_max">Название (Макс. 32)</string>
     <string name="not_in_db">Не в настройках DB</string>
-    <string name="contact_me">Свяжитесь со мной непосредственно, я стремлюсь, чтобы ответить в течение 7 дней</string>
     <string name="immersive_full">Полное погружение</string>
     <string name="hide_statusbar">Скрыть строку состояния</string>
     <string name="hide_navbar">Скрыть панель навигации</string>
@@ -799,10 +791,13 @@
     <string name="home_sum">Эмулирует кнопку Назад</string>
     <string name="back_sum">Эмулирует кнопку Назад</string>
     <string name="apm_intercept">Переопределить меню питания системы</string>
+    <string name="man_qs">Управлять быстрой настройкой плитки ПулДаун</string>
+    <string name="launcher_shorts"><![CDATA[Ярлыки для запуска\'ов и Иконки\'ок]]></string>
     <string name="shortcut_sets">Параметры ярлыка</string>
     <string name="also_standalone">Истек срок действия демо.</string>
     <string name="standalone">Автономные</string>
     <string name="label">Значок</string>
+    <string name="conf_sb"><![CDATA[Настройка боковой панели и Ярлыков\'ов]]></string>
     <string name="special_tiles">Расширенный доступ плитки</string>
     <string name="special_tiles_sum">Плитки, которые требуют ROOT или настройки безопасного доступа.</string>
     <string name="lock_orient">Ориентации экрана блокировки</string>
@@ -821,12 +816,17 @@
     <string name="sb_pos_sum">Расположите боковую панель справа, слева или снизу</string>
     <string name="trigger_pos">Лево/Право</string>
     <string name="rest_services">Перезапуск Сервисов</string>
-    <string name="padding_12">Padding: 12</string>
-    <string name="iconscale_12">IconScale: 12</string>
-    <string name="subscribe">LeeDrOiD @ YouTube</string>
-    <string name="sb_rows_title">Sidebar Rows</string>
-    <string name="sb_rows_summary">Current = %s Rows</string>
-    <string name="immersive_off">Immersive Off</string>
-    <string name="developer_options">Developer Options</string>
-    <string name="dev_summary">Opens Developer Options if enabled.</string>
+    <string name="padding_12">Паддинг: 12</string>
+    <string name="iconscale_12">Масштаб пиктограмм: 12</string>
+    <string name="sb_rows_title">Боковые панели рядов</string>
+    <string name="sb_rows_summary">Текущий = %s Строки</string>
+    <string name="immersive_off">Погружное предложение</string>
+    <string name="developer_options">Опции разработчика</string>
+    <string name="dev_summary">Открывает опции разработчика, если включена.</string>
+    <string name="open">Открыть</string>
+    <string name="built_vol_ui_sum">Shortcutter Custom Panel</string>
+    <string name="override_volume">Override System Volume Panel</string>
+    <string name="power_intercept">Accessibility Service Required.</string>
+    <string name="prem_ben">"        \\nPurchasing Shortcutter Premium will unlock the following features:         \\n\\n\\u2022 All Custom Tiles         \\n\\u2022 Screen Recording &amp; Capture         \\n\\u2022 Quick Reminder         \\n\\u2022 Clipboard Editor         \\n\\u2022 App Launcher         \\n\\u2022 Additional in-app configuration options         \\n  &amp; Remove the 60 tile click notification"</string>
+    <string name="sys_vol">System Panel</string>
 </resources>

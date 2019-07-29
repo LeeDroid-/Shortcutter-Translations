@@ -208,9 +208,6 @@
     <string name="newemail">Novo\nEmail</string>
     <string name="newemailsum">Envia um novo email</string>
     <string name="emailtitle">Mosaico Novo Email</string>
-    <string name="stay_in_the_loop">Redes Sociais/Contactos</string>
-    <string name="follow_me">Siga-me no Twitter</string>
-    <string name="like_facebook">Faça Like na Minha Página no Facebook</string>
     <string name="home">Home</string>
     <string name="dice_desc_range">Selecionar uma gama personalizada para o Mosaico Dados</string>
     <string name="dice_tile_range">Gama Mosaico Dados</string>
@@ -297,7 +294,6 @@
     <string name="float_summary">BarraLateral deslizante ou painel de acesso rápido flutuante</string>
     <string name="tb_tiles">BarraLateral</string>
     <string name="email_feedback">Feedback Email </string>
-    <string name="submit_review">Deixar um Comentário</string>
     <string name="rate_app">Classificar A App</string>
     <string name="yes_pro">OBTER PREMIUM</string>
     <string name="file_browser">Explorador de Ficheiros</string>
@@ -503,13 +499,11 @@
     <string name="enter_url">Introduza uma URL WEB ou termo de pesquisa</string>
     <string name="round_corners">Cantos Arredondados</string>
     <string name="run_without">Continuar Sem</string>
-    <string name="xda">Tópico XDA Developers</string>
     <string name="choose_function">Escolha a função</string>
     <string name="cust_app_pref">Mosaicos que pode ligar a Aplicações, Atividades, Atalhos &amp; Ligações Web..</string>
     <string name="samsung_note">Nota importante para utilizadores de Samsung</string>
     <string name="battery_opt">Como está a utilizar um aparelho Samsung, pode ter mmosaicos que deixam de responder passado algum tempo.</string>
     <string name="trig_alpha">Para retificar este problema, por favor exclua Shortcutter da otimização de bateria nas definições do aparelho.</string>
-    <string name="problem">Tem um problema ou quer pedir uma funçãonova\? \n Envie-me um email primeiro :)</string>
     <string name="opacity">Opacidade =</string>
     <string name="onehand">Modo de Uma Mão (Experimental)</string>
     <string name="onehanded_summary">Encolhe o ecrã para o canto inferior direito, nem todas as aplicações encolhem corretamente</string>
@@ -600,7 +594,6 @@
     <string name="remind_max">Lembrete (Max 400)</string>
     <string name="tile_max">Título (Max 32)</string>
     <string name="not_in_db">Não consta de BD de definições</string>
-    <string name="contact_me">Contatar-me diretamente, tento responder dentro de 7 dias</string>
     <string name="immersive_full">Imersão Total</string>
     <string name="hide_statusbar">Esconder Barra de Estado</string>
     <string name="hide_navbar">Esconder Barra de Navegação</string>
@@ -735,7 +728,9 @@
     <string name="padding_12">Preenchimento: 12</string>
     <string name="ore_shorts">Instalar atalhos de Ecrã Inicial.</string>
     <string name="new_label">Introduzir Nova Etiqueta</string>
+    <string name="man_qs">Gerir Mosaicos de Puxar para Baixo</string>
     <string name="lock_orient">Bloquear Orientação</string>
+    <string name="launcher_shorts"><![CDATA[Atalhos & Ícones de Ecrã Inicial]]></string>
     <string name="launcher">Ecrã Inicial</string>
     <string name="add_home_icon">Adicionar Automaticamente ao Ecrã Inicial.</string>
     <string name="add_home_icon_sum">Adicionar um ícone ao ecrã inicial e à lista de aplicações.</string>
@@ -746,6 +741,7 @@
     <string name="back">Retroceder</string>
     <string name="back_sum">Simula o botão de retroceder.</string>
     <string name="clipboard_sin">Área de Tranferência:</string>
+    <string name="conf_sb"><![CDATA[Configurar a BarraLateral & os seus Atalhos\'s]]></string>
     <string name="glob_settings">Definições Globais</string>
     <string name="glove_mode">Modo luva HTC</string>
     <string name="go_to_settings">Avançar</string>
@@ -753,7 +749,12 @@
     <string name="iconscale_12">EscalaDeÍcones: 12</string>
     <string name="immersive_off">Imersivo Desligado</string>
     <string name="label">Etiqueta</string>
-    <string name="subscribe">LeeDrOiD @ YouTube</string>
     <string name="developer_options">Opções de Programador</string>
     <string name="dev_summary">Abre Opções de Programador se estiverem activadas.</string>
+    <string name="open">Aberto</string>
+    <string name="built_vol_ui_sum">Shortcutter Custom Panel</string>
+    <string name="override_volume">Override System Volume Panel</string>
+    <string name="power_intercept">Accessibility Service Required.</string>
+    <string name="prem_ben">"        \\nPurchasing Shortcutter Premium will unlock the following features:         \\n\\n\\u2022 All Custom Tiles         \\n\\u2022 Screen Recording &amp; Capture         \\n\\u2022 Quick Reminder         \\n\\u2022 Clipboard Editor         \\n\\u2022 App Launcher         \\n\\u2022 Additional in-app configuration options         \\n  &amp; Remove the 60 tile click notification"</string>
+    <string name="sys_vol">System Panel</string>
 </resources>

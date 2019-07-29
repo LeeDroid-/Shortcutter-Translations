@@ -235,9 +235,6 @@
 	    \nEmail</string>
     <string name="newemailsum">Wyślij email</string>
     <string name="emailtitle">E-mail</string>
-    <string name="stay_in_the_loop">Media Społecznościowe</string>
-    <string name="follow_me">Polub Mnie na Twitterze</string>
-    <string name="like_facebook">Polub Moją Stronę na Facebooku</string>
     <string name="home">Główna</string>
     <string name="dice_desc_range">Wybierz własny zakres numerów dla płytki kości</string>
     <string name="dice_tile_range">Płytka Zakresu Kości</string>
@@ -363,7 +360,6 @@
     <string name="float_summary">Przeciągnij Toolbox/Panel</string>
     <string name="tb_tiles">Boczny Pasek</string>
     <string name="email_feedback">Zgłaszanie Błędów</string>
-    <string name="submit_review">Napisz opinię</string>
     <string name="rate_app">Oceń Aplikację</string>
     <string name="yes_pro">KUP PREMIUM</string>
     <string name="file_browser">Przeglądarka Plików</string>
@@ -574,7 +570,6 @@
     <string name="apply">Zastosuj</string>
     <string name="scale">Skala = </string>
     <string name="run_without">Kontynuuj Bez</string>
-    <string name="xda">Strona na XDA Developers</string>
     <string name="ap_name">Adres Internetowy</string>
     <string name="round_corners">Zaokrąglone Rogi</string>
     <string name="create_shortcut">Utwórz Skrót</string>
@@ -583,7 +578,6 @@
     <string name="samsung_note">Ważna uwaga dla użytkowników Samsunga</string>
     <string name="battery_opt">Jeśli używasz urządzenia firmy Samsung, po przejściu w stan uśpienia może wystąpić brak reakcji na dotknięcie płytki.</string>
     <string name="trig_alpha">Aby wyeliminować ten problem, wyłącz Shortcutter z optymalizacji baterii w ustawieniach urządzenia.</string>
-    <string name="problem">Masz problem lub prośbę o funkcję, nie pisz w Sklepie Play\? \n Wyślij mi E-Mail poprzez opcję Zgłaszanie Błędów :)</string>
     <string name="opacity">Przeźroczystość =</string>
     <string name="onehand">Jedną Ręką (Eksperymentalne)</string>
     <string name="onehanded_summary">Powoduje zmniejszenie wyświetlacza w prawym dolnym rogu, ale nie wszystkie aplikacje są prawidłowo skalowane</string>
@@ -677,7 +671,6 @@
     <string name="remind_max">Przypomnienie (400 Max)</string>
     <string name="tile_max">Nazwa (32 Max)</string>
     <string name="not_in_db">Brak ustawień DB</string>
-    <string name="contact_me">Skontaktuj się ze mną bezpośrednio, staram się odpowiedzieć w ciągu 7 dni</string>
     <string name="immersive_full">Pełny Ekran Wszędzie</string>
     <string name="hide_statusbar">Ukryj Pasek Stanu</string>
     <string name="hide_navbar">Ukryj Pasek Nawigacyjny</string>
@@ -804,8 +797,11 @@
     <string name="apm_intercept">Zastąp Menu Zasilania Systemu</string>
     <string name="shortcut_sets">Specyficzne Ustawienia Shortcut</string>
     <string name="also_standalone">Twoja wersja próbna właśnie wygasła.</string>
+    <string name="man_qs">Zarządzanie płytki Opuszczanego Menu Szybkich Ustawień</string>
+    <string name="launcher_shorts"><![CDATA[Skróty i Ikony Launchera]]></string>
     <string name="standalone">Niezależny</string>
     <string name="label">Etykieta</string>
+    <string name="conf_sb"><![CDATA[Skonfiguruj Pasek Boczny i Jego Skróty]]></string>
     <string name="special_tiles">Zaawansowane Płytki Dostępu</string>
     <string name="special_tiles_sum">Płytki, które wymagają uprawnień administratora lub ustawienia bezpiecznego dostępu.</string>
     <string name="lock_orient">Zablokuj Orientację</string>
@@ -826,10 +822,15 @@
     <string name="rest_services">Restartowanie Usługi</string>
     <string name="padding_12">Wielkość Srodka: 12</string>
     <string name="iconscale_12">Skalowanie Ikon: 12</string>
-    <string name="subscribe">LeeDrOiD @ YouTube</string>
     <string name="sb_rows_title">Rzędy paska bocznego</string>
     <string name="sb_rows_summary">Prąd = %s Rzędy</string>
     <string name="immersive_off">Immersive Off</string>
     <string name="developer_options">Opcje dla programistów</string>
     <string name="dev_summary">Otwiera opcje dla programistów, jeśli są włączone.</string>
+    <string name="open">Otwarte</string>
+    <string name="built_vol_ui_sum">Shortcutter Custom Panel</string>
+    <string name="override_volume">Override System Volume Panel</string>
+    <string name="power_intercept">Accessibility Service Required.</string>
+    <string name="prem_ben">"        \\nPurchasing Shortcutter Premium will unlock the following features:         \\n\\n\\u2022 All Custom Tiles         \\n\\u2022 Screen Recording &amp; Capture         \\n\\u2022 Quick Reminder         \\n\\u2022 Clipboard Editor         \\n\\u2022 App Launcher         \\n\\u2022 Additional in-app configuration options         \\n  &amp; Remove the 60 tile click notification"</string>
+    <string name="sys_vol">System Panel</string>
 </resources>

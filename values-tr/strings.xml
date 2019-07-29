@@ -236,9 +236,6 @@
         \nE-posta</string>
     <string name="newemailsum">Yeni e-posta gönderin</string>
     <string name="emailtitle">Yeni E-posta</string>
-    <string name="stay_in_the_loop">Sosyal Medya/İletişim</string>
-    <string name="follow_me">Beni Twitter\'da Takip Et</string>
-    <string name="like_facebook">Facebook Sayfamı Beğen</string>
     <string name="home">Ana Ekran</string>
     <string name="dice_desc_range">Zar Sekmesi için bir sayı aralığı seçin</string>
     <string name="dice_tile_range">Zar Sekmesi Aralığı</string>
@@ -363,7 +360,6 @@
     <string name="float_summary">Yan menü kaydırma ile ya da yüzen simgeye dokunularak açılabilir.</string>
     <string name="tb_tiles">Yan Menü</string>
     <string name="email_feedback">Geribildirim Gönder</string>
-    <string name="submit_review">Yorum Yap</string>
     <string name="rate_app">Uygulamayı Oyla</string>
     <string name="yes_pro">PREMIUM AL</string>
     <string name="file_browser">Dosya Yöneticisi</string>
@@ -572,12 +568,10 @@
     <string name="enter_url">Bir Web adresi veya arama terimi girin</string>
     <string name="round_corners">Yuvarlatılmış Köşeler</string>
     <string name="run_without">Olmadan Devam et</string>
-    <string name="xda">XDA Geliştiricileri Konusu</string>
     <string name="choose_function">İşlev Seç</string>
     <string name="samsung_note">Samsung kullanıcıları için önemli uyarı</string>
     <string name="battery_opt">Samsung kullanıcıları, ekran kilidi (uyku) modunun ardından telefonlarının donduğunu gözlemlemişlerdir.\nBu sorunu gidermek için, lütfen Shortcutter\'ı cihaz ayarlarındaki pil optimizasyonlarından hariç tutun.</string>
     <string name="trig_alpha">Tetik Saydamlığı.</string>
-    <string name="problem">Bir sorun veya özellik isteğiniz mi var\? \n Önce bana e-posta atın :)</string>
     <string name="opacity">Saydamlık =</string>
     <string name="onehand">Tek El (Deneysel)</string>
     <string name="onehanded_summary">Ekranınızı sağ alt köşeye küçültür, tüm uygulamalar doğru şekilde ölçeklendirilmez</string>
@@ -669,7 +663,6 @@
     <string name="remind_max">Hatırlatıcı (En fazla 400)</string>
     <string name="tile_max">Başlık (En fazla 32)</string>
     <string name="not_in_db">Ayarlar DB\'de değil</string>
-    <string name="contact_me">Doğrudan bana ulaşın, 7 gün içinde yanıtlamayı hedefliyorum</string>
     <string name="immersive_full">Hepsini Gizle</string>
     <string name="hide_statusbar">Durum Çubuğunu Gizle</string>
     <string name="hide_navbar">Gezinme Çubuğunu Gizle</string>
@@ -793,10 +786,13 @@
     <string name="home_sum">Ana ekran düğmesini taklit eder</string>
     <string name="back_sum">Geri düğmesini taklit eder</string>
     <string name="apm_intercept">Sistem Menüsünü Geçersiz Kıl</string>
+    <string name="man_qs">Hızlı Ayarlar Aşağı-Çekme Sekmelerini Yönet</string>
+    <string name="launcher_shorts"><![CDATA[Başlatıcı Kısayolları & Simgeleri]]></string>
     <string name="shortcut_sets">Kısayollara Özel Ayarlar</string>
     <string name="also_standalone">Deneme süreniz sona erdi.</string>
     <string name="standalone">Bağımsız</string>
     <string name="label">Etiket</string>
+    <string name="conf_sb"><![CDATA[Kenar Çubuğu & Kısayollarını Yapılandır]]></string>
     <string name="special_tiles">Gelişmiş Erişim Sekmeleri</string>
     <string name="special_tiles_sum">ROOT veya Ayarlara Güvenli erişim gerektiren sekmeler.</string>
     <string name="lock_orient">Yönlendirmeyi Kilitle</string>
@@ -817,10 +813,15 @@
     <string name="rest_services">Hizmetler Yeniden Başlatılıyor</string>
     <string name="padding_12">Dolgu: 12</string>
     <string name="iconscale_12">Simge Ölçeği: 12</string>
-    <string name="subscribe">LeeDrOiD\'in YouTube\'u</string>
     <string name="sb_rows_title">Kenar Çubuğu Satırları</string>
     <string name="sb_rows_summary">Mevcut = %s Satır</string>
     <string name="immersive_off">Immersive Kapalı</string>
     <string name="developer_options">Geliştirici Seçenekleri</string>
     <string name="dev_summary">Etkinse Geliştirici Seçeneklerini açar.</string>
+    <string name="open">Açık</string>
+    <string name="built_vol_ui_sum">Shortcutter Custom Panel</string>
+    <string name="override_volume">Override System Volume Panel</string>
+    <string name="sys_vol">System Panel</string>
+    <string name="power_intercept">Accessibility Service Required.</string>
+    <string name="prem_ben">\\nPurchasing Shortcutter Premium will unlock the following features:         \\n\\n\\u2022 All Custom Tiles         \\n\\u2022 Screen Recording &amp; Capture         \\n\\u2022 Quick Reminder         \\n\\u2022 Clipboard Editor         \\n\\u2022 App Launcher         \\n\\u2022 Additional in-app configuration options         \\n  &amp; Remove the 60 tile click notification</string>
 </resources>

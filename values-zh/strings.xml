@@ -235,9 +235,6 @@
         \n邮件</string>
     <string name="newemailsum">发送新邮件</string>
     <string name="emailtitle">新邮件</string>
-    <string name="stay_in_the_loop">社交媒体/联系方式</string>
-    <string name="follow_me">在 Twitter 上关注我们</string>
-    <string name="like_facebook">给我们的 Facebook 页面点赞</string>
     <string name="home">主页</string>
     <string name="dice_desc_range">选择骰子瓷贴的自定义数字范围</string>
     <string name="dice_tile_range">骰子瓷贴范围</string>
@@ -363,7 +360,6 @@
     <string name="float_summary">侧栏可通过滑动手势触发或者悬浮图标显示的悬浮工具箱打开。</string>
     <string name="tb_tiles">侧栏</string>
     <string name="email_feedback">Email 反馈/询问问题</string>
-    <string name="submit_review">留下评论</string>
     <string name="rate_app">评价应用</string>
     <string name="yes_pro">获取付费版</string>
     <string name="file_browser">文件浏览器</string>
@@ -568,7 +564,6 @@
     <string name="apply">应用</string>
     <string name="scale">缩放 = </string>
     <string name="run_without">继续无需</string>
-    <string name="xda">XDA 开发者原帖</string>
     <string name="ap_name">网页地址</string>
     <string name="round_corners">圆角</string>
     <string name="create_shortcut">创建快捷方式</string>
@@ -577,7 +572,6 @@
     <string name="samsung_note">对三星用户的重要提醒</string>
     <string name="battery_opt">你正在使用的是三星设备，你可能会遇到休眠后瓷贴变得没有响应的情况。\n要解决这个问题，请在设备设置中将 Shortcutter 从电池优化中排除。</string>
     <string name="trig_alpha">触发器不透明度</string>
-    <string name="problem">提出问题或者功能请求\？ \n 可以发邮件给我 :)</string>
     <string name="opacity">不透明度 =</string>
     <string name="onehand">单手模式 (试验性)</string>
     <string name="onehanded_summary">将你的显示屏缩小到右下角，不是所有应用都能正确缩放。</string>
@@ -668,7 +662,6 @@
     <string name="remind_max">提醒 (至多 400 字符)</string>
     <string name="tile_max">标题 (至多 32 字符)</string>
     <string name="not_in_db">不在设置 DB 中</string>
-    <string name="contact_me">直接联系我。我会在 7 天内回复你。</string>
     <string name="immersive_full">完全沉浸</string>
     <string name="hide_statusbar">隐藏状态栏</string>
     <string name="hide_navbar">隐藏导航栏</string>
@@ -823,5 +816,13 @@
     <string name="immersive_off">Immersive Off</string>
     <string name="sb_rows_summary">Current = %s Rows</string>
     <string name="sb_rows_title">Sidebar Rows</string>
-    <string name="subscribe">LeeDrOiD @ YouTube</string>
+    <string name="man_qs">Manage System Pull-Down Tile\'s</string>
+    <string name="open">Open</string>
+    <string name="launcher_shorts"><![CDATA[Launcher Shortcut\'s & Icon\'s]]></string>
+    <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
+    <string name="built_vol_ui_sum">Shortcutter Custom Panel</string>
+    <string name="override_volume">Override System Volume Panel</string>
+    <string name="power_intercept">Accessibility Service Required.</string>
+    <string name="sys_vol">"        "</string>
+    <string name="prem_ben">\\nPurchasing Shortcutter Premium will unlock the following features:         \\n\\n\\u2022 All Custom Tiles         \\n\\u2022 Screen Recording &amp; Capture         \\n\\u2022 Quick Reminder         \\n\\u2022 Clipboard Editor         \\n\\u2022 App Launcher         \\n\\u2022 Additional in-app configuration options         \\n  &amp; Remove the 60 tile click notification</string>
 </resources>

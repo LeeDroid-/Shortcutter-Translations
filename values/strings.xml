@@ -126,7 +126,7 @@
     <string name="no_licence">No Licence Detected</string>
     <string name="old_licene">Premium key detected</string>
     <string name="all_prices_subject_to_tax_vat">
-        \nPurchasing Shortcutter Premium will permanently unlock all app features &amp; its less than the cost of a cup of coffee!</string>
+        \nPurchasing a Shortcutter unlock key will permanently unlock all app features.\n\nAnd the best news is, it costs less than a cup of coffee!</string>
     <string name="allofthe">Both of the below options will unlock all premium features, select one &amp; enjoy the full power of Shortcutter!</string>
     <string name="volumeui">Volume
         \nPanel</string>
@@ -246,9 +246,6 @@
         \nEmail</string>
     <string name="newemailsum">Send a new email</string>
     <string name="emailtitle">New Email</string>
-    <string name="stay_in_the_loop">Social Media/Contact</string>
-    <string name="follow_me">Follow Me On Twitter</string>
-    <string name="like_facebook">Like My Facebook Page</string>
     <string name="home">Home</string>
     <string name="dice_desc_range">Select a custom number range for the Dice Tile</string>
     <string name="dice_tile_range">Dice Tile Range</string>
@@ -374,7 +371,6 @@
     <string name="float_summary">A Sidebar opened by a swipe of the trigger, or a Floating ToolBox with a floating icon.</string>
     <string name="tb_tiles">Sidebar</string>
     <string name="email_feedback">Email Feedback/Ask A Question</string>
-    <string name="submit_review">Leave A Review</string>
     <string name="rate_app">Rate The App</string>
     <string name="yes_pro">GO PREMIUM</string>
     <string name="file_browser">File Browser</string>
@@ -423,7 +419,6 @@
     <string name="sb_rows_title">Sidebar Rows</string>
     <string name="sb_columns_title">Sidebar Columns</string>
     <string name="design_settings">Behaviour &amp; Settings</string>
-    <string name="leedroid" translatable="false">www.LeeDrOiD.co.uk</string>
     <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
     <string name="corners_title">Rounded Corners</string>
     <string name="corners__scale_title">Screen Corner Scale</string>
@@ -608,7 +603,6 @@
     <string name="apply">Apply</string>
     <string name="scale">Scale =&#160;</string>
     <string name="run_without">Continue Without</string>
-    <string name="xda">XDA Developers Thread</string>
     <string name="ap_name">Web Address</string>
     <string name="round_corners">Rounded Corners</string>
     <string name="create_shortcut">Create a Shortcut</string>
@@ -617,7 +611,6 @@
     <string name="samsung_note">Important note for Samsung users</string>
     <string name="battery_opt">As you are using a Samsung device, you may experience tiles becoming unresponsive after being dormant.\nTo rectify this issue, please exclude Shortcutter from battery optimisations in your device settings.</string>
     <string name="trig_alpha">Trigger Opacity</string>
-    <string name="problem">Got a problem or feature request\? \nPlease Mail me first..</string>
     <string name="opacity">Opacity =</string>
     <string name="onehand">One Handed Mode</string>
     <string name="onehanded_summary">Shrinks your display to the bottom right corner, not all apps scale correctly</string>
@@ -657,8 +650,7 @@
     <string name="sidebar_tb">Sidebar\nToggle</string>
     <string name="auto_start_rec">Auto Start Recording</string>
     <string name="apmreboot_list" translatable="false">Reboot,Reboot Recovery,Reboot Download,Reboot Bootloader,Hot Reboot,Reboot Safe Mode</string>
-    <string name="apm_list" translatable="false">Power Off,Reboot Menu,Restart SystemUI,Airplane Mode,Screenshot,Flashlight,Settings</string>
-    <string name="apm_list_tight" translatable="false">Power Off,Reboot Menu,Airplane Mode,Flashlight,Settings</string>
+    <string name="apm_list" translatable="false">Power Off,Reboot,Reboot Menu,Restart SystemUI,Airplane Mode,Screenshot,Flashlight,Settings</string>
     <string name="recording">Recording Screen</string>
     <string name="change_theme">Dark Mode</string>
     <string name="send_report">Send Crash\nReport</string>
@@ -667,6 +659,43 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
+        \n\nv7.0.2:
+        \n\u2022 Fix open sound settings from Vol Panel.
+        \n\u2022 Remember past Ring &amp; Media un-muted levels in volume panel.
+        \n\u2022 Add option to intercept system volume dialog (accessibility required).
+        \n\u2022 Update all icons based on state.
+        \n\u2022 Add 5 second Volume dialog timeout.
+        \n\u2022 Fix APM Exposed Launcher Icon.
+        \n\u2022 Fix Intercept Power Menu on Android 9+ (accessibility required).
+        \n\u2022 Change APM enter/exit transition.
+        \n\nv7.0.1:
+        \n\u2022 Night Light clean-up.
+        \n\u2022 Revert in-app purchase flow to billing screen.
+        \n\u2022 Interface corrections.
+        \n\u2022 Volume UI improvements.
+        \n\nv7.0.0:
+        \n\u2022 Move volume Panel Tile to Shortcutter Section.
+        \n\u2022 Use Shortcutter Volume Panel as default.
+        \n\u2022 Fix checkboxes in APM menu.
+        \n\u2022 Premium detection corrections.
+        \n\u2022 Layout adjustments.
+        \n\u2022 Fix crash in Night Light.
+        \n\u2022 Fix app restart reliability when completing purchases.
+        \n\nv6.9.9:
+        \n\u2022 Change "Home" header to app name.
+        \n\u2022 Remove duplicate items from in app menu.
+        \n\u2022 Fix reboot confirmation dialog.
+        \n\u2022 Add direct reboot option to APM main list.
+        \n\u2022 Translation Updates.
+        \n\u2022 Do not force English as default.
+        \n\u2022 Fix crash in Global Action receiver.
+        \n\u2022 Update social icons.
+        \n\u2022 Layout adjustments.
+        \n\nv6.9.8:
+        \n\u2022 New custom Nav Drawer list adapter with summaries.
+        \n\u2022 Move social media items to Nav Drawer.
+        \n\u2022 Re-order items.
+        \n\u2022 Translation updates.
         \n\nv6.9.7:
         \n\u2022 Fix crash in backup manager.
         \n\u2022 New Navigation Drawer UI.
@@ -815,7 +844,6 @@
     <string name="remind_max">Reminder (400 Max)</string>
     <string name="tile_max">Title (32 Max)</string>
     <string name="not_in_db">Not in settings DB</string>
-    <string name="contact_me">Contact me directly, I aim to reply within 7 days.</string>
     <string name="immersive_full">Full Immersive</string>
     <string name="hide_statusbar">Hide Status Bar</string>
     <string name="hide_navbar">Hide Nav Bar</string>
@@ -926,7 +954,6 @@
     <string name="standalone">Standalone</string>
     <string name="label">Label</string>
     <string name="rev_land" translatable="false">270\u00B0</string>
-    <string name="app_ino_sets"><![CDATA[App Information, Setting\'s & Backup]]></string>
     <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
     <string name="man_qs">Manage System Pull-Down Tile\'s</string>
     <string name="launcher_shorts"><![CDATA[Launcher Shortcut\'s & Icon\'s]]></string>
@@ -954,6 +981,20 @@
     <string name="iconscale_12">IconScale: 12</string>
     <string name="developer_options">Developer Options</string>
     <string name="dev_summary">Opens Developer Options if enabled.</string>
-    <string name="subscribe">LeeDrOiD @ YouTube</string>
     <string name="open">Open</string>
+    <string name="built_vol_ui_sum">Shortcutter Custom Panel</string>
+    <string name="prem_ben">
+        \nPurchasing Shortcutter Premium will unlock the following features:
+        \n\n\u2022 All Custom Tiles
+        \n\u2022 Screen Recording &amp; Capture
+        \n\u2022 Quick Reminder
+        \n\u2022 Clipboard Editor
+        \n\u2022 App Launcher
+        \n\u2022 Additional in-app configuration options
+        \n  &amp; Remove the 60 tile click notification</string>
+    <string name="power_intercept">Accessibility Service Required.
+        \n\nShortcutter can only detect long press power as of Android 9.0 with the use of Accessibility Services.
+        \n\nPlease click proceed and enable the service to override the system power menu.\n</string>
+    <string name="override_volume">Override System Volume Panel</string>
+    <string name="sys_vol">System Panel</string>
 </resources>

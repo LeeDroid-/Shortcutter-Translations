@@ -234,9 +234,6 @@
         \nE-Mail</string>
     <string name="newemailsum">Sendet eine neue E-Mail</string>
     <string name="emailtitle">Neue E-Mail</string>
-    <string name="stay_in_the_loop">Social Media/Kontakt</string>
-    <string name="follow_me">Folge mir auf Twitter</string>
-    <string name="like_facebook">Like meine Facebook Seite</string>
     <string name="home">Startseite</string>
     <string name="dice_desc_range">Wähle eine benutzerdef. Augenanzahl für die Würfel Kachel</string>
     <string name="dice_tile_range">Würfel Kachel Augenanzahl</string>
@@ -362,7 +359,6 @@
     <string name="float_summary">Öffnet die Sidebar durch Wischen über den Auslösebalken oder den schwebenden Werkzeugkasten über ein schwebendes Symbol.</string>
     <string name="tb_tiles">Sidebar</string>
     <string name="email_feedback">E-Mail Rückmeldung</string>
-    <string name="submit_review">Lass eine Bewertung da</string>
     <string name="rate_app">Bewerte die App</string>
     <string name="yes_pro">HOL DIR PREMIUM</string>
     <string name="file_browser">Dateimanager</string>
@@ -573,12 +569,10 @@
     <string name="enter_url">Gib eine Web-URL oder einen Suchbegriff ein</string>
     <string name="round_corners">Abgerundete Ecken</string>
     <string name="run_without">Weiter ohne</string>
-    <string name="xda">XDA Entwickler Thread</string>
     <string name="choose_function">Wähle Funktion</string>
     <string name="samsung_note">Wichtiger Hinweis für Samsung Nutzer</string>
     <string name="battery_opt">Falls du ein Samsung Gerät nutzt kann es sein, dass die Kacheln nicht mehr reagieren nachdem das Gerät im Tiefschlafmodus war.\n Um dieses Problem zu umgehen solltest du den Shortcutter von den Energiesparoptionen in deinen Geräteeinstellungen ausschließen.</string>
     <string name="trig_alpha">Transparenz auslösen</string>
-    <string name="problem">Hast du ein Problem oder eine Feature-Anfrage\? \n Schreibe mir zuerst :)</string>
     <string name="opacity">Deckkraft =</string>
     <string name="onehand">Einhändig (Experimentell)</string>
     <string name="onehanded_summary">Schrumpft die Anzeige auf die rechte untere Ecke, nicht alle Apps werden korrekt skaliert</string>
@@ -670,7 +664,6 @@
     <string name="remind_max">Erinnerung (400 Max)</string>
     <string name="tile_max">Titel (32 Max)</string>
     <string name="not_in_db">Nicht in den Einstellungen DB</string>
-    <string name="contact_me">Kontaktiere mich direkt, ich möchte innerhalb von 7 Tagen antworten.</string>
     <string name="immersive_full">Vollbildmodus</string>
     <string name="hide_statusbar">Statusleiste ausblenden</string>
     <string name="hide_navbar">Navigationsleiste ausblenden</string>
@@ -820,10 +813,18 @@
     <string name="rest_services">Dienste neu starten</string>
     <string name="padding_12">Polsterung: 12</string>
     <string name="iconscale_12">Symbol Skala: 12</string>
-    <string name="subscribe">LeeDrOiD @ YouTube</string>
     <string name="sb_rows_title">Zeilen in der Seitenleiste</string>
     <string name="sb_rows_summary">Strom = %s Zeilen</string>
     <string name="immersive_off">Immersive Aus</string>
     <string name="developer_options">Entwickler-Optionen</string>
     <string name="dev_summary">Öffnet die Entwickleroptionen, wenn diese aktiviert sind.</string>
+    <string name="man_qs">Verwalten von Schnelleinstellungs Pull-Down-Kacheln</string>
+    <string name="open">Offen</string>
+    <string name="conf_sb"><![CDATA[Konfiguriere die Seitenleiste & ihre Verknüpfungen.]]></string>
+    <string name="launcher_shorts"><![CDATA[Launcher Schnelleinstellungen & Symbole]]></string>
+    <string name="built_vol_ui_sum">Shortcutter Custom Panel</string>
+    <string name="override_volume">Override System Volume Panel</string>
+    <string name="power_intercept">Accessibility Service Required.</string>
+    <string name="prem_ben">"        \\nPurchasing Shortcutter Premium will unlock the following features:         \\n\\n\\u2022 All Custom Tiles         \\n\\u2022 Screen Recording &amp; Capture         \\n\\u2022 Quick Reminder         \\n\\u2022 Clipboard Editor         \\n\\u2022 App Launcher         \\n\\u2022 Additional in-app configuration options         \\n  &amp; Remove the 60 tile click notification"</string>
+    <string name="sys_vol">System Panel</string>
 </resources>

@@ -235,9 +235,6 @@
         \nEmail</string>
     <string name="newemailsum">Enviar un nuevo Email</string>
     <string name="emailtitle">Nuevo Email</string>
-    <string name="stay_in_the_loop">Redes sociales/Contacto</string>
-    <string name="follow_me">Sígueme en Twitter</string>
-    <string name="like_facebook">Sígueme en Facebook</string>
     <string name="home">Inicio</string>
     <string name="dice_desc_range">Elige un número al azar para el dado</string>
     <string name="dice_tile_range">Número del dado</string>
@@ -362,7 +359,6 @@
     <string name="float_summary">Se abre una barra lateral deslizando o una caja de herramientas flotante mediante un icono flotante.</string>
     <string name="tb_tiles">Barra lateral</string>
     <string name="email_feedback">Enviar comentarios/preguntas</string>
-    <string name="submit_review">Deja tu opinión</string>
     <string name="rate_app">Valora la aplicación</string>
     <string name="yes_pro">HAZTE Premium</string>
     <string name="file_browser">Explorador de archivos</string>
@@ -588,7 +584,6 @@
     <string name="apply">Aplicar</string>
     <string name="scale">Escala =&#160;</string>
     <string name="run_without">Continuar sin</string>
-    <string name="xda">Hilo de desarrolladores en XDA</string>
     <string name="ap_name">Dirección web</string>
     <string name="round_corners">Esquinas redondeadas</string>
     <string name="create_shortcut">Crear un acceso directo</string>
@@ -597,7 +592,6 @@
     <string name="samsung_note">Importante para los usuarios de Samsung</string>
     <string name="battery_opt">Al utilizar un dispositivo Samsung, es posible que las fichas no respondan después de estar inactivas.\nPara solucionarlo, debéis excluir Shortcutter de la optimización de batería en los ajustes del sistema.</string>
     <string name="trig_alpha">Opacidad</string>
-    <string name="problem">¿Tienes un problema o quieres sugerir algo? \n Envíame un correo :)</string>
     <string name="opacity">Opacidad =</string>
     <string name="onehand">Modo con una mano</string>
     <string name="onehanded_summary">Reduce la pantalla a la esquina inferior derecha, no todas las aplicaciones se escalan correctamente</string>
@@ -687,7 +681,6 @@
     <string name="remind_max">Recordatorio (400 Máx.)</string>
     <string name="tile_max">Título (32 Máx.)</string>
     <string name="not_in_db">No en ajustes DB</string>
-    <string name="contact_me">Contáctame directamente, te responderé en un plazo de 7 días</string>
     <string name="immersive_full">Inmersivo completo</string>
     <string name="hide_statusbar">Ocultar barra de estado</string>
     <string name="hide_navbar">Ocultar barra de navegación</string>
@@ -794,10 +787,13 @@
     <string name="home_sum">Emula el botón de Inicio</string>
     <string name="back_sum">Emula el botón Atrás</string>
     <string name="apm_intercept">Sustituir menú de apagado del sistema</string>
+    <string name="man_qs">Administrar fichas en Panel desplegable</string>
+    <string name="launcher_shorts"><![CDATA[Accesos directos e iconos del Launcher]]></string>
     <string name="shortcut_sets">Ajustes específicos</string>
     <string name="standalone">Independiente</string>
     <string name="also_standalone">Su versión de prueba ha caducado.</string>
     <string name="label">Etiqueta</string>
+    <string name="conf_sb"><![CDATA[Configurar barra lateral y sus accesos directos]]></string>
     <string name="special_tiles">Fichas de acceso avanzado</string>
     <string name="special_tiles_sum">Fichas que requieren ROOT o ajustes de acceso seguro.</string>
     <string name="lock_orient">Bloquear Orientación</string>
@@ -818,10 +814,15 @@
     <string name="rest_services">Reiniciando servicios</string>
     <string name="padding_12">Relleno: 12</string>
     <string name="iconscale_12">Escala iconos: 12</string>
-    <string name="subscribe">LeeDrOiD @ YouTube</string>
     <string name="sb_rows_title">Filas de la barra lateral</string>
-    <string name="sb_rows_summary">Corriente = %s Filas</string>
-    <string name="immersive_off">Apagado por inmersión</string>
-    <string name="developer_options">Opciones para desarrolladores</string>
-    <string name="dev_summary">Abre Opciones de desarrollador si está habilitado.</string>
+    <string name="sb_rows_summary">Actualmente = %s filas</string>
+    <string name="immersive_off">Modo Inmersivo Apagado</string>
+    <string name="developer_options">Opciones de desarrollador</string>
+    <string name="dev_summary">Abre las opciones de desarrollador si está habilitado.</string>
+    <string name="open">Abrir</string>
+    <string name="built_vol_ui_sum">Shortcutter Custom Panel</string>
+    <string name="override_volume">Override System Volume Panel</string>
+    <string name="power_intercept">Accessibility Service Required.</string>
+    <string name="prem_ben">"        \\nPurchasing Shortcutter Premium will unlock the following features:         \\n\\n\\u2022 All Custom Tiles         \\n\\u2022 Screen Recording &amp; Capture         \\n\\u2022 Quick Reminder         \\n\\u2022 Clipboard Editor         \\n\\u2022 App Launcher         \\n\\u2022 Additional in-app configuration options         \\n  &amp; Remove the 60 tile click notification"</string>
+    <string name="sys_vol">System Panel</string>
 </resources>
