@@ -824,9 +824,9 @@
     <string name="developer_options">Опции разработчика</string>
     <string name="dev_summary">Открывает опции разработчика, если включена.</string>
     <string name="open">Открыть</string>
-    <string name="built_vol_ui_sum">Shortcutter Custom Panel</string>
-    <string name="override_volume">Override System Volume Panel</string>
-    <string name="power_intercept">Accessibility Service Required.</string>
-    <string name="prem_ben">"        \\nPurchasing Shortcutter Premium will unlock the following features:         \\n\\n\\u2022 All Custom Tiles         \\n\\u2022 Screen Recording &amp; Capture         \\n\\u2022 Quick Reminder         \\n\\u2022 Clipboard Editor         \\n\\u2022 App Launcher         \\n\\u2022 Additional in-app configuration options         \\n  &amp; Remove the 60 tile click notification"</string>
-    <string name="sys_vol">System Panel</string>
+    <string name="built_vol_ui_sum">Пользовательская панель ярлыков</string>
+    <string name="override_volume">Переопределить панель системных томов</string>
+    <string name="power_intercept">Требуется служба специальных возможностей.</string>
+    <string name="prem_ben">"        \\nПокупка Shortcutter Premium разблокирует следующие функции:         \\n\\n\\u2022 Все пользовательские плитки         \\n\\u2022 Запись экрана и захват         \\n\\u2022 Быстрое Напоминание         \\n\\u2022 Редактор буфера обмена         \\n\\u2022 Панель запуска приложений         \\n\\u2022 Дополнительные параметры конфигурации в приложении         \\n  &amp; Удалить уведомление о щелчке 60 плиток"</string>
+    <string name="sys_vol">Системная панель</string>
 </resources>
