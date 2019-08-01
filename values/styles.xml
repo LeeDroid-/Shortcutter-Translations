@@ -1,0 +1,247 @@
+<resources>
+
+    <style name="LightTheme" parent="Theme.Design.Light.NoActionBar">
+        <item name="colorControlNormal">@color/white</item>
+        <item name="round_back">@drawable/round_back</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="colorAppAccent">@color/colorPrimary</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:textViewStyle">@style/RobotoTextViewStyle</item>
+        <item name="android:buttonStyle">@style/RobotoButtonStyle</item>
+        <item name="android:colorBackground">@color/white</item>
+        <item name="homeAsUpIndicator">@drawable/back</item>
+        <item name="prefFront">@drawable/preference_back_light</item>
+        <item name="prefText">@drawable/preference_text_light</item>
+        <item name="prefTextSum">@drawable/preference_text_light_sum</item>
+        <item name="prefTop">@color/white</item>
+        <item name="prefBack">@color/offWhite</item>
+        <item name="textPrimary">@color/primaryTextLight</item>
+        <item name="textSecondary">@color/SecondaryTextLight</item>
+        <item name="prefIconTint">@color/primaryTextLight</item>
+        <item name="android:timePickerDialogTheme">@style/ThemeDialogLight</item>
+        <item name="android:datePickerDialogTheme">@style/ThemeDialogLight</item>
+        <item name="android:alertDialogTheme">@style/ThemeDialogLight</item>
+        <item name="android:dialogTheme">@style/ThemeDialogLight</item>
+        <item name="alertDialogTheme">@style/ThemeDialogLight</item>
+        <item name="actionOverflowButtonStyle">@style/overflowButton</item>
+        <item name="android:windowBackground">?attr/prefTop</item>
+        <item name="prefButtonTint">@color/colorAccent</item>
+        <item name="android:itemBackground">?attr/prefTop</item>
+    </style>
+
+    <style name="AppThemePopup" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:popupBackground">#0F213F</item>
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="LightTransparentTheme" parent="Theme.Design.Light.NoActionBar">
+        <item name="android:colorControlActivated">@color/colorAccent</item>
+        <item name="android:colorControlHighlight">@color/colourSilverNice</item>
+        <item name="android:colorControlNormal">@color/colourSilverNice</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="round_back">@drawable/round_back</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="colorAppAccent">@color/colorPrimary</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:textViewStyle">@style/RobotoTextViewStyle</item>
+        <item name="android:buttonStyle">@style/RobotoButtonStyle</item>
+        <item name="android:colorBackground">@color/white</item>
+        <item name="homeAsUpIndicator">@drawable/back</item>
+        <item name="prefTop">@color/white</item>
+        <item name="prefBack">@color/offWhite</item>
+        <item name="textPrimary">@color/primaryTextLight</item>
+        <item name="textSecondary">@color/SecondaryTextLight</item>
+        <item name="prefIconTint">@color/primaryTextLight</item>
+        <item name="android:timePickerDialogTheme">@style/ThemeDialogLight</item>
+        <item name="android:datePickerDialogTheme">@style/ThemeDialogLight</item>
+        <item name="android:alertDialogTheme">@style/ThemeDialogLight</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:itemBackground">?attr/prefTop</item>
+        <item name="prefButtonTint">@color/colorAccent</item>
+        <item name="android:windowMinWidthMajor">80%</item>
+        <item name="android:windowMinWidthMinor">80%</item>
+    </style>
+
+    <style name="ThemeDialogLight" parent="Theme.AppCompat.Light.Dialog">
+        <item name="round_back">@drawable/round_back</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowMinWidthMajor">80%</item>
+        <item name="android:windowMinWidthMinor">80%</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">?attr/textPrimary</item>
+        <item name="prefButtonTint">@color/colorAccent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@drawable/dialog_shape_trans</item>
+        <item name="background">@drawable/dialog_shape_trans</item>
+        <item name="android:backgroundTint">?attr/prefTop</item>
+        <item name="backgroundTint">?attr/prefTop</item>
+        <item name="android:background">@drawable/dialog_shape_trans</item>
+    </style>
+
+    <style name="ThemeDialogDark" parent="Theme.AppCompat.Dialog">
+        <item name="round_back">@drawable/round_back_dark</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowMinWidthMajor">80%</item>
+        <item name="android:windowMinWidthMinor">80%</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">?attr/textPrimary</item>
+        <item name="prefButtonTint">@color/white</item>
+        <item name="android:windowBackground">@drawable/dialog_shape_trans</item>
+        <item name="background">@drawable/dialog_shape_trans</item>
+        <item name="android:backgroundTint">?attr/prefTop</item>
+        <item name="backgroundTint">?attr/prefTop</item>
+        <item name="android:background">@drawable/dialog_shape_trans</item>
+    </style>
+
+    <style name="ThemeDialogLightAPM" parent="Theme.AppCompat.Light.Dialog">
+        <item name="round_back">@drawable/round_back</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowMinWidthMajor">80%</item>
+        <item name="android:windowMinWidthMinor">80%</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">?attr/textPrimary</item>
+        <item name="prefButtonTint">@color/colorAccent</item>
+    </style>
+
+    <style name="ThemeDialogDarkAPM" parent="Theme.AppCompat.Dialog">
+        <item name="round_back">@drawable/round_back_dark</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowMinWidthMajor">80%</item>
+        <item name="android:windowMinWidthMinor">80%</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">?attr/textPrimary</item>
+        <item name="prefButtonTint">@color/white</item>
+    </style>
+
+    <style name="DarkTheme" parent="Theme.Design.NoActionBar">
+        <item name="colorControlNormal">@color/white</item>
+        <item name="round_back">@drawable/round_back_dark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="colorAppAccent">@color/colorPrimary</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:textViewStyle">@style/RobotoTextViewStyle</item>
+        <item name="android:buttonStyle">@style/RobotoButtonStyle</item>
+        <item name="android:colorBackground">@color/white</item>
+        <item name="homeAsUpIndicator">@drawable/back</item>
+        <item name="prefFront">@drawable/preference_back_dark</item>
+        <item name="prefText">@drawable/preference_text_dark</item>
+        <item name="prefTextSum">@drawable/preference_text_dark_sum</item>
+        <item name="prefTop">@color/background_dark</item>
+        <item name="prefBack">@color/colorHeader</item>
+        <item name="textPrimary">@color/white</item>
+        <item name="textSecondary">@color/colourSilverNice</item>
+        <item name="prefIconTint">@color/white</item>
+        <item name="android:timePickerDialogTheme">@style/ThemeDialogDark</item>
+        <item name="android:datePickerDialogTheme">@style/ThemeDialogDark</item>
+        <item name="android:alertDialogTheme">@style/ThemeDialogDark</item>
+        <item name="android:dialogTheme">@style/ThemeDialogDark</item>
+        <item name="alertDialogTheme">@style/ThemeDialogDark</item>
+        <item name="scDialogTheme">@style/ThemeDialogDark</item>
+        <item name="android:itemBackground">?attr/prefTop</item>
+        <item name="android:windowBackground">?attr/prefTop</item>
+        <item name="prefButtonTint">@color/white</item>
+    </style>
+
+    <style name="DarkTransparentTheme" parent="Theme.Design.NoActionBar">
+        <item name="android:colorControlActivated">@color/colorAccent</item>
+        <item name="android:colorControlHighlight">@color/colourSilverNice</item>
+        <item name="android:colorControlNormal">@color/colourSilverNice</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="round_back">@drawable/round_back_dark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="colorAppAccent">@color/colorPrimary</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:textViewStyle">@style/RobotoTextViewStyle</item>
+        <item name="android:buttonStyle">@style/RobotoButtonStyle</item>
+        <item name="android:colorBackground">@color/background_dark</item>
+        <item name="homeAsUpIndicator">@drawable/back</item>
+        <item name="prefTop">@color/background_dark</item>
+        <item name="prefBack">@color/colorHeader</item>
+        <item name="textPrimary">@color/white</item>
+        <item name="textSecondary">@color/colourSilverNice</item>
+        <item name="prefIconTint">@color/white</item>
+        <item name="android:timePickerDialogTheme">@style/ThemeDialogDark</item>
+        <item name="android:datePickerDialogTheme">@style/ThemeDialogDark</item>
+        <item name="android:alertDialogTheme">@style/ThemeDialogDark</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="prefButtonTint">@color/white</item>
+        <item name="android:windowMinWidthMajor">80%</item>
+        <item name="android:windowMinWidthMinor">80%</item>
+    </style>
+
+    <style name="overflowButton" parent="@style/Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:tint">@color/white</item>
+    </style>
+
+    <style name="RobotoTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="RobotoButtonStyle" parent="android:Widget.Holo.Button">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="CustomProgress" parent="ThemeDialogLight">
+        <item name="DialogTitleAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="DialogTitleText">Please Wait</item>
+        <item name="android:background">?attr/prefTop</item>
+        <item name="DialogSpotColor">@color/colorPrimary</item>
+        <item name="DialogSpotCount">8</item>
+    </style>
+
+    <style name="CustomProgressAct" parent="ThemeDialogLight">
+        <item name="DialogTitleAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="DialogTitleText">@string/loading_activities</item>
+        <item name="android:background">?attr/prefTop</item>
+        <item name="DialogSpotColor">@color/colorPrimary</item>
+        <item name="DialogSpotCount">8</item>
+    </style>
+
+    <style name="CustomProgressApps" parent="ThemeDialogLight">
+        <item name="DialogTitleAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="DialogTitleText">@string/loading_apps</item>
+        <item name="android:background">?attr/prefTop</item>
+        <item name="DialogSpotColor">@color/colorPrimary</item>
+        <item name="DialogSpotCount">8</item>
+    </style>
+
+    <style name="checkStyle">
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:textColorSecondary">?attr/textPrimary</item>
+        <item name="android:textColor">?attr/textPrimary</item>
+    </style>
+
+    <style name="checkStyle2">
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+</resources>

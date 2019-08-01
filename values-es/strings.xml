@@ -820,9 +820,23 @@
     <string name="developer_options">Opciones de desarrollador</string>
     <string name="dev_summary">Abre las opciones de desarrollador si está habilitado.</string>
     <string name="open">Abrir</string>
-    <string name="built_vol_ui_sum">Shortcutter Custom Panel</string>
-    <string name="override_volume">Override System Volume Panel</string>
-    <string name="power_intercept">Accessibility Service Required.</string>
-    <string name="prem_ben">"        \\nPurchasing Shortcutter Premium will unlock the following features:         \\n\\n\\u2022 All Custom Tiles         \\n\\u2022 Screen Recording &amp; Capture         \\n\\u2022 Quick Reminder         \\n\\u2022 Clipboard Editor         \\n\\u2022 App Launcher         \\n\\u2022 Additional in-app configuration options         \\n  &amp; Remove the 60 tile click notification"</string>
-    <string name="sys_vol">System Panel</string>
+    <string name="built_vol_ui_sum">Panel personalizado</string>
+    <string name="override_volume">Anular panel de volumen del sistema</string>
+    <string name="power_intercept">Se necesita servicio de accesibilidad.</string>
+    <string name="prem_ben">\nLa compra de Shortcutter Premium desbloqueará las siguientes funciones:
+        \n\n \u2022 Más fichas personalizadas
+        \n \u2022 Más fichas URL personalizadas
+        \n \u2022 Grabación y captura de pantalla
+        \n \u2022 Opciones adicionales en la aplicación
+        \n \u2022 Elimina las notificaciones al realizar 60 pulsaciones</string>
+    <string name="sys_vol">Panel del sistema</string>
+    <string name="notification_listener">Notification Listener</string>
+    <string name="notif_list">Services requiring notification access:
+        \n\n* Volume Panel\n- Detect cast dialog &amp; stop intercept.
+        \n* Notification Blocker (Oreo +)
+        \n- block the \"Running In Background\" notification.
+        \n* Night Light/Desk Clock (When Active)
+        \n- display active notification count.
+        \n\nThe only information scanned by Shortcutter is package name\'s, no notification content is stored.</string>
+    <string name="left">Position Left</string>
 </resources>

@@ -755,6 +755,22 @@
     <string name="built_vol_ui_sum">Painel Personalizado Shortcutter</string>
     <string name="override_volume">Substituir Painel de Volumne do Sistema</string>
     <string name="power_intercept">Necessista de Permissão de Acessibilidade.</string>
-    <string name="prem_ben">"        \\nCompre Shortcutter Premium para desbloquear as segintes funcionalidades:         \\n\\n\\u2022 Todos os Mosaicos Personalizados         \\n\\u2022 Gravação &amp; Captura de ecrã         \\n\\u2022 Lembrete Rápido         \\n\\u2022 Editor de Área de Tranferência         \\n\\u2022 Ecrã Inicial de Aplicações         \\n\\u2022 Opções adicionais de configuração de aplicação         \\n  &amp; Remover a notificação a cada 60 cliques em mosaicos"</string>
+    <string name="prem_ben">\nCompre Shortcutter Premium para desbloquear as segintes funcionalidades:
+    \n\n\u2022 Todos os Mosaicos Personalizados      
+    \n\u2022 Gravação &amp; Captura de ecrã 
+    \n\u2022 Lembrete Rápido 
+    \n\u2022 Editor de Área de Tranferência         
+    \n\u2022 Ecrã Inicial de Aplicações
+    \n\u2022 Opções adicionais de configuração de aplicação
+    \n  &amp; Remover a notificação a cada 60 cliques em mosaicos</string>
     <string name="sys_vol">Painel do Sistema</string>
+    <string name="notification_listener">Notification Listener</string>
+    <string name="notif_list">Services requiring notification access:
+        \n\n* Volume Panel\n- Detect cast dialog &amp; stop intercept.
+        \n* Notification Blocker (Oreo +)
+        \n- block the \"Running In Background\" notification.
+        \n* Night Light/Desk Clock (When Active)
+        \n- display active notification count.
+        \n\nThe only information scanned by Shortcutter is package name\'s, no notification content is stored.</string>
+    <string name="left">Position Left</string>
 </resources>

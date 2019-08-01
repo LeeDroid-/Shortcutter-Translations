@@ -827,6 +827,22 @@
     <string name="built_vol_ui_sum">Пользовательская панель ярлыков</string>
     <string name="override_volume">Переопределить панель системных томов</string>
     <string name="power_intercept">Требуется служба специальных возможностей.</string>
-    <string name="prem_ben">"        \\nПокупка Shortcutter Premium разблокирует следующие функции:         \\n\\n\\u2022 Все пользовательские плитки         \\n\\u2022 Запись экрана и захват         \\n\\u2022 Быстрое Напоминание         \\n\\u2022 Редактор буфера обмена         \\n\\u2022 Панель запуска приложений         \\n\\u2022 Дополнительные параметры конфигурации в приложении         \\n  &amp; Удалить уведомление о щелчке 60 плиток"</string>
+    <string name="prem_ben">\nПокупка Shortcutter Premium разблокирует следующие функции:
+             \n\n\u2022 Все пользовательские плитки
+	     \n\u2022 Запись экрана и захват         
+	     \n\u2022 Быстрое Напоминание         
+	     \n\u2022 Редактор буфера обмена         
+	     \n\u2022 Панель запуска приложений         
+	     \n\u2022 Дополнительные параметры конфигурации в приложении         
+	     \n  &amp; Удалить уведомление о щелчке 60 плиток</string>
     <string name="sys_vol">Системная панель</string>
+    <string name="notification_listener">Notification Listener</string>
+    <string name="notif_list">Services requiring notification access:
+        \n\n* Volume Panel\n- Detect cast dialog &amp; stop intercept.
+        \n* Notification Blocker (Oreo +)
+        \n- block the \"Running In Background\" notification.
+        \n* Night Light/Desk Clock (When Active)
+        \n- display active notification count.
+        \n\nThe only information scanned by Shortcutter is package name\'s, no notification content is stored.</string>
+    <string name="left">Position Left</string>
 </resources>

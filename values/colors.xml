@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ef4070ff</color>
+    <color name="colorPrimaryDark">#ef4070ff</color>
+    <color name="colorAccent">#FF4070ff</color>
+    <color name="colourMyBackground">#FF4D4D4D</color>
+    <color name="colourSilver">#dd0D0D0D</color>
+    <color name="colourSilverNice">#b3b3b3</color>
+    <color name="colourSilverAlpha">#D0C0C0C0</color>
+    <color name="colorHeader">#252525</color>
+    <color name="myTriggerColour">#4D6d6d6d</color>
+    <color name="nightText">#FF6d6d6d</color>
+    <color name="filterColour">#9F9B0000</color>
+    <color name="tbBack">#FFFFFFFF</color>
+    <color name="white">#f5f5f5</color>
+    <color name="white_pressed">#f2f1f1</color>
+    <color name="offWhite">#ededed</color>
+    <color name="background_dark">#212121</color>
+    <color name="background_dark_pressed">#202020</color>
+    <color name="primaryTextLight">#4b4b4b</color>
+    <color name="SecondaryTextLight">#6b6b6b</color>
+    <color name="darkWidgetBack">#d3000000</color>
+    <color name="lightWidgetBack">#dbffffff</color>
+    <color name="black">#FF000000</color>
+    <color name="blue_back">#203d8c</color>
+</resources>
