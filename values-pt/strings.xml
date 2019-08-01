@@ -751,10 +751,10 @@
     <string name="label">Etiqueta</string>
     <string name="developer_options">Opções de Programador</string>
     <string name="dev_summary">Abre Opções de Programador se estiverem activadas.</string>
-    <string name="open">Aberto</string>
-    <string name="built_vol_ui_sum">Shortcutter Custom Panel</string>
-    <string name="override_volume">Override System Volume Panel</string>
-    <string name="power_intercept">Accessibility Service Required.</string>
-    <string name="prem_ben">"        \\nPurchasing Shortcutter Premium will unlock the following features:         \\n\\n\\u2022 All Custom Tiles         \\n\\u2022 Screen Recording &amp; Capture         \\n\\u2022 Quick Reminder         \\n\\u2022 Clipboard Editor         \\n\\u2022 App Launcher         \\n\\u2022 Additional in-app configuration options         \\n  &amp; Remove the 60 tile click notification"</string>
-    <string name="sys_vol">System Panel</string>
+    <string name="open">Abrir</string>
+    <string name="built_vol_ui_sum">Painel Personalizado Shortcutter</string>
+    <string name="override_volume">Substituir Painel de Volumne do Sistema</string>
+    <string name="power_intercept">Necessista de Permissão de Acessibilidade.</string>
+    <string name="prem_ben">"        \\nCompre Shortcutter Premium para desbloquear as segintes funcionalidades:         \\n\\n\\u2022 Todos os Mosaicos Personalizados         \\n\\u2022 Gravação &amp; Captura de ecrã         \\n\\u2022 Lembrete Rápido         \\n\\u2022 Editor de Área de Tranferência         \\n\\u2022 Ecrã Inicial de Aplicações         \\n\\u2022 Opções adicionais de configuração de aplicação         \\n  &amp; Remover a notificação a cada 60 cliques em mosaicos"</string>
+    <string name="sys_vol">Painel do Sistema</string>
 </resources>
