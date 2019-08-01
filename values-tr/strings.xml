@@ -819,9 +819,9 @@
     <string name="developer_options">Geliştirici Seçenekleri</string>
     <string name="dev_summary">Etkinse Geliştirici Seçeneklerini açar.</string>
     <string name="open">Açık</string>
-    <string name="built_vol_ui_sum">Shortcutter Custom Panel</string>
-    <string name="override_volume">Override System Volume Panel</string>
-    <string name="sys_vol">System Panel</string>
-    <string name="power_intercept">Accessibility Service Required.</string>
-    <string name="prem_ben">\\nPurchasing Shortcutter Premium will unlock the following features:         \\n\\n\\u2022 All Custom Tiles         \\n\\u2022 Screen Recording &amp; Capture         \\n\\u2022 Quick Reminder         \\n\\u2022 Clipboard Editor         \\n\\u2022 App Launcher         \\n\\u2022 Additional in-app configuration options         \\n  &amp; Remove the 60 tile click notification</string>
+    <string name="built_vol_ui_sum">Shortcutter Özel Paneli</string>
+    <string name="override_volume">Sistem Ses Panelini Geçersiz Kıl</string>
+    <string name="sys_vol">Sistem Paneli</string>
+    <string name="power_intercept">Erişilebilirlik Hizmeti Gerekli.</string>
+    <string name="prem_ben">\\nShortcutter Premium\'u satın almak, aşağıdaki özelliklerin kilidini açar:         \\n\\n\\u2022 Tüm Özel Sekmeler         \\n\\u2022 Ekran Kaydı &amp; Yakalama         \\n\\u2022 Hızlı Hatırlatıcı         \\n\\u2022 Pano Düzenleyici         \\n\\u2022 Uygulama Başlatıcı         \\n\\u2022 Ek uygulama içi yapılandırma seçenekleri         \\n  &amp; 60 sekme tıklama bildirimini kaldırma</string>
 </resources>
