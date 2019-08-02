@@ -19,7 +19,7 @@
     <string name="haptic">Potwierdzenie Wibracją</string>
     <string name="root_required1">Dostęp do Roota przyznany</string>
     <string name="select_net_mode">Wybierz Tryb Sieci</string>
-    <string name="exit">Wyjdź</string>
+    <string name="exit">Wyjście</string>
     <string name="root_access">Funkcje Roota</string>
     <string name="enable_root_features">Włącz Funkcje Roota</string>
     <string name="root_features_enabled">Funkcje Roota Włączone</string>
@@ -110,7 +110,7 @@
     <string name="subscription_error">Twoje urządzenie nie wspiera subskrypcji.</string>
     <string name="iab_async_error">Błąd uruchomienia zakupu. Kolejna próba synchronizacji zakupu w toku.</string>
     <string name="onetimefee2">Odblokuj</string>
-    <string name="onetimefee5">Unlock\n+(Napiwek)</string>
+    <string name="onetimefee5">Odblokuj\n+(Napiwek)</string>
     <string name="donation2">Odblokuj Licencję</string>
     <string name="donation5">Odblokuj + Napiwek Licencja</string>
     <string name="detected">Wykryto</string>
@@ -127,7 +127,7 @@
     <string name="old_licene">Wykryto stary styl klucza premium</string>
     <string name="all_prices_subject_to_tax_vat">Wszystkie zakupy zawierają VAT*
 	     \n\nKupienie Shortcutter Premium usuwa limit 60 kliknięć oraz daje dostęp do większej ilości płytek i funkcji aplikacji.</string>
-    <string name="allofthe">Wszystkie z poniższych opcji da Ci dostęp do premium,</string>
+    <string name="allofthe">Wszystkie z poniższych opcji dadzą Ci dostęp do premium,</string>
     <string name="volumeui">Panel
 	    \nGłośności</string>
     <string name="manualbright">Ręczna
@@ -797,7 +797,7 @@
     <string name="apm_intercept">Zastąp Menu Zasilania Systemu</string>
     <string name="shortcut_sets">Specyficzne Ustawienia Shortcut</string>
     <string name="also_standalone">Twoja wersja próbna właśnie wygasła.</string>
-    <string name="man_qs">Zarządzanie płytki Opuszczanego Menu Szybkich Ustawień</string>
+    <string name="man_qs">Zarządzanie płytkami Menu Szybkich Ustawień</string>
     <string name="launcher_shorts"><![CDATA[Skróty i Ikony Launchera]]></string>
     <string name="standalone">Niezależny</string>
     <string name="label">Etykieta</string>
