@@ -831,13 +831,15 @@
 	     \n\u2022 Uygulama Başlatıcı         
 	     \n\u2022 Ek uygulama içi yapılandırma seçenekleri         
 	     \n  &amp; 60 sekme tıklama bildirimini kaldırma</string>
-    <string name="notification_listener">Notification Listener</string>
-    <string name="notif_list">Services requiring notification access:
-        \n\n* Volume Panel\n- Detect cast dialog &amp; stop intercept.
-        \n* Notification Blocker (Oreo +)
-        \n- block the \"Running In Background\" notification.
-        \n* Night Light/Desk Clock (When Active)
-        \n- display active notification count.
-        \n\nThe only information scanned by Shortcutter is package name\'s, no notification content is stored.</string>
-    <string name="left">Position Left</string>
+    <string name="notification_listener">Bildirim Dinleyici</string>
+    <string name="notif_list">Bildirim erişimi gerektiren hizmetler:
+        \n\n* Ses Paneli\n- Yayın ekranını algıla ve engellemeyi durdur
+        \n* Bildirim Engelleyici (Oreo +)
+        \n- \"Arka Planda Çalışıyor\" bildirimini engelle.
+        \n* Gece Lambası/Masa Saati (Aktif Olduğunda)
+        \n- aktif bildirim sayısını göster.
+        \n\nShortcutter tarafından taranan tek bilgi paket adıdır, bildirim içeriği saklanmaz.</string>
+    <string name="left">Sola Koy</string>
+    <string name="block_power_locked_title">Güvenli Güç Menüsü</string>
+    <string name="block_power_locked_sum">Cihaz kilitliyken sistem güç penceresini engelle</string>
 </resources>
