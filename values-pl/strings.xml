@@ -19,7 +19,7 @@
     <string name="haptic">Potwierdzenie Wibracją</string>
     <string name="root_required1">Dostęp do Roota przyznany</string>
     <string name="select_net_mode">Wybierz Tryb Sieci</string>
-    <string name="exit">Wyjście</string>
+    <string name="exit">Wyjść</string>
     <string name="root_access">Funkcje Roota</string>
     <string name="enable_root_features">Włącz Funkcje Roota</string>
     <string name="root_features_enabled">Funkcje Roota Włączone</string>
@@ -795,7 +795,7 @@
     <string name="home_sum">Emuluje przycisk home</string>
     <string name="back_sum">Emuluje przycisk wstecz</string>
     <string name="apm_intercept">Zastąp Menu Zasilania Systemu</string>
-    <string name="shortcut_sets">Specyficzne Ustawienia Shortcut</string>
+    <string name="shortcut_sets">Specyficzne Ustawienia Shortcutter</string>
     <string name="also_standalone">Twoja wersja próbna właśnie wygasła.</string>
     <string name="man_qs">Zarządzanie płytkami Menu Szybkich Ustawień</string>
     <string name="launcher_shorts"><![CDATA[Skróty i Ikony Launchera]]></string>
