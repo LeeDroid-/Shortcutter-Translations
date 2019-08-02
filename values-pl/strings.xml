@@ -840,7 +840,7 @@
     <string name="sys_vol">Panel Systemowy</string>
     <string name="notification_listener">Odbiór Powiadomień</string>
     <string name="notif_list">Usługi wymagające dostępu do powiadomień:
-        \n\n* Panel Glośności\n- Wykryj okno dialogowe przesyłania & Przestań przechwytywać.
+        \n\n* Panel Glośności\n- Wykryj okno dialogowe przesyłania &amp; Przestań przechwytywać.
         \n* Blokowanie Powiadomień (Oreo +)
         \n- Zablokuj powiadomienie „Uruchom w tle”..
         \n* Lampka nocna / zegar na biurko (gdy aktywny)
