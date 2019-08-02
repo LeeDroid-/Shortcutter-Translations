@@ -841,5 +841,5 @@
         \n\nShortcutter tarafından taranan tek bilgi paket adıdır, bildirim içeriği saklanmaz.</string>
     <string name="left">Sola Koy</string>
     <string name="block_power_locked_title">Güvenli Güç Menüsü</string>
-    <string name="block_power_locked_sum">Cihaz kilitliyken sistem güç penceresini engelle</string>
+    <string name="block_power_locked_sum">Cihaz kilitliyken sistem güç penceresini engeller</string>
 </resources>
