@@ -519,7 +519,7 @@
     <string name="forceEnglish">Wymuś Język Angielski</string>
     <string name="force_eng_summary">Uruchom aplikację w Jezyku Angielskim</string>
     <string name="xiaomi">Twoje urządzenie wymaga, aby aplikacja uzyskała uprawnienia do automatycznego uruchamiania usługi Shortcutter w tle, inaczej usługi zostaną zamknięte, jeśli nie jest ona włączona. \n\nProsimy kliknąć pozycję Uruchom &amp; włączyć automatyczne uruchamianie Shortcutter.</string>
-    <string name="bat_opt"><![CDATA[Shortcutter  zawiera kilka usług w tle, w niektórych przypadkach Android może zabić te usługi, gdy urządzenie przechodzi w głęboki sen, aby zignorować ten problem, zaleca się wyłączenie Optymalizacji akumulatora za pomocą skrótu za pomocą opcji Ustawienia> Zasilanie. \n\nMam nadzieję, że polubisz aplikację!]]></string>
+    <string name="bat_opt"><![CDATA[Shortcutter  zawiera kilka usług w tle, w niektórych przypadkach Android może zamknąć te usługi, gdy urządzenie przechodzi w głębokie uśpienie, aby zignorować ten problem, zaleca się wyłączenie Optymalizacj baterii za pomocą skrótu w opcji Ustawienia> Zasilanie. \n\nMam nadzieję, że polubisz aplikację!]]></string>
 
 
     <string name="failed_window_add">Nie udało się dodać okna, otwórz aplikację i upewnij się, że przyznano uprawnienia nakładki ekranu</string>
@@ -823,28 +823,28 @@
     <string name="padding_12">Wielkość Srodka: 12</string>
     <string name="iconscale_12">Skalowanie Ikon: 12</string>
     <string name="sb_rows_title">Rzędy paska bocznego</string>
-    <string name="sb_rows_summary">Prąd = %s Rzędy</string>
-    <string name="immersive_off">Immersive Off</string>
+    <string name="sb_rows_summary">Rząd = %s Rzędy</string>
+    <string name="immersive_off">Wyłacz Rozszerzenie</string>
     <string name="developer_options">Opcje dla programistów</string>
     <string name="dev_summary">Otwiera opcje dla programistów, jeśli są włączone.</string>
     <string name="open">Otwarte</string>
-    <string name="built_vol_ui_sum">Shortcutter Custom Panel</string>
-    <string name="override_volume">Override System Volume Panel</string>
-    <string name="power_intercept">Accessibility Service Required.</string>
-    <string name="prem_ben">\nPurchasing Shortcutter Premium will unlock the following features:
+    <string name="built_vol_ui_sum">Własny Panel Shortcutter</string>
+    <string name="override_volume">Zastąp Systemowy Panel Głośności</string>
+    <string name="power_intercept">Wymagana Usługa Dostępności.</string>
+    <string name="prem_ben">\nZakup Premium Shortcutter odblokuje następujące funkcje:
         \n\n \u2022 Wiecej Własnych Płytek Aplikacji
 		\n \u2022 Więcej Własnych Płytek Adresów URL
 		\n \u2022 Nagrywanie i Zrzuty Ekranu
 		\n \u2022 Więcej opcji konfiguracji samej aplikacji
 		\n \u2022 usunięcie powiadomienia co 60 kliknięć</string>
-    <string name="sys_vol">System Panel</string>
-    <string name="notification_listener">Notification Listener</string>
-    <string name="notif_list">Services requiring notification access:
-        \n\n* Volume Panel\n- Detect cast dialog &amp; stop intercept.
-        \n* Notification Blocker (Oreo +)
-        \n- block the \"Running In Background\" notification.
-        \n* Night Light/Desk Clock (When Active)
-        \n- display active notification count.
-        \n\nThe only information scanned by Shortcutter is package name\'s, no notification content is stored.</string>
-    <string name="left">Position Left</string>
+    <string name="sys_vol">Panel Systemowy</string>
+    <string name="notification_listener">Odbiór Powiadomień</string>
+    <string name="notif_list">Usługi wymagające dostępu do powiadomień:
+        \n\n* Panel Glośności\n- Wykryj okno dialogowe przesyłania & Przestań przechwytywać.
+        \n* Blokowanie Powiadomień (Oreo +)
+        \n- Zablokuj powiadomienie „Uruchom w tle”..
+        \n* Lampka nocna / zegar na biurko (gdy aktywny)
+        \n- Wyświetla liczbę aktywnych powiadomień.
+        \n\nJedyne informacje skanowane przez Shortcutter to nazwa paczki, żadna treść powiadomienia nie jest przechowywana.</string>
+    <string name="left">Pozycja po Lewej</string>
 </resources>
