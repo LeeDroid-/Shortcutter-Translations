@@ -16,7 +16,7 @@
     <string name="adb">ADB</string>
     <string name="NetMode">Modo de Rede</string>
     <string name="haptic">Resposta de Vibração</string>
-    <string name="root_required1">Necessário acesso root para concluir</string>
+    <string name="root_required1">Necessário acesso Root para concluir</string>
     <string name="select_net_mode">Selecionar Modo de Rede</string>
     <string name="exit">Sair</string>
     <string name="root_access">Funcionalidades Root</string>
@@ -56,7 +56,7 @@
     <string name="ring_mode">Modo de Toque</string>
     <string name="Screen_timeout">Tempo de Suspensão</string>
     <string name="alarm_tile">Próximo Alarme</string>
-    <string name="need_dnd">Sem Permissão, por favor autorize shortcutter a ignorar Não Incomodar</string>
+    <string name="need_dnd">Sem Permissão, por favor autorize Shortcutter a ignorar Não Incomodar</string>
     <string name="next_alarm">Próximo Alarme\n</string>
     <string name="vibrate">Vibrar</string>
     <string name="ring">Tocar</string>
@@ -84,13 +84,13 @@
     <string name="disabled">Desativado</string>
     <string name="enabled">Ativado</string>
     <string name="splash_3">Configurações Rápidas Personalizadas para Android</string>
-    <string name="by_leedroid">Creado By LeeDrOiD</string>
+    <string name="by_leedroid">Criado Por LeeDrOiD</string>
     <string name="welcome_to_shortcutter">Bem-vindo A</string>
     <string name="Immersive">Modo Imersivo</string>
     <string name="manual_secure_summary">Dê autorização de acesso a Definições Protegidas a Shortcutter para ativar Mosaicos CR adicionais (Conhecimentos de PC &amp; ADB são necessários)</string>
     <string name="secure_access">Definições Protegidas</string>
     <string name="action_required">Ação Necessária</string>
-    <string name="settings_secure_instruct">Pode manualmente dar acessa a Definições Protegidas a Shortcutter, permitindo maior controle sobre o sistema.\n\nA partir do PC vá a www.leedroid.co.uk/#SettingsSecureGuide e siga as instruções.\n\n</string>
+    <string name="settings_secure_instruct">Pode manualmente dar acesso a Definições Protegidas a Shortcutter, permitindo maior controle sobre o sistema.\n\nA partir do PC vá a www.leedroid.co.uk/#SettingsSecureGuide e siga as instruções.\n\n</string>
     <string name="confirm">CONFIRMAR</string>
     <string name="screenshot">Screenshot</string>
     <string name="stop_recording"> Começar Gravação </string>
@@ -99,24 +99,24 @@
     <string name="close">Fechar</string>
     <string name="record_audio">Gravar Áudio</string>
     <string name="show_touches">Mostrar Toques</string>
-    <string name="subscription_error">O seu diispositivo não suporta assinaturas.</string>
+    <string name="subscription_error">O seu dispositivo não suporta assinaturas.</string>
     <string name="iab_async_error">Erro a lança serviço de compra. Está a decorrer outra operação.</string>
-    <string name="onetimefee2">Unlock</string>
-    <string name="onetimefee5">Unlock\n+(Gratuity)</string>
-    <string name="donation2">Unlock License</string>
-    <string name="donation5">Unlock + Gratuity License</string>
+    <string name="onetimefee2">Desbloquear</string>
+    <string name="onetimefee5">Desbloquear\n+(Consideração)</string>
+    <string name="donation2">Licença de Desbloquear</string>
+    <string name="donation5">Desbloquear + Licença de Consideração</string>
     <string name="detected">Detetada</string>
     <string name="yes">Sim</string>
     <string name="subscription">Ou uma Assinatura</string>
     <string name="thankyoumultiple">Detetadas várias licenças! \nObrigado pelo seu apoio!</string>
     <string name="thankyou">Obrigado pelo seu apoio!</string>
-    <string name="iab_error">Compras na Aplicação ainda não suportadas no seu dispositivo.\n\nWould you like to purchase a Premium key via the play store?</string>
+    <string name="iab_error">Compras na Aplicação ainda não suportadas no seu dispositivo.\n\nQuer comprar uma chave Premium plea Play Store?</string>
     <string name="no">Não</string>
     <string name="settings_license">LICENÇA</string>
     <string name="no_licence">Nenhuma Licença Encontrada</string>
     <string name="old_licene">Chave Premium detetada</string>
     <string name="all_prices_subject_to_tax_vat">Todos os preços incluem Impostos/IVA*\n\nComprar Shortcutter Premium retira a notificação a cada 60 cliques e ativa Mosaicos de Configurações Rápidas e funcionalidades da app adicionais.</string>
-    <string name="allofthe">Qualquer das opções abaixo dá acesso premium, a escolha é sua :)</string>
+    <string name="allofthe">Qualquer das opções abaixo dá acesso Premium, a escolha é sua :)</string>
     <string name="volumeui">Painel de\nVolume</string>
     <string name="manualbright">Brilho\nManual</string>
     <string name="autobrightness">Brilho\nAutomático</string>
@@ -124,7 +124,7 @@
     <string name="qbright_lev">Brilho\n%1$d%%</string>
     <string name="noalarm">Sem\nAlarmes</string>
     <string name="availableram">RAM\nDisponível</string>
-    <string name="network_mode">Mosaico Mode de Rede</string>
+    <string name="network_mode">Mosaico Modo de Rede</string>
     <string name="network_mode_summary">Seleção de Banda de Rede</string>
     <string name="adb_summary">Ativar/Desativar ADB</string>
     <string name="adbtile">Mosaico ADB</string>
@@ -147,8 +147,8 @@
     <string name="location_tile_title">Mosaico Modo de Localização</string>
     <string name="ram_tile_title">Mosaico RAM</string>
     <string name="ram_summary">Mostra RAM disponível e total com atalho para informações de RAM</string>
-    <string name="reboot_summary">Opens an advanced (Root) power menu</string>
-    <string name="reboot_tile_title">Advanced Power Menu</string>
+    <string name="reboot_summary">Abre um menu ligar/desligar avançado (Root)</string>
+    <string name="reboot_tile_title">Menu Ligar/Desligar avançado</string>
     <string name="ringmode_tile_title">Mosaico Modo de Toque</string>
     <string name="ringmode_summary">Alternar Modo de Toque Tocar/Vibrar/Silêncio</string>
     <string name="screenrecord_summary">Mosaico que grava tudo no ecrã do aparelho</string>
@@ -157,7 +157,7 @@
     <string name="screenshot_tile_title">Mosaico Screenshot</string>
     <string name="sync_tile_title">Mosaico Sincronização Automática</string>
     <string name="sync_summary">Ativa/Desativa Sincronização Automática</string>
-    <string name="timeout_summary">Alterna tempo de suspensã de ecrã</string>
+    <string name="timeout_summary">Alterna tempo de suspensão de ecrã</string>
     <string name="timeout_tile_title">Mosaico Suspensão de Ecrã </string>
     <string name="volumeui_tile_title">Mosaico Painel de Volume</string>
     <string name="volumeui_summary">Mostra o painel de volume</string>
@@ -199,7 +199,7 @@
     <string name="dice_desc">Gera um número aleatório \n(Mudar gama Change range em Definições de Mosaicos)</string>
     <string name="auto_step">Passo Brilho Automático</string>
     <string name="file_tile">Explorador de\nFicheiros</string>
-    <string name="file_summary">Abre o explorador de ficheiros pré-defiido</string>
+    <string name="file_summary">Abre o explorador de ficheiros pré-definido</string>
     <string name="new_tweet">Novo\nTweet</string>
     <string name="not_installed">Aplicação não instalada</string>
     <string name="new_tweet_summary">Envia um novo Tweet</string>
@@ -214,12 +214,12 @@
     <string name="togglenfc">Liga/Desliga\nNFC</string>
     <string name="nfctile">Mosaico NFC</string>
     <string name="nfctilesum">Liga/Desliga NFC</string>
-    <string name="app_open">Esta aplicação tem que ser executada antes de usar mosaicos/serviçoes\n\nPor favor esteja atento às próxima sinformações</string>
+    <string name="app_open">Esta aplicação tem que ser executada antes de usar mosaicos/serviçoes\n\nPor favor esteja atento às próxima informações</string>
     <string name="alert">Alerta Shortcutter</string>
     <string name="go_premium">Comprar Premium</string>
     <string name="another_purchase">Utilizadores que queiram mostrar apoio adicional podem usar ambas as opções de compra.</string>
     <string name="datausage">Utilização\nde Dados</string>
-    <string name="data_usage_perms">Shortcutter precisa de permissão paa aceder ao histórico de Utilização de Dados. \n\nPor favor qlique continuar, selecione Shortcutter e ativa acesso de utilização.\n\n</string>
+    <string name="data_usage_perms">Shortcutter precisa de permissão para aceder ao histórico de Utilização de Dados. \n\nPor favor clique continuar, selecione Shortcutter e ativa acesso de utilização.\n\n</string>
     <string name="reset_day">Ciclo inicia no dia %1$d de cada mês</string>
     <string name="select_day">Selecionar Dia de Início do Ciclo de Dados</string>
     <string name="data_cycle_reset">Ciclo de Utilização de Dados</string>
@@ -227,7 +227,7 @@
     <string name="data_tile_summary">Mostra Utilização de Dados\n(Muddar ciclo em Definições de Mosaicos)</string>
     <string name="data_tile_title">Mosaico Utilização de Dados</string>
     <string name="failed_data_usage">Falha ao abrir informação de utilização de dados</string>
-    <string name="how_to">Clique aqui para um guia simple de como adicionar Mosaicos de Configuração Rápida.</string>
+    <string name="how_to">Clique aqui para um guia simples de como adicionar Mosaicos de Configuração Rápida.</string>
     <string name="addtiles_title">Como Adicionar Mosaicos CR</string>
     <string name="small">Letra\nPequena</string>
     <string name="large">Letra\nGrande</string>
@@ -265,9 +265,9 @@
     <string name="split_sum">Ativar/Desativar Modo Ecrã Dividido</string>
     <string name="power_sum">Abrir o menu de desligar</string>
     <string name="admin_needed">Direitos de Administrador necessários</string>
-    <string name="admin_needed_long">Shortcutter precisa de dereitos de Administrador de sistema para bloquear o ecrã.\n\nPor favor clique continuar e ative dereitos de Administrador de sistema para usar este Mosaico CR.\n\n</string>
+    <string name="admin_needed_long">Shortcutter precisa de direitos de Administrador de sistema para bloquear o ecrã.\n\nPor favor clique continuar e ative direitos de Administrador de sistema para usar este Mosaico CR.\n\n</string>
     <string name="lock_sum">Bloqueia o ecrã</string>
-    <string name="immersive_active">Modo Imersivo Activo</string>
+    <string name="immersive_active">Modo Imersivo Ativo</string>
     <string name="select_time">Por favor selecione um tempo em mm:ss</string>
     <string name="search_tile">Pesquisa Web</string>
     <string name="search_summary">Abre Pesquisa Google</string>
@@ -280,7 +280,7 @@
     <string name="inear_summary">Encaminhar todo o áudio para o auricular</string>
     <string name="volUp">Volume +</string>
     <string name="volDown">Volume -</string>
-    <string name="cur_vol">Volume Arual = </string>
+    <string name="cur_vol">Volume Atual = </string>
     <string name="pause">Pausar\nMúsica</string>
     <string name="play">Tocar\nMúsica</string>
     <string name="play_pause">Tocar/Pausar Música</string>
@@ -315,7 +315,7 @@
     <string name="data_roaming">Roaming de Dados</string>
     <string name="dataroam_summary">Ativa/Desativa Roaming de Dados</string>
     <string name="quick_tiles_title">Número de Mosaicos em Vista Compacta</string>
-    <string name="manufact_depend">Personaliza  onúmero de Mosaicos CR mostrados na vista compacta.\nEsta modificação depende do fabricante.</string>
+    <string name="manufact_depend">Personaliza  o número de Mosaicos CR mostrados na vista compacta.\nEsta modificação depende do fabricante.</string>
     <string name="sidebar">BarraLateral/Caixa de Ferramentas Flutuante</string>
     <string name="sidebar_summary">Alterna Entre BarraLateral Deslizante e Caixa de Ferramentas Flutuante.</string>
     <string name="sidebar_pos">Posição de Deteção Horizontal</string>
@@ -326,13 +326,13 @@
     <string name="tb_tile_tint">Selecionar Cor Do Mosaico BarraLateral/Caixa de Ferramentas</string>
     <string name="tb_tile_text_tint">Selecionar Cor do Texto na BarraLateral/Caixa de Ferramentas</string>
     <string name="tb_reset_tint">Repor Preferências de Cor</string>
-    <string name="reset_conf">De certeza que quer repor todas as preferêcias de cor?</string>
+    <string name="reset_conf">De certeza que quer repor todas as preferências de cor?</string>
     <string name="trigger_colour_title">Selecionar Cor de Zona de Deteção</string>
-    <string name="filter_active">Filtro de Ecrã Activado</string>
+    <string name="filter_active">Filtro de Ecrã Ativado</string>
     <string name="filter_colour">Selecionar Cor de Filtro</string>
     <string name="filter_tile_title"> Mosaico Filtro de Ecrã</string>
     <string name="screen_filter">Filtro de Ecrã</string>
-    <string name="screen_filter_summary">Um filtro de ecrã para reduzir o cansaço visaul à noite (Modo Noturno)</string>
+    <string name="screen_filter_summary">Um filtro de ecrã para reduzir o cansaço visual à noite (Modo Noturno)</string>
     <string name="reset_filter">Repor Cor de Filtro</string>
     <string name="sideber_tmb_title">Posição de Deteção Vertical</string>
     <string name="tb_columns_title">Colunas da Caixa de Ferramentas</string>
@@ -345,18 +345,18 @@
     <string name="corners_scale_summary">Ajustar o raio dos cantos do ecrã</string>
     <string name="corner_colour">Selecionar Cor dos Cantos</string>
     <string name="how_it_works">Como Funciona</string>
-    <string name="attention">Por favor estaja atento ao Guia Como Adicionar Mosaicos CR no 2º separador.</string>
+    <string name="attention">Por favor esteja atento ao Guia Como Adicionar Mosaicos CR no 2º separador.</string>
     <string name="config_serv">Definições</string>
     <string name="screenshot_root">Usar Método de Screenshot Root</string>
-    <string name="screenshot_root_summary">Gera um screenshot usando o mecanismo de aptura do sistema</string>
-    <string name="corners_active">Cantos Arredondados Activos</string>
+    <string name="screenshot_root_summary">Gera um screenshot usando o mecanismo de captura do sistema</string>
+    <string name="corners_active">Cantos Arredondados Ativos</string>
     <string name="misc_tiles_cat">Outras Definições de Mosaicos</string>
     <string name="fancy_anim">Animação de refluxo</string>
     <string name="fancy_summary">Ativar/Desativar a animação de refluxo elegante</string>
     <string name="system_toggles">Mosaicos de Definições de Sistema</string>
     <string name="action_toggles">Mosaicos de Ação</string>
     <string name="info_toggles">Mosaicos de Informação</string>
-    <string name="sc_services">Shortcutter Micro Apps &amp; Services</string>
+    <string name="sc_services">Micro Apps &amp; Serviços Shortcutter</string>
     <string name="weather">Informação Meteorológica</string>
     <string name="weather_desc">Abre uma janela com o estado do tempo atual</string>
     <string name="location">A Atualizar Localização</string>
@@ -376,13 +376,13 @@
     <string name="qs_head_title">Mosaicos CR de Cabeçalho</string>
     <string name="acc_needed_corners">Este conteúdo sobreposto precisa de acesso a Acessibilidade para:
         \n\n \u2022 Detetar atividades seguras.
-        \n\nSe uma atividade segura for detetada, esta sobreposição pára automaticamente.
+        \n\nSe uma atividade segura for detetada, esta sobreposição para automaticamente.
         \n\nClique em continuar, escolha Shortcutter &amp; ative o serviço.\n\n</string>
     <string name="filter_off_secure">Filtro de Ecrã suspenso:
         \nAtividade Segura detetada</string>
     <string name="corners_off_secure">Cantos de Ecrã suspenso:
         \nAtividade Segura detetada</string>
-    <string name="launch_loc">Abre Definições \> Loalização/n(se não houver acesso a definições segurs)</string>
+    <string name="launch_loc">Abre Definições \> Localização/n(se não houver acesso a definições seguras)</string>
     <string name="full_title_header">Shortcutter\n &#160;&#160;&#160;Definições Rápidas v%1$s </string>
     <string name="nigh_light">Luz de Presença</string>
     <string name="brightness">Brilho do Ecrã</string>
@@ -423,14 +423,14 @@
     <string name="header">Remover Cabeçalho</string>
     <string name="review">\n Não se esqueça de deixar uma crítica espectacular na Play Store!</string>
     <string name="enjoying">Aprecie Shortcutter?</string>
-    <string name="counter">Countador\n+1</string>
-    <string name="expose_activity_summary">Aceda a estes comandos do ecrã inicial ou lista de aplicações, também permite ligar a outras aplicções como HTC Edge Sense, Second Displays &amp;. Tasker.</string>
+    <string name="counter">Contador\n+1</string>
+    <string name="expose_activity_summary">Aceda a estes comandos do ecrã inicial ou lista de aplicações, também permite ligar a outras aplicações como HTC Edge Sense, Second Displays &amp;. Tasker.</string>
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">Liga/Desliga WiFi</string>
     <string name="wifi_hotspot_summary">Liga/Desliga Zona WiFi Portátil</string>
     <string name="hotspot_tile">Zona WiFi</string>
     <string name="to_be_toggled">Escolha ações para controlar.</string>
-    <string name="swipe_out_close">Deslize para a esquerdadireita para fechar</string>
+    <string name="swipe_out_close">Deslize para a esquerda/direita para fechar</string>
     <string name="obscure_back"><![CDATA[Escurecer por Trás & Detetar Toques Exteriores]]></string>
     <string name="system_toggle_summary">Sujeito a compatibilidade SO/fabricante</string>
     <string name="experimental_settings">Funções Experimentais</string>
@@ -443,12 +443,12 @@
     <string name="perms_now">Permissões necessárias para mosaicos &amp; funções específicas</string>
     <string name="forceEnglish">Force English</string>
     <string name="force_eng_summary">Correr a aplicação em língua Inglesa</string>
-    <string name="xiaomi">O seu dispositivo requer autorização para que aplicações possam correr no arranque, serviçoes de fundo Shortcutter serão encerrados sem esta autorização.\n\nPor favor clique continuar &amp; ative início no arranque para Shortcutter.</string>
+    <string name="xiaomi">O seu dispositivo requer autorização para que aplicações possam correr no arranque, serviços de fundo Shortcutter serão encerrados sem esta autorização.\n\nPor favor clique continuar &amp; ative início no arranque para Shortcutter.</string>
     <string name="bat_opt"><![CDATA[Shortcutter tem v+arios serviços de fundo, nalguns casos, o Android pode encerrar estes serviços quando o aparelho entra em modo de hibernação, para evitar isso recomenda-se que desligue Otimização de Bateria para Shortcutter via Definições > Bateria.\n\nEspero que aprecie a aplicação!]]></string>
     <string name="failed_window_add">Falha a adicionar janela, por favor abra a aplicação e verifique qua a permissão Sobreposição foi concedida</string>
     <string name="monochrome">P&amp;B</string>
-    <string name="monochrome_summary">Mudar o ecrã para preto e btanco (Monocromático)</string>
-    <string name="launch_power">Abrir Definições \> Bateria\n(Se não tiver accesso a definições seguras)</string>
+    <string name="monochrome_summary">Mudar o ecrã para preto e branco (Monocromático)</string>
+    <string name="launch_power">Abrir Definições \> Bateria\n(Se não tiver acesso a definições seguras)</string>
     <string name="admin_access">Acesso de Administrador</string>
     <string name="admin_summary">Uso: Bloqueio de Ecrã</string>
     <string name="tb_tile_alpha">Transparência de Mosaicos</string>
@@ -478,7 +478,7 @@
     <string name="mute_media">Silenciar Média</string>
     <string name="mute_media_summary">Silencia o volume de multimédia</string>
     <string name="lock_root">Usar Método ROOT</string>
-    <string name="root_lock_sum">Envia um event do botão POWER usando a linha de comandos</string>
+    <string name="root_lock_sum">Envia um evento do botão POWER usando a linha de comandos</string>
     <string name="choose_activity">Selecionar Atividade</string>
     <string name="exp_notif">Expandir Notificações</string>
     <string name="quick_settings">Expandir Painel CR</string>
@@ -502,7 +502,7 @@
     <string name="choose_function">Escolha a função</string>
     <string name="cust_app_pref">Mosaicos que pode ligar a Aplicações, Atividades, Atalhos &amp; Ligações Web..</string>
     <string name="samsung_note">Nota importante para utilizadores de Samsung</string>
-    <string name="battery_opt">Como está a utilizar um aparelho Samsung, pode ter mmosaicos que deixam de responder passado algum tempo.</string>
+    <string name="battery_opt">Como está a utilizar um aparelho Samsung, pode ter mosaicos que deixam de responder passado algum tempo.</string>
     <string name="trig_alpha">Para retificar este problema, por favor exclua Shortcutter da otimização de bateria nas definições do aparelho.</string>
     <string name="opacity">Opacidade =</string>
     <string name="onehand">Modo de Uma Mão (Experimental)</string>
@@ -525,12 +525,12 @@
     <string name="unknown_sources">Permitir Fontes Desconhecidas</string>
     <string name="unknownsource_tile_summary">Permitir Fontes Desconhecidas / Instalação de apps que não vêm da loja</string>
     <string name="cast">Transmitir</string>
-    <string name="cast_summary">Abre a lista de dispositivos para Trasmitir Ecrã</string>
+    <string name="cast_summary">Abre a lista de dispositivos para Transmitir Ecrã</string>
     <string name="horizontal_scale">Escala Horizontal</string>
     <string name="vertical_scale">Escala Vertical</string>
     <string name="premium">Premium</string>
     <string name="free">GRÁTIS</string>
-    <string name="refresh_summary">Forçar atualização de Mosaicos dde Definições Rápidas Shortcutter (Usar quando os mosaicos deixarem de responder)</string>
+    <string name="refresh_summary">Forçar atualização de Mosaicos de Definições Rápidas Shortcutter (Usar quando os mosaicos deixarem de responder)</string>
     <string name="force_refresh">Forçar Atualização</string>
     <string name="vpn">VPN</string>
     <string name="vpn_summary">Abre Definições de VPN</string>
@@ -543,20 +543,20 @@
     <string name="recording">A Gravar Ecrã</string>
     <string name="change_theme">Tema Claro/Escuro</string>
     <string name="auto_start_rec">Iniciar Gravação Automaticamente</string>
-    <string name="cust_app_pref_root">Associar Aplicações, Actividades, Atalhos, Links Web &amp; Comandos de Shell.</string>
+    <string name="cust_app_pref_root">Associar Aplicações, Atividades, Atalhos, Links Web &amp; Comandos de Shell.</string>
     <string name="send_report">Enviar Relarório de Falha</string>
     <string name="close_app">Limpar Erro</string>
-    <string name="oops_error">Oops.. parece qur alguma coisa correu mal &amp; Shortcutter Falhou!  Desculpe o incómodo.</string>
-    <string name="rooted">O seu dispositivo parece ter acesso root! Gostaroa de ativar agora ativar as funções root?</string>
+    <string name="oops_error">Oops.. parece que alguma coisa correu mal &amp; Shortcutter Falhou!  Desculpe o incómodo.</string>
+    <string name="rooted">O seu dispositivo parece ter acesso root! Gostaria de ativar agora ativar as funções root?</string>
     <string name="change_log_title">Alterações Recentes</string>
     <string name="ok">Ok</string>
-    <string name="notification_blocker">Bloqueador de Notificationcões</string>
+    <string name="notification_blocker">Bloqueador de Notificações</string>
     <string name="notification_blocker_sum">Esconder notificação de aplicação em segundo plano do Oreo</string>
     <string name="confirmation_dialog">Mostrar Pedido de Confirmação</string>
     <string name="reboot_menu">Menu de Reinicialização</string>
     <string name="total_usage">Mostrar Utilização Total</string>
     <string name="total_usage_sum">Mostrar utilização de dados total ou separada em UP/Download</string>
-    <string name="notif_access">Para bloquear notificações temos que ativar um Notification Listener.\\n\\nEsta funcionalidade vai apenas ficar à escuta de notificações do sistema Android com o texto \\\"executada em segundo plano\\\" que serão removidas.\\n\\n Por favor clique em avançar &amp; o Bloqueador de Notificações Shortcutters.</string>
+    <string name="notif_access">Para bloquear notificações temos que ativar um Servió de Notificações.\\n\\nEsta funcionalidade vai apenas ficar à escuta de notificações do sistema Android com o texto \\\"executada em segundo plano\\\" que serão removidas.\\n\\n Por favor clique em avançar &amp; o Bloqueador de Notificações Shortcutters.</string>
     <string name="left_sum">Definir modo de uma mão para a esquerda</string>
     <string name="wake_show_notif">Notificação ao Ligar Ecrã</string>
     <string name="bonus_features">Funções Bónus</string>
@@ -574,8 +574,8 @@
     <string name="all_apps_summary">Lista de aplicações pesquisável e filtrável Shortcutter</string>
     <string name="stopwatch_summary">Um útil cronómetro</string>
     <string name="select_apps">Selecionar Aplicações</string>
-    <string name="immersive_apps">Iniciar modo imerssivo in certas aplicações</string>
-    <string name="clipboard">Editor de Área de Tranferência</string>
+    <string name="immersive_apps">Iniciar modo imersivo in certas aplicações</string>
+    <string name="clipboard">Editor de Área de Transferência</string>
     <string name="notif_log">Registo de Notificações</string>
     <string name="notif_log_sum">Abre o Registo de Notificações do sistema</string>
     <string name="quick_reminder">Lembrete Rápido</string>
@@ -623,7 +623,7 @@
     <string name="no_backup">Não foram encontradas cópias em</string>
     <string name="save_loc">Localização para Guardar</string>
     <string name="export">Exportar</string>
-    <string name="export_sum">Envia um ficheiro com as suas confugurações para Google Drive, DropBox ou outro serviço na núvem de onde pode recuperar mais tarde</string>
+    <string name="export_sum">Envia um ficheiro com as suas configurações para Google Drive, DropBox ou outro serviço na nuvem de onde pode recuperar mais tarde</string>
     <string name="q_calendar">Calendário Rápido</string>
     <string name="q_calendar_sum">Um Calendário em  popup com opções de criação e visualização ligadas ao calendário do sistema.</string>
     <string name="overlay_serv">Serviços de Sobreposição</string>
@@ -689,7 +689,7 @@
     <string name="tiles">Mosaicos =</string>
     <string name="loading_apps">A Carregar Aplicações…</string>
     <string name="text_shadow">Sombra de Texto</string>
-    <string name="sel_unsel">Seleciconar/Descilecionar Tudo</string>
+    <string name="sel_unsel">Selecionar/Desselecionar Tudo</string>
     <string name="reset">Redefinir</string>
     <string name="mono">Áudio Mono</string>
     <string name="mono_summary">Alternar auriculares entre áudio Stereo e Mono</string>
@@ -702,10 +702,10 @@
     <string name="additionaloptions">Opções de Desbloqueio Adicionais</string>
     <string name="locked_sum">Mosaicos de DR vibram se o aparelho estiver boqueado.</string>
     <string name="locked_tiles">Bloquear Mosaicos de DR</string>
-    <string name="transparent_widget">Shortcutter Glass Widget</string>
+    <string name="transparent_widget">Widget Shortcutter Transparente</string>
     <string name="manage_entries">Gerir Entradas</string>
     <string name="open_app">Iniciar Shortcutter</string>
-    <string name="share_men_sum">Ativar/Desativar items no menu partilha.</string>
+    <string name="share_men_sum">Ativar/Desativar itens no menu partilha.</string>
     <string name="share_menu">Menu Partilha</string>
     <string name="shortcutter_permissions_wake">Shortcutter precisa de permissão WakeLock para manter o ecrã ligado.</string>
     <string name="trigger_pos">Esquerda/Direita</string>
@@ -715,13 +715,13 @@
     <string name="shortcutter_notification">Canal de Notificação de Shortcutter</string>
     <string name="shortcut_sets">Definições Específicas de Atalhos</string>
     <string name="screen_off_sum">Clique aqui para mais informações.</string>
-    <string name="sc_opt">Shortcutter está a ser optimizado pelo sistema.</string>
+    <string name="sc_opt">Shortcutter está a ser otimizado pelo sistema.</string>
     <string name="sb_rows_title">Linhas da BarraLateral</string>
     <string name="screen_off">Parar Quando Desliga o Ecrã</string>
     <string name="sb_rows_summary">Atual = %s Linhas</string>
     <string name="sb_pos_title">Posição da BarraLateral</string>
     <string name="sb_pos_sum">Posição da BarraLateral Esquerda, Direita ou fundo</string>
-    <string name="rest_sysui">Riniciar SystemUI</string>
+    <string name="rest_sysui">Reiniciar SystemUI</string>
     <string name="rest_services">a Reiniciar Serviços</string>
     <string name="rename">Mudar Nome</string>
     <string name="pinned_shorts">Atalhos Favoritos.</string>
@@ -734,13 +734,13 @@
     <string name="launcher">Ecrã Inicial</string>
     <string name="add_home_icon">Adicionar Automaticamente ao Ecrã Inicial.</string>
     <string name="add_home_icon_sum">Adicionar um ícone ao ecrã inicial e à lista de aplicações.</string>
-    <string name="also_standalone">O seu periodo experimental terminou.</string>
-    <string name="apm_intercept">Substituir Menú do Sistema</string>
-    <string name="app_settings">Defiiniçõws da Aplicação</string>
-    <string name="auto_start_sum">Iniciar grabação de ecrã automaticamente quando premido o botão.</string>
+    <string name="also_standalone">O seu período experimental terminou.</string>
+    <string name="apm_intercept">Substituir Menu do Sistema</string>
+    <string name="app_settings">Definições da Aplicação</string>
+    <string name="auto_start_sum">Iniciar gravação de ecrã automaticamente quando premido o botão.</string>
     <string name="back">Retroceder</string>
     <string name="back_sum">Simula o botão de retroceder.</string>
-    <string name="clipboard_sin">Área de Tranferência:</string>
+    <string name="clipboard_sin">Área de Transferência:</string>
     <string name="conf_sb"><![CDATA[Configurar a BarraLateral & os seus Atalhos\'s]]></string>
     <string name="glob_settings">Definições Globais</string>
     <string name="glove_mode">Modo luva HTC</string>
@@ -753,24 +753,24 @@
     <string name="dev_summary">Abre Opções de Programador se estiverem activadas.</string>
     <string name="open">Abrir</string>
     <string name="built_vol_ui_sum">Painel Personalizado Shortcutter</string>
-    <string name="override_volume">Substituir Painel de Volumne do Sistema</string>
-    <string name="power_intercept">Necessista de Permissão de Acessibilidade.</string>
+    <string name="override_volume">Substituir Painel de Volume do Sistema</string>
+    <string name="power_intercept">Necessita de Permissão de Acessibilidade.</string>
     <string name="prem_ben">\nCompre Shortcutter Premium para desbloquear as segintes funcionalidades:
     \n\n\u2022 Todos os Mosaicos Personalizados      
     \n\u2022 Gravação &amp; Captura de ecrã 
     \n\u2022 Lembrete Rápido 
-    \n\u2022 Editor de Área de Tranferência         
+    \n\u2022 Editor de Área de Transferência         
     \n\u2022 Ecrã Inicial de Aplicações
     \n\u2022 Opções adicionais de configuração de aplicação
     \n  &amp; Remover a notificação a cada 60 cliques em mosaicos</string>
     <string name="sys_vol">Painel do Sistema</string>
-    <string name="notification_listener">Notification Listener</string>
-    <string name="notif_list">Services requiring notification access:
-        \n\n* Volume Panel\n- Detect cast dialog &amp; stop intercept.
-        \n* Notification Blocker (Oreo +)
-        \n- block the \"Running In Background\" notification.
-        \n* Night Light/Desk Clock (When Active)
-        \n- display active notification count.
-        \n\nThe only information scanned by Shortcutter is package name\'s, no notification content is stored.</string>
-    <string name="left">Position Left</string>
+    <string name="notification_listener">Serviço de Notificações</string>
+    <string name="notif_list">Serviços que necessitam de acesso a notificações:
+        \n\n* Painel de Volume\n- Detetar &amp; intercetar controlo de transmissão.
+        \n* Bloqueador de notificações (Oreo +)
+        \n- bloqueia a notificação \"Executada em segundo plano\".
+        \n* Luz Noturna/Relógio de Secretária (Quando Ativo)
+        \n- mostra o número de notificações ativas.
+        \n\nA única informação recolhida por Shortcutter é o nome da aplicação, o conteúdo da notificação não é guardado.</string>
+    <string name="left">Posicionar à Esquerda</string>
 </resources>
