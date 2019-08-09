@@ -90,7 +90,7 @@
     <string name="manual_secure_summary">Dê autorização de acesso a Definições Protegidas a Shortcutter para ativar Mosaicos CR adicionais (Conhecimentos de PC &amp; ADB são necessários)</string>
     <string name="secure_access">Definições Protegidas</string>
     <string name="action_required">Ação Necessária</string>
-    <string name="settings_secure_instruct">Pode manualmente dar acesso a Definições Protegidas a Shortcutter, permitindo maior controle sobre o sistema.\n\nA partir do PC vá a www.leedroid.co.uk/#SettingsSecureGuide e siga as instruções.\n\n</string>
+    <string name="settings_secure_instruct">Pode manualmente dar acesso a Definições Protegidas a Shortcutter, permitindo maior controle sobre o sistema.\n\nA partir do PC vá a \'www.leedroid.co.uk/\#SettingsSecureGuide\' e siga as instruções.\n\n</string>
     <string name="confirm">CONFIRMAR</string>
     <string name="screenshot">Screenshot</string>
     <string name="stop_recording"> Começar Gravação </string>
@@ -773,4 +773,12 @@
         \n- mostra o número de notificações ativas.
         \n\nA única informação recolhida por Shortcutter é o nome da aplicação, o conteúdo da notificação não é guardado.</string>
     <string name="left">Posicionar à Esquerda</string>
+    <string name="latest">Please make sure you are on the latest version of the app.</string>
+    <string name="block_power_locked_title">Secure Power Menu</string>
+    <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
+    <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
+    <string name="block_power_locked_sum">Block the system power dialog when device is locked</string>
+    <string name="col_slide_colour">Slider Colour</string>
+    <string name="vol_panel_start_exp_title">Start Expanded</string>
+    <string name="vol_panel_start_exp_sum">Show all panels when opened.</string>
 </resources>

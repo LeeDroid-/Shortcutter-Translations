@@ -97,7 +97,7 @@
     <string name="secure_access">Settings Secure Access</string>
     <string name="action_required">Action Required</string>
     <string name="settings_secure_instruct">You can manually grant Shortcutter access to Secure Settings, allowing more control over the system.
-        \n\nFrom your PC go to www.leedroid.co.uk/\#SettingsSecureGuide &amp; follow the instructions.
+        \n\nFrom your PC go to \'www.leedroid.co.uk/\#SettingsSecureGuide\' &amp; follow the instructions.
         \n\n</string>
     <string name="confirm">CONFIRM</string>
     <string name="screenshot">Screenshot</string>
@@ -657,11 +657,32 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv7.0.8:
-        \n\u2022 Code optimisations.
+        \n\nv7.1.2
+        \n\u2022 Fix SystemUI Tuner Tile.
+        \n\u2022 Fix Settings Secure hyperlink.
+        \n\nv7.1.1:
+        \n\u2022 Fix crash in My Location.
+        \n\u2022 Call onClick in Floating Toolbox trigger.
+        \n\u2022 Add option to change Vol Slider colour.
+        \n\u2022 Remove APM Intercept &amp; block power on 8.1+.
+        \n- Google removed the hook and there is no alternative.
+        \n\u2022 Significant accessibility optimisation.
+        \n\nv7.1.0
+        \n\u2022 Fix Accessibility performance regression.
+        \n\u2022 Fix APM check box\'s.
+        \n\u2022 Bug Fix\'s &amp; clean-up\'s.
+        \n\nv7.0.9:
+        \n\u2022 Improve APM intercept and Power Menu blocker on android 7.
         \n\u2022 Translation updates.
+        \n\u2022 Make default vol slider stream optional.
+        \n\u2022 Fix vol panel notification.
+        \n\u2022 Corrections to weather service.
+        \n\u2022 Fix address line 2 in My Location.
+        \n\nv7.0.8:
+        \n\u2022 Make Night Light/Desk Clock available as DayDream Screen Saver.
+        \n\u2022 Stop system Volume Panel showing when overriding.
         \n\u2022 New security feature:
-        \n- Block power dialog when screen locked.
+        \n- Block power dialog when screen locked (Accessibility &amp; Premium Required).
         \n\u2022 New secure Awareness API keys.
         \n\u2022 Fix disabling SC Provided Vol Panel.
         \n\u2022 Shorten weather tile string.
@@ -670,6 +691,8 @@
         \n\u2022 New Notification Listener Service.
         \n\u2022 Block Vol Panel when casting (notification listener required).
         \n\u2022 Show unread notification count in Night Light (notification listener required).
+        \n\u2022 Code optimisations.
+        \n\u2022 Translation updates.
         \n\nv7.0.7:
         \n\u2022 Fix critical error in google awareness API access..
         \n\u2022 Fix accessibility service consuming key events.
@@ -1042,4 +1065,10 @@
         \n\nThe only information scanned by Shortcutter is package name\'s, no notification content is stored.</string>
     <string name="block_power_locked_title">Secure Power Menu</string>
     <string name="block_power_locked_sum">Block the system power dialog when device is locked</string>
+    <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
+    <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
+    <string name="latest">Please make sure you are on the latest version of the app.</string>
+    <string name="col_slide_colour">Slider Colour</string>
+    <string name="vol_panel_start_exp_title">Start Expanded</string>
+    <string name="vol_panel_start_exp_sum">Show all panels when opened.</string>
 </resources>

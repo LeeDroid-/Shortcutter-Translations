@@ -97,7 +97,7 @@
     <string name="secure_access">Ustawienia Zabezpieczeń</string>
     <string name="action_required">Wymagana Akcja</string>
     <string name="settings_secure_instruct">Musisz przyznać ręcznie uprawnienia Shortcutter do Ustawień Zabezpieczeń, Co pozwala na większą kontrolę nad systemem.
-	    \n\nZ komputera przejdź na www.leedroid.co.uk/#SettingsSecureGuide i podążaj za instrukcją.
+	    \n\nZ komputera przejdź na \'www.leedroid.co.uk/\#SettingsSecureGuide\' i podążaj za instrukcją.
 		\n\n</string>
     <string name="confirm">POTWIERDŹ</string>
     <string name="screenshot">Zrzut Ekranu</string>
@@ -847,4 +847,12 @@
         \n- Wyświetla liczbę aktywnych powiadomień.
         \n\nJedyne informacje skanowane przez Shortcutter to nazwa paczki, żadna treść powiadomienia nie jest przechowywana.</string>
     <string name="left">Pozycja po Lewej</string>
+    <string name="latest">Please make sure you are on the latest version of the app.</string>
+    <string name="block_power_locked_sum">Block the system power dialog when device is locked</string>
+    <string name="block_power_locked_title">Secure Power Menu</string>
+    <string name="col_slide_colour">Slider Colour</string>
+    <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
+    <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
+    <string name="vol_panel_start_exp_title">Start Expanded</string>
+    <string name="vol_panel_start_exp_sum">Show all panels when opened.</string>
 </resources>

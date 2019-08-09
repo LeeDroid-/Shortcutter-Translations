@@ -97,7 +97,7 @@
     <string name="secure_access">安全设置访问</string>
     <string name="action_required">需要操作</string>
     <string name="settings_secure_instruct">你可以手动授予 Shortcutter 安全设置权限，允许在系统上进行更多控制。
-        \n\n在你的 PC 上，前往 www.leedroid.co.uk/SettingsSecureGuide &amp; 遵循操作指南。
+        \n\n在你的 PC 上，前往 \'www.leedroid.co.uk/\#SettingsSecureGuide\' &amp; 遵循操作指南。
         \n\n</string>
     <string name="confirm">确认</string>
     <string name="screenshot">截屏</string>
@@ -839,4 +839,12 @@
         \n- display active notification count.
         \n\nThe only information scanned by Shortcutter is package name\'s, no notification content is stored.</string>
     <string name="left">Position Left</string>
+    <string name="latest">Please make sure you are on the latest version of the app.</string>
+    <string name="block_power_locked_sum">Block the system power dialog when device is locked</string>
+    <string name="block_power_locked_title">Secure Power Menu</string>
+    <string name="col_slide_colour">Slider Colour</string>
+    <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
+    <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
+    <string name="vol_panel_start_exp_title">Start Expanded</string>
+    <string name="vol_panel_start_exp_sum">Show all panels when opened.</string>
 </resources>
