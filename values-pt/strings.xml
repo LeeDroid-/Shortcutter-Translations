@@ -773,12 +773,12 @@
         \n- mostra o número de notificações ativas.
         \n\nA única informação recolhida por Shortcutter é o nome da aplicação, o conteúdo da notificação não é guardado.</string>
     <string name="left">Posicionar à Esquerda</string>
-    <string name="latest">Please make sure you are on the latest version of the app.</string>
-    <string name="block_power_locked_title">Secure Power Menu</string>
-    <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
-    <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
-    <string name="block_power_locked_sum">Block the system power dialog when device is locked</string>
-    <string name="col_slide_colour">Slider Colour</string>
-    <string name="vol_panel_start_exp_title">Start Expanded</string>
-    <string name="vol_panel_start_exp_sum">Show all panels when opened.</string>
+    <string name="latest">Por favor confirme que tem instalada a versão mais recente da aplicação.</string>
+    <string name="block_power_locked_title">Menu Ligar/Desligar Seguro</string>
+    <string name="vol_panel_ring_as_default_sum">Controlar volume de Toque em vez de Média quando não está nada a tocar.</string>
+    <string name="vol_panel_ring_as_default">Volume de Toque por Defeito</string>
+    <string name="block_power_locked_sum">Bloquear o painel de ligar/desligar do sistema quando o aparelho estiver bloqueado.</string>
+    <string name="col_slide_colour">Cor do Controle</string>
+    <string name="vol_panel_start_exp_title">Iniciar Expandido</string>
+    <string name="vol_panel_start_exp_sum">Mostrar todos os paneis assim que abre.</string>
 </resources>
