@@ -842,10 +842,10 @@
     <string name="left">Sola Koy</string>
     <string name="block_power_locked_title">Güvenli Güç Menüsü</string>
     <string name="block_power_locked_sum">Cihaz kilitliyken sistem güç penceresini engeller</string>
-    <string name="latest">Please make sure you are on the latest version of the app.</string>
-    <string name="col_slide_colour">Slider Colour</string>
-    <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
-    <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
-    <string name="vol_panel_start_exp_title">Start Expanded</string>
-    <string name="vol_panel_start_exp_sum">Show all panels when opened.</string>
+    <string name="latest">Lütfen uygulamanın son sürümünde olduğunuzdan emin olun.</string>
+    <string name="col_slide_colour">Kaydırıcı Rengi</string>
+    <string name="vol_panel_ring_as_default">Varsayılan Olarak Zil Sesi</string>
+    <string name="vol_panel_ring_as_default_sum">Hiçbir şey çalmıyorken Medya yerine Zil Sesi Kontrol edilir.</string>
+    <string name="vol_panel_start_exp_title">Genişletilmiş Başlat</string>
+    <string name="vol_panel_start_exp_sum">Açıldığında tüm panelleri gösterir.</string>
 </resources>
