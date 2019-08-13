@@ -836,11 +836,11 @@
 	     \n\u2022 Дополнительные параметры конфигурации в приложении         
 	     \n  &amp; Удалить уведомление о щелчке 60 плиток</string>
     <string name="sys_vol">Системная панель</string>
-    <string name="notification_listener">Прослушивание уведомлений</string>
-    <string name="notif_list">Сервисы, которым требуется доступ к уведомлениям:
-        \n\n* Панель громкости\n- Определить диалоговое окно и остановить перехват.
-        \n* Блокировка уведомлений (Oreo +)
-        \n- заблокировать \"Запуск в фоновом режиме\" уведомление.
+    <string name="notification_listener">Notification Listener</string>
+    <string name="notif_list">Services requiring notification access:
+        \n\n* Volume Panel\n- Detect cast dialog &amp; stop intercept.
+        \n* Notification Blocker (Oreo +)
+        \n- block the \"Running In Background\" notification.
         \n* Night Light/Desk Clock (When Active)
         \n- display active notification count.
         \n\nThe only information scanned by Shortcutter is package name\'s, no notification content is stored.</string>
@@ -853,4 +853,7 @@
     <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
     <string name="vol_panel_start_exp_title">Start Expanded</string>
     <string name="vol_panel_start_exp_sum">Show all panels when opened.</string>
+    <string name="blacklist">Exclude Applications</string>
+    <string name="edit_widgets">Edit Widgets</string>
+    <string name="widget_not_enabled">Widget not active on home screen.</string>
 </resources>

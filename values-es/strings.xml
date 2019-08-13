@@ -839,12 +839,15 @@
         \n- mostrar el recuento de notificaciones activas.
         \n\nLa única información escaneada por Shortcutter es el nombre del paquete, no se almacena ningún contenido de la notificación.</string>
     <string name="left">Posición izquierda</string>
-    <string name="latest">Please make sure you are on the latest version of the app.</string>
-    <string name="block_power_locked_sum">Block the system power dialog when device is locked</string>
-    <string name="block_power_locked_title">Secure Power Menu</string>
-    <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
-    <string name="col_slide_colour">Slider Colour</string>
-    <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
-    <string name="vol_panel_start_exp_title">Start Expanded</string>
-    <string name="vol_panel_start_exp_sum">Show all panels when opened.</string>
+    <string name="latest">Por favor, asegúrate de tener la última versión de la aplicación.</string>
+    <string name="block_power_locked_sum">Bloquear el menú de apagado del sistema cuando el dispositivo esté bloqueado</string>
+    <string name="block_power_locked_title">Menú de apagado seguro</string>
+    <string name="vol_panel_ring_as_default">Volumen de timbre predeterminado</string>
+    <string name="col_slide_colour">Color del deslizador</string>
+    <string name="vol_panel_ring_as_default_sum">Control de timbre en lugar de multimedia cuando no se reproduce nada.</string>
+    <string name="vol_panel_start_exp_title">Iniciar Expandido</string>
+    <string name="vol_panel_start_exp_sum">Mostrar todos los paneles cuando se abre.</string>
+    <string name="blacklist">Exclude Applications</string>
+    <string name="edit_widgets">Edit Widgets</string>
+    <string name="widget_not_enabled">Widget not active on home screen.</string>
 </resources>

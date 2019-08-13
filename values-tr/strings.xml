@@ -848,4 +848,7 @@
     <string name="vol_panel_ring_as_default_sum">Hiçbir şey çalmıyorken Medya yerine Zil Sesi Kontrol edilir.</string>
     <string name="vol_panel_start_exp_title">Genişletilmiş Başlat</string>
     <string name="vol_panel_start_exp_sum">Açıldığında tüm panelleri gösterir.</string>
+    <string name="blacklist">Exclude Applications</string>
+    <string name="edit_widgets">Edit Widgets</string>
+    <string name="widget_not_enabled">Widget not active on home screen.</string>
 </resources>
