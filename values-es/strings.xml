@@ -298,12 +298,6 @@
     <string name="settings_system_required">Necesitas permisos para modificar los ajustes del sistema: Pulsa para activar</string>
     <string name="usage_access_required">Necesitas permisos de acceso: Pulsa para activar</string>
     <string name="dnd_required">Necesitas permisos de No molestar: Pulsa para activar</string>
-    <string name="accessibility_description">Permite que Shortcutter realice las siguientes acciones de accesibilidad
-        \n\n\u2022 Pantalla dividida
-        \n\u2022 Aplicaciones recientes
-        \n\u2022 Mostrar menú de apagado
-        \n\u2022 Notificaciones y ajustes rápidos
-        \n\u2022 Detectar actividades: Necesario para el filtro y esquinas de pantalla, estos servicios se detendrán cuando se instalen las aplicaciones y se otorguen los permisos.</string>
     <string name="power_dialog">Menú de apagado</string>
     <string name="split_screen">Multiventana</string>
     <string name="lock_screen">Bloqueo de
@@ -311,13 +305,6 @@
     <string name="screen_lock_admin">Es necesario para usar el \"bloqueo de pantalla\" la ficha de ajustes rápidos</string>
     <string name="acc_needed">Necesitas acceso de accesibilidad</string>
     <string name="recents_sum">Abre la pantalla de aplicaciones recientes</string>
-    <string name="acc_needed_long">Shortcutter necesita acceso de accesibilidad para abrir/cerrar
-        \n\n\u2022 Aplicaciones recientes
-        \n\u2022 Menú de apagado
-        \n\u2022 Pantalla dividida
-        \n\u2022 Detectar actividades
-        \n - Necesario para el filtro y esquinas de pantalla, estos servicios se detendrán cuando se instalen las aplicaciones y se otorguen los permisos.
-        \n\nPulsa en continuar, ve a Shortcutter y activa el servicio.\n\n</string>
     <string name="split_sum">Activar/Desactivar pantalla dividida/modo multiventana.</string>
     <string name="power_sum">Abrir el menú de apagado</string>
     <string name="admin_needed">Necesitas permisos de administrador</string>
@@ -829,7 +816,7 @@
         \n \u2022 Grabación y captura de pantalla
         \n \u2022 Opciones adicionales en la aplicación
         \n \u2022 Elimina las notificaciones al realizar 60 pulsaciones</string>
-    <string name="sys_vol">Panel de sistema</string>
+    <string name="sys_vol">Panel del sistema</string>
     <string name="notification_listener">Receptor de Notificaciones</string>
     <string name="notif_list">Servicios que requieren acceso a las notificaciones:
         \n\n* Panel de volumen\n- Detectar diálogo y detenerlo
@@ -842,12 +829,27 @@
     <string name="latest">Por favor, asegúrate de tener la última versión de la aplicación.</string>
     <string name="block_power_locked_sum">Bloquear el menú de apagado del sistema cuando el dispositivo esté bloqueado</string>
     <string name="block_power_locked_title">Menú de apagado seguro</string>
-    <string name="vol_panel_ring_as_default">Volumen de timbre predeterminado</string>
+    <string name="vol_panel_ring_as_default">Volumen del tono de llamada predeterminado</string>
     <string name="col_slide_colour">Color del deslizador</string>
-    <string name="vol_panel_ring_as_default_sum">Control de timbre en lugar de multimedia cuando no se reproduce nada.</string>
+    <string name="vol_panel_ring_as_default_sum">Controla el volumen del tono de llamada en lugar del volumen multimedia cuando no haya nada reproduciendose.</string>
     <string name="vol_panel_start_exp_title">Iniciar Expandido</string>
     <string name="vol_panel_start_exp_sum">Mostrar todos los paneles cuando se abre.</string>
-    <string name="blacklist">Exclude Applications</string>
-    <string name="edit_widgets">Edit Widgets</string>
-    <string name="widget_not_enabled">Widget not active on home screen.</string>
+    <string name="blacklist">Excluir aplicaciones</string>
+    <string name="edit_widgets">Editar Widgets</string>
+    <string name="widget_not_enabled">El Widget no está activo en la pantalla de inicio.</string>
+    <string name="accessibility_description">Accessibility access allows shortcutter to perform the following actions/tasks:
+        \n\n\u2022 Detect Volume Key Press.
+        \n\u2022 Toggle Split Screen
+        \n\u2022 Toggle Recent Apps
+        \n\u2022 Show Power Menu
+        \n\u2022 Expand Notifications &amp; Quick Settings
+        \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
+        \n\n The only packages monitored are:
+        \n\u2022 Settings
+        \n\u2022 Package Installer
+        \n\n Key Presses:
+        \n\u2022 Vol +/- keys press detection.
+        \n\u2022 No other keys are captured.
+        \n - Only observed when volume panel override is enabled.</string>
+    <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
 </resources>

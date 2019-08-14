@@ -299,12 +299,6 @@
     <string name="settings_system_required">Wymaga uprawnień systemowych do zapisu - Przełącz aby włączyć</string>
     <string name="usage_access_required">Wymagany dostęp do Użycia Danych - Przełącz aby włączyć</string>
     <string name="dnd_required">Wymagany dostęp do Trybu Nie Przeszkadzać - Przełącz aby włączyć</string>
-    <string name="accessibility_description">Pozwala shortcutter na wykonywanie następujących czynności przy ułatwieniach dostępu
-	    \n\n\u2022 Przełączanie Podzielonego Ekranu
-		\n\u2022 Przełaczanie Ostatnich Aplikacji
-		\n\u2022 Pokazywanie Menu Zasilania
-		\n\u2022 Eksponowanie Powiadomień &amp; Szybkich Ustawień.
-		\n\u2022 Wykrywanie Aktywacji - Wymagane w przypadku filtrów ekranu i narożników ekranu usługi te zostaną zatrzymane, gdy aplikacje są instalowane i zostaną przyznane uprawnienia.</string>
     <string name="power_dialog">Menu Zasilania</string>
     <string name="split_screen">Podwójny Ekran</string>
     <string name="lock_screen">Blokada
@@ -312,14 +306,7 @@
     <string name="screen_lock_admin">Wymagane do korzystania z \"Blokada Ekranu\" Szybkie Ustawienia Płytek</string>
     <string name="acc_needed">Wymagane uprawnienia Ułatwień Dostępu</string>
     <string name="recents_sum">Otwiera ekran Ostatnie Aplikacje</string>
-    <string name="acc_needed_long">Shortcutter wymaga dostępu do Ułatwień Dostępu w celu przełączania:
-	    \n\n\u2022 Ostatnich Aplikacji
-		\n\u2022 Menu Zasilania
-		\n\u2022 Podzielonego Ekranu.
-		\n\u2022 Wykrywania Aktywności
-		\n - Wymagane w przypadku filtrów ekranu i narożników ekranu usługi te zostaną zatrzymane, gdy aplikacje są instalowane i zostaną przyznane uprawnienia.
-		\n\nKliknij przycisk kontynuuj, przejdź do Shortcutter i włącz usługę.\n\n</string>
-    <string name="split_sum">Przełączanie Dzielonego Ekranu / Tryb Multi Window</string>
+   <string name="split_sum">Przełączanie Dzielonego Ekranu / Tryb Multi Window</string>
     <string name="power_sum">Otwórz menu zasilania</string>
     <string name="admin_needed">Wymagane uprawnienia administratora</string>
     <string name="admin_needed_long">Shortcutter wymaga uprawnienia administratora, aby:\n\n
@@ -858,4 +845,19 @@
     <string name="blacklist">Exclude Applications</string>
     <string name="edit_widgets">Edit Widgets</string>
     <string name="widget_not_enabled">Widget not active on home screen.</string>
+    <string name="accessibility_description">Accessibility access allows shortcutter to perform the following actions/tasks:
+        \n\n\u2022 Detect Volume Key Press.
+        \n\u2022 Toggle Split Screen
+        \n\u2022 Toggle Recent Apps
+        \n\u2022 Show Power Menu
+        \n\u2022 Expand Notifications &amp; Quick Settings
+        \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
+        \n\n The only packages monitored are:
+        \n\u2022 Settings
+        \n\u2022 Package Installer
+        \n\n Key Presses:
+        \n\u2022 Vol +/- keys press detection.
+        \n\u2022 No other keys are captured.
+        \n - Only observed when volume panel override is enabled.</string>
+    <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
 </resources>

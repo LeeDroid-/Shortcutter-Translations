@@ -41,18 +41,8 @@
     <string name="acc_needed_corners">"Этот оверлей требует разрешение доступа к:
  Обнаружить разрешение.
 Если нет разрешения, тогда программа автоматически остановит этот оверлей.
-Нажмите кнопку продолжить, перейдите на Shortcutter и включите службу.
-"</string>
-    <string name="acc_needed_long">"Shortcutter требует специальных разрешений доступа для переключения последние приложений, меню питания, разделения экрана - необходимые для сетчатого фильтр и для углов экрана, эти службы будут остановлены, предоставить разрешения. 
-Нажмите кнопку продолжить, перейдите на Shortcutter и включите службу.
-"</string>
+Нажмите кнопку продолжить, перейдите на Shortcutter и включите службу.</string>
     <string name="acc_summary">Использование: Последние Приложения, меню Питание, Разделение экрана, развернутые уведомления &amp; Быстрой настройки, сетчатый фильтр &amp; Закругленные углы</string>
-    <string name="accessibility_description">"Позволяет Shortcutter выполненять следующих действия 
-• Разделение экрана 
-• Недавние приложения 
-• Показать меню питания 
-• Расширенные уведомления &amp; Быстрые настройки 
-• Обнаруживать деятельность - необходимые для сетчатого фильтра &amp; Углы экрана. Эти службы будут остановлены, когда приложения установлены &amp; разрешения необходимо предоставить."</string>
     <string name="action_required">Необходимые действия</string>
     <string name="action_toggles">Плитки действий</string>
     <string name="actual_tiles">Плитки действий = %1$d</string>
@@ -856,4 +846,19 @@
     <string name="blacklist">Exclude Applications</string>
     <string name="edit_widgets">Edit Widgets</string>
     <string name="widget_not_enabled">Widget not active on home screen.</string>
+    <string name="accessibility_description">Accessibility access allows shortcutter to perform the following actions/tasks:
+        \n\n\u2022 Detect Volume Key Press.
+        \n\u2022 Toggle Split Screen
+        \n\u2022 Toggle Recent Apps
+        \n\u2022 Show Power Menu
+        \n\u2022 Expand Notifications &amp; Quick Settings
+        \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
+        \n\n The only packages monitored are:
+        \n\u2022 Settings
+        \n\u2022 Package Installer
+        \n\n Key Presses:
+        \n\u2022 Vol +/- keys press detection.
+        \n\u2022 No other keys are captured.
+        \n - Only observed when volume panel override is enabled.</string>
+    <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
 </resources>

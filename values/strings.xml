@@ -311,25 +311,12 @@
     <string name="settings_system_required">Write System Settings permission required - Toggle to enable</string>
     <string name="usage_access_required">Usage Access permissions required - Toggle to enable</string>
     <string name="dnd_required">Do Not Distrurb access required - Toggle to enable</string>
-    <string name="accessibility_description">Allows shortcutter to perform the following accessibility actions
-        \n\n\u2022 Toggle Split Screen
-        \n\u2022 Toggle Recent Apps
-        \n\u2022 Show Power Menu
-        \n\u2022 Expand Notifications &amp; Quick Settings
-        \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.</string>
     <string name="power_dialog">Power Dialog</string>
     <string name="split_screen">Multi Window</string>
     <string name="lock_screen">Lock Screen</string>
     <string name="screen_lock_admin">Required to use the \"Lock Screen\" Quick Settings Tile</string>
     <string name="acc_needed">Accessibility access required</string>
     <string name="recents_sum">Emulates the recent apps button.</string>
-    <string name="acc_needed_long">Shortcutter requires Accessibility access to toggle
-        \n\n\u2022 Recent Apps
-        \n\u2022 Power Menu
-        \n\u2022 Split Screen
-        \n\u2022 Detect Activities
-        \n - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
-        \n\nClick proceed, go to Shortcutter &amp; enable the service.\n\n</string>
     <string name="split_sum">Toggle Split Screen / Multi Window Mode</string>
     <string name="power_sum">Open the power menu</string>
     <string name="admin_needed">Admin rights required</string>
@@ -657,9 +644,29 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv7.1.2
+        \n\nv7.1.7:
+        \n\u2022 Add elevation to dialogs.
+        \n\u2022 Update accessibility description.
+        \n\u2022 Fix item scaling in widgets.
+        \n\u2022 Add Edit Widget options to launcher section.
+        \n\u2022 Add search box to widgtet editor.
+        \n\u2022 Widget items now added in order of selection.
+        \n\u2022 Add Call Volume to Volume Panel.
+        \n\u2022 Fix bug in Cast max volume.
+        \n\u2022 Set DND/Silent on vol- from vibrate.
+        \n\u2022 Introduce app blacklisting for Vol Panel.
+        \n\u2022 If in call or playing media set vol to 75% when headset plugged/unplugged.
+        \n\u2022 Bug Fixes.
+        \n\nv7.1.3:
         \n\u2022 Fix SystemUI Tuner Tile.
         \n\u2022 Fix Settings Secure hyperlink.
+        \n\u2022 Begin mapping long press actions to pull-down tiles.
+        \n\u2022 Add Cast Volume to Volume Panel (when active).
+        \n\u2022 Improve Volume Panel enter/exit transition.
+        \n\u2022 Stop Volume Panel closing dialogs.
+        \n\u2022 Only show shortcut status toast when state has changed.
+        \n\u2022 Translation Updates.
+        \n\u2022 Bug Fixes.
         \n\nv7.1.1:
         \n\u2022 Fix crash in My Location.
         \n\u2022 Call onClick in Floating Toolbox trigger.
@@ -1074,4 +1081,19 @@
     <string name="blacklist">Exclude Applications</string>
     <string name="edit_widgets">Edit Widgets</string>
     <string name="widget_not_enabled">Widget not active on home screen.</string>
+    <string name="accessibility_description">Accessibility access allows shortcutter to perform the following actions/tasks:
+        \n\n\u2022 Detect Volume Key Press.
+        \n\u2022 Toggle Split Screen
+        \n\u2022 Toggle Recent Apps
+        \n\u2022 Show Power Menu
+        \n\u2022 Expand Notifications &amp; Quick Settings
+        \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
+        \n\n The only packages monitored are:
+        \n\u2022 Settings
+        \n\u2022 Package Installer
+        \n\n Key Presses:
+        \n\u2022 Vol +/- keys press detection.
+        \n\u2022 No other keys are captured.
+        \n - Only observed when volume panel override is enabled.</string>
+    <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
 </resources>

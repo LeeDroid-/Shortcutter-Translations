@@ -299,12 +299,6 @@
     <string name="settings_system_required">需要写入系统设置权限 - 点击以启用</string>
     <string name="usage_access_required">需要使用情况访问权限 - 点击以启用</string>
     <string name="dnd_required">需要勿扰模式访问 - 点击以启用</string>
-    <string name="accessibility_description">允许 Shortcutter 执行以下辅助操作
-        \n\n\u2022 开关分屏
-        \n\u2022 开关最近应用
-        \n\u2022 显示电源菜单
-        \n\u2022 展开通知 &amp; 快捷设置
-        \n\u2022 检测活动项 - 用于屏幕过滤 &amp; 屏幕圆角，这些服务将会在安装应用 &amp; 授予权限时停止。</string>
     <string name="power_dialog">电源对话框</string>
     <string name="split_screen">多窗口</string>
     <string name="lock_screen">锁定
@@ -312,13 +306,6 @@
     <string name="screen_lock_admin">需要使用 \"锁定屏幕\" 快捷设置瓷贴</string>
     <string name="acc_needed">需要无障碍访问</string>
     <string name="recents_sum">打开最近应用屏幕</string>
-    <string name="acc_needed_long">Shortcutter 需要无障碍访问才能开关
-        \n\n\u2022 最近应用
-        \n\u2022 电源菜单
-        \n\u2022 分屏
-        \n\u2022 检测活动项
-        \n - 用于屏幕过滤 &amp; 屏幕圆角，这些服务将会在安装应用 &amp; 授予权限时停止。
-        \n\n点击继续, 前往 Shortcutter &amp; 启用服务。\n\n</string>
     <string name="split_sum">开关分屏 / 多窗口模式</string>
     <string name="power_sum">打开电源菜单</string>
     <string name="admin_needed">需要管理员权限</string>
@@ -850,4 +837,19 @@
     <string name="blacklist">Exclude Applications</string>
     <string name="edit_widgets">Edit Widgets</string>
     <string name="widget_not_enabled">Widget not active on home screen.</string>
+    <string name="accessibility_description">Accessibility access allows shortcutter to perform the following actions/tasks:
+        \n\n\u2022 Detect Volume Key Press.
+        \n\u2022 Toggle Split Screen
+        \n\u2022 Toggle Recent Apps
+        \n\u2022 Show Power Menu
+        \n\u2022 Expand Notifications &amp; Quick Settings
+        \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
+        \n\n The only packages monitored are:
+        \n\u2022 Settings
+        \n\u2022 Package Installer
+        \n\n Key Presses:
+        \n\u2022 Vol +/- keys press detection.
+        \n\u2022 No other keys are captured.
+        \n - Only observed when volume panel override is enabled.</string>
+    <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
 </resources>

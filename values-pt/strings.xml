@@ -254,14 +254,12 @@
     <string name="settings_system_required">Permissão de Modificar Definições de Sistema necessária - Selecione para ativar</string>
     <string name="usage_access_required">Permissão de Acesso de Utilização necessária - Selecione para ativar</string>
     <string name="dnd_required">Permissão de Não Incomodar de sistema necessária - Selecione para ativar</string>
-    <string name="accessibility_description">Permitir a Shortcutter aplicar as seguintes ações de acessibilidade\n\nAtivar/Desativar modo Ecrã Dividido\nAbrir/Fechar Apps Recentes\nMostrar Menu Desligar</string>
     <string name="power_dialog">Menu Desligar</string>
     <string name="split_screen">Ecrã Dividido</string>
     <string name="lock_screen">Bloquear\nEcrã</string>
     <string name="screen_lock_admin">Necessário para usar o Mosaico de Configuração Rápida \"Bloquear Ecrã\"</string>
     <string name="acc_needed">Acesso de Acessibilidade necessário</string>
     <string name="recents_sum">Abre o ecrã da lista de apps recentes</string>
-    <string name="acc_needed_long">Shortcutter precisa de permissão de Acessibilidade para usar\n\nApps Recentes\nMenu Desligar\nEcrã Dividido\n\nClique para continuar, escolha Shortcutter e ative o serviço.\n\n</string>
     <string name="split_sum">Ativar/Desativar Modo Ecrã Dividido</string>
     <string name="power_sum">Abrir o menu de desligar</string>
     <string name="admin_needed">Direitos de Administrador necessários</string>
@@ -784,4 +782,19 @@
     <string name="blacklist">Exclude Applications</string>
     <string name="edit_widgets">Edit Widgets</string>
     <string name="widget_not_enabled">Widget not active on home screen.</string>
+    <string name="accessibility_description">Accessibility access allows shortcutter to perform the following actions/tasks:
+        \n\n\u2022 Detect Volume Key Press.
+        \n\u2022 Toggle Split Screen
+        \n\u2022 Toggle Recent Apps
+        \n\u2022 Show Power Menu
+        \n\u2022 Expand Notifications &amp; Quick Settings
+        \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
+        \n\n The only packages monitored are:
+        \n\u2022 Settings
+        \n\u2022 Package Installer
+        \n\n Key Presses:
+        \n\u2022 Vol +/- keys press detection.
+        \n\u2022 No other keys are captured.
+        \n - Only observed when volume panel override is enabled.</string>
+    <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
 </resources>
