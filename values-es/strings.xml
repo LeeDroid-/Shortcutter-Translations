@@ -809,7 +809,6 @@
     <string name="open">Abrir</string>
     <string name="built_vol_ui_sum">Panel personalizado</string>
     <string name="override_volume">Anular panel de volumen del sistema</string>
-    <string name="power_intercept">Se necesita servicio de accesibilidad.</string>
     <string name="prem_ben">\nLa compra de Shortcutter Premium desbloqueará las siguientes funciones:
         \n\n \u2022 Más fichas personalizadas
         \n \u2022 Más fichas URL personalizadas
@@ -829,27 +828,30 @@
     <string name="latest">Por favor, asegúrate de tener la última versión de la aplicación.</string>
     <string name="block_power_locked_sum">Bloquear el menú de apagado del sistema cuando el dispositivo esté bloqueado</string>
     <string name="block_power_locked_title">Menú de apagado seguro</string>
-    <string name="vol_panel_ring_as_default">Volumen del tono de llamada predeterminado</string>
+    <string name="vol_panel_ring_as_default">Volumen de timbre predeterminado</string>
     <string name="col_slide_colour">Color del deslizador</string>
-    <string name="vol_panel_ring_as_default_sum">Controla el volumen del tono de llamada en lugar del volumen multimedia cuando no haya nada reproduciendose.</string>
+    <string name="vol_panel_ring_as_default_sum">Controla el volumen del timbre en lugar del volumen multimedia cuando no haya nada reproduciendose.</string>
     <string name="vol_panel_start_exp_title">Iniciar Expandido</string>
     <string name="vol_panel_start_exp_sum">Mostrar todos los paneles cuando se abre.</string>
     <string name="blacklist">Excluir aplicaciones</string>
     <string name="edit_widgets">Editar Widgets</string>
     <string name="widget_not_enabled">El Widget no está activo en la pantalla de inicio.</string>
-    <string name="accessibility_description">Accessibility access allows shortcutter to perform the following actions/tasks:
-        \n\n\u2022 Detect Volume Key Press.
-        \n\u2022 Toggle Split Screen
-        \n\u2022 Toggle Recent Apps
-        \n\u2022 Show Power Menu
-        \n\u2022 Expand Notifications &amp; Quick Settings
-        \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
-        \n\n The only packages monitored are:
-        \n\u2022 Settings
-        \n\u2022 Package Installer
-        \n\n Key Presses:
-        \n\u2022 Vol +/- keys press detection.
-        \n\u2022 No other keys are captured.
-        \n - Only observed when volume panel override is enabled.</string>
-    <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
+    <string name="accessibility_description">El acceso de accesibilidad permite a Shortcutter realizar las siguientes acciones/tareas:
+        \n\n\u2022 Detectar cuando se presiona la tecla de volumen.
+        \n\u2022 Activar/Desactivar Pantalla Dividida
+        \n\u2022 Activar/Desactivar Aplicaciones recientes
+        \n\u2022 Mostrar el menú de apagado
+        \n\u2022 Expandir notificaciones y Ajustes rápidos
+        \n\u2022 Detectar actividades - Necesario para el filtro de pantalla y esquinas redondeadas, estos servicios se detendrán cuando se instalen aplicaciones y se concedan permisos.
+        \n\n Los únicos paquetes monitoreados son:
+        \n\u2022 Ajustes
+        \n\u2022 Instalador de paquetes
+        \n\n Pulsaciones de teclas:
+        \n\u2022 Detección de pulsaciones en la tecla de volumen.
+        \n\u2022 No se registran otras teclas.
+        \n - Sólo se observará cuando el control del panel de volumen esté activado.</string>
+    <string name="acc_needed_long">\nPresionar en Continuar y habilitar el servicio para dar acceso.\n</string>
+    <string name="volume_intercept">Accessibility Service Required.
+        \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
+        \n\nPlease click proceed and enable the service to override the system power menu.\n</string>
 </resources>

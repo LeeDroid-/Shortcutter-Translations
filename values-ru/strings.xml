@@ -186,7 +186,7 @@
     <string name="dev_loc_mode">Местоположение: &#160;</string>
     <string name="device_only">Только устройство</string>
     <string name="dewp">Точка росы: </string>
-    <string name="dice_desc">Генерация случайного номера 
+    <string name="dice_desc">Генерация случайного номера
 (Изменить диапазон в настройках плитки)</string>
     <string name="dice_desc_range">Выберите индивидуальный диапазон номеров для Плитки Dice</string>
     <string name="dice_tile_range">Диапазон</string>
@@ -816,7 +816,6 @@
     <string name="open">Открыть</string>
     <string name="built_vol_ui_sum">Пользовательская панель ярлыков</string>
     <string name="override_volume">Переопределить панель системных томов</string>
-    <string name="power_intercept">Требуется служба специальных возможностей.</string>
     <string name="prem_ben">\nПокупка Shortcutter Premium разблокирует следующие функции:
              \n\n\u2022 Все пользовательские плитки
 	     \n\u2022 Запись экрана и захват         
@@ -861,4 +860,7 @@
         \n\u2022 No other keys are captured.
         \n - Only observed when volume panel override is enabled.</string>
     <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
+    <string name="volume_intercept">Accessibility Service Required.
+        \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
+        \n\nPlease click proceed and enable the service to override the system power menu.\n</string>
 </resources>

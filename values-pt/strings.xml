@@ -752,7 +752,6 @@
     <string name="open">Abrir</string>
     <string name="built_vol_ui_sum">Painel Personalizado Shortcutter</string>
     <string name="override_volume">Substituir Painel de Volume do Sistema</string>
-    <string name="power_intercept">Necessita de Permissão de Acessibilidade.</string>
     <string name="prem_ben">\nCompre Shortcutter Premium para desbloquear as segintes funcionalidades:
     \n\n\u2022 Todos os Mosaicos Personalizados      
     \n\u2022 Gravação &amp; Captura de ecrã 
@@ -797,4 +796,7 @@
         \n\u2022 No other keys are captured.
         \n - Only observed when volume panel override is enabled.</string>
     <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
+    <string name="volume_intercept">Accessibility Service Required.
+        \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
+        \n\nPlease click proceed and enable the service to override the system power menu.\n</string>
 </resources>

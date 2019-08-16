@@ -809,7 +809,6 @@
     <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
     <string name="built_vol_ui_sum">Shortcutter Custom Panel</string>
     <string name="override_volume">Override System Volume Panel</string>
-    <string name="power_intercept">Accessibility Service Required.</string>
     <string name="sys_vol">"        "</string>
     <string name="prem_ben">\nPurchasing Shortcutter Premium will unlock the following features:
         \n\n \u2022 额外自定义瓷贴
@@ -852,4 +851,7 @@
         \n\u2022 No other keys are captured.
         \n - Only observed when volume panel override is enabled.</string>
     <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
+    <string name="volume_intercept">Accessibility Service Required.
+        \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
+        \n\nPlease click proceed and enable the service to override the system power menu.\n</string>
 </resources>

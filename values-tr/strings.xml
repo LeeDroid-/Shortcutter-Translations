@@ -809,7 +809,6 @@
     <string name="built_vol_ui_sum">Shortcutter Özel Paneli</string>
     <string name="override_volume">Sistem Ses Panelini Geçersiz Kıl</string>
     <string name="sys_vol">Sistem Paneli</string>
-    <string name="power_intercept">Erişilebilirlik Hizmeti Gerekli.</string>
     <string name="prem_ben">\nShortcutter Premium\'u satın almak, aşağıdaki özelliklerin kilidini açar:
              \n\n\u2022 Tüm Özel Sekmeler         
 	     \n\u2022 Ekran Kaydı &amp; Yakalama         
@@ -853,4 +852,7 @@
         \n\u2022 Başka hiçbir tuş yakalanmaz.
         \n - Sadece ses panelini geçersiz kılma etkin olduğunda gözlemlenir.</string>
     <string name="acc_needed_long">\nDevam et\'i tıklayın &amp; hizmeti etkinleştirmek için Shortcutter\'a gidin.\n</string>
+    <string name="volume_intercept">Accessibility Service Required.
+        \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
+        \n\nPlease click proceed and enable the service to override the system power menu.\n</string>
 </resources>

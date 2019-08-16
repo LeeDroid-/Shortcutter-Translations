@@ -306,7 +306,7 @@
     <string name="screen_lock_admin">Wymagane do korzystania z \"Blokada Ekranu\" Szybkie Ustawienia Płytek</string>
     <string name="acc_needed">Wymagane uprawnienia Ułatwień Dostępu</string>
     <string name="recents_sum">Otwiera ekran Ostatnie Aplikacje</string>
-   <string name="split_sum">Przełączanie Dzielonego Ekranu / Tryb Multi Window</string>
+    <string name="split_sum">Przełączanie Dzielonego Ekranu / Tryb Multi Window</string>
     <string name="power_sum">Otwórz menu zasilania</string>
     <string name="admin_needed">Wymagane uprawnienia administratora</string>
     <string name="admin_needed_long">Shortcutter wymaga uprawnienia administratora, aby:\n\n
@@ -817,7 +817,6 @@
     <string name="open">Otwarte</string>
     <string name="built_vol_ui_sum">Własny Panel Shortcutter</string>
     <string name="override_volume">Zastąp Systemowy Panel Głośności</string>
-    <string name="power_intercept">Wymagana Usługa Dostępności.</string>
     <string name="prem_ben">\nZakup Premium Shortcutter odblokuje następujące funkcje:
         \n\n \u2022 Wiecej Własnych Płytek Aplikacji
 		\n \u2022 Więcej Własnych Płytek Adresów URL
@@ -860,4 +859,7 @@
         \n\u2022 No other keys are captured.
         \n - Only observed when volume panel override is enabled.</string>
     <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
+    <string name="volume_intercept">Accessibility Service Required.
+        \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
+        \n\nPlease click proceed and enable the service to override the system power menu.\n</string>
 </resources>
