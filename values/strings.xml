@@ -645,8 +645,9 @@
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
         \n\nv7.2.3
-        \n\u2022 Reduce Vol Panel timeout to 3 seconds.
-        \n\u2022 Do not send close dialogs broadcast in vol panel.
+        \n\u2022 Reduce Vol Panel timeout to 3 seconds
+        \n\u2022 Fix vol Panel Override in android 7
+        \n\u2022 Do not send close dialogs broadcast in vol panel
         \n\u2022 Bug fixes.
         \n\nv7.2.2:
         \n\u2022 Fix QS Custom Tile 8
@@ -1108,5 +1109,5 @@
     <string name="OPEN_WEATHER_MAP_API_KEY" translatable="false">6b6ef671e2673ad9eef3c323fabf73c3</string>
     <string name="volume_intercept">Accessibility Service Required.
         \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
-        \n\nPlease click proceed and enable the service to override the system power menu.\n</string>
+        \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
 </resources>

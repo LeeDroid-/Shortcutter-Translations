@@ -861,5 +861,5 @@
     <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
     <string name="volume_intercept">Accessibility Service Required.
         \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
-        \n\nPlease click proceed and enable the service to override the system power menu.\n</string>
+        \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
 </resources>
