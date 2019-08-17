@@ -852,7 +852,7 @@
         \n\u2022 Başka hiçbir tuş yakalanmaz.
         \n - Sadece ses panelini geçersiz kılma etkin olduğunda gözlemlenir.</string>
     <string name="acc_needed_long">\nDevam et\'i tıklayın &amp; hizmeti etkinleştirmek için Shortcutter\'a gidin.\n</string>
-    <string name="volume_intercept">Accessibility Service Required.
-        \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
-        \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
+    <string name="volume_intercept">Erişilebilirlik Hizmeti Gerekli.
+        \n\nShortcutter, Erişilebilirlik Hizmetleri kullanımıyla yalnızca ses tuşlarına basmayı algılayabilir.
+        \n\nSistem ses panelini geçersiz kılmak için lütfen devam et\'e tıklayın ve hizmeti etkinleştirin.\n</string>
 </resources>
