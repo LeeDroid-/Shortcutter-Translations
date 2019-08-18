@@ -862,4 +862,6 @@
     <string name="volume_intercept">Accessibility Service Required.
         \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
         \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
+    <string name="tether_hot">Tethering &amp; Hotspot</string>
+    <string name="link_to_settings">A direct link to the Settings Activity</string>
 </resources>

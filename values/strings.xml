@@ -644,11 +644,19 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv7.2.3
+        \n\nv7.2.6:
+        \n\u2022 Disable Accessibility Key Listener if Vol Panel Override is off.
+        \n - Fixes Gestures and issues with apps like Netflix.
+        \n\u2022 Fix crash in app drawer.
+        \n\u2022 New Shortcut to Tethering &amp; Hotspot Settings.
+        \n\u2022 Reduce APK Size.
+        \n\nv7.2.5:
         \n\u2022 Reduce Vol Panel timeout to 3 seconds
         \n\u2022 Fix vol Panel Override in android 7
-        \n\u2022 Do not send close dialogs broadcast in vol panel
-        \n\u2022 Bug fixes.
+        \n\u2022 Do not send close dialog\'s broadcast in vol panel
+        \n\u2022 Widget scaling improvement\'s.
+        \n\u2022 Properly handle crash in service\'s, no error thrown.
+        \n\u2022 Countdown Timer - notify until cleared.
         \n\nv7.2.2:
         \n\u2022 Fix QS Custom Tile 8
         \n\u2022 Fix sidebar trigger positioning
@@ -1110,4 +1118,6 @@
     <string name="volume_intercept">Accessibility Service Required.
         \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
         \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
+    <string name="tether_hot">Tethering &amp; Hotspot</string>
+    <string name="link_to_settings">A direct link to the Settings Activity</string>
 </resources>
