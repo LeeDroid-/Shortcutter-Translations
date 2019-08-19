@@ -856,5 +856,5 @@
         \n\nShortcutter, Erişilebilirlik Hizmetleri kullanımıyla yalnızca ses tuşlarına basmayı algılayabilir.
         \n\nSistem ses panelini geçersiz kılmak için lütfen devam et\'e tıklayın ve hizmeti etkinleştirin.\n</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
-    <string name="link_to_settings">A direct link to the Settings Activity</string>
+    <string name="link_to_settings">Ayarlar Etkinliğine doğrudan bağlantı</string>
 </resources>
