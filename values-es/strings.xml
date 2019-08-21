@@ -419,7 +419,6 @@
     <string name="how_it_works4oreo"><u>Accesos directos Launcher</u>
         \n\n\u2022 Crea iconos adicionales para acceder a estos botones desde tu cajón de aplicaciones. Esto también activa el mapeado de otras aplicaciones como HTC Edge Sense, Second Displays y Tasker.
         \n\u2022 Añade hasta 85 accesos directos dinámicos a la pantalla de inicio.</string>
-    <string name="attention">Por favor, presta atención a la guía de añadir fichas en la pestaña 2.</string>
     <string name="config_serv">Ajustes</string>
     <string name="screenshot_root">Usar método de captura root</string>
     <string name="screenshot_root_summary">Hace una captura de pantalla usando el binario screencap del sistema</string>
@@ -436,7 +435,6 @@
     <string name="weather_desc">Lanza una ventana emergente con información del tiempo</string>
     <string name="location">Actualizando ubicación</string>
     <string name="temp">Temperatura:&#160;</string>
-    <string name="feels">Sensación térmica:&#160;</string>
     <string name="dewp">Punto de rocío:&#160;</string>
     <string name="weather_celsius">Unidad de temperatura</string>
     <string name="celsius">Centígrado</string>
@@ -831,8 +829,6 @@
     <string name="vol_panel_ring_as_default">Volumen de timbre predeterminado</string>
     <string name="col_slide_colour">Color del deslizador</string>
     <string name="vol_panel_ring_as_default_sum">Controla el volumen del timbre en lugar del volumen multimedia cuando no haya nada reproduciendose.</string>
-    <string name="vol_panel_start_exp_title">Iniciar Expandido</string>
-    <string name="vol_panel_start_exp_sum">Mostrar todos los paneles cuando se abre.</string>
     <string name="blacklist">Excluir aplicaciones</string>
     <string name="edit_widgets">Editar Widgets</string>
     <string name="widget_not_enabled">El Widget no está activo en la pantalla de inicio.</string>
@@ -856,4 +852,6 @@
         \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
     <string name="link_to_settings">A direct link to the Settings Activity</string>
+    <string name="pressure">Pressure:</string>
+    <string name="wind_speed">Wind Speed:&#160;</string>
 </resources>

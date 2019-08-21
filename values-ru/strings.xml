@@ -77,7 +77,6 @@
     <string name="app_picker">Выберите приложение</string>
     <string name="appicon">AppIcon</string>
     <string name="apply">Применить</string>
-    <string name="attention">Пожалуйста, обратите внимание на руководство Как добавить плитки на вкладке 2.</string>
     <string name="auto_rotate">Автоповорот</string>
     <string name="auto_start">Вкл. Автояркость</string>
     <string name="auto_step">Шаг Автояркости</string>
@@ -220,7 +219,6 @@
     <string name="failed_window_add">Не удалось добавить окно, пожалуйста, откройте приложение и убедитесь, что разрешение на экранное разрешение было предоставлено</string>
     <string name="fancy_anim">Reflow Pull-Down Animation</string>
     <string name="fancy_summary">Вкл./Выкл. анимацию ПулДаун (несовместимо с некоторыми устройствами)</string>
-    <string name="feels">Ощущается как: </string>
     <string name="file_browser">Проводник</string>
     <string name="file_summary">Запускает файл браузера по умолчанию</string>
     <string name="file_tile">"Файловый 
@@ -840,8 +838,6 @@
     <string name="col_slide_colour">Slider Colour</string>
     <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
     <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
-    <string name="vol_panel_start_exp_title">Start Expanded</string>
-    <string name="vol_panel_start_exp_sum">Show all panels when opened.</string>
     <string name="blacklist">Exclude Applications</string>
     <string name="edit_widgets">Edit Widgets</string>
     <string name="widget_not_enabled">Widget not active on home screen.</string>
@@ -865,4 +861,6 @@
         \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
     <string name="link_to_settings">A direct link to the Settings Activity</string>
+    <string name="pressure">Pressure:</string>
+    <string name="wind_speed">Wind Speed:&#160;</string>
 </resources>

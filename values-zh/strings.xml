@@ -401,7 +401,6 @@
     <string name="corners_scale_summary">调整屏幕圆角半径</string>
     <string name="corner_colour">选择圆角颜色</string>
     <string name="how_it_works">使用方法</string>
-    <string name="attention">见标签 2 的如何添加瓷贴向导。</string>
     <string name="config_serv">设置</string>
     <string name="screenshot_root">使用 Root 截屏方法</string>
     <string name="screenshot_root_summary">使用系统截屏二进制进行截图</string>
@@ -418,7 +417,6 @@
     <string name="weather_desc">启动包含当前天气信息的弹窗</string>
     <string name="location">位置更新</string>
     <string name="temp">当前温度: </string>
-    <string name="feels">体感温度: </string>
     <string name="dewp">露点: </string>
     <string name="weather_celsius">温度单位</string>
     <string name="celsius">摄氏度</string>
@@ -831,8 +829,6 @@
     <string name="col_slide_colour">Slider Colour</string>
     <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
     <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
-    <string name="vol_panel_start_exp_title">Start Expanded</string>
-    <string name="vol_panel_start_exp_sum">Show all panels when opened.</string>
     <string name="blacklist">Exclude Applications</string>
     <string name="edit_widgets">Edit Widgets</string>
     <string name="widget_not_enabled">Widget not active on home screen.</string>
@@ -856,4 +852,6 @@
         \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
     <string name="link_to_settings">A direct link to the Settings Activity</string>
+    <string name="pressure">Pressure:</string>
+    <string name="wind_speed">Wind Speed:&#160;</string>
 </resources>

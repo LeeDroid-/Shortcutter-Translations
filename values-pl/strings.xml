@@ -402,7 +402,6 @@
     <string name="corners_scale_summary">Ustaw promień naroża ekranu</string>
     <string name="corner_colour">Wybierz Kolor Rogów</string>
     <string name="how_it_works">Opis Aplikacji</string>
-    <string name="attention">Proszę zwrócić uwagę jak dodać płytki - instrukcja w aplikacji w zakładce Płytki QS.</string>
     <string name="config_serv">Ustawienia</string>
     <string name="screenshot_root">Użyj Metody z Rootem do Zrzutów Ekranu</string>
     <string name="screenshot_root_summary">Tworzy zrzut ekranu przy użyciu systemu</string>
@@ -420,7 +419,6 @@
     <string name="weather_desc">Uruchamia pop-up z aktualnymi informacjami o pogodzie</string>
     <string name="location">Aktualizacja Lokalizacji</string>
     <string name="temp">Temperatura: &#160;</string>
-    <string name="feels">Odczuwalna &#160;</string>
     <string name="dewp">Punkt rosy: &#160;</string>
     <string name="weather_celsius">Jednostka Temperatury</string>
     <string name="celsius">Celcjusza</string>
@@ -839,8 +837,6 @@
     <string name="col_slide_colour">Slider Colour</string>
     <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
     <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
-    <string name="vol_panel_start_exp_title">Start Expanded</string>
-    <string name="vol_panel_start_exp_sum">Show all panels when opened.</string>
     <string name="blacklist">Exclude Applications</string>
     <string name="edit_widgets">Edit Widgets</string>
     <string name="widget_not_enabled">Widget not active on home screen.</string>
@@ -864,4 +860,6 @@
         \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
     <string name="link_to_settings">A direct link to the Settings Activity</string>
+    <string name="pressure">Pressure:</string>
+    <string name="wind_speed">Wind Speed:&#160;</string>
 </resources>

@@ -401,7 +401,6 @@
     <string name="corners_scale_summary">Ekran köşesinin genişliğini ayarlayın</string>
     <string name="corner_colour">Köşenin Rengini Seç</string>
     <string name="how_it_works">Nasıl çalışır</string>
-    <string name="attention">Lütfen 2. kısımdaki sekme ekleme kılavuzuna dikkatlice gözatın.</string>
     <string name="config_serv">Ayarlar</string>
     <string name="screenshot_root">Root ile ekran görüntüsü alma yöntemi</string>
     <string name="screenshot_root_summary">Sistem uygulaması yoluyla ekran görüntüsü alır</string>
@@ -418,7 +417,6 @@
     <string name="weather_desc">Anlık hava durumunu bildiren bir pencere açar</string>
     <string name="location">Konum Güncelleniyor</string>
     <string name="temp">Sıcaklık:&#160;</string>
-    <string name="feels">Hissedilen:&#160;</string>
     <string name="dewp">Çiğ düşme sıcaklığı:&#160;</string>
     <string name="weather_celsius">Sıcaklık Birimi</string>
     <string name="celsius">Selsius</string>
@@ -832,8 +830,6 @@
     <string name="col_slide_colour">Kaydırıcı Rengi</string>
     <string name="vol_panel_ring_as_default">Varsayılan Olarak Zil Sesi</string>
     <string name="vol_panel_ring_as_default_sum">Hiçbir şey çalmıyorken Medya yerine Zil Sesi Kontrol edilir.</string>
-    <string name="vol_panel_start_exp_title">Genişletilmiş Başlat</string>
-    <string name="vol_panel_start_exp_sum">Açıldığında tüm panelleri gösterir.</string>
     <string name="blacklist">Uygulamaları Hariç Tut</string>
     <string name="edit_widgets">Widget\'ları Düzenle</string>
     <string name="widget_not_enabled">Widget ana ekranda etkin değil.</string>
@@ -857,4 +853,6 @@
         \n\nSistem ses panelini geçersiz kılmak için lütfen devam et\'e tıklayın ve hizmeti etkinleştirin.\n</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
     <string name="link_to_settings">Ayarlar Etkinliğine doğrudan bağlantı</string>
+    <string name="pressure">Pressure:</string>
+    <string name="wind_speed">Wind Speed:&#160;</string>
 </resources>

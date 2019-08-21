@@ -433,7 +433,6 @@
         \n
         \n\u2022 An abundance of dynamic state home screen shortcuts!
         \n\nTo add a launcher shortcut:\n Long press your home screen, go to shortcuts and select Shortcutter Shortcut\'s.</string>
-    <string name="attention">\nPlease pay attention to the \"How To Add Tiles\" Guide in tab 2.</string>
     <string name="config_serv">Settings</string>
     <string name="screenshot_root">Use Root Screenshot Method</string>
     <string name="screenshot_root_summary">Produces a screenshot using the system screencap binary</string>
@@ -450,7 +449,6 @@
     <string name="weather_desc">Launches a popup with current weather information</string>
     <string name="location">Location Updating</string>
     <string name="temp">Temperature:&#160;</string>
-    <string name="feels">Feels Like:&#160;</string>
     <string name="dewp">Dew point:&#160;</string>
     <string name="weather_celsius">Weather Temperature Unit</string>
     <string name="celsius">Celsius</string>
@@ -644,6 +642,17 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
+        \n\nv7.2.7:
+        \n\u2022 Fix crash in accessibility service.
+        \n\u2022 Widget adjustments.
+        \n\u2022 Add internet permission for new weather implementation.
+        \n\u2022 New Weather Service thanks to OpenWeather Map.
+        \n\u2022 Enable weather in Widget\'s.
+        \n\u2022 New Location library - Thanks David Serrano.
+        \n\u2022 Open weather Map Helper Library - Thanks Kwaben Berko.
+        \n\u2022 Add option to remove rounded Sidebar corners.
+        \n\u2022 Apply sidebar theme changes on the fly.
+        \n\u2022 Remove Google Awareness API\'s (Depreciated)
         \n\nv7.2.6:
         \n\u2022 Disable Accessibility Key Listener if Vol Panel Override is off.
         \n - Fixes Gestures and issues with apps like Netflix.
@@ -1094,8 +1103,6 @@
     <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
     <string name="latest">Please make sure you are on the latest version of the app.</string>
     <string name="col_slide_colour">Slider Colour</string>
-    <string name="vol_panel_start_exp_title">Start Expanded</string>
-    <string name="vol_panel_start_exp_sum">Show all panels when opened.</string>
     <string name="blacklist">Exclude Applications</string>
     <string name="edit_widgets">Edit Widgets</string>
     <string name="widget_not_enabled">Widget not active on home screen.</string>
@@ -1120,4 +1127,6 @@
         \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
     <string name="link_to_settings">A direct link to the Settings Activity</string>
+    <string name="pressure">Pressure:&#160;</string>
+    <string name="wind_speed">Wind Speed:&#160;</string>
 </resources>

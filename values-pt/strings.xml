@@ -343,7 +343,6 @@
     <string name="corners_scale_summary">Ajustar o raio dos cantos do ecrã</string>
     <string name="corner_colour">Selecionar Cor dos Cantos</string>
     <string name="how_it_works">Como Funciona</string>
-    <string name="attention">Por favor esteja atento ao Guia Como Adicionar Mosaicos CR no 2º separador.</string>
     <string name="config_serv">Definições</string>
     <string name="screenshot_root">Usar Método de Screenshot Root</string>
     <string name="screenshot_root_summary">Gera um screenshot usando o mecanismo de captura do sistema</string>
@@ -359,7 +358,6 @@
     <string name="weather_desc">Abre uma janela com o estado do tempo atual</string>
     <string name="location">A Atualizar Localização</string>
     <string name="temp">Temperatura:&#160;</string>
-    <string name="feels">Sensação Térmica:&#160;</string>
     <string name="dewp">Ponto de orvalho:&#160;</string>
     <string name="weather_celsius">Unidade de Temperatura</string>
     <string name="celsius">Celsius</string>
@@ -776,8 +774,6 @@
     <string name="vol_panel_ring_as_default">Volume de Toque por Defeito</string>
     <string name="block_power_locked_sum">Bloquear o painel de ligar/desligar do sistema quando o aparelho estiver bloqueado.</string>
     <string name="col_slide_colour">Cor do Controle</string>
-    <string name="vol_panel_start_exp_title">Iniciar Expandido</string>
-    <string name="vol_panel_start_exp_sum">Mostrar todos os paneis assim que abre.</string>
     <string name="blacklist">Exclude Applications</string>
     <string name="edit_widgets">Edit Widgets</string>
     <string name="widget_not_enabled">Widget not active on home screen.</string>
@@ -801,4 +797,6 @@
         \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
     <string name="link_to_settings">A direct link to the Settings Activity</string>
+    <string name="pressure">Pressure:</string>
+    <string name="wind_speed">Wind Speed:&#160;</string>
 </resources>

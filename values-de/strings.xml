@@ -401,7 +401,6 @@
     <string name="corners_scale_summary">Stellt den Bildschirmeckenradius ein</string>
     <string name="corner_colour">Wähle Eckenfarbe</string>
     <string name="how_it_works">Wie es funktioniert</string>
-    <string name="attention">Bitte beachte die Anleitung im Tabulator 2, \nwie man Kacheln hinzufügt.</string>
     <string name="config_serv">Einstellungen</string>
     <string name="screenshot_root">Benutze Root Methode für Bildschirmfoto</string>
     <string name="screenshot_root_summary">Macht ein Bildschirmfoto indem die Systembinärdatei für Bildschirmaufnahme benutzt wird</string>
@@ -418,7 +417,6 @@
     <string name="weather_desc">Öffnet ein Popup Fenster mit aktuellen Wetterinformationen</string>
     <string name="location">Standortaktualisierung</string>
     <string name="temp">Temperatur:&#160;</string>
-    <string name="feels">Gefühlt wie:&#160;</string>
     <string name="dewp">Taupunkt:&#160;</string>
     <string name="weather_celsius">Temperatur Einheit</string>
     <string name="celsius">Grad Celsius</string>
@@ -834,8 +832,6 @@
     <string name="col_slide_colour">Slider Colour</string>
     <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
     <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
-    <string name="vol_panel_start_exp_title">Start Expanded</string>
-    <string name="vol_panel_start_exp_sum">Show all panels when opened.</string>
     <string name="edit_widgets">Edit Widgets</string>
     <string name="blacklist">Exclude Applications</string>
     <string name="widget_not_enabled">Widget not active on home screen.</string>
@@ -859,4 +855,6 @@
         \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
     <string name="link_to_settings">A direct link to the Settings Activity</string>
+    <string name="pressure">Pressure:</string>
+    <string name="wind_speed">Wind Speed:&#160;</string>
 </resources>
