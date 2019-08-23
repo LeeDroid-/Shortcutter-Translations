@@ -816,45 +816,48 @@
         \n \u2022 Bildschirmaufnahme &amp; Aufnahme
         \n \u2022 Zusätzliche In-App Konfigurationsoptionen
         \n \u2022 &amp; Entferne die 60-Klick Kachel Benachrichtigung</string>
-    <string name="sys_vol">System Panel</string>
-    <string name="notification_listener">Notification Listener</string>
-    <string name="notif_list">Services requiring notification access:
-        \n\n* Volume Panel\n- Detect cast dialog &amp; stop intercept.
-        \n* Notification Blocker (Oreo +)
-        \n- block the \"Running In Background\" notification.
-        \n* Night Light/Desk Clock (When Active)
-        \n- display active notification count.
-        \n\nThe only information scanned by Shortcutter is package name\'s, no notification content is stored.</string>
-    <string name="left">Position Left</string>
-    <string name="latest">Please make sure you are on the latest version of the app.</string>
-    <string name="block_power_locked_sum">Block the system power dialog when device is locked</string>
-    <string name="block_power_locked_title">Secure Power Menu</string>
-    <string name="col_slide_colour">Slider Colour</string>
-    <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
-    <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
-    <string name="edit_widgets">Edit Widgets</string>
-    <string name="blacklist">Exclude Applications</string>
-    <string name="widget_not_enabled">Widget not active on home screen.</string>
-    <string name="accessibility_description">Accessibility access allows shortcutter to perform the following actions/tasks:
-        \n\n\u2022 Detect Volume Key Press.
-        \n\u2022 Toggle Split Screen
-        \n\u2022 Toggle Recent Apps
-        \n\u2022 Show Power Menu
-        \n\u2022 Expand Notifications &amp; Quick Settings
-        \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
-        \n\n The only packages monitored are:
-        \n\u2022 Settings
-        \n\u2022 Package Installer
-        \n\n Key Presses:
-        \n\u2022 Vol +/- keys press detection.
-        \n\u2022 No other keys are captured.
-        \n - Only observed when volume panel override is enabled.</string>
-    <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
-    <string name="volume_intercept">Accessibility Service Required.
-        \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
-        \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
+     <string name="sys_vol">System Bedienfeld</string>
+    <string name="notification_listener">Benachrichtigungsempfänger</string>
+    <string name="notif_list">Dienste erfordern Benachrichtigungszugriff:
+        \n\n* Lautstärke Bedienfeld\n- Erkennt Cast Dialog &amp; stopt Aufnahme.
+        \n* Benachrichtigungsblocker (Oreo +)
+        \n- block the \"Läuft im Hintergrund\" Benachrichtigung.
+        \n* Nachtlicht/Bildschirmuhr (wenn aktiv)
+        \n- Nachrichtenzähler aktiver Bildschirm.
+        \n\nEinzig untersuchte Information von Shortcutter ist der Paketname, kein Benachrichtigungsinhalt gespeichert.</string>
+    <string name="left">Position links</string>
+    <string name="latest">Bitte stelle sicher, dass du die neueste App Version verwendest.</string>
+    <string name="block_power_locked_sum">Blockt System Power Dialog, wenn Gerät gesperrt ist.</string>
+    <string name="block_power_locked_title">Gesperrtes Neustart Menü</string>
+    <string name="col_slide_colour">Schieberfarbe</string>
+    <string name="vol_panel_ring_as_default">Klingeltonlautstärke auf Standard</string>
+    <string name="vol_panel_ring_as_default_sum">Ändert Klingelton- anstatt Medienlautstärke, wenn nichts abgespielt wird.</string>
+    <string name="vol_panel_start_exp_title">Erweiterter Start</string>
+    <string name="vol_panel_start_exp_sum">Zeigt alle Schieberegler wenn geöffnet.</string>
+</resources>
+    <string name="edit_widgets">Editiere Widgets</string>
+    <string name="blacklist">Applikationen ausschließen</string>
+    <string name="widget_not_enabled">Widget ist auf dem Startbildschirm nicht aktiv.</string>
+    <string name="accessibility_description">Der barrierefreie Zugriff ermöglicht es dem Shortcutter, die folgenden Aktionen/Aufgaben auszuführen:
+        \n\n\u2022 Erkennt das Drücken der Lautstärketaste.
+        \n\u2022 Schalte geteilten Bildschirm
+        \n\u2022 Schalte letzte Apps
+        \n\u2022 Zeige Power Menu
+        \n\u2022 Erweiterte Benachrichtigungen &amp; Schnelleinstellungen
+        \n\u2022 Erkennt Aktivitäten - erforderlich für den Bildschirmfilter &amp; Bildschirmecken, diese Dienste werden gestoppt, wenn Apps installiert werden &amp; Berechtigungen werden erteilt.
+        \n\n Die einzigen überwachten Pakete sind:
+        \n\u2022 Einstellungen
+        \n\u2022 Packetinstallierer
+        \n\n Taste drücken:
+        \n\u2022 Vol +/- Tastendruckerkennung.
+        \n\u2022 Es werden keine weiteren Tasten erfasst.
+        \n - Beobachten nur, wenn die Übersteuerung des Lautstärkepegels aktiviert ist.</string>
+    <string name="acc_needed_long">\nKlicke weiter &amp; gehe zu Shortcutter, um den Dienst zu aktivieren.\n</string>
+    <string name="volume_intercept">Barrierefreiheit Service erforderlich.
+        \n\nShortcutter kann nur Volumen-Tastendrücke mit Hilfe von Barrierefreiheit Services erkennen.
+        \n\nBitte klicke auf weiter und aktiviere den Dienst, um das System-Lautstärke-Panel zu überschreiben.\n</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
-    <string name="link_to_settings">A direct link to the Settings Activity</string>
-    <string name="pressure">Pressure:</string>
+    <string name="link_to_settings">Ein direkter Link zur Einstellungsaktivität</string>
+    <string name="pressure">Druck:</string>
     <string name="wind_speed">Wind Speed:&#160;</string>
 </resources>
