@@ -860,4 +860,5 @@
     <string name="link_to_settings">Ein direkter Link zur Einstellungsaktivität</string>
     <string name="pressure">Druck:</string>
     <string name="wind_speed">Wind Speed:&#160;</string>
+    <string name="long_press_drag">Long press and hold the trigger to change the vertical position.</string>
 </resources>

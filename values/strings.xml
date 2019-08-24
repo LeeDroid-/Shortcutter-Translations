@@ -642,9 +642,33 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv7.2.7:
+        \n\nv7.3.5:
+        \n\u2022 Remove header round corners with sidebar.
+        \n\u2022 Apply swipe listener to sidebar header.
+        \n\u2022 Tweak sidebar header layout.
+        \n\u2022 Add option to hide Nav Bar with Sidebar open.
+        \n\u2022 Smooth Sidebar back view transition.
+        |n\u2022 Sidebar tab layout adjustments.
+        \n\u2022 Restart app following data restore.
+        \n\u2022 Settings tab layout adjustments.
+        \n\u2022 Fix crash in shortcuts.
+        \n\nv7.3.4:
+        \n\u2022 Fix Screen Record &amp; Capture crash with invalid storage path.
+        \n\u2022 Update default save paths for Backup &amp; Screen Capture
+        \n\u2022 Round corners on as default.
+        \n\u2022 Update header view when restarting sidebar.
+        \n\u2022 Remove header round corners with sidebar.
+        \n\nv7.3.2:
+        \n\u2022 Fix swipe trigger.
+        \n\u2022 Improve long press to drag trigger position.
+        \n\u2022 Fix crash in screen record &amp; capture.
+        \n\u2022 Show widget items that require sys setting perms if not granted.
+        \n\nv7.3.1:
+        \n\u2022 Enable long press &amp; drag sidebar trigger to change vertical position.
+        \n\u2022 Make trigger scaling free - non premium.
         \n\u2022 Fix crash in accessibility service.
         \n\u2022 Widget adjustments.
+        \n\u2022 Add widget text color option.
         \n\u2022 Add internet permission for new weather implementation.
         \n\u2022 New Weather Service thanks to OpenWeather Map.
         \n\u2022 Enable weather in Widget\'s.
@@ -653,6 +677,8 @@
         \n\u2022 Add option to remove rounded Sidebar corners.
         \n\u2022 Apply sidebar theme changes on the fly.
         \n\u2022 Remove Google Awareness API\'s (Depreciated)
+        \n\u2022 Make Mobile Data toggle available non root (Link to Settings)
+        \n\u2022 Vol Panel - Adjust BT Volume with Media &amp; Call.
         \n\nv7.2.6:
         \n\u2022 Disable Accessibility Key Listener if Vol Panel Override is off.
         \n - Fixes Gestures and issues with apps like Netflix.
@@ -1129,4 +1155,5 @@
     <string name="link_to_settings">A direct link to the Settings Activity</string>
     <string name="pressure">Pressure:&#160;</string>
     <string name="wind_speed">Wind Speed:&#160;</string>
+    <string name="long_press_drag">Long press and hold the trigger to change the vertical position.</string>
 </resources>

@@ -847,11 +847,12 @@
         \n\u2022 No se registran otras teclas.
         \n - Sólo se observará cuando el control del panel de volumen esté activado.</string>
     <string name="acc_needed_long">\nPresionar en Continuar y habilitar el servicio para dar acceso.\n</string>
-    <string name="volume_intercept">Accessibility Service Required.
-        \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
-        \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
-    <string name="tether_hot">Tethering &amp; Hotspot</string>
-    <string name="link_to_settings">A direct link to the Settings Activity</string>
-    <string name="pressure">Pressure:</string>
-    <string name="wind_speed">Wind Speed:&#160;</string>
+    <string name="volume_intercept">Necesitas servicios de accesibilidad.
+        \n\nCon los servicios de accesibilidad, Shortcutter sólo puede detectar cuando se presiona la tecla de volumen.
+        \n\nPresiona en Continuar y habilita el servicio para anular el panel de volumen del sistema.\n</string>
+    <string name="tether_hot">Zona Wi-Fi y Conexión compartida</string>
+    <string name="link_to_settings">Acceso directo a los Ajustes</string>
+    <string name="pressure">Presión:</string>
+    <string name="wind_speed">Velocidad del viento:&#160;</string>
+    <string name="long_press_drag">Long press and hold rhe trigger to change the vertical position.</string>
 </resources>
