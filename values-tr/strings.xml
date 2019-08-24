@@ -853,7 +853,7 @@
         \n\nSistem ses panelini geçersiz kılmak için lütfen devam et\'e tıklayın ve hizmeti etkinleştirin.\n</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
     <string name="link_to_settings">Ayarlar Etkinliğine doğrudan bağlantı</string>
-    <string name="pressure">Pressure:</string>
-    <string name="wind_speed">Wind Speed:&#160;</string>
-    <string name="long_press_drag">Long press and hold rhe trigger to change the vertical position.</string>
+    <string name="pressure">Basınç:</string>
+    <string name="wind_speed">Rüzgar Hızı:&#160;</string>
+    <string name="long_press_drag">Dikey konumu değiştirmek için tetiğe uzun basın ve basılı tutun.</string>
 </resources>
