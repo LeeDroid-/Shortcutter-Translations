@@ -844,8 +844,8 @@
     <string name="pressure">Basınç:</string>
     <string name="wind_speed">Rüzgar Hızı:&#160;</string>
     <string name="long_press_drag">Dikey konumu değiştirmek için tetiğe uzun basın ve basılı tutun.</string>
-    <string name="floating_controls">Show Floating Controls</string>
-    <string name="vol_timeout">Panel Timeout</string>
-    <string name="additional_opts">Additional Options</string>
-    <string name="pill_trigger">Pill Style Trigger</string>
+    <string name="floating_controls">Yüzen Kontrolleri Göster</string>
+    <string name="vol_timeout">Panel Zaman Aşımı</string>
+    <string name="additional_opts">Ekstra Seçenekler</string>
+    <string name="pill_trigger">Hap Stili Tetik</string>
 </resources>
