@@ -455,7 +455,6 @@
     <string name="qs_tiles">Deslize para Baixo</string>
     <string name="custom_tiles">Mosaicos Personalizados</string>
     <string name="sb_tb_settings">Definições BarraLateral/Caixa de Ferramentas</string>
-    <string name="design_sb_settings">Configure a sua BarraLateral/Caixa de Ferramentas Shortcutter</string>
     <string name="enable_tiles_tb">Ativar/Desativar Mosaicos BarraLateral</string>
     <string name="detect_touch">Deteção Tocar &amp; Deslizar</string>
     <string name="touch_and_swipe">BarraLateral abre quando desliza (para cima, baixo dentro) na zona de deteção</string>
@@ -659,16 +658,6 @@
     <string name="rearrange">Reorganizar</string>
     <string name="trialandyearly">Período Experimental de 4 Dias &amp; Acesso Anual</string>
     <string name="backup_summary">Guardar cópia de segurança dos dados da app no cartão SD</string>
-    <string name="weather_clear">Céu limpo</string>
-    <string name="weather_foggy">Nevoeiro</string>
-    <string name="weather_hazy">Nublado</string>
-    <string name="weather_icy">Com gelo</string>
-    <string name="weather_rainy">Chuva</string>
-    <string name="weather_stormy">Tempestade</string>
-    <string name="weather_unknown">Desconhecido</string>
-    <string name="weather_cloudy">Nublado</string>
-    <string name="weather_snowy">Neve</string>
-    <string name="weather_windy">Vento</string>
     <string name="apm_power_off">Desligar</string>
     <string name="apm_reboot">Reiniciar</string>
     <string name="apm_reb_rec">Reiniciar em Recovery</string>
@@ -678,7 +667,6 @@
     <string name="apm_safe">Reiniciar em Modo de Segurança</string>
     <string name="ent">Entradas</string>
     <string name="apm_root_req">APM Shortcutter Precisa de Acesso Root</string>
-    <string name="weather_overcast">Encoberto</string>
     <string name="auto_with_root">Concedido automaticamente com ROOT</string>
     <string name="unread_count">Notificações não lidas:</string>
     <string name="loading_activities">A Carregar Atividades…</string>
@@ -800,4 +788,8 @@
     <string name="pressure">Pressure:</string>
     <string name="wind_speed">Wind Speed:&#160;</string>
     <string name="long_press_drag">Long press and hold rhe trigger to change the vertical position.</string>
+    <string name="floating_controls">Show Floating Controls</string>
+    <string name="vol_timeout">Panel Timeout</string>
+    <string name="additional_opts">Additional Options</string>
+    <string name="pill_trigger">Pill Style Trigger</string>
 </resources>

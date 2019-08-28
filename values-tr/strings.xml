@@ -515,7 +515,6 @@
     <string name="qs_tiles">Aşağı Çekme</string>
     <string name="custom_tiles">Özel Sekmeler</string>
     <string name="sb_tb_settings">Yan Menü/Araç Çubuğu Ayarları</string>
-    <string name="design_sb_settings">Shortcutter Yan Menü/Araç Çubuğu ayarlarını yapılandırın</string>
     <string name="enable_tiles_tb">Yan Menü Sekmelerini Aç/Kapat</string>
     <string name="detect_touch">Dokunma &amp; Kaydırma Tetikleyici</string>
     <string name="touch_and_swipe">Yan Menü tetiğe dokunulduğunda ya da kaydırıldığında açılır\n(yukarı, aşağı ya da içe doğru)</string>
@@ -716,16 +715,6 @@
     <string name="rearrange">Yeniden düzenle</string>
     <string name="trialandyearly">4 Gün Deneme &amp; Yıllık Kilidi Aç</string>
     <string name="backup_summary">Tüm uygulama verilerini SD Kartınıza yedekleyin</string>
-    <string name="weather_clear">Açık</string>
-    <string name="weather_foggy">Sisli</string>
-    <string name="weather_hazy">Puslu</string>
-    <string name="weather_icy">Buzlu</string>
-    <string name="weather_rainy">Yağmurlu</string>
-    <string name="weather_stormy">Fırtınalı</string>
-    <string name="weather_unknown">Bilinmiyor</string>
-    <string name="weather_cloudy">Bulutlu</string>
-    <string name="weather_snowy">Kar yağışlı</string>
-    <string name="weather_windy">Rüzgarlı</string>
     <string name="apm_power_off">Kapat</string>
     <string name="apm_reboot">Yeniden Başlat</string>
     <string name="apm_reb_rec">Recovery Modunda Başlat</string>
@@ -735,7 +724,6 @@
     <string name="apm_safe">Güvenli Modda Başlat</string>
     <string name="ent">Öğeler</string>
     <string name="apm_root_req">Shortcutter APM Root erişimi gerektirir</string>
-    <string name="weather_overcast">Bulutlu</string>
     <string name="auto_with_root">ROOT ile otomatik izin verildi</string>
     <string name="unread_count">Okunmamış Bildirimler:</string>
     <string name="loading_activities">Etkinlikler Yükleniyor…</string>
@@ -856,4 +844,8 @@
     <string name="pressure">Basınç:</string>
     <string name="wind_speed">Rüzgar Hızı:&#160;</string>
     <string name="long_press_drag">Dikey konumu değiştirmek için tetiğe uzun basın ve basılı tutun.</string>
+    <string name="floating_controls">Show Floating Controls</string>
+    <string name="vol_timeout">Panel Timeout</string>
+    <string name="additional_opts">Additional Options</string>
+    <string name="pill_trigger">Pill Style Trigger</string>
 </resources>

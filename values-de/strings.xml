@@ -424,7 +424,7 @@
     <string name="humidity">Feuchtigkeit:&#160;</string>
     <string name="mylocation">Mein Standort</string>
     <string name="current_location">Aktueller Standort</string>
-    <string name="dev_loc_mode">Standortmodus:&#160; %1$s</string>
+    <string name="dev_loc_mode">Standortmodus:&#160;</string>
     <string name="mylocation_summary">Zeigt aktuellen Standort mit Optionen zur Ansicht in Maps oder zum Teilen</string>
     <string name="swipe_out">Wische heraus um zu verbergen</string>
     <string name="choose_ring_entries">Klingelmodus Einträge\n(2 minimum)</string>
@@ -515,7 +515,6 @@
     <string name="qs_tiles">Pull-Down</string>
     <string name="custom_tiles">Benutzerdef. Kacheln</string>
     <string name="sb_tb_settings">Sidebar / Werkzeugkasten Einstellungen</string>
-    <string name="design_sb_settings">Konfiguriere deine(n) Shortcutter Sidebar / Werkzeugkasten</string>
     <string name="enable_tiles_tb">Aktiviere / Deaktiviere Sidebar Kacheln</string>
     <string name="detect_touch">Berühre &amp; wische Auslösebalken</string>
     <string name="touch_and_swipe">Sidebar öffnet, wenn Auslösebalken berührt oder gewischt wird\n(nach oben, nach unten oder nach innen)</string>
@@ -720,16 +719,6 @@
     <string name="rearrange">Neu anordnen</string>
     <string name="trialandyearly">4 Day Trial &amp; Annual Unlock</string>
     <string name="backup_summary">Sichere alle Anwendungsdaten auf deiner SD-Karte.</string>
-    <string name="weather_clear">Löschen</string>
-    <string name="weather_foggy">nebelig</string>
-    <string name="weather_hazy">trüb</string>
-    <string name="weather_icy">eisig</string>
-    <string name="weather_rainy">regnerisch</string>
-    <string name="weather_stormy">stürmig</string>
-    <string name="weather_unknown">unbekannt</string>
-    <string name="weather_cloudy">wolkig</string>
-    <string name="weather_snowy">verschneit</string>
-    <string name="weather_windy">windig</string>
     <string name="apm_power_off">Ausschalten</string>
     <string name="apm_reboot">Neustart</string>
     <string name="apm_reb_rec">Neustart Recovery</string>
@@ -739,7 +728,6 @@
     <string name="apm_safe">Neustart Safe Mode</string>
     <string name="ent">Einträge</string>
     <string name="apm_root_req">Shortcutter APM benötigt Root-Zugriff</string>
-    <string name="weather_overcast">Bedeckt</string>
     <string name="auto_with_root">Automatisch gewährt mit ROOT</string>
     <string name="unread_count">Ungelesene Benachrichtigungen:</string>
     <string name="loading_activities">Aktivitäten laden....</string>
@@ -816,7 +804,7 @@
         \n \u2022 Bildschirmaufnahme &amp; Aufnahme
         \n \u2022 Zusätzliche In-App Konfigurationsoptionen
         \n \u2022 &amp; Entferne die 60-Klick Kachel Benachrichtigung</string>
-     <string name="sys_vol">System Bedienfeld</string>
+    <string name="sys_vol">System Bedienfeld</string>
     <string name="notification_listener">Benachrichtigungsempfänger</string>
     <string name="notif_list">Dienste erfordern Benachrichtigungszugriff:
         \n\n* Lautstärke Bedienfeld\n- Erkennt Cast Dialog &amp; stopt Aufnahme.
@@ -832,9 +820,6 @@
     <string name="col_slide_colour">Schieberfarbe</string>
     <string name="vol_panel_ring_as_default">Klingeltonlautstärke auf Standard</string>
     <string name="vol_panel_ring_as_default_sum">Ändert Klingelton- anstatt Medienlautstärke, wenn nichts abgespielt wird.</string>
-    <string name="vol_panel_start_exp_title">Erweiterter Start</string>
-    <string name="vol_panel_start_exp_sum">Zeigt alle Schieberegler wenn geöffnet.</string>
-</resources>
     <string name="edit_widgets">Editiere Widgets</string>
     <string name="blacklist">Applikationen ausschließen</string>
     <string name="widget_not_enabled">Widget ist auf dem Startbildschirm nicht aktiv.</string>
@@ -861,4 +846,8 @@
     <string name="pressure">Druck:</string>
     <string name="wind_speed">Wind Speed:&#160;</string>
     <string name="long_press_drag">Long press and hold the trigger to change the vertical position.</string>
+    <string name="floating_controls">Show Floating Controls</string>
+    <string name="vol_timeout">Panel Timeout</string>
+    <string name="additional_opts">Additional Options</string>
+    <string name="pill_trigger">Pill Style Trigger</string>
 </resources>

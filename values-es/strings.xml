@@ -535,7 +535,6 @@
     <string name="qs_tiles">Panel desplegable</string>
     <string name="custom_tiles">Fichas personalizadas</string>
     <string name="sb_tb_settings">Ajustes de caja/barra lateral</string>
-    <string name="design_sb_settings">Configurar caja/barra lateral</string>
     <string name="enable_tiles_tb">Activar/Desactivar fichas de la barra lateral</string>
     <string name="detect_touch">Pulsar y deslizar</string>
     <string name="touch_and_swipe">La barra lateral se abre al pulsar sobre el activador o deslizando\n(arriba, abajo o hacia dentro)</string>
@@ -717,16 +716,6 @@
     <string name="trialandyearly">4 días de prueba y desbloqueo anual</string>
     <string name="backup_summary">Copia de seguridad de todos los datos de la aplicación en la tarjeta SD</string>
     <string name="premium">Premium</string>
-    <string name="weather_clear">Despejado</string>
-    <string name="weather_foggy">Niebla</string>
-    <string name="weather_hazy">Brumas</string>
-    <string name="weather_icy">Nieve</string>
-    <string name="weather_rainy">Lluvioso</string>
-    <string name="weather_stormy">Tormentas</string>
-    <string name="weather_unknown">Desconocido</string>
-    <string name="weather_cloudy">Predominio nubes</string>
-    <string name="weather_snowy">Nieve</string>
-    <string name="weather_windy">Vientos</string>
     <string name="apm_power_off">Apagar</string>
     <string name="apm_reboot">Reiniciar</string>
     <string name="apm_reb_rec">Recovery</string>
@@ -736,7 +725,6 @@
     <string name="apm_safe">Modo seguro</string>
     <string name="ent">Entradas</string>
     <string name="apm_root_req">El menú de apagado avanzado necesita acceso root</string>
-    <string name="weather_overcast">Nublado</string>
     <string name="auto_with_root">Concedido automáticamente con root</string>
     <string name="unread_count">Notificaciones no leídas:</string>
     <string name="loading_activities">Cargando Actividades…</string>
@@ -854,5 +842,9 @@
     <string name="link_to_settings">Acceso directo a los Ajustes</string>
     <string name="pressure">Presión:</string>
     <string name="wind_speed">Velocidad del viento:&#160;</string>
-    <string name="long_press_drag">Long press and hold rhe trigger to change the vertical position.</string>
+    <string name="long_press_drag">Mantener presionada la barra lateral para cambiar la posición.</string>
+    <string name="floating_controls">Show Floating Controls</string>
+    <string name="vol_timeout">Panel Timeout</string>
+    <string name="additional_opts">Additional Options</string>
+    <string name="pill_trigger">Pill Style Trigger</string>
 </resources>

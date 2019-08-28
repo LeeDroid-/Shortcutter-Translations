@@ -344,12 +344,15 @@
         \nMusic</string>
     <string name="play_pause">Play/Pause Music</string>
     <string name="play_pause_sum">Play &amp; Pause music</string>
-    <string name="overlay_needed"><![CDATA[Several Shortcutter services require the "Draw System Overlay" permission to run, these include:\n
-    \n\u2022 Sidebar/Floating Toolbox
-    \n\u2022 Screen Filter/Night Mode
-    \n\u2022 Rounded Corners
-    \n\u2022 Network Mode Dialogs
-    \n\nPlease click proceed & grant the required permission.\n]]></string>
+    <string name="overlay_needed">Several Shortcutter services require the "Draw System Overlay" permission to run, these include:\n
+        \n\u2022 Sidebar/Floating Toolbox.
+        \n\u2022 Screen Filter/Night Mode.
+        \n\u2022 Rounded Corners.
+        \n\u2022 Network Mode Dialogs.
+        \n\u2022 Volume Panel.
+        \n\u2022 Screen Record Controls.
+        \n\u2022 Floating Calculator.
+    \n\nPlease click proceed &amp; grant the required permission.\n</string>
     <string name="overlay_required">System overlay permissions required</string>
     <string name="mob_data">Mobile Data</string>
     <string name="mob_dat_sum">Toggle mobile data on/off</string>
@@ -428,7 +431,7 @@
     <string name="how_it_works4"><u>Exposed Icons/Launcher Shortcut\'s</u>
         \n
         \n\u2022 Add an array of Exposed Icons (little apps) to your app drawer &amp; home screen.
-        \n\u2022 Make your shortcuts accessible to other apps like Tasker &amp; Edge Sense!</string>
+        \n\u2022 Make your shortcuts accessible to other apps like Tasker, Nova Launcher &amp; Edge Sense!</string>
     <string name="how_it_works4oreo"><u>Dynamic State Shortcut\'s</u>
         \n
         \n\u2022 An abundance of dynamic state home screen shortcuts!
@@ -477,7 +480,7 @@
     <string name="deskmode">Desk Clock\nMode</string>
     <string name="lightmode">Night Light\nMode</string>
     <string name="expand_collapse">Sidebar Expander</string>
-    <string name="expose_toggler">Create an additional \"Sidebar Expander\" icon to open/close the Sidebar or ToolBox from your home screen or other apps.</string>
+    <string name="expose_toggler">Create an additional \"Sidebar Expander\" icon to open/close the Sidebar from your home screen or other apps.</string>
     <string name="permissions">Manage Permissions</string>
     <string name="settings_access">Write System Settings</string>
     <string name="overlay_access">Overlay Permissions</string>
@@ -552,7 +555,6 @@
     <string name="qs_tiles">Pull-Down</string>
     <string name="custom_tiles">Custom Tiles</string>
     <string name="sb_tb_settings">Sidebar/Toolbox Settings</string>
-    <string name="design_sb_settings">Configure your Shortcutter Sidebar/ToolBox</string>
     <string name="enable_tiles_tb">Enable/Disable Sidebar Tiles</string>
     <string name="detect_touch">Touch &amp; Swipe Trigger</string>
     <string name="touch_and_swipe">Sidebar opens when trigger is touched or swiped\n(up, down or inward)</string>
@@ -642,16 +644,31 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv7.3.5:
+        \n\nv7.3.8:
+        \n\u2022 Add option to change Volume Panel timeout.
+        \n\u2022 Fix German string format in my location.
+        \n\u2022 Fix drag &amp; drop sidebar trigger.
+        \n\u2022 Add floating controls to screen recorder.
+        \n\u2022 Check standalone premium key is from google play.
+        \n\u2022 New Sidebar Expander icon.
+        \n\u2022 Fix option to hide Nav Bar with Sidebar.
+        \n\u2022 Fix crash when no system file browser installed.
+        \n\u2022 Move Sidebar expander &amp; Quick Tile to main fragment.
+        \n\u2022 Adjust default sidebar trigger scale.
+        \n\nv7.3.7:
+        \n\u2022 Fix crash in billing activity.
+        \n\u2022 Suspend weather service if location unavailable.
+        \n\u2022 Update translations.
         \n\u2022 Remove header round corners with sidebar.
         \n\u2022 Apply swipe listener to sidebar header.
         \n\u2022 Tweak sidebar header layout.
         \n\u2022 Add option to hide Nav Bar with Sidebar open.
         \n\u2022 Smooth Sidebar back view transition.
-        |n\u2022 Sidebar tab layout adjustments.
+        \n\u2022 Sidebar tab layout adjustments.
         \n\u2022 Restart app following data restore.
         \n\u2022 Settings tab layout adjustments.
         \n\u2022 Fix crash in shortcuts.
+        \n\u2022 Translation updates.
         \n\nv7.3.4:
         \n\u2022 Fix Screen Record &amp; Capture crash with invalid storage path.
         \n\u2022 Update default save paths for Backup &amp; Screen Capture
@@ -1014,16 +1031,6 @@
     <string name="rearrange">Rearrange</string>
     <string name="trialandyearly">4 Day Trial &amp; Annual Subscription</string>
     <string name="backup_summary">Backup all app data to your internal memory.</string>
-    <string name="weather_unknown">Unknown</string>
-    <string name="weather_clear">Clear</string>
-    <string name="weather_cloudy">Cloudy</string>
-    <string name="weather_foggy">Foggy</string>
-    <string name="weather_hazy">Hazy</string>
-    <string name="weather_icy">Icy</string>
-    <string name="weather_rainy">Rainy</string>
-    <string name="weather_snowy">Snowy</string>
-    <string name="weather_stormy">Stormy</string>
-    <string name="weather_windy">Windy</string>
     <string name="apm_power_off">Power Off</string>
     <string name="apm_reboot">Reboot</string>
     <string name="apm_reb_rec">Recovery Mode</string>
@@ -1033,7 +1040,6 @@
     <string name="apm_safe">Safe Mode</string>
     <string name="ent">Entries</string>
     <string name="apm_root_req">Shortcutter APM Requires Root access</string>
-    <string name="weather_overcast">Overcast</string>
     <string name="auto_with_root">Automatically granted with ROOT</string>
     <string name="unread_count">Unread Notifications:</string>
     <string name="loading_apps">Loading Applications…</string>
@@ -1156,4 +1162,8 @@
     <string name="pressure">Pressure:&#160;</string>
     <string name="wind_speed">Wind Speed:&#160;</string>
     <string name="long_press_drag">Long press and hold the trigger to change the vertical position.</string>
+    <string name="pill_trigger">Pill Style Trigger</string>
+    <string name="additional_opts">Additional Options</string>
+    <string name="floating_controls">Show Floating Controls</string>
+    <string name="vol_timeout">Panel Timeout</string>
 </resources>

@@ -177,7 +177,6 @@
     <string name="datausage">"Мобильные данные"</string>
     <string name="defaultsize">Шрифт по умолчанию</string>
     <string name="delete">Удалить</string>
-    <string name="design_sb_settings">Настройте Вашу боковую панель</string>
     <string name="design_settings">Темы и Поведение</string>
     <string name="deskmode">Часы</string>
     <string name="detect_touch">Нажатие и Прокрутка Тригеров</string>
@@ -724,16 +723,6 @@
     <string name="rearrange">Изменить</string>
     <string name="trialandyearly">4 Дня Триал &amp; Разблокировать на 1 год</string>
     <string name="backup_summary">Резервное копирование всех данных приложения на карту SD</string>
-    <string name="weather_clear">Ясно</string>
-    <string name="weather_foggy">Туман</string>
-    <string name="weather_hazy">Туманно</string>
-    <string name="weather_icy">Гололед</string>
-    <string name="weather_rainy">Дождь</string>
-    <string name="weather_stormy">Буря</string>
-    <string name="weather_unknown">Неизвестно</string>
-    <string name="weather_cloudy">Облачно</string>
-    <string name="weather_snowy">Снег</string>
-    <string name="weather_windy">Ветер</string>
     <string name="apm_power_off">Отключение питания</string>
     <string name="apm_reboot">Перезагрузка</string>
     <string name="apm_reb_rec">Перезагрузка в рекавери</string>
@@ -743,7 +732,6 @@
     <string name="apm_safe">Перезагрузка в безопасном режиме</string>
     <string name="ent">Записи</string>
     <string name="apm_root_req">Доступ с правами Root требует Shortcutter APM</string>
-    <string name="weather_overcast">Пасмурно</string>
     <string name="auto_with_root">Автоматически предоставляются с ROOT</string>
     <string name="unread_count">Непрочитанные уведомления:</string>
     <string name="loading_activities">Загрузка активити…</string>
@@ -864,4 +852,8 @@
     <string name="pressure">Pressure:</string>
     <string name="wind_speed">Wind Speed:&#160;</string>
     <string name="long_press_drag">Long press and hold rhe trigger to change the vertical position.</string>
+    <string name="floating_controls">Show Floating Controls</string>
+    <string name="vol_timeout">Panel Timeout</string>
+    <string name="additional_opts">Additional Options</string>
+    <string name="pill_trigger">Pill Style Trigger</string>
 </resources>

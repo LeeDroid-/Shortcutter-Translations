@@ -521,7 +521,6 @@
     <string name="qs_tiles">Płytki QS</string>
     <string name="custom_tiles">Własne Płytki</string>
     <string name="sb_tb_settings">Ustawienia Paska Bocznego/Toolbox</string>
-    <string name="design_sb_settings">Konfiguruj Pasek Boczny/ToolBox</string>
     <string name="enable_tiles_tb">Włącz/Wyłącz Płytki Paska Bocznego</string>
     <string name="detect_touch">Dotknięcie &amp; Swypnięcie Wyzwalacza</string>
     <string name="touch_and_swipe">Pasek Boczny otwiera się po dotknięciu lub zaciśnięciu przycisku wyzwalacza \n (góra, dół lub środek)</string>
@@ -725,16 +724,6 @@
     <string name="rearrange">Zmiana kolejności</string>
     <string name="trialandyearly">4 Dni Trial &amp; Odblokowanie roczne</string>
     <string name="backup_summary">Tworzenie kopii zapasowych wszystkich danych aplikacji na kartę SD</string>
-    <string name="weather_clear">Czyste niebo</string>
-    <string name="weather_foggy">Zamglenia</string>
-    <string name="weather_hazy">Mgliście</string>
-    <string name="weather_icy">Oblodzenia</string>
-    <string name="weather_rainy">Deszczowo</string>
-    <string name="weather_stormy">Burzowo</string>
-    <string name="weather_unknown">Nieznane</string>
-    <string name="weather_cloudy">Zachmurzenie</string>
-    <string name="weather_snowy">Śnieg</string>
-    <string name="weather_windy">Wietrznie</string>
     <string name="apm_power_off">Wyłącz</string>
     <string name="apm_reboot">Restart</string>
     <string name="apm_reb_rec">Restart do Recovery</string>
@@ -744,7 +733,6 @@
     <string name="apm_safe">Restart do Trybu Safe</string>
     <string name="ent">Wpisy</string>
     <string name="apm_root_req">Shortcutter APM Wymaga dostępu do Roota</string>
-    <string name="weather_overcast">Pochmurno</string>
     <string name="auto_with_root">Automatycznie przyznawane z ROOT.</string>
     <string name="unread_count">Nieprzeczytane Powiadomienia:</string>
     <string name="loading_activities">Ładowanie Działań…</string>
@@ -863,4 +851,8 @@
     <string name="pressure">Pressure:</string>
     <string name="wind_speed">Wind Speed:&#160;</string>
     <string name="long_press_drag">Long press and hold rhe trigger to change the vertical position.</string>
+    <string name="floating_controls">Show Floating Controls</string>
+    <string name="vol_timeout">Panel Timeout</string>
+    <string name="additional_opts">Additional Options</string>
+    <string name="pill_trigger">Pill Style Trigger</string>
 </resources>

@@ -515,7 +515,6 @@
     <string name="qs_tiles">下拉</string>
     <string name="custom_tiles">自定义瓷贴</string>
     <string name="sb_tb_settings">侧栏/工具箱设置</string>
-    <string name="design_sb_settings">配置你的 Shortcutter 侧栏/工具箱</string>
     <string name="enable_tiles_tb">启用/停用侧栏瓷贴</string>
     <string name="detect_touch">触摸 &amp; 滑动触发器</string>
     <string name="touch_and_swipe">当触摸触发器或者向(上方、下方或内部)\n滑动时打开侧栏</string>
@@ -716,16 +715,6 @@
     <string name="rearrange">重新排列</string>
     <string name="trialandyearly">试用 4 天 &amp; 年度订阅 (£1.69)</string>
     <string name="backup_summary">备份所有 App 数据到你的 SD 卡</string>
-    <string name="weather_clear">晴朗</string>
-    <string name="weather_foggy">雾天</string>
-    <string name="weather_hazy">薄雾</string>
-    <string name="weather_icy">冰冷</string>
-    <string name="weather_rainy">雨天</string>
-    <string name="weather_stormy">暴雨</string>
-    <string name="weather_unknown">不明</string>
-    <string name="weather_cloudy">多云</string>
-    <string name="weather_snowy">多雪</string>
-    <string name="weather_windy">多风</string>
     <string name="apm_power_off">关机</string>
     <string name="apm_reboot">重新启动</string>
     <string name="apm_reb_rec">重启进入 Recovery</string>
@@ -735,7 +724,6 @@
     <string name="apm_safe">重启进入安全模式</string>
     <string name="ent">条目</string>
     <string name="apm_root_req">Shortcutter APM 需要 Root 访问权限</string>
-    <string name="weather_overcast">阴天</string>
     <string name="auto_with_root">自动使用 ROOT 授予权限</string>
     <string name="unread_count">未读通知数:</string>
     <string name="loading_activities">正在加载活动项…</string>
@@ -855,4 +843,8 @@
     <string name="pressure">Pressure:</string>
     <string name="wind_speed">Wind Speed:&#160;</string>
     <string name="long_press_drag">Long press and hold rhe trigger to change the vertical position.</string>
+    <string name="floating_controls">Show Floating Controls</string>
+    <string name="vol_timeout">Panel Timeout</string>
+    <string name="additional_opts">Additional Options</string>
+    <string name="pill_trigger">Pill Style Trigger</string>
 </resources>
