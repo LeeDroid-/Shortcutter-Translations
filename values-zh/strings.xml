@@ -418,7 +418,6 @@
     <string name="location">位置更新</string>
     <string name="temp">当前温度: </string>
     <string name="dewp">露点: </string>
-    <string name="weather_celsius">温度单位</string>
     <string name="celsius">摄氏度</string>
     <string name="fahrenheit">华氏度</string>
     <string name="humidity">湿度: </string>
@@ -847,4 +846,5 @@
     <string name="vol_timeout">Panel Timeout</string>
     <string name="additional_opts">Additional Options</string>
     <string name="pill_trigger">Pill Style Trigger</string>
+    <string name="weather_celsius">Units Imperial/Metric</string>
 </resources>

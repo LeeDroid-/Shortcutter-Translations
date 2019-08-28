@@ -453,7 +453,8 @@
     <string name="location">Location Updating</string>
     <string name="temp">Temperature:&#160;</string>
     <string name="dewp">Dew point:&#160;</string>
-    <string name="weather_celsius">Weather Temperature Unit</string>
+    <string name="
+">Units Imperial/Metric</string>
     <string name="celsius">Celsius</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="humidity">Humidity:&#160;</string>
@@ -644,7 +645,8 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv7.3.8:
+        \n\nv7.3.9:
+        \n\u2022 Get weather data in system language.
         \n\u2022 Add option to change Volume Panel timeout.
         \n\u2022 Fix German string format in my location.
         \n\u2022 Fix drag &amp; drop sidebar trigger.
@@ -655,6 +657,7 @@
         \n\u2022 Fix crash when no system file browser installed.
         \n\u2022 Move Sidebar expander &amp; Quick Tile to main fragment.
         \n\u2022 Adjust default sidebar trigger scale.
+        \n\u2022 Translation Updates.
         \n\nv7.3.7:
         \n\u2022 Fix crash in billing activity.
         \n\u2022 Suspend weather service if location unavailable.

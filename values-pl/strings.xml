@@ -420,7 +420,6 @@
     <string name="location">Aktualizacja Lokalizacji</string>
     <string name="temp">Temperatura: &#160;</string>
     <string name="dewp">Punkt rosy: &#160;</string>
-    <string name="weather_celsius">Jednostka Temperatury</string>
     <string name="celsius">Celcjusza</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="humidity">Wilgotność: &#160;</string>
@@ -855,4 +854,5 @@
     <string name="vol_timeout">Panel Timeout</string>
     <string name="additional_opts">Additional Options</string>
     <string name="pill_trigger">Pill Style Trigger</string>
+    <string name="weather_celsius">Units Imperial/Metric</string>
 </resources>

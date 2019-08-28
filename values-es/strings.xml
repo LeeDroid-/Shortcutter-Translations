@@ -436,7 +436,6 @@
     <string name="location">Actualizando ubicación</string>
     <string name="temp">Temperatura:&#160;</string>
     <string name="dewp">Punto de rocío:&#160;</string>
-    <string name="weather_celsius">Unidad de temperatura</string>
     <string name="celsius">Centígrado</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="humidity">Humedad:&#160;</string>
@@ -843,8 +842,9 @@
     <string name="pressure">Presión:</string>
     <string name="wind_speed">Velocidad del viento:&#160;</string>
     <string name="long_press_drag">Mantener presionada la barra lateral para cambiar la posición.</string>
-    <string name="floating_controls">Show Floating Controls</string>
-    <string name="vol_timeout">Panel Timeout</string>
-    <string name="additional_opts">Additional Options</string>
-    <string name="pill_trigger">Pill Style Trigger</string>
+    <string name="floating_controls">Mostrar controles flotantes</string>
+    <string name="vol_timeout">Tiempo de espera del panel</string>
+    <string name="additional_opts">Opciones Adicionales</string>
+    <string name="pill_trigger">Estilo del Activador</string>
+    <string name="weather_celsius">Units Imperial/Metric</string>
 </resources>
