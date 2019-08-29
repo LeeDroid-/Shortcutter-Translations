@@ -436,6 +436,7 @@
     <string name="location">Actualizando ubicación</string>
     <string name="temp">Temperatura:&#160;</string>
     <string name="dewp">Punto de rocío:&#160;</string>
+    <string name="weather_celsius">Unidad de temperatura</string>
     <string name="celsius">Centígrado</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="humidity">Humedad:&#160;</string>
@@ -837,7 +838,7 @@
     <string name="volume_intercept">Necesitas servicios de accesibilidad.
         \n\nCon los servicios de accesibilidad, Shortcutter sólo puede detectar cuando se presiona la tecla de volumen.
         \n\nPresiona en Continuar y habilita el servicio para anular el panel de volumen del sistema.\n</string>
-    <string name="tether_hot">Zona Wi-Fi y Conexión compartida</string>
+    <string name="tether_hot">Zona Wi-Fi/Conexión compartida</string>
     <string name="link_to_settings">Acceso directo a los Ajustes</string>
     <string name="pressure">Presión:</string>
     <string name="wind_speed">Velocidad del viento:&#160;</string>
@@ -846,5 +847,6 @@
     <string name="vol_timeout">Tiempo de espera del panel</string>
     <string name="additional_opts">Opciones Adicionales</string>
     <string name="pill_trigger">Estilo del Activador</string>
-    <string name="weather_celsius">Units Imperial/Metric</string>
+    <string name="kph">km/h</string>
+    <string name="mph">mph</string>
 </resources>

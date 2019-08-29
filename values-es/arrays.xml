@@ -71,16 +71,14 @@
         <item>30m</item>
         <item>60m</item>
     </string-array>
-
-<string-array name="sb_pos_entries">
-<item>Derecha</item> 
-<item>Izquierda</item> 
-<item>Abajo</item>
- </string-array> 
-
-<string-array name="sb_pos_values">
- <item>0</item>
- <item>1</item>
- <item>2</item> 
-</string-array>
+    <string-array name="sb_pos_entries">
+        <item>Derecha</item>
+        <item>Izquierda</item>
+        <item>Abajo</item>
+    </string-array>
+    <string-array name="sb_pos_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
 </resources>

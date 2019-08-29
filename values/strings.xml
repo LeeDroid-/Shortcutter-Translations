@@ -453,8 +453,7 @@
     <string name="location">Location Updating</string>
     <string name="temp">Temperature:&#160;</string>
     <string name="dewp">Dew point:&#160;</string>
-    <string name="
-">Units Imperial/Metric</string>
+    <string name="weather_celsius">Weather Temperature Unit</string>
     <string name="celsius">Celsius</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="humidity">Humidity:&#160;</string>
@@ -645,8 +644,14 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv7.3.9:
+        \n\nv7.4.3:
+        \n\u2022 Sidebar fill screen vertically if nav hidden &amp; vertical fill enabled.
+        \n\u2022 UI Adjustments.
+        \n\u2022 Translation updates.
+        \n\nv7.4.2:
         \n\u2022 Get weather data in system language.
+        \n\u2022 More detailed weather description.
+        \n\u2022 Add Mph/Kph units for wind speed.
         \n\u2022 Add option to change Volume Panel timeout.
         \n\u2022 Fix German string format in my location.
         \n\u2022 Fix drag &amp; drop sidebar trigger.
@@ -1169,4 +1174,6 @@
     <string name="additional_opts">Additional Options</string>
     <string name="floating_controls">Show Floating Controls</string>
     <string name="vol_timeout">Panel Timeout</string>
+    <string name="kph">Kph</string>
+    <string name="mph">Mph</string>
 </resources>

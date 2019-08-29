@@ -560,6 +560,7 @@
     <string name="wake_summary">Держит ваш экран устройства включенным</string>
     <string name="wake_tile_title">Пробуждения экрана</string>
     <string name="weather">Погода</string>
+    <string name="weather_celsius">Единицы температуры</string>
     <string name="weather_desc">Открывает всплывающее окно с текущей информации о погоде</string>
     <string name="welcome_to_shortcutter">Добро пожаловать</string>
     <string name="went_wrong">Что-то пошло не так, пожалуйста, попробуйте еще раз. Если эта проблема не устраняется, пожалуйста, свяжитесь со мной с деталями вашего устройства.</string>
@@ -855,5 +856,6 @@
     <string name="vol_timeout">Panel Timeout</string>
     <string name="additional_opts">Additional Options</string>
     <string name="pill_trigger">Pill Style Trigger</string>
-    <string name="weather_celsius">Units Imperial/Metric</string>
+    <string name="kph">Kph</string>
+    <string name="mph">Mph</string>
 </resources>

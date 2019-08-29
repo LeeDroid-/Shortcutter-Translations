@@ -418,6 +418,7 @@
     <string name="location">Konum Güncelleniyor</string>
     <string name="temp">Sıcaklık:&#160;</string>
     <string name="dewp">Çiğ düşme sıcaklığı:&#160;</string>
+    <string name="weather_celsius">Sıcaklık Birimi</string>
     <string name="celsius">Selsius</string>
     <string name="fahrenheit">Fahrenhayt</string>
     <string name="humidity">Nem:&#160;</string>
@@ -847,5 +848,6 @@
     <string name="vol_timeout">Panel Zaman Aşımı</string>
     <string name="additional_opts">Ekstra Seçenekler</string>
     <string name="pill_trigger">Hap Stili Tetik</string>
-    <string name="weather_celsius">Units Imperial/Metric</string>
+    <string name="kph">Kph</string>
+    <string name="mph">Mph</string>
 </resources>
