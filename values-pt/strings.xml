@@ -93,8 +93,8 @@
     <string name="settings_secure_instruct">Pode manualmente dar acesso a Definições Protegidas a Shortcutter, permitindo maior controle sobre o sistema.\n\nA partir do PC vá a \'www.leedroid.co.uk/\#SettingsSecureGuide\' e siga as instruções.\n\n</string>
     <string name="confirm">CONFIRMAR</string>
     <string name="screenshot">Screenshot</string>
-    <string name="stop_recording"> Começar Gravação </string>
-    <string name="start_recording"> Parar Gravação </string>
+    <string name="stop_recording"> Parar Gravação </string>
+    <string name="start_recording"> Começar Gravação </string>
     <string name="show_toggle">Mostrar Interruptor</string>
     <string name="close">Fechar</string>
     <string name="record_audio">Gravar Áudio</string>
