@@ -811,51 +811,53 @@
 	     \n\u2022 Дополнительные параметры конфигурации в приложении         
 	     \n  &amp; Удалить уведомление о щелчке 60 плиток</string>
     <string name="sys_vol">Системная панель</string>
-    <string name="notification_listener">Notification Listener</string>
-    <string name="notif_list">Services requiring notification access:
-        \n\n* Volume Panel\n- Detect cast dialog &amp; stop intercept.
-        \n* Notification Blocker (Oreo +)
-        \n- block the \"Running In Background\" notification.
-        \n* Night Light/Desk Clock (When Active)
-        \n- display active notification count.
-        \n\nThe only information scanned by Shortcutter is package name\'s, no notification content is stored.</string>
-    <string name="left">Position Left</string>
-    <string name="latest">Please make sure you are on the latest version of the app.</string>
-    <string name="block_power_locked_sum">Block the system power dialog when device is locked</string>
-    <string name="block_power_locked_title">Secure Power Menu</string>
-    <string name="col_slide_colour">Slider Colour</string>
-    <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
-    <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
-    <string name="blacklist">Exclude Applications</string>
-    <string name="edit_widgets">Edit Widgets</string>
-    <string name="widget_not_enabled">Widget not active on home screen.</string>
-    <string name="accessibility_description">Accessibility access allows shortcutter to perform the following actions/tasks:
-        \n\n\u2022 Detect Volume Key Press.
-        \n\u2022 Toggle Split Screen
-        \n\u2022 Toggle Recent Apps
-        \n\u2022 Show Power Menu
-        \n\u2022 Expand Notifications &amp; Quick Settings
-        \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
-        \n\n The only packages monitored are:
-        \n\u2022 Settings
-        \n\u2022 Package Installer
-        \n\n Key Presses:
-        \n\u2022 Vol +/- keys press detection.
-        \n\u2022 No other keys are captured.
-        \n - Only observed when volume panel override is enabled.</string>
-    <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
-    <string name="volume_intercept">Accessibility Service Required.
-        \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
-        \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
-    <string name="tether_hot">Tethering &amp; Hotspot</string>
-    <string name="link_to_settings">A direct link to the Settings Activity</string>
-    <string name="pressure">Pressure:</string>
-    <string name="wind_speed">Wind Speed:&#160;</string>
-    <string name="long_press_drag">Long press and hold rhe trigger to change the vertical position.</string>
-    <string name="floating_controls">Show Floating Controls</string>
-    <string name="vol_timeout">Panel Timeout</string>
-    <string name="additional_opts">Additional Options</string>
-    <string name="pill_trigger">Pill Style Trigger</string>
+    <string name="notification_listener">Уведомление Слушатель</string>
+    <string name="notif_list">Услуги, требующие доступа к уведомлениям:
+        \n\n* Том Панель томов
+        \n- Обнаружить литой диалог &amp; остановить перехват.
+        \n* Блокировщик уведомлений (Oreo +)
+        \n- заблокировать уведомление \ "Running In Background\".
+        \n* Night Light/Desk Clock (Ночной свет/Деск часы) (если активен)
+        \n- отображение счетчика активных уведомлений.
+        \n\nThe Только информация, отсканированная профилем, является пакетом name\, уведомления не сохраняются.</string>
+    <string name="left">Положение Слева</string>
+    <string name="latest">Пожалуйста, убедитесь, что вы находитесь на последней версии приложения.</string>
+    <string name="block_power_locked_sum">Блокировка диалогового окна питания системы при заблокированном устройстве</string>
+    <string name="block_power_locked_title">Меню безопасности питания</string>
+    <string name="col_slide_colour">Цвет ползунка</string>
+    <string name="vol_panel_ring_as_default_sum">Контрольное кольцо вместо Медиа, когда ничего не воспроизводится.</string>
+    <string name="vol_panel_ring_as_default">По умолчанию для громкости звонка</string>
+    <string name="blacklist">Исключить приложения</string>
+    <string name="edit_widgets">Редактирование виджетов</string>
+    <string name="widget_not_enabled">Виджет не активен на главном экране.</string>
+    <string name="accessibility_description">Доступность позволяет быстро выполнить следующие действия/задачи:
+        \n\n\n\u2022 Обнаружить нажатие клавиши громкости.
+        \n\u2022 Переключение на раздельный экран
+        \n\u2022 Переключение между последними приложениями
+        \n\u2022 Показать меню питания
+        \n\u2022 Расширение списка уведомлений &amp; Быстрые настройки
+        \n\u2022 Обнаружение активности - Требуется для фильтрации экрана; Углы экрана; эти службы будут остановлены, когда будут установлены приложения; разрешения будут предоставлены.
+        \n\n Отслеживаются только следующие пакеты:
+        \n\u2022 Настройки
+        \n\u2022 Инсталлятор пакетов
+        \n\n Нажмите клавиши:
+        \n\u2022 Кнопки Vol +/- нажимают кнопку детектирования.
+        \n\u2022 Другие ключи не снимаются.
+        \n - Наблюдается только при включенной функции переопределения панели громкости.</string>
+    <string name="acc_needed_long">\n Нажмите кнопку Continue &amp; перейдите в раздел Shortcutter, чтобы включить эту службу. \n</string>
+    <string name="volume_intercept">Требуется доступная услуга.
+        \n\nShortcutter распознавать нажатия клавиш регулировки громкости можно только с помощью сервиса Accessibility Services.
+        \n\nPlease нажмите кнопку Далее и включите функцию переопределения системной панели громкости. \n</string>
+    <string name="tether_hot">Трос &amp; Точка доступа</string>
+    <string name="link_to_settings">Прямая ссылка на раздел "Настройки".</string>
+    <string name="pressure">Давление:</string>
+    <string name="wind_speed">Скорость ветра:&#160;</string>
+    <string name="long_press_drag">Длительное нажатие и удержание кнопки REA для изменения вертикального положения.</string>
+    <string name="floating_controls">Показать плавающие элементы управления</string>
+    <string name="vol_timeout">Время ожидания панели</string>
+    <string name="additional_opts">Дополнительные настройки</string>
+    <string name="pill_trigger">Запуск таблеток Стиля</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
+    <string name="cust_colours">Custom Colours Defined</string>
 </resources>

@@ -65,10 +65,10 @@
     <string name="silent">Silent</string>
     <string name="screen_timeout">Timeout</string>
     <string name="additonal_perms_req">Additional Permissions Required</string>
-    <string name="notification_policy_message">Some shortcuts require the ability to modify notification settings, as we cannot request these permissions in the normal fasion, you will need to enable them.
+    <string name="notification_policy_message">Some shortcuts require the ability to modify notification &amp; DND settings, as we cannot request this permission in the normal fasion, you will need to enable them.
         \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
     <string name="proceed">Proceed</string>
-    <string name="system_perms_message">Some services require the ability to write system settings, as we cannot request these permissions in the normal fashion, you will need to enable them.
+    <string name="system_perms_message">Some services require the ability to write system settings, as we cannot request this permission in the normal fashion, you will need to enable them.
         \n\nClick proceed &amp; you will be taken to the relevant screen.\n</string>
     <string name="press_back">Press back to return to the app.</string>
     <string name="credits">Credits</string>
@@ -117,8 +117,8 @@
     <string name="yes">Yes</string>
     <string name="subscription">Annual Subscription</string>
     <string name="thankyoumultiple">Multiple licenses detected!
-        \nThank\'s for your support!</string>
-    <string name="thankyou">Thank\'s for your support!</string>
+        \nThanks for your support!</string>
+    <string name="thankyou">Thanks for your support!</string>
     <string name="iab_error">In App Billing is not supported on your device yet.
         \n\nWould you like to purchase a Premium key via the play store?</string>
     <string name="no">No</string>
@@ -232,6 +232,7 @@
         \n\u2022 @Majida Whale - Chinese
         \n\u2022 @Kodenma - Japanese
         \n\u2022 @Anonymous ;) - Russian
+        \n\u2022 @SamiA - Persian
         \n\nIf you are interested in helping me translate the app, drop me an email using the Email Feedback option in the menu.\n\nAdditional Graphics By @Bogdan</string>
     <string name="file_tile">File
         \nBrowser</string>
@@ -428,14 +429,14 @@
         \n\u2022 Open with a swipe or a touch of the trigger.
         \n\u2022 Fully customisable colour, layout, position &amp; design.
         \n\u2022 Access apps, shortcuts, toggles, tools &amp; services!</string>
-    <string name="how_it_works4"><u>Exposed Icons/Launcher Shortcut\'s</u>
+    <string name="how_it_works4"><u>Exposed Icons/Launcher Shortcuts</u>
         \n
         \n\u2022 Add an array of Exposed Icons (little apps) to your app drawer &amp; home screen.
         \n\u2022 Make your shortcuts accessible to other apps like Tasker, Nova Launcher &amp; Edge Sense!</string>
-    <string name="how_it_works4oreo"><u>Dynamic State Shortcut\'s</u>
+    <string name="how_it_works4oreo"><u>Dynamic State Shortcuts</u>
         \n
         \n\u2022 An abundance of dynamic state home screen shortcuts!
-        \n\nTo add a launcher shortcut:\n Long press your home screen, go to shortcuts and select Shortcutter Shortcut\'s.</string>
+        \n\nTo add a launcher shortcut:\n Long press your home screen, go to shortcuts and select Shortcutter Shortcuts.</string>
     <string name="config_serv">Settings</string>
     <string name="screenshot_root">Use Root Screenshot Method</string>
     <string name="screenshot_root_summary">Produces a screenshot using the system screencap binary</string>
@@ -508,13 +509,13 @@
     <string name="shortcutter_permissions_location">This toggle requires the ability to access your Location.\n\n
     In order to do this the app needs the Location permission.\n\n
     Please click proceed &amp; grant the permission when prompted.</string>
-    <string name="install_shortcut">Shortcutter Shortcut\'s</string>
+    <string name="install_shortcut">Shortcutter Shortcuts</string>
     <string name="select_shortcut">Select A Shortcut To Install</string>
     <string name="header">Remove Header</string>
     <string name="review">Don\'t forget to leave review in the Play Store!\n\nAny additional issues or feedback, please drop me an email :)</string>
     <string name="enjoying">Enjoying Shortcutter?</string>
     <string name="counter">Counter\n+1</string>
-    <string name="expose_activity_summary">Create additional icons to access toggle\'s from your home screen or app drawer.</string>
+    <string name="expose_activity_summary">Create additional icons to access toggles from your home screen or app drawer.</string>
     <string name="wifi">WiFi</string>
     <string name="wifi_summary">Enable/Disable WiFi</string>
     <string name="wifi_hotspot_summary">Enable/Disable WiFi HotSpot</string>
@@ -541,7 +542,7 @@
         \n\nTo negate this issue, please consider disabling Battery Optimisation for the app via Settings > Search > Optimisation.
         \n\nOr click \"Action Now\" to go straight there.</string>
     <string name="gridItems" translatable="false">customapp1TB,customapp2TB,customapp3TB,customapp4TB,alarm,ram,quickcalendar,reminder,clipboard,floatingcalc,stopwatch,corners,filter,wake,sync,camera,nightlight,voicesearch</string>
-    <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permission\'s have been granted</string>
+    <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permissions have been granted</string>
     <string name="monochrome">B&amp;W</string>
     <string name="monochrome_summary">Change the display to black and white (Monochrome)</string>
     <string name="launch_power">Launches Settings \> Power\n(if no settings secure access)</string>
@@ -644,9 +645,25 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv7.4.3:
+        \n\nv7.5.3:
+        \n\u2022 Improve colour accuracy of sidebar items.
+        \n\u2022 Fully customisable Volume Panel colours.
+        \n\u2022 Performance improvements.
+        \n\nv7.5.2:
+        \n\u2022 Make sidebar header transparent.
+        \n\u2022 Translation Updates.
+        \n\nv7.5.1:
+        \n\u2022 Fix items still checked when removed from sidebar.
+        \n\u2022 Add Persian translations - Thanks @Sami A
+        \n\u2022 Translation Corrections.
+        \n\u2022 Layout Corrections.
+        \n\nv7.4.9:
+        \n\u2022 Fix choosing screenshot storage path.
+        \n\u2022 Fix Floatibg Toolbox trigger obscuring views.
+        \n\u2022 Fix crash when launching app from shortcuts.
         \n\u2022 Sidebar fill screen vertically if nav hidden &amp; vertical fill enabled.
-        \n\u2022 UI Adjustments.
+        \n\u2022 Home UI Adjustments.
+        \n\u2022 Fix Mute Media setting volume to max.
         \n\u2022 Translation updates.
         \n\nv7.4.2:
         \n\u2022 Get weather data in system language.
@@ -696,12 +713,12 @@
         \n\u2022 Add widget text color option.
         \n\u2022 Add internet permission for new weather implementation.
         \n\u2022 New Weather Service thanks to OpenWeather Map.
-        \n\u2022 Enable weather in Widget\'s.
+        \n\u2022 Enable weather in Widgets.
         \n\u2022 New Location library - Thanks David Serrano.
         \n\u2022 Open weather Map Helper Library - Thanks Kwaben Berko.
         \n\u2022 Add option to remove rounded Sidebar corners.
         \n\u2022 Apply sidebar theme changes on the fly.
-        \n\u2022 Remove Google Awareness API\'s (Depreciated)
+        \n\u2022 Remove Google Awareness APIs (Depreciated)
         \n\u2022 Make Mobile Data toggle available non root (Link to Settings)
         \n\u2022 Vol Panel - Adjust BT Volume with Media &amp; Call.
         \n\nv7.2.6:
@@ -713,9 +730,9 @@
         \n\nv7.2.5:
         \n\u2022 Reduce Vol Panel timeout to 3 seconds
         \n\u2022 Fix vol Panel Override in android 7
-        \n\u2022 Do not send close dialog\'s broadcast in vol panel
-        \n\u2022 Widget scaling improvement\'s.
-        \n\u2022 Properly handle crash in service\'s, no error thrown.
+        \n\u2022 Do not send close dialogs broadcast in vol panel
+        \n\u2022 Widget scaling improvements.
+        \n\u2022 Properly handle crash in services, no error thrown.
         \n\u2022 Countdown Timer - notify until cleared.
         \n\nv7.2.2:
         \n\u2022 Fix QS Custom Tile 8
@@ -757,8 +774,8 @@
         \n\u2022 Significant accessibility optimisation.
         \n\nv7.1.0
         \n\u2022 Fix Accessibility performance regression.
-        \n\u2022 Fix APM check box\'s.
-        \n\u2022 Bug Fix\'s &amp; clean-up\'s.
+        \n\u2022 Fix APM check boxs.
+        \n\u2022 Bug Fixs &amp; clean-ups.
         \n\nv7.0.9:
         \n\u2022 Improve APM intercept and Power Menu blocker on android 7.
         \n\u2022 Translation updates.
@@ -792,7 +809,7 @@
         \n\u2022 Performance enhancements.
         \n\u2022 Fix Vol Panel in Android 7.
         \n\u2022 Fix crash in Vol Panel when no DND Access.
-        \n\u2022 Collapse Vol Panel if home or recent app\'s pressed.
+        \n\u2022 Collapse Vol Panel if home or recent apps pressed.
         \n\u2022 Do not fire APM or Vol Panel if locked or screen off.
         \n\u2022 Fix crash in Clipboard &amp; Reminder if no speech recognition app found.
         \n\nv7.0.4:
@@ -873,7 +890,7 @@
         \n\u2022 Disable SideBar expander with Sidebar.
         \n\nv6.8.8:
         \n\u2022 Fix Quick reminder Layout.
-        \n\u2022 PopupMenu adjustment\'s.
+        \n\u2022 PopupMenu adjustments.
         \n\nv6.8.7:
         \n\u2022 Fix closing floating calculator.
         \n\u2022 Enable header when switching Sidebar to bottom.
@@ -1077,7 +1094,7 @@
     <string name="add_home_icon">Auto Add To Home Screen.</string>
     <string name="add_home_icon_sum">Add an icon to the home screen as well as the app drawer.</string>
     <string name="sc_opt">Shortcutter is being optimised by the system.\nClick here for more information.</string>
-    <string name="ore_shorts">Install Dynamic Launcher shortcut\'s.</string>
+    <string name="ore_shorts">Install Dynamic Launcher shortcuts.</string>
     <string name="pinned_shorts">Pinned Shortcuts.</string>
     <string name="back">Back</string>
     <string name="home_sum">Emulates the home button.</string>
@@ -1088,9 +1105,9 @@
     <string name="standalone">Standalone</string>
     <string name="label">Label</string>
     <string name="rev_land" translatable="false">270\u00B0</string>
-    <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcut\'s]]></string>
-    <string name="man_qs">Manage System Pull-Down Tile\'s</string>
-    <string name="launcher_shorts"><![CDATA[Launcher Shortcut\'s & Icon\'s]]></string>
+    <string name="conf_sb"><![CDATA[Configure The SideBar & Its Shortcuts]]></string>
+    <string name="man_qs">Manage System Pull-Down Tiles</string>
+    <string name="launcher_shorts"><![CDATA[Launcher Shortcuts, Icons & Widgets]]></string>
     <string name="shortcut_sets">Shortcut Specific Settings</string>
     <string name="special_tiles">Advanced Access Tiles</string>
     <string name="special_tiles_sum">Tiles that require either ROOT or Settings Secure access.</string>
@@ -1176,4 +1193,5 @@
     <string name="vol_timeout">Panel Timeout</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
+    <string name="cust_colours">Custom Colours Defined</string>
 </resources>

@@ -849,4 +849,5 @@
     <string name="pill_trigger">Estilo del Activador</string>
     <string name="kph">km/h</string>
     <string name="mph">mph</string>
+    <string name="cust_colours">Custom Colours Defined</string>
 </resources>

@@ -610,7 +610,7 @@
     <string name="reboot_menu">Neustart Menü</string>
     <string name="total_usage">Gesamtverbrauch anzeigen</string>
     <string name="total_usage_sum">Zeige gesamten Datenverbrauch oder teile auf nach Up/Down</string>
-    <string name="notif_access">Um Benachrichtigungen zu blockieren musst du einen Benachrichtigungsempfänger aktivieren.\\n\\nDieser Empfänger wird nur auf Benachrichtigungen aus dem Androidsystem hören. Jede Mitteilung die Folgendes enthält \\\"läuft im Hintergrund\\\" wird entfernt.\\n\\n Bitte klicke auf weiter &amp; aktiviere Shortcutters Benachrichtigungs Blockierer.</string>
+    <string name="notif_access">Um Benachrichtigungen zu blockieren musst du einen Benachrichtigungsempfänger aktivieren.\n\nDieser Empfänger wird nur auf Benachrichtigungen aus dem Androidsystem hören. Jede Mitteilung die Folgendes enthält \"läuft im Hintergrund\" wird entfernt.\n\n Bitte klicke auf weiter &amp; aktiviere Shortcutters Benachrichtigungs Blockierer.</string>
     <string name="left_sum">Einhandmodus nach links umstellen</string>
     <string name="wake_show_notif">Bildschirmwach Benachrichtigung aktiv</string>
     <string name="bonus_features">Bonusfunktionen</string>
@@ -844,12 +844,13 @@
     <string name="tether_hot">Tethering &amp; Hotspot</string>
     <string name="link_to_settings">Ein direkter Link zur Einstellungsaktivität</string>
     <string name="pressure">Druck:</string>
-    <string name="wind_speed">Wind Speed:&#160;</string>
-    <string name="long_press_drag">Long press and hold the trigger to change the vertical position.</string>
-    <string name="floating_controls">Show Floating Controls</string>
-    <string name="vol_timeout">Panel Timeout</string>
-    <string name="additional_opts">Additional Options</string>
-    <string name="pill_trigger">Pill Style Trigger</string>
+    <string name="wind_speed">Windgeschwindigkeit:&#160;</string>
+    <string name="long_press_drag">Halten Sie den Auslöser lange gedrückt, um die vertikale Position zu ändern.</string>
+    <string name="floating_controls">Schwimmende Kontrollen anzeigen</string>
+    <string name="vol_timeout">Panel-Timeout</string>
+    <string name="additional_opts">Zusätzliche Optionen</string>
+    <string name="pill_trigger">Pillenart Trigger</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
+    <string name="cust_colours">Custom Colours Defined</string>
 </resources>

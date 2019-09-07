@@ -608,7 +608,7 @@
     <string name="reboot_menu">重启菜单</string>
     <string name="total_usage">显示总用量</string>
     <string name="total_usage_sum">显示数据总用量或按「上/下载」方式分割显示Up/Down</string>
-    <string name="notif_access">为拦截通知，我们需要启用「通知监听器」。\\n\\n这个监听器将仅监听 Android 系统的通知，任何包含 \\\"在后台运行中\\\" 的通知将被移除。\\n\\n 请点击继续 &amp; 启用 Shortcutters 通知拦截器。</string>
+    <string name="notif_access">为拦截通知，我们需要启用「通知监听器」。\n\n这个监听器将仅监听 Android 系统的通知，任何包含 \"在后台运行中\" 的通知将被移除。\n\n 请点击继续 &amp; 启用 Shortcutters 通知拦截器。</string>
     <string name="left_sum">将单手模式设为左侧</string>
     <string name="wake_show_notif">屏幕唤醒活跃通知</string>
     <string name="bonus_features">额外功能</string>
@@ -849,4 +849,5 @@
     <string name="pill_trigger">Pill Style Trigger</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
+    <string name="cust_colours">Custom Colours Defined</string>
 </resources>

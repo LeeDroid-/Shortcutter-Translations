@@ -551,7 +551,7 @@
     <string name="reboot_menu">Menu de Reinicialização</string>
     <string name="total_usage">Mostrar Utilização Total</string>
     <string name="total_usage_sum">Mostrar utilização de dados total ou separada em UP/Download</string>
-    <string name="notif_access">Para bloquear notificações temos que ativar um Servió de Notificações.\\n\\nEsta funcionalidade vai apenas ficar à escuta de notificações do sistema Android com o texto \\\"executada em segundo plano\\\" que serão removidas.\\n\\n Por favor clique em avançar &amp; o Bloqueador de Notificações Shortcutters.</string>
+    <string name="notif_access">Para bloquear notificações temos que ativar um Servió de Notificações.\n\nEsta funcionalidade vai apenas ficar à escuta de notificações do sistema Android com o texto \"executada em segundo plano\" que serão removidas.\n\n Por favor clique em avançar &amp; o Bloqueador de Notificações Shortcutters.</string>
     <string name="left_sum">Definir modo de uma mão para a esquerda</string>
     <string name="wake_show_notif">Notificação ao Ligar Ecrã</string>
     <string name="bonus_features">Funções Bónus</string>
@@ -762,36 +762,37 @@
     <string name="vol_panel_ring_as_default">Volume de Toque por Defeito</string>
     <string name="block_power_locked_sum">Bloquear o painel de ligar/desligar do sistema quando o aparelho estiver bloqueado.</string>
     <string name="col_slide_colour">Cor do Controle</string>
-    <string name="blacklist">Exclude Applications</string>
-    <string name="edit_widgets">Edit Widgets</string>
-    <string name="widget_not_enabled">Widget not active on home screen.</string>
-    <string name="accessibility_description">Accessibility access allows shortcutter to perform the following actions/tasks:
-        \n\n\u2022 Detect Volume Key Press.
-        \n\u2022 Toggle Split Screen
-        \n\u2022 Toggle Recent Apps
+    <string name="blacklist">Exclusões de Aplicativos</string>
+    <string name="edit_widgets">Editar Widgets</string>
+    <string name="widget_not_enabled">Widget não ativo na tela inicial.</string>
+    <string name="accessibility_description">O acesso à acessibilidade permite que o atalho execute as seguintes ações/tarefas:
+        \n\n\u2022 Detectar Tecla de Volume Prima.
+        \n\u2022 Tela dividida alternada
+        \2022 Toggle Recent Apps
         \n\u2022 Show Power Menu
-        \n\u2022 Expand Notifications &amp; Quick Settings
-        \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
-        \n\n The only packages monitored are:
-        \n\u2022 Settings
-        \n\u2022 Package Installer
-        \n\n Key Presses:
-        \n\u2022 Vol +/- keys press detection.
-        \n\u2022 No other keys are captured.
-        \n - Only observed when volume panel override is enabled.</string>
-    <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
-    <string name="volume_intercept">Accessibility Service Required.
-        \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
-        \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
-    <string name="tether_hot">Tethering &amp; Hotspot</string>
-    <string name="link_to_settings">A direct link to the Settings Activity</string>
-    <string name="pressure">Pressure:</string>
-    <string name="wind_speed">Wind Speed:&#160;</string>
-    <string name="long_press_drag">Long press and hold rhe trigger to change the vertical position.</string>
-    <string name="floating_controls">Show Floating Controls</string>
-    <string name="vol_timeout">Panel Timeout</string>
-    <string name="additional_opts">Additional Options</string>
-    <string name="pill_trigger">Pill Style Trigger</string>
+        \n\u2022 Expandir Notificações &amp; Configurações Rápidas
+        \n\u2022 Detect Activities - Necessário para Screen Filter &amp; Screen Corners, estes serviços serão interrompidos quando os aplicativos estão sendo instalados &amp; permissões estão sendo concedidas.
+        \Os únicos pacotes monitorados são:
+        Configurações do \n\u2022
+        \Instalador de Pacotes 2022
+        \"Key Presses":
+        \2022 Vol +/- teclas de detecção de pressão.
+        \2022 Nenhuma outra tecla é capturada.
+        \n - Apenas observado quando o cancelamento do painel de volume está ativado.</string>
+    <string name="acc_needed_long">\Clique em Prosseguir &amp; vá até Atalho para ativar o serviço.</string>
+    <string name="volume_intercept">Serviço de Acessibilidade Necessário.
+        \n\nShortcutter só pode detectar pressionamentos de teclas de volume com o uso de Serviços de Acessibilidade.
+        \n\nPor favor, clique em prosseguir e habilite o serviço para substituir o painel de volume do sistema.\n</string>
+    <string name="tether_hot">Tether &amp; Hotspot</string>
+    <string name="link_to_settings">Uma ligação direta à atividade Configurações</string>
+    <string name="pressure">Pressão:</string>
+    <string name="wind_speed">Velocidade do vento:&#160;</string>
+    <string name="long_press_drag">Prima e mantenha premido o gatilho para alterar a posição vertical.</string>
+    <string name="floating_controls">Mostrar controles flutuantes</string>
+    <string name="vol_timeout">Tempo de espera do painel</string>
+    <string name="additional_opts">Opções adicionais</string>
+    <string name="pill_trigger">Gatilho estilo pílula</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
+    <string name="cust_colours">Custom Colours Defined</string>
 </resources>

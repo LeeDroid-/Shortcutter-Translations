@@ -612,7 +612,7 @@
     <string name="ok">Ok</string>
     <string name="notification_blocker">Blokowanie Powiadomień</string>
     <string name="notification_blocker_sum">Ukryj powiadomienia działające w tle na pasku w Oreo</string>
-    <string name="notif_access">Aby zablokować powiadomienia, musimy włączyć Nasłuchiwanie Powiadomień.\\n\\nNasłuchiwacz będzie nasłuchiwał tylko powiadomień z systemu Android, wszelkie powiadomienia zawierające \\\"działające w tle \\\"zostaną usunięte.\\n\\n Kliknij Kontynuuj aby włączyć  Shortcutters Blokowanie Powiadomień.</string>
+    <string name="notif_access">Aby zablokować powiadomienia, musimy włączyć Nasłuchiwanie Powiadomień.\n\nNasłuchiwacz będzie nasłuchiwał tylko powiadomień z systemu Android, wszelkie powiadomienia zawierające \"działające w tle \"zostaną usunięte.\n\n Kliknij Kontynuuj aby włączyć  Shortcutters Blokowanie Powiadomień.</string>
     <string name="confirmation_dialog">Pokaż informację Potwierdzającą</string>
     <string name="reboot_menu">Menu Restartu</string>
     <string name="total_usage">Pokaż Całe Użycie</string>
@@ -819,42 +819,43 @@
         \n- Wyświetla liczbę aktywnych powiadomień.
         \n\nJedyne informacje skanowane przez Shortcutter to nazwa paczki, żadna treść powiadomienia nie jest przechowywana.</string>
     <string name="left">Pozycja po Lewej</string>
-    <string name="latest">Please make sure you are on the latest version of the app.</string>
-    <string name="block_power_locked_sum">Block the system power dialog when device is locked</string>
-    <string name="block_power_locked_title">Secure Power Menu</string>
-    <string name="col_slide_colour">Slider Colour</string>
-    <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
-    <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
-    <string name="blacklist">Exclude Applications</string>
-    <string name="edit_widgets">Edit Widgets</string>
-    <string name="widget_not_enabled">Widget not active on home screen.</string>
-    <string name="accessibility_description">Accessibility access allows shortcutter to perform the following actions/tasks:
-        \n\n\u2022 Detect Volume Key Press.
-        \n\u2022 Toggle Split Screen
-        \n\u2022 Toggle Recent Apps
-        \n\u2022 Show Power Menu
-        \n\u2022 Expand Notifications &amp; Quick Settings
-        \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
-        \n\n The only packages monitored are:
+    <string name="latest">Upewnij się, że jesteś na najnowszej wersji aplikacji.</string>
+    <string name="block_power_locked_sum">Blokuj okno dialogowe zasilania systemu, gdy urządzenie jest zablokowane.</string>
+    <string name="block_power_locked_title">Bezpieczne menu zasilania</string>
+    <string name="col_slide_colour">Kolor suwaka</string>
+    <string name="vol_panel_ring_as_default">Objętość pierścienia jako wartość domyślna</string>
+    <string name="vol_panel_ring_as_default_sum">Control Ring zamiast Media, gdy nic nie jest odtwarzane.</string>
+    <string name="blacklist">Wykluczyć wnioski</string>
+    <string name="edit_widgets">Edytuj Widżety</string>
+    <string name="widget_not_enabled">Widżet nieaktywny na ekranie głównym.</string>
+    <string name="accessibility_description">Dostępność pozwala Shortcutterowi na wykonywanie następujących czynności/zadań:
+        \n\n\u2022 Wykrywanie klawisza głośności Naciskanie.
+        \n\u2022 Przełączanie podziału ekranu
+        \n\u2022 Toggle Ostatnie aplikacje
+        \n\u2022 Pokaż menu zasilania
+        \n\u2022 Rozwiń powiadomienia &amp; Szybkie ustawienia
+        \n\u2022 Detect Activities - wymagane dla Screen Filter &amp; Screen Corners, te usługi zostaną zatrzymane, gdy aplikacje są instalowane &amp; pozwolenia są przyznawane.
+        \n\n Monitorowane są tylko pakiety:
         \n\u2022 Settings
         \n\u2022 Package Installer
-        \n\n Key Presses:
-        \n\u2022 Vol +/- keys press detection.
-        \n\u2022 No other keys are captured.
-        \n - Only observed when volume panel override is enabled.</string>
-    <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
-    <string name="volume_intercept">Accessibility Service Required.
-        \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
-        \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
+        \n\n Naciski klawiszy:
+        \n\u2022 Wykrywanie naciśnięcia klawiszy Vol +/-.
+        \n\u2022 Żadne inne klucze nie są przechwycone.
+        \n - Obserwuje się tylko wtedy, gdy włączona jest regulacja głośności panelu.</string>
+    <string name="acc_needed_long">\nKliknij kontynuuj &amp; przejdź do skrótu Shortcutter, aby włączyć usługę.\n</string>
+    <string name="volume_intercept">Wymagana usługa dostępności.
+        \n\nSkrótowiec może wykrywać tylko naciśnięcia klawiszy głośności przy użyciu usług dostępności.
+        \n\nProszę kliknąć Kontynuuj i włącz usługę, aby zastąpić panel głośności systemu.\n</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
-    <string name="link_to_settings">A direct link to the Settings Activity</string>
-    <string name="pressure">Pressure:</string>
-    <string name="wind_speed">Wind Speed:&#160;</string>
-    <string name="long_press_drag">Long press and hold rhe trigger to change the vertical position.</string>
-    <string name="floating_controls">Show Floating Controls</string>
-    <string name="vol_timeout">Panel Timeout</string>
-    <string name="additional_opts">Additional Options</string>
-    <string name="pill_trigger">Pill Style Trigger</string>
+    <string name="link_to_settings">Bezpośrednie łącze do działania ustawień</string>
+    <string name="pressure">Ciśnienie:</string>
+    <string name="wind_speed">Prędkość wiatru:&#160;</string>
+    <string name="long_press_drag">Długie naciśnięcie i przytrzymanie spustu powoduje zmianę pozycji pionowej..</string>
+    <string name="floating_controls">Pokaż pływające elementy sterujące</string>
+    <string name="vol_timeout">Timeout dla panelu</string>
+    <string name="additional_opts">Dodatkowe opcje</string>
+    <string name="pill_trigger">Styl pigułki Wyzwalacz </string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
+    <string name="cust_colours">Custom Colours Defined</string>
 </resources>

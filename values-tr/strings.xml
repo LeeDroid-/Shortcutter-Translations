@@ -850,4 +850,5 @@
     <string name="pill_trigger">Hap Stili Tetik</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
+    <string name="cust_colours">Custom Colours Defined</string>
 </resources>
