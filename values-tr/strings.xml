@@ -245,7 +245,7 @@
     <string name="nfctilesum">NFC\'yi açar/kapatır</string>
     <string name="app_open">Bu uygulama hiçbir sekme veya hizmet kullanılmadan önce çalıştırılmalıdır
         \n\nLütfen açıklamalara dikkat edin</string>
-    <string name="alert">Shortcutter Uyarı</string>
+    <string name="alert">Shortcutter Uyarısı</string>
     <string name="go_premium">Premium Satın Alın</string>
     <string name="another_purchase">Daha çok destek vermek isteyen kullanıcılar, her iki satın alma seçeneğini de kullanabilirler.</string>
     <string name="datausage">Veri 
@@ -850,6 +850,7 @@
     <string name="pill_trigger">Hap Stili Tetik</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
-    <string name="cust_colours">Custom Colours Defined</string>
-    <string name="start_collapsed">Start Collapsed</string>
+    <string name="cust_colours">Özel Renkler Tanımlandı</string>
+    <string name="start_collapsed">Daraltılmış Başlat</string>
+    <string name="show_alarm">Alarm Panelini Göster</string
 </resources>
