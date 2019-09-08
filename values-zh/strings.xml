@@ -850,4 +850,5 @@
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
     <string name="cust_colours">Custom Colours Defined</string>
+    <string name="start_collapsed">Start Collapsed</string>
 </resources>

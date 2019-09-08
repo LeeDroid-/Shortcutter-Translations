@@ -645,10 +645,17 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv7.5.3:
+        \n\nv7.5.5:
+        \n\u2022 Add option to start volume Panel collapsed.
         \n\u2022 Improve colour accuracy of sidebar items.
         \n\u2022 Fully customisable Volume Panel colours.
+        \n\u2022 Layout adjustments.
+        \n\u2022 Fix refreshing custom tiles on assignment change.
         \n\u2022 Performance improvements.
+        \n\u2022 Fix standalone key validity with other licences.
+        \n\u2022 Fix minimise button in sidebar header.
+        \n\u2022 Correct vol panel timeout text.
+        \n\u2022 Fix disabling floating recorder controls.
         \n\nv7.5.2:
         \n\u2022 Make sidebar header transparent.
         \n\u2022 Translation Updates.
@@ -1194,4 +1201,5 @@
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
     <string name="cust_colours">Custom Colours Defined</string>
+    <string name="start_collapsed">Start Collapsed</string>
 </resources>
