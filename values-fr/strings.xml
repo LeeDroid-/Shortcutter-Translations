@@ -645,10 +645,7 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
-        \n\nv7.5.7:
-        \n\u2022 Make volume intercept free.
-        \n\u2022 Make vol panel custom colours premium.
-        \n\u2022 Add option to hide alarm in vol panel.
+        \n\nv7.5.5:
         \n\u2022 Add option to start volume Panel collapsed.
         \n\u2022 Improve colour accuracy of sidebar items.
         \n\u2022 Fully customisable Volume Panel colours.

@@ -677,7 +677,6 @@
     <string name="edit">Edytuj</string>
     <string name="notifs_off">Powiadomienia Shortcutter są wyłączone. Kliknij tutaj, aby przejść do ustawień i ponownie je włączyć.</string>
     <string name="click_anim">Kliknij Animację</string>
-    <string name="backup_restore">Kopia/Przywracanie</string>
     <string name="restore">Przywróć Ustawienia</string>
     <string name="backup">Kopia Ustawień</string>
     <string name="last_backup">Ostatnia Kopia:</string>
@@ -843,9 +842,6 @@
         \n\u2022 Żadne inne klucze nie są przechwycone.
         \n - Obserwuje się tylko wtedy, gdy włączona jest regulacja głośności panelu.</string>
     <string name="acc_needed_long">\nKliknij kontynuuj &amp; przejdź do skrótu Shortcutter, aby włączyć usługę.\n</string>
-    <string name="volume_intercept">Wymagana usługa dostępności.
-        \n\nSkrótowiec może wykrywać tylko naciśnięcia klawiszy głośności przy użyciu usług dostępności.
-        \n\nProszę kliknąć Kontynuuj i włącz usługę, aby zastąpić panel głośności systemu.\n</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
     <string name="link_to_settings">Bezpośrednie łącze do działania ustawień</string>
     <string name="pressure">Ciśnienie:</string>
@@ -859,4 +855,5 @@
     <string name="mph">Mph</string>
     <string name="cust_colours">Zdefiniuj Własny Kolor</string>
     <string name="start_collapsed">Start Zwijania</string>
+        <string name="show_alarm">Show Alarm Panel</string>
 </resources>

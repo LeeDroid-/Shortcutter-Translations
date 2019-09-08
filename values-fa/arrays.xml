@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cust_tile_choice">
+        <item>برنامه</item>
+        <item>عملکرد (پیشرفته)</item>
+        <item>میانبر</item>
+        <item>لینک اینترنتی</item>
+        <item>شماره‌گیری مستقیم</item>
+        <item>ارسال پیام مستقیم</item>
+    </string-array>
+    <string-array name="cust_tile_choice_root">
+        <item>برنامه</item>
+        <item>عملکرد (پیشرفته)</item>
+        <item>میانبر</item>
+        <item>لینک اینترنتی</item>
+        <item>شماره‌گیری مستقیم</item>
+        <item>ارسال پیام مستقیم</item>
+        <item>دستور شل</item>
+    </string-array>
+    <string-array name="immersive_mode_entries">
+        <item>پنهان‌سازی کامل</item>
+        <item>پنهان‌سازی نوار وضعیت</item>
+        <item>پنهان‌سازی نوار ناوبری</item>
+        <item>نمایش انتخابگر حالت</item>
+        <item>پیشفرض برنامه</item>
+    </string-array>
+    <string-array name="location_mode_entries">
+        <item>خاموش</item>
+        <item>فقط دستگاه</item>
+        <item>ذخیره نیرو</item>
+        <item>دقت زیاد</item>
+    </string-array>
+    <string-array name="ring_mode_entries">
+        <item>بی‌صدا</item>
+        <item>لرزش</item>
+        <item>زنگ تماس</item>
+    </string-array>
+    <string-array name="sb_pos_entries">
+        <item>راست</item>
+        <item>چپ</item>
+        <item>پایین</item>
+    </string-array>
+    <string-array name="sidebar_tmb_entries">
+        <item>بالا</item>
+        <item>مرکز</item>
+        <item>پایین</item>
+    </string-array>
+</resources>
