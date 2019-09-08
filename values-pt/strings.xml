@@ -611,7 +611,6 @@
     <string name="edit">Editar</string>
     <string name="notifs_off">Notificações Shortcutter estão desativadas. Clique aqui para ir para as definições para as reativar.</string>
     <string name="click_anim">Animação de Clique</string>
-    <string name="backup_restore">Cópia de Segurança</string>
     <string name="restore">Recuperar Definições</string>
     <string name="backup">Guardar Definições</string>
     <string name="last_backup">Última cópia de segurança:</string>
@@ -780,9 +779,6 @@
         \2022 Nenhuma outra tecla é capturada.
         \n - Apenas observado quando o cancelamento do painel de volume está ativado.</string>
     <string name="acc_needed_long">\Clique em Prosseguir &amp; vá até Atalho para ativar o serviço.</string>
-    <string name="volume_intercept">Serviço de Acessibilidade Necessário.
-        \n\nShortcutter só pode detectar pressionamentos de teclas de volume com o uso de Serviços de Acessibilidade.
-        \n\nPor favor, clique em prosseguir e habilite o serviço para substituir o painel de volume do sistema.\n</string>
     <string name="tether_hot">Tether &amp; Hotspot</string>
     <string name="link_to_settings">Uma ligação direta à atividade Configurações</string>
     <string name="pressure">Pressão:</string>
@@ -794,6 +790,7 @@
     <string name="pill_trigger">Gatilho estilo pílula</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
-    <string name="cust_colours">Custom Colours Defined</string>
-    <string name="start_collapsed">Start Collapsed</string>
+    <string name="cust_colours">Cores Personalizadas Definidas</string>
+    <string name="start_collapsed">Start zminimalizowany</string>
+    <string name="show_alarm">Mostrar painel de alarme</string>
 </resources>

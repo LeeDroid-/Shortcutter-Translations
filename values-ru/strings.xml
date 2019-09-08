@@ -676,7 +676,6 @@
     <string name="edit">Правка</string>
     <string name="notifs_off">Shortcutter уведомления будут отключены.  Нажмите здесь, чтобы перейти в настройки и повторно включить их.</string>
     <string name="click_anim">Нажмите кнопку анимации</string>
-    <string name="backup_restore">Резервное копирование и восстановление</string>
     <string name="restore">Восстановить параметры</string>
     <string name="backup">Параметры резервного копирования</string>
     <string name="last_backup">Последнее резервное копирование:</string>
@@ -845,9 +844,6 @@
         \n\u2022 Другие ключи не снимаются.
         \n - Наблюдается только при включенной функции переопределения панели громкости.</string>
     <string name="acc_needed_long">\n Нажмите кнопку Continue &amp; перейдите в раздел Shortcutter, чтобы включить эту службу. \n</string>
-    <string name="volume_intercept">Требуется доступная услуга.
-        \n\nShortcutter распознавать нажатия клавиш регулировки громкости можно только с помощью сервиса Accessibility Services.
-        \n\nPlease нажмите кнопку Далее и включите функцию переопределения системной панели громкости. \n</string>
     <string name="tether_hot">Трос &amp; Точка доступа</string>
     <string name="link_to_settings">Прямая ссылка на раздел "Настройки".</string>
     <string name="pressure">Давление:</string>
@@ -859,6 +855,7 @@
     <string name="pill_trigger">Запуск таблеток Стиля</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
-    <string name="cust_colours">Custom Colours Defined</string>
-    <string name="start_collapsed">Start Collapsed</string>
+    <string name="cust_colours">Пользовательские цвета пользователем</string>
+    <string name="start_collapsed">Начать сведено к минимуму</string>
+    <string name="show_alarm">Показать панель сигнализации</string>
 </resources>

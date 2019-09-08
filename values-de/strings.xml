@@ -671,7 +671,6 @@
     <string name="edit">Bearbeiten</string>
     <string name="notifs_off">Shortcutter Benachrichtigungen sind deaktiviert. Klicke hier, um zu den Einstellungen zu gelangen und diese wieder zu aktivieren.</string>
     <string name="click_anim">Klicke Animation</string>
-    <string name="backup_restore">Sichern / Wiederherstellen</string>
     <string name="restore">Wiederherstellungseinstellungen</string>
     <string name="backup">Sicherungseinstellungen</string>
     <string name="last_backup">Letzte Sicherung:</string>
@@ -838,9 +837,6 @@
         \n\u2022 Es werden keine weiteren Tasten erfasst.
         \n - Beobachten nur, wenn die Übersteuerung des Lautstärkepegels aktiviert ist.</string>
     <string name="acc_needed_long">\nKlicke weiter &amp; gehe zu Shortcutter, um den Dienst zu aktivieren.\n</string>
-    <string name="volume_intercept">Barrierefreiheit Service erforderlich.
-        \n\nShortcutter kann nur Volumen-Tastendrücke mit Hilfe von Barrierefreiheit Services erkennen.
-        \n\nBitte klicke auf weiter und aktiviere den Dienst, um das System-Lautstärke-Panel zu überschreiben.\n</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
     <string name="link_to_settings">Ein direkter Link zur Einstellungsaktivität</string>
     <string name="pressure">Druck:</string>
@@ -852,6 +848,7 @@
     <string name="pill_trigger">Pillenart Trigger</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
-    <string name="cust_colours">Custom Colours Defined</string>
-    <string name="start_collapsed">Start Collapsed</string>
+    <string name="cust_colours">Customized colors defined</string>
+    <string name="start_collapsed">Start komprimiert</string>
+    <string name="show_alarm">Alarmtafel anzeigen</string>
 </resources>

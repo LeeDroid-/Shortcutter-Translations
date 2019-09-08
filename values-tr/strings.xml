@@ -669,7 +669,6 @@
     <string name="edit">Düzenle</string>
     <string name="notifs_off">Shortcutter bildirimleri devre dışı bırakıldı.  Ayarlar\'a gidip yeniden etkinleştirmek için buraya tıklayın.</string>
     <string name="click_anim">Tıklama Animasyonu</string>
-    <string name="backup_restore">Yedekle/Geri Yükle</string>
     <string name="restore">Ayarları Geri Yükle</string>
     <string name="backup">Ayarları Yedekle</string>
     <string name="last_backup">Son yedek:</string>
@@ -836,9 +835,6 @@
         \n\u2022 Başka hiçbir tuş yakalanmaz.
         \n - Sadece ses panelini geçersiz kılma etkin olduğunda gözlemlenir.</string>
     <string name="acc_needed_long">\nDevam et\'i tıklayın &amp; hizmeti etkinleştirmek için Shortcutter\'a gidin.\n</string>
-    <string name="volume_intercept">Erişilebilirlik Hizmeti Gerekli.
-        \n\nShortcutter, Erişilebilirlik Hizmetleri kullanımıyla yalnızca ses tuşlarına basmayı algılayabilir.
-        \n\nSistem ses panelini geçersiz kılmak için lütfen devam et\'e tıklayın ve hizmeti etkinleştirin.\n</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
     <string name="link_to_settings">Ayarlar Etkinliğine doğrudan bağlantı</string>
     <string name="pressure">Basınç:</string>

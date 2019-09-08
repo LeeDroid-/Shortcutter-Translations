@@ -668,7 +668,6 @@
     <string name="edit">编辑</string>
     <string name="notifs_off">Shortcutter 通知已停用。 点击此处前往设置并重新启用。</string>
     <string name="click_anim">点按动画</string>
-    <string name="backup_restore">备份/还原</string>
     <string name="restore">还原设置</string>
     <string name="backup">备份设置</string>
     <string name="last_backup">上次备份:</string>
@@ -835,9 +834,6 @@
         \n\u2022 No other keys are captured.
         \n - Only observed when volume panel override is enabled.</string>
     <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
-    <string name="volume_intercept">Accessibility Service Required.
-        \n\nShortcutter can only detect volume key presses with the use of Accessibility Services.
-        \n\nPlease click proceed and enable the service to override the system volume panel.\n</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
     <string name="link_to_settings">A direct link to the Settings Activity</string>
     <string name="pressure">Pressure:</string>
@@ -851,4 +847,5 @@
     <string name="mph">Mph</string>
     <string name="cust_colours">Custom Colours Defined</string>
     <string name="start_collapsed">Start Collapsed</string>
+    <string name="show_alarm">Show Alarm Panel</string>
 </resources>

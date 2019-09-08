@@ -855,5 +855,5 @@
     <string name="mph">Mph</string>
     <string name="cust_colours">Zdefiniuj Własny Kolor</string>
     <string name="start_collapsed">Start Zwijania</string>
-        <string name="show_alarm">Show Alarm Panel</string>
+    <string name="show_alarm">Pokaż panel alarmowy</string>
 </resources>

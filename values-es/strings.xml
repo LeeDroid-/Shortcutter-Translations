@@ -504,7 +504,7 @@
     <string name="hotspot_tile">Puntos WiFi</string>
     <string name="to_be_toggled">Elige entradas para Activar/Desactivar</string>
     <string name="swipe_out_close">Desliza a un lado para cerrar</string>
-    <string name="obscure_back">Oscurecer fondo al desplegar panel y colapsar al presionar fuera del panel o a un botón del mismo.</string>
+    <string name="obscure_back">Oscurecer fondo al desplegar panel y contraer al presionar fuera del panel o a un botón del mismo.</string>
     <string name="system_toggle_summary">Sujeto a compatibilidad del SO y el fabricante</string>
     <string name="experimental_settings">Características experimentales</string>
     <string name="sys_setting_tiles">Usa las fichas de los ajustes rápidos para ajustes del sistema</string>
@@ -687,7 +687,6 @@
     <string name="edit">Editar</string>
     <string name="notifs_off">Las notificaciones de Shortcutter están deshabilitadas. Presiona aquí para ir a la configuración y volver a habilitarlas.</string>
     <string name="click_anim">Animación al pulsar</string>
-    <string name="backup_restore">Copia de seguridad/restauración</string>
     <string name="restore">Restaurar ajustes</string>
     <string name="backup">Copia de seguridad</string>
     <string name="last_backup">Última copia de seguridad:</string>
@@ -835,9 +834,6 @@
         \n\u2022 No se registran otras teclas.
         \n - Sólo se observará cuando el control del panel de volumen esté activado.</string>
     <string name="acc_needed_long">\nPresionar en Continuar y habilitar el servicio para dar acceso.\n</string>
-    <string name="volume_intercept">Necesitas servicios de accesibilidad.
-        \n\nCon los servicios de accesibilidad, Shortcutter sólo puede detectar cuando se presiona la tecla de volumen.
-        \n\nPresiona en Continuar y habilita el servicio para anular el panel de volumen del sistema.\n</string>
     <string name="tether_hot">Zona Wi-Fi/Conexión compartida</string>
     <string name="link_to_settings">Acceso directo a los Ajustes</string>
     <string name="pressure">Presión:</string>
@@ -847,8 +843,9 @@
     <string name="vol_timeout">Tiempo de espera del panel</string>
     <string name="additional_opts">Opciones Adicionales</string>
     <string name="pill_trigger">Estilo del Activador</string>
-    <string name="kph">km/h</string>
-    <string name="mph">mph</string>
+    <string name="kph">Km/h</string>
+    <string name="mph">Mph</string>
     <string name="cust_colours">Colores personalizados definidos</string>
-    <string name="start_collapsed">Start Collapsed</string>
+    <string name="start_collapsed">Iniciar contraído</string>
+    <string name="show_alarm">Mostrar panel de alarma</string>
 </resources>
