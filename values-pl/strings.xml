@@ -823,21 +823,21 @@
     <string name="block_power_locked_sum">Blokuj okno dialogowe zasilania systemu, gdy urządzenie jest zablokowane.</string>
     <string name="block_power_locked_title">Bezpieczne menu zasilania</string>
     <string name="col_slide_colour">Kolor suwaka</string>
-    <string name="vol_panel_ring_as_default">Objętość pierścienia jako wartość domyślna</string>
-    <string name="vol_panel_ring_as_default_sum">Control Ring zamiast Media, gdy nic nie jest odtwarzane.</string>
+    <string name="vol_panel_ring_as_default">Domyślna głośność dzwonka</string>
+    <string name="vol_panel_ring_as_default_sum">Pierścień sterujący zamiast multimediów, gdy nic nie jest odtwarzane.</string>
     <string name="blacklist">Wykluczyć wnioski</string>
     <string name="edit_widgets">Edytuj Widżety</string>
     <string name="widget_not_enabled">Widżet nieaktywny na ekranie głównym.</string>
     <string name="accessibility_description">Dostępność pozwala Shortcutterowi na wykonywanie następujących czynności/zadań:
         \n\n\u2022 Wykrywanie klawisza głośności Naciskanie.
         \n\u2022 Przełączanie podziału ekranu
-        \n\u2022 Toggle Ostatnie aplikacje
+        \n\u2022 Przełącz Ostatnie aplikacje
         \n\u2022 Pokaż menu zasilania
         \n\u2022 Rozwiń powiadomienia &amp; Szybkie ustawienia
-        \n\u2022 Detect Activities - wymagane dla Screen Filter &amp; Screen Corners, te usługi zostaną zatrzymane, gdy aplikacje są instalowane &amp; pozwolenia są przyznawane.
+        \n\u2022 Wykrywanie Aktywności - wymagane dla Filtera Ekranu &amp; Narożników Ekranu, te usługi zostaną zatrzymane, gdy aplikacje są instalowane &amp; pozwolenia są przyznawane.
         \n\n Monitorowane są tylko pakiety:
-        \n\u2022 Settings
-        \n\u2022 Package Installer
+        \n\u2022 Ustawienia
+        \n\u2022 Instalator Pakietów
         \n\n Naciski klawiszy:
         \n\u2022 Wykrywanie naciśnięcia klawiszy Vol +/-.
         \n\u2022 Żadne inne klucze nie są przechwycone.
@@ -852,11 +852,11 @@
     <string name="wind_speed">Prędkość wiatru:&#160;</string>
     <string name="long_press_drag">Długie naciśnięcie i przytrzymanie spustu powoduje zmianę pozycji pionowej..</string>
     <string name="floating_controls">Pokaż pływające elementy sterujące</string>
-    <string name="vol_timeout">Timeout dla panelu</string>
+    <string name="vol_timeout">Limit czasu panela</string>
     <string name="additional_opts">Dodatkowe opcje</string>
-    <string name="pill_trigger">Styl pigułki Wyzwalacz </string>
+    <string name="pill_trigger">Styl taletki Wyzwalacza </string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
-    <string name="cust_colours">Custom Colours Defined</string>
-    <string name="start_collapsed">Start Collapsed</string>
+    <string name="cust_colours">Zdefiniuj Własny Kolor</string>
+    <string name="start_collapsed">Start Zwijania</string>
 </resources>
