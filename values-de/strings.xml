@@ -369,7 +369,7 @@
     <string name="data_roaming">Datenroaming</string>
     <string name="dataroam_summary">Schalte Datenroaming</string>
     <string name="quick_tiles_title">Ändere die Zahl der Kacheln in eingeklappter Statusleiste</string>
-    <string name="manufact_depend">Passe die Zahl der angezeigten QS-Kacheln im eingeklappten Pull-Down Menü an.
+    <string name="manufact_depend">Passe die Zahl der angezeigten QS-Kacheln im eingeklappten Pull-Down-Menü an.
         \nDiese Anpassung ist herstellerabhängig.</string>
     <string name="sidebar">Sidebar oder schwebender Werkzeugkasten</string>
     <string name="sidebar_summary">Wähle zwischen der ausfahrbaren Sidebar oder dem schwebenden Werkzeugkasten.</string>
@@ -407,8 +407,8 @@
     <string name="corners_active">Bildschirmecken aktiviert</string>
     <string name="misc_cat">Zeigt Start-Schalter an</string>
     <string name="misc_tiles_cat">Verschiedene Kachel Einstellungen</string>
-    <string name="fancy_anim">Pull-Down Animation überschneiden</string>
-    <string name="fancy_summary">Aktiviere / Deaktiviere die überschneidende Darstellung des Pull-Down Menüs (Nicht mit allen Geräten kompatibel)</string>
+    <string name="fancy_anim">Pull-Down-Menü Animation überschneiden</string>
+    <string name="fancy_summary">Aktiviere / Deaktiviere die überschneidende Darstellung des Pull-Down-Menüs (Nicht mit allen Geräten kompatibel)</string>
     <string name="system_toggles">Systemeinstellungskacheln</string>
     <string name="action_toggles">Aktionskacheln</string>
     <string name="info_toggles">Informationskacheln</string>
@@ -511,7 +511,7 @@
     <string name="hide_tb_labels">Beschriftungen verbergen</string>
     <string name="icon_picker">Symbol Auswahl</string>
     <string name="manage_tiles">Kachelverwaltung</string>
-    <string name="enable_tiles">Aktiviere / Deaktiviere QS-Kacheln im Pull-Down Menü</string>
+    <string name="enable_tiles">Aktiviere / Deaktiviere QS-Kacheln im Pull-Down-Menü</string>
     <string name="qs_tiles">Pull-Down</string>
     <string name="custom_tiles">Benutzerdef. Kacheln</string>
     <string name="sb_tb_settings">Sidebar / Werkzeugkasten Einstellungen</string>
@@ -537,8 +537,8 @@
     <string name="choose_activity">Wähle Aktivität</string>
     <string name="exp_notif">Erweitert Benachr.</string>
     <string name="quick_settings">Erweitert QS</string>
-    <string name="exp_notif_sum">Erweitert die Pull-Down Benachrichtigungen</string>
-    <string name="qs_sum">Erweitert die Pull-Down Quick Settings</string>
+    <string name="exp_notif_sum">Erweitert die Pull-Down-Menü Benachrichtigungen</string>
+    <string name="qs_sum">Erweitert die Pull-Down-Menü Quick-Settings</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bt_summary">Aktiviere / Deaktiviere Bluetooth</string>
     <string name="went_wrong">Etwas ist schief gelaufen. Bitte versuche es erneut. Wenn dieses Problem weiterhin besteht, kontaktiere mich bitte und teile mir deine Gerätedetails mit.</string>
@@ -634,7 +634,7 @@
     <string name="notif_log">Benachrichtigungsprotokoll</string>
     <string name="notif_log_sum">Öffnet das Systembenachrichtigungsprotokoll</string>
     <string name="quick_reminder">Schnelle Erinnerung</string>
-    <string name="quick_reminder_sum">Fügt dem Pulldown-Menü eine angeheftete Benachrichtigungserinnerung hinzu.</string>
+    <string name="quick_reminder_sum">Fügt dem Pull-Down-Menü eine angeheftete Benachrichtigungserinnerung hinzu.</string>
     <string name="dismiss">verwerfen</string>
     <string name="newRem">Neue Erinnerung</string>
     <string name="sticky">Haftnotiz</string>
@@ -646,8 +646,8 @@
     <string name="data_speed_total">Datengeschwindigkeit - Gesamtnutzung</string>
     <string name="data_speed_total_sum">Zeigt die Gesamtdatennutzung seitdem letzten Start an.</string>
     <string name="vert_pos">Aktuelle Position %s</string>
-    <string name="remind_max">Erinnerung (400 Max)</string>
-    <string name="tile_max">Titel (32 Max)</string>
+    <string name="remind_max">Erinnerung (400 max)</string>
+    <string name="tile_max">Titel (32 max)</string>
     <string name="not_in_db">Nicht in den Einstellungen DB</string>
     <string name="immersive_full">Vollbildmodus</string>
     <string name="hide_statusbar">Statusleiste ausblenden</string>
@@ -655,9 +655,9 @@
     <string name="per_app_immersive">Vollbildmodus pro App</string>
     <string name="mob_since_boot">Mobile Daten seit Start:</string>
     <string name="icon_back_tint">Symbolhintergrund Färbung/Filter</string>
-    <string name="padding">Füllung:</string>
+    <string name="padding">Füllgröße:</string>
     <string name="icon_spacing">Horizontaler Abstand</string>
-    <string name="vertical_spacing">Verticaler Abstand</string>
+    <string name="vertical_spacing">Vertikaler Abstand</string>
     <string name="random_colour">Zufällige Farbe</string>
     <string name="performance_warn">Hinzufügen von zu vielen Kacheln kann zu Leistungsproblemen führen.</string>
     <string name="without_acc">Ohne Shortcutter Eingabedienste werden Sicherheitsschaltflächen durch Überlagerung geblockt.</string>
@@ -681,32 +681,32 @@
     <string name="q_calendar">Schneller Kalendereintrag</string>
     <string name="q_calendar_sum">Ein Kalender Popup mit Hinzufügen- und Anzeigeoptionen, die mit dem Systemkalender verknüpft sind.</string>
     <string name="overlay_serv">Overlay-Dienste</string>
-    <string name="overlay_serv_sum">Diese Dienste verwenden System-Overlays, sie können einige Anwendungen und Berechtigungsbildschirme stören.</string>
+    <string name="overlay_serv_sum">Diese Dienste verwenden Systemüberlagerungen, die einige Anwendungen und Berechtigungsbildschirme stören können.</string>
     <string name="airplane_mode">Flugzeug-Modus</string>
     <string name="storage_tile">Geräte-Speicherung</string>
     <string name="storage_sum">Zeigt den verfügbaren internen Speicher an (ohne Systemreservierung).</string>
     <string name="edit_widget">Bearbeiten Widget</string>
-    <string name="icon_picker_sum">Ändern Sie das Aussehen der Sidebar &amp; seine Symbole.</string>
+    <string name="icon_picker_sum">Ändere das Aussehen der Sidebar &amp; deren Symbole.</string>
     <string name="how_it_works1">Shortcutter bietet verschiedene Optionen, um auf eine Reihe von Verknüpfungen, Einstellungen &amp; Dienste in einem Augenblick zuzugreifen.</string>
-    <string name="how_it_works2"><u> Über Ihre Schnell-Einstellungen Pull-Down </u>
+    <string name="how_it_works2"><u>Über deine Schnelleinstellungen zum Pull-Down-Menü.</u>
         \n
-        \n\u2022 Addieren Sie bis zu 95 zusätzliche Quick Settings Tiles!
+        \n\u2022 Addiere bis zu 95 zusätzliche Quick Settings Tiles!
         \n\u2022 Zugriff auf Abkürzungen, Umschalter, Tools &amp; Services von Ihrem Pull-Down-Panel.</string>
     <string name="how_it_works3"><u>Der Shortcutter Sidebar/Floating Toolbox</u>
         \n
         Immer oben und zugänglich.
-        Wählen Sie zwischen einem SideBar oder einem Floating Toolbox.
+        Wähle zwischen einem SideBar oder einer Floating Toolbox.
         Öffne es mit einem Schlag oder einer Berührung des Abzuges.
         Vollständig anpassbares Layout, Position und Design.
         Bis zu 106 verschiedene Abkürzungen, Umschalter, Tools &amp; Services!</string>
     <string name="how_it_works4"><u>Launcher Abkürzungen </u>
         \n
         \n\u2022 Expose schaltet Ihre App-Schublade und den Startbildschirm um und ermöglicht die Zuordnung zu HTC Edge Sense, Second Displays, Tasker &amp; vieles mehr!
-        Fügen Sie bis zu 67 Startbildschirmverknüpfungen hinzu.</string>
+        Füge bis zu 67 Startbildschirmverknüpfungen hinzu.</string>
     <string name="how_it_works4oreo"><u>Launcher Abkürzungen </u>
         \n
         \n\u2022 Expose schaltet Ihre App-Schublade und den Startbildschirm um und ermöglicht die Zuordnung zu HTC Edge Sense, Second Displays, Tasker &amp; vieles mehr!
-        Fügen Sie bis zu 32 Startbildschirmverknüpfungen hinzu.</string>
+        Füge bis zu 32 Startbildschirmverknüpfungen hinzu.</string>
     <string name="active_sum">Markiere Kacheln, die keinen aktiven/inaktiven Zustand haben, als aktiv.</string>
     <string name="active_state_title">Zustandslose Kacheln hervorheben</string>
     <string name="experimental_warn">Dies ist eine experimentelle Einstellung, falls negative Effekte auftreten, schalte diesen Schalter bitte wieder in den vorherigen Zustand zurück.</string>
@@ -729,23 +729,23 @@
     <string name="apm_root_req">Shortcutter APM benötigt Root-Zugriff</string>
     <string name="auto_with_root">Automatisch gewährt mit ROOT</string>
     <string name="unread_count">Ungelesene Benachrichtigungen:</string>
-    <string name="loading_activities">Aktivitäten laden....</string>
+    <string name="loading_activities">Aktivitäten laden...</string>
     <string name="tiles">Fliesen =</string>
-    <string name="loading_apps">Anwendungen laden....</string>
+    <string name="loading_apps">Anwendungen laden...</string>
     <string name="text_shadow">Textschatten</string>
     <string name="sel_unsel">Alle auswählen/entmarkieren</string>
     <string name="reset">Zurücksetzen</string>
     <string name="mono">Mono-Audio</string>
     <string name="mono_summary">Umschalten des Headsets von Stereo auf Mono-Audio</string>
     <string name="sidebar_tile">Seitenleiste Quick Tile</string>
-    <string name="sidebar_tile_sum">Fügen Sie eine Kachel zum Aktivieren/Deaktivieren der Sidebar zu Ihrem Quick Settings Pulldown hinzu.</string>
+    <string name="sidebar_tile_sum">Füge eine Kachel zum Aktivieren/Deaktivieren der Sidebar im Quick-Settings Pull-Down-Menü hinzu.</string>
     <string name="dark_widget">Shortcutter Dark Widget</string>
     <string name="light_widget">Shortcutter Light Widget</string>
-    <string name="no_access">Shortcutter scheint keinen Zugriff auf den gewählten Speicherort zu haben, bitte wählen Sie einen neuen aus.</string>
-    <string name="lp_drag">Lange drücken Sie &amp; ziehen, dann klicken Sie auf eine beliebige Kachel, um den Bearbeitungsmodus zu verlassen.</string>
+    <string name="no_access">Shortcutter scheint keinen Zugriff auf den gewählten Speicherort zu haben, bitte wähle einen neuen aus.</string>
+    <string name="lp_drag">Lange drücken &amp; ziehen, dann klicke auf eine beliebige Kachel, um den Bearbeitungsmodus zu verlassen.</string>
     <string name="additionaloptions">Zusätzliche Entsperroptionen</string>
-    <string name="locked_sum">Pull-Down QS Fliesen vibrieren lange, wenn das Gerät verriegelt ist.</string>
-    <string name="locked_tiles">Lock Pull-Down-Fliesen</string>
+    <string name="locked_sum">Pull-Down-Menü QS-Kacheln vibrieren lange, wenn das Gerät verriegelt ist.</string>
+    <string name="locked_tiles">Lock Pull-Down-Kacheln</string>
     <string name="rename">Umbenennen</string>
     <string name="new_label">Neues Etikett eingeben</string>
     <string name="glob_settings">Globale Einstellungen</string>
@@ -753,10 +753,10 @@
     <string name="go_to_settings">Jetzt handeln</string>
     <string name="launcher">Launcher</string>
     <string name="add_home_icon">Automatisches Hinzufügen zum Startbildschirm.</string>
-    <string name="add_home_icon_sum">Fügen Sie dem Startbildschirm sowie der App-Schublade ein Symbol hinzu.</string>
-    <string name="sc_opt">Der Shortcutter wird vom System optimiert.  Klicken Sie hier für weitere Informationen.</string>
+    <string name="add_home_icon_sum">Füge dem Startbildschirm sowie der App-Schublade ein Symbol hinzu.</string>
+    <string name="sc_opt">Der Shortcutter wird vom System optimiert. Klicke hier für weitere Informationen.</string>
     <string name="shortcutter_notification">Shortcutter-Benachrichtigungskanal</string>
-    <string name="ore_shorts">Klicken Sie hier, um nur Oreo Dynamic State Launcher Shortcuts zu installieren.</string>
+    <string name="ore_shorts">Klicke hier, um nur Oreo Dynamic State Launcher Shortcuts zu installieren.</string>
     <string name="pinned_shorts">Angeheftete Shortcuts.</string>
     <string name="back">Zurück</string>
     <string name="home_sum">Erstellt die Home-Taste</string>
@@ -781,7 +781,7 @@
     <string name="screen_off">Stop On Screen Off</string>
     <string name="screen_off_sum">Stoppt die Bildschirmaufnahme automatisch, wenn der Bildschirm ausgeschaltet wird.</string>
     <string name="sb_pos_title">Position der Seitenleiste</string>
-    <string name="sb_pos_sum">Positionieren Sie die Seitenleiste nach rechts, links oder unten.</string>
+    <string name="sb_pos_sum">Positioniere die Seitenleiste nach rechts, links oder unten.</string>
     <string name="trigger_pos">Links/Rechts</string>
     <string name="rest_services">Dienste neu starten</string>
     <string name="padding_12">Polsterung: 12</string>
@@ -841,14 +841,14 @@
     <string name="link_to_settings">Ein direkter Link zur Einstellungsaktivität</string>
     <string name="pressure">Druck:</string>
     <string name="wind_speed">Windgeschwindigkeit:&#160;</string>
-    <string name="long_press_drag">Halten Sie den Auslöser lange gedrückt, um die vertikale Position zu ändern.</string>
+    <string name="long_press_drag">Halte den Auslöser lange gedrückt, um die vertikale Position zu ändern.</string>
     <string name="floating_controls">Schwimmende Kontrollen anzeigen</string>
     <string name="vol_timeout">Panel-Timeout</string>
     <string name="additional_opts">Zusätzliche Optionen</string>
     <string name="pill_trigger">Pillenart Trigger</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
-    <string name="cust_colours">Customized colors defined</string>
-    <string name="start_collapsed">Start komprimiert</string>
+    <string name="cust_colours">Benutzerdefinierte Farben</string>
+    <string name="start_collapsed">Start abgebrochen</string>
     <string name="show_alarm">Alarmtafel anzeigen</string>
 </resources>
