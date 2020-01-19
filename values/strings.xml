@@ -645,6 +645,16 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
+        \n\nv7.6.4:
+        \n\u2022 Move Volume Panel to standalone app.
+        \n\u2022 Fix floating calculator toggle.
+        \n\u2022 Support library updates.
+        \n\u2022 Bug fixes.
+        \n\nv7.6.2:
+        \n\u2022 Fix accessibility crash.
+        \n\u2022 Fix Vol Panel firing in lock screen.
+        \n\u2022 Fix disable accessibility in Manage Perms.
+        \n\u2022 Fix vol panel not always responding to key events.
         \n\nv7.5.9:
         \n\u2022 Show BT icon in vol panel if connected.
         \n\u2022 Make volume intercept free.
@@ -1153,9 +1163,7 @@
         \n\u2022 App Launcher
         \n\u2022 Additional in-app configuration options
         \n  &amp; Remove the 60 tile click notification</string>
-    <string name="override_volume">Override System Volume Panel</string>
     <string name="sys_vol">System Panel</string>
-    <string name="left">Position Left</string>
     <string name="notification_listener">Notification Listener</string>
     <string name="notif_list">Services requiring notification access:
         \n\n* Volume Panel\n- Detect casting active.
@@ -1166,15 +1174,11 @@
         \n\nVery little notification information scanned by Shortcutter &amp; no notification content is stored.</string>
     <string name="block_power_locked_title">Secure Power Menu</string>
     <string name="block_power_locked_sum">Block the system power dialog when device is locked</string>
-    <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
-    <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
     <string name="latest">Please make sure you are on the latest version of the app.</string>
-    <string name="col_slide_colour">Slider Colour</string>
     <string name="blacklist">Exclude Applications</string>
     <string name="edit_widgets">Edit Widgets</string>
     <string name="widget_not_enabled">Widget not active on home screen.</string>
     <string name="accessibility_description">Accessibility access allows shortcutter to perform the following actions/tasks:
-        \n\n\u2022 Detect Volume Key Press.
         \n\u2022 Toggle Split Screen
         \n\u2022 Toggle Recent Apps
         \n\u2022 Show Power Menu
@@ -1182,11 +1186,7 @@
         \n\u2022 Detect Activities - Required for Screen Filter &amp; Screen Corners, these services will be stopped when apps are being installed &amp; permissions are being granted.
         \n\n The only packages monitored are:
         \n\u2022 Settings
-        \n\u2022 Package Installer
-        \n\n Key Presses:
-        \n\u2022 Vol +/- keys press detection.
-        \n\u2022 No other keys are captured.
-        \n - Only observed when volume panel override is enabled.</string>
+        \n\u2022 Package Installer</string>
     <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
     <string name="OPEN_WEATHER_MAP_API_KEY" translatable="false">6b6ef671e2673ad9eef3c323fabf73c3</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
@@ -1200,7 +1200,12 @@
     <string name="vol_timeout">Panel Timeout</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
-    <string name="cust_colours">Custom Colours Defined</string>
-    <string name="start_collapsed">Start Collapsed</string>
-    <string name="show_alarm">Show Alarm Panel</string>
+    <string name="plugin_required">Plugin Required</string>
+    <string name="vol_plugin_go">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.
+        \n \n Volume Panel Free can be downloaded via Google Play using the below buttons, no advertising will show for existing Shortcutter premium users.</string>
+    <string name="vol_plugin_go_pro">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.
+        \n \n Volume Panel can be downloaded via Google Play using the below buttons.</string>
+    <string name="get_pro">Get Plugin</string>
+    <string name="get_ads">Add Supported</string>
+    <string name="position_locked">Position Locked</string>
 </resources>

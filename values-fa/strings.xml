@@ -138,7 +138,6 @@
     <string name="clipboard_sin">حافظه موقت:</string>
     <string name="close">بستن</string>
     <string name="close_app">پاک‌سازی خطا</string>
-    <string name="col_slide_colour">رنگ نوار</string>
     <string name="conf_sb">پیکربندی نوار عمودی و میان‌برهای آن</string>
     <string name="conf_sel">تائید انتخاب</string>
     <string name="config_serv">تنظیمات</string>
@@ -307,7 +306,6 @@
     <string name="launch_act">مجری فعالیت</string>
     <string name="launcher">مجری</string>
     <string name="launcher_shorts">اجرا کننده میانبرها و آیکون‌ها</string>
-    <string name="left">موقعیت چپ</string>
     <string name="left_hand_mode">حالت یک دستی - چپ</string>
     <string name="left_position">موقعیت فعلی چپ</string>
     <string name="left_sum">تنظیم حالت یک دستی به چپ</string>
@@ -403,7 +401,6 @@
     <string name="orientation_mode">چرخش صفحه نمایش</string>
     <string name="overlay_required">مجوز پوشش بروی نمایشگر سیستم مورد نیاز است</string>
     <string name="overlay_serv">خدمات پوشش بروی نمایشگر سیستم</string>
-    <string name="override_volume">بازنویس بروی پنل حجم‌صدا سیستم</string>
     <string name="pause">توقف‌موقت موسیقی</string>
     <string name="per_app_immersive">تمام صفحه</string>
     <string name="performance_warn">افزودن تعداد زیاد کاشی ممکن است باعث مشکلات عملکرد شود</string>
@@ -611,8 +608,6 @@ Small"</string>
     <string name="voicesearch_sum">اجرای دستیار گوگل</string>
     <string name="volDown">حجم‌صدا -</string>
     <string name="volUp">حجم‌صدا +</string>
-    <string name="vol_panel_ring_as_default">پیشفرض به حجم‌صدای زنگ</string>
-    <string name="vol_panel_ring_as_default_sum">کنترل شدت زنگ تماس بجای رسانه‌ها هنگامیکه رسانه‌ای در حال پخش نباشد</string>
     <string name="vol_timeout">زمان توقف پنل</string>
     <string name="volumeui">"حجم‌صدا
 پنل"</string>
@@ -757,7 +752,8 @@ Small"</string>
     <string name="how_it_works1">Shortcutter offers a number of different options to access an array of shortcuts, settings &amp; services in an instant.</string>
     <string name="also_standalone">"  Alternatively you can purchase this as a more enhanced standalone app from the play store. "</string>
     <string name="all_prices_subject_to_tax_vat">"          Purchasing a Shortcutter unlock key will permanently unlock all app features.  And the best news is, it costs less than a cup of coffee!"</string>
-    <string name="cust_colours">Custom Colours Defined</string>
-    <string name="start_collapsed">Start Collapsed</string>
-    <string name="show_alarm">Show Alarm Panel</string>
+    <string name="get_pro">Get Pro</string>
+    <string name="vpn">VPN</string>
+    <string name="wifi_call">Wi-Fi Calling</string>
+    <string name="position_locked">Position Locked</string>
 </resources>
