@@ -316,7 +316,6 @@
     <string name="manufact_depend">Personaliza  o número de Mosaicos CR mostrados na vista compacta.\nEsta modificação depende do fabricante.</string>
     <string name="sidebar">BarraLateral/Caixa de Ferramentas Flutuante</string>
     <string name="sidebar_summary">Alterna Entre BarraLateral Deslizante e Caixa de Ferramentas Flutuante.</string>
-    <string name="sidebar_pos">Posição de Deteção Horizontal</string>
     <string name="right">Posição Direita Atual</string>
     <string name="left_position">Posição Esquerda Atual</string>
     <string name="tb_background">Selecionar Cor da BarraLateral/Caixa de Ferramentas</string>
@@ -336,7 +335,6 @@
     <string name="tb_columns_title">Colunas da Caixa de Ferramentas</string>
     <string name="tb_columns_summary">Atual = %s colunas</string>
     <string name="sb_columns_title">Colunas da BarraLateral</string>
-    <string name="design_settings">Tema/Layout</string>
     <string name="corners_summary">Usa uma sobreposição para criar a ilusão de canto do ecrã arredondados</string>
     <string name="corners_title">Mosaico Cantos Arredondados</string>
     <string name="corners__scale_title">Escala de Contos</string>
@@ -434,7 +432,6 @@
     <string name="system_actions">Mosaicos de alterar/ativar ações de sistema</string>
     <string name="info_tiles_sum">Mosaicos com informações úteis de sistema</string>
     <string name="sc_service_sum"><![CDATA[Serviços & funções oferecidas por Shortcutter]]></string>
-    <string name="cust_sb">Personalizar o aspeto &amp; comportamento da BarraLateral ou Caixa de Ferramentas</string>
     <string name="behaviour">Mudar o comportamento dos Mosaicos</string>
     <string name="perms_now">Permissões necessárias para mosaicos &amp; funções específicas</string>
     <string name="forceEnglish">Force English</string>
@@ -622,7 +619,6 @@
     <string name="q_calendar_sum">Um Calendário em  popup com opções de criação e visualização ligadas ao calendário do sistema.</string>
     <string name="overlay_serv">Serviços de Sobreposição</string>
     <string name="overlay_serv_sum">Estes serviços usam sobreposições do sistema, podem interferir com algumas aplicações e ecrãs de permissões.</string>
-    <string name="icon_picker_sum">Mudar o aspeto da barra lateral &amp; dos seus Ícones.</string>
     <string name="airplane_mode">Modo de Avião</string>
     <string name="storage_tile">Armazenamento</string>
     <string name="storage_sum">Mostra espaço no armazenamento interno (Exclui espaço reservado pelo sistema)</string>
@@ -736,7 +732,6 @@
     <string name="dev_summary">Abre Opções de Programador se estiverem activadas.</string>
     <string name="open">Abrir</string>
     <string name="built_vol_ui_sum">Painel Personalizado Shortcutter</string>
-    <string name="override_volume">Substituir Painel de Volume do Sistema</string>
     <string name="prem_ben">\nCompre Shortcutter Premium para desbloquear as segintes funcionalidades:
     \n\n\u2022 Todos os Mosaicos Personalizados      
     \n\u2022 Gravação &amp; Captura de ecrã 
@@ -754,13 +749,9 @@
         \n* Luz Noturna/Relógio de Secretária (Quando Ativo)
         \n- mostra o número de notificações ativas.
         \n\nA única informação recolhida por Shortcutter é o nome da aplicação, o conteúdo da notificação não é guardado.</string>
-    <string name="left">Posicionar à Esquerda</string>
     <string name="latest">Por favor confirme que tem instalada a versão mais recente da aplicação.</string>
     <string name="block_power_locked_title">Menu Ligar/Desligar Seguro</string>
-    <string name="vol_panel_ring_as_default_sum">Controlar volume de Toque em vez de Média quando não está nada a tocar.</string>
-    <string name="vol_panel_ring_as_default">Volume de Toque por Defeito</string>
     <string name="block_power_locked_sum">Bloquear o painel de ligar/desligar do sistema quando o aparelho estiver bloqueado.</string>
-    <string name="col_slide_colour">Cor do Controle</string>
     <string name="blacklist">Exclusões de Aplicativos</string>
     <string name="edit_widgets">Editar Widgets</string>
     <string name="widget_not_enabled">Widget não ativo na tela inicial.</string>
@@ -790,7 +781,10 @@
     <string name="pill_trigger">Gatilho estilo pílula</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
-    <string name="cust_colours">Cores Personalizadas Definidas</string>
-    <string name="start_collapsed">Start zminimalizowany</string>
-    <string name="show_alarm">Mostrar painel de alarme</string>
+    <string name="get_pro">Get Pro</string>
+    <string name="position_locked">Position Locked</string>
+    <string name="get_ads">Ad Supported</string>
+    <string name="vol_plugin_go_pro">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
+    <string name="vol_plugin_go">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
+    <string name="plugin_required">Plugin Required</string>
 </resources>

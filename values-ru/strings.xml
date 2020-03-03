@@ -161,7 +161,6 @@
     <string name="current_shot"> Установлено значение %1$d сек.</string>
     <string name="currently">Установлено значение %1$d ш.</string>
     <string name="cust_app_pref">Плитки, которые вы можете назначить приложениям, действиям, ярлыкам, Веб-ссылкам и Команды оболочки (ROOT).</string>
-    <string name="cust_sb">Настройте внешний вид, чувствовать amp; поведение боковой панели или панели инструментов</string>
     <string name="custom_app_tiles">Пользовательские плитки</string>
     <string name="custom_tiles">Пользовательские плитки</string>
     <string name="data_cycle_reset">Цикл использования данных</string>
@@ -177,7 +176,6 @@
     <string name="datausage">"Мобильные данные"</string>
     <string name="defaultsize">Шрифт по умолчанию</string>
     <string name="delete">Удалить</string>
-    <string name="design_settings">Темы и Поведение</string>
     <string name="deskmode">Часы</string>
     <string name="detect_touch">Нажатие и Прокрутка Тригеров</string>
     <string name="detected">Обнаружено</string>
@@ -484,7 +482,6 @@
     <string name="show_toggle">Показать Переключатель</string>
     <string name="show_touches">Показать нажатия</string>
     <string name="sidebar">Боковая или плавающая панель инструментов</string>
-    <string name="sidebar_pos">Горизонтальное положение триггера</string>
     <string name="sidebar_summary">Выберите между боковой панелью Swipe Out или Floating Toolbox.</string>
     <string name="sideber_tmb_title">Вертикальное положение триггера</string>
     <string name="silent">Без Звука</string>
@@ -687,7 +684,6 @@
     <string name="q_calendar_sum">Всплывающее окно Календаря с параметрами добавления и просмотра, связанными с вашим системным календарем.</string>
     <string name="overlay_serv">Служба Наложения</string>
     <string name="overlay_serv_sum">Эта служба используют системный оверлей, они могут вмешиваться в некоторые приложения и разрешения экранов.</string>
-    <string name="icon_picker_sum">Изменить вид боковой панели и его иконки.</string>
     <string name="airplane_mode">Режим полета</string>
     <string name="storage_tile">Устройство хранения</string>
     <string name="storage_sum">Показывает доступную внутреннюю память (исключая систему)</string>
@@ -800,7 +796,6 @@
     <string name="dev_summary">Открывает опции разработчика, если включена.</string>
     <string name="open">Открыть</string>
     <string name="built_vol_ui_sum">Пользовательская панель ярлыков</string>
-    <string name="override_volume">Переопределить панель системных томов</string>
     <string name="prem_ben">\nПокупка Shortcutter Premium разблокирует следующие функции:
              \n\n\u2022 Все пользовательские плитки
 	     \n\u2022 Запись экрана и захват         
@@ -819,13 +814,9 @@
         \n* Night Light/Desk Clock (Ночной свет/Деск часы) (если активен)
         \n- отображение счетчика активных уведомлений.
         \n\nThe Только информация, отсканированная профилем, является пакетом name\, уведомления не сохраняются.</string>
-    <string name="left">Положение Слева</string>
     <string name="latest">Пожалуйста, убедитесь, что вы находитесь на последней версии приложения.</string>
     <string name="block_power_locked_sum">Блокировка диалогового окна питания системы при заблокированном устройстве</string>
     <string name="block_power_locked_title">Меню безопасности питания</string>
-    <string name="col_slide_colour">Цвет ползунка</string>
-    <string name="vol_panel_ring_as_default_sum">Контрольное кольцо вместо Медиа, когда ничего не воспроизводится.</string>
-    <string name="vol_panel_ring_as_default">По умолчанию для громкости звонка</string>
     <string name="blacklist">Исключить приложения</string>
     <string name="edit_widgets">Редактирование виджетов</string>
     <string name="widget_not_enabled">Виджет не активен на главном экране.</string>
@@ -855,7 +846,10 @@
     <string name="pill_trigger">Запуск таблеток Стиля</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
-    <string name="cust_colours">Пользовательские цвета пользователем</string>
-    <string name="start_collapsed">Начать сведено к минимуму</string>
-    <string name="show_alarm">Показать панель сигнализации</string>
+    <string name="get_pro">Get Pro</string>
+    <string name="position_locked">Position Locked</string>
+    <string name="get_ads">Ad Supported</string>
+    <string name="vol_plugin_go">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
+    <string name="plugin_required">Plugin Required</string>
+    <string name="vol_plugin_go_pro">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
 </resources>

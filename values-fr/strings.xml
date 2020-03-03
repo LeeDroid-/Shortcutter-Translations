@@ -387,7 +387,6 @@
         \nThis MOD is manufacturer dependent.</string>
     <string name="sidebar">Sidebar or Floating Toolbox</string>
     <string name="sidebar_summary">Choose between the Swipe Out Sidebar or Floating Toolbox.</string>
-    <string name="sidebar_pos">Sidebar Left/Right</string>
     <string name="right">Current Position Right</string>
     <string name="left_position">Current Position Left</string>
     <string name="tb_background">Background Colour</string>
@@ -409,7 +408,6 @@
     <string name="sb_rows_summary">Current = %s Rows</string>
     <string name="sb_rows_title">Sidebar Rows</string>
     <string name="sb_columns_title">Sidebar Columns</string>
-    <string name="design_settings">Behaviour &amp; Settings</string>
     <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
     <string name="corners_title">Rounded Corners</string>
     <string name="corners__scale_title">Screen Corner Scale</string>
@@ -531,7 +529,6 @@
     <string name="sc_service_sum">Services, \"Micro Apps\" &amp; features provided by Shortcutter.</string>
     <string name="cust_app_pref">Assign Applications, Activities, Shortcuts &amp; Web Links.</string>
     <string name="cust_app_pref_root">Assign Applications, Activities, Shortcuts, Web Links &amp; Shell Commands.</string>
-    <string name="cust_sb">Customise the behaviour of the Sidebar/Toolbox &amp; its trigger.</string>
     <string name="behaviour">Change the behaviour &amp; default actions performed by these toggles.</string>
     <string name="perms_now">These permissions will be requested when enabling services that require them.</string>
     <string name="forceEnglish">Force English</string>
@@ -1046,7 +1043,6 @@
     <string name="q_calendar_sum">A Calendar popup with add and view options linked to your system calendar.</string>
     <string name="overlay_serv">Overlay Services</string>
     <string name="overlay_serv_sum">These services use system overlays, they may interfere with some applications and permissions screens. I have done all i can to auto disable them when secure activities are present.</string>
-    <string name="icon_picker_sum">Change the look of the sidebar &amp; its icons.</string>
     <string name="airplane_mode">Airplane Mode</string>
     <string name="storage_tile">Device Storage</string>
     <string name="storage_sum">Shows available internal storage (Excludes system reserved)</string>
@@ -1149,9 +1145,7 @@
         \n\u2022 App Launcher
         \n\u2022 Additional in-app configuration options
         \n  &amp; Remove the 60 tile click notification</string>
-    <string name="override_volume">Override System Volume Panel</string>
     <string name="sys_vol">System Panel</string>
-    <string name="left">Position Left</string>
     <string name="notification_listener">Notification Listener</string>
     <string name="notif_list">Services requiring notification access:
         \n\n* Volume Panel\n- Detect casting active.
@@ -1162,10 +1156,7 @@
         \n\nVery little notification information scanned by Shortcutter &amp; no notification content is stored.</string>
     <string name="block_power_locked_title">Secure Power Menu</string>
     <string name="block_power_locked_sum">Block the system power dialog when device is locked</string>
-    <string name="vol_panel_ring_as_default">Default To Ring Volume</string>
-    <string name="vol_panel_ring_as_default_sum">Control Ring instead of Media when nothing playing.</string>
     <string name="latest">Please make sure you are on the latest version of the app.</string>
-    <string name="col_slide_colour">Slider Colour</string>
     <string name="blacklist">Exclude Applications</string>
     <string name="edit_widgets">Edit Widgets</string>
     <string name="widget_not_enabled">Widget not active on home screen.</string>
@@ -1196,7 +1187,10 @@
     <string name="vol_timeout">Panel Timeout</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
-    <string name="cust_colours">Custom Colours Defined</string>
-    <string name="start_collapsed">Start Collapsed</string>
-    <string name="show_alarm">Show Alarm Panel</string>
+    <string name="get_pro">Get Pro</string>
+    <string name="position_locked">Position Locked</string>
+    <string name="get_ads">Ad Supported</string>
+    <string name="vol_plugin_go">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
+    <string name="vol_plugin_go_pro">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
+    <string name="plugin_required">Plugin Required</string>
 </resources>

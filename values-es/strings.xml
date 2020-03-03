@@ -372,7 +372,6 @@
         \nEste modo depende del fabricante.</string>
     <string name="sidebar">Barra lateral o caja de herramientas flotante</string>
     <string name="sidebar_summary">Elige entre una barra lateral o una caja de herramientas flotante.</string>
-    <string name="sidebar_pos">Posición lateral barra</string>
     <string name="right">Posición actual derecha</string>
     <string name="left_position">Posición actual izquierda</string>
     <string name="tb_background">Color de fondo</string>
@@ -392,7 +391,6 @@
     <string name="tb_columns_title">Columnas de caja de herramientas</string>
     <string name="tb_columns_summary">Actualmente = %s columnas</string>
     <string name="sb_columns_title">Columnas en barra lateral</string>
-    <string name="design_settings">Tema y comportamiento</string>
     <string name="corners_summary">Usa una interfaz para dar una ilusión de esquinas redondeadas</string>
     <string name="corners_title">Esquinas redondeadas</string>
     <string name="corners__scale_title">Tamaño de la esquina</string>
@@ -513,7 +511,6 @@
     <string name="sc_service_sum">Servicios y características proporcionadas por Shortcutter</string>
     <string name="cust_app_pref">Asignar aplicaciones, actividades, accesos directos y enlaces web</string>
     <string name="cust_app_pref_root">Asignar aplicaciones, actividades, accesos directos, enlaces web y comandos shell.</string>
-    <string name="cust_sb">Personaliza el aspecto y comportamiento de tu barra lateral o caja de herramientas.</string>
     <string name="behaviour">Cambiar el comportamiento y las acciones predeterminadas realizadas por estos botones</string>
     <string name="perms_now">Estos permisos se solicitarán cuando se habiliten los servicios que los requieran, no es necesario que se otorguen de forma explícita.</string>
     <string name="forceEnglish">Forzar inglés</string>
@@ -698,7 +695,6 @@
     <string name="q_calendar_sum">Una ventana emergente del Calendario con opciones de ver y agregar eventos vinculados al calendario de tu sistema.</string>
     <string name="overlay_serv">Servicios de superposición</string>
     <string name="overlay_serv_sum">Estos servicios utilizan superposiciones del sistema, pueden interferir con algunas aplicaciones y permisos de pantallas.</string>
-    <string name="icon_picker_sum">Cambia el aspecto de la barra lateral y sus iconos.</string>
     <string name="airplane_mode">Modo Avión</string>
     <string name="storage_tile">Almacenamiento del dispositivo</string>
     <string name="storage_sum">Muestra el almacenamiento interno disponible (Excluye el sistema reservado)</string>
@@ -793,7 +789,6 @@
     <string name="dev_summary">Abre las opciones de desarrollador si está habilitado.</string>
     <string name="open">Abrir</string>
     <string name="built_vol_ui_sum">Panel personalizado</string>
-    <string name="override_volume">Anular panel de volumen del sistema</string>
     <string name="prem_ben">\nLa compra de Shortcutter Premium desbloqueará las siguientes funciones:
         \n\n \u2022 Más fichas personalizadas
         \n \u2022 Más fichas URL personalizadas
@@ -809,13 +804,9 @@
         \n* Modo Noche/Reloj de Escritorio (Cuando está activo)
         \n- mostrar el recuento de notificaciones activas.
         \n\nLa única información escaneada por Shortcutter es el nombre del paquete, no se almacena ningún contenido de la notificación.</string>
-    <string name="left">Posición izquierda</string>
     <string name="latest">Por favor, asegúrate de tener la última versión de la aplicación.</string>
     <string name="block_power_locked_sum">Bloquear el menú de apagado del sistema cuando el dispositivo esté bloqueado</string>
     <string name="block_power_locked_title">Menú de apagado seguro</string>
-    <string name="vol_panel_ring_as_default">Volumen de timbre predeterminado</string>
-    <string name="col_slide_colour">Color del deslizador</string>
-    <string name="vol_panel_ring_as_default_sum">Controla el volumen del timbre en lugar del volumen multimedia cuando no haya nada reproduciendose.</string>
     <string name="blacklist">Excluir aplicaciones</string>
     <string name="edit_widgets">Editar Widgets</string>
     <string name="widget_not_enabled">El Widget no está activo en la pantalla de inicio.</string>
@@ -845,7 +836,10 @@
     <string name="pill_trigger">Estilo del Activador</string>
     <string name="kph">Km/h</string>
     <string name="mph">Mph</string>
-    <string name="cust_colours">Colores personalizados definidos</string>
-    <string name="start_collapsed">Iniciar contraído</string>
-    <string name="show_alarm">Mostrar panel de alarma</string>
+    <string name="get_pro">Get Pro</string>
+    <string name="position_locked">Position Locked</string>
+    <string name="get_ads">Ad Supported</string>
+    <string name="plugin_required">Plugin Required</string>
+    <string name="vol_plugin_go">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
+    <string name="vol_plugin_go_pro">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
 </resources>

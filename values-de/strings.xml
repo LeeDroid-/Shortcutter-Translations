@@ -373,7 +373,6 @@
         \nDiese Anpassung ist herstellerabhängig.</string>
     <string name="sidebar">Sidebar oder schwebender Werkzeugkasten</string>
     <string name="sidebar_summary">Wähle zwischen der ausfahrbaren Sidebar oder dem schwebenden Werkzeugkasten.</string>
-    <string name="sidebar_pos">Horizontale Position Auslösebalken</string>
     <string name="right">Aktuelle Position Rechts</string>
     <string name="left_position">Aktuelle Position Links</string>
     <string name="tb_background">Wähle Sidebar / Werkzeugkasten Hintergrundfarbe</string>
@@ -393,7 +392,6 @@
     <string name="tb_columns_title">Werkzeugkasten Spalten</string>
     <string name="tb_columns_summary">Aktuell = %s Spalten</string>
     <string name="sb_columns_title">Sidebar Spalten</string>
-    <string name="design_settings">Sidebar / Werkzeugkasten Themen &amp; Verhalten</string>
     <string name="corners_summary">Benutzt eine Überlagerung um die Illusion abgerundeter Bildschirmecken zu erzeugen</string>
     <string name="corners_title">Abgerundete Ecken</string>
     <string name="corners__scale_title">Bilschirmecken Radius</string>
@@ -494,7 +492,6 @@
     <string name="info_tiles_sum">Kacheln &amp; Verlinkungen zu nützlichen Systeminformationen</string>
     <string name="sc_service_sum"><![CDATA[Dienste & Funktionen zur Verfügung gestellt von Shortcutter]]></string>
     <string name="cust_app_pref">Kacheln, denen du Applikationen, Aktivitäten &amp; Shortcuts zuordnen kannst.</string>
-    <string name="cust_sb">Passe das Aussehen, die Bedienbarkeit und das Verhalten der Sidebar oder des Werkzeugkastens an</string>
     <string name="behaviour">Ändere das Verhalten der Kacheln</string>
     <string name="perms_now">Berechtigungen für spezifische Kacheln benötigt &amp; Funktionen</string>
     <string name="forceEnglish">Erzwinge Englisch</string>
@@ -686,7 +683,6 @@
     <string name="storage_tile">Geräte-Speicherung</string>
     <string name="storage_sum">Zeigt den verfügbaren internen Speicher an (ohne Systemreservierung).</string>
     <string name="edit_widget">Bearbeiten Widget</string>
-    <string name="icon_picker_sum">Ändere das Aussehen der Sidebar &amp; deren Symbole.</string>
     <string name="how_it_works1">Shortcutter bietet verschiedene Optionen, um auf eine Reihe von Verknüpfungen, Einstellungen &amp; Dienste in einem Augenblick zuzugreifen.</string>
     <string name="how_it_works2"><u>Über deine Schnelleinstellungen zum Pull-Down-Menü.</u>
         \n
@@ -796,7 +792,6 @@
     <string name="conf_sb"><![CDATA[Konfiguriere die Seitenleiste & ihre Verknüpfungen.]]></string>
     <string name="launcher_shorts"><![CDATA[Launcher Schnelleinstellungen & Symbole]]></string>
     <string name="built_vol_ui_sum">Shortcutter Custom Panel</string>
-    <string name="override_volume">Override System Volume Panel</string>
     <string name="prem_ben">\nPurchasing Shortcutter Premium will unlock the following features:
         \n\n \u2022 Zusätzliche benutzerdef. Kacheln
         \n \u2022 Zusätzliche benutzerdef. URL Kacheln
@@ -812,13 +807,9 @@
         \n* Nachtlicht/Bildschirmuhr (wenn aktiv)
         \n- Nachrichtenzähler aktiver Bildschirm.
         \n\nEinzig untersuchte Information von Shortcutter ist der Paketname, kein Benachrichtigungsinhalt gespeichert.</string>
-    <string name="left">Position links</string>
     <string name="latest">Bitte stelle sicher, dass du die neueste App Version verwendest.</string>
     <string name="block_power_locked_sum">Blockt System Power Dialog, wenn Gerät gesperrt ist.</string>
     <string name="block_power_locked_title">Gesperrtes Neustart Menü</string>
-    <string name="col_slide_colour">Schieberfarbe</string>
-    <string name="vol_panel_ring_as_default">Klingeltonlautstärke auf Standard</string>
-    <string name="vol_panel_ring_as_default_sum">Ändert Klingelton- anstatt Medienlautstärke, wenn nichts abgespielt wird.</string>
     <string name="edit_widgets">Editiere Widgets</string>
     <string name="blacklist">Applikationen ausschließen</string>
     <string name="widget_not_enabled">Widget ist auf dem Startbildschirm nicht aktiv.</string>
@@ -848,7 +839,10 @@
     <string name="pill_trigger">Pillenart Trigger</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
-    <string name="cust_colours">Benutzerdefinierte Farben</string>
-    <string name="start_collapsed">Start abgebrochen</string>
-    <string name="show_alarm">Alarmtafel anzeigen</string>
+    <string name="get_pro">Get Pro</string>
+    <string name="get_ads">Ad Supported</string>
+    <string name="vol_plugin_go">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
+    <string name="vol_plugin_go_pro">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
+    <string name="position_locked">Position Locked</string>
+    <string name="plugin_required">Plugin Required</string>
 </resources>

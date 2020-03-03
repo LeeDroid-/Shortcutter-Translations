@@ -373,7 +373,6 @@
         \nCihaz üreticisi tarafından konulan sayı ile sınırlıdır.</string>
     <string name="sidebar">Yan Menü veya Yüzen Araç Kutusu</string>
     <string name="sidebar_summary">Yan Menü ya da Yüzen Araç Kutusunu Kaydırmak arasında seçim yapın.</string>
-    <string name="sidebar_pos">Yatay Tetikleme Konumu</string>
     <string name="right">Geçerli Konum Sağda</string>
     <string name="left_position">Geçerli Konum Solda</string>
     <string name="tb_background">Arka Plan Rengi</string>
@@ -393,7 +392,6 @@
     <string name="tb_columns_title">Araç Kutusu Sütunları</string>
     <string name="tb_columns_summary">Geçerli sütun sayısı = %s </string>
     <string name="sb_columns_title">Yan Menü Sütunları</string>
-    <string name="design_settings">Tema &amp; Davranış</string>
     <string name="corners_summary">Köşeleri yuvarlatılmış olarak göstermek için köşelere giydirme yapar</string>
     <string name="corners_title">Yuvarlak Köşeler</string>
     <string name="corners__scale_title">Ekran Köşesi Boyutu</string>
@@ -494,7 +492,6 @@
     <string name="info_tiles_sum">Kullanışlı sistem bilgilerine bağlantı sağlayan sekmeler</string>
     <string name="sc_service_sum"><![CDATA[Shortcutter tarafından sunulan Hizmetler & Özellikler]]></string>
     <string name="cust_app_pref">Uygulamalar, Etkinlikler, Kısayollar &amp; Web Bağlantıları &amp; Kabuk Komutlarını (ROOT) atayabileceğiniz sekmeler.</string>
-    <string name="cust_sb">Yan Menü veya Araç Kutusu görünümünü ve davranışını özelleştirin</string>
     <string name="behaviour">Sekmelerin nasıl çalışacağını seçin</string>
     <string name="perms_now">Bunlar, hizmetleri etkinleştirirken istenecektir.</string>
     <string name="forceEnglish">İngilizceye zorla</string>
@@ -680,7 +677,6 @@
     <string name="q_calendar_sum">Sistem takviminize bağlı ekleme ve görüntüleme seçenekleriyle bir açılır takvim.</string>
     <string name="overlay_serv">Yer Paylaşımlı Hizmetler</string>
     <string name="overlay_serv_sum">Bu hizmetler sistem yer paylaşımlarını kullanır, bazı uygulamalara ve izin ekranlarına müdahale edebilir.</string>
-    <string name="icon_picker_sum">Kenar çubuğunun görünümünü &amp; simgelerini değiştirin.</string>
     <string name="airplane_mode">Uçak Modu</string>
     <string name="storage_tile">Cihaz Depolama</string>
     <string name="storage_sum">Kullanılabilir dahili depolama alanını gösterir (Sisteme ayrılan hariç)</string>
@@ -792,7 +788,6 @@
     <string name="dev_summary">Etkinse Geliştirici Seçeneklerini açar.</string>
     <string name="open">Açık</string>
     <string name="built_vol_ui_sum">Shortcutter Özel Paneli</string>
-    <string name="override_volume">Sistem Ses Panelini Geçersiz Kıl</string>
     <string name="sys_vol">Sistem Paneli</string>
     <string name="prem_ben">\nShortcutter Premium\'u satın almak, aşağıdaki özelliklerin kilidini açar:
              \n\n\u2022 Tüm Özel Sekmeler         
@@ -810,13 +805,9 @@
         \n* Gece Lambası/Masa Saati (Aktif Olduğunda)
         \n- aktif bildirim sayısını göster.
         \n\nShortcutter tarafından taranan tek bilgi paket adıdır, bildirim içeriği saklanmaz.</string>
-    <string name="left">Sola Koy</string>
     <string name="block_power_locked_title">Güvenli Güç Menüsü</string>
     <string name="block_power_locked_sum">Cihaz kilitliyken sistem güç penceresini engeller</string>
     <string name="latest">Lütfen uygulamanın son sürümünde olduğunuzdan emin olun.</string>
-    <string name="col_slide_colour">Kaydırıcı Rengi</string>
-    <string name="vol_panel_ring_as_default">Varsayılan Olarak Zil Sesi</string>
-    <string name="vol_panel_ring_as_default_sum">Hiçbir şey çalmıyorken Medya yerine Zil Sesi Kontrol edilir.</string>
     <string name="blacklist">Uygulamaları Hariç Tut</string>
     <string name="edit_widgets">Widget\'ları Düzenle</string>
     <string name="widget_not_enabled">Widget ana ekranda etkin değil.</string>
@@ -846,7 +837,10 @@
     <string name="pill_trigger">Hap Stili Tetik</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
-    <string name="cust_colours">Özel Renkler Tanımlandı</string>
-    <string name="start_collapsed">Daraltılmış Başlat</string>
-    <string name="show_alarm">Alarm Panelini Göster</string
+    <string name="get_pro">Get Pro</string>
+    <string name="position_locked">Position Locked</string>
+    <string name="get_ads">Ad Supported</string>
+    <string name="plugin_required">Plugin Required</string>
+    <string name="vol_plugin_go">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
+    <string name="vol_plugin_go_pro">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
 </resources>

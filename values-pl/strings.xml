@@ -373,7 +373,6 @@
 	    \nTen MOD jest zależny od producenta.</string>
     <string name="sidebar">Użyj Pasek Boczny Shortcutters</string>
     <string name="sidebar_summary">Wybierz pomiędzy Bocznym Paskiem a Pływającym Toolbox</string>
-    <string name="sidebar_pos">Pozycja Paska Bocznego</string>
     <string name="right">Aktualna Pozycja po Prawej</string>
     <string name="left_position">Aktualna Pozycja po Lewej</string>
     <string name="tb_background">Wybierz Kolor Tła Toolbox</string>
@@ -393,7 +392,6 @@
     <string name="tb_columns_title">Kolumny Toolbox</string>
     <string name="tb_columns_summary">Aktualnie = %s kolumny</string>
     <string name="sb_columns_title">Kolumny Paska Bocznego</string>
-    <string name="design_settings">Motyw/Wygląd</string>
 
     <string name="corners_summary">Używa nakładki, aby uzyskać złudzenie zaokrąglonych narożników ekranu</string>
     <string name="corners_title">Zaokrąglone Narożniki</string>
@@ -498,7 +496,6 @@
     <string name="sc_service_sum"><![CDATA[Usługi & funkcje Shortcutter]]></string>
     <string name="cust_app_pref">Płytki, do których można przypisać Aplikacje, Aktywność, Skróty, Linki internetowe &amp; Shell Commands (ROOT).</string>
     <string name="cust_app_pref_root">Przypisywanie aplikacji, działań, skrótów, łączy internetowych i Shell Commands.</string>
-    <string name="cust_sb">Dostosuj wygląd Paska Bocznego lub ToolBoxa</string>
     <string name="behaviour">Zmień zachowanie Płytek</string>
     <string name="perms_now">Wymagane specyficzne ustawienia płytek &amp; funkcji</string>
     <string name="forceEnglish">Wymuś Język Angielski</string>
@@ -688,7 +685,6 @@
     <string name="q_calendar_sum">Wyskakujące okno kalendarza z opcjami dodawania i wyświetlania powiązanymi z kalendarzem systemu.</string>
     <string name="overlay_serv">Nakładka Usug</string>
     <string name="overlay_serv_sum">Te usługi korzystają z nakładek systemowych, mogą zakłócać działanie niektórych aplikacji i uprawnień ekranu.</string>
-    <string name="icon_picker_sum">Zmień wygląd paska bocznego &amp; ikon.</string>
     <string name="airplane_mode">Tryb Samolotowy</string>
     <string name="storage_tile">Pamięć Urządzenia</string>
     <string name="storage_sum">Pokazuje dostępną pamięć wewnętrzną (z wyjątkiem zastrzeżonego systemu)</string>
@@ -801,7 +797,6 @@
     <string name="dev_summary">Otwiera opcje dla programistów, jeśli są włączone.</string>
     <string name="open">Otwarte</string>
     <string name="built_vol_ui_sum">Własny Panel Shortcutter</string>
-    <string name="override_volume">Zastąp Systemowy Panel Głośności</string>
     <string name="prem_ben">\nZakup Premium Shortcutter odblokuje następujące funkcje:
         \n\n \u2022 Wiecej Własnych Płytek Aplikacji
 		\n \u2022 Więcej Własnych Płytek Adresów URL
@@ -817,13 +812,9 @@
         \n* Lampka nocna / zegar na biurko (gdy aktywny)
         \n- Wyświetla liczbę aktywnych powiadomień.
         \n\nJedyne informacje skanowane przez Shortcutter to nazwa paczki, żadna treść powiadomienia nie jest przechowywana.</string>
-    <string name="left">Pozycja po Lewej</string>
     <string name="latest">Upewnij się, że jesteś na najnowszej wersji aplikacji.</string>
     <string name="block_power_locked_sum">Blokuj okno dialogowe zasilania systemu, gdy urządzenie jest zablokowane.</string>
     <string name="block_power_locked_title">Bezpieczne menu zasilania</string>
-    <string name="col_slide_colour">Kolor suwaka</string>
-    <string name="vol_panel_ring_as_default">Domyślna głośność dzwonka</string>
-    <string name="vol_panel_ring_as_default_sum">Pierścień sterujący zamiast multimediów, gdy nic nie jest odtwarzane.</string>
     <string name="blacklist">Wykluczyć wnioski</string>
     <string name="edit_widgets">Edytuj Widżety</string>
     <string name="widget_not_enabled">Widżet nieaktywny na ekranie głównym.</string>
@@ -853,7 +844,10 @@
     <string name="pill_trigger">Styl taletki Wyzwalacza </string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
-    <string name="cust_colours">Zdefiniuj Własny Kolor</string>
-    <string name="start_collapsed">Start Zwijania</string>
-    <string name="show_alarm">Pokaż panel alarmowy</string>
+    <string name="get_pro">Get Pro</string>
+    <string name="position_locked">Position Locked</string>
+    <string name="get_ads">Ad Supported</string>
+    <string name="vol_plugin_go_pro">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
+    <string name="vol_plugin_go">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
+    <string name="plugin_required">Plugin Required</string>
 </resources>

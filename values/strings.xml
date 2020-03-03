@@ -387,7 +387,6 @@
         \nThis MOD is manufacturer dependent.</string>
     <string name="sidebar">Sidebar or Floating Toolbox</string>
     <string name="sidebar_summary">Choose between the Swipe Out Sidebar or Floating Toolbox.</string>
-    <string name="sidebar_pos">Sidebar Left/Right</string>
     <string name="right">Current Position Right</string>
     <string name="left_position">Current Position Left</string>
     <string name="tb_background">Background Colour</string>
@@ -409,7 +408,6 @@
     <string name="sb_rows_summary">Current = %s Rows</string>
     <string name="sb_rows_title">Sidebar Rows</string>
     <string name="sb_columns_title">Sidebar Columns</string>
-    <string name="design_settings">Behaviour &amp; Settings</string>
     <string name="corners_summary">Uses an overlay to give the illusion of rounded screen corners</string>
     <string name="corners_title">Rounded Corners</string>
     <string name="corners__scale_title">Screen Corner Scale</string>
@@ -531,7 +529,6 @@
     <string name="sc_service_sum">Services, \"Micro Apps\" &amp; features provided by Shortcutter.</string>
     <string name="cust_app_pref">Assign Applications, Activities, Shortcuts &amp; Web Links.</string>
     <string name="cust_app_pref_root">Assign Applications, Activities, Shortcuts, Web Links &amp; Shell Commands.</string>
-    <string name="cust_sb">Customise the behaviour of the Sidebar/Toolbox &amp; its trigger.</string>
     <string name="behaviour">Change the behaviour &amp; default actions performed by these toggles.</string>
     <string name="perms_now">These permissions will be requested when enabling services that require them.</string>
     <string name="forceEnglish">Force English</string>
@@ -645,6 +642,27 @@
     <string name="rooted">Your device appears to be rooted!\n\n\Would you like to enable all root features now?</string>
     <string name="change_log_title">Recent Changes</string>
     <string name="change_log" translatable="false">Change Log:
+        \n\nv7.7.2:
+        \n\u2022 Start of app interface overhaul.
+        \n\u2022 Improve layout in Sidebar Designer.
+        \n\nv7.7.1:
+        \n\u2022 Crash fixes.
+        \n\u2022 Theme corrections.
+        \n\u2022 Dark theme as default.
+        \n\u2022 Improved initial trigger position logic.
+        \n\u2022 Fix default trigger tint.
+        \n\u2022 Improve preferences refresh logic.
+        \n\nv7.6.7:
+        \n\u2022 Fix Behaviour &amp; Settings with Floating Toolbox Enabled.
+        \n\u2022 Fix &amp; improve floating trigger sensitivity.
+        \n\u2022 Code optimisations.
+        \n\nv7.6.6:
+        \n\u2022 Make SideBar Trigger position lockable.
+        \n\u2022 Fix RAM tile click - average memory usage.
+        \n\u2022 Fix delay in re-launching apps from custom tiles.
+        \n\u2022 Fix Direct Dial.
+        \n\u2022 Fix Direct Message.
+        \n\u2022 Update sidebar trigger image.
         \n\nv7.6.4:
         \n\u2022 Move Volume Panel to standalone app.
         \n\u2022 Fix floating calculator toggle.
@@ -1060,7 +1078,6 @@
     <string name="q_calendar_sum">A Calendar popup with add and view options linked to your system calendar.</string>
     <string name="overlay_serv">Overlay Services</string>
     <string name="overlay_serv_sum">These services use system overlays, they may interfere with some applications and permissions screens. I have done all i can to auto disable them when secure activities are present.</string>
-    <string name="icon_picker_sum">Change the look of the sidebar &amp; its icons.</string>
     <string name="airplane_mode">Airplane Mode</string>
     <string name="storage_tile">Device Storage</string>
     <string name="storage_sum">Shows available internal storage (Excludes system reserved)</string>
@@ -1187,7 +1204,7 @@
         \n\n The only packages monitored are:
         \n\u2022 Settings
         \n\u2022 Package Installer</string>
-    <string name="acc_needed_long">\nClick proceed &amp; go to Shortcutter to enable the service.\n</string>
+    <string name="acc_needed_long">" Click proceed &amp; go to Shortcutter to enable the service. "</string>
     <string name="OPEN_WEATHER_MAP_API_KEY" translatable="false">6b6ef671e2673ad9eef3c323fabf73c3</string>
     <string name="tether_hot">Tethering &amp; Hotspot</string>
     <string name="link_to_settings">A direct link to the Settings Activity</string>
@@ -1206,6 +1223,6 @@
     <string name="vol_plugin_go_pro">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.
         \n \n Volume Panel can be downloaded via Google Play using the below buttons.</string>
     <string name="get_pro">Get Plugin</string>
-    <string name="get_ads">Add Supported</string>
+    <string name="get_ads">Ad Supported</string>
     <string name="position_locked">Position Locked</string>
 </resources>
