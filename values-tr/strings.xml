@@ -837,10 +837,10 @@
     <string name="pill_trigger">Hap Stili Tetik</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
-    <string name="get_pro">Get Pro</string>
-    <string name="position_locked">Position Locked</string>
-    <string name="get_ads">Ad Supported</string>
-    <string name="plugin_required">Plugin Required</string>
-    <string name="vol_plugin_go">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
-    <string name="vol_plugin_go_pro">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
+    <string name="get_pro">Pro Al</string>
+    <string name="position_locked">Konum Kilitli</string>
+    <string name="get_ads">Reklam Destekli</string>
+    <string name="plugin_required">Eklenti Gerekli</string>
+    <string name="vol_plugin_go">Uygulama belleği sınırlamaları ve potansiyel performans engelleri nedeniyle, bu hizmet çok daha sağlam, esnek ve güvenilir bir bağımsız eklentiye taşındı.</string>
+    <string name="vol_plugin_go_pro">Uygulama belleği sınırlamaları ve potansiyel performans engelleri nedeniyle, bu hizmet çok daha sağlam, esnek ve güvenilir bir bağımsız eklentiye taşındı.</string>
 </resources>
