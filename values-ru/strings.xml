@@ -846,10 +846,10 @@
     <string name="pill_trigger">Запуск таблеток Стиля</string>
     <string name="kph">Kph</string>
     <string name="mph">Mph</string>
-    <string name="get_pro">Get Pro</string>
-    <string name="position_locked">Position Locked</string>
+    <string name="get_pro">Получите Pro</string>
+    <string name="position_locked">Позиция блокировки</string>
     <string name="get_ads">Ad Supported</string>
-    <string name="vol_plugin_go">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
-    <string name="plugin_required">Plugin Required</string>
-    <string name="vol_plugin_go_pro">Due to app memory limitations and potential performance barriers, this service has moved to a much more robust, flexible and reliable standalone plugin.</string>
+    <string name="vol_plugin_go">Из-за ограничений памяти приложений и потенциальных барьеров производительности, эта услуга переместилась на гораздо более надежный, гибкий и надежный автономный плагин.</string>
+    <string name="plugin_required">Требуется Плагин</string>
+    <string name="vol_plugin_go_pro">Из-за ограничений памяти приложений и потенциальных барьеров производительности, эта услуга переместилась на гораздо более надежный, гибкий и надежный автономный плагин.</string>
 </resources>
